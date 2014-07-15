@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 7 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,7 +15,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -259,7 +259,7 @@ Title \[Repealed\]
     
     _social security debt_,---
         
-    *   (a) in relation to New Zealand, means an amount that may be recovered from any person under [section 86][92] of the Social Security Act 1964; and
+    *   (a) in relation to New Zealand, means an amount that is subject to recovery from any person under [section 86(1)][92] (chief executive's duty to recover debt referred to in [section 85A][93]) of the Social Security Act 1964; and
     
     *   (b) in relation to any other country, means an amount that may be recovered from any person---
             
@@ -269,21 +269,23 @@ Title \[Repealed\]
         
         
     
-    (2) Unless the context otherwise requires, expressions defined in [section 3(1)][93] of the Social Security Act 1964 and in [section 2][94] of the War Pensions Act 1954 have in this Act the meanings so defined.
+    (2) Unless the context otherwise requires, expressions defined in [section 3(1)][94] of the Social Security Act 1964 and in [section 2][95] of the War Pensions Act 1954 have in this Act the meanings so defined.
     
-    Section 2: substituted, on 23 November 2000, by [section 4(1)][95] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 2: substituted, on 23 November 2000, by [section 4(1)][96] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    
+    Section 2(1) **social security debt** paragraph (a): amended, on 7 July 2014, by [section 35][97] of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014 (2014 No 21).
 
 ##### 2A Administration of veterans' pensions
     
 *   \[Repealed\]
     
-    Section 2A: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 2A: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 2B Delegation of Secretary's powers
     
 *   \[Repealed\]
     
-    Section 2B: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 2B: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ## Part 1  
 Reciprocity agreements with other countries
@@ -292,98 +294,98 @@ Reciprocity agreements with other countries
 
 \[Repealed\]
     
-*   Part 1 heading: replaced, on 5 December 2013, by [section 7][97] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
-*   Heading: repealed, on 12 October 2001, pursuant to [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+*   Part 1 heading: replaced, on 5 December 2013, by [section 7][99] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Heading: repealed, on 12 October 2001, pursuant to [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 ##### 3 New Zealand superannuation
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+    Section 3: repealed, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 ##### 4 Residential qualification for New Zealand superannuation
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+    Section 4: repealed, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 ##### 5 Commencement of New Zealand superannuation
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+    Section 5: repealed, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 ##### 6 Rates of New Zealand superannuation
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+    Section 6: repealed, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 ##### 7 Persons receiving national superannuation entitled to New Zealand superannuation
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
+    Section 7: repealed, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84). 
 
 #### Transitional retirement benefit
 
 \[Repealed\]
     
-*   Heading: repealed, on 31 March 2004, pursuant to [section 3(3)][99] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
+*   Heading: repealed, on 31 March 2004, pursuant to [section 3(3)][101] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
 
 ##### 7A Transitional retirement benefit
     
 *   \[Repealed\]
     
-    Section 7A: repealed, on 31 March 2004, by [section 3(3)][99] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
+    Section 7A: repealed, on 31 March 2004, by [section 3(3)][101] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
 
 #### Veterans' pensions
 
 \[Repealed\]
     
-*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 8 Entitlement to veteran's pension
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 8: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 9 Medical examination of applicant for veteran's pension
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 9: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 10 Commencement of veteran's pension
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 10: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 11 Rates of veterans' pensions
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 11: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 12 Lump sum payments on death
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 12: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 13 Persons receiving certain pensions or allowance entitled to veteran's pension
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 13: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 13A Annual adjustment of rates of veterans' pensions
     
 *   \[Repealed\]
     
-    Section 13A: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 13A: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 #### Consequential amendments to other Acts
 
@@ -415,21 +417,21 @@ Reciprocity agreements with other countries
     
     (20) _Amendment(s) incorporated in the Act(s)._ 
     
-    Section 14(1): repealed, on 25 July 1990, by [section 2(2)(b)][100] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
+    Section 14(1): repealed, on 25 July 1990, by [section 2(2)(b)][102] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
     
-    Section 14(2): repealed, on 2 October 1994, by [section 3(4)(c)][101] of the Social Security Amendment Act 1994 (1994 No 86).
+    Section 14(2): repealed, on 2 October 1994, by [section 3(4)(c)][103] of the Social Security Amendment Act 1994 (1994 No 86).
     
-    Section 14(3): repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 14(3): repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 14(4): repealed, on 17 September 1997, by [section 6(4)(c)][102] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
+    Section 14(4): repealed, on 17 September 1997, by [section 6(4)(c)][104] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
     
-    Section 14(5): repealed, on 1 August 1991, by [section 16(2)(e)][103] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
+    Section 14(5): repealed, on 1 August 1991, by [section 16(2)(e)][105] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
     
-    Section 14(6): repealed, on 30 June 1993, by [section 10(2)(d)][104] of the Social Security Amendment Act (No 3) 1993 (1993 No 57).
+    Section 14(6): repealed, on 30 June 1993, by [section 10(2)(d)][106] of the Social Security Amendment Act (No 3) 1993 (1993 No 57).
     
-    Section 14(7): repealed, on 1 April 1994, by [section 6(d)][105] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
+    Section 14(7): repealed, on 1 April 1994, by [section 6(d)][107] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
     
-    Section 14(8): repealed, on 1 April 1991, by [section 24(3)(b)][106] of the Social Security Amendment Act 1991 (1991 No 1).
+    Section 14(8): repealed, on 1 April 1991, by [section 24(3)(b)][108] of the Social Security Amendment Act 1991 (1991 No 1).
     
     Section 14(17): repealed, on 1 July 1996, by section 45(1) of the Social Security Amendment Act 1996 (1996 No 20).
     
@@ -457,91 +459,91 @@ Reciprocity agreements with other countries
 
 \[Repealed\]
     
-*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17 Payment overseas of veteran's pension
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17A Effect of absence from New Zealand on veterans' pensions
     
 *   \[Repealed\]
     
-    Section 17A: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17A: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 #### Special portability arrangement with specified Pacific countries
 
 \[Repealed\]
     
-*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17B Specified Pacific country
     
 *   \[Repealed\]
     
-    Section 17B: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17B: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17BA Entitlement to be paid veteran's pension in specified Pacific country
     
 *   \[Repealed\]
     
-    Section 17BA: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17BA: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17C Rates of payment of veteran's pension payable to people resident in Cook Islands, Niue, or Tokelau
     
 *   \[Repealed\]
     
-    Section 17C: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17C: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17D Commencement and termination of payments
     
 *   \[Repealed\]
     
-    Section 17D: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17D: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17E Effect on other benefits
     
 *   \[Repealed\]
     
-    Section 17E: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17E: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 17F Application of this Act and Social Security Act 1964
     
 *   \[Repealed\]
     
-    Section 17F: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 17F: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 #### Other provisions on payment of benefits overseas
 
 \[Repealed\]
     
-*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Heading: repealed, on 15 April 2003, pursuant to [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 18 Certain existing economic pensioners may be paid up to full rate of veteran's pension overseas
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 18: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 18A Living alone payments
     
 *   \[Repealed\]
     
-    Section 18A: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 18A: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ##### 18B Commencement of living alone payments
     
 *   \[Repealed\]
     
-    Section 18B: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 18B: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 #### Reciprocity agreements with other countries
 
 \[Repealed\]
     
-*   Heading: repealed, on 5 December 2013, by [section 8][107] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Heading: repealed, on 5 December 2013, by [section 8][109] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 19 Adoption of reciprocity agreement with other countries
     
@@ -549,7 +551,7 @@ Reciprocity agreements with other countries
         
     *   (a) declare that the provisions contained in any agreement or Convention or alteration thereto set out in a schedule of the Order in Council shall have force and effect so far as they relate to New Zealand:
     
-    *   (b) declare that the provisions of this Act and of the [Social Security Act 1964][108] and [Part 6][109] of the War Pensions Act 1954 and of [Part 1][110] of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
+    *   (b) declare that the provisions of this Act and of the [Social Security Act 1964][110] and [Part 6][111] of the War Pensions Act 1954 and of [Part 1][112] of the New Zealand Superannuation and Retirement Income Act 2001 and of the regulations and orders in force under those Acts shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or Convention or alteration thereto:
     
     *   (c) revoke any previous Order in Council which applied in respect of any such agreement or Convention which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
     
@@ -557,7 +559,7 @@ Reciprocity agreements with other countries
     
     (2A) If an agreement or Convention or alteration to an agreement or Convention contains a provision of the kind referred to in [section 19A(2)][44], no Order in Council in respect of that agreement or Convention or alteration may be made under subsection (1) unless the Privacy Commissioner has first presented a report to the Minister and to the Minister of Justice on the following matters:
         
-    *   (a) whether the provision complies with the privacy principles set out in the [Privacy Act 1993][91], having regard to the matters set out in paragraphs (a) to (f) of [section 98][111] of that Act:
+    *   (a) whether the provision complies with the privacy principles set out in the [Privacy Act 1993][91], having regard to the matters set out in paragraphs (a) to (f) of [section 98][113] of that Act:
     
     *   (b) if the provision is of the kind referred to in [section 19A(2)(b)][44], the adequacy of the privacy protection given in the other country to information about any individual that may be supplied by New Zealand under the provision.
     
@@ -567,15 +569,15 @@ Reciprocity agreements with other countries
     
     (4) _Amendment(s) incorporated in the order(s)._ 
     
-    Section 19(1)(b): amended, on 21 April 2005, by [section 9(1)][112] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 19(1)(b): amended, on 21 April 2005, by [section 9(1)][114] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Section 19(1)(b): amended, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 19(1)(b): amended, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 19(1)(b): amended, on 12 October 2001, by [section 77][98] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84).
+    Section 19(1)(b): amended, on 12 October 2001, by [section 77][100] of the New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84).
     
-    Section 19(2A): inserted, on 23 November 2000, by [section 5][113] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19(2A): inserted, on 23 November 2000, by [section 5][115] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
     
-    Section 19(2B): inserted, on 23 November 2000, by [section 5][113] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19(2B): inserted, on 23 November 2000, by [section 5][115] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
 
 ##### 19A Inclusion of mutual assistance provisions in reciprocity agreement
     
@@ -619,11 +621,11 @@ Reciprocity agreements with other countries
     
     (5) Nothing in [section 19(2A)][43] or this section prevents an agreement containing other provisions for mutual assistance if those provisions are not of the kind referred to in subsection (2).
     
-    Section 19A: inserted, on 23 November 2000, by [section 6][114] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19A: inserted, on 23 November 2000, by [section 6][116] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
     
-    Section 19A(3): amended, on 27 April 2002, by [section 4][115] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19A(3): amended, on 27 April 2002, by [section 4][117] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19A(3): amended, on 27 April 2002, by [section 4][115] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19A(3): amended, on 27 April 2002, by [section 4][117] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ##### 19B Terms and conditions for recovery of social security debts
     
@@ -687,13 +689,13 @@ Reciprocity agreements with other countries
     
     (2) Where any institution, court, or tribunal defers the recovery of a social security debt, or orders or arranges for a social security debt to be paid by instalments, the 5-year period referred to in subsection (1)(a)(iv) is extended by the period of deferral or, as the case requires, the period over which the debt is to be paid by instalments.
     
-    Section 19B: inserted, on 23 November 2000, by [section 6][114] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19B: inserted, on 23 November 2000, by [section 6][116] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
     
-    Section 19B(1)(a)(ii): substituted, on 27 April 2002, by [section 5(1)][116] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19B(1)(a)(ii): substituted, on 27 April 2002, by [section 5(1)][118] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19B(1)(fa): inserted, on 27 April 2002, by [section 5(2)][116] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19B(1)(fa): inserted, on 27 April 2002, by [section 5(2)][118] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19B(1A): inserted, on 27 April 2002, by [section 5(3)][116] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19B(1A): inserted, on 27 April 2002, by [section 5(3)][118] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ##### 19C Terms and conditions for exchange of information for social security purposes
     
@@ -717,11 +719,11 @@ Reciprocity agreements with other countries
         
         *   (ii) limits the supply of information to the types of information specified; and
         
-        *   (iii) subject to subparagraph (iv), in relation to New Zealand, contains, with all necessary modifications, the safeguards required to be set out in an information matching agreement within the meaning of [section 99][117] of the Privacy Act 1993; and
+        *   (iii) subject to subparagraph (iv), in relation to New Zealand, contains, with all necessary modifications, the safeguards required to be set out in an information matching agreement within the meaning of [section 99][119] of the Privacy Act 1993; and
         
-        *   (iv) in relation to New Zealand, requires the information matching rules set out in [clause 4][118] of Schedule 4 of the Privacy Act 1993, with all necessary modifications, to be applied; and
+        *   (iv) in relation to New Zealand, requires the information matching rules set out in [clause 4][120] of Schedule 4 of the Privacy Act 1993, with all necessary modifications, to be applied; and
         
-        *   (v) in relation to New Zealand, has been agreed to by the Privacy Commissioner under the Privacy Act 1993, the Commissioner having had regard to the information matching guidelines in [section 98][111] of that Act:
+        *   (v) in relation to New Zealand, has been agreed to by the Privacy Commissioner under the Privacy Act 1993, the Commissioner having had regard to the information matching guidelines in [section 98][113] of that Act:
         
         
     
@@ -731,11 +733,11 @@ Reciprocity agreements with other countries
     
     *   (g) a party must supply the competent institution of the other party with any information required by that institution to answer any questions or to make any report or return required by a person or body authorised to monitor compliance with that party's privacy laws.
     
-    (2) In relation to New Zealand, [section 99(4)][117] of the Privacy Act 1993 applies, with any necessary modifications, to an agreement between the competent institutions of the parties under subsection (1)(d).
+    (2) In relation to New Zealand, [section 99(4)][119] of the Privacy Act 1993 applies, with any necessary modifications, to an agreement between the competent institutions of the parties under subsection (1)(d).
     
-    Section 19C: inserted, on 23 November 2000, by [section 6][114] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19C: inserted, on 23 November 2000, by [section 6][116] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
     
-    Section 19C(1)(b): substituted, on 27 April 2002, by [section 6][119] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19C(1)(b): substituted, on 27 April 2002, by [section 6][121] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ##### 19D Actions by chief executive under mutual assistance provisions
     
@@ -763,7 +765,7 @@ Reciprocity agreements with other countries
     
     *   (d) the chief executive may not take any adverse action against an individual to whom a notice has been sent until the expiry of the 5 working days referred to in paragraph (c)(ii):
     
-    *   (e) [sections 100 to 102][120] and [104 to 106][121] of the Privacy Act 1993 apply in respect of the provision as if the provision were an authorised information matching programme and the department were the only specified agency involved in that programme.
+    *   (e) [sections 100 to 102][122] and [104 to 106][123] of the Privacy Act 1993 apply in respect of the provision as if the provision were an authorised information matching programme and the department were the only specified agency involved in that programme.
     
     (4) Nothing in paragraph (c) or paragraph (d) of subsection (3) prevents the chief executive from taking adverse action against an individual if compliance with the requirements of subsection (3)(c) would prejudice any investigation into the commission of an offence or the possible commission of an offence.
     
@@ -799,21 +801,21 @@ Reciprocity agreements with other countries
     
     *   (c) matched against information held by the chief executive using the unique identifiers assigned to the individual concerned by the competent institutions of both countries.
     
-    (5) Subsections (3) and (4) of [section 103][122] of the Privacy Act 1993 apply to any notice to be given to any individual under subsection (3)(c) or subsection (4B).
+    (5) Subsections (3) and (4) of [section 103][124] of the Privacy Act 1993 apply to any notice to be given to any individual under subsection (3)(c) or subsection (4B).
     
-    (6) Where the chief executive fails to comply, in relation to any individual, with the provisions of subsection (3)(c), the failure is considered, for the purposes of [Part 8][123] of the Privacy Act 1993, to constitute a failure to comply with the provisions of [Part 10][124] of that Act.
+    (6) Where the chief executive fails to comply, in relation to any individual, with the provisions of subsection (3)(c), the failure is considered, for the purposes of [Part 8][125] of the Privacy Act 1993, to constitute a failure to comply with the provisions of [Part 10][126] of that Act.
     
-    (7) In this section, expressions defined in [section 97][125] of the Privacy Act 1993 have the meanings so defined, with any necessary modifications.
+    (7) In this section, expressions defined in [section 97][127] of the Privacy Act 1993 have the meanings so defined, with any necessary modifications.
     
-    Section 19D: inserted, on 23 November 2000, by [section 6][114] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
+    Section 19D: inserted, on 23 November 2000, by [section 6][116] of the Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88).
     
-    Section 19D(4A): inserted, on 27 April 2002, by [section 7(1)][126] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19D(4A): inserted, on 27 April 2002, by [section 7(1)][128] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19D(4B): inserted, on 27 April 2002, by [section 7(1)][126] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19D(4B): inserted, on 27 April 2002, by [section 7(1)][128] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19D(4C): inserted, on 27 April 2002, by [section 7(1)][126] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19D(4C): inserted, on 27 April 2002, by [section 7(1)][128] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
     
-    Section 19D(5): amended, on 27 April 2002, by [section 7(2)][126] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
+    Section 19D(5): amended, on 27 April 2002, by [section 7(2)][128] of the Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002 (2002 No 8).
 
 ## Part 2  
 Other matters
@@ -824,61 +826,61 @@ Other matters
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 20: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 21 Term of office of members
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 21: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 22 Extraordinary vacancies
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 22: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 23 Presiding member
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 23: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 24 Meetings of Commission
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 24: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 25 Administrative services
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 25: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 26 Fees and travelling allowances
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 26: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 27 Functions of Commission
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 27: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 28 District Executive Committees and Area Welfare Executive Committees
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 28: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 29 Functions of District Executive Committees and Area Welfare Executive Committees
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 29: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 30 Committees
     
@@ -888,23 +890,23 @@ Other matters
     
     (3) Every such committee may regulate its own procedure.
     
-    (4) Every such committee is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][128].
+    (4) Every such committee is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][130].
     
     (5) There may, if the Minister so directs, be paid to the members of any such committee, out of the Department's Bank Account from money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951; and that Act shall apply accordingly.
     
-    Section 30(1): amended, on 1 October 1998, by [section 11][129] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 30(1): amended, on 1 October 1998, by [section 11][131] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 31 Members of Commission, etc, not deemed to be in service of Crown
     
-*   No person, by reason only that he or she is a member of a committee appointed under [section 30][60] of this Act, shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][130] or the [Government Superannuation Fund Act 1956][131].
+*   No person, by reason only that he or she is a member of a committee appointed under [section 30][60] of this Act, shall be deemed to be employed in the service of the Crown for the purposes of the [State Sector Act 1988][132] or the [Government Superannuation Fund Act 1956][133].
     
-    Section 31: amended, on 1 April 1991, by [section 2(2)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 31: amended, on 1 April 1991, by [section 2(2)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 32 Members of existing Commission and committees
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 April 1991, by [section 2(1)][127] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 32: repealed, on 1 April 1991, by [section 2(1)][129] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 33 Repeal of Part 1 of Department of Social Welfare Act 1971
     
@@ -914,7 +916,7 @@ Other matters
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 October 1998, by [section 12(c)][132] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 34: repealed, on 1 October 1998, by [section 12(c)][134] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 35 Amending Children, Young Persons, and Their Families Act 1989
     
@@ -924,9 +926,9 @@ Other matters
     
     (5) \[Repealed\]
     
-    Section 35(4): repealed, on 1 April 1991, by [section 4(2)][133] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 35(4): repealed, on 1 April 1991, by [section 4(2)][135] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
     
-    Section 35(5): repealed, on 1 April 1991, by [section 4(2)][133] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
+    Section 35(5): repealed, on 1 April 1991, by [section 4(2)][135] of the Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4).
 
 ##### 36 Amendments to other Acts
     
@@ -954,15 +956,15 @@ Other matters
     
     (10) _Amendment(s) incorporated in the Act(s)._
     
-    Section 37(3): repealed, on 1 October 1990, by [section 11(2)(d)][134] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
+    Section 37(3): repealed, on 1 October 1990, by [section 11(2)(d)][136] of the Social Security Amendment Act (No 2) 1990 (1990 No 74).
     
-    Section 37(4): repealed, on 1 April 1991, by [section 7(2)(k)][135] of the Social Security Amendment Act 1991 (1991 No 1).
+    Section 37(4): repealed, on 1 April 1991, by [section 7(2)(k)][137] of the Social Security Amendment Act 1991 (1991 No 1).
     
-    Section 37(5): repealed, on 1 April 1991, by [section 7(2)(k)][135] of the Social Security Amendment Act 1991 (1991 No 1).
+    Section 37(5): repealed, on 1 April 1991, by [section 7(2)(k)][137] of the Social Security Amendment Act 1991 (1991 No 1).
     
-    Section 37(6): repealed, on 1 August 1991, by [section 16(2)(e)][103] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
+    Section 37(6): repealed, on 1 August 1991, by [section 16(2)(e)][105] of the Social Security Amendment Act (No 2) 1991 (1991 No 78).
     
-    Section 37(7): repealed, on 1 March 1991, by [section 32(2)(a)][136] of the Social Security Amendment Act 1991 (1991 No 1).
+    Section 37(7): repealed, on 1 March 1991, by [section 32(2)(a)][138] of the Social Security Amendment Act 1991 (1991 No 1).
     
     Section 37(9): repealed, on 1 July 1996, by section 32(3)(b) of the Social Security Amendment Act 1996 (1996 No 20).
 
@@ -972,7 +974,7 @@ Other matters
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 17 September 1997, pursuant to [section 6(4)(c)][102] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
+    Section 38: repealed, on 17 September 1997, pursuant to [section 6(4)(c)][104] of the Social Security Amendment Act (No 4) 1997 (1997 No 63).
 
 ##### 39 Amendment to War Pensions Act 1954
     
@@ -984,12 +986,12 @@ Other matters
 
 ##### 41 Validation of exercise of Director-General's powers pursuant to a purported delegation
     
-*   If any officer of the Department has, at any time before the commencement of this section, purported to exercise any power, function, or discretion of the Director-General under the [Social Security Act 1964][108], and the exercise of that power, function, or discretion would have been valid if it had been carried out pursuant to a valid delegation by the Director-General (with the written consent of the Minister of Social Welfare) pursuant to [section 10][137] of the Social Security Act 1964, the exercise of that power, function, or discretion shall be deemed to have been valid.
+*   If any officer of the Department has, at any time before the commencement of this section, purported to exercise any power, function, or discretion of the Director-General under the [Social Security Act 1964][110], and the exercise of that power, function, or discretion would have been valid if it had been carried out pursuant to a valid delegation by the Director-General (with the written consent of the Minister of Social Welfare) pursuant to [section 10][139] of the Social Security Act 1964, the exercise of that power, function, or discretion shall be deemed to have been valid.
 
 ## Part 3  
 New Zealand Artificial Limb Service
     
-*   Part 3 heading: amended, on 5 December 2013, by [section 18][138] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Part 3 heading: amended, on 5 December 2013, by [section 18][140] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 42 Interpretation
     
@@ -1003,37 +1005,37 @@ New Zealand Artificial Limb Service
     
     _undertaking_ means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
     
-    Section 42 **Board**: amended, on 5 December 2013, by [section 19(1)][139] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 42 **Board**: amended, on 5 December 2013, by [section 19(1)][141] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 42 **Service**: inserted, on 5 December 2013, by [section 19(2)][139] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 42 **Service**: inserted, on 5 December 2013, by [section 19(2)][141] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 43 New Zealand Artificial Limb Service
     
 *   (1) This subsection on 1 April 1990 established a Board called the New Zealand Artificial Limb Board.
     
-    (1A) After the commencement of the [Social Welfare (Transitional Provisions) Amendment Act 2013][140],---
+    (1A) After the commencement of the [Social Welfare (Transitional Provisions) Amendment Act 2013][142],---
         
     *   (a) the Board is renamed, and is to be known as, the New Zealand Artificial Limb Service; and
     
     *   (b) a reference to the Board in an agreement, or in any other document, in force immediately before that commencement must be read as a reference to the Service.
     
-    (2) The Service is a Crown entity for the purposes of [section 7][141] of the Crown Entities Act 2004\.
+    (2) The Service is a Crown entity for the purposes of [section 7][143] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][142] applies to the Service except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][144] applies to the Service except to the extent that this Act expressly provides otherwise.
     
-    Section 43 heading: amended, on 5 December 2013, by [section 20(1)][143] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 43 heading: amended, on 5 December 2013, by [section 20(1)][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 43(1): amended, on 5 December 2013, by [section 20(2)][143] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 43(1): amended, on 5 December 2013, by [section 20(2)][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 43(1A): inserted, on 5 December 2013, by [section 20(3)][143] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 43(1A): inserted, on 5 December 2013, by [section 20(3)][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 43(2): substituted, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 43(2): substituted, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 43(2): amended, on 5 December 2013, by [section 20(4)][143] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 43(2): amended, on 5 December 2013, by [section 20(4)][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 43(3): substituted, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 43(3): substituted, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 43(3): amended, on 5 December 2013, by [section 20(4)][143] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 43(3): amended, on 5 December 2013, by [section 20(4)][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 44 Functions
     
@@ -1047,7 +1049,7 @@ New Zealand Artificial Limb Service
     
     *   (d) to advise the Minister on matters relating to artificial limbs and similar devices.
     
-    Section 44: amended, on 5 December 2013, by [section 21][145] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 44: amended, on 5 December 2013, by [section 21][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
     Section 44(a): amended, on 30 June 1993, by section 6(a) of the Social Welfare (Transitional Provisions) Amendment Act 1993 (1993 No 58).
     
@@ -1063,11 +1065,11 @@ New Zealand Artificial Limb Service
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 45: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Membership of Service
     
-*   (1) The Service consists of 6 members appointed under [section 28(1)(a)][146] of the Crown Entities Act 2004, including---
+*   (1) The Service consists of 6 members appointed under [section 28(1)(a)][148] of the Crown Entities Act 2004, including---
         
     *   (a) \[Repealed\]
     
@@ -1081,31 +1083,31 @@ New Zealand Artificial Limb Service
     
     *   (f) 1 member to be appointed by the Minister on the nomination of a majority of the current members of the Service.
     
-    (2) Members of the Service are the board for the purposes of the [Crown Entities Act 2004][142].
+    (2) Members of the Service are the board for the purposes of the [Crown Entities Act 2004][144].
     
-    Section 46 heading: amended, on 5 December 2013, by [section 22(1)][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 46 heading: amended, on 5 December 2013, by [section 22(1)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 46(1): amended, on 5 December 2013, by [section 22(2)][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 46(1): amended, on 5 December 2013, by [section 22(2)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 46(1): amended, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46(1): amended, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 46(1)(a): repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46(1)(a): repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 46(1)(b): amended, on 20 September 2007, by [section 4][148] of the Social Welfare (Transitional Provisions) Amendment Act 2007 (2007 No 81).
+    Section 46(1)(b): amended, on 20 September 2007, by [section 4][150] of the Social Welfare (Transitional Provisions) Amendment Act 2007 (2007 No 81).
     
-    Section 46(1)(e): amended, on 5 December 2013, by [section 22(3)][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 46(1)(e): amended, on 5 December 2013, by [section 22(3)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 46(1)(f): amended, on 5 December 2013, by [section 22(4)][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 46(1)(f): amended, on 5 December 2013, by [section 22(4)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 46(2): substituted, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 46(2): substituted, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 46(2): amended, on 5 December 2013, by [section 22(5)][147] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 46(2): amended, on 5 December 2013, by [section 22(5)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 47 Board to comply with Government policy
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 47: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 48 Review of operation of Service
     
@@ -1129,31 +1131,31 @@ New Zealand Artificial Limb Service
     
     *   (c) report its findings to the Minister.
     
-    Section 48 heading: amended, on 5 December 2013, by [section 23(1)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48 heading: amended, on 5 December 2013, by [section 23(1)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 48: amended, on 5 December 2013, by [section 23(2)(a)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48: amended, on 5 December 2013, by [section 23(2)(a)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 48: amended, on 5 December 2013, by [section 23(2)(b)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48: amended, on 5 December 2013, by [section 23(2)(b)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 48(a): amended, on 5 December 2013, by [section 23(3)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48(a): amended, on 5 December 2013, by [section 23(3)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 48(a)(i): amended, on 5 December 2013, by [section 23(4)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48(a)(i): amended, on 5 December 2013, by [section 23(4)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 48(b)(i): amended, on 5 December 2013, by [section 23(3)][149] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 48(b)(i): amended, on 5 December 2013, by [section 23(3)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 49 Further provisions applying to Service
     
 *   The provisions set out in [Schedule 3][87] apply in respect of the Service.
     
-    Section 49 heading: amended, on 5 December 2013, by [section 24(1)][150] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 49 heading: amended, on 5 December 2013, by [section 24(1)][152] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Section 49: amended, on 5 December 2013, by [section 24(2)][150] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Section 49: amended, on 5 December 2013, by [section 24(2)][152] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 50 Contracts of Board
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Section 50: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 51 Transitional provisions applying to Board
     
@@ -1182,7 +1184,7 @@ Rates of New Zealand superannuation and veterans' pensions
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 1: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ---
 
@@ -1193,7 +1195,7 @@ Payments on death of veteran or veteran's spouse
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 2: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 ---
 
@@ -1202,43 +1204,43 @@ Provisions applying in respect of New Zealand Artificial Limb Service
 
 [s 49][82]
 
-*   Schedule 3 heading: amended, on 5 December 2013, by [section 25(1)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+*   Schedule 3 heading: amended, on 5 December 2013, by [section 25(1)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 1 Term of office
     
 *   \[Repealed\]
     
-    Clause 1: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 1: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 2 Continuation in office after term expires
     
 *   \[Repealed\]
     
-    Clause 2: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 2: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 Extraordinary vacancies
     
 *   \[Repealed\]
     
-    Clause 3: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 3: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 Presiding member and deputy presiding member
     
 *   \[Repealed\]
     
-    Clause 4: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 4: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 Meetings
     
 *   \[Repealed\]
     
-    Clause 5: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 5: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Presiding member to preside at meetings
     
 *   \[Repealed\]
     
-    Clause 6: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 6: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 Appointment of deputies
     
@@ -1252,123 +1254,123 @@ Provisions applying in respect of New Zealand Artificial Limb Service
     
     (5) \[Repealed\]
     
-    Clause 7(1): amended, on 5 December 2013, by [section 25(2)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Clause 7(1): amended, on 5 December 2013, by [section 25(2)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Clause 7(2): amended, on 5 December 2013, by [section 25(2)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Clause 7(2): amended, on 5 December 2013, by [section 25(2)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Clause 7(3): repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 7(3): repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
     
-    Clause 7(4): amended, on 5 December 2013, by [section 25(2)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Clause 7(4): amended, on 5 December 2013, by [section 25(2)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
     
-    Clause 7(5): repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 7(5): repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 Voting at meetings
     
 *   \[Repealed\]
     
-    Clause 8: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 8: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 Procedure
     
 *   \[Repealed\]
     
-    Clause 9: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 9: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 Board may appoint committees
     
 *   \[Repealed\]
     
-    Clause 10: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 10: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Fees and travelling allowances
     
 *   \[Repealed\]
     
-    Clause 11: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 11: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 Employees
     
 *   \[Repealed\]
     
-    Clause 12: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 12: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 Personnel policy
     
 *   \[Repealed\]
     
-    Clause 13: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 13: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 Equal employment opportunities programme
     
 *   \[Repealed\]
     
-    Clause 14: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 14: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 Choice of procedure
     
 *   \[Repealed\]
     
-    Clause 15: repealed, on 1 December 2004, by [section 72][152] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86). 
+    Clause 15: repealed, on 1 December 2004, by [section 72][154] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86). 
 
 ##### 16 Superannuation or retiring allowances
     
 *   For the purpose of providing a superannuation fund or retiring allowance for any of the officers or employees of the Service, sums by way of subsidy may from time to time be paid into any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or into any other employer-subsidised scheme approved by the Minister of Finance for the purposes of this clause.
     
-    Clause 16: amended, on 5 December 2013, by [section 25(3)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Clause 16: amended, on 5 December 2013, by [section 25(3)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 17 Application of certain Acts to members and employees 
     
 *   \[Repealed\]
     
-    Clause 17: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 17: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 Funds of Board
     
 *   \[Repealed\]
     
-    Clause 18: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 18: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19 Bank accounts
     
 *   \[Repealed\]
     
-    Clause 19: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 19: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 Investment of money
     
 *   \[Repealed\]
     
-    Clause 20: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 20: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 Seal
     
 *   \[Repealed\]
     
-    Clause 21: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 21: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 Exemption from income tax
     
 *   The income of the Service is exempt from income tax.
     
-    Clause 22: amended, on 5 December 2013, by [section 25(4)][151] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
+    Clause 22: amended, on 5 December 2013, by [section 25(4)][153] of the Social Welfare (Transitional Provisions) Amendment Act 2013 (2013 No 132).
 
 ##### 23 Annual report
     
 *   \[Repealed\]
     
-    Clause 23: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 23: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Statement of Board's goals
     
 *   \[Repealed\]
     
-    Clause 24: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 24: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 25 Members not personally liable
     
 *   \[Repealed\]
     
-    Clause 25: repealed, on 25 January 2005, by [section 200][144] of the Crown Entities Act 2004 (2004 No 115).
+    Clause 25: repealed, on 25 January 2005, by [section 200][146] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
@@ -1379,7 +1381,7 @@ s [7A(4)][15]
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 31 March 2004, by [section 3(3)][99] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
+*   Schedule 4: repealed, on 31 March 2004, by [section 3(3)][101] of the Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993 (1993 No 149).
 
 ---
 
@@ -1390,7 +1392,7 @@ Specified Pacific countries
 
 \[Repealed\]
     
-*   Schedule 5: repealed, on 15 April 2003, by [section 12(1)][96] of the War Pensions Amendment Act 2003 (2003 No 18).
+*   Schedule 5: repealed, on 15 April 2003, by [section 12(1)][98] of the War Pensions Amendment Act 2003 (2003 No 18).
 
 #### 
 
@@ -1404,35 +1406,37 @@ Specified Pacific countries
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][153] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][154] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][155] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][156] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][155] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][156] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][157] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][158] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Social Welfare (Transitional Provisions) Amendment Act 2013][140] (2013 No 132)
+*   Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014 (2014 No 21): [section 35][97]
     
-    [Social Welfare (Transitional Provisions) Amendment Act 2007][157] (2007 No 81)
+    [Social Welfare (Transitional Provisions) Amendment Act 2013][142] (2013 No 132)
     
-    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][112]
+    [Social Welfare (Transitional Provisions) Amendment Act 2007][159] (2007 No 81)
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][144]
+    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][114]
     
-    Employment Relations Amendment Act (No 2) 2004 (2004 No 86):[section 72][152]
+    Crown Entities Act 2004 (2004 No 115): [section 200][146]
     
-    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][96]
+    Employment Relations Amendment Act (No 2) 2004 (2004 No 86):[section 72][154]
     
-    [Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002][158] (2002 No 8)
+    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][98]
     
-    New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84): [section 77][98]
+    [Social Welfare (Transitional Provisions---Overseas Pensions) Amendment Act 2002][160] (2002 No 8)
     
-    [Social Welfare (Transitional Provisions) Amendment Act 2000][159] (2000 No 88)
+    New Zealand Superannuation and Retirement Income Act 2001 (2001 No 84): [section 77][100]
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [sections 11][129], [12(c)][132]
+    [Social Welfare (Transitional Provisions) Amendment Act 2000][161] (2000 No 88)
     
-    Social Security Amendment Act (No 4) 1997 (1997 No 63): [section 6(4)(c)][102]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [sections 11][131], [12(c)][134]
+    
+    Social Security Amendment Act (No 4) 1997 (1997 No 63): [section 6(4)(c)][104]
     
     War Pensions Amendment Act 1996 (1996 No 156): section 2(2)
     
@@ -1440,23 +1444,23 @@ Specified Pacific countries
     
     Income Tax Act 1994 (1994 No 164): section YB 3(1)
     
-    Social Security Amendment Act 1994 (1994 No 86): [section 3(4)(c)][101]
+    Social Security Amendment Act 1994 (1994 No 86): [section 3(4)(c)][103]
     
-    [Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993][160] (1993 No 149)
+    [Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993][162] (1993 No 149)
     
     Social Welfare (Transitional Provisions) Amendment Act 1993 (1993 No 58)
     
-    Social Security Amendment Act (No 3) 1993 (1993 No 57): [section 10(2)(d)][104]
+    Social Security Amendment Act (No 3) 1993 (1993 No 57): [section 10(2)(d)][106]
     
-    Social Security Amendment Act (No 2) 1991 (1991 No 78): [section 16(2)(e)][103]
+    Social Security Amendment Act (No 2) 1991 (1991 No 78): [section 16(2)(e)][105]
     
     Social Welfare (Transitional Provisions) Amendment Act (No 2) 1991 (1991 No 77)
     
-    [Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4)][161]
+    [Social Welfare (Transitional Provisions) Amendment Act 1991 (1991 No 4)][163]
     
-    Social Security Amendment Act 1991 (1991 No 1): [sections 7(2)(k)][135], [24(3)(b)][106], [32(2)(a)][136]
+    Social Security Amendment Act 1991 (1991 No 1): [sections 7(2)(k)][137], [24(3)(b)][108], [32(2)(a)][138]
     
-    Social Security Amendment Act (No 2) 1990 (1990 No 74): [sections 2(2)(b)][100], [11(2)(d)][134]
+    Social Security Amendment Act (No 2) 1990 (1990 No 74): [sections 2(2)(b)][102], [11(2)(d)][136]
 
 
 
@@ -1553,72 +1557,74 @@ Specified Pacific countries
 [90]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627410
 [91]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM296638
 [92]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM364809
-[93]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM359124
-[94]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM284384
-[95]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79057
-[96]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM191905
-[97]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627412
-[98]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM114875
-[99]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328945
-[100]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM214158
-[101]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM333529
-[102]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM411715
-[103]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM248218
-[104]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM302662
-[105]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328949
-[106]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228333
-[107]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627413
-[108]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM359106
-[109]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM285274
-[110]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM113985
-[111]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297956
-[112]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM346494
-[113]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79065
-[114]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79066
-[115]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135319
-[116]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135320
-[117]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297958
-[118]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM298793
-[119]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135321
-[120]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297959
-[121]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297982
-[122]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297962
-[123]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297439
-[124]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297914
-[125]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297916
-[126]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135322
-[127]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228374
-[128]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM264952
-[129]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM429013
-[130]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM129109
-[131]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM446000
-[132]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM429014
-[133]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228376
-[134]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM214174
-[135]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228309
-[136]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228345
-[137]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM360756
-[138]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627433
-[139]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627434
-[140]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627400
-[141]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329641
-[142]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329630
-[143]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627438
-[144]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM331111
-[145]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627439
-[146]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329954
-[147]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627440
-[148]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM968552
-[149]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627441
-[150]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627442
-[151]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627443
-[152]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM316477
-[153]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998516
-[154]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998515
-[155]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998532
-[156]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[157]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM968545
-[158]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135309
-[159]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79049
-[160]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328938
-[161]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228368
+[93]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM364804
+[94]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM359124
+[95]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM284384
+[96]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79057
+[97]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5024977
+[98]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM191905
+[99]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627412
+[100]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM114875
+[101]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328945
+[102]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM214158
+[103]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM333529
+[104]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM411715
+[105]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM248218
+[106]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM302662
+[107]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328949
+[108]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228333
+[109]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627413
+[110]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM359106
+[111]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM285274
+[112]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM113985
+[113]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297956
+[114]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM346494
+[115]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79065
+[116]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79066
+[117]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135319
+[118]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135320
+[119]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297958
+[120]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM298793
+[121]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135321
+[122]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297959
+[123]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297982
+[124]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297962
+[125]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297439
+[126]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297914
+[127]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM297916
+[128]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135322
+[129]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228374
+[130]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM264952
+[131]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM429013
+[132]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM129109
+[133]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM446000
+[134]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM429014
+[135]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228376
+[136]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM214174
+[137]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228309
+[138]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228345
+[139]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM360756
+[140]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627433
+[141]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627434
+[142]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627400
+[143]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329641
+[144]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329630
+[145]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627438
+[146]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM331111
+[147]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627439
+[148]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM329954
+[149]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627440
+[150]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM968552
+[151]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627441
+[152]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627442
+[153]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM5627443
+[154]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM316477
+[155]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998516
+[156]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998515
+[157]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM2998532
+[158]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[159]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM968545
+[160]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM135309
+[161]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM79049
+[162]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM328938
+[163]: http://www.legislation.govt.nz/act/public/1990/0026/latest/link.aspx?id=DLM228368
