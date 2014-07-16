@@ -1633,7 +1633,7 @@ Miscellaneous provisions
         
     *   (a) financial markets participants; and
     
-    *   (b) every other person registered or incorporated, or who makes an application for the registration or incorporation of a person, under an Act referred to in [Part 2][7] of Schedule 1\.
+    *   (b) every other person registered or incorporated, or who makes an application for the registration or incorporation of a person, under an Act referred to in [Part 2][143] of Schedule 1\.
     
     (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies.
     
@@ -3019,21 +3019,21 @@ Definition of _Commission_ in [section 2(1)][130]: repeal.
 
 ##### [Summary Proceedings Act 1957][437] (1957 No 87)
 
-Item relating to [section 385(9)][311] of the Companies Act 1993 in [Part 2][438] of Schedule 1: insert ""or Financial Markets Authority"" after ""Registrar"".
+Item relating to [section 385(9)][311] of the Companies Act 1993 in Part 2 of Schedule 1: insert ""or Financial Markets Authority"" after ""Registrar"".
 
 ##### [Superannuation Schemes Act 1989][239] (1989 No 10)
 
-Definition of _Government Actuary_ in [section 2(1)][439]: repeal.
+Definition of _Government Actuary_ in [section 2(1)][438]: repeal.
 
-[Section 2(1)][439]: insert in its appropriate alphabetical order:
+[Section 2(1)][438]: insert in its appropriate alphabetical order:
 
 > "_FMA_ means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011".
 
-[Section 6(1)][440]: omit ""Government Actuary shall"" and substitute ""FMA must"".
+[Section 6(1)][439]: omit ""Government Actuary shall"" and substitute ""FMA must"".
 
-[Section 17(2)][441]: omit ""and 54B"" and substitute ""to 54C"".
+[Section 17(2)][440]: omit ""and 54B"" and substitute ""to 54C"".
 
-Heading above [section 19][442] and section 19: repeal and substitute:
+Heading above [section 19][441] and section 19: repeal and substitute:
 
 > #### "Powers of FMA as to cancellation of registration, etc
 > 
@@ -3057,11 +3057,11 @@ Heading above [section 19][442] and section 19: repeal and substitute:
 > 
 > 
 
-[Section 20(2)][443]: omit ""Government Actuary shall"" and substitute ""FMA must"".
+[Section 20(2)][442]: omit ""Government Actuary shall"" and substitute ""FMA must"".
 
-[Section 22(1)][444]: omit ""Government Actuary shall"" and substitute ""FMA must"".
+[Section 22(1)][443]: omit ""Government Actuary shall"" and substitute ""FMA must"".
 
-[Section 23][445]: repeal and substitute:
+[Section 23][444]: repeal and substitute:
 
 > ##### "23 Right of appeal against certain decisions of FMA
 >     
@@ -3081,21 +3081,21 @@ Heading above [section 19][442] and section 19: repeal and substitute:
 > 
 > 
 
-[Section 24][446]: repeal. 
+[Section 24][445]: repeal. 
 
-[Section 26][447]: repeal.
+[Section 26][446]: repeal.
 
-[Section 27][448]: repeal.
+[Section 27][447]: repeal.
 
-##### [Takeovers Act 1993][449] (1993 No 107)
+##### [Takeovers Act 1993][448] (1993 No 107)
 
-Definition of _Securities Commission_ in [section 2(1)][450]: repeal.
+Definition of _Securities Commission_ in [section 2(1)][449]: repeal.
 
-[Section 2(1)][450]: insert in its appropriate alphabetical order:
+[Section 2(1)][449]: insert in its appropriate alphabetical order:
 
 > "_FMA_ means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011".
 
-[Sections 15A][451] and [15B][452]: repeal and substitute:
+[Sections 15A][450] and [15B][451]: repeal and substitute:
 
 > ##### "15A Sharing of information and documents with FMA
 >     
@@ -3127,29 +3127,29 @@ Definition of _Securities Commission_ in [section 2(1)][450]: repeal.
 > 
 > 
 
-[Section 31C(1)(a)][453]: repeal and substitute:
+[Section 31C(1)(a)][452]: repeal and substitute:
 
 > *   "(a) this Act, the Financial Markets Authority Act 2011, or any of the Acts listed in Schedule 1 of that Act:".
 > 
 > 
 
-[Section 31C(1)(b)][453]: omit ""other Act"" and substitute ""enactments other than those referred to in paragraph (a)"".
+[Section 31C(1)(b)][452]: omit ""other Act"" and substitute ""enactments other than those referred to in paragraph (a)"".
 
-[Section 31C(4)][453]: omit ""section 69N of the Securities Act 1978"" and substitute ""section 44 of the Financial Markets Authority Act 2011"".
+[Section 31C(4)][452]: omit ""section 69N of the Securities Act 1978"" and substitute ""section 44 of the Financial Markets Authority Act 2011"".
 
-[Section 31E(b)][454]: repeal and substitute:
+[Section 31E(b)][453]: repeal and substitute:
 
 > *   "(b) for the purposes of this Act, the Financial Markets Authority Act 2011, or any of the Acts listed in Schedule 1 of that Act; or".
 > 
 > 
 
-##### [Tax Administration Act 1994][455] (1994 No 166)
+##### [Tax Administration Act 1994][454] (1994 No 166)
 
-[Section 3(1)][456]: insert in its appropriate alphabetical order:
+[Section 3(1)][455]: insert in its appropriate alphabetical order:
 
 > "_FMA_ means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011".
 
-[Section 81(4)(r)][457]: repeal and substitute:
+[Section 81(4)(r)][456]: repeal and substitute:
 
 > *   "(r) communicating to the FMA the following information, provided that the Commissioner considers it not undesirable to disclose the information and the information is reasonably necessary to enable the FMA to perform its duties or functions or exercise its powers:
 >         
@@ -3163,11 +3163,11 @@ Definition of _Securities Commission_ in [section 2(1)][450]: repeal.
 > 
 > 
 
-[Sections 85GB][458] and [85GC][459]: repeal.
+[Sections 85GB][457] and [85GC][458]: repeal.
 
 ##### [Unit Trusts Act 1960][266] (1960 No 99)
 
-[Section 2(1)][460]: insert in its appropriate alphabetical order:
+[Section 2(1)][459]: insert in its appropriate alphabetical order:
 
 > "_FMA_ means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011".
 
@@ -3186,9 +3186,9 @@ Definition of _Securities Commission_ in [section 2(1)][450]: repeal.
 ## Part 2  
 Consequential amendments to regulations
 
-##### [Financial Reporting (Fees and Forms) Regulations 2007][461] (SR 2007/109)
+##### [Financial Reporting (Fees and Forms) Regulations 2007][460] (SR 2007/109)
 
-[Regulation 5][462]: revoke and substitute:
+[Regulation 5][461]: revoke and substitute:
 
 > ##### "5 Charges payable to Financial Markets Authority for section 4B or 35A applications
 >     
@@ -3204,9 +3204,9 @@ Consequential amendments to regulations
 > 
 > 
 
-##### [Futures Industry (Client Funds) Regulations 1990][463] (SR 1990/227)
+##### [Futures Industry (Client Funds) Regulations 1990][462] (SR 1990/227)
 
-Definition of **dealer** in [regulation 2(1)][464]: revoke and substitute:
+Definition of **dealer** in [regulation 2(1)][463]: revoke and substitute:
 
 > "_dealer_---
 >     
@@ -3222,33 +3222,33 @@ Definition of **dealer** in [regulation 2(1)][464]: revoke and substitute:
 > 
 > 
 
-[Regulation 21(6)(c)][465]: omit ""Chairman of the Securities Commission"" and substitute ""chairperson of the board of the FMA"".
+[Regulation 21(6)(c)][464]: omit ""Chairman of the Securities Commission"" and substitute ""chairperson of the board of the FMA"".
 
-[Form 5][466] of the Schedule: omit ""Securities Commission"" and substitute ""Financial Markets Authority"".
+[Form 5][465] of the Schedule: omit ""Securities Commission"" and substitute ""Financial Markets Authority"".
 
 ##### [Government Superannuation Fund (Ceasing Contributions) Regulations 1995][241] (SR 1995/172)
 
-[Regulation 36(4)(a)][467]: omit ""Government Actuary"" and substitute ""the Authority"".
+[Regulation 36(4)(a)][466]: omit ""Government Actuary"" and substitute ""the Authority"".
 
-[Regulation 38(4)(a)][468]: omit ""Government Actuary"" and substitute ""the Authority"".
+[Regulation 38(4)(a)][467]: omit ""Government Actuary"" and substitute ""the Authority"".
 
 ##### [Government Superannuation Fund Regulations 1995][242] (SR 1995/173)
 
-Heading to [regulation 11][469]: omit ""**required by Government Actuary**"".
+Heading to [regulation 11][468]: omit ""**required by Government Actuary**"".
 
-[Regulation 11][469]: omit ""Government Actuary"" and substitute ""Authority"".
+[Regulation 11][468]: omit ""Government Actuary"" and substitute ""Authority"".
 
-##### [KiwiSaver Regulations 2006][470] (SR 2006/358)
+##### [KiwiSaver Regulations 2006][469] (SR 2006/358)
 
-[Regulation 10(1)][471]: omit ""Government Actuary's"" and substitute ""FMA's"".
+[Regulation 10(1)][470]: omit ""Government Actuary's"" and substitute ""FMA's"".
 
-[Regulation 10(2)][471]: omit ""Government Actuary's"" and substitute ""FMA's"".
+[Regulation 10(2)][470]: omit ""Government Actuary's"" and substitute ""FMA's"".
 
-##### [Securities Act (Contributory Mortgage) Regulations 1988][472] (SR 1988/143)
+##### [Securities Act (Contributory Mortgage) Regulations 1988][471] (SR 1988/143)
 
-Definition of **Commission** in [regulation 2(1)][473]: revoke.
+Definition of **Commission** in [regulation 2(1)][472]: revoke.
 
-[Regulation 15][474]: revoke and substitute:
+[Regulation 15][473]: revoke and substitute:
 
 > ##### "15 Exercise of FMA's powers under Securities Act 1978
 >     
@@ -3260,17 +3260,17 @@ Definition of **Commission** in [regulation 2(1)][473]: revoke.
 > 
 > 
 
-##### [Securities (Fees) Regulations 1998][475] (SR 1998/461)
+##### [Securities (Fees) Regulations 1998][474] (SR 1998/461)
 
-Heading to [regulation 3][476]: omit ""**Commission**"" and substitute ""**Financial Markets Authority**"".
+Heading to [regulation 3][475]: omit ""**Commission**"" and substitute ""**Financial Markets Authority**"".
 
-[Regulation 3(1)][476]: omit ""Commission"" in each place where it appears and substitute in each case ""FMA"".
+[Regulation 3(1)][475]: omit ""Commission"" in each place where it appears and substitute in each case ""FMA"".
 
-[Regulation 3(2)(a)][476]: omit ""section 5(5)"" and substitute ""section 70B"".
+[Regulation 3(2)(a)][475]: omit ""section 5(5)"" and substitute ""section 70B"".
 
-[Regulation 3(2)(c) and (d)][476]: revoke.
+[Regulation 3(2)(c) and (d)][475]: revoke.
 
-[Regulation 4][477]: revoke and substitute:
+[Regulation 4][476]: revoke and substitute:
 
 > ##### "4 Costs payable to Financial Markets Authority
 >     
@@ -3288,9 +3288,9 @@ Heading to [regulation 3][476]: omit ""**Commission**"" and substitute ""**Finan
 > 
 > 
 
-##### [Securities Markets (Fees) Regulations 2003][478] (SR 2003/383)
+##### [Securities Markets (Fees) Regulations 2003][477] (SR 2003/383)
 
-[Regulation 4][479]: revoke and substitute:
+[Regulation 4][478]: revoke and substitute:
 
 > ##### "4 Fees and costs payable to FMA for advice or decisions
 >     
@@ -3316,7 +3316,7 @@ Heading to [regulation 3][476]: omit ""**Commission**"" and substitute ""**Finan
 > 
 > 
 
-[Regulation 8][480]: revoke and substitute:
+[Regulation 8][479]: revoke and substitute:
 
 > ##### "8 Costs of printing and publication
 >     
@@ -3342,33 +3342,33 @@ Heading to [regulation 3][476]: omit ""**Commission**"" and substitute ""**Finan
 > 
 > 
 
-##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][481] (SR 2008/153)
+##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][480] (SR 2008/153)
 
-Definition of **Commission** in [regulation 4(1)][482]: revoke.
+Definition of **Commission** in [regulation 4(1)][481]: revoke.
 
-Definition of **Registrar** in [regulation 4(1)][482]: revoke and substitute:
+Definition of **Registrar** in [regulation 4(1)][481]: revoke and substitute:
 
 > "_Registrar_ has the same meaning as in section 2(1) of the Act".
 
-[Regulation 4(1)][482]: insert in its appropriate alphabetical order:
+[Regulation 4(1)][481]: insert in its appropriate alphabetical order:
 
 > "_FMA_ means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011".
 
-[Regulation 14(2)][483]: omit ""section 5(5) of the Act"" and substitute ""section 70B of the Act"".
+[Regulation 14(2)][482]: omit ""section 5(5) of the Act"" and substitute ""section 70B of the Act"".
 
-##### [Securities Regulations 2009][484] (SR 2009/230)
+##### [Securities Regulations 2009][483] (SR 2009/230)
 
-[Regulation 31][485]: insert after paragraph (a):
+[Regulation 31][484]: insert after paragraph (a):
 
 > *   "(ab) in respect of a document, information, or other matter required to be made publicly available under section 54C of the Act that is an advertisement only by reason of section 2A(2)(c) of the Act:".
 > 
 > 
 
-##### [Takeovers (Fees) Regulations 2001][486] (SR 2001/160)
+##### [Takeovers (Fees) Regulations 2001][485] (SR 2001/160)
 
-[Regulation 4(1)(b)(ii)][487]: omit ""or of the Securities Commission"".
+[Regulation 4(1)(b)(ii)][486]: omit ""or of the Securities Commission"".
 
-[Regulation 5(1)(b)(ii)][488]: omit ""or of the Securities Commission"".
+[Regulation 5(1)(b)(ii)][487]: omit ""or of the Securities Commission"".
 
 ---
 
@@ -3382,11 +3382,11 @@ Replacing ""Securities Commission"" with ""Financial Markets Authority"" in Acts
 
 ##### [Financial Service Providers (Registration and Dispute Resolution) Act 2008][256] (2008 No 97)
 
-[Section 67(d)][489]
+[Section 67(d)][488]
 
-[Section 76(d)][490]
+[Section 76(d)][489]
 
-[Schedule 2][491]
+[Schedule 2][490]
 
 ##### [Securities Transfer Act 1991][264] (1991 No 119)
 
@@ -3395,33 +3395,33 @@ Replacing ""Securities Commission"" with ""Financial Markets Authority"" in Acts
 ## Part 2  
 Replacing ""Securities Commission"" with ""Financial Markets Authority"" in regulations
 
-##### [Financial Reporting (Fees and Forms) Regulations 2007][461] (SR 2007/109)
+##### [Financial Reporting (Fees and Forms) Regulations 2007][460] (SR 2007/109)
 
-Definition of **section 4B or 35A application** in [regulation 3][492]
+Definition of **section 4B or 35A application** in [regulation 3][491]
 
-Heading above [regulation 4][493]
+Heading above [regulation 4][492]
 
-Heading to [regulation 4][493] and regulation 4
+Heading to [regulation 4][492] and regulation 4
 
-[Regulation 6(b)][494]
+[Regulation 6(b)][493]
 
-##### [Securities Act (Contributory Mortgage) Regulations 1988][472] (SR 1988/143)
+##### [Securities Act (Contributory Mortgage) Regulations 1988][471] (SR 1988/143)
 
-[Schedule 2A][495]
+[Schedule 2A][494]
 
-##### [Securities Markets (Market Manipulation) Regulations 2007][496] (SR 2007/373)
+##### [Securities Markets (Market Manipulation) Regulations 2007][495] (SR 2007/373)
 
-[Regulation 10(2)][497]
+[Regulation 10(2)][496]
 
-Heading to [regulation 11][498] and regulation 11(1)
+Heading to [regulation 11][497] and regulation 11(1)
 
-##### [Securities Markets (Substantial Security Holders) Regulations 2007][499] (SR 2007/372)
+##### [Securities Markets (Substantial Security Holders) Regulations 2007][498] (SR 2007/372)
 
-[Forms 1][500] and [2][501] of Schedule 1
+[Forms 1][499] and [2][500] of Schedule 1
 
-##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][481] (SR 2008/153)
+##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][480] (SR 2008/153)
 
-[Regulation 13(1)][502]
+[Regulation 13(1)][501]
 
 ## Part 3  
 Replacing ""Commission"" with ""FMA"" in Acts
@@ -3434,167 +3434,167 @@ Definition of _overseas regulator_ in [section 5][330]
 
 Definition of _standard conditions_ in [section 5][330]
 
-[Section 23(2)(k)][503]
+[Section 23(2)(k)][502]
 
-Heading to [section 45A][504] and section 45A(1), (2)(d), and (3)
+Heading to [section 45A][503] and section 45A(1), (2)(d), and (3)
 
-Heading to [section 49][505] and section 49(1) to (6)
+Heading to [section 49][504] and section 49(1) to (6)
 
-[Section 50(2)][506] and (3)
+[Section 50(2)][505] and (3)
 
-[Section 52][507]
+[Section 52][506]
 
-[Section 54][508]
+[Section 54][507]
 
-Heading to [section 55][509] and section 55(1) and (3) to (5)
+Heading to [section 55][508] and section 55(1) and (3) to (5)
 
-[Section 55A(1) to (8)][510]
+[Section 55A(1) to (8)][509]
 
-Heading to [section 56][511] and section 56(1) and (2)
+Heading to [section 56][510] and section 56(1) and (2)
 
-[Section 57(1)(b)][512] and (d) and (2)
+[Section 57(1)(b)][511] and (d) and (2)
 
-[Section 58(4)][513]
+[Section 58(4)][512]
 
 [Section 59(1) to (5)][332]
 
-[Section 60][514]
+[Section 60][513]
 
-Heading to [section 61][515] and section 61(1) to (6)
+Heading to [section 61][514] and section 61(1) to (6)
 
-[Section 62(2)][516]
+[Section 62(2)][515]
 
-[Section 64][517]
+[Section 64][516]
 
-[Section 66(1)][518] and (2)
+[Section 66(1)][517] and (2)
 
-Heading to [section 67][519] and section 67(1) and (3) to (6)
+Heading to [section 67][518] and section 67(1) and (3) to (6)
 
-[Section 67A(1) to (4)][520]
+[Section 67A(1) to (4)][519]
 
-[Section 68(1)][521] and (2)
+[Section 68(1)][520] and (2)
 
-[Section 69(1)][522] and (3)
+[Section 69(1)][521] and (3)
 
-Heading to [section 70][523] and section 70(1) and (2)
+Heading to [section 70][522] and section 70(1) and (2)
 
-[Section 71(1)][524] and (5)
+[Section 71(1)][523] and (5)
 
-[Section 72(b)][525]
+[Section 72(b)][524]
 
-[Section 73(1)][526]
+[Section 73(1)][525]
 
-[Section 74(3)][527]
+[Section 74(3)][526]
 
-[Section 75(1) to (7)][528]
+[Section 75(1) to (7)][527]
 
-[Section 75A(1)][529] and (2)
+[Section 75A(1)][528] and (2)
 
-Heading to [section 75B][530] and section 75B(1), (3), (4), and (6)
+Heading to [section 75B][529] and section 75B(1), (3), (4), and (6)
 
 [Section 75D(1) to (3)][333] and (5) to (7)
 
-[Section 75E][531]
+[Section 75E][530]
 
-Heading to [section 75F][532] and section 75F(1) to (6)
+Heading to [section 75F][531] and section 75F(1) to (6)
 
-[Section 75G(1)][533] and (3)
+[Section 75G(1)][532] and (3)
 
-[Section 76(1)(f) to (h)][534]
+[Section 76(1)(f) to (h)][533]
 
-Heading to [section 77][535] and section 77(1)
+Heading to [section 77][534] and section 77(1)
 
-[Section 77F(1)(f)(iii)][536]
+[Section 77F(1)(f)(iii)][535]
 
-Heading to [section 77V][537] and section 77V(1) to (6)
+Heading to [section 77V][536] and section 77V(1) to (6)
 
 [Section 85][334]
 
-[Section 96(1)][538]
+[Section 96(1)][537]
 
-Heading to [section 97][539] and section 97(1) and (2)
+Heading to [section 97][538] and section 97(1) and (2)
 
-[Section 98][540]
+[Section 98][539]
 
-[Section 99][541]
+[Section 99][540]
 
-[Section 101(3)(a) to (c)][542] and (5)
+[Section 101(3)(a) to (c)][541] and (5)
 
-[Section 104(a)][543]
+[Section 104(a)][542]
 
 [Section 113][335]
 
-[Section 127][544]
+[Section 127][543]
 
-[Section 132][545]
+[Section 132][544]
 
-[Section 134G][546]
+[Section 134G][545]
 
-[Section 135][547]
+[Section 135][546]
 
-[Section 136(1)(b)][548] and (c)
+[Section 136(1)(b)][547] and (c)
 
-[Section 137A(1)][549]
+[Section 137A(1)][548]
 
-Heading to [section 137B][550] and section 137B(1) and (2)
+Heading to [section 137B][549] and section 137B(1) and (2)
 
 [Section 137C][337]
 
 [Section 137F(2)][338]
 
-[Section 137K(1)][551]
+[Section 137K(1)][550]
 
-[Section 137L(2)][552]
+[Section 137L(2)][551]
 
-Heading to [section 137M][553] and section 137M
+Heading to [section 137M][552] and section 137M
 
-[Section 137N][554]
+[Section 137N][553]
 
 Heading to [section 137O][339] and section 137O(1) and (2)
 
-Heading to [section 137P][555] and section 137P(1) and (2)
+Heading to [section 137P][554] and section 137P(1) and (2)
 
-Heading to [section 137Q][556] and section 137Q(1) and (2)
+Heading to [section 137Q][555] and section 137Q(1) and (2)
 
 [Section 137R(1) to (3)][340]
 
-[Section 138(1)(a)][557]
+[Section 138(1)(a)][556]
 
-[Section 139][558]
+[Section 139][557]
 
-[Section 147A(1)][559], (3), and (4)
+[Section 147A(1)][558], (3), and (4)
 
-[Section 147B(1) to (3)][560]
+[Section 147B(1) to (3)][559]
 
-[Section 147C(1)][561]
+[Section 147C(1)][560]
 
-Heading to [section 148][562] and section 148(1) to (3)
+Heading to [section 148][561] and section 148(1) to (3)
 
-Heading to [section 148A][563] and section 148A(1) and (2)
+Heading to [section 148A][562] and section 148A(1) and (2)
 
-[Section 148B(2)(a)][564]
+[Section 148B(2)(a)][563]
 
-Heading to [section 149][565] and section 149(1) and (2)
+Heading to [section 149][564] and section 149(1) and (2)
 
-[Section 151(1)][566], (2), and (5)
+[Section 151(1)][565], (2), and (5)
 
 [Section 152(1)][342] and (2)
 
-[Section 154(4)][567]
+[Section 154(4)][566]
 
-[Section 155(1)(a)][568] and (b) and (2)
+[Section 155(1)(a)][567] and (b) and (2)
 
 ##### [Reserve Bank of New Zealand Act 1989][424] (1989 No 157)
 
-[Section 156K(2)][569]
+[Section 156K(2)][568]
 
 Definition of _joint regulators_ in [section 156M][428]
 
-[Section 156N(5)][570]
+[Section 156N(5)][569]
 
-[Section 156P(1)(e)][571] and (2)
+[Section 156P(1)(e)][570] and (2)
 
-[Section 156ZM(1)(b)][572] and (2)(b)
+[Section 156ZM(1)(b)][571] and (2)(b)
 
 ##### [Securities Act 1978][234] (1978 No 103)
 
@@ -3602,322 +3602,322 @@ Definition of _delayed allotment order_ in [section 2(1)][133]
 
 Definition of _prohibition order_ in [section 2(1)][133]
 
-[Section 37AF(1)(d)(iv)][573]
+[Section 37AF(1)(d)(iv)][572]
 
-[Section 37AK(2)(c)][574], (3)(d), and (5)(a)
+[Section 37AK(2)(c)][573], (3)(d), and (5)(a)
 
-[Section 37A(1)(ab)(ii)][575]
+[Section 37A(1)(ab)(ii)][574]
 
-[Section 37F(1)(c)][576]
+[Section 37F(1)(c)][575]
 
-[Section 38B(1) to (4)][577], (7), and (8)
+[Section 38B(1) to (4)][576], (7), and (8)
 
-Heading to [section 44A][578] and section 44A(1) to (6)
+Heading to [section 44A][577] and section 44A(1) to (6)
 
-[Section 44AB][579]
+[Section 44AB][578]
 
-[Section 44AC][580]
+[Section 44AC][579]
 
-[Section 44AD][581]
+[Section 44AD][580]
 
-Heading to [section 44AE][582] and section 44AE(1) to (4)
+Heading to [section 44AE][581] and section 44AE(1) to (4)
 
-[Section 44AF(2)][583] and (3)
+[Section 44AF(2)][582] and (3)
 
-[Section 44AG][584]
+[Section 44AG][583]
 
-[Section 44B(1)][585], (3), and (4)
+[Section 44B(1)][584], (3), and (4)
 
-[Section 44C(1)][586] and (6)
+[Section 44C(1)][585] and (6)
 
-[Section 44D(1)][587]
+[Section 44D(1)][586]
 
-[Section 48(1)][588], (3), and (4)
+[Section 48(1)][587], (3), and (4)
 
-[Section 55A(1)(a)][589]
+[Section 55A(1)(a)][588]
 
-[Section 55C][590]
+[Section 55C][589]
 
-[Section 55G(1)][591], (2), and (5)
+[Section 55G(1)][590], (2), and (5)
 
-[Section 56(2)][592]
+[Section 56(2)][591]
 
-[Section 60A(2)(a)][593]
+[Section 60A(2)(a)][592]
 
-[Section 60F(1)(a)][594], (2), and (3)
+[Section 60F(1)(a)][593], (2), and (3)
 
-[Section 60G(2)][595]
+[Section 60G(2)][594]
 
-[Section 65B][596]
+[Section 65B][595]
 
-[Section 70(3)][597]
+[Section 70(3)][596]
 
-[Section 70A(3)][598]
+[Section 70A(3)][597]
 
-[Section 74(2)(b)][599]
+[Section 74(2)(b)][598]
 
-[Section 75(1)(d)][600] and (e)(iii)
+[Section 75(1)(d)][599] and (e)(iii)
 
-[Section 78(2)(b)][601]
+[Section 78(2)(b)][600]
 
 ##### [Securities Markets Act 1988][263] (1988 No 234)
 
-[Section 6(2)][602]
+[Section 6(2)][601]
 
-Heading to [section 19Y][603] and section 19Y
+Heading to [section 19Y][602] and section 19Y
 
-[Section 31(1)(b)][604] and (2)
+[Section 31(1)(b)][603] and (2)
 
-[Section 32A(2)][605]
+[Section 32A(2)][604]
 
-Heading to [section 34][606] and section 34(1)
+Heading to [section 34][605] and section 34(1)
 
-[Section 36D(2)(a)(ii)][607]
+[Section 36D(2)(a)(ii)][606]
 
-[Section 36E(4)][608]
+[Section 36E(4)][607]
 
-Heading to [section 36ZD][609] and section 36ZD
+Heading to [section 36ZD][608] and section 36ZD
 
-[Section 36ZF(1)(d)][610]
+[Section 36ZF(1)(d)][609]
 
-Heading to [section 36ZG][611] and section 36ZG
+Heading to [section 36ZG][610] and section 36ZG
 
-[Section 36ZH][612]
+[Section 36ZH][611]
 
-[Section 36ZI][613]
+[Section 36ZI][612]
 
-[Section 36ZJ(1)][614]
+[Section 36ZJ(1)][613]
 
-Heading to [section 36ZK][615] and section 36ZK
+Heading to [section 36ZK][614] and section 36ZK
 
-[Section 36ZL(1)][616]
+[Section 36ZL(1)][615]
 
-[Section 36ZM(2)(a) to (c)][617]
+[Section 36ZM(2)(a) to (c)][616]
 
 Heading to [section 36ZO][431] and section 36ZO(1) to (3)
 
-[Section 36ZP(2)][618]
+[Section 36ZP(2)][617]
 
-[Section 36ZQ][619]
+[Section 36ZQ][618]
 
-Heading to [section 36ZR][620] and section 36ZR(1) and (2)
+Heading to [section 36ZR][619] and section 36ZR(1) and (2)
 
-[Section 36ZS][621]
+[Section 36ZS][620]
 
 Heading to [section 36ZT][432] and section 36ZT
 
-[Section 36ZU(2)][622]
+[Section 36ZU(2)][621]
 
-[Section 36ZV(1)][623] and (2)
+[Section 36ZV(1)][622] and (2)
 
-[Section 36ZW][624]
+[Section 36ZW][623]
 
-Paragraph (a) of the definition of _authorised futures exchange_ in [section 37][625]
+Paragraph (a) of the definition of _authorised futures exchange_ in [section 37][624]
 
-Paragraphs (e) and (f) of the definition of _futures contract_ in [section 37][625]
+Paragraphs (e) and (f) of the definition of _futures contract_ in [section 37][624]
 
-[Section 37(5)][625], (7), (8), (9), and (10)
+[Section 37(5)][624], (7), (8), (9), and (10)
 
-[Section 37C(4)][626]
+[Section 37C(4)][625]
 
-[Section 37D(2)(a)(ii)][627]
+[Section 37D(2)(a)(ii)][626]
 
-[Section 38(1)(a)][628], (2), and (3)
+[Section 38(1)(a)][627], (2), and (3)
 
-[Section 41Q(3)][629]
+[Section 41Q(3)][628]
 
-[Section 41R(3)][630]
+[Section 41R(3)][629]
 
-Heading to [section 42][631] and section 42
+Heading to [section 42][630] and section 42
 
-Heading to [section 42B][632] and section 42B
+Heading to [section 42B][631] and section 42B
 
-Heading to [section 42D][633] and section 42D
+Heading to [section 42D][632] and section 42D
 
-[Section 42E][634]
+[Section 42E][633]
 
 Heading to [section 42F][433] and section 42F(1) and (2)
 
-Heading to [section 42G][635] and section 42G(1) and (2)
+Heading to [section 42G][634] and section 42G(1) and (2)
 
-Heading to [section 42H][636] and section 42H(1) and (2)
+Heading to [section 42H][635] and section 42H(1) and (2)
 
 [Section 42I(1) to (3)][434]
 
-[Section 42J(1)][637]
+[Section 42J(1)][636]
 
-[Section 42K][638]
+[Section 42K][637]
 
-Heading to [section 42M][639] and section 42M(1) and (2)
+Heading to [section 42M][638] and section 42M(1) and (2)
 
-[Section 42N][640]
+[Section 42N][639]
 
-[Section 42P][641]
+[Section 42P][640]
 
-[Section 42R(1)][642]
+[Section 42R(1)][641]
 
-[Section 42T(1)][643]
+[Section 42T(1)][642]
 
-[Section 42Z][644]
+[Section 42Z][643]
 
-[Section 42ZA(1)][645]
+[Section 42ZA(1)][644]
 
-[Section 42ZE(1)][646]
+[Section 42ZE(1)][645]
 
-[Section 43F(2)(a)][647]
+[Section 43F(2)(a)][646]
 
-[Section 43K][648]
+[Section 43K][647]
 
-[Section 43O(1)(a)][649], (2), and (3)
+[Section 43O(1)(a)][648], (2), and (3)
 
-[Section 43P(2)][650]
+[Section 43P(2)][649]
 
-[Section 43W][651]
+[Section 43W][650]
 
-[Section 43ZA(d)][652]
+[Section 43ZA(d)][651]
 
-Heading to [section 46][653] and section 46
+Heading to [section 46][652] and section 46
 
-Heading above [section 48][654]
+Heading above [section 48][653]
 
-Heading to [section 48C][655] and section 48C(1) to (3)
+Heading to [section 48C][654] and section 48C(1) to (3)
 
-Heading to [section 48D][656] and section 48D(1), (2), and (4)
+Heading to [section 48D][655] and section 48D(1), (2), and (4)
 
-[Section 48F(3)(a)(i)][657]
+[Section 48F(3)(a)(i)][656]
 
-[Section 48G(2)(b)(i)][658]
+[Section 48G(2)(b)(i)][657]
 
-[Section 49(2)][659]
+[Section 49(2)][658]
 
-[Section 49A(3)][660]
+[Section 49A(3)][659]
 
-[Section 49B(1)(g)][661] and (3)
+[Section 49B(1)(g)][660] and (3)
 
-[Section 49C(2)][662]
+[Section 49C(2)][661]
 
-[Section 49D(2)][663] and (3)
+[Section 49D(2)][662] and (3)
 
 ## Part 4  
 Replacing ""Commission"" with ""FMA"" in regulations
 
-##### [Futures Industry (Client Funds) Regulations 1990][463] (SR 1990/227)
+##### [Futures Industry (Client Funds) Regulations 1990][462] (SR 1990/227)
 
-Paragraph (f) of the definition of **specified client investment** in [regulation 2(1)][464]
+Paragraph (f) of the definition of **specified client investment** in [regulation 2(1)][463]
 
-[Regulation 14(e)][664]
+[Regulation 14(e)][663]
 
-[Regulation 24(3)(c)][665]
+[Regulation 24(3)(c)][664]
 
-##### [Securities Markets (Fees) Regulations 2003][478] (SR 2003/383)
+##### [Securities Markets (Fees) Regulations 2003][477] (SR 2003/383)
 
-Heading to [regulation 5][666]
+Heading to [regulation 5][665]
 
-[Regulation 6][667]
+[Regulation 6][666]
 
-[Regulation 7][668]
+[Regulation 7][667]
 
-##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][481] (SR 2008/153)
+##### [Securities (Mutual Recognition of Securities Offerings---Australia) Regulations 2008][480] (SR 2008/153)
 
-[Regulation 8(2)][669] and (3)
+[Regulation 8(2)][668] and (3)
 
-[Regulation 13(4)][502] and (5)
+[Regulation 13(4)][501] and (5)
 
-##### [Securities Regulations 2009][484] (SR 2009/230)
+##### [Securities Regulations 2009][483] (SR 2009/230)
 
-Heading to [regulation 37][670] and regulation 37
+Heading to [regulation 37][669] and regulation 37
 
 ## Part 5  
 Replacing ""Commission's"" with ""FMA's"" in Acts
 
 ##### [Financial Advisers Act 2008][255] (2008 No 91)
 
-Heading above [section 49][505]
+Heading above [section 49][504]
 
-[Section 49(4)(c)][505]
+[Section 49(4)(c)][504]
 
 Heading above [section 59][332]
 
 Heading to [section 59][332]
 
-[Section 61(4)(c)][515]
+[Section 61(4)(c)][514]
 
-Heading to [section 62][516]
+Heading to [section 62][515]
 
 Heading above [section 75D][333]
 
 Heading to [section 75D][333]
 
-[Section 75F(4)(c)][532]
+[Section 75F(4)(c)][531]
 
-Heading to [section 75G][533]
+Heading to [section 75G][532]
 
-Heading above [section 77V][537]
+Heading above [section 77V][536]
 
-[Section 77V(4)(c)][537]
+[Section 77V(4)(c)][536]
 
-[Section 97(1)(b)][539] and (c)
+[Section 97(1)(b)][538] and (c)
 
-[Section 98][540]
+[Section 98][539]
 
-Heading to [section 127][544]
+Heading to [section 127][543]
 
-Heading to [section 132][545]
+Heading to [section 132][544]
 
-Heading to [section 134G][546]
+Heading to [section 134G][545]
 
-Heading to [section 135][547]
+Heading to [section 135][546]
 
-[Section 137B(2)][550]
+[Section 137B(2)][549]
 
 Heading above [section 137O][339]
 
-Heading to [section 137S][671]
+Heading to [section 137S][670]
 
-[Section 151(1)(a)][566] and (2)
+[Section 151(1)(a)][565] and (2)
 
 Heading to [section 152][342]
 
 ##### [Securities Act 1978][234] (1978 No 103)
 
-Heading to [section 44B][585]
+Heading to [section 44B][584]
 
-[Section 55G(5)][591]
+[Section 55G(5)][590]
 
-Heading to [section 65B][596] and section 65B
+Heading to [section 65B][595] and section 65B
 
 ##### [Securities Markets Act 1988][263] (1988 No 234)
 
-[Section 36ZL(1)][616]
+[Section 36ZL(1)][615]
 
-[Section 36ZR(1)(b)][620]
+[Section 36ZR(1)(b)][619]
 
-Heading to subpart 1 of [Part 5][672]
+Heading to subpart 1 of [Part 5][671]
 
 Heading above [section 42F][433]
 
 Heading to [section 42I][434]
 
-Heading to [section 42J][637]
+Heading to [section 42J][636]
 
-[Section 42M(2)][639]
+[Section 42M(2)][638]
 
-Heading to [section 42Z][644] and section 42Z
+Heading to [section 42Z][643] and section 42Z
 
-[Section 43E(4)][673]
+[Section 43E(4)][672]
 
-Heading to [section 43W][651] and section 43W
+Heading to [section 43W][650] and section 43W
 
 ## Part 6  
 Replacing ""Government Actuary"" with ""FMA"" in Acts
 
 ##### [Financial Service Providers (Registration and Dispute Resolution) Act 2008][256] (2008 No 97)
 
-[Schedule 2][491]
+[Schedule 2][490]
 
 ##### [Human Rights Act 1993][375] (1993 No 82)
 
-[Section 71][674]
+[Section 71][673]
 
 ##### [Income Tax Act 2007][379] (2007 No 97)
 
@@ -3929,226 +3929,226 @@ Heading immediately above [section EY 11(12)][381]
 
 [Section EY 11(12)][381]
 
-Clause 3(d) of [Schedule 28][675]
+Clause 3(d) of [Schedule 28][674]
 
 ##### [KiwiSaver Act 2006][237] (2006 No 40)
 
-[Section 25(1)][676] and (2)(b)
+[Section 25(1)][675] and (2)(b)
 
-[Section 27][677]
+[Section 27][676]
 
-[Section 28][678]
+[Section 28][677]
 
-[Section 29(1)][679] and (2)(a) and (c)
+[Section 29(1)][678] and (2)(a) and (c)
 
 [Section 31(1)][390] and (3)
 
-Heading to [section 32][680] and section 32
+Heading to [section 32][679] and section 32
 
-[Section 101H(2)][681], (3), (4)(f), and (5)
+[Section 101H(2)][680], (3), (4)(f), and (5)
 
 [Section 101I(1)][391], (2), (3), (4)(a), (5), and (7)
 
-[Section 101K][682]
+[Section 101K][681]
 
-[Section 117(1)(c)][683]
+[Section 117(1)(c)][682]
 
-[Section 120(3)][684]
+[Section 120(3)][683]
 
-[Section 121(3)(b)][685]
+[Section 121(3)(b)][684]
 
-[Section 122(6)][686]
+[Section 122(6)][685]
 
-[Section 123(4)(c)][687] and (6)
+[Section 123(4)(c)][686] and (6)
 
-[Section 125(1)][688]
+[Section 125(1)][687]
 
-Heading to [section 127][689] and section 127(1), (2), and (3)
+Heading to [section 127][688] and section 127(1), (2), and (3)
 
-[Section 129(3)][690]
+[Section 129(3)][689]
 
-[Section 130][691]
+[Section 130][690]
 
-[Section 131(1)][692]
+[Section 131(1)][691]
 
-[Section 132(1)][693]
+[Section 132(1)][692]
 
-[Section 135(1)][694]
+[Section 135(1)][693]
 
-[Section 136][695]
+[Section 136][694]
 
-[Section 138(1)][696]
+[Section 138(1)][695]
 
-[Section 139(1)][697], (2), (4), and (5)
+[Section 139(1)][696], (2), (4), and (5)
 
-Heading to [section 140][698] and section 140(1), (3), and (4)
+Heading to [section 140][697] and section 140(1), (3), and (4)
 
 Heading to [section 141][394] and section 141(1) and (2)
 
-[Section 142(1)(a)][699]
+[Section 142(1)(a)][698]
 
-[Section 143(1)][700]
+[Section 143(1)][699]
 
-[Section 148(1)][701]
+[Section 148(1)][700]
 
-[Section 149][702]
+[Section 149][701]
 
-Heading to [section 150][703] and section 150(1)
+Heading to [section 150][702] and section 150(1)
 
-[Section 151][704]
+[Section 151][703]
 
-[Section 152(1)][705]
+[Section 152(1)][704]
 
-[Section 156(2)(b][706])
+[Section 156(2)(b][705])
 
-[Section 157(a)][707]
+[Section 157(a)][706]
 
-Heading to [section 159][708] and section 159(1) and (2)
+Heading to [section 159][707] and section 159(1) and (2)
 
-Heading to [section 162][709] and section 162(1) and (2)
+Heading to [section 162][708] and section 162(1) and (2)
 
-[Section 163][710]
+[Section 163][709]
 
-Heading to [section 164][711] and section 164(1)
+Heading to [section 164][710] and section 164(1)
 
-[Section 165(d)][712]
+[Section 165(d)][711]
 
-[Section 168][713]
+[Section 168][712]
 
-Heading to [section 169][714] and section 169(1), (4), and (5)
+Heading to [section 169][713] and section 169(1), (4), and (5)
 
-Heading to [section 170][715] and section 170(1) and (3)
+Heading to [section 170][714] and section 170(1) and (3)
 
-[Section 173(1)][716]
+[Section 173(1)][715]
 
-[Section 174(d)][717]
+[Section 174(d)][716]
 
-[Section 175][718]
+[Section 175][717]
 
-[Section 184(2)(a)][719] and (4)
+[Section 184(2)(a)][718] and (4)
 
-Heading to [section 189B][720] and section 189B
+Heading to [section 189B][719] and section 189B
 
-[Section 189C(1)][721] and (4)(b)
+[Section 189C(1)][720] and (4)(b)
 
-Heading to [section 191][722] and section 191(2) and (4)
+Heading to [section 191][721] and section 191(2) and (4)
 
-[Section 192(1)][723], (2), and (4)
+[Section 192(1)][722], (2), and (4)
 
-Heading to [section 194][724] and section 194(1)
+Heading to [section 194][723] and section 194(1)
 
-[Section 198(1)(a)][725]
+[Section 198(1)(a)][724]
 
-Heading to [section 200][726] and section 200
+Heading to [section 200][725] and section 200
 
 [Section 228(c)][405]
 
-Clause 5 of [Part 1][727] of Schedule 2
+Clause 5 of [Part 1][726] of Schedule 2
 
-Clause 3 of [Part 2][728] of Schedule 2
+Clause 3 of [Part 2][727] of Schedule 2
 
-Clause 3 of [Part 3][729] of Schedule 2
+Clause 3 of [Part 3][728] of Schedule 2
 
 ##### [Superannuation Schemes Act 1989][239] (1989 No 10)
 
-[Section 3(1)][730]
+[Section 3(1)][729]
 
-[Section 4(1)][731]
+[Section 4(1)][730]
 
-[Section 6(2)(b)][440] and (c)
+[Section 6(2)(b)][439] and (c)
 
-[Section 9B(2A)(a)][732] and (b), (2B)(a)(iv) and (b), and (4)
+[Section 9B(2A)(a)][731] and (b), (2B)(a)(iv) and (b), and (4)
 
-Heading to [section 9BAA][733] and section 9BAA(1), (2), (3), (4), (4B), and (5)
+Heading to [section 9BAA][732] and section 9BAA(1), (2), (3), (4), (4B), and (5)
 
-[Section 9BAB(1)][734], (1)(b), (2), (2)(a), (3)(b), (4), and (5)
+[Section 9BAB(1)][733], (1)(b), (2), (2)(a), (3)(b), (4), and (5)
 
-Heading to [section 9BA][735] and section 9BA(1) and (2)
+Heading to [section 9BA][734] and section 9BA(1) and (2)
 
-[Section 10][736]
+[Section 10][735]
 
-[Section 12(2)][737]
+[Section 12(2)][736]
 
-[Section 13(2)(a)][738]
+[Section 13(2)(a)][737]
 
-[Section 14(3)][739]
+[Section 14(3)][738]
 
-[Section 15(3)][740]
+[Section 15(3)][739]
 
-[Section 18][741]
+[Section 18][740]
 
-Heading to [section 18A][742] and section 18A(1) and (3)
+Heading to [section 18A][741] and section 18A(1) and (3)
 
-[Section 18B(1)][743], (2), and (4)
+[Section 18B(1)][742], (2), and (4)
 
-Heading to [section 20][443] and section 20(1) and (3)
+Heading to [section 20][442] and section 20(1) and (3)
 
-[Section 21(1)(a)][744], (d)(i) and (ii), and (e), and (1A)
+[Section 21(1)(a)][743], (d)(i) and (ii), and (e), and (1A)
 
-[Section 22(2)][444]
+[Section 22(2)][443]
 
-[Section 25(2)(a)][745]
+[Section 25(2)(a)][744]
 
-Heading to [section 28][746] and section 28(1)
+Heading to [section 28][745] and section 28(1)
 
-[Section 29][747]
+[Section 29][746]
 
-[Section 34(1)][748] and (2)
+[Section 34(1)][747] and (2)
 
-[Section 35(1)][749], (2), (3), and (4)
+[Section 35(1)][748], (2), (3), and (4)
 
-[Section 36(1)][750], (2), and (3)
+[Section 36(1)][749], (2), and (3)
 
-Heading to [section 37][751] and section 37(1)
+Heading to [section 37][750] and section 37(1)
 
-[Section 38(1)(d)][752]
+[Section 38(1)(d)][751]
 
-Heading to [section 39][753] and section 39
+Heading to [section 39][752] and section 39
 
-[Section 40(1) and (4)(b)][754]
+[Section 40(1) and (4)(b)][753]
 
-Clause (e) of [Schedule 1][755]
+Clause (e) of [Schedule 1][754]
 
-Clause (1)(o)(iv) of [Schedule 2][756]
+Clause (1)(o)(iv) of [Schedule 2][755]
 
-##### [Tax Administration Act 1994][455] (1994 No 166)
+##### [Tax Administration Act 1994][454] (1994 No 166)
 
-[Section 125(i)][757]
+[Section 125(i)][756]
 
 ## Part 7  
 Replacing ""Government Actuary"" with ""FMA"" in regulations
 
-##### [KiwiSaver Regulations 2006][470] (SR 2006/358)
+##### [KiwiSaver Regulations 2006][469] (SR 2006/358)
 
-Heading to [regulation 8][758] and regulation 8(1)
+Heading to [regulation 8][757] and regulation 8(1)
 
-[Regulation 10(2)][471] and (3)
+[Regulation 10(2)][470] and (3)
 
-Heading to [regulation 11][759] and regulation 11
+Heading to [regulation 11][758] and regulation 11
 
-Heading to [regulation 12][760] and regulation 12
+Heading to [regulation 12][759] and regulation 12
 
-[Regulation 19(1)][760]
+[Regulation 19(1)][759]
 
-Column headed ""**Fee**"" in [Schedule 2][761]
+Column headed ""**Fee**"" in [Schedule 2][760]
 
-##### [Securities Regulations 2009][484] (SR 2009/230)
+##### [Securities Regulations 2009][483] (SR 2009/230)
 
-[Clause 12(3)][762] of Schedule 6
+[Clause 12(3)][761] of Schedule 6
 
-##### [Superannuation Schemes (Fees) Regulations 1992][763] (SR 1992/284)
+##### [Superannuation Schemes (Fees) Regulations 1992][762] (SR 1992/284)
 
-[Regulation 3][764]
+[Regulation 3][763]
 
-Heading to the [Schedule][765]
+Heading to the [Schedule][764]
 
-Clause 1A of Part 1 of the [Schedule][765]
+Clause 1A of Part 1 of the [Schedule][764]
 
-Clause 6 of Part 1 of the [Schedule][765]
+Clause 6 of Part 1 of the [Schedule][764]
 
-Clause 7 of Part 1 of the [Schedule][765]
+Clause 7 of Part 1 of the [Schedule][764]
 
-Clause 1 of Part 2 of the [Schedule][765]
+Clause 1 of Part 2 of the [Schedule][764]
 
 #### 
 
@@ -4162,17 +4162,17 @@ Clause 1 of Part 2 of the [Schedule][765]
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][766] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][767] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][765] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][766] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][768] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][769] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][767] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][768] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][141]
     
-    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 62][770], [64][145], [65][194], [66(1)][202], [67--69][209], [70(1), (4), and (6)][215], [71][233]
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [sections 62][769], [64][145], [65][194], [66(1)][202], [67--69][209], [70(1), (4), and (6)][215], [71][233]
     
     Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][267]
     
@@ -4613,7 +4613,7 @@ Clause 1 of Part 2 of the [Schedule][765]
 [424]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM199363
 [425]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1608215
 [426]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM200396
-[427]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202004
+[427]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3747436
 [428]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202023
 [429]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1607349
 [430]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1607397
@@ -4624,336 +4624,335 @@ Clause 1 of Part 2 of the [Schedule][765]
 [435]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142001
 [436]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM250653
 [437]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM310742
-[438]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM314314
-[439]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144252
-[440]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143751
-[441]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143794
-[442]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144011
-[443]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144012
-[444]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144029
-[445]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144032
-[446]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144040
-[447]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144045
-[448]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144046
-[449]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325508
-[450]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326776
-[451]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325840
-[452]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325842
-[453]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326101
-[454]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326108
-[455]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM348342
-[456]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM348353
-[457]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352409
-[458]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352867
-[459]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352869
-[460]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325269
-[461]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435276
-[462]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435291
-[463]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141242
-[464]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141247
-[465]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141604
-[466]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141621
-[467]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203783
-[468]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203793
-[469]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203711
-[470]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418374
-[471]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418802
-[472]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM124662
-[473]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM124667
-[474]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM125035
-[475]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272246
-[476]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272252
-[477]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272254
-[478]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235737
-[479]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235748
-[480]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235753
-[481]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339200
-[482]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339207
-[483]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339257
-[484]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2291142
-[485]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284216
-[486]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM58745
-[487]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284218
-[488]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284277
-[489]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585429
-[490]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585431
-[491]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585437
-[492]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435284
-[493]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435290
-[494]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435292
-[495]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM125206
-[496]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061243
-[497]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061290
-[498]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061293
-[499]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061163
-[500]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061211
-[501]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061219
-[502]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339254
-[503]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584660
-[504]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083120
-[505]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629610
-[506]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584690
-[507]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584693
-[508]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584695
-[509]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584696
-[510]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083132
-[511]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584697
-[512]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584698
-[513]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584699
-[514]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584702
-[515]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584703
-[516]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584704
-[517]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584707
-[518]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584709
-[519]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584710
-[520]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083144
-[521]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584711
-[522]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584712
-[523]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584713
-[524]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584715
-[525]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584716
-[526]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584717
-[527]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584718
-[528]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584720
-[529]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083702
-[530]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083703
-[531]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083707
-[532]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083708
-[533]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083709
-[534]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584722
-[535]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584723
-[536]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083746
-[537]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083766
-[538]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584749
-[539]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584750
-[540]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584752
-[541]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629612
-[542]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584755
-[543]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629613
-[544]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584785
-[545]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584791
-[546]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083874
-[547]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629616
-[548]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584795
-[549]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083893
-[550]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083896
-[551]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084416
-[552]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084417
-[553]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084419
-[554]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084421
-[555]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084424
-[556]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084425
-[557]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584799
-[558]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584800
-[559]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084536
-[560]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084537
-[561]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084538
-[562]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584811
-[563]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084556
-[564]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084557
-[565]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584812
-[566]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584815
-[567]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584820
-[568]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584822
-[569]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202002
-[570]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202025
-[571]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202030
-[572]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2594828
-[573]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28329
-[574]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28347
-[575]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28351
-[576]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28384
-[577]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28802
-[578]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28858
-[579]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245922
-[580]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245923
-[581]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245924
-[582]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245925
-[583]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245927
-[584]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245928
-[585]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28863
-[586]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28867
-[587]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28880
-[588]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28895
-[589]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29148
-[590]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29153
-[591]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29161
-[592]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29164
-[593]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29434
-[594]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29446
-[595]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29450
-[596]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29702
-[597]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30129
-[598]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30164
-[599]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30187
-[600]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30190
-[601]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30400
-[602]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM139988
-[603]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140937
-[604]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140991
-[605]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140995
-[606]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141301
-[607]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141336
-[608]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141338
-[609]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141703
-[610]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141707
-[611]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141710
-[612]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141712
-[613]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141714
-[614]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141717
-[615]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141720
-[616]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141722
-[617]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141725
-[618]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141732
-[619]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141735
-[620]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141737
-[621]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141740
-[622]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141744
-[623]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141746
-[624]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141749
-[625]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141755
-[626]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141790
-[627]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141792
-[628]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141794
-[629]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141825
-[630]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141826
-[631]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141832
-[632]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141835
-[633]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141837
-[634]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141838
-[635]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141840
-[636]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141841
-[637]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141843
-[638]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141844
-[639]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141846
-[640]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141847
-[641]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141849
-[642]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141851
-[643]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141853
-[644]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141859
-[645]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141860
-[646]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141864
-[647]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141877
-[648]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141882
-[649]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141886
-[650]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141887
-[651]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141894
-[652]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141898
-[653]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142005
-[654]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142009
-[655]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142015
-[656]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142016
-[657]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142018
-[658]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142019
-[659]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142020
-[660]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142022
-[661]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142023
-[662]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142024
-[663]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142025
-[664]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141294
-[665]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141608
-[666]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235750
-[667]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235751
-[668]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235752
-[669]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339248
-[670]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2291559
-[671]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084427
-[672]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1171391
-[673]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141876
-[674]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM304668
-[675]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1695106
-[676]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378858
-[677]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378865
-[678]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378866
-[679]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378867
-[680]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378870
-[681]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1233491
-[682]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1953603
-[683]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379127
-[684]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379131
-[685]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379132
-[686]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379133
-[687]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379134
-[688]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379136
-[689]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379139
-[690]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379144
-[691]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379145
-[692]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379148
-[693]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379149
-[694]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379153
-[695]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379154
-[696]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379156
-[697]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379158
-[698]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379159
-[699]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379161
-[700]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379162
-[701]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379168
-[702]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379169
-[703]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379170
-[704]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379171
-[705]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379172
-[706]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379180
-[707]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379181
-[708]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379183
-[709]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379186
-[710]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379187
-[711]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379188
-[712]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379189
-[713]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379195
-[714]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379196
-[715]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379197
-[716]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379403
-[717]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379404
-[718]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379405
-[719]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379415
-[720]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1236423
-[721]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1236424
-[722]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379427
-[723]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379429
-[724]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379431
-[725]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379435
-[726]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379437
-[727]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379716
-[728]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379718
-[729]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379720
-[730]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143748
-[731]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143749
-[732]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143758
-[733]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143762
-[734]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143766
-[735]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143768
-[736]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143773
-[737]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143775
-[738]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143777
-[739]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143780
-[740]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143785
-[741]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144001
-[742]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144003
-[743]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144008
-[744]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144022
-[745]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144041
-[746]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144047
-[747]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144050
-[748]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144057
-[749]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144060
-[750]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144065
-[751]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261900
-[752]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261901
-[753]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261902
-[754]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261903
-[755]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144243
-[756]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144244
-[757]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM355630
-[758]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418399
-[759]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418804
-[760]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418806
-[761]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418847
-[762]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2285606
-[763]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM166593
-[764]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM167107
-[765]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM167111
-[766]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998516
-[767]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998515
-[768]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998532
-[769]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[770]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM5561284
+[438]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144252
+[439]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143751
+[440]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143794
+[441]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144011
+[442]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144012
+[443]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144029
+[444]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144032
+[445]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144040
+[446]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144045
+[447]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144046
+[448]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325508
+[449]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326776
+[450]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325840
+[451]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325842
+[452]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326101
+[453]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM326108
+[454]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM348342
+[455]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM348353
+[456]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352409
+[457]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352867
+[458]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM352869
+[459]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM325269
+[460]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435276
+[461]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435291
+[462]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141242
+[463]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141247
+[464]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141604
+[465]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141621
+[466]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203783
+[467]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203793
+[468]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM203711
+[469]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418374
+[470]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418802
+[471]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM124662
+[472]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM124667
+[473]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM125035
+[474]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272246
+[475]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272252
+[476]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM272254
+[477]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235737
+[478]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235748
+[479]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235753
+[480]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339200
+[481]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339207
+[482]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339257
+[483]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2291142
+[484]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284216
+[485]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM58745
+[486]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284218
+[487]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2284277
+[488]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585429
+[489]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585431
+[490]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1585437
+[491]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435284
+[492]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435290
+[493]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM435292
+[494]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM125206
+[495]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061243
+[496]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061290
+[497]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061293
+[498]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061163
+[499]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061211
+[500]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1061219
+[501]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339254
+[502]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584660
+[503]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083120
+[504]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629610
+[505]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584690
+[506]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584693
+[507]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584695
+[508]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584696
+[509]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083132
+[510]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584697
+[511]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584698
+[512]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584699
+[513]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584702
+[514]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584703
+[515]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584704
+[516]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584707
+[517]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584709
+[518]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584710
+[519]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083144
+[520]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584711
+[521]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584712
+[522]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584713
+[523]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584715
+[524]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584716
+[525]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584717
+[526]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584718
+[527]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584720
+[528]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083702
+[529]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083703
+[530]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083707
+[531]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083708
+[532]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083709
+[533]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584722
+[534]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584723
+[535]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083746
+[536]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083766
+[537]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584749
+[538]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584750
+[539]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584752
+[540]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629612
+[541]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584755
+[542]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629613
+[543]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584785
+[544]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584791
+[545]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083874
+[546]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1629616
+[547]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584795
+[548]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083893
+[549]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3083896
+[550]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084416
+[551]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084417
+[552]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084419
+[553]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084421
+[554]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084424
+[555]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084425
+[556]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584799
+[557]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584800
+[558]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084536
+[559]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084537
+[560]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084538
+[561]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584811
+[562]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084556
+[563]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084557
+[564]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584812
+[565]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584815
+[566]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584820
+[567]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1584822
+[568]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202002
+[569]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202025
+[570]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM202030
+[571]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2594828
+[572]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28329
+[573]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28347
+[574]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28351
+[575]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28384
+[576]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28802
+[577]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28858
+[578]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245922
+[579]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245923
+[580]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245924
+[581]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245925
+[582]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245927
+[583]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2245928
+[584]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28863
+[585]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28867
+[586]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28880
+[587]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM28895
+[588]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29148
+[589]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29153
+[590]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29161
+[591]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29164
+[592]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29434
+[593]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29446
+[594]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29450
+[595]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM29702
+[596]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30129
+[597]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30164
+[598]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30187
+[599]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30190
+[600]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM30400
+[601]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM139988
+[602]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140937
+[603]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140991
+[604]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM140995
+[605]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141301
+[606]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141336
+[607]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141338
+[608]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141703
+[609]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141707
+[610]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141710
+[611]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141712
+[612]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141714
+[613]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141717
+[614]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141720
+[615]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141722
+[616]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141725
+[617]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141732
+[618]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141735
+[619]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141737
+[620]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141740
+[621]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141744
+[622]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141746
+[623]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141749
+[624]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141755
+[625]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141790
+[626]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141792
+[627]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141794
+[628]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141825
+[629]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141826
+[630]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141832
+[631]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141835
+[632]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141837
+[633]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141838
+[634]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141840
+[635]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141841
+[636]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141843
+[637]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141844
+[638]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141846
+[639]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141847
+[640]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141849
+[641]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141851
+[642]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141853
+[643]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141859
+[644]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141860
+[645]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141864
+[646]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141877
+[647]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141882
+[648]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141886
+[649]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141887
+[650]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141894
+[651]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141898
+[652]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142005
+[653]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142009
+[654]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142015
+[655]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142016
+[656]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142018
+[657]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142019
+[658]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142020
+[659]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142022
+[660]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142023
+[661]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142024
+[662]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM142025
+[663]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141294
+[664]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141608
+[665]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235750
+[666]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235751
+[667]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM235752
+[668]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1339248
+[669]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2291559
+[670]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM3084427
+[671]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1171391
+[672]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM141876
+[673]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM304668
+[674]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1695106
+[675]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378858
+[676]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378865
+[677]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378866
+[678]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378867
+[679]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM378870
+[680]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1233491
+[681]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1953603
+[682]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379127
+[683]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379131
+[684]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379132
+[685]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379133
+[686]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379134
+[687]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379136
+[688]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379139
+[689]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379144
+[690]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379145
+[691]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379148
+[692]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379149
+[693]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379153
+[694]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379154
+[695]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379156
+[696]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379158
+[697]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379159
+[698]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379161
+[699]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379162
+[700]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379168
+[701]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379169
+[702]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379170
+[703]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379171
+[704]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379172
+[705]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379180
+[706]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379181
+[707]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379183
+[708]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379186
+[709]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379187
+[710]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379188
+[711]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379189
+[712]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379195
+[713]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379196
+[714]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379197
+[715]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379403
+[716]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379404
+[717]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379405
+[718]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379415
+[719]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1236423
+[720]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1236424
+[721]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379427
+[722]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379429
+[723]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379431
+[724]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379435
+[725]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379437
+[726]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379716
+[727]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379718
+[728]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM379720
+[729]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143748
+[730]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143749
+[731]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143758
+[732]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143762
+[733]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143766
+[734]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143768
+[735]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143773
+[736]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143775
+[737]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143777
+[738]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143780
+[739]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM143785
+[740]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144001
+[741]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144003
+[742]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144008
+[743]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144022
+[744]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144041
+[745]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144047
+[746]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144050
+[747]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144057
+[748]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144060
+[749]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144065
+[750]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261900
+[751]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261901
+[752]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261902
+[753]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM1261903
+[754]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144243
+[755]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM144244
+[756]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM355630
+[757]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418399
+[758]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418804
+[759]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418806
+[760]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM418847
+[761]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2285606
+[762]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM166593
+[763]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM167107
+[764]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM167111
+[765]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998516
+[766]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998515
+[767]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM2998532
+[768]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[769]: http://www.legislation.govt.nz/act/public/2011/0005/latest/link.aspx?id=DLM5561284
