@@ -1,5 +1,5 @@
 Reprint  
-as at 31 March 2014
+as at 15 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -3469,15 +3469,19 @@ Proceedings under this Act
     
     *   (b) must be paid by 1 or more of the parties to the proceedings as ordered by the court.
     
-    (3) However, if the court thinks it proper, the court may order that the fees and expenses be paid out of public money appropriated by Parliament for the purpose.
+    (3) \[Repealed\]
     
-    (4) If the Crown pays the amount payable under subsection (2)(b), the amount is a debt due to the Crown by the party or parties ordered to pay it and, if that party or those parties do not pay that amount, the Crown may recover it by order of the court in the same manner as a judgment of that court.
+    (4) \[Repealed\]
     
     Section 37A: inserted, on 1 February 2002, by [section 41][330] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 37A(1): amended, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
     Section 37A(2)(a): replaced, on 31 March 2014, by [section 5][331] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
+    
+    Section 37A(3): repealed, on 15 July 2014, by [section 4][332] of the Property (Relationships) Amendment Act 2013 (2013 No 48).
+    
+    Section 37A(4): repealed, on 15 July 2014, by [section 4][332] of the Property (Relationships) Amendment Act 2013 (2013 No 48).
 
 ##### 38 Inquiries, and settlement of schemes
     
@@ -3495,9 +3499,9 @@ Proceedings under this Act
     
     provided that, if the court thinks proper, it may order any party to refund to the Crown such amount as the court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
     
-    Section 38(2): amended, on 1 February 2002, by [section 42(a)][332] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 38(2): amended, on 1 February 2002, by [section 42(a)][333] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 38(2): amended, on 1 February 2002, by [section 42(b)][332] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 38(2): amended, on 1 February 2002, by [section 42(b)][333] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 38(4): replaced, on 1 July 1994, by section 4 of the Matrimonial Property Amendment Act 1994 (1994 No 45).
     
@@ -3505,7 +3509,7 @@ Proceedings under this Act
 
 #### Transfer of proceedings
     
-*   Heading: inserted, on 31 March 2014, by [section 6][333] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
+*   Heading: inserted, on 31 March 2014, by [section 6][334] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
 
 ##### 38A Transfer of proceedings to High Court
     
@@ -3527,11 +3531,11 @@ Proceedings under this Act
     
     (4) Any proceedings transferred to the High Court by an order made under subsection (1) continue in that court as if they had been properly commenced there.
     
-    Section 38A: inserted, on 31 March 2014, by [section 6][333] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
+    Section 38A: inserted, on 31 March 2014, by [section 6][334] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
 
 #### Appeals
     
-*   Heading: inserted, on 1 February 2002, by [section 43][334] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 43][335] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 39 Right of appeal to High Court
     
@@ -3545,15 +3549,15 @@ Proceedings under this Act
     
     (2) A party to proceedings in which there is made a decision to which subsection (1) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
     
-    (3) The [High Court Rules][335] and [sections 74 to 78][336] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under [section 72][337] of that Act.
+    (3) The [High Court Rules][336] and [sections 74 to 78][337] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under [section 72][338] of that Act.
     
-    (4) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under [section 74(1)][336] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (4) On the _ex parte_ application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under [section 74(1)][337] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (5) Subsection (4) overrides subsection (3).
     
     (6) If the appeal relates to proceedings commenced after the death of one of the spouses or partners, this section is modified by [section 93][242].
     
-    Section 39: replaced, on 24 November 2003, by [section 4][338] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 39: replaced, on 24 November 2003, by [section 4][339] of the District Courts Amendment Act 2002 (2002 No 63).
     
     Section 39(6): amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -3561,11 +3565,11 @@ Proceedings under this Act
     
 *   \[Repealed\]
     
-    Section 39A: repealed, on 24 November 2003, by [section 4][338] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 39A: repealed, on 24 November 2003, by [section 4][339] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 39B Appeals to Court of Appeal
     
-*   (1) The provisions of the [Judicature Act 1908][339] relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court under this Act.
+*   (1) The provisions of the [Judicature Act 1908][340] relating to appeals to the Court of Appeal against a decision of the High Court apply to an order or decision of the High Court under this Act.
     
     (2) \[Repealed\]
     
@@ -3575,7 +3579,7 @@ Proceedings under this Act
     
     *   (b) receive further evidence.
     
-    Section 39B: inserted, on 1 February 2002, by [section 43][334] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 39B: inserted, on 1 February 2002, by [section 43][335] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 39B heading: amended, on 1 January 2004, by [section 48(1)][273] of the Supreme Court Act 2003 (2003 No 53).
     
@@ -3583,7 +3587,7 @@ Proceedings under this Act
 
 #### Costs
     
-*   Heading: inserted, on 1 February 2002, by [section 44][340] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 44][341] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 40 Costs
     
@@ -3591,11 +3595,11 @@ Proceedings under this Act
 
 #### Registration of orders
     
-*   Heading: inserted, on 1 February 2002, by [section 45][341] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 45][342] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 41 Registration of orders
     
-*   (1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the [Mining Tenures Registration Act 1962][342] that has not been registered under the [Land Transfer Act 1952][343].
+*   (1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the [Mining Tenures Registration Act 1962][343] that has not been registered under the [Land Transfer Act 1952][344].
     
     (2) For the purposes of this section an order to which this section applies shall cease to have effect where---
         
@@ -3613,40 +3617,40 @@ Proceedings under this Act
     
     Compare: 1963 No 71 ss 57(9), (10), (11), 59(4)
     
-    Section 41(2)(b): amended, on 1 February 2002, by [section 46][344] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 41(2)(b): amended, on 1 February 2002, by [section 46][345] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Protection of spouses' or partners' rights
     
 *   Heading: amended, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
-*   Heading: amended, on 1 February 2002, by [section 47][345] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: amended, on 1 February 2002, by [section 47][346] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 42 Notice of interest against title
     
-*   (1) A claim to an interest, pursuant to this Act, in any land subject to the [Land Transfer Act 1952][343] shall be deemed to be a registrable interest for the purposes of that Act.
+*   (1) A claim to an interest, pursuant to this Act, in any land subject to the [Land Transfer Act 1952][344] shall be deemed to be a registrable interest for the purposes of that Act.
     
     (2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
     
-    (3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to [section 137][346] of the Land Transfer Act 1952 and the provisions of that Act, except subsections (3) and (4) of [section 141][347], shall apply subject to the following modifications:
+    (3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to [section 137][347] of the Land Transfer Act 1952 and the provisions of that Act, except subsections (3) and (4) of [section 141][348], shall apply subject to the following modifications:
         
-    *   (a) any application under [section 143][348] or [section 145][349] or [section 145A][350] of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
+    *   (a) any application under [section 143][349] or [section 145][350] or [section 145A][351] of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
     
-    *   (b) an order under [section 148][351] of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
+    *   (b) an order under [section 148][352] of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
     
-    (4) In the case of land that is not subject to the [Land Transfer Act 1952][343], notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
+    (4) In the case of land that is not subject to the [Land Transfer Act 1952][344], notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
     
     (5) A notice under subsection (2) or subsection (4) may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
     
-    Section 42(2): amended, on 1 February 2002, by [section 48(1)][352] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 42(2): amended, on 1 February 2002, by [section 48(1)][353] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 42(3): amended, on 1 June 2002, by [section 65(4)][353] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 42(3): amended, on 1 June 2002, by [section 65(4)][354] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
     Section 42(3): amended, on 4 November 1982, by section 3 of the Land Transfer Amendment Act 1982 (1982 No 22).
     
-    Section 42(3)(a): amended, on 1 June 2002, by [section 65(4)][353] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
+    Section 42(3)(a): amended, on 1 June 2002, by [section 65(4)][354] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11).
     
-    Section 42(3)(a): amended, on 1 February 2002, by [section 48(2)(a)][352] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 42(3)(a): amended, on 1 February 2002, by [section 48(2)(a)][353] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 42(3)(b): amended, on 1 February 2002, by [section 48(2)(b)][352] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 42(3)(b): amended, on 1 February 2002, by [section 48(2)(b)][353] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 43 Dispositions may be restrained
     
@@ -3658,15 +3662,15 @@ Proceedings under this Act
     
     Compare: 1963 No 71 s 80
     
-    Section 43(1): amended, on 1 February 2002, by [section 49(1)(a)][354] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 43(1): amended, on 1 February 2002, by [section 49(1)(a)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 43(1): amended, on 1 February 2002, by [section 49(1)(b)][354] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 43(1): amended, on 1 February 2002, by [section 49(1)(b)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 43(1): amended, on 1 October 1981, by [section 17(1)][296] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 43(1A): inserted, on 1 February 2002, by [section 49(2)][354] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 43(1A): inserted, on 1 February 2002, by [section 49(2)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 43(2): amended, on 1 February 2002, by [section 49(3)][354] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 43(2): amended, on 1 February 2002, by [section 49(3)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 44 Dispositions may be set aside
     
@@ -3688,21 +3692,21 @@ Proceedings under this Act
     
     Compare: 1963 No 71 s 81
     
-    Section 44(1): amended, on 1 February 2002, by [section 50(1)(a)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(1): amended, on 1 February 2002, by [section 50(1)(a)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 44(1): amended, on 1 February 2002, by [section 50(1)(b)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(1): amended, on 1 February 2002, by [section 50(1)(b)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 44(1): amended, on 1 October 1981, by [section 17(1)][296] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 44(1A): inserted, on 1 February 2002, by [section 50(2)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(1A): inserted, on 1 February 2002, by [section 50(2)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 44(2)(a): amended, on 1 February 2002, by [section 50(3)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(2)(a): amended, on 1 February 2002, by [section 50(3)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 44(2)(b): amended, on 1 February 2002, by [section 50(3)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(2)(b): amended, on 1 February 2002, by [section 50(3)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 44(2)(c): amended, on 1 February 2002, by [section 50(3)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(2)(c): amended, on 1 February 2002, by [section 50(3)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 44(4): amended, on 1 February 2002, by [section 50(4)][355] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 44(4): amended, on 1 February 2002, by [section 50(4)][356] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Orders relating to trusts
     
@@ -3812,7 +3816,7 @@ Proceedings under this Act
     
     *   (b) that person holds a controlling interest in another company (_company B_) that holds equity securities in company A.
     
-    (4) For the purposes of subsections (2) and (3), _equity security_ has the same meaning as in [section 2][356] of the Securities Act 1978\.
+    (4) For the purposes of subsections (2) and (3), _equity security_ has the same meaning as in [section 2][357] of the Securities Act 1978\.
     
     Section 44D: inserted, on 1 February 2002, by [section 51][269] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
@@ -3888,15 +3892,15 @@ Proceedings under this Act
     
     Compare: 1968 No 62 s 43; 1971 No 59 s 7
     
-    Section 45(1): amended, on 1 February 2002, by [section 52(1)(a)][357] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 45(1): amended, on 1 February 2002, by [section 52(1)(a)][358] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 45(1): amended, on 1 February 2002, by [section 52(1)(b)][357] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 45(1): amended, on 1 February 2002, by [section 52(1)(b)][358] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 45(1): amended, on 1 October 1981, by [section 17(1)][296] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 45(2): amended, on 1 July 2013, by [section 413][358] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 45(2): amended, on 1 July 2013, by [section 413][359] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 45(2): amended, on 1 February 2002, by [section 52(2)][357] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 45(2): amended, on 1 February 2002, by [section 52(2)][358] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Protection of creditors
 
@@ -3910,7 +3914,7 @@ Proceedings under this Act
     
     Section 46: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
-    Section 46: amended, on 1 February 2002, by [section 53][359] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 46: amended, on 1 February 2002, by [section 53][360] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 47 Agreements to defeat creditors void
     
@@ -3928,7 +3932,7 @@ Proceedings under this Act
     
     (5) This section applies regardless of any other provision of this Act.
     
-    Section 47: replaced, on 1 February 2002, by [section 54][360] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 47: replaced, on 1 February 2002, by [section 54][361] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 47(1): amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -3940,13 +3944,13 @@ Proceedings under this Act
 
 #### Further miscellaneous provisions
     
-*   Heading: replaced, on 1 February 2002, by [section 55][361] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: replaced, on 1 February 2002, by [section 55][362] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 48 Incidence of orders against personal representative of spouse
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 1 February 2002, by [section 56][362] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 48: repealed, on 1 February 2002, by [section 56][363] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 49 Legal capacity of married women
     
@@ -3982,7 +3986,7 @@ Proceedings under this Act
     
     Section 51(2): amended, on 26 April 2005, by [section 3(3)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
-    Section 51(2): amended, on 1 February 2002, by [section 57][363] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 51(2): amended, on 1 February 2002, by [section 57][364] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 51(5): inserted, on 1 October 1981, by [section 17(1)][296] of the Family Courts Act 1980 (1980 No 161).
 
@@ -4024,7 +4028,7 @@ Proceedings under this Act
     
     *   (b) includes a declaration made under [section 25(3)][127].
     
-    Section 52A: inserted, on 1 February 2002, by [section 58][364] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 52A: inserted, on 1 February 2002, by [section 58][365] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 52A heading: amended, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4062,15 +4066,15 @@ Proceedings under this Act
         
         
     
-    Section 52B: inserted, on 1 February 2002, by [section 58][364] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 52B: inserted, on 1 February 2002, by [section 58][365] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 53 Rules of court and regulations
     
-*   (1) Rules may from time to time be made in the manner prescribed by the [Judicature Act 1908][339] relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
+*   (1) Rules may from time to time be made in the manner prescribed by the [Judicature Act 1908][340] relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
     
-    (1A) Rules may be made under [section 16A][365] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
+    (1A) Rules may be made under [section 16A][366] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
     
-    (2) The Governor-General may from time to time, by Order in Council, make regulations under [section 100A][366] of the Judicature Act 1908 for the purposes of this Act.
+    (2) The Governor-General may from time to time, by Order in Council, make regulations under [section 100A][367] of the Judicature Act 1908 for the purposes of this Act.
     
     (2A) The Governor-General may from time to time, by Order in Council, make regulations---
         
@@ -4082,31 +4086,31 @@ Proceedings under this Act
     
     *   (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    (3) In addition to all other powers conferred by the [District Courts Act 1947][367], the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of District Courts in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
+    (3) In addition to all other powers conferred by the [District Courts Act 1947][368], the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of District Courts in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
     
-    (3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or [section 16A][365] of the Family Courts Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
+    (3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or [section 16A][366] of the Family Courts Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
     
-    (4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the [Judicature Act 1908][339] apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
+    (4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the [Judicature Act 1908][340] apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
     
-    Section 53(1): amended, on 1 April 1980, pursuant to [section 12][368] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 53(1): amended, on 1 April 1980, pursuant to [section 12][369] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 53(1A): inserted, on 13 September 2002, by [section 6][369] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 53(1A): inserted, on 13 September 2002, by [section 6][370] of the Family Courts Amendment Act 2000 (2000 No 65).
     
     Section 53(2A): inserted, on 1 July 1994, by section 5 of the Matrimonial Property Amendment Act 1994 (1994 No 45).
     
-    Section 53(2A)(a): repealed, on 31 March 2014, by [section 7][370] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
+    Section 53(2A)(a): repealed, on 31 March 2014, by [section 7][371] of the Property (Relationships) Amendment Act (No 2) 2013 (2013 No 82).
     
-    Section 53(2A)(ba): inserted, on 1 February 2002, by [section 59(2)][371] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 53(2A)(ba): inserted, on 1 February 2002, by [section 59(2)][372] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 53(2A)(ba): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
     Section 53(3): replaced, on 1 October 1981, by [section 17(1)][296] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 53(3): amended, on 13 September 2002, by [section 6][369] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 53(3): amended, on 13 September 2002, by [section 6][370] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 53(3A): replaced, on 13 September 2002, by [section 6][369] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 53(3A): replaced, on 13 September 2002, by [section 6][370] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 53(4): replaced, on 13 September 2002, by [section 6][369] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 53(4): replaced, on 13 September 2002, by [section 6][370] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 53A Power to prescribe specified sum
     
@@ -4114,25 +4118,25 @@ Proceedings under this Act
     
     (2) Until a different amount is prescribed under this section, the specified sum is $103,000\.
     
-    Section 53A: inserted, on 1 February 2002, by [section 60][372] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 53A: inserted, on 1 February 2002, by [section 60][373] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 53A(2): amended, on 12 December 2002, by [clause 3][373] of the Property (Relationships) Specified Sum Order 2002 (SR 2002/363).
+    Section 53A(2): amended, on 12 December 2002, by [clause 3][374] of the Property (Relationships) Specified Sum Order 2002 (SR 2002/363).
 
 ##### 54 Exemption from stamp duty
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 20 May 1999, by [section 7][374] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 54: repealed, on 20 May 1999, by [section 7][375] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ## Part 8  
 Division of property where one spouse or partner dies
     
-*   Part 8 heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Part 8 heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 *   Part 8 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 #### Application of this Part
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 55 Application of this Part
     
@@ -4152,7 +4156,7 @@ Division of property where one spouse or partner dies
     
     *   (b) after a de facto relationship has ended (other than by the death of one of the de facto partners), one of the de facto partners dies, and no proceedings under [Part 7][122] are commenced before the de facto partner's death.
     
-    Section 55: replaced, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 55: replaced, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 55(1)(ab): inserted, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4162,7 +4166,7 @@ Division of property where one spouse or partner dies
     
 *   In the application of this Act to a spouse or partner who dies on or after 1 February 2002 and who has made a will, it does not matter whether the will was made before, on, or after that date.
     
-    Section 56: replaced, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 56: replaced, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 56: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4170,7 +4174,7 @@ Division of property where one spouse or partner dies
     
 *   Nothing in this Act prevents a person from making an application under the [Law Reform (Testamentary Promises) Act 1949][261] or the [Family Protection Act 1955][262] in respect of the estate of his or her deceased spouse or partner.
     
-    Section 57: replaced, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 57: replaced, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 57: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4178,18 +4182,18 @@ Division of property where one spouse or partner dies
 
 #### Insolvent deceased spouse or partner
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 *   Heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 ##### 58 Rights of creditors preserved
     
-*   (1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of [section 378(1)][376] of the Insolvency Act 2006) on an order being made under [section 379][377] of that Act to administer the estate of a deceased spouse or partner under [Part 6][378] of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
+*   (1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of [section 378(1)][377] of the Insolvency Act 2006) on an order being made under [section 379][378] of that Act to administer the estate of a deceased spouse or partner under [Part 6][379] of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
     
-    (2) If, had this Act not been passed, any property that is included in the estate of a deceased spouse or partner could have been dealt with in accordance with [section 31][379] of the Administration Act 1969, then that property (and no other property) may be dealt with under that section as if this Act had not been passed.
+    (2) If, had this Act not been passed, any property that is included in the estate of a deceased spouse or partner could have been dealt with in accordance with [section 31][380] of the Administration Act 1969, then that property (and no other property) may be dealt with under that section as if this Act had not been passed.
     
-    Section 58: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 58: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 58(1): replaced, on 3 December 2007, by [section 445][380] of the Insolvency Act 2006 (2006 No 55).
+    Section 58(1): replaced, on 3 December 2007, by [section 445][381] of the Insolvency Act 2006 (2006 No 55).
     
     Section 58(2): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4197,9 +4201,9 @@ Division of property where one spouse or partner dies
     
 *   (1) This section applies in the following cases:
         
-    *   (a) if, after the death of a spouse or partner, the family home (including a homestead) or, if [section 11A][60] applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of [section 378(1)][376] of the Insolvency Act 2006) on an order being made under [section 379][377] of that Act to administer the estate of a deceased spouse or partner under [Part 6][378] of that Act:
+    *   (a) if, after the death of a spouse or partner, the family home (including a homestead) or, if [section 11A][60] applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of [section 378(1)][377] of the Insolvency Act 2006) on an order being made under [section 379][378] of that Act to administer the estate of a deceased spouse or partner under [Part 6][379] of that Act:
     
-    *   (b) if, after the death of a spouse or partner, the family home (including a homestead) or, if [section 11A][60] applies, the proceeds of the sale of the family home may be dealt with in accordance with [section 31][379] of the Administration Act 1969\.
+    *   (b) if, after the death of a spouse or partner, the family home (including a homestead) or, if [section 11A][60] applies, the proceeds of the sale of the family home may be dealt with in accordance with [section 31][380] of the Administration Act 1969\.
     
     (2) If this section applies, the appointee (in any case where subsection (1)(a) applies) or the administrator of the estate of the deceased spouse or partner (in any case where subsection (1)(b) applies) must pay to the surviving spouse or partner the lesser of---
         
@@ -4221,9 +4225,9 @@ Division of property where one spouse or partner dies
     
     (4) If, in any case to which this section applies, [section 11B][61] applies, the appointee or, as the case requires, the administrator must pay to the surviving spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the court may direct, on application by the appointee or the administrator (as the case requires) or on application by the surviving spouse or partner.
     
-    Section 59: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 59: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 59(1)(a): replaced, on 3 December 2007, by [section 445][380] of the Insolvency Act 2006 (2006 No 55).
+    Section 59(1)(a): replaced, on 3 December 2007, by [section 445][381] of the Insolvency Act 2006 (2006 No 55).
     
     Section 59(1)(b): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4239,7 +4243,7 @@ Division of property where one spouse or partner dies
 
 #### Proceedings commenced while both spouses or partners alive
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 *   Heading: amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 ##### 60 Incidence of orders against personal representative of spouse or partner
@@ -4272,7 +4276,7 @@ Division of property where one spouse or partner dies
     
     (7) In proceedings commenced after the death of one of the spouses or partners, [section 94][243] applies instead of this section.
     
-    Section 60: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 60: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 60 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4290,7 +4294,7 @@ Division of property where one spouse or partner dies
 
 #### Surviving spouse or partner may choose between division under this Act and taking under will or intestacy
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 *   Heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 ##### 61 Surviving spouse or partner may choose option
@@ -4307,7 +4311,7 @@ Division of property where one spouse or partner dies
     
     *   (c) if the surviving spouse or partner is entitled to a beneficial interest on the intestacy or partial intestacy of the deceased spouse or partner, to receive that interest.
     
-    Section 61: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 61: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 61 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4339,11 +4343,11 @@ Division of property where one spouse or partner dies
     
     *   (b) any other persons who the court considers should be heard.
     
-    (3) The court's power under this section extends to cases where the time for making the choice has already expired, including cases where it expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][381].
+    (3) The court's power under this section extends to cases where the time for making the choice has already expired, including cases where it expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][382].
     
     (4) The court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
     
-    Section 62: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 62: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 62(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4363,7 +4367,7 @@ Division of property where one spouse or partner dies
     
     *   (b) in the case of a surviving spouse or civil union partner, [section 64][210] applies.
     
-    Section 63: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 63: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 63 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4385,7 +4389,7 @@ Division of property where one spouse or partner dies
     
     Section 64: replaced, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
-    Section 64(a): amended, on 1 November 2007, by [section 41][382] of the Wills Act 2007 (2007 No 36).
+    Section 64(a): amended, on 1 November 2007, by [section 41][383] of the Wills Act 2007 (2007 No 36).
 
 ##### 65 How choice to be made
     
@@ -4407,7 +4411,7 @@ Division of property where one spouse or partner dies
             
         *   (i) with the administrator of the estate of the deceased spouse or partner; or
         
-        *   (ii) if administration of that estate has not been granted in New Zealand, in the registry of the High Court in which an application for a grant of administration of that estate would, under the [High Court Rules][335], be required to be filed.
+        *   (ii) if administration of that estate has not been granted in New Zealand, in the registry of the High Court in which an application for a grant of administration of that estate would, under the [High Court Rules][336], be required to be filed.
         
         
     
@@ -4415,7 +4419,7 @@ Division of property where one spouse or partner dies
     
     (4) A choice of option is effective when a notice indicating the choice is lodged in accordance with subsection (2)(c).
     
-    Section 65: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 65: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 65(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4427,25 +4431,25 @@ Division of property where one spouse or partner dies
     
 *   (1) If a notice is lodged in accordance with [section 65(2)(c)(ii)][211], the surviving spouse or partner (the _survivor_) must, without delay, give a copy or copies of the notice in accordance with subsections (2) to (4).
     
-    (2) If, at the time of his or her death, the deceased spouse or partner was the registered holder of any government stock or local authorities stock (as those terms are defined in [section 64(2)][383] of the Administration Act 1969) to which that section applies, the survivor must give a copy of the notice to---
+    (2) If, at the time of his or her death, the deceased spouse or partner was the registered holder of any government stock or local authorities stock (as those terms are defined in [section 64(2)][384] of the Administration Act 1969) to which that section applies, the survivor must give a copy of the notice to---
         
     *   (a) the registrar of that stock (if paragraph (b) does not apply); or
     
     *   (b) any person who has been registered as the holder of that stock in reliance on that section.
     
-    (3) If, at the time of his or her death, the deceased spouse or partner was the registered holder of shares or debentures to which [section 64A][384] of the Administration Act 1969 applies, the survivor must give a copy of the notice to---
+    (3) If, at the time of his or her death, the deceased spouse or partner was the registered holder of shares or debentures to which [section 64A][385] of the Administration Act 1969 applies, the survivor must give a copy of the notice to---
         
     *   (a) the directors of the company that issued the shares or debentures (if paragraph (b) does not apply); or
     
     *   (b) any person who has been registered as the holder of those shares or debentures in reliance on that section.
     
-    (4) If the death of the deceased spouse or partner means that any sum of money may be paid, under [section 65][385] of the Administration Act 1969, by any person, the survivor must give a copy of the notice to---
+    (4) If the death of the deceased spouse or partner means that any sum of money may be paid, under [section 65][386] of the Administration Act 1969, by any person, the survivor must give a copy of the notice to---
         
     *   (a) the person authorised under that section to make payment of that sum (if paragraph (b) does not apply); or
     
     *   (b) any person to whom that sum or part of that sum has been paid in reliance on that section (other than subsection (3)).
     
-    Section 66: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 66: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 66(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4461,7 +4465,7 @@ Division of property where one spouse or partner dies
     
     (2) This section is subject to the court's power under [section 69][215] to set aside a choice of option.
     
-    Section 67: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 67: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 67(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4471,7 +4475,7 @@ Division of property where one spouse or partner dies
     
     (2) The court may, under [section 69][215], set aside a choice of option imposed by this section.
     
-    Section 68: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 68: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 68(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4503,7 +4507,7 @@ Division of property where one spouse or partner dies
     
     *   (c) any other matters that the court considers relevant.
     
-    Section 69: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 69: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 69(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4517,13 +4521,13 @@ Division of property where one spouse or partner dies
     
 *   The court may not set aside a choice of option under [section 69][215] unless the application under that section is made before the final distribution of the estate of the deceased spouse or partner.
     
-    Section 70: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 70: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 70: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 #### Distribution of estates
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 71 Distribution of estate before choice made
     
@@ -4537,13 +4541,13 @@ Division of property where one spouse or partner dies
     
     (2) Despite subsection (1), a distribution may be made in the following cases:
         
-    *   (a) where [section 47(2)][386] of the Administration Act 1969 applies to the distribution:
+    *   (a) where [section 47(2)][387] of the Administration Act 1969 applies to the distribution:
     
     *   (b) where the surviving spouse or partner consents in writing to the distribution:
     
     *   (c) where the court, on application made to it for the purpose, approves the distribution.
     
-    Section 71: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 71: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 71(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4563,7 +4567,7 @@ Division of property where one spouse or partner dies
     
     (2) Despite subsection (1), a distribution may be made in any of the cases referred to in [section 71(2)][218].
     
-    Section 72: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 72: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 72(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4597,7 +4601,7 @@ Division of property where one spouse or partner dies
     
     *   (c) while any further right of appeal (whether to the Court of Appeal or to the Supreme Court) subsists in relation to the proceedings, or while any such further appeal awaits determination.
     
-    Section 73: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 73: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 73(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4619,7 +4623,7 @@ Division of property where one spouse or partner dies
         
         
     
-    *   (b) after every notice (if any) of an intention to make an application has lapsed in accordance with [section 48(1)][387] of the Administration Act 1969\.
+    *   (b) after every notice (if any) of an intention to make an application has lapsed in accordance with [section 48(1)][388] of the Administration Act 1969\.
     
     (2) Where this section applies,---
         
@@ -4629,7 +4633,7 @@ Division of property where one spouse or partner dies
     
     *   (c) no action lies against the personal representative for having made the distribution.
     
-    Section 74: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 74: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 74(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4639,7 +4643,7 @@ Division of property where one spouse or partner dies
 
 #### Effect of choice of division under this Act (option A)
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 75 Effect on application of Act of choice of division under this Act
     
@@ -4649,7 +4653,7 @@ Division of property where one spouse or partner dies
     
     *   (b) [sections 2 to 53A][22] apply to the proceedings, but some of the sections are modified or affected by [sections 79 to 94][228].
     
-    Section 75: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 75: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 75: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4665,11 +4669,11 @@ Division of property where one spouse or partner dies
     
     (2) The reference in subsection (1)(a) to gifts to the surviving spouse or partner in the will of the deceased spouse or partner includes the whole of the interest of the surviving spouse or partner as a beneficiary in any real or personal property to which the surviving spouse or partner would otherwise be entitled under the will of the deceased spouse or partner.
     
-    (3) The surviving spouse or partner has no entitlement under [Part 3][388] of the Administration Act 1969\.
+    (3) The surviving spouse or partner has no entitlement under [Part 3][389] of the Administration Act 1969\.
     
     (4) This section is subject to [section 77][225].
     
-    Section 76: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 76: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 76(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4695,7 +4699,7 @@ Division of property where one spouse or partner dies
     
     (3) The court may not make an order under this section unless the application under this section is made before the final distribution of the estate of the deceased spouse or partner.
     
-    Section 77: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 77: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 77 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4727,7 +4731,7 @@ Division of property where one spouse or partner dies
     
     *   (b) the reasonable funeral expenses of the deceased spouse or partner.
     
-    Section 78: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 78: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 78 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4749,7 +4753,7 @@ Division of property where one spouse or partner dies
 
 #### Sections modifying or affecting earlier sections in proceedings commenced after death of spouse or partner
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 *   Heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
 ##### 79 Date at which shares determined
@@ -4762,7 +4766,7 @@ Division of property where one spouse or partner dies
     
     (2) This section is subject to [Part 6][91] and [section 87][236].
     
-    Section 79: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 79: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 79(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4786,7 +4790,7 @@ Division of property where one spouse or partner dies
     
     *   (b) if the marriage, civil union, or de facto relationship does not end while both spouses or partners are alive, by the use to which they were putting the property at the date of the death of the deceased spouse or partner.
     
-    Section 80: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 80: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 80(2)(a): amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4808,7 +4812,7 @@ Division of property where one spouse or partner dies
     
     (4) Nothing in this section applies to property to which [section 10(2)][51] applies.
     
-    Section 81: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 81: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 81 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4824,7 +4828,7 @@ Division of property where one spouse or partner dies
     
     (4) Nothing in this section applies to property to which [section 10(2)][51] applies.
     
-    Section 82: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 82: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 82 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4840,7 +4844,7 @@ Division of property where one spouse or partner dies
     
     (2) This section is subject to [Part 6][91] and [section 87][236].
     
-    Section 83: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 83: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 83(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4852,7 +4856,7 @@ Division of property where one spouse or partner dies
     
 *   All property acquired by the surviving spouse or partner after the death of the deceased spouse or partner is separate property unless the court considers that it is just in the circumstances to treat the property or any part of it as relationship property.
     
-    Section 84: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 84: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 84: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -4876,7 +4880,7 @@ Division of property where one spouse or partner dies
     
     (4) If subsection (3) applies, and the court is satisfied that the grounds specified in that subsection for making an order on an application made under this Act are made out, the share of the surviving de facto partner and of the deceased de facto partner's estate in the relationship property is to be determined in accordance with the contribution of each de facto partner to the de facto relationship.
     
-    Section 85: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 85: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 85 heading: amended, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4900,7 +4904,7 @@ Division of property where one spouse or partner dies
     
     *   (b) the surviving spouse or partner.
     
-    Section 86: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 86: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 86(1)(a): amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4942,7 +4946,7 @@ Division of property where one spouse or partner dies
     
     (4) This section is subject to [section 47][183].
     
-    Section 87: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 87: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 87 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4970,11 +4974,11 @@ Division of property where one spouse or partner dies
     
     *   (b) the Official Assignee in bankruptcy of the property of either spouse or partner:
     
-    *   (c) an appointee (within the meaning of [section 378(1)][376] of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under [section 379][377] of that Act.
+    *   (c) an appointee (within the meaning of [section 378(1)][377] of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under [section 379][378] of that Act.
     
-    (4) Subsection (2) is subject to [section 12][389] of the Succession (Homicide) Act 2007\.
+    (4) Subsection (2) is subject to [section 12][390] of the Succession (Homicide) Act 2007\.
     
-    Section 88: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 88: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 88(1)(a): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -4986,9 +4990,9 @@ Division of property where one spouse or partner dies
     
     Section 88(3)(b): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
-    Section 88(3)(c): replaced, on 3 December 2007, by [section 445][380] of the Insolvency Act 2006 (2006 No 55).
+    Section 88(3)(c): replaced, on 3 December 2007, by [section 445][381] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 88(4): inserted, on 17 November 2007, by [section 17][390] of the Succession (Homicide) Act 2007 (2007 No 95).
+    Section 88(4): inserted, on 17 November 2007, by [section 17][391] of the Succession (Homicide) Act 2007 (2007 No 95).
 
 ##### 89 Time for commencement of proceedings
     
@@ -5026,9 +5030,9 @@ Division of property where one spouse or partner dies
         
         
     
-    (2) The court's power to grant an extension under [section 24(2)][126] extends to cases where the time for making an application expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][381].
+    (2) The court's power to grant an extension under [section 24(2)][126] extends to cases where the time for making an application expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][382].
     
-    Section 89: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 89: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 89(1): replaced, on 26 April 2005, by [section 3(4)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -5052,11 +5056,11 @@ Division of property where one spouse or partner dies
     
     *   (b) any other persons who have an interest in the property that would be affected by the order sought and who the court considers should be heard.
     
-    (3) The court's power under this section extends to cases where the time for commencing proceedings has already expired, including cases where it expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][381].
+    (3) The court's power under this section extends to cases where the time for commencing proceedings has already expired, including cases where it expired before the commencement, on 1 February 2002, of the [Property (Relationships) Amendment Act 2001][382].
     
     (4) The court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
     
-    Section 90: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 90: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 90(1)(a): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -5084,7 +5088,7 @@ Division of property where one spouse or partner dies
         
         
     
-    Section 91: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 91: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 91(1): amended, on 26 April 2005, by [section 3(1)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -5102,7 +5106,7 @@ Division of property where one spouse or partner dies
     
 *   In [section 37(1)][154], _any person having an interest in the property which would be affected by the order_ does not include a person who has an interest only as a beneficiary of, or claimant against, the estate of the deceased spouse or partner, but the court may hear such a person if it considers it necessary to do so.
     
-    Section 92: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 92: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 92: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
 
@@ -5110,11 +5114,11 @@ Division of property where one spouse or partner dies
     
 *   In [section 39(2)][160], _any other person prejudicially affected_ does not include a person who is affected only as a beneficiary of, or claimant against, the estate of the deceased spouse or partner.
     
-    Section 93: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 93: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 93: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
-    Section 93: amended, on 24 November 2003, by [section 4][338] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 93: amended, on 24 November 2003, by [section 4][339] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 94 Incidence of orders against personal representative of spouse or partner
     
@@ -5142,7 +5146,7 @@ Division of property where one spouse or partner dies
     
     (6) Where the court makes any order under this Act against the personal representative of a deceased spouse or partner (other than an order made under [section 27][133] or [section 28][134]), the property comprised in that order does not form part of the estate of the deceased for the purposes of the [Law Reform (Testamentary Promises) Act 1949][261] or the [Family Protection Act 1955][262].
     
-    Section 94: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 94: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 94 heading: amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -5156,15 +5160,15 @@ Division of property where one spouse or partner dies
 
 #### Effect of choice of will or intestacy (option B)
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 95 Effect on application of Act of choice of will or intestacy
     
-*   (1) If the surviving spouse or partner chooses option B, nothing in this Act (other than [sections 20 to 20F][84] or [sections 58][202] and [59][203]) applies to the distribution of property under the will of the deceased spouse or partner or under [Part 3][388] of the Administration Act 1969\.
+*   (1) If the surviving spouse or partner chooses option B, nothing in this Act (other than [sections 20 to 20F][84] or [sections 58][202] and [59][203]) applies to the distribution of property under the will of the deceased spouse or partner or under [Part 3][389] of the Administration Act 1969\.
     
-    (2) To avoid any doubt, the fact that a surviving spouse or partner chooses, or is treated as having chosen, option B does not prevent that person from disclaiming any interest as a beneficiary in any real or personal property to which he or she is entitled under the will of the deceased spouse or partner or under [Part 3][388] of the Administration Act 1969\.
+    (2) To avoid any doubt, the fact that a surviving spouse or partner chooses, or is treated as having chosen, option B does not prevent that person from disclaiming any interest as a beneficiary in any real or personal property to which he or she is entitled under the will of the deceased spouse or partner or under [Part 3][389] of the Administration Act 1969\.
     
-    Section 95: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 95: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 95(1): amended, on 26 April 2005, by [section 3(2)][259] of the Property (Relationships) Amendment Act 2005 (2005 No 19).
     
@@ -5173,11 +5177,11 @@ Division of property where one spouse or partner dies
 ## Part 9  
 Transitional provisions and savings
     
-*   Part 9: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Part 9: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Transitional provisions
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 96 Transitional provisions applying on and from 1 February 1977
     
@@ -5199,9 +5203,9 @@ Transitional provisions and savings
     
     the proceedings continue under this Act.
     
-    (4) Proceedings commenced before 1 February 1977 that are continued under this Act are continued as if the [Property (Relationships) Amendment Act 2001][381] had not been passed.
+    (4) Proceedings commenced before 1 February 1977 that are continued under this Act are continued as if the [Property (Relationships) Amendment Act 2001][382] had not been passed.
     
-    Section 96: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 96: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 97 Transitional provisions applying on and from 1 February 2002
     
@@ -5211,7 +5215,7 @@ Transitional provisions and savings
     
     *   (b) the hearing of the proceedings commenced before 1 February 2002,---
     
-    the proceedings continue as if the [Property (Relationships) Amendment Act 2001][381] had not been passed, unless the parties agree to the proceedings being continued under this Act as amended by the Property (Relationships) Amendment Act 2001\.
+    the proceedings continue as if the [Property (Relationships) Amendment Act 2001][382] had not been passed, unless the parties agree to the proceedings being continued under this Act as amended by the Property (Relationships) Amendment Act 2001\.
     
     (2) If---
         
@@ -5219,7 +5223,7 @@ Transitional provisions and savings
     
     *   (b) the hearing of the proceedings had not commenced before 1 February 2002,---
     
-    the proceedings continue under this Act as amended by the [Property (Relationships) Amendment Act 2001][381].
+    the proceedings continue under this Act as amended by the [Property (Relationships) Amendment Act 2001][382].
     
     (3) If proceedings were commenced under the Matrimonial Property Act 1963 on or after 1 February 1977 and before 1 February 2002 by---
         
@@ -5239,7 +5243,7 @@ Transitional provisions and savings
     
     *   (c) one spouse dies or both spouses die,---
     
-    the proceedings continue under this Act, except [sections 61 to 95][207], as amended by the [Property (Relationships) Amendment Act 2001][381], as if the spouse or spouses had not died.
+    the proceedings continue under this Act, except [sections 61 to 95][207], as amended by the [Property (Relationships) Amendment Act 2001][382], as if the spouse or spouses had not died.
     
     (5) If, before 1 February 2002,---
         
@@ -5249,25 +5253,25 @@ Transitional provisions and savings
     
     *   (c) one spouse dies or both spouses die,---
     
-    the proceedings continue under this Act, as if this Act had not been amended by the [Property (Relationships) Amendment Act 2001][381], and as if the spouse or spouses had not died.
+    the proceedings continue under this Act, as if this Act had not been amended by the [Property (Relationships) Amendment Act 2001][382], and as if the spouse or spouses had not died.
     
     (6) If proceedings were commenced in the High Court before 1 February 2002, the proceedings continue in that court, whether or not the hearing of the proceedings commenced before 1 February 2002\.
     
-    Section 97: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 97: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 97A Transitional provisions applying in respect of section 2BAA
     
-*   (1) In this section, _specified date_ means the date of commencement of the [Property (Relationships) Amendment Act 2008][391].
+*   (1) In this section, _specified date_ means the date of commencement of the [Property (Relationships) Amendment Act 2008][392].
     
     (2) Where the hearing of any proceedings in which the duration of a civil union is in issue commenced before the specified date, the proceedings continue as if [section 2BAA][26] had not been passed.
     
     (3) Where the hearing of any proceedings in which the duration of a civil union is in issue commenced after the specified date, the proceedings continue as if [section 2BAA][26] had been passed.
     
-    Section 97A: inserted, on 18 May 2009, by [section 7][392] of the Property (Relationships) Amendment Act 2008 (2008 No 83).
+    Section 97A: inserted, on 18 May 2009, by [section 7][393] of the Property (Relationships) Amendment Act 2008 (2008 No 83).
 
 #### Savings
     
-*   Heading: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Heading: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 98 Savings applying on and from 1 February 1977
     
@@ -5277,13 +5281,13 @@ Transitional provisions and savings
     
     (3) Nothing in this Act affects the validity of any agreement entered into before 1 February 1977 by way of settlement of any question that has arisen in relation to relationship property, and every such agreement has effect as if this Act had not been passed.
     
-    Section 98: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 98: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 99 Savings applying on and from 1 February 2002
     
 *   The death of a spouse or de facto partner does not affect the validity or effect of anything already done or suffered under this Act or under the Matrimonial Property Act 1963\.
     
-    Section 99: inserted, on 1 February 2002, by [section 61][375] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 99: inserted, on 1 February 2002, by [section 61][376] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ---
 
@@ -5294,7 +5298,7 @@ Notice of claim of interest under Matrimonial Property Act
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 February 2002, by [section 62][393] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Schedule 1: repealed, on 1 February 2002, by [section 62][394] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ---
 
@@ -5305,7 +5309,7 @@ Consequential amendments
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 February 2002, by [section 62][393] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Schedule 2: repealed, on 1 February 2002, by [section 62][394] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ---
 
@@ -5316,7 +5320,41 @@ Enactments repealed
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 February 2002, by [section 62][393] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+*   Schedule 3: repealed, on 1 February 2002, by [section 62][394] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+
+---
+
+# Property (Relationships) Amendment Act 2013Public Act2013 No 48
+
+Date of assent15 July 2013
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Property (Relationships) Amendment Act 2013][395].
+
+##### 2 Commencement
+    
+*   (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+    
+    (2) If any provision of this Act has not earlier been brought into force under subsection (1), it comes into force on the day that is 1 year after the date on which this Act receives the Royal assent.
+
+##### 3 Principal Act
+    
+*   This Act amends the Property (Relationships) Act 1976 (the _principal Act_).
+
+##### 5 Transitional provisions relating to reimbursement of costs of court-appointed counsel
+    
+*   (1) Section 37A(3) and (4) of the principal Act, as in force before the commencement of section 4 of this Act, continue to apply to proceedings commenced before the commencement of section 4\.
+    
+    (2) This subsection applies to---
+        
+    *   (a) any order made under section 37A(3) of the principal Act as in force before the commencement of section 4, but only if, before that commencement, no steps had been taken to enforce that order; and
+    
+    *   (b) any order made, after that commencement, under section 37A(3) of the principal Act as continued by subsection (1).
+    
+    (3) Despite subsection (1), in relation to any orders to which subsection (2) applies, section 37A(4) of the principal Act, as continued by subsection (1), must be read as if for the words "by order of the court in the same manner as a judgment of that court" there were substituted the words "in the same manner as a judgment of the court".
 
 #### 
 
@@ -5330,45 +5368,47 @@ Enactments repealed
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][394] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][395] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][396] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][397] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][396] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][397] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][398] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][399] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Property (Relationships) Amendment Act (No 2) 2013][398] (2013 No 82)
+*   [Property (Relationships) Amendment Act (No 2) 2013][400] (2013 No 82)
+    
+    [Property (Relationships) Amendment Act 2013][395] (2013 No 48)
     
     Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][260]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][358]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][359]
     
-    [Property (Relationships) Amendment Act 2008][391] (2008 No 83)
+    [Property (Relationships) Amendment Act 2008][392] (2008 No 83)
     
-    Succession (Homicide) Act 2007 (2007 No 95): [section 17][390]
+    Succession (Homicide) Act 2007 (2007 No 95): [section 17][391]
     
-    Wills Act 2007 (2007 No 36): [section 41][382]
+    Wills Act 2007 (2007 No 36): [section 41][383]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][380]
+    Insolvency Act 2006 (2006 No 55): [section 445][381]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][271]
     
-    [Property (Relationships) Amendment Act 2005][399] (2005 No 19)
+    [Property (Relationships) Amendment Act 2005][401] (2005 No 19)
     
     Supreme Court Act 2003 (2003 No 53): [section 48(1)][273]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][338]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][339]
     
-    [Property (Relationships) Specified Sum Order 2002][400] (SR 2002/363)
+    [Property (Relationships) Specified Sum Order 2002][402] (SR 2002/363)
     
-    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 65(4)][353]
+    Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 65(4)][354]
     
-    [Property (Relationships) Amendment Act 2001][381] (2001 No 5)
+    [Property (Relationships) Amendment Act 2001][382] (2001 No 5)
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][369]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][370]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][374]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][375]
     
     Matrimonial Property Amendment Act 1998 (1998 No 54)
     
@@ -5384,7 +5424,7 @@ Enactments repealed
     
     District Courts Amendment Act 1979 (1979 No 125): [section 2(3)][297]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][368]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][369]
 
 
 
@@ -5720,72 +5760,74 @@ Enactments repealed
 [329]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM6025512
 [330]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87259
 [331]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617409
-[332]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87261
-[333]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617410
-[334]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87262
-[335]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM147653
-[336]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM243909
-[337]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM243795
-[338]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM168713
-[339]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM144692
-[340]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87267
-[341]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87269
-[342]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM339688
-[343]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM269031
-[344]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87271
-[345]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87272
-[346]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271228
-[347]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271238
-[348]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271247
-[349]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271252
-[350]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271258
-[351]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271265
-[352]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87273
-[353]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM141497
-[354]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87274
-[355]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87276
-[356]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM26805
-[357]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87292
-[358]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM3360714
-[359]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87293
-[360]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87294
-[361]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87296
-[362]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87298
-[363]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87299
-[364]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87500
-[365]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM42296
-[366]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM147641
-[367]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM242775
-[368]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM35049
-[369]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM76831
-[370]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617413
-[371]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87504
-[372]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87505
-[373]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM169406
-[374]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM29377
-[375]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87507
-[376]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387733
-[377]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387746
-[378]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387732
-[379]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392842
-[380]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387857
-[381]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM86487
-[382]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM413569
-[383]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393014
-[384]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393023
-[385]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393030
-[386]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392877
-[387]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392883
-[388]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393099
-[389]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM970303
-[390]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM970309
-[391]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM1303800
-[392]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM1303811
-[393]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87568
-[394]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998516
-[395]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998515
-[396]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998532
-[397]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[398]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617403
-[399]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM336388
-[400]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM169400
+[332]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5301308
+[333]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87261
+[334]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617410
+[335]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87262
+[336]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM147653
+[337]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM243909
+[338]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM243795
+[339]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM168713
+[340]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM144692
+[341]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87267
+[342]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87269
+[343]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM339688
+[344]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM269031
+[345]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87271
+[346]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87272
+[347]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271228
+[348]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271238
+[349]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271247
+[350]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271252
+[351]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271258
+[352]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM271265
+[353]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87273
+[354]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM141497
+[355]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87274
+[356]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87276
+[357]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM26805
+[358]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87292
+[359]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM3360714
+[360]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87293
+[361]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87294
+[362]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87296
+[363]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87298
+[364]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87299
+[365]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87500
+[366]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM42296
+[367]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM147641
+[368]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM242775
+[369]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM35049
+[370]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM76831
+[371]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617413
+[372]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87504
+[373]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87505
+[374]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM169406
+[375]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM29377
+[376]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87507
+[377]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387733
+[378]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387746
+[379]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387732
+[380]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392842
+[381]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM387857
+[382]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM86487
+[383]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM413569
+[384]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393014
+[385]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393023
+[386]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393030
+[387]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392877
+[388]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM392883
+[389]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM393099
+[390]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM970303
+[391]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM970309
+[392]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM1303800
+[393]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM1303811
+[394]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM87568
+[395]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5301304
+[396]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998516
+[397]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998515
+[398]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM2998532
+[399]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[400]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM5617403
+[401]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM336388
+[402]: http://www.legislation.govt.nz/act/public/1976/0166/latest/link.aspx?id=DLM169400
