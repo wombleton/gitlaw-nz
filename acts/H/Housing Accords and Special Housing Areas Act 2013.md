@@ -1,5 +1,5 @@
 Reprint  
-as at 9 January 2014
+as at 17 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1963,12 +1963,14 @@ The district of each of the following territorial authorities:
 *   Hutt City Council
 *   Kapiti Coast District Council
 *   Porirua City Council
+*   Queenstown--Lakes District Council
 *   Tauranga City Council
 *   Upper Hutt City Council
 *   Wellington City Council
 *   Western Bay of Plenty District Council
 
-*   Schedule: amended, on 9 January 2014, by [clause 3][227] of the Housing Accords and Special Housing Areas (Schedule 1) Order 2013 (SR 2013/493).
+*   Schedule: amended, on 17 July 2014, by [clause 3][227] of the Housing Accords and Special Housing Areas (Schedule 1) Order 2014 (LI 2014/190).
+*   Schedule: amended, on 9 January 2014, by [clause 3][228] of the Housing Accords and Special Housing Areas (Schedule 1) Order 2013 (SR 2013/493).
 
 ---
 
@@ -2006,11 +2008,11 @@ In the following table,---
 
 *   (8) [section 72(1)][89] (which relates to the time within which, after the date of notice of acceptance or adoption of a request or part of a request, an authorised agency must give and notify its decision).
 
-*   (a) in the circumstances described in [section 88C(1)][228] of the Resource Management Act 1991, the time period referred to in section 88C(2) of that Act (relating to requests for information under [section 92][144] of that Act (as applied by [section 28][38] of this Act))
+*   (a) in the circumstances described in [section 88C(1)][229] of the Resource Management Act 1991, the time period referred to in section 88C(2) of that Act (relating to requests for information under [section 92][144] of that Act (as applied by [section 28][38] of this Act))
 
-*   (b) in the circumstances described in [section 88C(3) or (5)][228] of the Resource Management Act 1991, the applicable time period referred to in section 88C(4) or (6) of that Act (which relates to the commissioning of a report under [section 92][144] of that Act (as applied by[section 28][38] of this Act))
+*   (b) in the circumstances described in [section 88C(3) or (5)][229] of the Resource Management Act 1991, the applicable time period referred to in section 88C(4) or (6) of that Act (which relates to the commissioning of a report under [section 92][144] of that Act (as applied by[section 28][38] of this Act))
 
-*   (c) in the circumstances described in [section 88E(1)][229] of the Resource Management Act 1991, the time period referred to in section 88E(2) of that Act (relating to deferring the notification or hearing of a resource consent application pending additional resource consent applications under [section 91][147] of that Act (as applied by [section 32][42] of this Act))
+*   (c) in the circumstances described in [section 88E(1)][230] of the Resource Management Act 1991, the time period referred to in section 88E(2) of that Act (relating to deferring the notification or hearing of a resource consent application pending additional resource consent applications under [section 91][147] of that Act (as applied by [section 32][42] of this Act))
 
 *   (d) if a direction is given under [section 34(4)][45] of this Act, the time period starting from the date of the direction and ending on the date on which the infrastructure provider or local authority provides the information
 
@@ -2091,7 +2093,7 @@ Transitional provisions
     
     *   (c) [Part 2][25] continues to apply for the purposes of paragraphs (a) and (b) as if the former accord territorial authority were still an authorised agency.
     
-    (6) Subclause (5)(b)(iii) is subject to [clause 3][230].
+    (6) Subclause (5)(b)(iii) is subject to [clause 3][231].
 
 ##### 3 Right to elect who considers objections against decisions, etc, of accord territorial authority after termination of housing accord
     
@@ -2147,15 +2149,17 @@ Transitional provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][231] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][232] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][232] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][233] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][233] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][234] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][234] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][235] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Housing Accords and Special Housing Areas (Schedule 1) Order 2013][235] (SR 2013/493)
+*   [Housing Accords and Special Housing Areas (Schedule 1) Order 2014][236] (LI 2014/190)
+    
+    [Housing Accords and Special Housing Areas (Schedule 1) Order 2013][237] (SR 2013/493)
 
 
 
@@ -2386,12 +2390,14 @@ Transitional provisions
 [224]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM239362
 [225]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM129566
 [226]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM234838
-[227]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM5811412
-[228]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM233872
-[229]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2416141
-[230]: http://www.legislation.govt.nz/act/public/2013/0072/latest/whole.html#DLM5573607
-[231]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998516
-[232]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998515
-[233]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998532
-[234]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[235]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM5811406
+[227]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM6142113
+[228]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM5811412
+[229]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM233872
+[230]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2416141
+[231]: http://www.legislation.govt.nz/act/public/2013/0072/latest/whole.html#DLM5573607
+[232]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998516
+[233]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998515
+[234]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM2998532
+[235]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[236]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM6142107
+[237]: http://www.legislation.govt.nz/act/public/2013/0072/latest/link.aspx?id=DLM5811406
