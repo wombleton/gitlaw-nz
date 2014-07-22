@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2014
+as at 22 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -30,7 +30,7 @@ This Act is administered by the Inland Revenue Department.
 [Part 1][3]  
 [Interpretation][3]
 
-[2][4][][4][Interpretation][4]
+[2][4][][4][Interpretation][4] \[Repealed\]
 
 [3][5][][5][Meaning of the term instrument][5] \[Repealed\]
 
@@ -241,9 +241,9 @@ This Act is administered by the Inland Revenue Department.
 
 [84][102][][102][Cheque duty payable otherwise than under a licence][102] \[Repealed\]
 
-[85][103][][103][Refund of cheque duty][103]
+[85][103][][103][Refund of cheque duty][103] \[Repealed\]
 
-[86][104][][104][Refunds payable out of Crown Bank Account][104]
+[86][104][][104][Refunds payable out of Crown Bank Account][104] \[Repealed\]
 
 [Part 6A][105]  
 [Credit card transaction duty][105]
@@ -355,599 +355,533 @@ Interpretation
 
 ##### 2 Interpretation
     
-*   In this Act, unless the context otherwise requires,---
+*   \[Repealed\]
     
-    _bill of exchange_ means a bill of exchange within the meaning of the [Bills of Exchange Act 1908][146]; and includes a promissory note within the meaning of that Act, other than a banknote
-    
-    _Commissioner_ means the Commissioner of Inland Revenue as defined in the [Tax Administration Act 1994][145]
-    
-    _the Crown_ means Her Majesty in respect of the Government of New Zealand and its dependencies; and includes any officer of the Government acting in his official capacity; and, in relation to any deed or bill of exchange, also includes any public authority
-    
-    _Taxation Review Authority_, or _Authority_, means a Taxation Review Authority constituted under the [Taxation Review Authorities Act 1994][147].
-    
-    Compare: 1952 No 51 [ss 129(7)][148], [129A(8)][149]; 1954 No 52 ss 2, 33A(1), 63, 78(2), (4), 87, 90(2), 94(1), (2), 99(1), 100(4), 105, 113(2), 120, 150(2), 152A; 1956 No 61 [s 63][150]; 1959 No 30 ss 67, 75(1); 1960 No 11 s 2(1); 1961 No 55 s 10; 1968 No 6 s 3
-    
-    Section 2 **adhesive stamp**: repealed, on 1 April 1998, by [section 62(1)][151] of the Postal Services Act 1998 (1998 No 2).
-    
-    Section 2 **assessment**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **Board of Review**: repealed, on 1 January 1975, pursuant to section 50(2) of the Inland Revenue Department Act 1974 (1974 No 133).
-    
-    Section 2 **Commissioner**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
-    
-    Section 2 **consideration**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **contract note**: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
-    
-    Section 2 **conveyance**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2**impressed stamp**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **instrument of agreement to convey**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2**instrument of assignment for the benefit of creditors**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **instrument of declaration of trust**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2**instrument of nomination of shares**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **insurance**: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
-    
-    Section 2 **land**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **local authority**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **mining right**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **mortgage**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **partnership**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **penalty**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **property**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **public authority**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **rent**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **shares**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **shares in a flat or office owning company**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **stamp duty**: repealed, on 20 May 1999, by [section 4][152] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 2 **Taxation Review Authority**: inserted, on 1 January 1975, pursuant to section 50(2) of the Inland Revenue Department Act 1974 (1974 No 133).
-    
-    Section 2 **Taxation Review Authority**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
-    
-    Section 2 **Taxation Review Authority**: amended, on 28 September 1993, by section 2 of the Stamp and Cheque Duties Amendment Act 1993 (1993 No 133).
-    
-    Section 2 **transferable certificate of deposit**: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 2: repealed, on 22 July 2014, by [section 5(2)][146] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 3 Meaning of the term instrument
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 3: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 4 Instruments written together, or relating to more than 1 transaction
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 4: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 5 Meaning of the term executed
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 5: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 6 Meaning of the term deed
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 6: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 7 Meaning of the expression instrument of conveyance extended
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 7: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 8 Meaning of the term lease
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 8: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 9 Licence under Sale of Liquor Act 1989 deemed to be interest in land
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 9: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ## Part 2  
 Liability for stamp duty
 
 \[Repealed\]
     
-*   Part 2: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+*   Part 2: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 10 Stamp duty payable
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 10: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 11 No stamp duty payable on certain instruments
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 11: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 12 No stamp duty payable on instruments conveying certain property
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 12: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 13 No stamp duty payable on instruments of conveyance to certain persons
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 13: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 14 No stamp duty payable on leases to certain persons
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 14: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 #### Conveyance duty
     
-*   Heading: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+*   Heading: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 15 Conveyance duty
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 15: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 16 Conveyance by direction of intermediary
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 16: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 17 No conveyance duty payable on certain instruments of conveyance
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 17: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 18 No conveyance duty payable on certain surrenders of leases and conveyances to charities
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 18: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 19 No conveyance duty on instrument of conveyance executed pursuant to stamped agreement
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 19: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 20 No conveyance duty payable on more than 1 agreement in respect of the same transaction
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 20: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 21 No conveyance duty on agreement to convey if the instrument of conveyance executed pursuant to it is duly stamped
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 21: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 22 No conveyance duty payable on certain declarations of trust
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 22: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 22A No conveyance duty payable on instrument of conveyance executed in respect of first home
     
 *   \[Repealed\]
     
-    Section 22A: repealed, on 10 July 1981, by [section 4(1)][156] of the Stamp and Cheque Duties Amendment Act 1981 (1981 No 7).
+    Section 22A: repealed, on 10 July 1981, by [section 4(1)][150] of the Stamp and Cheque Duties Amendment Act 1981 (1981 No 7).
 
 ##### 22B No conveyance duty payable on instrument of conveyance executed in respect of first farm
     
 *   \[Repealed\]
     
-    Section 22B: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 22B: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 22C No conveyance duty payable in respect of transactions relating to certain family homes
     
 *   \[Repealed\]
     
-    Section 22C: repealed, on 10 July 1981, by [section 4(1)][156] of the Stamp and Cheque Duties Amendment Act 1981 (1981 No 7).
+    Section 22C: repealed, on 10 July 1981, by [section 4(1)][150] of the Stamp and Cheque Duties Amendment Act 1981 (1981 No 7).
 
 ##### 23 Conveyance duty reduced if gift duty paid on conveyance
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 23: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 24 No conveyance duty payable in respect of conveyance of residential land
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 24: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 24A Conveyance duty reduced on instrument of conveyance of dwellinghouse
     
 *   \[Repealed\]
     
-    Section 24A: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 24A: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 25 Agreement to convey on behalf of company to be incorporated
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 25: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 #### Lease duty
     
-*   Heading: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+*   Heading: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 26 Lease duty
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 26: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 27 Duty on lease including chattels, timber, minerals, or other property
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 27: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 28 Lease duty to be computed on goodwill
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 28: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 29 Duty on instruments increasing rent or other consideration under lease
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 29: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 30 No lease duty payable on lease executed pursuant to stamped agreement
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 30: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 31 No lease duty payable on more than 1 agreement to lease in respect of the same transaction
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 31: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 32 No lease duty payable on agreement to lease if the lease executed pursuant to it is duly stamped
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 32: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 33 Duty on leases providing for re-determination of rent
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 33: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 34 Lease duty reduced if gift duty payable on lease
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 34: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 35 No lease duty payable in respect of lease of residential land
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 35: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 #### Deed duty
     
-*   Heading: repealed, on 17 March 1988, pursuant to [section 6(1)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+*   Heading: repealed, on 17 March 1988, pursuant to [section 6(1)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 36 Deed duty
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 17 March 1988, by [section 6(1)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 36: repealed, on 17 March 1988, by [section 6(1)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 37 No deed duty payable on certain instruments
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 17 March 1988, by [section 6(1)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 37: repealed, on 17 March 1988, by [section 6(1)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 #### Denoting duty
     
-*   Heading: repealed, on 17 March 1988, pursuant to [section 6(2)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+*   Heading: repealed, on 17 March 1988, pursuant to [section 6(2)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 38 Denoting duty
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 17 March 1988, by [section 6(2)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 38: repealed, on 17 March 1988, by [section 6(2)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 39 No denoting duty payable on certain instruments
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 17 March 1988, by [section 6(2)][157] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 39: repealed, on 17 March 1988, by [section 6(2)][151] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ## Part 3  
 Valuation
 
 \[Repealed\]
     
-*   Part 3: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+*   Part 3: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 40 Value of property as at date instrument executed
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 40: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 41 Valuation not to be less than value expressed in instrument
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 41: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 42 Valuation of land
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 42: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 43 Objections to special valuations of land
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 43: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 44 Valuing shares
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 44: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 45 Valuing property subject to a mortgage
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 45: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 46 Apportionment of value
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 46: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 47 Valuation of consideration
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 47: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 48 Valuation by Commissioner
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 48: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ## Part 4  
 Assessment and collection of stamp duty
 
 \[Repealed\]
     
-*   Part 4: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+*   Part 4: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 49 Presentation for stamping
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 49: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 50 Time for presentation
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 50: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 51 Stamping otherwise than by presentation
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 51: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 51A Composition by New Zealand Stock Exchange in respect of stamp duty on shares
     
 *   \[Repealed\]
     
-    Section 51A: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 51A: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 52 Right of Commissioner to hold and impound instruments
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 52: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 53 Requirement that instrument be presented for stamping
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 53: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 54 Determination of liability for stamp duty
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 54: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 55 Notice of assessment
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 55: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 56 Assessment conclusive
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 56: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 57 Penalty for late presentation
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 26 July 1996, by [section 7][158] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 57: repealed, on 26 July 1996, by [section 7][152] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 58 Due date for payment of stamp duty
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 58: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 59 Penalty proportionately reduced on reduction of duty
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 26 July 1996, by [section 9][159] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 59: repealed, on 26 July 1996, by [section 9][153] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 60 Remission of penalties
     
 *   \[Repealed\]
     
-    Section 60: repealed on 26 July 1996, by [section 10][160] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 60: repealed on 26 July 1996, by [section 10][154] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 61 Determination that instrument not liable denoted by impressed stamp
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 61: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 62 Payment of stamp duty denoted by impressed stamp
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 62: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 63 Payment of penalty denoted by impressed stamp
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 63: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 64 Use of prescribed stamp on certain instruments
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 64: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 65 Stamp duty constitutes a debt to the Crown
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 65: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 66 Persons liable for stamp duty
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 66: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 67 Refund of duty on revaluation of consideration in accordance with the outcome of a contingency
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 67: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 68 Refund of duty or penalty on application
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 68: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 69 Unstamped instruments inadmissible in evidence
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 69: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 70 Unstamped instruments ineligible for registration
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 70: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 71 Refunds payable out of Crown Bank Account
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 71: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ##### 71A Application of Parts 4A and 8A of Tax Administration Act 1994
     
 *   \[Repealed\]
     
-    Section 71A: repealed, on 20 May 1999, by [section 6][155] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
+    Section 71A: repealed, on 20 May 1999, by [section 6][149] of the Stamp Duty Abolition Act 1999 (1999 No 61). 
 
 ## Part 5  
 Objections to assessments
 
 \[Repealed\]
     
-*   Part 5: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+*   Part 5: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 72 Objections to assessments
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 72: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 73 Commissioner may alter assessment, or objection may be submitted to Taxation Review Authority
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 73: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 74 When objection may be referred in first instance to High Court
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 74: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 74A Test case procedure
     
 *   \[Repealed\]
     
-    Section 74A: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 74A: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 75 Removal of case into Court of Appeal
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 1 October 1996, by [section 14(1)][161] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 75: repealed, on 1 October 1996, by [section 14(1)][155] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 6  
 Cheque duty
@@ -956,126 +890,104 @@ Cheque duty
     
 *   \[Repealed\]
     
-    Section 76: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 76: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 77 Cheque duty payable
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 77: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 78 Rates of cheque duty
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 78: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 79 No cheque duty payable on certain bills
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 79: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 80 Exemption from cheque duty by agreement
     
 *   \[Repealed\]
     
-    Section 80: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 80: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 81 Cheque duty payable by licensed banks
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 81: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 82 Cheque duty payable by licensed printers
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 82: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 83 Cheque duty payable by other licensees
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 83: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 84 Cheque duty payable otherwise than under a licence
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 1 July 2014, by [section 3(1)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
+    Section 84: repealed, on 1 July 2014, by [section 3(1)][156] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 85 Refund of cheque duty
     
-*   (1) If the Commissioner is satisfied---
-        
-    *   (a) that any bill of exchange forms for which cheque duty has been prepaid otherwise than under [section 81][99] have not been used; or
+*   \[Repealed\]
     
-    *   (b) that any bill of exchange forms for which cheque duty has been prepaid under [section 83][101] have not been printed; or
-    
-    *   (c) that any bills of exchange for which cheque duty has been paid have been, before 1 July 2014, spoiled, defaced, lost, or destroyed after issue but before being further acted on,---
-    
-    the Commissioner may, on application made in writing before 22 July 2014 and within 8 years after the date of payment of the duty, and accompanied by the bill of exchange forms, or the licence and the authority to print, or the bills of exchange, or such evidence as the Commissioner thinks sufficient of their loss or destruction before 1 July 2014, refund the duty to the person entitled to it; but no refund shall be made if the duty amounts to less than $1\.
-    
-    (2) A refund under subsection (1) must be made in accordance with the requirements of [section 184A][163] of the Tax Administration Act 1994\.
-    
-    Compare: 1954 No 52 s 6
-    
-    Section 85(1): amended, on 1 July 2014, by [section 3(6)(b)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 85(1): amended, on 1 July 2014, by [section 3(6)(c)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 85(1): amended, on 1 July 2014, by [section 3(6)(d)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 85(1)(c): amended, on 1 July 2014, by [section 3(6)(a)][162] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 85(2): inserted, on 7 October 1998 (applying to refunds of cheque duty arising on and after 1 April 2000), by [section 82(1)][164] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 85: repealed, on 22 July 2014, by [section 5(2)][146] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 86 Refunds payable out of Crown Bank Account
     
-*   All money payable by way of refunding any cheque duty shall be paid out of a Crown Bank Account without further appropriation than this section.
+*   \[Repealed\]
     
-    Section 86 heading: amended, on 25 January 2005, pursuant to [section 83(7)][165] of the Public Finance Act 1989 (1989 No 44).
-    
-    Section 86: amended, on 25 January 2005, pursuant to [section 83(7)][165] of the Public Finance Act 1989 (1989 No 44).
+    Section 86: repealed, on 22 July 2014, by [section 5(2)][146] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ## Part 6A  
 Credit card transaction duty
 
 \[Repealed\]
     
-*   Part 6A: repealed, on 1 April 1998, by [section 56(1)][166] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+*   Part 6A: repealed, on 1 April 1998, by [section 56(1)][157] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
 
 ##### 86A Interpretation
     
 *   \[Repealed\]
     
-    Section 86A: repealed, on 1 April 1998, by [section 56(1)][166] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 86A: repealed, on 1 April 1998, by [section 56(1)][157] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
 
 ##### 86B Credit card transaction duty payable
     
 *   \[Repealed\]
     
-    Section 86B: repealed, on 1 April 1998, by [section 56(1)][166] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 86B: repealed, on 1 April 1998, by [section 56(1)][157] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
 
 ##### 86C Rate of credit card transaction duty
     
 *   \[Repealed\]
     
-    Section 86C: repealed, on 1 April 1998, by [section 56(1)][166] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 86C: repealed, on 1 April 1998, by [section 56(1)][157] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
 
 ##### 86D Payment of credit card transaction duty
     
 *   \[Repealed\]
     
-    Section 86D: repealed, on 1 April 1998, by [section 56(1)][166] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 86D: repealed, on 1 April 1998, by [section 56(1)][157] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
 
 ##### 86E Interest on unpaid credit card transaction duty
     
 *   \[Repealed\]
     
-    Section 86E: repealed, on 26 July 1996, by [section 20][167] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 86E: repealed, on 26 July 1996, by [section 20][158] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 6B  
 Approved issuer levy
@@ -1086,17 +998,19 @@ Approved issuer levy
     
 *   In this Part, unless the context otherwise requires,---
     
-    _approved issuer_ has the meaning assigned to that term by [section YA 1][168] of the Income Tax Act 2007
+    _approved issuer_ has the meaning assigned to that term by [section YA 1][159] of the Income Tax Act 2007
     
     _approved issuer levy_ means the levy referred to in [section 86J][117]
     
-    _interest_ has the meaning assigned to that term by paragraphs (a) and (b) of the definition of interest in [section YA 1][168] of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
+    _Commissioner_ means the Commissioner of Inland Revenue as defined in the [Tax Administration Act 1994][145]
+    
+    _interest_ has the meaning assigned to that term by paragraphs (a) and (b) of the definition of interest in [section YA 1][159] of the Income Tax Act 2007 for the purposes of the NRWT rules of that Act
     
     _leviable value_ means, in respect of any registered security at the time of any payment of interest in respect of that registered security, the amount of that payment of interest
     
     _money lent_ has the meaning assigned to that term by section YA 1 of the Income Tax Act 2007; and _money lending_ has a corresponding meaning
     
-    _paid_ and _payment_ each has the meaning corresponding to paragraph (a) of the definition of pay in [section YA 1][168] of the Income Tax Act 2007
+    _paid_ and _payment_ each has the meaning corresponding to paragraph (a) of the definition of pay in [section YA 1][159] of the Income Tax Act 2007
     
     _registered security_ means at any time any transaction involving money lent to an approved issuer that is---
         
@@ -1106,17 +1020,19 @@ Approved issuer levy
     
     Section 86F: inserted, on 1 August 1991, by section 2 of the Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76).
     
-    Section 86F **approved issuer**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][169] of the Income Tax Act 2007 (2007 No 97).
+    Section 86F **approved issuer**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][160] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 86F **interest**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][169] of the Income Tax Act 2007 (2007 No 97).
+    Section 86F **_Commissioner_**: inserted, on 22 July 2014, by [section 5(3)][146] of the Cheque Duty Repeal Act 2014 (2014 No 29).
     
-    Section 86F **money lent**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][169] of the Income Tax Act 2007 (2007 No 97).
+    Section 86F **interest**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][160] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 86F **paid** and **payment**: further amended (with effect on 1 April 2008), on 6 October 2009 (applying for the 2008--09 and later income years), by [section 858(2)][170] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 86F **money lent**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][160] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 86F **paid** and **payment**: amended (with effect on 1 April 2005), on 6 October 2009 (applying for the 2005--06 and later income years), by [section 858(1)][170] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 86F **paid** and **payment**: further amended (with effect on 1 April 2008), on 6 October 2009 (applying for the 2008--09 and later income years), by [section 858(2)][161] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 86F **paid** and **payment**: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][171] of the Income Tax Act 2004 (2004 No 35).
+    Section 86F **paid** and **payment**: amended (with effect on 1 April 2005), on 6 October 2009 (applying for the 2005--06 and later income years), by [section 858(1)][161] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    
+    Section 86F **paid** and **payment**: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][162] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 86G Application to register securities
     
@@ -1150,13 +1066,13 @@ Approved issuer levy
 
 ##### 86I Application of approved issuer levy and zero-rating
     
-*   For the purposes of the NRWT rules of the [Income Tax Act 2007][172], an exemption under a double tax agreement, and [section 86J][117] of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,---
+*   For the purposes of the NRWT rules of the [Income Tax Act 2007][163], an exemption under a double tax agreement, and [section 86J][117] of this Act, and notwithstanding any provision of the NRWT rules of the Income Tax Act 2007, a payment of interest shall be treated as being paid by an approved issuer in respect of a registered security only where,---
         
     *   (a) and to the extent that, payment is made by or on behalf of the approved issuer of approved issuer levy on the leviable value of the registered security at the time of the payment of interest---
             
         *   (i) at the rate specified in [section 86J][117]; and
         
-        *   (ii) by the date specified in either [section 86K][118] or [86KA][119], or by a later date upon the payment of any interest or penalties imposed under [Part 7][173] or [9][174] of the Tax Administration Act 1994 respectively; or
+        *   (ii) by the date specified in either [section 86K][118] or [86KA][119], or by a later date upon the payment of any interest or penalties imposed under [Part 7][164] or [9][165] of the Tax Administration Act 1994 respectively; or
         
         
     
@@ -1168,9 +1084,9 @@ Approved issuer levy
         
         
     
-    Section 86I: replaced, on 7 May 2012, by [section 149][175] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    Section 86I: replaced, on 7 May 2012, by [section 149][166] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
-    Section 86I: amended (with effect on 7 May 2012), on 17 July 2013, by [section 149][176] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 86I: amended (with effect on 7 May 2012), on 17 July 2013, by [section 149][167] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
 ##### 86IB Zero rate of approved issuer levy---requirements for securities 
     
@@ -1180,7 +1096,7 @@ Approved issuer levy
     
     *   (b) the issue of the security---
             
-        *   (i) was an offer to the public for the purposes of the [Securities Act 1978][177]; and
+        *   (i) was an offer to the public for the purposes of the [Securities Act 1978][168]; and
         
         *   (ii) was not a private placement; and
         
@@ -1192,7 +1108,7 @@ Approved issuer levy
     
     *   (e) the security---
             
-        *   (i) is listed on an exchange registered under the [Securities Markets Act 1988][178]:
+        *   (i) is listed on an exchange registered under the [Securities Markets Act 1988][169]:
         
         *   (ii) is one of a number of securities meeting the requirements of subsection (2) that are traded in a market bringing together buyers and sellers of such securities.
         
@@ -1216,7 +1132,7 @@ Approved issuer levy
     
     *   (d) no person or group of associated persons holds more than 10% by value of the class of securities.
     
-    Section 86IB: inserted, on 7 May 2012, by [section 149][175] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    Section 86IB: inserted, on 7 May 2012, by [section 149][166] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
 
 ##### 86J Approved issuer levy
     
@@ -1244,7 +1160,7 @@ Approved issuer levy
     
     Section 86K: inserted, on 1 August 1991, by section 2 of the Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76).
     
-    Section 86K(1): amended, on 27 March 2001 (applying on and after 1 August 1991), by [section 73(1)][179] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86K(1): amended, on 27 March 2001 (applying on and after 1 August 1991), by [section 73(1)][170] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 86KA Payment of approved issuer levy in instalments
     
@@ -1278,41 +1194,41 @@ Approved issuer levy
     
     (6) Payments made in accordance with this section must be accompanied by a statement that meets the requirements of [section 86K(2)][118].
     
-    Section 86KA: inserted, on 27 March 2001, by [section 74(1)][180] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86KA: inserted, on 27 March 2001, by [section 74(1)][171] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 86KA(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][171] of the Income Tax Act 2004 (2004 No 35).
+    Section 86KA(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][162] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 86KA(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][171] of the Income Tax Act 2004 (2004 No 35).
+    Section 86KA(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][162] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 86L Refund of levy paid in error or in excess
     
 *   (1) Where, at any time within 4 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any amount of approved issuer levy has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
     
-    (1A) A refund under subsection (1) must be made in accordance with the requirements of [section 184A][163] of the Tax Administration Act 1994\.
+    (1A) A refund under subsection (1) must be made in accordance with the requirements of [section 184A][172] of the Tax Administration Act 1994\.
     
-    (2) For the purposes of the NRWT rules of the [Income Tax Act 2007][172] or an exemption under a double tax agreement, as applicable, if an amount is refunded under subsection (1), the payment of interest to which the approved issuer levy relates is treated as not having been paid by an approved issuer in relation to a registered security.
+    (2) For the purposes of the NRWT rules of the [Income Tax Act 2007][163] or an exemption under a double tax agreement, as applicable, if an amount is refunded under subsection (1), the payment of interest to which the approved issuer levy relates is treated as not having been paid by an approved issuer in relation to a registered security.
     
     (3) All money payable by the Commissioner under this section by way of refund of levy shall be paid without further appropriation than this section.
     
     Section 86L: inserted, on 1 August 1991, by section 2 of the Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76).
     
-    Section 86L(1): amended, on 17 July 2013 (applying to refunds of levies paid on or after this date), by [section 150][181] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 86L(1): amended, on 17 July 2013 (applying to refunds of levies paid on or after this date), by [section 150][173] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 86L(1A): inserted, on 7 October 1998 (applying to levies paid in error or in excess on and after 1 April 2000), by [section 83(1)][182] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 86L(1A): inserted, on 7 October 1998 (applying to levies paid in error or in excess on and after 1 April 2000), by [section 83(1)][174] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 86L(2): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 183][183] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 86L(2): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 183][175] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 86M Relief in cases of serious hardship
     
 *   \[Repealed\]
     
-    Section 86M: repealed, on 27 March 2001, by [section 75(1)][184] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 86M: repealed, on 27 March 2001, by [section 75(1)][176] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 86N Offence to give false information
     
 *   \[Repealed\]
     
-    Section 86N: repealed, on 26 July 1996, by [section 21][185] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 86N: repealed, on 26 July 1996, by [section 21][177] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 7  
 Miscellaneous offences
@@ -1325,19 +1241,19 @@ Miscellaneous offences
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 87: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 88 Offence to defraud Crown of duty or penalty payable under this Act
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 88: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 89 Offence to give false information
     
 *   \[Repealed\]
     
-    Section 89: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 89: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 90 Offence to issue certain shares unless pursuant to duly stamped instrument of nomination
     
@@ -1355,25 +1271,25 @@ Miscellaneous offences
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 92: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 92A Offence to stamp instrument otherwise than by presentation except in certain cases
     
 *   \[Repealed\]
     
-    Section 92A: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 92A: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 93 Principal officers of companies committing offences
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 93: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 94 Printing unauthorised inscriptions on bills of exchange
     
 *   \[Repealed\]
     
-    Section 94: repealed, on 26 July 1996, by [section 22(1)][186] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 94: repealed, on 26 July 1996, by [section 22(1)][178] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ## Part 8  
 Miscellaneous provisions
@@ -1382,13 +1298,13 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 26 July 1996, by [section 23][187] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 95: repealed, on 26 July 1996, by [section 23][179] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 96 Sharebroker may recover duty from purchaser of shares
     
 *   \[Repealed\]
     
-    Section 96: repealed, on 17 March 1988, by [section 7(1)][153] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
+    Section 96: repealed, on 17 March 1988, by [section 7(1)][148] of the Stamp and Cheque Duties Amendment Act (No 2) 1988 (1988 No 16).
 
 ##### 97 Giving notices
     
@@ -1400,19 +1316,19 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 98: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 99 Duty paid under repealed Act
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 20 May 1999, by [section 5][154] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 99: repealed, on 20 May 1999, by [section 5][147] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 99A Application of Part 9 of Tax Administration Act 1994
     
-*   [Part 9][174] of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997\.
+*   [Part 9][165] of the Tax Administration Act 1994 applies with respect to offences committed in relation to this Act on or after 1 April 1997\.
     
-    Section 99A: inserted, on 26 July 1996, by [section 24][188] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
+    Section 99A: inserted, on 26 July 1996, by [section 24][180] of the Stamp and Cheque Duties Amendment Act 1996 (1996 No 60).
 
 ##### 100 Consequential amendments
     
@@ -1434,9 +1350,9 @@ Miscellaneous provisions
     
     *   (e) the Stamp Duties Regulations 1967\.
     
-    Section 101(2)(b): repealed, on 1 August 1991, by [section 2(1)][189] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
+    Section 101(2)(b): repealed, on 1 August 1991, by [section 2(1)][181] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
     
-    Section 101(2)(c): repealed, on 1 August 1991, by [section 2(1)][189] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
+    Section 101(2)(c): repealed, on 1 August 1991, by [section 2(1)][181] of the Rehabilitation Act Repeal Act 1991 (1991 No 80).
 
 ---
 
@@ -1491,9 +1407,9 @@ Section 13\.
 
 Schedule 1: amended, on 16 December 2013, by section 66 of the Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93).
 
-Schedule 1: amended, on 9 December 1991, by [section 11][190] of the Securities Transfer Act 1991 (1991 No 119).
+Schedule 1: amended, on 9 December 1991, by [section 11][182] of the Securities Transfer Act 1991 (1991 No 119).
 
-Schedule 1: amended, on 1 April 1990, by [section 32(3)][191] of the Superannuation Schemes Act 1989 (1989 No 10).
+Schedule 1: amended, on 1 April 1990, by [section 32(3)][183] of the Superannuation Schemes Act 1989 (1989 No 10).
 
 ---
 
@@ -1548,7 +1464,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Act 1927 (1927 No 45) (1957 Reprint, Vol 13, p 595)
 
-_Amendment(s) incorporated in the [Act(s)][192]._
+_Amendment(s) incorporated in the [Act(s)][184]._
 
 ##### Rural Housing Act 1939 (1939 No 32) (1957 Reprint, Vol 13, p 585)
 
@@ -1571,7 +1487,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Charitable Trusts Act 1957 (1957 No 18) (1957 Reprint, Vol 1, p 830)
 
-_Amendment(s) incorporated in the [Act(s)][193]._
+_Amendment(s) incorporated in the [Act(s)][185]._
 
 ##### Cinematograph Films Act 1961 (1961 No 59)
 
@@ -1583,7 +1499,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Companies (Bondholders Incorporation) Act 1934--35 (1934--35 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][194]._
+_Amendment(s) incorporated in the [Act(s)][186]._
 
 ##### Decimal Currency Amendment Act 1965 (1965 No 124) 
 
@@ -1607,7 +1523,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Family Benefits (Home Ownership) Act 1964 (1964 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][195]._
+_Amendment(s) incorporated in the [Act(s)][187]._
 
 ##### Finance Act 1932--33 (1932--33 No 42)
 
@@ -1619,7 +1535,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1964 (1964 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][196]._
+_Amendment(s) incorporated in the [Act(s)][188]._
 
 ##### Fire Services Act 1949 (1949 No 18) (1957 Reprint, Vol 5, pp 244, 246)
 
@@ -1635,15 +1551,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Housing Act 1955 (1955 No 51) (1957 Reprint, Vol 6, p 246)
 
-_Amendment(s) incorporated in the [Act(s)][197]._
+_Amendment(s) incorporated in the [Act(s)][189]._
 
 ##### Incorporated Societies Act 1908 (1908 No 212) (1957 Reprint, Vol 6, p 370)
 
-_Amendment(s) incorporated in the [Act(s)][198]._
+_Amendment(s) incorporated in the [Act(s)][190]._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (1957 Reprint, Vol 6, p 401)
 
-_Amendment(s) incorporated in the [Act(s)][199]._
+_Amendment(s) incorporated in the [Act(s)][191]._
 
 ##### Industrial Conciliation and Arbitration Act 1954 (1954 No 72) (1957 Reprint, Vol 6, p 559)
 
@@ -1655,11 +1571,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][200]._
+_Amendment(s) incorporated in the [Act(s)][192]._
 
 ##### Land Act 1948 (1948 No 64) (1957 Reprint, Vol 7, p 147)
 
-_Amendment(s) incorporated in the [Act(s)][201]._
+_Amendment(s) incorporated in the [Act(s)][193]._
 
 ##### Land Settlement Promotion and Land Acquisition Act 1952 (1952 No 34) (Reprinted 1969, Vol 3, p 2275)
 
@@ -1691,11 +1607,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### National Expenditure Adjustment Act 1932 (1932 No 8) (1957 Reprint, Vol 10, p 723)
 
-_Amendment(s) incorporated in the [Act(s)][202]._
+_Amendment(s) incorporated in the [Act(s)][194]._
 
 ##### National Expenditure Adjustment Amendment Act 1932 (1932 No 18) (1957 Reprint, Vol 10, p 729)
 
-_Amendment(s) incorporated in the [Act(s)][203]._
+_Amendment(s) incorporated in the [Act(s)][195]._
 
 ##### National Provident Fund Act 1950 (1950 No 55) (1957 Reprint, Vol 10, p 831)
 
@@ -1707,7 +1623,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63) (1957 Reprint, Vol 11, pp 619, 637)
 
-_Amendment(s) incorporated in the [Act(s)][204]._
+_Amendment(s) incorporated in the [Act(s)][196]._
 
 ##### Patriotic and Canteen Funds Amendment Act 1950 (1950 No 64) (1957 Reprint, Vol 11, p 646)
 
@@ -1719,7 +1635,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Property Law Act 1952 (1952 No 51) (1957 Reprint, Vol 12, pp 197, 220)
 
-_Amendment(s) incorporated in the [Act(s)][205]._
+_Amendment(s) incorporated in the [Act(s)][197]._
 
 ##### Queen Elizabeth the Second Arts Council of New Zealand Act 1963 (1963 No 54)
 
@@ -1731,7 +1647,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Act 1927 (1927 No 45) (1957 Reprint, Vol 13, p 608)
 
-_Amendment(s) incorporated in the [Act(s)][206]._
+_Amendment(s) incorporated in the [Act(s)][198]._
 
 ##### Rural Intermediate Credit Amendment Act 1929 (1929 No 27) (1957 Reprint, Vol 13, p 612) 
 
@@ -1739,7 +1655,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rural Intermediate Credit Amendment Act 1946 (1946 No 5) (1957 Reprint, Vol 13, p 614)
 
-_Amendment(s) incorporated in the [Act(s)][207]._
+_Amendment(s) incorporated in the [Act(s)][199]._
 
 ##### Shipping and Seamen Act 1952 (1952 No 49) (Reprinted 1965, Vol 3, p 2091)
 
@@ -1747,7 +1663,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][208]._
+_Amendment(s) incorporated in the [Act(s)][200]._
 
 ##### Stamp Duties Amendment Act 1952 (1952 No 22) (Reprinted 1964, Vol 3, p 2306)
 
@@ -1779,11 +1695,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Advances Corporation Act 1965 (1965 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][209]._
+_Amendment(s) incorporated in the [Act(s)][201]._
 
 ##### Statutory Land Charges Registration Act 1928 (1928 No 18) (1957 Reprint, Vol 15, p 187)
 
-_Amendment(s) incorporated in the [Act(s)][210]._
+_Amendment(s) incorporated in the [Act(s)][202]._
 
 ##### Tenancy Act 1955 (1955 No 50) (1957 Reprint, Vol 15, pp 534, 543, 567)
 
@@ -1791,7 +1707,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trustee Act 1956 (1956 No 61) (Reprinted 1968, Vol 4, p 3345)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][203]._
 
 ##### Vocational Training Council Act 1968 (1968 No 12)
 
@@ -1809,53 +1725,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][211] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][212] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][204] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][205] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][213] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][214] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][206] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][207] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Cheque Duty Repeal Act 2014 (2014 No 29): [section 3][162]
+*   Cheque Duty Repeal Act 2014 (2014 No 29): [sections 3(1)][156], [5(2), (3)][146]
     
-    Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][215]
+    Members of Parliament (Remuneration and Services) Act 2013 (2013 No 93): [section 66][208]
     
-    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [sections 149][176], [150][181]
+    Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52): [sections 149][167], [150][173]
     
-    Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [section 149][175]
+    Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [section 149][166]
     
-    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [section 183][183]
+    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [section 183][175]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 858][170]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 858][161]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][169]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][160]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][171]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][162]
     
-    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 73--75][179]
+    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 73--75][170]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 4--6][216]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 4--6][209]
     
-    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [sections 82(1)][164], [83(1)][182]
+    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [section 83(1)][174]
     
-    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [section 56(1)][166]
-    
-    Postal Services Act 1998 (1998 No 2): section 62(1)
+    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [section 56(1)][157]
     
     Stamp and Cheque Duties Amendment Act 1996 (1996 No 60)
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    Stamp and Cheque Duties Amendment Act 1993 (1993 No 133)
+    Securities Transfer Act 1991 (1991 No 119): [section 11][182]
     
-    Securities Transfer Act 1991 (1991 No 119): [section 11][190]
-    
-    Rehabilitation Act Repeal Act 1991 (1991 No 80): [section 2(1)][189]
+    Rehabilitation Act Repeal Act 1991 (1991 No 80): [section 2(1)][181]
     
     Stamp and Cheque Duties Amendment Act (No 2) 1991 (1991 No 76)
-    
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][165]
     
     Superannuation Schemes Act 1989 (1989 No 10): section 32(3)
     
@@ -1864,8 +1774,6 @@ _Amendment(s) incorporated in the Act(s)._
     Stamp and Cheque Duties Amendment Act 1981 (1981 No 7)
     
     Inland Revenue Department Amendment Act 1980 (1980 No 32): section 8(2)
-    
-    Inland Revenue Department Act 1974 (1974 No 133): section 50(2)
 
 
 
@@ -2015,74 +1923,67 @@ _Amendment(s) incorporated in the Act(s)._
 [143]: http://www.legislation.govt.nz/act/public/1971/0051/latest/whole.html#DLM401047
 [144]: http://www.legislation.govt.nz/act/public/1971/0051/latest/whole.html#DLM401057
 [145]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM348342
-[146]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM137810
-[147]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM347443
-[148]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM268464
-[149]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM268470
-[150]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM305544
-[151]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM423785
-[152]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM29374
-[153]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM128778
-[154]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM29375
-[155]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM29376
-[156]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM43591
-[157]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM128777
-[158]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393261
-[159]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393264
-[160]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393265
-[161]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393270
-[162]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM6110415
-[163]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM358789
-[164]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM433077
-[165]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM163167
-[166]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM424960
-[167]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393276
-[168]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1520575
-[169]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1523176
-[170]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2179055
-[171]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM277147
-[172]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1512300
-[173]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM354985
-[174]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM356110
-[175]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3324226
-[176]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5166156
-[177]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM25999
-[178]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM139726
-[179]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86479
-[180]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86480
-[181]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5256432
-[182]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM433078
-[183]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3123600
-[184]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86482
-[185]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393277
-[186]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393278
-[187]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393279
-[188]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393280
-[189]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM248234
-[190]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM250660
-[191]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144055
-[192]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203214
-[193]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM309995
-[194]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM217901
-[195]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM352215
-[196]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM350946
-[197]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM291342
-[198]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM176183
-[199]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144474
-[200]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM384112
-[201]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM253232
-[202]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212413
-[203]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212858
-[204]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM246644
-[205]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM267064
-[206]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203488
-[207]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM240167
-[208]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM365868
-[209]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM373417
-[210]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM204895
-[211]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998516
-[212]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998515
-[213]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998532
-[214]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[215]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM4034653
-[216]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM230241
+[146]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM6110417
+[147]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM29375
+[148]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM128778
+[149]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM29376
+[150]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM43591
+[151]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM128777
+[152]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393261
+[153]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393264
+[154]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393265
+[155]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393270
+[156]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM6110415
+[157]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM424960
+[158]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393276
+[159]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1520575
+[160]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1523176
+[161]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2179055
+[162]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM277147
+[163]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM1512300
+[164]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM354985
+[165]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM356110
+[166]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3324226
+[167]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5166156
+[168]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM25999
+[169]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM139726
+[170]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86479
+[171]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86480
+[172]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM358789
+[173]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM5256432
+[174]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM433078
+[175]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM3123600
+[176]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM86482
+[177]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393277
+[178]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393278
+[179]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393279
+[180]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM393280
+[181]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM248234
+[182]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM250660
+[183]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144055
+[184]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203214
+[185]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM309995
+[186]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM217901
+[187]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM352215
+[188]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM350946
+[189]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM291342
+[190]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM176183
+[191]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM144474
+[192]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM384112
+[193]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM253232
+[194]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212413
+[195]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM212858
+[196]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM246644
+[197]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM267064
+[198]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM203488
+[199]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM240167
+[200]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM365868
+[201]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM373417
+[202]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM204895
+[203]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM305544
+[204]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998516
+[205]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998515
+[206]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM2998532
+[207]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[208]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM4034653
+[209]: http://www.legislation.govt.nz/act/public/1971/0051/latest/link.aspx?id=DLM230241
