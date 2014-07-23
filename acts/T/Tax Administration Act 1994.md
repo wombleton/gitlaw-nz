@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2014
+as at 22 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1245,7 +1245,7 @@ This Act is administered by the Inland Revenue Department.
 
 [143H][601][][601][Obstruction][601]
 
-[144][602][][602][Certain offences in relation to Stamp and Cheque Duties Act 1971][602]
+[144][602][][602][Certain offences in relation to Stamp and Cheque Duties Act 1971][602] \[Repealed\]
 
 [145][603][][603][Penalties for offences for which no specific penalty imposed][603]
 
@@ -1660,7 +1660,7 @@ An Act to reorganise and consolidate the law relating to the Inland Revenue Depa
     
     Section 1(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 1(3): added, on 10 April 1995, by section 2 of the Tax Administration Amendment Act 1995 (1995 No 24).
+    Section 1(3): inserted, on 10 April 1995, by section 2 of the Tax Administration Amendment Act 1995 (1995 No 24).
 
 ## Part 1  
 Purpose and construction
@@ -2639,7 +2639,7 @@ Purpose and construction
     
     Section 3(1) **approved organisation**: inserted, on 1 October 2006, by [section 210(3)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 3(1) **arrangement**: substituted, on 26 March 2003, by [section 82(4)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 3(1) **arrangement**: replaced, on 26 March 2003, by [section 82(4)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 3(1) **assessment**: inserted, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 82(5)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -2663,7 +2663,7 @@ Purpose and construction
     
     Section 3(1) **binding ruling**: inserted (with effect on 1 April 1995), on 10 April 1995, by section 3(2) of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 3(1) **binding ruling** paragraph (d): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 62(1)(a)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 3(1) **binding ruling** paragraph (d): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 62(1)(a)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 3(1) **book and document** and **book or document**: repealed, on 29 August 2011, by [section 142(2)][870] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -2681,15 +2681,15 @@ Purpose and construction
     
     Section 3(1) **Charities Commission**: repealed, on 1 July 2012, by [section 16(2)][872] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 3(1) **civil penalty**: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 68(1)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 3(1) **civil penalty**: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 68(1)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 3(1) **civil penalty** paragraph (c): amended, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(b)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 3(1) **civil penalty** paragraph (cb): inserted, on 26 March 2003, by [section 82(6)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 3(1) **civil penalty** paragraph (d): substituted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 3(1) **civil penalty** paragraph (d): replaced, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 3(1) **civil penalty** paragraph (e): added, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 3(1) **civil penalty** paragraph (e): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
     Section 3(1) **civil penalty** paragraph (e): amended, on 1 April 2009, by [section 15][875] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
@@ -2729,7 +2729,7 @@ Purpose and construction
     
     Section 3(1) **date interest starts**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(10)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 3(1) **day of determination of final liability**: substituted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(11)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **day of determination of final liability**: replaced, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(11)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **day of determination of final liability** paragraph (a)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -2741,7 +2741,7 @@ Purpose and construction
     
     Section 3(1) **decision**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(12)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 3(1) **deferrable tax**: substituted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(13)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **deferrable tax**: replaced, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(13)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **deferrable tax**: amended, on 1 April 2003, by [section 82(7)(a)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -2771,17 +2771,17 @@ Purpose and construction
     
     Section 3(1) **District Commissioner of Inland Revenue**: repealed, on 10 April 1995, by section 3(3) of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 3(1) **disposition**: substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 3(1) **disposition**: replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 3(1) **disposition**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 3(1) **disputable decision**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A), by [section 3(16)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 3(1) **disputable decision** paragraph (b): substituted, on 20 May 1999 (applying on and after 20 May 1999), by[section 62(1)(c)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 3(1) **disputable decision** paragraph (b): replaced, on 20 May 1999 (applying on and after 20 May 1999), by[section 62(1)(c)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 3(1) **disputable decision** paragraph (b)(iii): amended, on 1 April 2005, by [section 88(3)][879] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 3(1) **disputable decision** paragraph (b)(iv): substituted, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 142(7)][870] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 3(1) **disputable decision** paragraph (b)(iv): replaced, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 142(7)][870] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 3(1) **disputant**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(16)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
@@ -2807,7 +2807,7 @@ Purpose and construction
     
     Section 3(1) **employer**: amended, on 25 September 2000 (applying on and after 1 April 2001, for an employer who pays fringe benefit tax on an annual basis and to 2001--2002 and subsequent income years, for an employer who pays fringe benefit tax on an income year basis), by [section 34(1)][882] of the Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34).
     
-    Section 3(1) **encumbrance**: substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 3(1) **encumbrance**: replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 3(1) **exceptional circumstance**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(20)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
@@ -2925,9 +2925,9 @@ Purpose and construction
     
     Section 3(1) **judicial officer**: repealed, on 1 September 2013, by [section 302(2)][888] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 3(1) **late filing penalty**: substituted (with effect on 1 April 2008), on 6 October 2009, by [section 596(3)][881] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 3(1) **late filing penalty**: replaced (with effect on 1 April 2008), on 6 October 2009, by [section 596(3)][881] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 3(1) **late payment penalty**: substituted, on 20 May 1999 (applying on and after 1 April 1997), by [section 62(1)(d)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 3(1) **late payment penalty**: replaced, on 20 May 1999 (applying on and after 1 April 1997), by [section 62(1)(d)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 3(1) **late payment penalty** paragraph (b): amended, on 27 March 2001 (applying on and after 1 April 2002), by [section 44(4)][889] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
@@ -2941,7 +2941,7 @@ Purpose and construction
     
     Section 3(1) **Maori authority distribution penalty tax**: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **new provisional taxpayer**: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 3(1) **new provisional taxpayer**: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 3(1) **new return date**: repealed (with effect on 1 April 2005), on 18 December 2006, by [section 169(3)(a)][886] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
@@ -2983,7 +2983,7 @@ Purpose and construction
     
     Section 3(1) **penalty**: repealed, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(42)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 3(1) **period of deferral**: substituted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(43)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **period of deferral**: replaced, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(43)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **period of deferral** paragraph (a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by[section 189(5)(a)][880] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -3031,7 +3031,7 @@ Purpose and construction
     
     Section 3(1) **provisional tax payable**: inserted, on 26 July 1996 (applying on or after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(47)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 3(1) **provisional taxpayer**: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 3(1) **provisional taxpayer**: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 3(1) **qualifying person**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3069,7 +3069,7 @@ Purpose and construction
     
     Section 3(1) **resident foreign trustee** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **residual income tax**: substituted, on 26 July 1996 (applying on or after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(51)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **residual income tax**: replaced, on 26 July 1996 (applying on or after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(51)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **residual income tax** paragraph (a): amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 210(12)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
@@ -3077,13 +3077,13 @@ Purpose and construction
     
     Section 3(1) **residual income tax** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **response period**: substituted (with effect on 1 April 2008 and applying for 2008--09 and later income years), on 6 October 2009, by [section 596(4)][881] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 3(1) **response period**: replaced (with effect on 1 April 2008 and applying for 2008--09 and later income years), on 6 October 2009, by [section 596(4)][881] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 3(1) **responsible department**: inserted, on 21 December 2004, by [section 88(8)][879] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 3(1) **return date**: repealed (with effect on 1 April 2005), on 18 December 2006, by [section 169(3)(c)][886] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 3(1) **return period**: substituted, on 20 May 1999 (applying on and after 1 April 1999), by [section 62(1)(f)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 3(1) **return period**: replaced, on 20 May 1999 (applying on and after 1 April 1999), by [section 62(1)(f)][869] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 3(1) **RWT exemption certificate**: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3111,7 +3111,7 @@ Purpose and construction
     
     Section 3(1) **special account**: repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **special tax code certificate**: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 3(1) **special tax code certificate**: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 3(1) **specified dividends**: repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3125,11 +3125,11 @@ Purpose and construction
     
     Section 3(1) **student allowance**: inserted, on 21 December 2004, by [section 88(9)][879] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 3(1) **tax**: substituted, on 26 July 1996 (applying on or after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(60)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **tax**: replaced, on 26 July 1996 (applying on or after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(60)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **tax** paragraph (a)(iii)(A): repealed (with effect on 30 June 2009 and applying for all income years beginning on or after 1 July 2009), on 6 October 2009, by [section 596(5)][881] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 3(1) **tax** paragraph (a)(iii)(B): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(f) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 3(1) **tax** paragraph (a)(iii)(B): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(f) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 3(1) **tax** paragraph (a)(iii)(CB): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
@@ -3139,25 +3139,25 @@ Purpose and construction
     
     Section 3(1) **tax** paragraph (a)(iii)(D): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 3(1) **tax** paragraph (a)(v)(A): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(g) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 3(1) **tax** paragraph (a)(v)(A): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(g) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 3(1) **tax** paragraph (a)(viii): substituted, on 1 April 2008, by [section 14(b)][895] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 3(1) **tax** paragraph (a)(viii): replaced, on 1 April 2008, by [section 14(b)][895] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 3(1) **tax** paragraph (a)(x): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
     Section 3(1) **tax** paragraph (a)(x): amended (with effect on 1 April 2012), on 30 March 2013, by [section 52(2)][897] of the Student Loan Scheme Amendment Act 2013 (2013 No 10).
     
-    Section 3(1) **tax** paragraph (a)(xi): added, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(c)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 3(1) **tax** paragraph (a)(xi): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(c)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 3(1) **tax** paragraph (a)(xi): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax** paragraph (a)(xii): added, on 8 September 1999 (applying on or after 20 May 1999), by [section 58(1)][898] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 3(1) **tax** paragraph (a)(xii): inserted, on 8 September 1999 (applying on or after 20 May 1999), by [section 58(1)][898] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
-    Section 3(1) **tax** paragraph (a)(xiii): added, on 3 April 2006, by [section 210(15)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(1) **tax** paragraph (a)(xiii): inserted, on 3 April 2006, by [section 210(15)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 3(1) **tax** paragraph (a)(xiii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax** paragraph (a)(xiv): added, on 29 August 2011, by [section 142(10)][870] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 3(1) **tax** paragraph (a)(xiv): inserted, on 29 August 2011, by [section 142(10)][870] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 3(1) **tax** paragraph (ab): inserted, on 21 December 2005, by [section 9][899] of the Taxation (Urgent Measures) Act 2005 (2005 No 121).
     
@@ -3173,7 +3173,7 @@ Purpose and construction
     
     Section 3(1) **tax** paragraph (cb): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax** paragraph (d): added, on 10 October 2000 (applying to 2001--2002 and subsequent income years), by [section 60(4)][900] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 3(1) **tax** paragraph (d): inserted, on 10 October 2000 (applying to 2001--2002 and subsequent income years), by [section 60(4)][900] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 3(1) **tax** paragraph (d): amended, on 17 October 2002 (applying on or after 1 December 2002), by [section 73(7)(b)][862] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
@@ -3197,7 +3197,7 @@ Purpose and construction
     
     Section 3(1) **tax advisor**: inserted, on 21 June 2005, by [section 120(5)][865] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 3(1) **tax agent**: substituted, on 19 December 2007, by [section 188(6)][871] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 3(1) **tax agent**: replaced, on 19 December 2007, by [section 188(6)][871] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 3(1) **tax code certificate**: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3229,29 +3229,29 @@ Purpose and construction
     
     Section 3(1) **tax position**: amended, on 26 March 2003 (applying to a tax position taken by a taxpayer on or after 1 April 2003), by [section 82(9)(b)][863] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 3(1) **tax position** paragraph (f): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(h) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 3(1) **tax position** paragraph (f): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(h) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 3(1) **tax position** paragraph (f): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 3(1) **tax position** paragraph (g): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(h) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 3(1) **tax position** paragraph (g): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 430(h) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 3(1) **tax position** paragraph (g): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 3(1) **tax position** paragraph (h): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 3(1) **tax position** paragraph (h): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax position** paragraph (j): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 3(1) **tax position** paragraph (j): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax position** paragraph (k): added, on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 68(3)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 3(1) **tax position** paragraph (k): inserted, on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 68(3)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 3(1) **tax position** paragraph (l): added, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 3(1) **tax position** paragraph (l): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 3(1) **tax position** paragraph (m): added, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 3(1) **tax position** paragraph (m): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 3(1) **tax position** paragraph (n): added, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 3(1) **tax position** paragraph (n): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(d)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 3(1) **tax position** paragraph (n): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 3(1) **tax position** paragraph (o): added, on 3 April 2006, by [section 210(16)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 3(1) **tax position** paragraph (o): inserted, on 3 April 2006, by [section 210(16)][866] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 3(1) **tax position** paragraph (o): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3259,17 +3259,17 @@ Purpose and construction
     
     Section 3(1) **tax return**: replaced, on 1 July 2014, by [section 151(6)][877] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 3(1) **tax shortfall**: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 68(4)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 3(1) **tax shortfall**: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 68(4)][873] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 3(1) **tax to pay**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(61)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **taxation law**: inserted (with effect on 1 April 1995), on 10 April 1995, by section 3(8) of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 3(1) **taxpayer**: substituted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(62)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 3(1) **taxpayer**: replaced, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(62)][861] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 3(1) **taxpayer's paying rate**: inserted, on 26 July 1996 (applying on and after 1 October 1996 for the purposes of Parts 4A, 8, and 8A of the Tax Administration Act 1994), by [section 3(62)][861] of the Tax Administration Amendment Act (No 2) Act 1996 (1996 No 56).
     
-    Section 3(1) **taxpayer's tax position**: substituted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(e)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 3(1) **taxpayer's tax position**: replaced, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 3(1)(e)][867] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 3(1) **taxpayer's tax position** paragraph (a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 189(7)(a)][880] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -3387,15 +3387,15 @@ Purpose and construction
     
     Section 4A: inserted, on 26 July 1996, by [section 4][915] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 4A(1)(b)(ii): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 4A(1)(b)(ii): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 4A(1)(ca): inserted, on 7 October 1998 (applying on and after 1 April 1999), by [section 4(1)][916] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 4A(2)(a): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 597(1)][917] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 4A(2)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 4A(2)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 4A(2)(bb): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 4A(2)(bb): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 4A(2)(c): amended (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 597(2)][917] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
@@ -3415,7 +3415,7 @@ Purpose and construction
     
     Section 4A(2)(d): amended (with effect from 1 April 1997), on 23 September 1997, by [section 69(2)][918] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 4A(2)(e): added (with effect on 1 April 2008), on 6 October 2009, by [section 597(4)][917] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 4A(2)(e): inserted (with effect on 1 April 2008), on 6 October 2009, by [section 597(4)][917] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 4A(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -3431,7 +3431,7 @@ Purpose and construction
     
     Section 4A(3)(c): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 4A(4): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 69(3)][918] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 4A(4): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 69(3)][918] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 4A(4): amended (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 597(5)][917] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
@@ -3482,7 +3482,7 @@ Commissioner and department
     
     *   (f) the responsibilities of those administering the law to do so fairly, impartially, and according to law.
     
-    Section 6: substituted, on 10 April 1995, by section 4 of the Tax Administration Amendment Act 1995 (1995 No 24).
+    Section 6: replaced, on 10 April 1995, by section 4 of the Tax Administration Amendment Act 1995 (1995 No 24).
 
 ##### 6A Commissioner of Inland Revenue
     
@@ -3614,7 +3614,7 @@ Commissioner and department
     
     (3) Judicial notice shall be taken of every such signature and of the fact that the person whose signature it purports to be holds or has held office as Commissioner or other relevant officer of the department, as the case may require.
     
-    Section 13: substituted, on 10 April 1995, by section 7 of the Tax Administration Amendment Act 1995 (1995 No 24).
+    Section 13: replaced, on 10 April 1995, by section 7 of the Tax Administration Amendment Act 1995 (1995 No 24).
 
 ##### 14 Giving of notices by Commissioner
     
@@ -3652,11 +3652,11 @@ Commissioner and department
     
     *   (b) if the conflict is between any of subsections (3) to (6), (8)(a) or (b), and (9) and another provision, the other provision prevails.
     
-    Section 14: substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 14: replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 14(7): substituted, on 8 December 2009, by [section 129][930] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 14(7): replaced, on 8 December 2009, by [section 129][930] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 14(9): substituted (with effect on 1 April 2005), on 18 December 2006, by [section 170][931] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 14(9): replaced (with effect on 1 April 2005), on 18 December 2006, by [section 170][931] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 14B Giving of notices to Commissioner
     
@@ -3688,7 +3688,7 @@ Commissioner and department
     
     Section 14B: inserted, 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 14B(8): substituted (with effect on 1 April 2005), on 18 December 2006, by [section 171][932] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 14B(8): replaced (with effect on 1 April 2005), on 18 December 2006, by [section 171][932] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 14C Giving of notices to other persons
     
@@ -3724,7 +3724,7 @@ Commissioner and department
     
     Section 14C(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 14C(8): substituted (with effect on 1 April 2005), on 18 December 2006, by [section 172][933] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 14C(8): replaced (with effect on 1 April 2005), on 18 December 2006, by [section 172][933] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 15 Annual report
     
@@ -3775,20 +3775,20 @@ Taxpayer's tax obligations
     
     Section 15B(a): amended, on 27 March 2001 (applying to 1999--2000 and subsequent income years), by [section 45(1)][936] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 15B(h): added, on 7 October 1998 (applying on and after 1 April 1999), by [section 5(1)][937] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 15B(h): inserted, on 7 October 1998 (applying on and after 1 April 1999), by [section 5(1)][937] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 15B(h): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 15B(i): added, on 7 October 1998 (applying on and after 1 April 1999), by [section 5(1)][937] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 15B(i): inserted, on 7 October 1998 (applying on and after 1 April 1999), by [section 5(1)][937] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 ## Part 2B  
 Intermediaries for PAYE, provisional tax, and resident passive income
     
-*   Part 2B: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+*   Part 2B: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 #### PAYE intermediaries
     
-*   Heading: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+*   Heading: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15C PAYE intermediaries and listed PAYE intermediaries
     
@@ -3866,7 +3866,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBA 2(1)(c)][942]
     
-    Section 15F: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15F: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15G Application for approval as listed PAYE intermediary
     
@@ -3886,7 +3886,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBB 2][943]
     
-    Section 15G: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15G: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15H Grounds for revocation of listing
     
@@ -3904,7 +3904,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBB 4(1)][944]
     
-    Section 15H: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15H: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15I Procedure for revocation of listing
     
@@ -3918,7 +3918,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBB 4(2)--(5)][944]
     
-    Section 15I: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15I: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15J Employers' arrangements with PAYE intermediaries
     
@@ -3940,7 +3940,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [ss NBA 3][945], [NBA 8][946], [NBB 7][947]
     
-    Section 15J: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15J: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15K Privacy requirements
     
@@ -3948,7 +3948,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBA 5(3)][948]
     
-    Section 15K: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15K: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15L Amended monthly schedules
     
@@ -3956,7 +3956,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NBA 5(4)][948]
     
-    Section 15L: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15L: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15M Subsidy claim forms
     
@@ -3970,7 +3970,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [ss NBB 3(2)][940], [NBB 5(1)--(3)][949]
     
-    Section 15M: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15M: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 #### RWT proxies
     
@@ -4000,7 +4000,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s NF 2AA][950]
     
-    Section 15N: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15N: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for tax on income derived in 2008--09 or later income years), by [section 598(1)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 #### Tax pooling intermediaries
     
@@ -4012,7 +4012,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 3(1)][951]
     
-    Section 15O: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15O: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15P Role of Commissioner
     
@@ -4028,7 +4028,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 4(5), (6)][952]
     
-    Section 15P: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15P: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15Q Applications to establish tax pooling accounts
     
@@ -4044,7 +4044,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 4][952]
     
-    Section 15Q: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15Q: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15R Fitness of applicants
     
@@ -4066,7 +4066,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 3(d)][951]
     
-    Section 15R: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15R: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15S Requirements for applications to establish tax pooling accounts
     
@@ -4104,7 +4104,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 3][951]
     
-    Section 15S: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15S: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15T Winding up tax pooling accounts
     
@@ -4134,7 +4134,7 @@ Intermediaries for PAYE, provisional tax, and resident passive income
     
     Compare: 2004 No 35 [s MBA 8][953]
     
-    Section 15T: substituted, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 15T: replaced, on 6 October 2009, by [section 598(2)][938] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 15U Requirements for applications to establish tax pooling accounts
     
@@ -4199,13 +4199,13 @@ Information, record-keeping, and returns
     
     Compare: 1974 No 133 s 16
     
-    Section 16 heading: substituted, on 26 March 2003, by [section 83(1)][967] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 16 heading: replaced, on 26 March 2003, by [section 83(1)][967] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 16(1): amended, on 29 August 2011, by [section 143(a)][968] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 16(1): amended, on 29 August 2011, by [section 143(b)][968] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 16(2): substituted, on 26 March 2003, by [section 83(2)][969] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 16(2): replaced, on 26 March 2003, by [section 83(2)][969] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 16(2): amended, on 1 September 2013, by [section 108(1)][970] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
@@ -4347,7 +4347,7 @@ Information, record-keeping, and returns
     
     Section 17(1): amended, on 29 August 2011, by [section 146(1)][976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 17(1B): substituted, on 25 November 2003, by [section 105(1)][977] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 17(1B): replaced, on 25 November 2003, by [section 105(1)][977] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 17(1B): amended, on 29 August 2011, by [section 146(2)][976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -4357,7 +4357,7 @@ Information, record-keeping, and returns
     
     Section 17(1C): amended, on 25 November 2003, by [section 105(2)(a)][977] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 17(1C)(a): substituted, on 1 April 2010, by [section 599(2)][979] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 17(1C)(a): replaced, on 1 April 2010, by [section 599(2)][979] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 17(1D): inserted, on 26 March 2003, by [section 85][978] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -4459,9 +4459,9 @@ Information, record-keeping, and returns
     
     Section 17A(7)(b)(ii): amended, on 21 June 2005, by [section 121][983] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 17A(7)(b)(iii): added, on 21 June 2005, by [section 121][983] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 17A(7)(b)(iii): inserted, on 21 June 2005, by [section 121][983] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 17A(7)(b)(iv): added, on 21 June 2005, by [section 121][983] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 17A(7)(b)(iv): inserted, on 21 June 2005, by [section 121][983] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
     Section 17A(15) **information**: amended, on 29 August 2011, by [section 147][984] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
@@ -4539,7 +4539,7 @@ Information, record-keeping, and returns
     
     Compare: 1974 No 133 s 20
     
-    Section 20 heading: substituted (with effect on 1 April 1995), on 12 December 1995, by section 3 of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
+    Section 20 heading: replaced (with effect on 1 April 1995), on 12 December 1995, by section 3 of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
     
     Section 20(1): amended, on 1 September 2013, by [section 302(10)][888] of the Search and Surveillance Act 2012 (2012 No 24).
     
@@ -4565,7 +4565,7 @@ Information, record-keeping, and returns
     
     Section 20(6): amended, on 29 August 2011, by [section 149(6)][990] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 20(7): substituted, on 1 August 2008, by [section 348][992] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 20(7): replaced, on 1 August 2008, by [section 348][992] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 20B No requirement to disclose tax advice document
     
@@ -4683,7 +4683,7 @@ Information, record-keeping, and returns
     
     Section 20C(2): amended, on 29 August 2011, by [section 151(3)][996] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 20C(2)(a): substituted, on 6 October 2009, by [section 601(2)][997] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20C(2)(a): replaced, on 6 October 2009, by [section 601(2)][997] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 20C(2)(b)(i): amended, on 29 August 2011, by [section 151(3)][996] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -4691,7 +4691,7 @@ Information, record-keeping, and returns
     
     Section 20C(3): amended, on 29 August 2011, by [section 151(4)][996] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 20C(3)(a): substituted, on 6 October 2009, by [section 601(3)][997] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20C(3)(a): replaced, on 6 October 2009, by [section 601(3)][997] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 20C(3)(a): amended, on 29 August 2011, by [section 151(4)][996] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -4783,7 +4783,7 @@ Information, record-keeping, and returns
     
     Section 20D(4)(d): amended, on 6 October 2009, by [section 602(1)][1000] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 20D(4)(e): added, on 6 October 2009, by [section 602(1)][1000] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20D(4)(e): inserted, on 6 October 2009, by [section 602(1)][1000] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 20D(5): amended, on 29 August 2011, by [section 152(6)][998] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
@@ -4797,7 +4797,7 @@ Information, record-keeping, and returns
     
     Section 20E: inserted, on 21 June 2005 (applying to a requirement to disclose information for which notice of the requirement is given after 21 June 2005), by [section 122(1)][993] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 20E heading: substituted, on 29 August 2011, by [section 153(1)][1001] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 20E heading: replaced, on 29 August 2011, by [section 153(1)][1001] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 20E: amended, on 29 August 2011, by [section 153(2)][1001] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -4877,11 +4877,11 @@ Information, record-keeping, and returns
     
     Section 20F(2)(d): amended, on 6 October 2009, by [section 603(1)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 20F(2)(e): added, on 6 October 2009, by [section 603(1)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20F(2)(e): inserted, on 6 October 2009, by [section 603(1)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 20F(5): amended, on 6 October 2009, by [section 603(2)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 20F(6): added, on 6 October 2009, by [section 603(3)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20F(6): inserted, on 6 October 2009, by [section 603(3)][1005] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 20G Challenge to claim that document is tax advice document
     
@@ -4913,13 +4913,13 @@ Information, record-keeping, and returns
     
     Section 20G(1): amended, on 6 October 2009, by [section 604(1)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 20G(1)(b): substituted, on 6 October 2009, by [section 604(2)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20G(1)(b): replaced, on 6 October 2009, by [section 604(2)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 20G(2): amended, on 29 August 2011, by [section 155(3)][1006] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 20G(2): amended, on 6 October 2009, by [section 604(3)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 20G(4): added, on 6 October 2009, by [section 604(4)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 20G(4): inserted, on 6 October 2009, by [section 604(4)][1007] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 21 Information requisitions in relation to offshore payments
     
@@ -5021,7 +5021,7 @@ Information, record-keeping, and returns
     
     Section 21(4): amended, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 431(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 21(6): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 431(4) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 21(6): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 431(4) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 21(6): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -5255,13 +5255,13 @@ Information, record-keeping, and returns
     
     Section 22(1)(c)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 22(1)(c)(iii): added, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
+    Section 22(1)(c)(iii): inserted, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
     Section 22(1)(c)(iii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 22(1)(c)(iii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 22(1)(c)(iv): added, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
+    Section 22(1)(c)(iv): inserted, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
     Section 22(1)(c)(iv): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -5269,7 +5269,7 @@ Information, record-keeping, and returns
     
     Section 22(1)(c)(iv): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 22(1)(c)(v): added, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
+    Section 22(1)(c)(v): inserted, on 26 November 1998, by [section 26][1023] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
     Section 22(1)(c)(v): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -5291,7 +5291,7 @@ Information, record-keeping, and returns
     
     Section 22(2) proviso: repealed, on 2 November 2012, by [section 171(1)(e)][1024] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 22(2)(b): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 22(2)(b): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 22(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -5301,7 +5301,7 @@ Information, record-keeping, and returns
     
     Section 22(2)(cb): inserted (with effect on 1 April 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 189(2)][1020] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 22(2)(d): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 22(2)(d): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 22(2)(d): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -5311,23 +5311,23 @@ Information, record-keeping, and returns
     
     Section 22(2)(ed): inserted (with effect on 6 January 2010), on 6 October 2009, by [section 605(1)][1025] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 22(2)(f): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 22(2)(f): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 22(2)(f): amended, on 1 July 2012 (applying for records relating to income years beginning on or after that date), by [section 140(1)][1026] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
     Section 22(2)(fb): inserted (with effect on 1 April 2005), on 1 October 2006, by [section 211(2)(b)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 22(2)(g): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 22(2)(g): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 22(2)(g): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 22(2)(h): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 22(2)(h): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 22(2)(h): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 22(2)(j): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 605(2)][1025] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 22(2)(k): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 22(2)(k): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 22(2)(k): amended (with effect on 1 July 2011 and applying for records relating to income years beginning on or after that date), on 7 May 2012, by [section 140(2)][1026] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
@@ -5349,7 +5349,7 @@ Information, record-keeping, and returns
     
     Section 22(2)(lc): inserted, on 1 July 2014, by [section 152][1028] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 22(2)(m): added (with effect on 1 April 2005), on 1 October 2006, by [section 211(2)(c)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 22(2)(m): inserted (with effect on 1 April 2005), on 1 October 2006, by [section 211(2)(c)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 22(2BA): inserted, on 2 November 2012, by [section 171(2)][1024] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
@@ -5359,7 +5359,7 @@ Information, record-keeping, and returns
     
     Section 22(2) proviso: repealed, on 2 November 2012, by [section 171(e)][1024] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 22(3): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 22(3): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 432(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 22(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -5371,7 +5371,7 @@ Information, record-keeping, and returns
     
     Section 22(4)(b): amended, on 1 April 2008 (for a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, applying for income years starting on and after 1 April 2008), by [section 28(1)][1029] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
     
-    Section 22(4)(c): added, on 1 April 2008 (for a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, applying for income years starting on and after 1 April 2008), by [section 28(1)][1029] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
+    Section 22(4)(c): inserted, on 1 April 2008 (for a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, applying for income years starting on and after 1 April 2008), by [section 28(1)][1029] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
     
     Section 22(5): amended (with effect on 1 April 2005), on 1 October 2006, by [section 211(7)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
@@ -5385,15 +5385,15 @@ Information, record-keeping, and returns
     
     Section 22(6)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 22(7)(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 22(7)(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 22(7)(c): amended, on 1 July 2012 (applying for records relating to income years beginning on or after that date), by [section 140(3)][1026] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
-    Section 22(7)(d): added, on 1 October 2006, by [section 211(9)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 22(7)(d): inserted, on 1 October 2006, by [section 211(9)][1021] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 22(7)(d)(iii)(C): amended, on 19 December 2007 (applying for 2008--09 and later income years), by [section 189(6)][1020] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 22(7)(e): added, on 19 December 2007 (applying for 2008--09 and later income years), by [section 189(6)][1020] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 22(7)(e): inserted, on 19 December 2007 (applying for 2008--09 and later income years), by [section 189(6)][1020] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 22(8): inserted, on 2 November 2012, by [section 171(4)][1024] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
@@ -5497,7 +5497,7 @@ Information, record-keeping, and returns
     
     Section 23(2)(b): amended, on 7 October 1998 (applying on and after 1 April 1999), by [section 6(1)][1037] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 23(2)(c): added, on 7 October 1998 (applying on and after 1 April 1999), by [section 6(1)][1037] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 23(2)(c): inserted, on 7 October 1998 (applying on and after 1 April 1999), by [section 6(1)][1037] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 #### Other obligations to keep and provide records
 
@@ -5519,7 +5519,7 @@ Information, record-keeping, and returns
     
     Section 24 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 87(1)][1038] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 24(1): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 24(1): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 24(1): amended (with effect on 6 January 2010), on 6 October 2009, by [section 606][1039] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
@@ -5591,11 +5591,11 @@ Information, record-keeping, and returns
     
     Section 24B(3)(bb): inserted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 130(1)][1044] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 24B(3)(c): substituted, on 1 April 2009, by [section 16(1)][1045] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+    Section 24B(3)(c): replaced, on 1 April 2009, by [section 16(1)][1045] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
-    Section 24B(3)(d): substituted, on 1 April 2009, by [section 16(1)][1045] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+    Section 24B(3)(d): replaced, on 1 April 2009, by [section 16(1)][1045] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
-    Section 24B(3)(e): substituted, on 1 October 2008, by [section 18(1)][1046] of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36).
+    Section 24B(3)(e): replaced, on 1 October 2008, by [section 18(1)][1046] of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36).
     
     Section 24B(3)(gb): inserted (with effect on 1 April 2009), on 6 October 2009 (applying for 2009--10 and later income years), by [section 607(1)][1047] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
@@ -5603,7 +5603,7 @@ Information, record-keeping, and returns
     
 *   An employee who receives a PAYE income payment of an income-tested benefit and a PAYE income payment that does not consist of an income-tested benefit may choose, for their non-benefit income, a tax code set out in [section 24B(3)(bb), (c), (d), or (e)][1048] that is relevant to their circumstances.
     
-    Section 24C: substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 131(1)][1049] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 24C: replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 131(1)][1049] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
 
 ##### 24D Tax code for parental leave payment
     
@@ -5783,9 +5783,9 @@ Information, record-keeping, and returns
     
     Section 24M: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 24M(5): substituted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 127(1)][1070] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 24M(5): replaced (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 127(1)][1070] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 24M(6): added (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 127(1)][1070] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 24M(6): inserted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 127(1)][1070] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 24N Special tax rate certificates for schedular payments
     
@@ -5805,9 +5805,9 @@ Information, record-keeping, and returns
     
     Section 24N: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 24N(5): substituted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 128(1)][1072] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 24N(5): replaced (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 128(1)][1072] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 24N(6): added (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 128(1)][1072] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 24N(6): inserted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 128(1)][1072] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 24O Certain information required from agricultural, horticultural, or viticultural employers
     
@@ -5883,7 +5883,7 @@ Information, record-keeping, and returns
     
     Section 25A: inserted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 132(1)][1078] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 25A(1): substituted (with effect on 1 April 2010), on 7 September 2010 (applying for 2010--11 income year), by [section 129(1)][1079] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 25A(1): replaced (with effect on 1 April 2010), on 7 September 2010 (applying for 2010--11 income year), by [section 129(1)][1079] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 25 RWT withholding certificates
     
@@ -5975,9 +5975,9 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 327H
     
-    Section 25 heading: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 25 heading: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 25(1): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 25(1): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 25(1B): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -5999,7 +5999,7 @@ Information, record-keeping, and returns
     
     Section 25(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 25(6): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 25(6): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 25(6)(a): amended (with effect on 1 April 2008), on 7 September 2010, by [section 130(1)][1085] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -6007,7 +6007,7 @@ Information, record-keeping, and returns
     
     Section 25(6)(c): amended (with effect on 1 April 2008), on 7 September 2010, by [section 130(3)][1085] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 25(6)(d): substituted (with effect on 1 April 2010), on 7 September 2010 (applying for 2010--11 and later tax years), by [section 130(4)][1085] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 25(6)(d): replaced (with effect on 1 April 2010), on 7 September 2010 (applying for 2010--11 and later tax years), by [section 130(4)][1085] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
     Section 25(6)(d)(iii): amended, on 30 June 2014, by [section 153][1086] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -6021,7 +6021,7 @@ Information, record-keeping, and returns
     
     Section 25(7): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 25(7)(a): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 64(1)][1087] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 25(7)(a): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 64(1)][1087] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 25(7)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6029,7 +6029,7 @@ Information, record-keeping, and returns
     
     Section 25(7)(a): amended, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 74(3)][1088] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 25(7)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 25(7)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 25(8): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6041,7 +6041,7 @@ Information, record-keeping, and returns
     
     Section 25(10)(e): replaced (with effect on 17 October 2002), on 2 November 2012 (applying to RWT withholding certificates provided on or after 1 April 2002 that relate to interest or specified dividends paid in the 2001--02 and subsequent income years), by [section 173(1)][1089] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 25(11): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 25(11): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 26 Records to be kept for RWT purposes
     
@@ -6107,13 +6107,13 @@ Information, record-keeping, and returns
     
     Section 26(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 26(1)(a): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 26(1)(a): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 26(1)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 26(1)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 26(1)(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 26(1)(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 26(1)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 26(1)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 26(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6161,13 +6161,13 @@ Information, record-keeping, and returns
     
     *   (b) [section RE 10][1092] of the Income Tax Act 2007 applies.
     
-    Section 28: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 28: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 28B Notification of investors' tax rates
     
 *   A New Zealand resident who is an investor in a multi-rate PIE must provide their tax file number to the PIE within 1 month of the date of a request from the PIE for the number.
     
-    Section 28B: substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 611(1)][1093] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 28B: replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 611(1)][1093] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 28C Person advising retirement savings scheme of retirement scheme prescribed rate
     
@@ -6259,9 +6259,9 @@ Information, record-keeping, and returns
     
     Section 29(1): amended, on 3 April 2006 (applying for income years corresponding to 2005--06 and subsequent tax years), by [section 213(1)][1099] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 29(1)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 29(1)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 29(1)(e): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 29(1)(e): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 29(1)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6429,7 +6429,7 @@ Information, record-keeping, and returns
     
     *   (e) made available electronically to the member or to a person authorised to act on behalf of the member and the member or the authorised person agrees to having the notice made available in this way.
     
-    Section 31: substituted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 88(1)][1112] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 31: replaced, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 88(1)][1112] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 31(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -6459,7 +6459,7 @@ Information, record-keeping, and returns
     
     (2) A PIE choosing under [section HM 29][1117] of that Act to cancel PIE status must notify the Commissioner of the election. The notice must be in the prescribed electronic format and be provided within 1 month of the cancellation of PIE status.
     
-    Section 31B: substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 613(1)][1118] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 31B: replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 613(1)][1118] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 31B(1): amended, on 29 August 2011, by [section 158(a)][1119] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -6513,15 +6513,15 @@ Information, record-keeping, and returns
     
     Section 31C(2C): inserted, on 29 August 2011, by [section 159(1)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 31C(3): substituted, on 1 April 2011, by [section 144][1127] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 31C(3): replaced, on 1 April 2011, by [section 144][1127] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 31C(4): substituted, on 1 April 2011, by [section 144][1127] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 31C(4): replaced, on 1 April 2011, by [section 144][1127] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 31C(5): amended, on 29 August 2011, by [section 159(2)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 31C(7): added, on 29 August 2011, by [section 159(3)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 31C(7): inserted, on 29 August 2011, by [section 159(3)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 31C(8): added, on 29 August 2011, by [section 159(3)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 31C(8): inserted, on 29 August 2011, by [section 159(3)][1126] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 31C(9): inserted, on 17 July 2013, by [section 111][1128] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
 
@@ -6531,7 +6531,7 @@ Information, record-keeping, and returns
     
     (2) Notwithstanding subsection (1), the Commissioner, in writing, may authorise a gift-exempt body to keep those records in a language other than English if the gift-exempt body applies in writing to the Commissioner for the authorisation.
     
-    Section 32: substituted, on 2 September 1996 (applying to 1996--97 and subsequent income years), by [section 41][1129] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 32: replaced, on 2 September 1996 (applying to 1996--97 and subsequent income years), by [section 41][1129] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
 
 ##### 32A Records to be provided by employer who contributes to superannuation fund
     
@@ -6667,7 +6667,7 @@ Information, record-keeping, and returns
     
     Section 32E(2)(ed): inserted, on 6 October 2009, by [section 616(1)][1148] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 32E(2)(i)(ii): substituted (with effect on 1 April 2008), on 6 October 2009, by [section 616(2)][1148] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 32E(2)(i)(ii): replaced (with effect on 1 April 2008), on 6 October 2009, by [section 616(2)][1148] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 32E(2)(kb): inserted, on 1 July 2008, by [section 55][1149] of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36).
     
@@ -6877,9 +6877,9 @@ Information, record-keeping, and returns
     
     Section 32M: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 32M(1): substituted (with effect on 1 August 2010), on 21 December 2010, by [section 145(1)][1158] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 32M(1): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 145(1)][1158] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 32M(2): substituted (with effect on 1 August 2010), on 21 December 2010, by [section 145(1)][1158] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 32M(2): replaced (with effect on 1 August 2010), on 21 December 2010, by [section 145(1)][1158] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 32M(2B): inserted (with effect on 1 August 2010), on 21 December 2010, by [section 145(1)][1158] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -6915,13 +6915,13 @@ Information, record-keeping, and returns
     
     (4) The nominated company for a consolidated group is treated as a taxpayer for the purposes of this section. A company that is a member of a consolidated group in a tax year must not provide a separate return for a tax year, but this restriction applies only to a tax year, or a part of a tax year, in which the company is part of the group.
     
-    Section 33: substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 192(1)][1162] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 33: replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 192(1)][1162] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 33 heading: amended (with effect on 1 October 2007), on 19 December 2007, by [section 196(1)][1163] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 33 heading: amended, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 89(1)][1164] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 33(1): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 618(1)][1165] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 33(1): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 618(1)][1165] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 33(1B): inserted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 89(2)][1164] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -6929,11 +6929,11 @@ Information, record-keeping, and returns
     
     Section 33(1B): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 33(1C): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 618(2)][1165] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 33(1C): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 618(2)][1165] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 33(3): added, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 89(3)][1164] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 33(3): inserted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 89(3)][1164] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 33(4): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33(4): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 33A Annual returns of income not required
     
@@ -7115,15 +7115,15 @@ Information, record-keeping, and returns
     
     (5) The Commissioner may issue an income statement to a natural person to whom none of [section 33A(1), (2) and (2B)][138] applies.
     
-    Section 33A: substituted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 9(1)][1170] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 33A: replaced, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 9(1)][1170] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 33A heading: amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 193(2)][1171] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 33A(1): substituted, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 61(1)][1172] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 33A(1): replaced, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 61(1)][1172] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 33A(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 33A(1)(a): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 75(1)][1173] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 33A(1)(a): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 75(1)][1173] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 33A(1)(a): amended (with effect on 1 April 2005), on 18 December 2006, by [section 183][1174] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
@@ -7133,11 +7133,11 @@ Information, record-keeping, and returns
     
     Section 33A(1)(a)(iiib): inserted (with effect on 26 March 2003), on 25 November 2003 (applying for 2004--05 and subsequent income years), by [section 107(1)][1175] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 33A(1)(a)(iiic): substituted, on 1 July 2008, by [section 197(1)][1176] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 33A(1)(a)(iiic): replaced, on 1 July 2008, by [section 197(1)][1176] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 33A(1)(a)(iiic): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 33A(1)(a)(iv): added, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 75(2)][1173] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 33A(1)(a)(iv): inserted, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 75(2)][1173] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 33A(1)(a)(iv): amended, on 1 July 2008, by [section 197(2)][1176] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
@@ -7151,7 +7151,7 @@ Information, record-keeping, and returns
     
     Section 33A(1)(b)(iii): amended, on 1 April 2002, by [section 338][902] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 33A(1)(b)(iv): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(1)(b)(iv): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 33A(1)(b)(iv)(AA): repealed, on 1 April 2009 (applying for 2009--10 income year and later income years), by [section 17(1)(a)][1177] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
@@ -7171,7 +7171,7 @@ Information, record-keeping, and returns
     
     Section 33A(1)(b)(iv)(B): amended (with effect on 1 April 2008), on 29 May 2008, by [section 56(b)][1179] of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 (2008 No 36).
     
-    Section 33A(1)(b)(v): substituted, on 24 December 1999 (applying to 2000--2001 and subsequent income years), by [section 16(1)][1181] of the Taxation (Tax Rate Increase) Act 1999 (1999 No 143).
+    Section 33A(1)(b)(v): replaced, on 24 December 1999 (applying to 2000--2001 and subsequent income years), by [section 16(1)][1181] of the Taxation (Tax Rate Increase) Act 1999 (1999 No 143).
     
     Section 33A(1)(b)(v)(AA): repealed, on 1 April 2009 (applying for 2009--10 income year and later income years), by [section 17(1)(d)][1177] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
@@ -7191,7 +7191,7 @@ Information, record-keeping, and returns
     
     Section 33A(1)(b)(v)(B): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(1)(b)(vi): substituted, on 24 December 1999 (applying to 2000--2001 and subsequent income years), by [section 16(1)][1181] of the Taxation (Tax Rate Increase) Act 1999 (1999 No 143).
+    Section 33A(1)(b)(vi): replaced, on 24 December 1999 (applying to 2000--2001 and subsequent income years), by [section 16(1)][1181] of the Taxation (Tax Rate Increase) Act 1999 (1999 No 143).
     
     Section 33A(1)(b)(vi)(AA): repealed, on 1 April 2009 (applying for 2009--10 income year and later income years), by [section 17(1)(g)][1177] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
@@ -7225,13 +7225,13 @@ Information, record-keeping, and returns
     
     Section 33A(1)(b)(ixc): repealed (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 146(2)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 33A(1)(b)(x)(B): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(1)(b)(x)(B): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(1)(b)(xi): added, on 1 October 2007, by [section 53][1186] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 33A(1)(b)(xi): inserted, on 1 October 2007, by [section 53][1186] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
     Section 33A(1)(b)(xi): amended (with effect on 1 April 2010), on 21 December 2010 (applying for 2010--11 and later income years), by [section 146(3)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 33A(1)(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(1)(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 33A(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -7261,29 +7261,29 @@ Information, record-keeping, and returns
     
     Section 33A(1B): inserted (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 146(5)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 33A(2): substituted, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 61(1)][1172] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 33A(2): replaced, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 61(1)][1172] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 33A(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 33A(2)(a): substituted (with effect on 1 April 2009), on 21 December 2010 (applying for 2009--10 and later income years), by [section 146(6)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 33A(2)(a): replaced (with effect on 1 April 2009), on 21 December 2010 (applying for 2009--10 and later income years), by [section 146(6)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 33A(2)(cb): repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(2)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(d)(i): substituted, on 1 July 2008, by [section 197(3)][1176] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 33A(2)(d)(i): replaced, on 1 July 2008, by [section 197(3)][1176] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 33A(2)(d)(i)(B): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 33A(2)(db): repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(e): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(2)(e): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(f): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(2)(f): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(g): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(2)(g): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33A(2)(h): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 33A(2)(h): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 33A(2)(i): replaced, on 30 June 2014, by [section 154(2)][1189] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -7491,7 +7491,7 @@ Information, record-keeping, and returns
     
     (4) In this section, _registered person_ has the same meaning as in [section 2(1)][824] of the Goods and Services Tax Act 1985\.
     
-    Section 36: substituted, on 12 December 1995, by section 4(1) of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
+    Section 36: replaced, on 12 December 1995, by section 4(1) of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
     
     Section 36(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -7537,7 +7537,7 @@ Information, record-keeping, and returns
     
 *   The Commissioner must prescribe 1 or more electronic formats in which a return required under [section 57B][192] must be provided by a multi-rate PIE or a proxy for an investor in the PIE. The Commissioner may specify conditions relating to the format, either general or in a particular case.
     
-    Section 36AB: substituted, on 1 April 2010 (applying for 2009--10 and later income years), by [section 621(1)][1201] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 36AB: replaced, on 1 April 2010 (applying for 2009--10 and later income years), by [section 621(1)][1201] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 36B Other formats of employer monthly schedule
     
@@ -7703,9 +7703,9 @@ Information, record-keeping, and returns
     
     Section 37(3): amended, on 23 September 1997, by [section 70][1210] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 37(4): substituted, on 27 March 1998 (applying to 1997--98 and subsequent income years), by [section 43(1)][1211] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 37(4): replaced, on 27 March 1998 (applying to 1997--98 and subsequent income years), by [section 43(1)][1211] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
     
-    Section 37(4A): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 66(1)][1212] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 37(4A): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 66(1)][1212] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 37(4A): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -7729,9 +7729,9 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 15
     
-    Section 38(1): substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 38(1): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38(1B): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 622(1)][1214] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 38(1B): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 622(1)][1214] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 38(2): repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -7755,17 +7755,17 @@ Information, record-keeping, and returns
     
     *   (b) **taxable income** is the person's taxable income for the tax year.
     
-    Section 39: substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 39: replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 39(1): amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 217(1)][1215] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 39(2): amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 217(1)][1215] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 39(5): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 39(5): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 39(5) formula: substituted (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 147(1)][1216] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 39(5) formula: replaced (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 147(1)][1216] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 39(6): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 39(6): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 39B Changes in return dates: taxpayers with provisional tax and GST liabilities
     
@@ -7835,7 +7835,7 @@ Information, record-keeping, and returns
     
     (3) A return that is subject to this section is treated as being furnished on the date it is received at an office of the department.
     
-    Section 40: substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 16(1)][1222] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 40: replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 16(1)][1222] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 40(2)(a): amended (with effect on 1 October 2007), on 7 September 2010, by [section 135][1223] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
@@ -7877,7 +7877,7 @@ Information, record-keeping, and returns
     
     (8) An application under subsection (7)(b)(iii) for an extension of time to make an election is treated as if it were an application under [section 37][154] in relation to a return of income for the later of the tax years referred to in subsection (7)(b)(i) and (ii).
     
-    Section 41: substituted, on 24 May 1999 (applying on and after 1 October 1999), by [section 17][1225] of the Taxation (Parental Tax Credit) Act 1999 (1999 No 62).
+    Section 41: replaced, on 24 May 1999 (applying on and after 1 October 1999), by [section 17][1225] of the Taxation (Parental Tax Credit) Act 1999 (1999 No 62).
     
     Section 41 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -7901,11 +7901,11 @@ Information, record-keeping, and returns
     
     Section 41(4)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 41(6): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 41(6): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 41(7): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 41(7): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 41(8): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 41(8): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 41A Returns by persons with tax credits for charitable or other public benefit gifts
     
@@ -7953,13 +7953,13 @@ Information, record-keeping, and returns
     
     Section 41A heading: amended, on 29 May 2012 (applying for the 2012--13 and later tax years), by [section 12(1)][1231] of the Taxation (Budget Measures) Act 2012 (2012 No 38).
     
-    Section 41A: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 41A: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 41A(1): substituted (with effect on 1 April 2009), on 6 October 2009, by [section 623(1)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41A(1): replaced (with effect on 1 April 2009), on 6 October 2009, by [section 623(1)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 41A(1): amended, on 29 May 2012 (applying for the 2012--13 and later tax years), by [section 12(2)][1231] of the Taxation (Budget Measures) Act 2012 (2012 No 38).
     
-    Section 41A(3): substituted (with effect on 1 April 2009), on 6 October 2009, by [section 623(2)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41A(3): replaced (with effect on 1 April 2009), on 6 October 2009, by [section 623(2)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 41A(3): amended, on 29 May 2012 (applying for the 2012--13 and later tax years), by [section 12(3)(a)][1231] of the Taxation (Budget Measures) Act 2012 (2012 No 38).
     
@@ -7973,11 +7973,11 @@ Information, record-keeping, and returns
     
     Section 41A(5)(a): repealed, on 29 May 2012 (applying for the 2012--13 and later tax years), by [section 12(5)][1231] of the Taxation (Budget Measures) Act 2012 (2012 No 38).
     
-    Section 41A(5)(b): substituted (with effect on 1 April 2009), on 6 October 2009, by [section 623(3)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41A(5)(b): replaced (with effect on 1 April 2009), on 6 October 2009, by [section 623(3)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 41A(6): replaced, on 1 April 2014 (applying to applications made in the 2014--15 and later tax years), by [section 112(1)][1233] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
-    Section 41A(10): substituted (with effect on 1 April 2009), on 6 October 2009, by [section 623(4)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41A(10): replaced (with effect on 1 April 2009), on 6 October 2009, by [section 623(4)][1232] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 41A(10): amended, on 29 May 2012 (applying for the 2012--13 and later tax years), by [section 12(6)][1231] of the Taxation (Budget Measures) Act 2012 (2012 No 38).
 
@@ -8017,13 +8017,13 @@ Information, record-keeping, and returns
     
     Section 41B: inserted, on 19 December 2007, by [section 203(1)][1236] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 41B heading: substituted (with effect on 1 April 2008), on 6 October 2009, by [section 624(1)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41B heading: replaced (with effect on 1 April 2008), on 6 October 2009, by [section 624(1)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 41B(1): substituted (with effect on 1 April 2008), on 6 October 2009, by [section 624(2)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41B(1): replaced (with effect on 1 April 2008), on 6 October 2009, by [section 624(2)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 41B(2)(a)(i): amended, on 1 April 2008, by [section 203(2)][1236] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 41B(4): substituted (with effect on 1 April 2008), on 6 October 2009, by [section 624(3)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 41B(4): replaced (with effect on 1 April 2008), on 6 October 2009, by [section 624(3)][1237] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 42 Returns by joint venturers, partners, and partnerships
     
@@ -8047,7 +8047,7 @@ Information, record-keeping, and returns
     
     (4) In any other case, each person shall make a separate return taking into account that person's share of the joint income and deductions. Each person is separately assessed.
     
-    Section 42: substituted, on 1 April 2008 (for a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, applying for income years starting on and after 1 April 2008), by [section 29(1)][1240] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
+    Section 42: replaced, on 1 April 2008 (for a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, applying for income years starting on and after 1 April 2008), by [section 29(1)][1240] of the Taxation (Limited Partnerships) Act 2008 (2008 No 2).
 
 ##### 42B Returns by look-through companies and owners of interests
     
@@ -8077,11 +8077,11 @@ Information, record-keeping, and returns
     
     (5) The executor or administrator of a deceased taxpayer may request the Commissioner to issue an income statement if the taxpayer would have been a person to whom [section 33A(1)][138] applied if the taxpayer had remained alive.
     
-    Section 43: substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 196(1)][1244] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 43: replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 196(1)][1244] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 43(4): substituted, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 77(1)][1245] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 43(4): replaced, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 77(1)][1245] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 43(5): added, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 77(1)][1245] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 43(5): inserted, on 17 October 2002 (applying to 2002--03 and subsequent income years), by [section 77(1)][1245] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 43A Non-active companies may be excused from filing returns
     
@@ -8155,17 +8155,17 @@ Information, record-keeping, and returns
     
     Section 43A(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 43A(2)(a): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 43A(2)(a): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 43A(2)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 43A(2)(b): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 43A(2)(b): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 43A(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 43A(2)(c): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 43A(2)(c): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 43A(2)(d): added, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 43A(2)(d): inserted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 441(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 43A(2)(d): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -8227,23 +8227,23 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 12; 1994 No 76 s 9
     
-    Section 44(1)(d): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 44(1)(d): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 44(1)(d): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 44(1)(e): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 44(1)(e): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 44(2): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 44(2): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 44(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 44(3): amended, on 1 October 1996, by [section 10][1248] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 44(5): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 44(5): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 44(5): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 197(1)][1249] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 44(6): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 44(6): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 442(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 44(6): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -8311,7 +8311,7 @@ Information, record-keeping, and returns
     
     Section 44B(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 44B(2): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 198(1)][1256] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 44B(2): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 198(1)][1256] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 44B(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -8347,7 +8347,7 @@ Information, record-keeping, and returns
     
     Section 44C: inserted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 44C(1): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 44C(1): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 44C(2)(a): amended, on 1 April 2005, pursuant to [section 5(1)(c)][1264] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
     
@@ -8423,15 +8423,15 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 432
     
-    Section 46(1): substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(1)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 46(1): replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(1)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 46(2): substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 46(2): replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 46(3): substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 46(3): replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 46(4): substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 46(4): replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 46(5): substituted, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 46(5): replaced, on 7 October 1998 (applying on and after 1 April 1999), by [section 19(2)][1268] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 46(5)(da): inserted, on 20 May 1999 (applying on and after 1 July 1999), by [section 68(1)][1269] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
@@ -8591,7 +8591,7 @@ Information, record-keeping, and returns
     
     *   (c) despite paragraphs (a) and (b), if the employer or PAYE intermediary is required to pay an amount of tax to the Commissioner under [section RD 4(1)(a)][910] of the Income Tax Act 2007, no later than the 20th of the following month in which the amount was withheld.
     
-    Section 47: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 47: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 47 heading: amended (with effect on 1 April 2008), on 2 November 2012, by [section 186(1)][1288] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
@@ -8793,11 +8793,11 @@ Information, record-keeping, and returns
     
     (5) The Commissioner may vary any of the requirements of this section in relation to any person or class of persons in such cases and to such extent as the Commissioner thinks fit, and where the Commissioner does so this section shall apply as so varied.
     
-    Section 49: substituted, on 12 December 1995, by section 5(1) of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
+    Section 49: replaced, on 12 December 1995, by section 5(1) of the Tax Administration Amendment Act (No 3) 1995 (1995 No 77).
     
-    Section 49 heading: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49 heading: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 49(1): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49(1): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 49(1B): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -8805,13 +8805,13 @@ Information, record-keeping, and returns
     
     Section 49(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 49(2)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49(2)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 49(2)(e): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49(2)(e): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 49(2)(f): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49(2)(f): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 49(2)(g): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 49(2)(g): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 49(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -8837,7 +8837,7 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 327E(5)
     
-    Section 50 heading: substituted (with effect on 21 December 2004), on 21 June 2005, by [section 129(a)][1295] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 50 heading: replaced (with effect on 21 December 2004), on 21 June 2005, by [section 129(a)][1295] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
     Section 50 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -8919,21 +8919,21 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 327I
     
-    Section 51 heading: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51 heading: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(1): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(1): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 51(1B): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2): substituted, on 17 October 2002 (applying to resident withholding certificates provided on and after 1 April 2002 that relate to interest or specified dividends paid in 2001--02 and subsequent income years), by [section 78(1)][1296] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 51(2): replaced, on 17 October 2002 (applying to resident withholding certificates provided on and after 1 April 2002 that relate to interest or specified dividends paid in 2001--02 and subsequent income years), by [section 78(1)][1296] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 51(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(2)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2)(e): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(2)(e): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2)(f): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(2)(f): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 51(2)(g): replaced, on 30 June 2014, by [section 156][1297] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -8941,9 +8941,9 @@ Information, record-keeping, and returns
     
     Section 51(2A): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2A)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(2A)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(2A)(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 51(2A)(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 51(2B): inserted, on 17 October 2002 (applying to resident withholding certificates provided on or after 1 April 2002 that relate to interest or specified dividends paid in 2001--02 and subsequent income years), by [section 78(1)][1296] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
@@ -8965,7 +8965,7 @@ Information, record-keeping, and returns
     
     Section 51(5C)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 51(7): added (with effect on 21 December 2004), on 21 June 2005, by [section 130][1299] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 51(7): inserted (with effect on 21 December 2004), on 21 June 2005, by [section 130][1299] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
     Section 51(7): amended, on 2 November 2012, by [section 187][1300] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
@@ -8999,17 +8999,17 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 327J(1)
     
-    Section 52 heading: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 52 heading: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 52: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 52(a): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 52(a): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 52(a): amended (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 138(1)][1301] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 52(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 52(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 52(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 52(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 52(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -9065,7 +9065,7 @@ Information, record-keeping, and returns
     
     Section 53(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 53(1)(b)(iii): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 69(1)][1303] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 53(1)(b)(iii): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 69(1)][1303] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 53(1)(b)(iv): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -9095,7 +9095,7 @@ Information, record-keeping, and returns
     
     Section 54(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 54(1)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 54(1)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 55 Consequence of inability to provide tax file numbers
     
@@ -9131,7 +9131,7 @@ Information, record-keeping, and returns
     
     (2) The return must be furnished to the Commissioner on or before the date by which returns of income are required under this Act.
     
-    Section 57: substituted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 97(1)][1305] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 57: replaced, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 97(1)][1305] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 57B Return requirements for multi-rate PIEs
     
@@ -9205,11 +9205,11 @@ Information, record-keeping, and returns
     
     *   (c) by the end of the third month after that in which the PIE loses PIE status, if the cessation occurs in the corresponding income year.
     
-    Section 57B: substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 626(1)][1306] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 57B: replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 626(1)][1306] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 57(5B): inserted, on 2 November 2012, by [section 188][1307] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 57B(7)(a): substituted, on 1 April 2011, by [section 149][1308] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 57B(7)(a): replaced, on 1 April 2011, by [section 149][1308] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 57B(7)(ab): inserted, on 1 April 2011, by [section 149][1308] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
@@ -9247,7 +9247,7 @@ Information, record-keeping, and returns
     
     Section 59(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 59(3): substituted, on 17 October 2002 (applying to 1997--98 and subsequent income years), by [section 79(1)][1311] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 59(3): replaced, on 17 October 2002 (applying to 1997--98 and subsequent income years), by [section 79(1)][1311] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 59(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -9363,7 +9363,7 @@ Information, record-keeping, and returns
     
     Section 61(1B): inserted, on 1 October 2006, by [section 222][1317] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 61(1C): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 628(5)][1316] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 61(1C): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 628(5)][1316] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 62 Returns as to debentures and interest on debentures
     
@@ -9567,7 +9567,7 @@ Information, record-keeping, and returns
     
     Section 68C(3)(b): repealed, on 6 October 2009, by [section 630(2)][1336] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 68C(4): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 18(2)][1337] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 68C(4): replaced (with effect on 1 July 2007), on 19 December 2007, by [section 18(2)][1337] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 68C(4): amended, on 1 April 2008, by [section 18(3)][1337] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
@@ -9623,7 +9623,7 @@ Information, record-keeping, and returns
         
         
     
-    Section 68E: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 632(1)][1340] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 68E: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 632(1)][1340] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 68F Requirements for statements in relation to research and development tax credits
     
@@ -9677,7 +9677,7 @@ Information, record-keeping, and returns
     
     *   (b) if paragraph (a) does not apply, the last day on which the ICA company is permitted under [section 37][154] to file a return of income for the tax year.
     
-    Section 69: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 69: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 69(1)(e): repealed, on 1 July 2012 (applying for returns relating to income years beginning on or after that date), by [section 145(1)][1345] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
@@ -9737,7 +9737,7 @@ Information, record-keeping, and returns
     
     Compare: 1976 No 65 s 394K
     
-    Section 70 heading: substituted, on 25 November 2003, by [section 113(1)][1357] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 70 heading: replaced, on 25 November 2003, by [section 113(1)][1357] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 70 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -9795,7 +9795,7 @@ Information, record-keeping, and returns
     
     *   (g) further information as may be prescribed or required by the Commissioner.
     
-    Section 71: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 71: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 #### Foreign dividends
     
@@ -9891,17 +9891,17 @@ Information, record-keeping, and returns
     
     Section 74(1)(b): amended (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 74(1)(b)(i): added (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 74(1)(b)(i): inserted (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 74(1)(b)(ii): added (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 74(1)(b)(ii): inserted (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 74(1)(b)(iii): added (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 74(1)(b)(iii): inserted (with effect on 1 April 2003), on 25 November 2003, by [section 114(3)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 74(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 74(1)(c): amended (with effect on 1 April 2003), on 25 November 2003, by [section 114(4)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 74(2): added (with effect on 1 April 2003), on 25 November 2003, by [section 114(5)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 74(2): inserted (with effect on 1 April 2003), on 25 November 2003, by [section 114(5)][1364] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 74(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -10112,7 +10112,7 @@ Income statements
     
     Section 80B(1): amended, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 65(1)][1389] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
-    Section 80B(2): substituted, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 102(1)][1390] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 80B(2): replaced, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 102(1)][1390] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 80B(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -10122,7 +10122,7 @@ Income statements
     
 *   A person to whom [section 33A(1)][138] applies may, at any time after the end of the person's tax year, request the issue of an income statement relating to that year.
     
-    Section 80C: substituted, on 8 December 2009 (applying for 2009--10 and later income years), by [section 136(1)][1391] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 80C: replaced, on 8 December 2009 (applying for 2009--10 and later income years), by [section 136(1)][1391] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
 
 ##### 80D Commissioner must issue income statement
     
@@ -10156,7 +10156,7 @@ Income statements
     
     Section 80D: inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 22(1)][1388] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 80D(1): substituted, on 25 November 2003 (applying for 2003--04 and subsequent income years), by [section 115(1)][1392] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 80D(1): replaced, on 25 November 2003 (applying for 2003--04 and subsequent income years), by [section 115(1)][1392] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 80D(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -10202,7 +10202,7 @@ Income statements
     
     Section 80E: inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 22(1)][1388] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 80E(1): substituted, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 67(1)][1395] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 80E(1): replaced, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 67(1)][1395] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 80E(2)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -10220,7 +10220,7 @@ Income statements
     
     Section 80E(2)(ea): amended (with effect on 1 April 2007), on 19 December 2007 (applying for 2007--08 and later income years), by [section 210(1)][1397] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 80E(3): added, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 66(3)][1396] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 80E(3): inserted, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 66(3)][1396] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
 
 ##### 80F Taxpayer obligations and assessment on receipt of income statement
     
@@ -10254,7 +10254,7 @@ Income statements
     
     Section 80F(1): amended, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 104(1)][1398] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 80F(2): substituted, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 104(2)][1398] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 80F(2): replaced, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 104(2)][1398] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 80F(2)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -10316,9 +10316,9 @@ Income statements
     
     Section 80H: inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 22(1)][1388] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 80H heading: substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 200(4)][1403] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 80H heading: replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 200(4)][1403] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 80H(1): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 200(1)][1403] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 80H(1): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 200(1)][1403] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 80H(2): repealed, on 25 November 2003, by [section 116(1)][1404] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
@@ -10336,11 +10336,11 @@ Income statements
     
     Section 80H(3)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 80H(4): substituted, on 26 March 2003 (applying to 2002--03 and subsequent income years), by [section 105(2)][1405] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 80H(4): replaced, on 26 March 2003 (applying to 2002--03 and subsequent income years), by [section 105(2)][1405] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 80H(5): repealed, on 26 March 2003 (applying to 2002--03 and subsequent income years), by [section 105(2)][1405] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 80H(6): added, on 10 October 2000 (applying to income statements issued for 1999--2000 and subsequent income years), by [section 67(4)][1406] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 80H(6): inserted, on 10 October 2000 (applying to income statements issued for 1999--2000 and subsequent income years), by [section 67(4)][1406] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 80H(6): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -10378,7 +10378,7 @@ Income statements
     
     Section 80I(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 80I(2)(c): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 201(1)][1407] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 80I(2)(c): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 201(1)][1407] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ## Part 3B  
 Credits of tax
@@ -10933,7 +10933,7 @@ Credits of tax
     
     Section 80KV: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 80KV(2): substituted, on 8 December 2009 (applying for 2009--10 and later income years), by [section 138(1)][1435] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 80KV(2): replaced, on 8 December 2009 (applying for 2009--10 and later income years), by [section 138(1)][1435] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
 
 ##### 80KW Effect of extra instalment on entitlement to tax credit
     
@@ -11003,9 +11003,9 @@ Credits of tax
     
     Section 80KW(1)(a): amended, on 1 April 2008, by [section 219(1)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 80KW(1)(b): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(1)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 80KW(1)(b): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(1)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 80KW(2)(b): substituted, on 1 April 2008, by [section 219(2)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 80KW(2)(b): replaced, on 1 April 2008, by [section 219(2)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 80KW(2)(b): amended (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(2)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
@@ -11013,17 +11013,17 @@ Credits of tax
     
     Section 80KW(4)(a)(ii): amended, on 1 April 2008, by [section 219(4)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 80KW(5)(b): substituted, on 1 April 2008, by [section 219(5)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 80KW(5)(b): replaced, on 1 April 2008, by [section 219(5)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 80KW(5)(b): amended (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(3)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 80KW(6) formula: substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(4)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 80KW(6) formula: replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(4)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 80KW(7)(a)(i): amended, on 1 April 2008, by [section 219(6)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 80KW(7)(a)(ii): amended, on 1 April 2008, by [section 219(7)][1438] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 80KW(7)(b): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(5)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 80KW(7)(b): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 637(5)][1439] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ## Part 4  
 Secrecy
@@ -11276,7 +11276,7 @@ Secrecy
     
     Compare: 1974 No 133 ss 2, 13(1), (2A), (3), (4), (6)
     
-    Section 81(1): substituted, on 29 August 2011, by [section 162(1)][1459] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 81(1): replaced, on 29 August 2011, by [section 162(1)][1459] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 81(1B): inserted, on 29 August 2011, by [section 162(1)][1459] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -11346,39 +11346,39 @@ Secrecy
     
     Section 81(4)(lc): inserted, on 19 December 2007, by [section 220(2)][1467] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 81(4)(m): added, on 10 April 1995, by section 9(2) of the Tax Administration Amendment Act 1995 (1995 No 24).
+    Section 81(4)(m): inserted, on 10 April 1995, by section 9(2) of the Tax Administration Amendment Act 1995 (1995 No 24).
     
     Section 81(4)(mb): inserted, on 1 October 2006, by [section 230(2)][1463] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 81(4)(mc): inserted, on 1 April 2007, by [section 189][1472] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 81(4)(n): added, on 1 November 1998, by [section 30][1473] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
+    Section 81(4)(n): inserted, on 1 November 1998, by [section 30][1473] of the Summary Proceedings Amendment Act (No 3) 1998 (1998 No 91).
     
-    Section 81(4)(o): added, on 25 November 2003, by [section 117(2)][1462] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 81(4)(o): inserted, on 25 November 2003, by [section 117(2)][1462] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 81(4)(o): amended, on 21 December 2004, by [section 91(2)][1474] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 81(4)(p): substituted, on 6 October 2009, by [section 638(1)][1475] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 81(4)(p): replaced, on 6 October 2009, by [section 638(1)][1475] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 81(4)(q): added, on 21 June 2005, by [section 133][1476] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 81(4)(q): inserted, on 21 June 2005, by [section 133][1476] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 81(4)(r): substituted, on 1 May 2011, by [section 82][885] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 81(4)(r): replaced, on 1 May 2011, by [section 82][885] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 81(4)(s): added, on 26 September 2006, by [section 51(2)][1466] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 81(4)(s): inserted, on 26 September 2006, by [section 51(2)][1466] of the Child Support Amendment Act 2006 (2006 No 42).
     
     Section 81(4)(s): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][1477] of the Policing Act 2008 (2008 No 72).
     
     Section 81(4)(s)(ii): amended (with effect on 19 December 2007), on 6 October 2009, by [section 638(2)][1475] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 81(4)(t): added (with effect on 19 December 2007), on 6 October 2009, by [section 638(2)][1475] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 81(4)(t): inserted (with effect on 19 December 2007), on 6 October 2009, by [section 638(2)][1475] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 81(4)(u): added, on 21 December 2010, by [section 150][1478] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 81(4)(u): inserted, on 21 December 2010, by [section 150][1478] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 81(7): added (with effect on 1 April 1997), on 23 September 1997, by [section 71][1479] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 81(7): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 71][1479] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 81(7): amended, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 81(8): added, on 29 August 2011, by [section 162(5)][1459] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 81(8): inserted, on 29 August 2011, by [section 162(5)][1459] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 81A Disclosure of information under approved information sharing agreement
     
@@ -11468,9 +11468,9 @@ Secrecy
     
     Section 81B: inserted, on 21 June 2005, by [section 134][1484] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 81B heading: substituted, on 19 December 2007, by [section 221(1)][1485] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 81B heading: replaced, on 19 December 2007, by [section 221(1)][1485] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 81B(2): added, on 19 December 2007, by [section 221(2)][1485] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 81B(2): inserted, on 19 December 2007, by [section 221(2)][1485] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 82 Disclosure of information for matching purposes
     
@@ -11592,11 +11592,11 @@ Secrecy
     
     Section 82(9) **authorised officer** paragraph (b): amended, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 82(9) **beneficiary**: substituted, on 21 December 2004, by [section 92(6)(b)][1487] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 82(9) **beneficiary**: replaced, on 21 December 2004, by [section 92(6)(b)][1487] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 82(9) **benefit**: inserted, on 21 December 2004, by [section 92(6)(c)][1487] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 82(9) **earnings related compensation** paragraph (c): added, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
+    Section 82(9) **earnings related compensation** paragraph (c): inserted, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
     Section 82(9) **earnings related compensation** paragraph (c): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -11638,7 +11638,7 @@ Secrecy
     
     Section 82A(8) **beneficiary information**: repealed, on 20 May 1999 (applying on and after 7 October 1998), by [section 71(1)(a)][1490] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 82A(8) **information about a beneficiary**: added, on 20 May 1999 (applying on and after 7 October 1998), by [section 71(1)(b)][1490] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 82A(8) **information about a beneficiary**: inserted, on 20 May 1999 (applying on and after 7 October 1998), by [section 71(1)(b)][1490] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 83 Disclosure of information for purposes of entitlement card
     
@@ -11700,7 +11700,7 @@ Secrecy
     
     Section 83(2): amended, on 1 October 1998, by [section 11][1465] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 83(2)(e): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 83(2)(e): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 83(2)(e): amended, on 1 April 2014, by [section 137(1)][1493] of the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 (2014 No 4).
     
@@ -11708,7 +11708,7 @@ Secrecy
     
     Section 83(2)(e): amended, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
     
-    Section 83(2)(f): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 83(2)(f): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(1) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 83(2)(f): amended, on 1 April 2014, by [section 137(2)][1493] of the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 (2014 No 4).
     
@@ -11726,7 +11726,7 @@ Secrecy
     
     Section 83(3): amended, on 1 October 1998, by [section 11][1465] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 83(5): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 83(5): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 447(2) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 83(5): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -11736,7 +11736,7 @@ Secrecy
     
     Section 83(7) **income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 83(7) **qualifying person**: added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 83(7) **qualifying person**: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 84 Disclosure of information for WFF tax credit double payment identification
     
@@ -11808,7 +11808,7 @@ Secrecy
     
     Section 84(2)(c): amended, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
     
-    Section 84(3): substituted, on 1 October 1998, by [section 11][1465] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 84(3): replaced, on 1 October 1998, by [section 11][1465] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
     Section 84(3): amended, on 1 April 2007, by [section 3(2)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
     
@@ -11828,11 +11828,11 @@ Secrecy
     
     Section 84(6) **Part KD credit**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 84(6) **qualifying person**: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 84(6) **qualifying person**: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 84(6) **subpart KD credit**: repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 84(6) **WFF tax credit**: added, on 1 April 2008, by [section 223(2)][1497] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 84(6) **WFF tax credit**: inserted, on 1 April 2008, by [section 223(2)][1497] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 85 Disclosure of address information in relation to debtors
     
@@ -11868,7 +11868,7 @@ Secrecy
     
     Compare: 1974 No 133 s 13D
     
-    Section 85(1): substituted, on 21 December 2004, by [section 93(1)][1504] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 85(1): replaced, on 21 December 2004, by [section 93(1)][1504] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 85(2): amended, on 21 December 2004, by [section 93(2)][1504] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
@@ -11884,9 +11884,9 @@ Secrecy
     
     Section 85(6) **debtor** paragraph (b): amended, on 17 September 1997, by [section 2(a)][1505] of the Tax Administration Amendment Act 1997 (1997 No 70).
     
-    Section 85(6) **debtor** paragraph (c): added, on 17 September 1997, by [section 2(b)][1505] of the Tax Administration Amendment Act 1997 (1997 No 70).
+    Section 85(6) **debtor** paragraph (c): inserted, on 17 September 1997, by [section 2(b)][1505] of the Tax Administration Amendment Act 1997 (1997 No 70).
     
-    Section 85(6) **debtor** paragraph (d): added, on 21 December 2004, by [section 93(4)(b)][1504] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 85(6) **debtor** paragraph (d): inserted, on 21 December 2004, by [section 93(4)(b)][1504] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 85A Disclosure of certain information in relation to fines defaulters
     
@@ -11952,7 +11952,7 @@ Secrecy
     
     Section 85A(3): amended, on 23 July 2011, by [section 4(3)][1511] of the Tax Administration Amendment Act 2011 (2011 No 49).
     
-    Section 85A(4): substituted, on 23 July 2011, by [section 4(4)][1511] of the Tax Administration Amendment Act 2011 (2011 No 49).
+    Section 85A(4): replaced, on 23 July 2011, by [section 4(4)][1511] of the Tax Administration Amendment Act 2011 (2011 No 49).
     
     Section 85A(4A): inserted, on 23 July 2011, by [section 4(4)][1511] of the Tax Administration Amendment Act 2011 (2011 No 49).
     
@@ -11966,7 +11966,7 @@ Secrecy
     
     Section 85A(6) **fines defaulter** paragraph (d): repealed, on 1 July 2013, by [section 413][1460] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 85A(6) **fines defaulter information**: substituted, on 10 April 2006, by [section 4(2)][1512] of the Tax Administration Amendment Act 2006 (2006 No 14).
+    Section 85A(6) **fines defaulter information**: replaced, on 10 April 2006, by [section 4(2)][1512] of the Tax Administration Amendment Act 2006 (2006 No 14).
 
 ##### 85B Disclosure of information for purposes of mutual assistance provision contained in social security agreement
     
@@ -12084,9 +12084,9 @@ Secrecy
     
     Section 85E(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 85E(2)(g): added, on 3 March 2010, by [section 49][1521] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 85E(2)(g): inserted, on 3 March 2010, by [section 49][1521] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 85E(2)(h): added, on 3 March 2010, by [section 49][1521] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 85E(2)(h): inserted, on 3 March 2010, by [section 49][1521] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
     Section 85E(3) **earnings as a self-employed person**: amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -12120,9 +12120,9 @@ Secrecy
     
     Section 85F heading: amended, on 6 October 2009, by [section 639(1)][1525] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 85F(1): substituted, on 6 October 2009, by [section 639(2)][1525] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 85F(1): replaced, on 6 October 2009, by [section 639(2)][1525] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 85F(2): substituted, on 6 October 2009, by [section 639(2)][1525] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 85F(2): replaced, on 6 October 2009, by [section 639(2)][1525] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 85F(3) **company**: amended (with effect on 6 October 2009), on 21 December 2010, by [section 151][1526] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -12196,13 +12196,13 @@ Secrecy
     
     Section 85G(6) **family assistance credit**: repealed (without coming into force), on 1 April 2008 (applying for 2008--09 and later income years), by [section 224(3)][1528] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 85G(6) **qualifying person**: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 85G(6) **qualifying person**: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 85G(6) **specified benefit**: repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 85G(6) **subpart KD credit**: repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 85G(6) **WFF tax credit**: added, on 1 April 2008 (applying for 2008--09 and later income years), by [section 224(3)][1528] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 85G(6) **WFF tax credit**: inserted, on 1 April 2008 (applying for 2008--09 and later income years), by [section 224(3)][1528] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 85GB Government Actuary to provide information to Commissioner for purpose of administration of KiwiSaver Act 2006
     
@@ -12508,13 +12508,13 @@ Secrecy
     
     Section 87(5)(b): amended, on 26 March 2003, by [section 107(a)][1550] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 87(5)(c): added, on 26 March 2003, by [section 107(b)][1550] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 87(5)(c): inserted, on 26 March 2003, by [section 107(b)][1550] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 87(5)(c): amended, on 25 November 2003 (applying on and after 25 November 2003), by [section 119(1)][1551] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 87(5)(d): substituted, on 6 October 2009, by [section 641][1552] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 87(5)(d): replaced, on 6 October 2009, by [section 641][1552] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 87(5)(e): added, on 21 April 2005, by [section 67(1)][1553] of the Public Records Act 2005 (2005 No 40).
+    Section 87(5)(e): inserted, on 21 April 2005, by [section 67(1)][1553] of the Public Records Act 2005 (2005 No 40).
     
     Section 87(5)(e): amended, on 1 February 2011, by [section 19][1554] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
 
@@ -12522,7 +12522,7 @@ Secrecy
     
 *   Notwithstanding any obligation of secrecy imposed by any enactment, the Commissioner may disclose such information as is required to be disclosed under a double tax agreement or tax recovery agreement to a person authorised to receive such information under the law of the territory in relation to which the double tax agreement or tax recovery agreement has been made.
     
-    Section 88: substituted, on 23 September 1997, by [section 72][1555] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 88: replaced, on 23 September 1997, by [section 72][1555] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 88: amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 72(1)][1556] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
@@ -12561,7 +12561,7 @@ Disputes procedures
     
     Section 89A: inserted, on 1 October 1996, by [section 11][1557] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 89A(3): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 73(1)][1558] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 89A(3): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 73(1)][1558] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 89A(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -12685,7 +12685,7 @@ Disputes procedures
     
     Section 89C(g): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 202(2)][1560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 89C(i): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 89C(i): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 89C(k): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 202(3)(a)][1560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -12695,13 +12695,13 @@ Disputes procedures
     
     Section 89C(ka): inserted, on 1 April 2011, by [section 152][1565] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 89C(l): added, on 7 October 1998 (applying to assessments made or deemed to be made on and after 1 April 1999), by [section 25(1)][1564] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 89C(l): inserted, on 7 October 1998 (applying to assessments made or deemed to be made on and after 1 April 1999), by [section 25(1)][1564] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 89C(l): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 202(4)][1560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 89C(lb): inserted, on 29 August 2011, by [section 166][1566] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 89C(m): added, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 202(4)][1560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 89C(m): inserted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 202(4)][1560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 89C(m): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -12743,7 +12743,7 @@ Disputes procedures
     
     Section 89D(1): amended, on 1 April 2011, by [section 153][1568] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 89D(2): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 203(1)][1569] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 89D(2): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 203(1)][1569] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 89D(2A): inserted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 203(1)][1569] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -12781,15 +12781,15 @@ Disputes procedures
     
     Section 89DA(1): amended, on 21 December 2004 (applying to notices issued in relation to GST return periods that begin on or after 1 April 2005), by [section 97(1)][1576] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89DA(1)(a): added, on 1 April 2011, by [section 154(1)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 89DA(1)(a): inserted, on 1 April 2011, by [section 154(1)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 89DA(1)(b): added, on 1 April 2011, by [section 154(1)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 89DA(1)(b): inserted, on 1 April 2011, by [section 154(1)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 89DA(2): substituted, on 21 December 2004 (applying to notices issued in relation to GST return periods that begin on or after 1 April 2005), by [section 97(2)][1576] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89DA(2): replaced, on 21 December 2004 (applying to notices issued in relation to GST return periods that begin on or after 1 April 2005), by [section 97(2)][1576] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89DA(3): added (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 644(1)][1577] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 89DA(3): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 644(1)][1577] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 89DA(4): added, on 1 April 2011, by [section 154(2)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 89DA(4): inserted, on 1 April 2011, by [section 154(2)][1575] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 89E Election of small claims jurisdiction of Taxation Review Authority
     
@@ -12823,7 +12823,7 @@ Disputes procedures
     
     *   (d) include copies of the documents of which the disputant is aware at the time that the notice is issued that are significantly relevant to the issues arising between the Commissioner and the disputant.
     
-    Section 89F: substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 99(1)][1579] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89F: replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 99(1)][1579] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 89G Issue of response notice
     
@@ -12843,7 +12843,7 @@ Disputes procedures
     
     Section 89G: inserted, on 1 October 1996, by [section 11][1557] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 89G(2): substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 100(1)][1580] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89G(2): replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 100(1)][1580] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 89H Deemed acceptance
     
@@ -12867,7 +12867,7 @@ Disputes procedures
     
     Section 89H: inserted, on 1 October 1996, by [section 11][1557] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 89H(4): added, on 29 August 2011, (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011) by [section 168(1)][1581] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 89H(4): inserted, on 29 August 2011, (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011) by [section 168(1)][1581] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 89I Circumstances where disputant may not challenge adjustment
     
@@ -12897,9 +12897,9 @@ Disputes procedures
     
     Section 89J: inserted, on 1 October 1996, by [section 11][1557] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 89J(1): substituted, on 19 December 2007, by [section 226][1582] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 89J(1): replaced, on 19 December 2007, by [section 226][1582] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 89J(2): added, on 19 December 2007, by [section 226][1582] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 89J(2): inserted, on 19 December 2007, by [section 226][1582] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 89J(2): amended, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 169(1)][1583] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
@@ -12981,7 +12981,7 @@ Disputes procedures
     
     Section 89K: inserted, on 1 October 1996, by [section 11][1557] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 89K(1)(a): substituted, on 29 August 2011, by [section 170(1)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 89K(1)(a): replaced, on 29 August 2011, by [section 170(1)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 89K(1)(b)(i)(A): amended, on 29 August 2011, by [section 170(2)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -12997,19 +12997,19 @@ Disputes procedures
     
     Section 89K(1)(d): amended, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(6)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89K(1)(e): added, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(6)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89K(1)(e): inserted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(6)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 89K(1B): inserted, on 29 August 2011, by [section 170(4)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 89K(3)(a): substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(7)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89K(3)(a): replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(7)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89K(3)(b): substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(7)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89K(3)(b): replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 101(7)][1586] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89K(4): added, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 89K(4): inserted, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 89K(5): added, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 89K(5): inserted, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 89K(6): added, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 89K(6): inserted, on 29 August 2011, by [section 170(5)][1585] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 89L Application to High Court
     
@@ -13147,7 +13147,7 @@ Disputes procedures
     
     Section 89M(6B): inserted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 102(2)][1588] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89M(7): substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 102(3)][1588] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 89M(7): replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 102(3)][1588] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 89N Completing the disputes process
     
@@ -13203,9 +13203,9 @@ Disputes procedures
     
     Section 89N: inserted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 103(1)][1590] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89N(1)(c)(iii): substituted, on 1 April 2010, by [section 645(1)][1591] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 89N(1)(c)(iii): replaced, on 1 April 2010, by [section 645(1)][1591] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 89N(1)(c)(v): substituted, on 1 April 2010, by [section 645(2)][1591] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 89N(1)(c)(v): replaced, on 1 April 2010, by [section 645(2)][1591] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 89N(1)(c)(vi): amended, on 3 April 2006, by [section 235(1)(a)][1592] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
@@ -13213,7 +13213,7 @@ Disputes procedures
     
     Section 89N(1)(c)(vii): repealed, on 29 August 2011 (applying for a dispute or challenge, in relation to which there has been no election into the small claims jurisdiction of a Taxation Review Authority before 29 August 2011), by [section 173(1)][1593] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 89N(5): substituted, on 3 April 2006, by [section 235(2)][1592] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 89N(5): replaced, on 3 April 2006, by [section 235(2)][1592] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 89O Test cases
     
@@ -13249,7 +13249,7 @@ Disputes procedures
     
     Section 89O: inserted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of the Tax Administration Act 1994 on or after 1 April 2005), by [section 103(1)][1590] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 89O(5): substituted, on 3 April 2006, by [section 236][1594] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 89O(5): replaced, on 3 April 2006, by [section 236][1594] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 89P Challenge notice for taxpayer-initiated disputes
     
@@ -13354,7 +13354,7 @@ Determinations
     
     Section 90(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 90(1)(c): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 449 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 90(1)(c): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 449 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 90(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -13362,7 +13362,7 @@ Determinations
     
     Section 90(1)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 90(1)(d): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 449 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 90(1)(d): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 449 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 90(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -13390,7 +13390,7 @@ Determinations
     
     Section 90(5): repealed, on 1 October 1996, by [section 12][1601] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 90(6): substituted, on 21 December 2004, by [section 104(1)][1602] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 90(6): replaced, on 21 December 2004, by [section 104(1)][1602] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 90(6B): inserted, on 21 December 2004, by [section 104(1)][1602] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
@@ -13402,9 +13402,9 @@ Determinations
     
     Section 90(8): amended, on 21 December 2004, by [section 104(3)][1602] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 90(9): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 205(1)][1604] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90(9): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 205(1)][1604] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 90(10): added, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 205(1)][1604] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90(10): inserted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 205(1)][1604] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 90AA Application of determinations made under section 90
     
@@ -13532,7 +13532,7 @@ Determinations
     
     Section 90AC(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 90AC(6): substituted, on 21 December 2004, by [section 105][1617] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 90AC(6): replaced, on 21 December 2004, by [section 105][1617] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 90AD Notification of determinations and notices
     
@@ -13560,15 +13560,15 @@ Determinations
     
     Section 90AD(2): amended, on 21 December 2004, by [section 106(3)][1618] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 90AD(3): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 206(1)][1620] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90AD(3): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 206(1)][1620] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 90AD(4): added, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 206(1)][1620] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90AD(4): inserted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 206(1)][1620] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 90AE Four-year period in which determination not required to be applied
     
 *   A person who enters into a financial arrangement before the date of notification or publication of a determination, or notice, that is authorised by [section 90AC(6)][326] is not required to apply the determination to the financial arrangement, or treat the notice as affecting the financial arrangement, until the date that is 4 years after that date of notification or publication.
     
-    Section 90AE: substituted, on 21 December 2004, by [section 107][1621] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 90AE: replaced, on 21 December 2004, by [section 107][1621] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 90AF Imputation arrangement to obtain tax advantage
     
@@ -13652,7 +13652,7 @@ Determinations
     
     Section 90A: inserted, on 12 December 1995 (applying with respect to the tax on income derived in the 1996--97 income year and subsequent years), by section 2(1) of the Tax Administration Amendment Act (No 2) 1995 (1995 No 72).
     
-    Section 90A(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 75(1)][1626] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 90A(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 75(1)][1626] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 90A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -13662,7 +13662,7 @@ Determinations
     
     Section 90A(5): repealed (with effect on 1 October 1996), on 23 September 1997, by [section 73(1)][1627] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 90A(6): substituted, on 21 December 2004, by [section 108(1)][1628] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 90A(6): replaced, on 21 December 2004, by [section 108(1)][1628] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 90A(6B): inserted, on 21 December 2004, by [section 108(1)][1628] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
@@ -13678,9 +13678,9 @@ Determinations
     
     Section 90A(8)(2)(b): amended, on 21 December 2004, by [section 108(2)(a)][1628] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 90A(9): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 207(1)][1630] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90A(9): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 207(1)][1630] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 90A(10): added, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 207(1)][1630] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 90A(10): inserted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 207(1)][1630] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 91 Determinations in relation to petroleum mining operations
     
@@ -13754,7 +13754,7 @@ Determinations
     
     Section 91(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91(1)(b)(ii): substituted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA  2][791] of the Income Tax Act 2004 (2004 No 35).
+    Section 91(1)(b)(ii): replaced, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA  2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91(1)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -14016,13 +14016,13 @@ Determinations
     
     Section 91AAF(1B): inserted (with effect on 1 April 2005), on 6 October 2009 (applying for 2005--06 and later income years), by [section 646(1)][1652] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAF(4)(b): substituted (with effect on 3 April 2006), on 6 October 2009 (applying for 2005--06 and later income years), by [section 646(2)][1652] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAF(4)(b): replaced (with effect on 3 April 2006), on 6 October 2009 (applying for 2005--06 and later income years), by [section 646(2)][1652] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAF(5): added, on 3 April 2006 (applying for income years corresponding to 2005--06 and subsequent tax years), by [section 238(3)][1653] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 91AAF(5): inserted, on 3 April 2006 (applying for income years corresponding to 2005--06 and subsequent tax years), by [section 238(3)][1653] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 91AAF(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 91AAF(6): added (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 646(3)][1652] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAF(6): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 646(3)][1652] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 91AAG Determination on special rates and provisional rates
     
@@ -14072,7 +14072,7 @@ Determinations
     
     Section 91AAG: inserted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91AAG(1)(b): substituted (with effect on 1 April 2005), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(1)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAG(1)(b): replaced (with effect on 1 April 2005), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(1)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 91AAG(2): amended, on 1 October 2005 (applying for 2005--06 and subsequent income years), by [section 138(1)][1656] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
@@ -14080,7 +14080,7 @@ Determinations
     
     Section 91AAG(2)(b): repealed, on 1 October 2005 (applying for 2005--06 and subsequent income years), by [section 138(1)][1656] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 91AAG(3): substituted, on 3 April 2006 (applying for income years corresponding to 2005--06 and subsequent tax years), by [section 239(1)][1657] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 91AAG(3): replaced, on 3 April 2006 (applying for income years corresponding to 2005--06 and subsequent tax years), by [section 239(1)][1657] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 91AAG(3): amended (with effect on 1 October 2005), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(2)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
@@ -14092,13 +14092,13 @@ Determinations
     
     Section 91AAG(3)(cb): inserted (with effect on 1 April 2005), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(3)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAG(4)(a): substituted (with effect on 3 April 2006), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(4)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAG(4)(a): replaced (with effect on 3 April 2006), on 6 October 2009 (applying for 2005--06 and later income years), by [section 647(4)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 91AAG(4)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 91AAG(5B): inserted, on 1 October 2005 (applying for 2005--06 and subsequent income years), by [section 138(3)][1656] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 91AAG(7): added (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 647(5)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAG(7): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 647(5)][1655] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 91AAH Commissioner may decline to issue special rate or provisional rate
     
@@ -14142,11 +14142,11 @@ Determinations
     
     Section 91AAH: inserted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91AAH(2)(a): substituted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 145(1)][1658] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91AAH(2)(a): replaced (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 145(1)][1658] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91AAH(3)(a): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 648(1)][1659] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAH(3)(a): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 648(1)][1659] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAH(3)(ab): substituted (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 145(2)][1658] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91AAH(3)(ab): replaced (with effect on 1 April 2008), on 7 September 2010 (applying for 2008--09 and later income years), by [section 145(2)][1658] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 91AAI Effect on special rate of change in circumstances
     
@@ -14394,21 +14394,21 @@ Determinations
     
     Section 91AAO(1): amended (with effect on 1 April 2008), on 6 October 2009, by [section 651(1)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAO(2): substituted (with effect on 1 April 2007), on 19 December 2007, by [section 228(1)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 91AAO(2): replaced (with effect on 1 April 2007), on 19 December 2007, by [section 228(1)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 91AAO(2)(b)(i): substituted (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 651(2)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAO(2)(b)(i): replaced (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 651(2)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 91AAO(2)(b)(i): amended (with effect on 30 June 2009), on 7 September 2010, by [section 149(1)][1673] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91AAO(3): substituted (with effect on 1 April 2007), on 19 December 2007, by [section 228(1)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 91AAO(3): replaced (with effect on 1 April 2007), on 19 December 2007, by [section 228(1)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 91AAO(3B): inserted (with effect on 1 April 2007), on 19 December 2007, by [section 228(1)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 91AAO(3C): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 651(4)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAO(3C): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 651(4)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAO(3D): substituted, on 1 April 2010 (applying for 2010--11 and later income years), by [section 651(4)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 91AAO(3D): replaced, on 1 April 2010 (applying for 2010--11 and later income years), by [section 651(4)][1671] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 91AAO(5): substituted (with effect on 1 April 2007), on 19 December 2007, by [section 228(3)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 91AAO(5): replaced (with effect on 1 April 2007), on 19 December 2007, by [section 228(3)][1672] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 91AAO(5)(a): amended, on 7 September 2010, by [section 149(2)(a)][1673] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -14701,11 +14701,11 @@ Binding rulings
     
     Section 91C(1)(e)(i): amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 76(1)][1698] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91C(1)(e)(ia): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 76(2)][1698] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91C(1)(e)(ia): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 76(2)][1698] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91C(1)(e)(v): amended, on 23 September 1997, by [section 74(1)][1699] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 91C(1)(e)(vi): added, on 23 September 1997, by [section 74(2)][1699] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 91C(1)(e)(vi): inserted, on 23 September 1997, by [section 74(2)][1699] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 91C(1)(eb): inserted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -14727,7 +14727,7 @@ Binding rulings
     
     Section 91C(1A): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 76(3)][1698] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91C(4): added, on 19 December 2007 (applying for 2008--09 income year and later income years), by [section 230(3)][1701] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 91C(4): inserted, on 19 December 2007 (applying for 2008--09 income year and later income years), by [section 230(3)][1701] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 #### Public rulings
     
@@ -14769,9 +14769,9 @@ Binding rulings
     
     Section 91DA: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91DA(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 77(1)][1702] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91DA(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 77(1)][1702] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91DA(1)(e): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 82(1)][1703] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DA(1)(e): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 82(1)][1703] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DA(1)(e)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -14779,7 +14779,7 @@ Binding rulings
     
     Section 91DA(2): amended, on 7 September 2010, by [section 152][1704] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91DA(4): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 77(2)][1702] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91DA(4): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 77(2)][1702] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91DB Effect of a public ruling
     
@@ -14823,17 +14823,17 @@ Binding rulings
     
     (2) Subsection (1) does not apply to a taxpayer who has issued the Commissioner with a notice of proposed adjustment to change the effect of a ruling previously applied by the taxpayer.
     
-    Section 91DC: substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 79(1)][1706] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91DC: replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 79(1)][1706] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91DC(1)(b): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DC(1)(b): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 91DC(1)(c): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DC(1)(c): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DC(1)(c)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91DC(1)(c)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91DC(1)(d): added, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DC(1)(d): inserted, on 17 October 2002 (applying on and after 17 October 2002), by [section 83(1)][1707] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DC(1)(d)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -14897,19 +14897,19 @@ Binding rulings
     
     Section 91DE: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91DE(2): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 81(1)][1708] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91DE(2): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 81(1)][1708] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91DE(2): amended, on 7 September 2010, by [section 153][1709] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91DE(3): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 81(2)][1708] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91DE(3): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 81(2)][1708] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91DE(4): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 84(1)][1710] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DE(4): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 84(1)][1710] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DE(4A): inserted, on 17 October 2002 (applying on and after 17 October 2002), by [section 84(1)][1710] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DE(4A)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91DE(5)(c): substituted, on 17 October 2002 (applying on and after 17 October 2002), by [section 84(2)][1710] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 91DE(5)(c): replaced, on 17 October 2002 (applying on and after 17 October 2002), by [section 84(2)][1710] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 91DE(5)(c)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -14973,7 +14973,7 @@ Binding rulings
     
     Section 91E: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91E(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(1)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(1)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91E(3)(b): amended, on 7 September 2010, by [section 154(1)][1715] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -14981,41 +14981,41 @@ Binding rulings
     
     Section 91E(3)(b): amended (with effect on 1 October 1996), on 23 September 1997, by [section 75(1)][1716] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 91E(3)(c): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(2)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(3)(c): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(2)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91E(3B): inserted, on 2 November 2012, by [section 195][1717] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
     Section 91E(4)(a): amended, on 7 September 2010, by [section 154(2)][1715] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91E(4)(b): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(3)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(4)(b): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(3)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91E(4)(d)(i): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(4)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(4)(d)(i): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(4)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91E(4)(d)(ii): substituted, on 23 September 1997, by [section 75(3)][1716] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 91E(4)(d)(ii): replaced, on 23 September 1997, by [section 75(3)][1716] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 91E(4)(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91E(4)(e): amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(5)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91E(4)(f): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(6)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(4)(f): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(6)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91E(4)(f): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91E(4)(g): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(7)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(4)(g): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(7)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91E(4)(g): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 91E(4)(ga): substituted, on 7 September 2010, by [section 154(3)][1715] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91E(4)(ga): replaced, on 7 September 2010, by [section 154(3)][1715] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
     Section 91E(4)(i): amended, on 26 November 1998, by [section 29][1718] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
-    Section 91E(4)(j): added, on 26 November 1998, by [section 29][1718] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
+    Section 91E(4)(j): inserted, on 26 November 1998, by [section 29][1718] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
     Section 91E(4)(j): amended, on 7 September 2010, by [section 154(4)][1715] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
     Section 91E(4)(j): amended (with effect on 17 October 2002), on 25 November 2003, by [section 121][1719] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 91E(4A): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(8)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91E(4A): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 82(8)][1714] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91E(4A): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -15069,15 +15069,15 @@ Binding rulings
     
     Section 91EB(1): amended, on 7 September 2010, by [section 156(1)][1723] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91EB(1)(b): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(1)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EB(1)(b): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(1)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91EB(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91EB(2): amended, on 7 September 2010, by [section 156(2)][1723] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91EB(2)(c): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(2)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EB(2)(c): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(2)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91EB(2)(d): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(2)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EB(2)(d): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 84(2)][1724] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91EC Applying for a private ruling
     
@@ -15105,9 +15105,9 @@ Binding rulings
     
     Section 91EC: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91EC(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 85(1)][1725] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EC(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 85(1)][1725] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91EC(2): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 85(2)][1725] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EC(2): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 85(2)][1725] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91ED Disclosure requirements
     
@@ -15157,7 +15157,7 @@ Binding rulings
     
     Section 91EF: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91EF(3): added, on 7 September 2010, by [section 157][1727] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91EF(3): inserted, on 7 September 2010, by [section 157][1727] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 91EG Right to consultation
     
@@ -15189,7 +15189,7 @@ Binding rulings
     
     Section 91EH: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91EH(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 86(1)][1728] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EH(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 86(1)][1728] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91EH(1)(d): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -15221,7 +15221,7 @@ Binding rulings
     
     Section 91EI(3)(b): amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 87(3)][1730] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91EI(3)(c): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 87(3)][1730] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91EI(3)(c): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 87(3)][1730] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91EI(3)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -15235,7 +15235,7 @@ Binding rulings
     
     *   (b) is not stopped by the process of making the private ruling or by the use of the information as the basis of the private ruling from denying, outside the process of making the ruling or subsequent to making the ruling, the correctness or existence of the facts contained in the information supplied.
     
-    Section 91EJ: substituted, on 7 September 2010, by [section 159][1731] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91EJ: replaced, on 7 September 2010, by [section 159][1731] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 #### Product rulings
     
@@ -15283,25 +15283,25 @@ Binding rulings
     
     Section 91F: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91F(3)(b): substituted, on 7 September 2010, by [section 160(1)][1732] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91F(3)(b): replaced, on 7 September 2010, by [section 160(1)][1732] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
     Section 91F(3)(bb): inserted, on 7 September 2010, by [section 160(1)][1732] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91F(3)(c): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(1)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91F(3)(c): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(1)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91F(4)(a): amended, on 7 September 2010, by [section 160(2)][1732] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91F(4)(b): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(2)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91F(4)(b): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(2)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91F(4)(d): substituted, on 23 September 1997, by [section 76(3)][1734] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 91F(4)(d): replaced, on 23 September 1997, by [section 76(3)][1734] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 91F(4)(e): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(3)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91F(4)(e): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 89(3)][1733] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91F(4)(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91F(4)(g): amended, on 26 November 1998, by [section 30][1735] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
-    Section 91F(4)(h): added, on 26 November 1998, by [section 30][1735] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
+    Section 91F(4)(h): inserted, on 26 November 1998, by [section 30][1735] of the Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107).
     
     Section 91F(4)(h): amended, on 7 September 2010, by [section 160(3)][1732] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -15355,15 +15355,15 @@ Binding rulings
     
     Section 91FB(1): amended, on 7 September 2010, by [section 162(1)][1739] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91FB(1)(b): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(1)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FB(1)(b): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(1)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FB(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 91FB(2): amended, on 7 September 2010, by [section 162(2)][1739] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91FB(2)(c): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(2)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FB(2)(c): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(2)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91FB(2)(d): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(2)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FB(2)(d): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 91(2)][1740] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91FC Applying for a product ruling
     
@@ -15387,7 +15387,7 @@ Binding rulings
     
     Section 91FC: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91FC(1): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 92(1)][1741] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FC(1): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 92(1)][1741] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FC(1A): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 92(1)][1741] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
@@ -15449,7 +15449,7 @@ Binding rulings
     
     Section 91FF: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91FF(3): added, on 7 September 2010, by [section 165][1744] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 91FF(3): inserted, on 7 September 2010, by [section 165][1744] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 91FG Right to consultation
     
@@ -15497,7 +15497,7 @@ Binding rulings
     
     (6) A taxpayer, other than the applicant, cannot obtain a copy of a product ruling before it is published by the Commissioner.
     
-    Section 91FH: substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 93(1)][1745] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FH: replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 93(1)][1745] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FH(1)(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -15551,11 +15551,11 @@ Binding rulings
     
     Section 91FJ: inserted (with effect on 1 April 1995), on 10 April 1995, by section 10 of the Tax Administration Amendment Act 1995 (1995 No 24).
     
-    Section 91FJ(2): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(1)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FJ(2): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(1)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FJ(2): amended, on 7 September 2010, by [section 167][1749] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 91FJ(3): substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(2)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FJ(3): replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(2)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FJ(3A): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(2)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
@@ -15565,7 +15565,7 @@ Binding rulings
     
     Section 91FJ(4)(b): amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(4)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91FJ(4)(c): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(4)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91FJ(4)(c): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 95(4)][1748] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 91FJ(4)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -15599,7 +15599,7 @@ Binding rulings
     
 *   A binding ruling does not apply from the date a taxation law is repealed or amended to the extent that the repeal or amendment changes the way the taxation law applies in the ruling.
     
-    Section 91G: substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 96(1)][1751] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91G: replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 96(1)][1751] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91GA Applying for ruling on effect of change in legislation
     
@@ -15725,7 +15725,7 @@ Binding rulings
     
     Section 91I(2)(c): amended, on 20 May 1999 (applying on and after 1 April 1995), by [section 98(2)][1753] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 91I(2)(d): added, on 20 May 1999 (applying on and after 1 April 1995), by [section 98(2)][1753] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 91I(2)(d): inserted, on 20 May 1999 (applying on and after 1 April 1995), by [section 98(2)][1753] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 91J Commissioner may not issue ruling to applicant with outstanding debts
     
@@ -15764,13 +15764,13 @@ Assessments
     
     (7) The nominated company for a consolidated group is treated as a taxpayer for the purposes of this section. A company that is part of a consolidated group in a tax year must not make a separate assessment for a tax year, but this restriction applies only to a tax year, or part of a tax year, in which the company is part of the group.
     
-    Section 92: substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 208(1)][1755] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 92: replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 208(1)][1755] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 92 heading: substituted, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 112(1)][1756] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 92 heading: replaced, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 112(1)][1756] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 92(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 92(2): substituted, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 112(2)][1756] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 92(2): replaced, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 112(2)][1756] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 92(3): repealed, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 112(3)][1756] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
@@ -15784,7 +15784,7 @@ Assessments
     
     Section 92(6)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 92(7): added, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 92(7): inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 92AAA Determination on cost of timber
     
@@ -15804,7 +15804,7 @@ Assessments
     
 *   The Commissioner must make an income tax assessment for a tax year for a taxpayer who has a tax credit identified in [Part M][1758] of the Income Tax Act 2007 for the year.
     
-    Section 92AA: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 92AA: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 92AB Assessments of liabilities of shareholders of qualifying companies
     
@@ -15938,7 +15938,7 @@ Assessments
     
     Compare: 1976 No 65 s 393L(3), (4), (5)
     
-    Section 94(1): substituted, on 1 October 1996, by [section 16(1)][1770] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 94(1): replaced, on 1 October 1996, by [section 16(1)][1770] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 94(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -15948,13 +15948,13 @@ Assessments
     
     Section 94(2)(b): amended (with effect on 1 October 1996), on 30 June 2014, by [section 160(1)][1772] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 94(2)(c): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 453 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 94(2)(c): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 453 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 94(2)(c): amended (with effect on 1 October 1996), on 30 June 2014, by [section 160(2)][1772] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
     Section 94(2)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 94(3): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 94(3): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 94A Assessment of shortfall penalties
     
@@ -16140,13 +16140,13 @@ Assessments
     
     Section 98B: inserted (with effect on 1 April 2007), on 19 December 2007, by [section 231(1)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 98B(1): substituted, on 1 April 2008, by [section 231(2)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 98B(1): replaced, on 1 April 2008, by [section 231(2)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 98B(3)(a): substituted, on 1 April 2008, by [section 231(3)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 98B(3)(a): replaced, on 1 April 2008, by [section 231(3)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 98B(3)(a): amended (with effect on 1 April 2007), on 30 June 2014, by [section 165][1789] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 98B(3)(b): substituted, on 1 April 2008, by [section 231(3)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 98B(3)(b): replaced, on 1 April 2008, by [section 231(3)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 98B(4): amended, on 1 April 2008, by [section 231(4)][1788] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
@@ -16170,7 +16170,7 @@ Assessments
     
     Section 99(1): amended, on 1 October 1996, by [section 22(1)][1790] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 99(2)(a): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 456 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 99(2)(a): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 456 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 99(2)(a): amended (with effect on 1 October 1996), on 30 June 2014, by [section 166(1)][1791] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -16252,7 +16252,7 @@ Assessments
     
     Section 101(2)(a): amended (with effect on 1 October 1996), on 30 June 2014, by [section 168][1798] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 101(3): substituted, on 23 September 1997, by [section 77][1799] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 101(3): replaced, on 23 September 1997, by [section 77][1799] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 101(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -16370,7 +16370,7 @@ Assessments
     
     Section 106(1A): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 27(1)][1816] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 106(1B): substituted, on 25 November 2003 (applying for 2002--03 and subsequent income years), by [section 125(2)][1817] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 106(1B): replaced, on 25 November 2003 (applying for 2002--03 and subsequent income years), by [section 125(2)][1817] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 106(1C): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 27(1)][1816] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
@@ -16388,7 +16388,7 @@ Assessments
     
     the validity of the amended assessment in respect of the income derived during any such accounting period shall not be deemed to be affected or to have at any time been affected by reason of its having been made for the same tax year as the assessment in respect of the income derived by the taxpayer during the preceding accounting period.
     
-    Section 107: substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 457 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 107: replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 457 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 107 heading: amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 212(3)][1819] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -16464,15 +16464,15 @@ Assessments
     
     (4) Subsection (1) applies to all returns filed on or after 1 April 1997\.
     
-    Section 108: substituted, on 1 October 1996, by [section 29][1823] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 108: replaced, on 1 October 1996, by [section 29][1823] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 108 heading: substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 213(3)][1824] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 108 heading: replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 213(3)][1824] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 108(1): amended (with effect on 24 October 2001 and applying for the 2002--03 and later income years), on 27 February 2014, by [section 139(1)][1825] of the Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 (2014 No 4).
     
     Section 108(1): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 236(1)][1820] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 108(1)(a): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 213(1)][1824] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 108(1)(a): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 213(1)][1824] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 108(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -16480,11 +16480,11 @@ Assessments
     
     Section 108(1A): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 108(1B): substituted, on 19 December 2007 (applying for 2008--09 and 2009--10 income years), by [section 232(1)][1827] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 108(1B): replaced, on 19 December 2007 (applying for 2008--09 and 2009--10 income years), by [section 232(1)][1827] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 108(1B)(b): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 659(1)][1828] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 108(1B)(b): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 659(1)][1828] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 108(1B)(c): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 659(2)][1828] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 108(1B)(c): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 659(2)][1828] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 108(2): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 236(1)][1820] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -16494,7 +16494,7 @@ Assessments
     
     Section 108(2B): inserted, on 29 August 2011, by [section 175][1829] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 108(3B): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 108(3B): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 108A Time bar for amending GST assessment
     
@@ -16514,13 +16514,13 @@ Assessments
     
     Section 108A: inserted, on 1 October 1996, by [section 29][1823] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 108A heading: substituted, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(1)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 108A heading: replaced, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(1)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 108A(1): substituted, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(2)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 108A(1): replaced, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(2)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 108A(2): repealed, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(3)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 108A(3): substituted, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(4)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 108A(3): replaced, on 1 April 2005 (applying for GST return periods beginning on or after 1 April 2005), by [section 115(4)][1830] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 108A(3B): inserted, on 29 August 2011, by [section 176][1831] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
@@ -16554,9 +16554,9 @@ Assessments
     
     *   (g) \[Repealed\]
     
-    Section 108B: substituted, on 20 May 1999 (applying on and after 1 October 1996, but does not apply to a waiver made under this section if the waiver was signed and delivered to the Commissioner before 17 November 1998), by [section 101(1)][1833] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 108B: replaced, on 20 May 1999 (applying on and after 1 October 1996, but does not apply to a waiver made under this section if the waiver was signed and delivered to the Commissioner before 17 November 1998), by [section 101(1)][1833] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 108B(1): substituted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of this Act on or after 1 April 2005), by [section 116(1)][1834] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 108B(1): replaced, on 21 December 2004 (applying to disputes that are commenced under Part 4A of this Act on or after 1 April 2005), by [section 116(1)][1834] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 108B(1B): inserted, on 21 December 2004 (applying to disputes that are commenced under Part 4A of this Act on or after 1 April 2005), by [section 116(1)][1834] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
@@ -16580,7 +16580,7 @@ Assessments
     
     *   (b) every disputable decision and, where relevant, all of its particulars are deemed to be, and are to be taken as being, correct in all respects.
     
-    Section 109: substituted, on 1 October 1996, by [section 30][1837] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 109: replaced, on 1 October 1996, by [section 30][1837] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 109A Transitional provision affecting assessments
     
@@ -16656,13 +16656,13 @@ Assessments
     
     Section 111(5): repealed, on 24 October 2001 (applying on first day of 2002--03 income year), by [section 214(2)][1843] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 111(6): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 214(3)][1843] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 111(6): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 214(3)][1843] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 111(7): added, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 30(2)][1844] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 111(7): inserted, on 7 October 1998 (applying to 1999--2000 and subsequent income years), by [section 30(2)][1844] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 111(7): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 214(4)][1843] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 111(8): added, on 21 December 2004 (applying to notices that are issued on or after 1 April 2005), by [section 117(1)][1845] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 111(8): inserted, on 21 December 2004 (applying to notices that are issued on or after 1 April 2005), by [section 117(1)][1845] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 112 Commissioner to make determination of life insurer's policyholder net loss
     
@@ -16764,7 +16764,7 @@ Assessments
     
     Section 113D: inserted, on 19 December 2007 (applying for 2008--09 and later income years), by [section 235(1)][1855] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 113D(2): added (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 661(1)][1856] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 113D(2): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 661(1)][1856] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 114 Validity of assessments
     
@@ -16780,7 +16780,7 @@ Assessments
         
         
     
-    Section 114: substituted, on 21 December 2004, by [section 119][1857] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 114: replaced, on 21 December 2004, by [section 119][1857] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 115 Determination of claims for foreign tax credits
     
@@ -16850,13 +16850,13 @@ Assessments
     
     Section 119(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 119(1)(d): substituted, on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 80(1)][1867] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 119(1)(d): replaced, on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 80(1)][1867] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 119(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 119(1)(d)(ii): amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 241(1)(b)][1868] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 119(1)(e): added, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 241(1)(b)][1868] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 119(1)(e): inserted, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 241(1)(b)][1868] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 119(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -16864,11 +16864,11 @@ Assessments
     
     Section 119(2)(a): repealed, on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 80(2)][1867] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 119(2)(b): substituted, on 23 September 1997, by [section 81][1869] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 119(2)(b): replaced, on 23 September 1997, by [section 81][1869] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 119(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 119(3): substituted, on 23 September 1997 (applying to 1999--98 and subsequent income years), by [section 80(3)][1867] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 119(3): replaced, on 23 September 1997 (applying to 1999--98 and subsequent income years), by [section 80(3)][1867] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 119(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -16883,7 +16883,7 @@ Assessments
 ## Part 7  
 Interest
     
-*   Part 7: substituted, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Part 7: replaced, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 120 Commissioner to pay interest on certain excess tax
     
@@ -17077,7 +17077,7 @@ Interest
     
     Section 120C: inserted, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 120C(1) **date interest starts** paragraph (a)(iii): added, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(a)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 120C(1) **date interest starts** paragraph (a)(iii): inserted, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(a)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 120C(1) **date interest starts** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17087,11 +17087,11 @@ Interest
     
     Section 120C(1) **date interest starts** paragraph (b)(i): amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(b)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 120C(1) **date interest starts** paragraph (b)(iii): added, on 7 October 1998, by [section 31(a)][1884] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 120C(1) **date interest starts** paragraph (b)(iii): inserted, on 7 October 1998, by [section 31(a)][1884] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 120C(1) **date interest starts** paragraph (b)(iv): added, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(c)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 120C(1) **date interest starts** paragraph (b)(iv): inserted, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(c)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 120C(1) **date interest starts** paragraph (b)(v): added, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(c)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 120C(1) **date interest starts** paragraph (b)(v): inserted, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 242(1)(c)][1882] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 120C(1) **date interest starts** paragraph (b)(v)(A): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17099,7 +17099,7 @@ Interest
     
     Section 120C(1) **date interest starts** paragraph (c)(iii): amended, on 25 September 2000 (applying on and after 1 April 2000), by [section 37(2)][1883] of the Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34).
     
-    Section 120C(1) **date interest starts** paragraph (d): added, on 25 September 2000 (applying on and after 1 April 2000), by [section 37(2)][1883] of the Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34).
+    Section 120C(1) **date interest starts** paragraph (d): inserted, on 25 September 2000 (applying on and after 1 April 2000), by [section 37(2)][1883] of the Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34).
     
     Section 120C(1) **date interest starts** paragraph (d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17107,11 +17107,11 @@ Interest
     
     Section 120C(1) **date interest starts** paragraph (d): amended, on 1 April 2003, by [section 109(2)][1886] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 120C(1) **date interest starts** paragraph (e): added, on 1 April 2003, by [section 109(2)][1886] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 120C(1) **date interest starts** paragraph (e): inserted, on 1 April 2003, by [section 109(2)][1886] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 120C(1) **date interest starts** paragraph (e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120C(1) **date interest starts** paragraph (f): substituted (with effect on 21 June 2005), on 18 December 2006, by [section 195][1887] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 120C(1) **date interest starts** paragraph (f): replaced (with effect on 21 June 2005), on 18 December 2006, by [section 195][1887] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 120C(1) **date interest starts** paragraph (f)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17121,11 +17121,11 @@ Interest
     
     Section 120C(1) **interest period** paragraph (b)(iii): repealed, on 21 June 2005 (applying for 2004--05 and later tax years), by [section 145(2)][1888] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 120C(1) **tax paid**: substituted, on 6 October 2009, by [section 662][1889] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 120C(1) **tax paid**: replaced, on 6 October 2009, by [section 662][1889] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 120C(1) **tax payable**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120C(3): added, on 24 October 2001 (applying to income years from 1997--98 to 2001--02 (both income years inclusive)), by [section 220(1)][1890] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 120C(3): inserted, on 24 October 2001 (applying to income years from 1997--98 to 2001--02 (both income years inclusive)), by [section 220(1)][1890] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 120C(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -17143,7 +17143,7 @@ Interest
     
     Section 120D: inserted, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 120D(4): substituted, on 24 October 2001 (applying to the 2002--03 and subsequent income years), by [section 221(1)][1891] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 120D(4): replaced, on 24 October 2001 (applying to the 2002--03 and subsequent income years), by [section 221(1)][1891] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 120D(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17183,7 +17183,7 @@ Interest
     
     Section 120E: inserted, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 120E(4): added, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 461 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 120E(4): inserted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 461 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
 
 ##### 120EA Amount of interest payable to or by life insurers
     
@@ -17227,7 +17227,7 @@ Interest
     
     Section 120F: inserted, on 26 July 1996, by [section 36(1)][1872] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 120F(2): substituted, on 27 March 2001 (applying on and after 1 April 1998), by [section 48(1)][1893] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 120F(2): replaced, on 27 March 2001 (applying on and after 1 April 1998), by [section 48(1)][1893] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 120G Payment date
     
@@ -17365,15 +17365,15 @@ Interest
     
     Section 120KC(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120KC(1)(b): substituted (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 236(1)][1899] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 120KC(1)(b): replaced (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 236(1)][1899] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 120KC(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 120KC(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120KC example: substituted, on 1 October 2007 (applying for 2008--09 and later income years), by [section 196(1)][1900] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 120KC example: replaced, on 1 October 2007 (applying for 2008--09 and later income years), by [section 196(1)][1900] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 120KC example heading: substituted (with effect on 1 October 2007), on 19 December 2007, by [section 237][1901] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 120KC example heading: replaced (with effect on 1 October 2007), on 19 December 2007, by [section 237][1901] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 120KC example: amended (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 664(1)][1902] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
@@ -17436,9 +17436,9 @@ Interest
     
     Section 120KD(2): amended (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 238(2)][1903] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 120KD example: substituted, on 1 October 2007 (applying for 2008--09 and later income years), by [section 197(1)][1904] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 120KD example: replaced, on 1 October 2007 (applying for 2008--09 and later income years), by [section 197(1)][1904] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 120KD example heading: substituted (with effect on 1 October 2007), on 19 December 2007, by [section 239][1905] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 120KD example heading: replaced (with effect on 1 October 2007), on 19 December 2007, by [section 239][1905] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 120KE Provisional tax and rules on use of money interest
     
@@ -17508,7 +17508,7 @@ Interest
     
     Section 120KE(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120KE(6): substituted (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 240(1)][1908] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 120KE(6): replaced (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 240(1)][1908] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 120KE(8): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -17526,9 +17526,9 @@ Interest
     
     Section 120L(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 120L(2): added, on 20 May 1999 (applying to 1998--99 and subsequent income years), by [section 103(1)][1910] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 120L(2): inserted, on 20 May 1999 (applying to 1998--99 and subsequent income years), by [section 103(1)][1910] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 120L(3): added, on 20 May 1999 (applying to 1998--99 and subsequent income years), by [section 103(1)][1910] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 120L(3): inserted, on 20 May 1999 (applying to 1998--99 and subsequent income years), by [section 103(1)][1910] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 120M Where provisional tax paid by company does not count as overpaid tax
     
@@ -17570,7 +17570,7 @@ Interest
     
     *   (e) \[Repealed\]
     
-    Section 120O: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 84][1914] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 120O: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 84][1914] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 120O(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -17694,7 +17694,7 @@ Interest
     
     Section 120OE: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 120OE(1): substituted, on 6 October 2009, by [section 667][1924] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 120OE(1): replaced, on 6 October 2009, by [section 667][1924] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 120P Spreading tax liability or apportioning income back over earlier income years
     
@@ -17718,7 +17718,7 @@ Interest
     
     Section 120P(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 120P(2): added, on 23 September 1997 (deemed to apply to 1997--98 and subsequent income years), by [section 144(2)][1925] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 120P(2): inserted, on 23 September 1997 (deemed to apply to 1997--98 and subsequent income years), by [section 144(2)][1925] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 120P(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -17847,9 +17847,9 @@ Objections
     
     Section 124A: inserted, on 1 October 1996, by [section 37][1936] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 124A(1): substituted, on 20 May 1999 (applying on and after 1 October 1996), by [section 104(1)][1937] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 124A(1): replaced, on 20 May 1999 (applying on and after 1 October 1996), by [section 104(1)][1937] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 124A(3): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 104(2)][1937] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 124A(3): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 104(2)][1937] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 124A(3): amended, on 10 October 2000 (applying on and after 20 May 1999), by [section 71(1)][1938] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
 
@@ -17905,9 +17905,9 @@ Objections
     
     Section 125(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 125(d): substituted (with effect on 1 April 2008), on 6 October 2009, by [section 669][1951] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 125(d): replaced (with effect on 1 April 2008), on 6 October 2009, by [section 669][1951] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 125(e): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 469 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 125(e): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 469 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 125(e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -17927,7 +17927,7 @@ Objections
     
     Section 125(j)(i): amended, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 113(1)][1955] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 125(j)(iii): substituted (with effect on 1 April 1995), on 2 September 1996, by [section 42(b)][1956] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 125(j)(iii): replaced (with effect on 1 April 1995), on 2 September 1996, by [section 42(b)][1956] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
     
     Section 125(j)(iii): amended (with effect on 1 April 2013), on 17 July 2013, by [section 115][1957] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
@@ -17935,7 +17935,7 @@ Objections
     
     Section 125(j)(iii): amended, on 17 October 2002 (applying on and after 17 October 2002), by [section 86(1)(b)][1958] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 125(j)(iv): substituted, on 1 October 1996, by [section 38(a)][1959] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 125(j)(iv): replaced, on 1 October 1996, by [section 38(a)][1959] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 125(j)(iv): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -18003,25 +18003,25 @@ Objections
     
     (6) If the competent objection or challenge relates to the 1996--97 or an earlier tax year, interest must be calculated on deferrable tax on and after the date that the period of deferral starts.
     
-    Section 128: substituted, on 1 October 1996, by [section 39][1961] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 128: replaced, on 1 October 1996, by [section 39][1961] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 128 heading: substituted, on 1 April 2003, by [section 114(1)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 128 heading: replaced, on 1 April 2003, by [section 114(1)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 128(1): repealed, on 1 April 2003, by [section 114(2)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 128(2B): inserted, on 1 April 2003, by [section 114(3)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 128(3)(a): substituted, on 1 April 2003, by [section 114(4)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 128(3)(a): replaced, on 1 April 2003, by [section 114(4)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 128(3)(b): substituted, on 1 April 2003, by [section 114(4)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 128(3)(b): replaced, on 1 April 2003, by [section 114(4)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 128(5): added, on 8 September 1999 (applying on and after 1 April 1997), by [section 72(1)][1963] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 128(5): inserted, on 8 September 1999 (applying on and after 1 April 1997), by [section 72(1)][1963] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 128(5): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 128(5): amended, on 1 April 2003, by [section 114(5)][1962] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 128(6): added, on 8 September 1999 (applying on and after 1 April 1997), by [section 72(1)][1963] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 128(6): inserted, on 8 September 1999 (applying on and after 1 April 1997), by [section 72(1)][1963] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 128(6): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -18037,7 +18037,7 @@ Objections
     
 *   The determination of an objection under this Part shall relate solely to the matters which are the subject of the objection, and shall not affect the right of the Commissioner to amend the assessment objected to in any manner rendered necessary by any other matter.
     
-    Section 129: substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 470 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 129: replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 470 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
 
 ##### 130 Objections to allowance determinations
     
@@ -18089,7 +18089,7 @@ Objections
     
 *   A taxpayer may object to an assessment that is issued by the Commissioner in relation to an amount of tax withheld on the basis of a determination under [section RD 3(5)][1267] of the Income Tax Act 2007, on the ground that the determination is wrong, whether in fact or in law.
     
-    Section 133: substituted, on 1 October 1996, by [section 40][1967] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 133: replaced, on 1 October 1996, by [section 40][1967] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 133 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -18359,7 +18359,7 @@ Objections
     
     Section 138(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 138(2): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 472 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 138(2): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 472 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 138(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -18380,7 +18380,7 @@ Challenges
     
     Section 138A: inserted, on 1 October 1996, by [section 42][1973] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 138A(1): substituted, on 20 May 1999 (applying on and after 1 October 1996), by [section 108(1)][1974] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 138A(1): replaced, on 20 May 1999 (applying on and after 1 October 1996), by [section 108(1)][1974] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 138B When disputant entitled to challenge assessment
     
@@ -18432,9 +18432,9 @@ Challenges
     
     Section 138B: inserted, on 1 October 1996, by [section 42][1973] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 138B(3): substituted, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 177(1)][1976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 138B(3): replaced, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 177(1)][1976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 138B(4): added, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 177(1)][1976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 138B(4): inserted, on 29 August 2011 (applying for a dispute initiated by a taxpayer issuing a notice of proposed adjustment after 29 August 2011), by [section 177(1)][1976] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 138C When disputant entitled to challenge disputable decision other than assessment
     
@@ -18510,7 +18510,7 @@ Challenges
     
     Section 138E(1)(e)(i): amended, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 116(1)][1983] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 138E(1)(e)(iii): substituted, on 23 September 1997, by [section 87(1)][1984] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 138E(1)(e)(iii): replaced, on 23 September 1997, by [section 87(1)][1984] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 138E(1)(e)(iii): amended (with effect on 1 April 2013), on 17 July 2013, by [section 116][1985] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
@@ -18518,7 +18518,7 @@ Challenges
     
     Section 138E(1)(e)(iii): amended, on 17 October 2002 (applying on and after 17 October 2002), by [section 87(1)(b)][1986] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 138E(1)(e)(iv): substituted, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 225(1)][1987] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 138E(1)(e)(iv): replaced, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 225(1)][1987] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 138E(1)(e)(iv): amended, on 29 August 2011, by [section 178][1988] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -18538,7 +18538,7 @@ Challenges
     
     Section 138E(1)(e)(ivb): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 138E(1)(e)(v): added, on 21 December 2004, by [section 122][1991] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 138E(1)(e)(v): inserted, on 21 December 2004, by [section 122][1991] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 138E(1)(ea): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 110(2)][1992] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
@@ -18576,7 +18576,7 @@ Challenges
     
     Section 138G heading: amended, on 29 August 2011 (applying for a dispute or challenge, in relation to which a disclosure notice is issued on or after 29 August 2011), by [section 179(1)][1994] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 138G(1): substituted, on 29 August 2011 (applying for a dispute or challenge, in relation to which a disclosure notice is issued on or after 29 August 2011), by [section 179(2)][1994] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 138G(1): replaced, on 29 August 2011 (applying for a dispute or challenge, in relation to which a disclosure notice is issued on or after 29 August 2011), by [section 179(2)][1994] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
     Section 138G(2): amended, on 29 August 2011 (applying for a dispute or challenge, in relation to which a disclosure notice is issued on or after 29 August 2011), by [section 179(3)(a)][1994] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -18618,23 +18618,23 @@ Challenges
     
     Section 138I: inserted, on 1 October 1996, by [section 42][1973] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 138I heading: substituted, on 1 April 2003, by [section 117(1)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 138I heading: replaced, on 1 April 2003, by [section 117(1)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 138I(1): repealed, on 1 April 2003, by [section 117(2)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 138I(2B): inserted, on 1 April 2003, by [section 117(3)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 138I(3)(a): substituted, on 1 April 2003, by [section 117(4)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 138I(3)(a): replaced, on 1 April 2003, by [section 117(4)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 138I(3)(b): substituted, on 1 April 2003, by [section 117(4)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 138I(3)(b): replaced, on 1 April 2003, by [section 117(4)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 138I(4): added, on 8 September 1999 (applying on and after 1 April 1997), by [section 73][1996] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 138I(4): inserted, on 8 September 1999 (applying on and after 1 April 1997), by [section 73][1996] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 138I(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 138I(4): amended, on 1 April 2003, by [section 117(5)][1995] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 138I(5): added, on 8 September 1999 (applying on and after 1 April 1997), by [section 73][1996] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 138I(5): inserted, on 8 September 1999 (applying on and after 1 April 1997), by [section 73][1996] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
     Section 138I(5): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -18654,7 +18654,7 @@ Challenges
     
     *   (b) does not affect the right of the Commissioner to make a disputable decision relating to a different matter and to amend the disputable decision being challenged in any way rendered necessary by the later disputable decision.
     
-    Section 138K: substituted (with effect on 1 October 1996), on 23 September 1997, by [section 143(2)][1998] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 138K: replaced (with effect on 1 October 1996), on 23 September 1997, by [section 143(2)][1998] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
 
 ##### 138L Challenging civil penalties
     
@@ -18684,7 +18684,7 @@ Challenges
     
     Section 138L(2)(ab): amended, on 1 April 2009, by [section 20][1999] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 138L(2)(b): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 88][2000] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 138L(2)(b): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 88][2000] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
 
 ##### 138M Wrong PAYE withholding determination a ground for challenge
     
@@ -18716,7 +18716,7 @@ Challenges
     
     Section 138N: inserted, on 1 October 1996, by [section 42][1973] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 138N(2): substituted, on 29 August 2011 (applying for a dispute or challenge, in relation to which there has been no election into the small claims jurisdiction of a Taxation Review Authority before 29 August 2011), by [section 180(1)][2001] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 138N(2): replaced, on 29 August 2011 (applying for a dispute or challenge, in relation to which there has been no election into the small claims jurisdiction of a Taxation Review Authority before 29 August 2011), by [section 180(1)][2001] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 138O Transfer from small claims jurisdiction of Taxation Review Authority
     
@@ -18835,7 +18835,7 @@ Challenges
 ## Part 9  
 Penalties
     
-*   Part 9: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Part 9: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 139 Purposes of this Part
     
@@ -18847,7 +18847,7 @@ Penalties
     
     *   (c) to sanction non-compliance with tax obligations effectively and at a level that is proportionate to the seriousness of the breach.
     
-    Section 139: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 139: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Civil penalties
     
@@ -18907,7 +18907,7 @@ Penalties
     
     Section 139A heading: amended (with effect on 1 April 1999), on 19 December 2007 (applying for employer monthly schedules due on or after 1 April 1999), by [section 241(1)][2004] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 139A(1): substituted, on 7 October 1998 (applying to an employer monthly schedule and a reconciliation statement in relation to tax deductions from source deduction payments made on or after 1 April 1999 and annual tax returns for 1999--2000 and subsequent income years), by [section 32(1)][2005] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 139A(1): replaced, on 7 October 1998 (applying to an employer monthly schedule and a reconciliation statement in relation to tax deductions from source deduction payments made on or after 1 April 1999 and annual tax returns for 1999--2000 and subsequent income years), by [section 32(1)][2005] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 139A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -18917,25 +18917,25 @@ Penalties
     
     Section 139A(1): amended, on 1 April 2002, by [section 338][902] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 139A(2)(a): substituted (with effect on 1 April 2003), on 25 November 2003, by [section 128(2)][2006] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 139A(2)(a): replaced (with effect on 1 April 2003), on 25 November 2003, by [section 128(2)][2006] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 139A(2)(a)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 139A(2)(a)(iiib): inserted, on 1 October 2007, by [section 198][2007] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 139A(4): substituted, on 7 October 1998 (applying to an employer monthly schedule and a reconciliation statement in relation to tax deductions from source deduction payments made on or after 1 April 1999 and annual tax returns for 1999--2000 and subsequent income years), by [section 32(3)][2005] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 139A(4): replaced, on 7 October 1998 (applying to an employer monthly schedule and a reconciliation statement in relation to tax deductions from source deduction payments made on or after 1 April 1999 and annual tax returns for 1999--2000 and subsequent income years), by [section 32(3)][2005] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 139A(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 139A(4): amended (with effect on 1 April 2003), on 25 November 2003, by [section 128(3)][2006] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 139A(5): added, on 23 September 1997, by [section 89][2008] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 139A(5): inserted, on 23 September 1997, by [section 89][2008] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 139A(5): amended, on 1 April 2008 (applying for a tax return required to be furnished under sections 16--18 of the Goods and Services Tax Act 1985 and due on or after 1 April 2008), by [section 241(2)][2004] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 139A(5)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 139A(6): added (with effect on 1 April 1999), on 19 December 2007 (applying for employer monthly schedules due on or after 1 April 1999), by [section 241(3)][2004] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 139A(6): inserted (with effect on 1 April 1999), on 19 December 2007 (applying for employer monthly schedules due on or after 1 April 1999), by [section 241(3)][2004] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 139AAA Late filing penalty for GST returns
     
@@ -18993,7 +18993,7 @@ Penalties
     
     Section 139AA: inserted, on 7 October 1998 (applying to employer monthly schedules required to be furnished on and after 1 April 1999), by [section 33(1)][2010] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 139AA(1): substituted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 120(1)][2011] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 139AA(1): replaced, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 120(1)][2011] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 139AA(1)(a): amended, on 1 December 2010 (applying for 2008--09 and later income years), by [section 156(1)][2012] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -19001,7 +19001,7 @@ Penalties
     
     Section 139AA(1)(ab): inserted, on 1 October 2007, by [section 199(1)][2013] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Section 139AA(2): substituted, on 1 October 2007, by [section 199(2)][2013] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 139AA(2): replaced, on 1 October 2007, by [section 199(2)][2013] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 139B Late payment penalty
     
@@ -19089,7 +19089,7 @@ Penalties
     
     Section 139B: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 139B(1): substituted, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 139B(1): replaced, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 139B(1)(b): amended (with effect on 1 October 2010), on 21 December 2010, by [section 157(1)][2015] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -19099,17 +19099,17 @@ Penalties
     
     Section 139B(1)(c): amended, on 1 October 2010, by [section 55(2)][2016] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 139B(2): substituted, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 139B(2): replaced, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 139B(2A): repealed, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 139B(2B): repealed, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 139B(3): substituted, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 139B(3): replaced, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 139B(3A): repealed, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(1)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 139B(3B): substituted, on 17 October 2002 (applying on and after 1 December 2002), by [section 88(4)][2017] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 139B(3B): replaced, on 17 October 2002 (applying on and after 1 December 2002), by [section 88(4)][2017] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 139B(3B): amended, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 243(2)(a)][2014] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
@@ -19117,7 +19117,7 @@ Penalties
     
     Section 139B(3B): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 139B(5A): substituted, on 17 October 2002 (applying on and after 1 December 2002), by [section 88(6)][2017] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 139B(5A): replaced, on 17 October 2002 (applying on and after 1 December 2002), by [section 88(6)][2017] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 139B(5A): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -19127,7 +19127,7 @@ Penalties
     
     Section 139B(6): amended, on 17 October 2002 (applying on and after 1 December 2002), by [section 88(7)][2017] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 139B(6)(c): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for a tax position taken on or after 1 April 2008), by [section  672(2)][2018] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 139B(6)(c): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for a tax position taken on or after 1 April 2008), by [section  672(2)][2018] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 139BA Imposition of late payment penalties when financial relief sought
     
@@ -19153,7 +19153,7 @@ Penalties
     
     Section 139BA(1): amended, on 1 April 2008 (applying for unpaid tax that on or after 1 April 2008 becomes due for payment), by [section 244(1)(b)][2020] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 139BA(3)(b): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 673(1)][2021] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 139BA(3)(b): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 673(1)][2021] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 139C Late payment penalty and provisional tax
     
@@ -19223,7 +19223,7 @@ Penalties
     
     Section 139C(2) **provisional tax paid** paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 139C(2) **provisional tax payable** paragraph (a): substituted, on 10 October 2000 (applying to 1998--99 and subsequent income years), by [section 73(1)][2027] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 139C(2) **provisional tax payable** paragraph (a): replaced, on 10 October 2000 (applying to 1998--99 and subsequent income years), by [section 73(1)][2027] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
     Section 139C(2) **provisional tax payable** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -19271,7 +19271,7 @@ Penalties
         
         
     
-    Section 140: substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 140: replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 140A Underestimation penalty where income tax underestimated as at final instalment date
     
@@ -19299,11 +19299,11 @@ Penalties
     
     Section 140B(1): amended (with effect on 16 November 2004), on 21 June 2005, by [section 146(1)][2031] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 140B(2): substituted (with effect on 16 November 2004), on 21 June 2005, by [section 146(2)][2031] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 140B(2): replaced (with effect on 16 November 2004), on 21 June 2005, by [section 146(2)][2031] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
     Section 140B(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 140B(3): added (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 246(1)][2032] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 140B(3): inserted (with effect on 1 October 2007), on 19 December 2007 (applying for 2008--09 and later income years), by [section 246(1)][2032] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 140BB Transitional imputation penalty tax payable in some circumstances
     
@@ -19465,19 +19465,19 @@ Penalties
     
     *   (b) the amount of provisional tax payable on that instalment date as determined by the estimate applying as at that instalment date.
     
-    Section 141: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 141: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 141(2): amended, on 21 December 2004 (applying for withholding payments made on or after 1 April 2005), by [section 125(1)][2040] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 141(3): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 92(1)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141(3): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 92(1)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 141(5): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 92(2)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141(5): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 92(2)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 141(7): amended, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 250(2)][2042] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 141(7)(b): amended, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 250(1)][2042] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 141(7)(c): substituted, on 1 April 2010, by [section 679(1)][2043] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 141(7)(c): replaced, on 1 April 2010, by [section 679(1)][2043] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 141(7B): inserted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 250(3)][2042] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
@@ -19499,7 +19499,7 @@ Penalties
     
     Section 141(12A): amended, on 26 March 2003 (applying to an arrangement that a taxpayer enters into on or after 26 March 2003), by [section 123(1)][2045] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141(14): added (with effect on 1 April 1997), on 23 September 1997, by [section 92(4)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141(14): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 92(4)][2041] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 141(14)(a)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -19553,13 +19553,13 @@ Penalties
     
     Section 141A(2B): inserted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 251(1)][2048] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 141A(3): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 93(2)][2047] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141A(3): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 93(2)][2047] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 141A(3): amended, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 124(1)][2049] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141A(4): added, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 124(2)][2049] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 141A(4): inserted, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 124(2)][2049] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141A(5): added, on 1 October 2007 (applying for a tax position taken by a taxpayer after 1 April 2003), by [section 250(1)][2050] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 141A(5): inserted, on 1 October 2007 (applying for a tax position taken by a taxpayer after 1 April 2003), by [section 250(1)][2050] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 141B Unacceptable tax position
     
@@ -19641,9 +19641,9 @@ Penalties
     
     Section 141B: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 141B heading: substituted, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(1)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 141B heading: replaced, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(1)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141B(1): substituted, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(2)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 141B(1): replaced, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(2)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 141B(1B): inserted, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(3)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -19653,7 +19653,7 @@ Penalties
     
     Section 141B(1D): inserted, on 7 September 2010 (applying if the relevant Commissioner's official opinion was given by the Commissioner on or after 7 September 2010), by [section 171(1)][2054] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Section 141B(2): substituted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 252(3)][2053] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141B(2): replaced, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 252(3)][2053] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 141B(2): amended (with effect on 1 April 2008 and applying for tax positions taken on or after 1 April 2008), on 30 June 2014, by [section 170(1)][2055] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -19663,11 +19663,11 @@ Penalties
     
     Section 141B(3)(a): amended, on 23 September 1997, by [section 94(3)][2056] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 141B(3)(b): substituted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 252(4)][2053] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141B(3)(b): replaced, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 252(4)][2053] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 141B(5): amended, on 21 June 2005, by [section 147(1)][2057] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
-    Section 141B(6): substituted, on 21 June 2005, by [section 147(2)][2057] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 141B(6): replaced, on 21 June 2005, by [section 147(2)][2057] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
     
     Section 141B(7): amended, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 125(5)][2052] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
@@ -19677,11 +19677,11 @@ Penalties
     
     Section 141B(8)(a) proviso: amended, on 1 April 2011, by [section 158(2)][2059] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 141B(8)(a)(ii): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 475(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 141B(8)(a)(ii): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 475(3) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 141B(8)(b): amended, on 1 April 2011, by [section 158(3)][2059] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 141B(8)(b): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 475(4) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 141B(8)(b): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 475(4) of the Taxation (Core Provisions) Act 1996 (1996 No 67).
 
 ##### 141C Gross carelessness
     
@@ -19697,7 +19697,7 @@ Penalties
     
     Section 141C(1): amended (with effect on 1 April 1997), on 23 September 1997, by [section 95(1)][2060] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 141C(4): added (with effect on 1 April 1997), on 23 September 1997, by [section 95(2)][2060] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141C(4): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 95(2)][2060] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 141C(4): amended, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 126(1)][2061] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
@@ -19745,13 +19745,13 @@ Penalties
     
     Section 141D(3B): inserted, on 26 March 2003 (applying to arrangements entered into on or after 26 March 2003), by [section 127(2)][2062] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141D(3B)(b): substituted, on 1 April 2010, by [section 681][2063] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 141D(3B)(b): replaced, on 1 April 2010, by [section 681][2063] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 141D(4): substituted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 253(1)][2064] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141D(4): replaced, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 253(1)][2064] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 141D(7): amended, on 17 October 2002 (applying on and after 1 December 2002), by [section 90(1)][2065] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 141D(7)(a): substituted, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 127(4)][2062] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 141D(7)(a): replaced, on 26 March 2003 (applying to a tax position that a taxpayer takes on or after 1 April 2003), by [section 127(4)][2062] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 141E Evasion or similar act
     
@@ -19783,13 +19783,13 @@ Penalties
     
     Section 141E: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 141E(1)(c): substituted (with effect on 6 January 2010), on 6 October 2009, by [section 682][2066] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 141E(1)(c): replaced (with effect on 6 January 2010), on 6 October 2009, by [section 682][2066] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 141E(1)(da): inserted, on 27 March 2001, by [section 52(1)][2067] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
     Section 141E(1)(e): amended, on 27 March 2001, by [section 52(2)][2067] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 141E(1)(f): added, on 27 March 2001, by [section 52(2)][2067] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 141E(1)(f): inserted, on 27 March 2001, by [section 52(2)][2067] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
     Section 141E(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -19973,7 +19973,7 @@ Penalties
     
     *   (b) whether those acts or omissions were reasonable in the circumstances of the case.
     
-    Section 141F: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 96][2076] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 141F: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 96][2076] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
 
 ##### 141FB Reduction of penalties for previous behaviour
     
@@ -20079,13 +20079,13 @@ Penalties
         
         
     
-    Section 141FB: substituted, on 21 December 2004, by [section 127][2077] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 141FB: replaced, on 21 December 2004, by [section 127][2077] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 141FB(4)(a)(ii): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unlessn the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 141FB(4)(a)(ii): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unlessn the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 141FB(4)(a)(iii): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 141FB(4)(a)(iii): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 141FB(4)(a)(iv): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 141FB(4)(a)(iv): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 141FB(5): amended (with effect on 21 December 2004), on 21 June 2005, by [section 148][2078] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
 
@@ -20159,7 +20159,7 @@ Penalties
     
     Section 141G(1): amended, on 26 March 2003 (applying to an arrangement that a taxpayer enters into on or after 26 March 2003), by [section 130(1)][2081] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141G(3)(a): substituted (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 256(1)][2082] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141G(3)(a): replaced (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 256(1)][2082] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 141H Reduction for disclosure of unacceptable tax position
     
@@ -20203,7 +20203,7 @@ Penalties
     
     Section 141I(1): amended, on 26 March 2003 (applying to an arrangement that a taxpayer enters into on or after 26 March 2003), by [section 132(1)][2084] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 141I(3): substituted, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 257(1)][2085] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141I(3): replaced, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 257(1)][2085] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 141J Limitation on reduction of shortfall penalty
     
@@ -20229,9 +20229,9 @@ Penalties
     
     (3) \[Repealed\]
     
-    Section 141J(1): substituted (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 258(1)][2086] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141J(1): replaced (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 258(1)][2086] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 141J(2): added (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 258(1)][2086] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 141J(2): inserted (with effect on 17 May 2007), on 19 December 2007 (applying for voluntary disclosures made on or after 17 May 2007), by [section 258(1)][2086] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 141J(3): repealed (with effect on 17 May 2007), on 6 October 2009 (applying for voluntary disclosures made on or after 17 May 2007), by [section 684(1)][2087] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
@@ -20343,19 +20343,19 @@ Penalties
     
     (2) In subsection (1), _annual tax return_, _employer monthly schedule_, and _reconciliation statement_ have the meanings given to them in [section 139A][544].
     
-    Section 142: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 142: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 142(1): amended, on 1 April 2008 (applying for a tax return required to be furnished under sections 16--18 of the Goods and Services Tax Act 1985 and due on or after 1 April 2008), by [section 260(1)][2096] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 142(1): amended, on 7 October 1998 (applying on and after 1 April 1999), by [section 34(1)(a)][2097] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 142(1)(a): substituted, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 137(1)][2098] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 142(1)(a): replaced, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 137(1)][2098] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 142(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 142(1)(b): repealed, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 137(1)][2098] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 142(1)(c): substituted, on 7 October 1998 (applying to an annual tax return and reconciliation statements required to be furnished for 1999--2000 and subsequent income years), by [section 34(1)(c)][2097] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 142(1)(c): replaced, on 7 October 1998 (applying to an annual tax return and reconciliation statements required to be furnished for 1999--2000 and subsequent income years), by [section 34(1)(c)][2097] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
     Section 142(1)(c): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -20363,7 +20363,7 @@ Penalties
     
     Section 142(1)(c): amended, on 1 April 2002, by [section 338][902] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
     
-    Section 142(1)(d): substituted (with effect on 1 April 2003), on 25 November 2003, by [section 132][2099] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 142(1)(d): replaced (with effect on 1 April 2003), on 25 November 2003, by [section 132][2099] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 142(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -20429,7 +20429,7 @@ Penalties
     
     Section 142A: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 142A(1): substituted, on 1 April 2008, by [section 261(1)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 142A(1): replaced, on 1 April 2008, by [section 261(1)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 142A(1): amended (with effect on 6 October 2009), on 30 June 2014, by [section 173(1)][2102] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
@@ -20439,7 +20439,7 @@ Penalties
     
     Section 142A(1B): repealed, on 1 April 2008, by [section 261(1)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 142A(2): substituted, on 1 April 2008, by [section 261(1)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 142A(2): replaced, on 1 April 2008, by [section 261(1)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 142A(3): amended, on 1 April 2008, by [section 261(2)(a)][2101] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
@@ -20467,7 +20467,7 @@ Penalties
     
     Section 142B: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 142B(2): added, on 3 April 2006 (applying for a tax position taken by a taxpayer after 1 April 2003), by [section 253(1)][2103] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 142B(2): inserted, on 3 April 2006 (applying for a tax position taken by a taxpayer after 1 April 2003), by [section 253(1)][2103] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 142C Due date for payments by officers
     
@@ -20505,7 +20505,7 @@ Penalties
     
     Section 142E: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 142E heading: substituted (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 686(1)][2104] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 142E heading: replaced (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 686(1)][2104] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 142E(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -20573,7 +20573,7 @@ Penalties
     
     (4) In this section and in [sections 143A][594] and [143B][595], _tax return_ includes an income statement.
     
-    Section 143: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 143: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 143(1)(a): amended, on 29 August 2011, by [section 182(1)][2109] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
@@ -20587,11 +20587,11 @@ Penalties
     
     Section 143(1C): inserted, on 1 October 2006, by [section 254][2112] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 143(2): substituted, on 25 November 2003, by [section 133][2113] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 143(2): replaced, on 25 November 2003, by [section 133][2113] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 143(2B): inserted, on 1 July 2014, by [section 174(2)][2110] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 143(4): added, on 7 October 1998 (applying on and after 1 April 1999), by [section 36(1)][2114] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 143(4): inserted, on 7 October 1998 (applying on and after 1 April 1999), by [section 36(1)][2114] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 ##### 143A Knowledge offences
     
@@ -20679,27 +20679,27 @@ Penalties
     
     Section 143A(1)(ab): inserted, on 1 July 2014, by [section 175][2117] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 143A(2): substituted, on 25 November 2003, by [section 134][2118] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 143A(2): replaced, on 25 November 2003, by [section 134][2118] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 143A(3): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 687(1)][2119] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 143A(5)(a): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 143A(5)(a): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 143A(5)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 143A(5)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 143A(5)(c): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 143A(5)(c): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 143A(5)(c)(iii): amended (with effect on 1 April 2008), on 2 November 2012, by [section 202][2120] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 143A(5)(d): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 143A(5)(d): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 143A(5)(e): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
     Section 143A(5)(f): repealed, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 143A(5)(g): substituted, on 1 April 2008, by [section 262(2)][2121] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 143A(5)(g): replaced, on 1 April 2008, by [section 262(2)][2121] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 143A(5)(h): added, on 1 April 2009, by [section 21][2122] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 143A(5)(h): inserted, on 1 April 2009, by [section 21][2122] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 143A(6): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 687(1)][2119] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
@@ -20875,67 +20875,9 @@ Penalties
 
 ##### 144 Certain offences in relation to Stamp and Cheque Duties Act 1971
     
-*   (1) A person commits an offence against this Act if the person---
-        
-    *   (a) \[Repealed\]
+*   \[Repealed\]
     
-    *   (b) \[Repealed\]
-    
-    *   (c) \[Repealed\]
-    
-    *   (d) being a bank licensed under [section 81][2125] of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of any licence granted under that section; or
-    
-    *   (e) being a printer licensed under [section 82][2126] of the Stamp and Cheque Duties Act 1971, fails to comply with a provision of that section or of a licence granted under that section; or
-    
-    *   (f) \[Repealed\]
-    
-    *   (g) \[Repealed\]
-    
-    *   (h) \[Repealed\]
-    
-    *   (i) \[Repealed\]
-    
-    *   (j) \[Repealed\]
-    
-    (2) \[Repealed\]
-    
-    (3) \[Repealed\]
-    
-    (4) \[Repealed\]
-    
-    (5) A person who is convicted of an offence against subsection (1) is liable to a fine not exceeding $12,000\.
-    
-    (6) \[Repealed\]
-    
-    (7) \[Repealed\]
-    
-    Section 144: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
-    
-    Section 144(1)(a): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(1)(b): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(1)(c): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(1)(f): repealed, on 1 July 2014, by [section 4(1)][2127] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 144(1)(g): repealed, on 1 July 2014, by [section 4(1)][2127] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 144(1)(h): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(1)(i): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(1)(j): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(2): repealed, on 1 July 2014, by [section 4(1)][2127] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 144(3): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(4): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
-    
-    Section 144(6): repealed, on 1 July 2014, by [section 4(1)][2127] of the Cheque Duty Repeal Act 2014 (2014 No 29).
-    
-    Section 144(7): repealed, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 144: repealed, on 22 July 2014, by [section 5(4)][2125] of the Cheque Duty Repeal Act 2014 (2014 No 29).
 
 ##### 145 Penalties for offences for which no specific penalty imposed
     
@@ -20945,13 +20887,13 @@ Penalties
     
     *   (b) on every other occasion the person is convicted of the same type of offence, to a fine not exceeding $25,000\.
     
-    Section 145: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 145: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 146 Publication of names
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 21 June 2005 (applying to publication that, but for this section, would be required after 21 June 2005), by [section 150(1)][2128] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
+    Section 146: repealed, on 21 June 2005 (applying to publication that, but for this section, would be required after 21 June 2005), by [section 150(1)][2126] of the Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79).
 
 ##### 147 Employees and officers
     
@@ -20973,9 +20915,9 @@ Penalties
     
     (3) An employee or officer of a body corporate includes a person who, by reason of the person's employment with, or position in relation to, the body corporate, is responsible by law, contract, or otherwise for undertaking an action on behalf of the body corporate.
     
-    Section 147: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 147: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 147(2B): inserted, on 1 October 2006, by [section 255][2129] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 147(2B): inserted, on 1 October 2006, by [section 255][2127] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 147B Directors and officers of resident foreign trustee
     
@@ -21001,7 +20943,7 @@ Penalties
         
         
     
-    Section 147B: inserted, on 1 October 2006, by [section 256][2130] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 147B: inserted, on 1 October 2006, by [section 256][2128] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 148 Aiding or abetting
     
@@ -21009,7 +20951,7 @@ Penalties
     
     (2) A person convicted of an offence of aiding, abetting, inciting, or conspiring under subsection (1) is liable for up to the same maximum fine or term of imprisonment, or both, that could apply to a person who commits the principal offence.
     
-    Section 148: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 148: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Proceedings and evidence
     
@@ -21033,9 +20975,9 @@ Penalties
     
     *   (c) in relation to an obligation arising under the [Student Loan Scheme Act 2011][904] for taking the incorrect tax position.
     
-    Section 149: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 149: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 149(2): amended, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 263(1)][2131] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 149(2): amended, on 1 April 2008 (applying for tax positions taken on or after 1 April 2008), by [section 263(1)][2129] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 149(5): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
 
@@ -21083,7 +21025,7 @@ Penalties
     
     and references to [sections 143A(1)(b)][594], [143H(1)][601], and [147(1)][605], are to be construed accordingly.
     
-    Section 150: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 150: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 150 heading: amended, on 1 July 2013, by [section 413][1460] of the Criminal Procedure Act 2011 (2011 No 81).
     
@@ -21133,7 +21075,7 @@ Penalties
     
     Section 150B(1)(b): amended, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
     
-    Section 150B(2): substituted, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 150B(2): replaced, on 20 May 1999 (applying to instruments executed after 20 May 1999 and instruments executed between 20 May 1991 and 20 May 1999 (both dates inclusive) if the transactions to which the instruments relate are not completed or, in the case of leases are not carried into effect, on or before 20 May 1999), by [section 7][887] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 150C Authority to file charging document
     
@@ -21151,9 +21093,9 @@ Penalties
     
     Section 150D: inserted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 150D: amended, on 29 August 2011, by [section 185(a)][2132] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 150D: amended, on 29 August 2011, by [section 185(a)][2130] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 150D: amended, on 29 August 2011, by [section 185(b)][2132] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 150D: amended, on 29 August 2011, by [section 185(b)][2130] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 150E Evidence inconsistent with instrument not admissible to reduce stamp duty
     
@@ -21195,11 +21137,11 @@ Penalties
     
     (9) Where, in any specified proceedings, a record or copy of a record or entry in a record or in a copy of any record that is admissible in evidence under this section is tendered in evidence, the court may require the production by a person of a record or copy of a record in the person's possession or under the person's control that the court considers is or may be relevant.
     
-    (10) In any specified proceedings, the following provisions of this subsection shall apply for the purposes of [section 5][2133] of the Evidence Amendment Act 1952 (which relates to proof of photographic copies of documents), namely:
+    (10) In any specified proceedings, the following provisions of this subsection shall apply for the purposes of [section 5][2131] of the Evidence Amendment Act 1952 (which relates to proof of photographic copies of documents), namely:
         
-    *   (a) every record holder is to be deemed to be an authorised person, whether or not the record holder is already an authorised person as defined in [section 3][2134] of that Act:
+    *   (a) every record holder is to be deemed to be an authorised person, whether or not the record holder is already an authorised person as defined in [section 3][2132] of that Act:
     
-    *   (b) every record to which this section relates, and every copy purporting to be a copy of an original record that would have been admissible in evidence in accordance with subsection (5) if it were available for that purpose and proof had been given as provided in that subsection or, where applicable, in subsection (8), shall be deemed to be a document to which [section 5][2133] of the Evidence Amendment Act 1952 applies.
+    *   (b) every record to which this section relates, and every copy purporting to be a copy of an original record that would have been admissible in evidence in accordance with subsection (5) if it were available for that purpose and proof had been given as provided in that subsection or, where applicable, in subsection (8), shall be deemed to be a document to which [section 5][2131] of the Evidence Amendment Act 1952 applies.
     
     (11) Where, in any specified proceedings, the Commissioner intends to tender in evidence under this section a record or copy of a record or entry in a record or in a copy of a record, the Commissioner shall give to the other party or parties, as the case may be, notice of that intention not less than 7 days before the hearing, specifying the record or copy or entry intended to be tendered in evidence.
     
@@ -21227,7 +21169,7 @@ Penalties
         
     *   (a) in respect of offences that do not relate to GST, a business, profession, trade, manufacture, occupation, or calling of any kind; and includes the activities of a department of State or of an organisation or society:
     
-    *   (b) in respect of offences that relate to GST, a taxable activity as defined in [section 6][2135] of the Goods and Services Tax Act 1985
+    *   (b) in respect of offences that relate to GST, a taxable activity as defined in [section 6][2133] of the Goods and Services Tax Act 1985
     
     _record_ means---
         
@@ -21247,7 +21189,7 @@ Penalties
     
     *   (d) a person having the custody or control of the record or of the copy of the record, being a record or copy that was made in the regular course of a business that has terminated.
     
-    Section 152: substituted, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 152: replaced, on 26 July 1996, by [section 43][1873] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 152(11): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -21286,7 +21228,7 @@ Recoveries
     
 *   (1) All unpaid tax shall be recoverable by the Commissioner on behalf of the Crown by suit in the Commissioner's official name.
     
-    (2) Notwithstanding anything in the [District Courts Act 1947][2136], any court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
+    (2) Notwithstanding anything in the [District Courts Act 1947][2134], any court constituted under that Act shall have jurisdiction to hear and determine proceedings by the Commissioner for the recovery of tax, whatever the amount involved.
     
     Compare: 1976 No 65 s 399
 
@@ -21310,13 +21252,13 @@ Recoveries
     
     (4) Subsection (3) applies to a person acting as a PAYE intermediary if [section 141JB(1)][580] applies, and references to a taxpayer are to be read as references to a PAYE intermediary.
     
-    Section 156A: inserted, on 26 July 1996, by [section 44][2137] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 156A: inserted, on 26 July 1996, by [section 44][2135] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 156A(1)(a): substituted, on 6 October 2009, by [section 689][2138] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 156A(1)(a): replaced, on 6 October 2009, by [section 689][2136] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 156A(1)(b): substituted, on 6 October 2009, by [section 689][2138] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 156A(1)(b): replaced, on 6 October 2009, by [section 689][2136] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 156A(1)(c): added, on 6 October 2009, by [section 689][2138] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 156A(1)(c): inserted, on 6 October 2009, by [section 689][2136] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 156A(2): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -21324,7 +21266,7 @@ Recoveries
     
     Section 156A(2): amended, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 156A(4): added, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 139(1)][2139] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 156A(4): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 139(1)][2137] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 157 Deduction of tax from payments due to defaulters
     
@@ -21418,15 +21360,15 @@ Recoveries
         
     *   (d) a Home Lay-by Account within the meaning of the Post Office Act 1959; or
     
-    *   (e) a Home Ownership Account within the meaning of the [Home Ownership Savings Act 1974][2140]; or
+    *   (e) a Home Ownership Account within the meaning of the [Home Ownership Savings Act 1974][2138]; or
     
-    *   (f) a Farm Ownership Account within the meaning of the [Farm Ownership Savings Act 1974][2141]; or
+    *   (f) a Farm Ownership Account within the meaning of the [Farm Ownership Savings Act 1974][2139]; or
     
-    *   (g) a Fishing Vessel Ownership Account within the meaning of the [Fishing Vessel Ownership Savings Act 1977][2142]
+    *   (g) a Fishing Vessel Ownership Account within the meaning of the [Fishing Vessel Ownership Savings Act 1977][2140]
     
     _bank_ means---
         
-    *   (a) any building society registered under the [Building Societies Act 1965][2143], in respect of any deposits with the building society:
+    *   (a) any building society registered under the [Building Societies Act 1965][2141], in respect of any deposits with the building society:
     
     *   (b) any person (not being a person of the kind referred to in paragraph (a)) that is a bank within the meaning of the Banking Act 1982
     
@@ -21434,15 +21376,15 @@ Recoveries
         
     *   (a) income tax payable under the [Income Tax Act 2007][795] and the [Income Tax Act 2004][1052] and the Income Tax Act 1994 and the Income Tax Act 1976:
     
-    *   (b) an amount of tax withheld, or combined tax and earner-related payment, to which [section RD 4(1)][910] of the Income Tax Act 2007 applies, or a tax deduction or combined tax and earner premium deduction or combined tax and earner levy deduction to which [section NC 15][1062] of the Income Tax Act 2004 or of the Income Tax Act 1994 and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2144] of the Accident Compensation Act 2001 applies or a tax deduction to which section 353 of the Income Tax Act 1976 applied:
+    *   (b) an amount of tax withheld, or combined tax and earner-related payment, to which [section RD 4(1)][910] of the Income Tax Act 2007 applies, or a tax deduction or combined tax and earner premium deduction or combined tax and earner levy deduction to which [section NC 15][1062] of the Income Tax Act 2004 or of the Income Tax Act 1994 and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2142] of the Accident Compensation Act 2001 applies or a tax deduction to which section 353 of the Income Tax Act 1976 applied:
     
-    *   (bb) amounts paid to an intermediary in accordance with [sections RP 17 to RP 21][1203] of the Income Tax Act 2007 or [subpart MBA][2145] of the Income Tax Act 2004:
+    *   (bb) amounts paid to an intermediary in accordance with [sections RP 17 to RP 21][1203] of the Income Tax Act 2007 or [subpart MBA][2143] of the Income Tax Act 2004:
     
-    *   (c) an amount to which [section RD 4(2)(a)][910] of the Income Tax Act 2007 or [section NC 16(b)][2146] of the Income Tax Act 2004 or of the Income Tax Act 1994 applies or section 355(b) of the Income Tax Act 1976 applied:
+    *   (c) an amount to which [section RD 4(2)(a)][910] of the Income Tax Act 2007 or [section NC 16(b)][2144] of the Income Tax Act 2004 or of the Income Tax Act 1994 applies or section 355(b) of the Income Tax Act 1976 applied:
     
     *   (d) an amount which, under [section 168][645] of this Act or section 366 of the Income Tax Act 1976, constitutes a debt payable to the Commissioner:
     
-    *   (e) an amount that under [sections RA 10][907] and [RD 70][2147] of the Income Tax Act 2007 or [section NE 5][2148] of the Income Tax Act 2004 or of the Income Tax Act 1994 or section 336ZF of the Income Tax Act 1976 constitutes a debt payable to the Commissioner:
+    *   (e) an amount that under [sections RA 10][907] and [RD 70][2145] of the Income Tax Act 2007 or [section NE 5][2146] of the Income Tax Act 2004 or of the Income Tax Act 1994 or section 336ZF of the Income Tax Act 1976 constitutes a debt payable to the Commissioner:
     
     *   (f) an amount of unpaid tax subject to [Part 10A][651]:
     
@@ -21468,15 +21410,15 @@ Recoveries
     
     Compare: 1976 No 65 s 400; 1994 No 76 s 72
     
-    Section 157(1): substituted (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2149] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 157(1): replaced (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2147] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 157(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 157(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 157(1A): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2149] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 157(1A): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2147] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 157(1B): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2149] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 157(1B): inserted (with effect on 1 April 1997), on 23 September 1997, by [section 99(1)][2147] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 157(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -21484,11 +21426,11 @@ Recoveries
     
     Section 157(6): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 157(10) **amount payable** paragraph (c): amended, on 29 August 2011, by [section 186][2150] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 157(10) **amount payable** paragraph (c): amended, on 29 August 2011, by [section 186][2148] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 157(10) **amount payable** paragraph (cb): inserted, on 29 August 2011, by [section 186][2150] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 157(10) **amount payable** paragraph (cb): inserted, on 29 August 2011, by [section 186][2148] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 157(10) **income tax** paragraph (a): substituted (with effect on 1 April 1995), on 23 September 1997, by [section 99(2)][2149] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 157(10) **income tax** paragraph (a): replaced (with effect on 1 April 1995), on 23 September 1997, by [section 99(2)][2147] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
     Section 157(10) **income tax** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -21504,7 +21446,7 @@ Recoveries
     
     Section 157(10) **income tax** paragraph (b): amended, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 157(10) **income tax** paragraph (bb): inserted, on 1 April 2003, by [section 140(1)][2151] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 157(10) **income tax** paragraph (bb): inserted, on 1 April 2003, by [section 140(1)][2149] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 157(10) **income tax** paragraph (bb): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -21518,21 +21460,21 @@ Recoveries
     
     Section 157(10) **income tax** paragraph (e): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 157(10) **income tax** paragraph (f): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 111(1)][2152] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 157(10) **income tax** paragraph (f): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 111(1)][2150] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 157(10) **income tax** paragraph (g): added, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 157(10) **income tax** paragraph (g): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 157(10) **income tax** paragraph (h): added, on 1 April 2008, by [section 22][2153] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 157(10) **income tax** paragraph (h): inserted, on 1 April 2008, by [section 22][2151] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 157(10) **income tax** paragraph (i): added, on 1 April 2008, by [section 22][2153] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 157(10) **income tax** paragraph (i): inserted, on 1 April 2008, by [section 22][2151] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 157(10) **penalty**: repealed, on 26 July 1996, by [section 45(2)][2154] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 157(10) **penalty**: repealed, on 26 July 1996, by [section 45(2)][2152] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 157(10) **taxpayer**: substituted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 140(2)][2151] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 157(10) **taxpayer**: replaced, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 140(2)][2149] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 157(11): added, on 21 December 2010, by [section 161][2155] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 157(11): inserted, on 21 December 2010, by [section 161][2153] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
-    Section 157(12): added, on 21 December 2010, by [section 161][2155] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 157(12): inserted, on 21 December 2010, by [section 161][2153] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 157A Application of Parts 7 and 9 to defaulters
     
@@ -21562,7 +21504,7 @@ Recoveries
     
     (2) Subsection (1) overrides all other provisions of this Act.
     
-    Section 157A: inserted, on 26 July 1996, by [section 46][2156] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 157A: inserted, on 26 July 1996, by [section 46][2154] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 157A(1)(a)(iv): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
 
@@ -21578,7 +21520,7 @@ Recoveries
     
     Compare: 1976 No 65 s 402
     
-    Section 159: amended, on 29 August 2011, by [section 187][2157] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 159: amended, on 29 August 2011, by [section 187][2155] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 160 Commissioner may appear in legal proceedings by officer of Public Service
     
@@ -21598,23 +21540,23 @@ Recoveries
     
     Compare: 1976 No 65 s 405
     
-    Section 162: amended, on 1 October 1996, by [section 47][2158] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 162: amended, on 1 October 1996, by [section 47][2156] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 163 No limitation of action to recover tax
     
 *   No relief in respect of a claim for recovery of tax is barred or otherwise affected by the following:
         
-    *   (a) the [Limitation Act 2010][2159]:
+    *   (a) the [Limitation Act 2010][2157]:
     
     *   (b) any other enactment that prescribes a limitation period or other limitation defence.
     
     Compare: 1976 No 65 s 406
     
-    Section 163: substituted, on 1 January 2011, by [section 58][2160] of the Limitation Act 2010 (2010 No 110).
+    Section 163: replaced, on 1 January 2011, by [section 58][2158] of the Limitation Act 2010 (2010 No 110).
 
 ##### 164 Crown Proceedings Act 1950 not affected
     
-*   Nothing in this Act or the [Income Tax Act 2007][795] shall be so construed as to limit or affect the operation of the [Crown Proceedings Act 1950][2161], and all rights and remedies conferred upon the Crown by that Act and by this Act and the Income Tax Act 2007 shall co-exist, and may be exercised independently of one another, and tax may be recovered accordingly.
+*   Nothing in this Act or the [Income Tax Act 2007][795] shall be so construed as to limit or affect the operation of the [Crown Proceedings Act 1950][2159], and all rights and remedies conferred upon the Crown by that Act and by this Act and the Income Tax Act 2007 shall co-exist, and may be exercised independently of one another, and tax may be recovered accordingly.
     
     Compare: 1976 No 65 s 407
     
@@ -21630,15 +21572,15 @@ Recoveries
     
 *   \[Repealed\]
     
-    Section 165AA: repealed, on 1 April 2011, by [section 173][2162] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Section 165AA: repealed, on 1 April 2011, by [section 173][2160] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
 
 ##### 165A Recovery of excess tax credits allowed
     
 *   (1) If the Commissioner is satisfied that a credit of tax allowed or credited to a person under a tax law exceeded the amount properly allowable or able to be credited to the person under that tax law, the Commissioner may recover the amount of the excess from the person in the same manner, with any necessary modifications, as if the excess were income tax payable under the [Income Tax Act 2007][795].
     
-    (2) Subsection (1) is subject to [sections LA 3 to LA 5][2163], [LJ 7][2164], and [LK 4][2165] of the Income Tax Act 2007\.
+    (2) Subsection (1) is subject to [sections LA 3 to LA 5][2161], [LJ 7][2162], and [LK 4][2163] of the Income Tax Act 2007\.
     
-    Section 165A: substituted, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 141(1)][2166] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 165A: replaced, on 26 March 2003 (applying for 2002--03 and subsequent income years), by [section 141(1)][2164] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 165A(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -21652,13 +21594,13 @@ Recoveries
     
     (3) If the person has led the Commissioner by wilful default or neglect to pay the refund, the amount of the overpayment is due on the date the refund was paid. In every other case, the amount of the overpayment is due on the 5th working day of the month after that in which the Commissioner notifies the person that the amount of the overpayment is payable.
     
-    Compare: 2004 No 35 [s NG 16(5)][2167]
+    Compare: 2004 No 35 [s NG 16(5)][2165]
     
     Section 165B: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 166 Tax paid in excess may be set off against additional tax when assessment reopened
     
-*   (1) Subject to [sections IA 3(2)(c)][2168], [OA 2(5)][2169], [RA 19][2170], [RA 20][2171], [RM 3][2172], [RM 13 to RM 21][1354], [RM 32][1355], and [RZ 6][1356] of the Income Tax Act 2007 and [sections 71B][218] and [104B][436], in any case where, upon the investigation by the Commissioner of the liability of a taxpayer for tax over a group of successive years,---
+*   (1) Subject to [sections IA 3(2)(c)][2166], [OA 2(5)][2167], [RA 19][2168], [RA 20][2169], [RM 3][2170], [RM 13 to RM 21][1354], [RM 32][1355], and [RZ 6][1356] of the Income Tax Act 2007 and [sections 71B][218] and [104B][436], in any case where, upon the investigation by the Commissioner of the liability of a taxpayer for tax over a group of successive years,---
         
     *   (a) the Commissioner assesses the taxpayer with tax for a tax year in respect of which no assessment has been made previously, or amends an assessment for any year so as to increase the amount of the assessment; and
     
@@ -21674,7 +21616,7 @@ Recoveries
     
     Section 166(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 166(1)(a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 231(1)(b)][2173] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 166(1)(a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 231(1)(b)][2171] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
     Section 166(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -21688,13 +21630,13 @@ Recoveries
             
         *   (i) is the master of a ship owned by or under charter to the absentee; and
         
-        *   (ii) is treated as an agent under [section HD 21][2174] of the Income Tax Act 2007\.
+        *   (ii) is treated as an agent under [section HD 21][2172] of the Income Tax Act 2007\.
         
         
     
     (2) The Commissioner may require a Customs officer to withhold the clearance of the ship pending the payment of any tax assessed.
     
-    Compare: 2004 No 35 [s HK 18][2175]
+    Compare: 2004 No 35 [s HK 18][2173]
     
     Section 166B: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -21702,15 +21644,15 @@ Recoveries
 
 ##### 167 Recovery of tax and payments from employers or PAYE intermediaries
     
-*   (1) Every amount of tax or combined tax and earner-related payment withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2144] of the Accident Compensation Act 2001, shall be held in trust for the Crown, and any amount so held in trust shall not be property of the employer liable to execution, and, in the event of the bankruptcy or liquidation of the employer or of an assignment for the benefit of the employer's creditors, shall remain apart, and form no part of the estate in bankruptcy, liquidation, or assignment.
+*   (1) Every amount of tax or combined tax and earner-related payment withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2142] of the Accident Compensation Act 2001, shall be held in trust for the Crown, and any amount so held in trust shall not be property of the employer liable to execution, and, in the event of the bankruptcy or liquidation of the employer or of an assignment for the benefit of the employer's creditors, shall remain apart, and form no part of the estate in bankruptcy, liquidation, or assignment.
     
-    (2) When an amount of tax or combined tax and earner-related payment has been withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2144] of the Accident Compensation Act 2001, and the employer has failed to deal with the amount of the tax or payment withheld or deducted (or any part of it) in the manner required by subsection (1) or the PAYE rules, the amount of the tax or payment for the time being unpaid to the Commissioner shall, in the application of the assets of the employer, rank as follows:
+    (2) When an amount of tax or combined tax and earner-related payment has been withheld or deducted under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2142] of the Accident Compensation Act 2001, and the employer has failed to deal with the amount of the tax or payment withheld or deducted (or any part of it) in the manner required by subsection (1) or the PAYE rules, the amount of the tax or payment for the time being unpaid to the Commissioner shall, in the application of the assets of the employer, rank as follows:
         
     *   (a) where the employer is, or one of whom is, an individual, upon the employer's bankruptcy or upon the employer's making an assignment for the benefit of the employer's creditors, the amount of the tax or payment shall rank without limitation in amount, and notwithstanding anything in any other Act, in order of priority immediately after preferential claims for wages or other sums payable to or on account of any servant or worker or apprentice or articled clerk, and in priority to all other claims:
     
-    *   (b) where the employer is a company, upon the liquidation of the company, the amount of the tax or payment shall have the ranking provided for in [Schedule 7][2176] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act); and
+    *   (b) where the employer is a company, upon the liquidation of the company, the amount of the tax or payment shall have the ranking provided for in [Schedule 7][2174] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act); and
     
-    *   (c) where the employer is a company, upon the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company, or upon possession being taken on behalf of the debenture holder of the property, the amount of the tax or payment shall have the ranking provided for in [Schedule 7][2176] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act), as if the receiver were a liquidator.
+    *   (c) where the employer is a company, upon the appointment of a receiver on behalf of the holder of any debenture given by the company secured by a charge over any property of the company, or upon possession being taken on behalf of the debenture holder of the property, the amount of the tax or payment shall have the ranking provided for in [Schedule 7][2174] of the Companies Act 1993 (whether or not the company has been incorporated or registered under that Act), as if the receiver were a liquidator.
     
     (2B) This section applies to a person instead of an employer if---
         
@@ -21736,7 +21678,7 @@ Recoveries
     
     Section 167 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 167 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 142(1)][2177] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 167 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 142(1)][2175] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 167(1): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -21760,13 +21702,13 @@ Recoveries
     
     Section 167(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 167(2B): inserted (with effect on 26 March 2003), on 25 November 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 136(1)][2178] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 167(2B): inserted (with effect on 26 March 2003), on 25 November 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 136(1)][2176] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 167(2B)(b)(i): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 167(2B)(b)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 167(2C): inserted (with effect on 26 March 2003), on 25 November 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 136(1)][2178] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 167(2C): inserted (with effect on 26 March 2003), on 25 November 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 136(1)][2176] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 167(3): amended, on 5 December 2013, by [section 14][1369] of the Companies Amendment Act 2013 (2013 No 111).
     
@@ -21774,11 +21716,11 @@ Recoveries
     
     Section 167(4) **tax deduction** or **combined tax and earner-related payment**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 167(4) **tax deduction** or **combined tax and earner-related payment**: amended, on 26 July 1996, by [section 49][2179] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 167(4) **tax deduction** or **combined tax and earner-related payment**: amended, on 26 July 1996, by [section 49][2177] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 168 Employer or PAYE intermediary failing to withhold or deduct tax or payments
     
-*   (1) Where an employer fails to withhold or deduct an amount of tax or combined tax and earner-related payment in accordance with the employer's obligations under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2144] of the Accident Compensation Act 2001, the amount in respect of which default has been made shall constitute a debt payable by the employer to the Commissioner, and shall be deemed to have become due and payable to the Commissioner on the date on which under [section RD 4][910] of the Income Tax Act 2007 the employer would have been required to pay to the Commissioner the tax or combined tax and earner-related payment.
+*   (1) Where an employer fails to withhold or deduct an amount of tax or combined tax and earner-related payment in accordance with the employer's obligations under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2142] of the Accident Compensation Act 2001, the amount in respect of which default has been made shall constitute a debt payable by the employer to the Commissioner, and shall be deemed to have become due and payable to the Commissioner on the date on which under [section RD 4][910] of the Income Tax Act 2007 the employer would have been required to pay to the Commissioner the tax or combined tax and earner-related payment.
     
     (2) The right of the Commissioner to recover from the employer the amount in respect of which default has been made shall be in addition to any right of the Commissioner to recover that amount from the employee under the PAYE rules; and nothing in those rules shall be construed as preventing the Commissioner from taking such steps as the Commissioner thinks fit to recover that amount from the employer and from the employee concurrently, or from recovering that amount wholly from the employer or from the employee or partly from the employer and partly from the employee.
     
@@ -21796,7 +21738,7 @@ Recoveries
     
     Section 168 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 168 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(1)][2180] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 168 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(1)][2178] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 168(1): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -21806,17 +21748,17 @@ Recoveries
     
     Section 168(1): amended, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 168(4): added, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(2)][2180] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 168(4): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(2)][2178] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 168(4)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 168(4)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 168(5): added, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(2)][2180] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 168(5): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 143(2)][2178] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 169 Unpaid tax payments, etc, to constitute charge on employer's or PAYE intermediary's property
     
-*   (1) Where an employer fails wholly or in part to withhold or deduct an amount of tax or combined tax and earner-related payment in accordance with the employer's obligations under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2144] of the Accident Compensation Act 2001, or is liable to pay any sum to the Commissioner under the PAYE rules and, where applicable, that section 115 or that section 285 or that section 221, an amount equal to the total for the time being unpaid to the Commissioner in respect of that tax, payment, or sum, (including any late payment penalty or shortfall penalty), and in respect of any judgment obtained for that tax, payment, or sum, (including any costs, fees, or expenses included in the judgment or otherwise payable by the employer to the Commissioner in respect of the judgment) shall be a charge on all the real and personal property of the employer.
+*   (1) Where an employer fails wholly or in part to withhold or deduct an amount of tax or combined tax and earner-related payment in accordance with the employer's obligations under the PAYE rules and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or [section 221][2142] of the Accident Compensation Act 2001, or is liable to pay any sum to the Commissioner under the PAYE rules and, where applicable, that section 115 or that section 285 or that section 221, an amount equal to the total for the time being unpaid to the Commissioner in respect of that tax, payment, or sum, (including any late payment penalty or shortfall penalty), and in respect of any judgment obtained for that tax, payment, or sum, (including any costs, fees, or expenses included in the judgment or otherwise payable by the employer to the Commissioner in respect of the judgment) shall be a charge on all the real and personal property of the employer.
     
     (1B) This section applies to a person instead of an employer if the person is acting as a PAYE intermediary for the employer in relation to an employee and a pay period, and the employer, for the pay period, has---
         
@@ -21828,7 +21770,7 @@ Recoveries
     
     (2) Every charge created by this section shall be subject to all mortgages, charges, or encumbrances existing at the time of the creation of the charge, but, subject to this section, shall have priority over all other mortgages, charges, or encumbrances. Notwithstanding anything in any other Act, if any property subject to the charge created by this section is also subject to a charge created by that other Act, the charges shall rank equally with each other unless by virtue of that Act the charge so created would be deferred to the charge created by this section.
     
-    (3) Despite [section 23(b)][2181] of the Personal Property Securities Act 1999, if a charge affects property of a particular kind and the provisions of a registration Act applicable to the property provide for the registration of charges or security interests over property of that kind, the Commissioner may have particulars of that charge recorded on the register without payment of any fee.
+    (3) Despite [section 23(b)][2179] of the Personal Property Securities Act 1999, if a charge affects property of a particular kind and the provisions of a registration Act applicable to the property provide for the registration of charges or security interests over property of that kind, the Commissioner may have particulars of that charge recorded on the register without payment of any fee.
     
     (4) Particulars recorded under subsection (3) are to operate and take priority according to the provisions of the applicable registration Act.
     
@@ -21842,21 +21784,21 @@ Recoveries
     
     (8) Where any property has been sold under any such order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
     
-    (9) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order, and in the case of land which is subject to the [Land Transfer Act 1952][2182] the purchaser's title to that land shall be registered accordingly.
+    (9) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order, and in the case of land which is subject to the [Land Transfer Act 1952][2180] the purchaser's title to that land shall be registered accordingly.
     
     (10) This section shall apply subject to [section 167][644].
     
     (11) In this section, _registration Act_, in relation to any property, includes---
         
-    *   (a) the [Statutory Land Charges Registration Act 1928][2183], in every case where the property is land or an interest in land (including a mortgage):
+    *   (a) the [Statutory Land Charges Registration Act 1928][2181], in every case where the property is land or an interest in land (including a mortgage):
     
-    *   (b) the [Personal Property Securities Act 1999][2184].
+    *   (b) the [Personal Property Securities Act 1999][2182].
     
     Compare: 1976 No 65 s 367; 1994 No 76 s 57
     
     Section 169 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 169 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(1)][2185] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 169 heading: amended, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(1)][2183] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 169(1): amended, on 21 December 2010, by [section 189][901] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
@@ -21866,27 +21808,27 @@ Recoveries
     
     Section 169(1): amended, on 19 December 1998, by section 416 of the Accident Insurance Act 1998 (1998 No 114).
     
-    Section 169(1): amended, on 26 July 1996, by [section 50][2186] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 169(1): amended, on 26 July 1996, by [section 50][2184] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 169(1B): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(2)][2185] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 169(1B): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(2)][2183] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 169(1B)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 169(1B)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 169(1C): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(2)][2185] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 169(1C): inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 144(2)][2183] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 169(3): substituted, on 25 November 2003, by [section 137(1)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(3): replaced, on 25 November 2003, by [section 137(1)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 169(4): substituted, on 25 November 2003, by [section 137(1)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(4): replaced, on 25 November 2003, by [section 137(1)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 169(4B): inserted, on 25 November 2003, by [section 137(1)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(4B): inserted, on 25 November 2003, by [section 137(1)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 169(5): substituted, on 25 November 2003, by [section 137(1)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(5): replaced, on 25 November 2003, by [section 137(1)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 169(9): amended, on 25 November 2003, by [section 137(2)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(9): amended, on 25 November 2003, by [section 137(2)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
-    Section 169(11): substituted, on 25 November 2003, by [section 137(3)][2187] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 169(11): replaced, on 25 November 2003, by [section 137(3)][2185] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
 
 ##### 170 Recovery of RWT
     
@@ -21920,7 +21862,7 @@ Recoveries
     
     Section 171(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 171(2): substituted, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 477 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
+    Section 171(2): replaced, on 26 July 1996 (applying to 1997--98 and subsequent income years), by section 477 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
     Section 171(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -21942,24 +21884,24 @@ Recoveries
     
     Section 172(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 172(1): amended, on 26 July 1996, by [section 51][2188] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 172(1): amended, on 26 July 1996, by [section 51][2186] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 173 Overpayment of family tax credit, etc
     
 *   \[Repealed\]
     
-    Section 173: repealed, on 7 October 1998, by [section 38][2189] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 173: repealed, on 7 October 1998, by [section 38][2187] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 ## Part 10A  
 Tax recovery agreements
     
-*   Part 10A: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+*   Part 10A: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173A Application of Part
     
 *   This Part applies to tax recovery agreements negotiated between the government of a territory outside New Zealand and the Government of New Zealand.
     
-    Section 173A: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173A: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173B Definitions
     
@@ -21979,11 +21921,11 @@ Tax recovery agreements
     
     *   (b) a double tax agreement, to the extent that it provides for the recovery of unpaid tax.
     
-    Section 173B: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173B: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 173B **competent authority**: repealed, on 1 July 2014, by [section 176][2191] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 173B **competent authority**: repealed, on 1 July 2014, by [section 176][2189] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 173B **contested tax**: repealed, on 8 December 2009, by [section 142][2192] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 173B **contested tax**: repealed, on 8 December 2009, by [section 142][2190] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
 
 ##### 173C Tax recovery agreements
     
@@ -21995,7 +21937,7 @@ Tax recovery agreements
     
     *   (b) subject to this Part.
     
-    Section 173C: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173C: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173D Taxes that may be recovered
     
@@ -22003,9 +21945,9 @@ Tax recovery agreements
     
     (2) For the purposes of this Part, _assistance in the recovery of taxes_ includes assistance in the recovery of charges associated with the taxes, whether interest, administrative penalties, costs of collection or conservancy, or another related amount.
     
-    Section 173D: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173D: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 173D(2): added (with effect on 1 April 2008), on 6 October 2009 (applying in relation to events and periods occurring before or after 1 April 2008), by [section 690(1)][2193] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173D(2): inserted (with effect on 1 April 2008), on 6 October 2009 (applying in relation to events and periods occurring before or after 1 April 2008), by [section 690(1)][2191] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 173E Requests for assistance
     
@@ -22025,7 +21967,7 @@ Tax recovery agreements
     
     *   (c) a certified or notarized copy of the instrument that allows enforcement of the unpaid tax in the state of the applicant.
     
-    Section 173E: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173E: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173F Scope of assistance
     
@@ -22035,7 +21977,7 @@ Tax recovery agreements
     
     (3) [Part 11][678] applies to this Part.
     
-    Section 173F: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173F: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173G Limitations on assistance in recovery
     
@@ -22075,13 +22017,13 @@ Tax recovery agreements
     
     *   (b) if the request for assistance is first made more than 15 years after the date on which the unpaid tax became uncontested.
     
-    Section 173G: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173G: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
-    Section 173G(1): substituted, on 8 December 2009, by [section 143][2194] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 173G(1): replaced, on 8 December 2009, by [section 143][2192] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 173G(1B): inserted, on 8 December 2009, by [section 143][2194] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 173G(1B): inserted, on 8 December 2009, by [section 143][2192] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
     
-    Section 173G(1C): inserted, on 8 December 2009, by [section 143][2194] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
+    Section 173G(1C): inserted, on 8 December 2009, by [section 143][2192] of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63).
 
 ##### 173H Contested act of assistance
     
@@ -22095,7 +22037,7 @@ Tax recovery agreements
     
     *   (b) refer the request, together with reasons, to the competent authority of the other territory, and endeavour, by mutual agreement, to resolve the dispute.
     
-    Section 173H: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173H: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173I Rights of appeal
     
@@ -22103,7 +22045,7 @@ Tax recovery agreements
     
     (2) The District Court may reverse or modify the effect of the authority, discretion, power, provision, or right exercised, or refer the matter back to the Commissioner or the other competent authority for further consideration.
     
-    Section 173I: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173I: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ##### 173J Certificates given by Commissioner
     
@@ -22117,12 +22059,12 @@ Tax recovery agreements
     
     (3) In all proceedings concerning an act of the Commissioner to which [section 173F(1)][657] refers, a certificate purporting to be given under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the matters certified by the certificate.
     
-    Section 173J: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2190] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 173J: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 112(1)][2188] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
 
 ## Part 10B  
 Transfers of excess tax
     
-*   Part 10B: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+*   Part 10B: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173K Application
     
@@ -22138,11 +22080,11 @@ Transfers of excess tax
     
     *   (b) tax transferred to the transferee is treated as tax paid by the transferee on the date of transfer, except for the purpose of imposing a shortfall penalty under [Part 9][541].
     
-    Section 173K: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173K: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 #### Transfer rules
     
-*   Heading: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+*   Heading: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173L Transfer of excess tax within taxpayer's accounts
     
@@ -22160,15 +22102,15 @@ Transfers of excess tax
     
     (3) Despite subsection (2)(b) and (bb), a taxpayer who has an early balance date must, for tax withheld or deducted on their behalf or a tax credit for expenditure on research and development, choose a day after the end of the tax year in which the amount was withheld or deducted or the tax year corresponding to the accounting year to which the credit relates.
     
-    Section 173L: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173L: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 173L(2)(a): amended, on 1 April 2005, by [section 134][2196] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 173L(2)(a): amended, on 1 April 2005, by [section 134][2194] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 173L(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 173L(2)(bb): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 691(1)][2197] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173L(2)(bb): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 691(1)][2195] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 173L(3): substituted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 691(2)][2197] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173L(3): replaced (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 691(2)][2195] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 173M Transfer of excess tax to another taxpayer
     
@@ -22230,19 +22172,19 @@ Transfers of excess tax
     
     (7) \[Repealed\]
     
-    Section 173M: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173M: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 173M(2)(fb): inserted, on 6 October 2009, by [section 692(1)][2198] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173M(2)(fb): inserted, on 6 October 2009, by [section 692(1)][2196] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 173M(2)(g): substituted, on 6 October 2009, by [section 692(1)][2198] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173M(2)(g): replaced, on 6 October 2009, by [section 692(1)][2196] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 173M(4)(ab): inserted, on 6 October 2009, by [section 692(2)][2198] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 173M(4)(ab): inserted, on 6 October 2009, by [section 692(2)][2196] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 173M(5) **family trust** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 173M(5) **relative**: amended, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
     
-    Section 173M(6)(b): substituted, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
+    Section 173M(6)(b): replaced, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
     
     Section 173M(7): repealed, on 26 April 2005, by [section 3(1)][1187] of the Tax Administration Amendment Act 2005 (2005 No 22).
 
@@ -22254,7 +22196,7 @@ Transfers of excess tax
     
     *   (b) may not be transferred to the person in another capacity or to another taxpayer.
     
-    Section 173MB: inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 145(1)][2199] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 173MB: inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 145(1)][2197] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 173MB: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -22266,7 +22208,7 @@ Transfers of excess tax
     
     *   (b) a date that occurs after the date on which the taxpayer applies for a refund under [section 41A][160].
     
-    Section 173N: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173N: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 173N heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -22278,11 +22220,11 @@ Transfers of excess tax
     
     (2) Even if the Commissioner transfers the excess on a date on which the Commissioner considers appropriate, the taxpayer or their agent may subsequently choose a date allowed by [sections 173L][665] and [173M][666], and request that the Commissioner transfer the excess on that date.
     
-    Section 173O: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173O: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 #### Application of transfer rules to excess provisional tax
     
-*   Heading: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+*   Heading: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173P Transfer of excess provisional tax if provisional tax paid is more than taxpayer's provisional tax liability, determined before assessment
     
@@ -22302,7 +22244,7 @@ Transfers of excess tax
         
     *   provisional tax paid is the provisional tax paid for a tax year on or before date A, including:
             
-        *   (a) voluntary payments made under [section RC 12][2200] of the Income Tax Act 2007; and
+        *   (a) voluntary payments made under [section RC 12][2198] of the Income Tax Act 2007; and
         
         *   (b) tax transferred to the taxpayer:
         
@@ -22314,7 +22256,7 @@ Transfers of excess tax
     
     (3) The Commissioner must not transfer an amount on date A if, as a result, the taxpayer would not satisfy their provisional tax liability in respect of the tax year on a date (_date B_) that falls after date A, unless the taxpayer requests a transfer back to their account to satisfy their provisional tax liability on date B.
     
-    Section 173P: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173P: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 173P(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -22350,7 +22292,7 @@ Transfers of excess tax
     > 
     > is the provisional tax paid for a tax year on or before date A, including:
     >     
-    > *   (a) voluntary payments made under [section RC 12][2200] of the Income Tax Act 2007; and
+    > *   (a) voluntary payments made under [section RC 12][2198] of the Income Tax Act 2007; and
     > 
     > *   (b) tax transferred to the taxpayer
     > 
@@ -22376,7 +22318,7 @@ Transfers of excess tax
     
     *   (b) if subsection (1)(b)(ii) applies, the net provisional tax paid less the estimated residual income tax for the tax year.
     
-    Section 173Q: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173Q: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 173Q(1)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -22386,7 +22328,7 @@ Transfers of excess tax
     
     Section 173Q(2) formula item provisional tax paid paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 173Q(2) formula item estimated RIT: amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 259(1)(c)][2201] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 173Q(2) formula item estimated RIT: amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 259(1)(c)][2199] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 173Q(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -22410,7 +22352,7 @@ Transfers of excess tax
         
     *   provisional tax paid is the provisional tax paid for the tax year on or before date A, including:
             
-        *   (a) voluntary payments made under [section RC 12][2200] of the Income Tax Act 2007; and
+        *   (a) voluntary payments made under [section RC 12][2198] of the Income Tax Act 2007; and
         
         *   (b) tax transferred to the taxpayer
         
@@ -22424,13 +22366,13 @@ Transfers of excess tax
     
     (4) The amount that may be transferred under subsection (2) may not be more than the net provisional tax paid for a tax year less the residual income tax for the year.
     
-    Section 173R: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173R: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 173R(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
     Section 173R(2) formula item provisional tax paid paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 173R(2) formula item residual income tax: amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 260(1)(b)][2202] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 173R(2) formula item residual income tax: amended, on 1 October 2007 (applying for income years corresponding to 2008--09 and subsequent tax years), by [section 260(1)(b)][2200] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 173R(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
     
@@ -22440,7 +22382,7 @@ Transfers of excess tax
 
 #### Miscellaneous
     
-*   Heading: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+*   Heading: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173S Transfers of interest on overpaid tax
     
@@ -22448,19 +22390,19 @@ Transfers of excess tax
     
     (2) The Commissioner may only transfer the interest on the date that it would have been payable under [Part 7][461], as if a transfer request had not been made.
     
-    Section 173S: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173S: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173T Application of excess tax if taxpayer has unsatisfied tax liability
     
 *   If a taxpayer has excess tax and the Commissioner applies all or part of the excess in satisfaction of tax or another amount due, the taxpayer or their agent may request the Commissioner to apply all or part of the excess on a date allowed by [section 173L][665].
     
-    Section 173T: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173T: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 173U Transfers of excess financial support
     
 *   Despite [sections 173L][665] and [173M][666], a taxpayer may not request a transfer under this Act of excess financial support, as defined in [section 2(1)][856] of the Child Support Act 1991\.
     
-    Section 173U: inserted, on 17 October 2002, by [section 91(1)][2195] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 173U: inserted, on 17 October 2002, by [section 91(1)][2193] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ## Part 11  
 Remission, relief, and refunds
@@ -22471,7 +22413,7 @@ Remission, relief, and refunds
     
     (2) Despite [section 1(2)][2], section 413 of the Income Tax Act 1976 does not apply to an application for remission made on or after 1 April 1997\.
     
-    Section 174: substituted, on 20 May 1999 (applying on and after 20 May 1999), by [section 113(1)][2203] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 174: replaced, on 20 May 1999 (applying on and after 20 May 1999), by [section 113(1)][2201] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 174 heading: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -22483,11 +22425,11 @@ Remission, relief, and refunds
     
     *   (b) the tax paid, withheld, or deducted is $5 or less than the amount of the tax for which the taxpayer is liable.
     
-    Section 174AA: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 113(1)][2203] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 174AA: inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 113(1)][2201] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 174AA: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 174AA: amended, on 1 April 2003, by [section 146][2204] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 174AA: amended, on 1 April 2003, by [section 146][2202] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 174AA(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -22511,13 +22453,13 @@ Remission, relief, and refunds
     
     *   (d) after the refund is made, the person will have paid or be credited as having paid GST for the GST return period or periods in an amount at least equal to the GST that remains the subject of the notice of proposed adjustment or assessment or assessments referred to in subsection (1).
     
-    Section 174A: inserted, on 26 July 1996, by [section 53][2205] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 174A: inserted, on 26 July 1996, by [section 53][2203] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 175 Small amounts of additional tax, etc, not to be charged
     
 *   \[Repealed\]
     
-    Section 175: repealed, on 26 July 1996, by [section 54][2206] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 175: repealed, on 26 July 1996, by [section 54][2204] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 176 Recovery of tax by Commissioner
     
@@ -22531,9 +22473,9 @@ Remission, relief, and refunds
     
     (3) Despite subsection (2)(b), the Commissioner may take steps preparatory to, or necessary to, bankrupt the taxpayer, including debt proceedings in the District Court or the High Court.
     
-    Section 176: substituted, on 17 October 2002, by [section 92(1)][2207] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 176: replaced, on 17 October 2002, by [section 92(1)][2205] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 176(3): inserted, on 30 June 2014, by [section 177][2208] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 176(3): inserted, on 30 June 2014, by [section 177][2206] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 177 Taxpayer may apply for financial relief
     
@@ -22561,11 +22503,11 @@ Remission, relief, and refunds
     
     (5) If the Commissioner receives information or a response from a taxpayer outside the time period allowed under subsection (4), the receipt of the information or the response will be treated as a new request for financial relief.
     
-    Section 177: substituted, on 17 October 2002, by [section 92(1)][2207] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 177: replaced, on 17 October 2002, by [section 92(1)][2205] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 177(1)(a): amended, on 30 June 2014, by [section 178(1)][2209] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177(1)(a): amended, on 30 June 2014, by [section 178(1)][2207] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 177(1B): replaced, on 30 June 2014, by [section 178(2)][2209] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177(1B): replaced, on 30 June 2014, by [section 178(2)][2207] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
     Section 177(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
@@ -22601,7 +22543,7 @@ Remission, relief, and refunds
     
     (4) The Commissioner must use only financial information that the Commissioner has at the date on which the decision is made.
     
-    Section 177A: replaced, on 30 June 2014, by [section 179][2210] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177A: replaced, on 30 June 2014, by [section 179][2208] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 177B Instalment arrangements
     
@@ -22631,11 +22573,11 @@ Remission, relief, and refunds
     
     (7) Despite [sections LA 6(2)][1822] and [LH 2(6)][1013] of the Income Tax Act 2007, a taxpayer with an instalment arrangement who is meeting their obligations under it may choose to have an amount of refundable tax credit remaining for a tax year paid to them rather than used under the ordering rules set out in those sections.
     
-    Section 177B: inserted, on 17 October 2002, by [section 92(1)][2207] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 177B: inserted, on 17 October 2002, by [section 92(1)][2205] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 177B(1): amended, on 30 June 2014, by [section 180][2211] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177B(1): amended, on 30 June 2014, by [section 180][2209] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 177B(7): added (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 693(1)][2212] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 177B(7): inserted (with effect on 1 April 2008), on 6 October 2009 (applying for 2008--09 and later income years), by [section 693(1)][2210] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 177C Write-off of tax by Commissioner
     
@@ -22647,21 +22589,21 @@ Remission, relief, and refunds
         
     *   (a) is outstanding from the 2008--09 tax year; and
     
-    *   (b) is tax payable under [section MF 5(2)][2213] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting; and
+    *   (b) is tax payable under [section MF 5(2)][2211] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting; and
     
-    *   (c) is outstanding due to amendments to the family scheme made by the [Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008][2214].
+    *   (c) is outstanding due to amendments to the family scheme made by the [Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008][2212].
     
     (1C) The Commissioner must write off an amount, not exceeding $100, of outstanding tax to the extent to which the amount----
         
     *   (a) is outstanding from the 2008--09 tax year; and
     
-    *   (b) is tax payable under [section MF 5(2)][2213] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
+    *   (b) is tax payable under [section MF 5(2)][2211] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
     
     (1D) The Commissioner must write off an amount, not exceeding $30, of outstanding tax to the extent to which the amount----
         
     *   (a) is outstanding from the 2010--11 tax year; and
     
-    *   (b) is tax payable under [section MF 5(2)][2213] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
+    *   (b) is tax payable under [section MF 5(2)][2211] or [MF 6(2)][1424] of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
     
     (2) The Commissioner must write off outstanding tax that cannot be recovered in the following situations:
         
@@ -22703,29 +22645,29 @@ Remission, relief, and refunds
     
     (8) If the Commissioner enters into an instalment arrangement that provides for some outstanding tax to be written off, the Commissioner may not reverse the write-off even if, during the term of the instalment arrangement, the taxpayer does not meet the instalment arrangement's terms.
     
-    Section 177C: inserted, on 17 October 2002, by [section 92(1)][2207] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 177C: inserted, on 17 October 2002, by [section 92(1)][2205] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
-    Section 177C(1BA): inserted, on 30 June 2014, by [section 181(1)][2215] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177C(1BA): inserted, on 30 June 2014, by [section 181(1)][2213] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 177C(1B): inserted (with effect on 1 April 2008), on 15 December 2008, by [section 40][2216] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+    Section 177C(1B): inserted (with effect on 1 April 2008), on 15 December 2008, by [section 40][2214] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
-    Section 177C(1C): inserted (with effect on 1 April 2008), on 15 December 2008, by [section 40][2216] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
+    Section 177C(1C): inserted (with effect on 1 April 2008), on 15 December 2008, by [section 40][2214] of the Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105).
     
-    Section 177C(1D): inserted (with effect on 1 April 2010), on 20 May 2010, by [section 100][2217] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 177C(1D): inserted (with effect on 1 April 2010), on 20 May 2010, by [section 100][2215] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 77C(5): replaced, on 2 November 2012, by [section 204][2218] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 77C(5): replaced, on 2 November 2012, by [section 204][2216] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
     
-    Section 177C(5B): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 177C(5B): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 177C(5C): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 177C(5C): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 177C(6): substituted, on 21 December 2004 (applying to tax that is written off on and after 21 December 2004), by [section 135(1)][2219] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 177C(6): replaced, on 21 December 2004 (applying to tax that is written off on and after 21 December 2004), by [section 135(1)][2217] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 177C(6): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 177C(7)(a): amended, on 30 June 2014, by [section 181(2)][2215] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177C(7)(a): amended, on 30 June 2014, by [section 181(2)][2213] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
-    Section 177C(7)(b): amended, on 30 June 2014, by [section 181(3)][2215] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 177C(7)(b): amended, on 30 June 2014, by [section 181(3)][2213] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 177CA Proof of debt
     
@@ -22737,7 +22679,7 @@ Remission, relief, and refunds
     
     (2) Any amount outstanding under the instalment arrangement must be included in the department's proof of debt.
     
-    Section 177CA: inserted, on 17 October 2002, by [section 92(1)][2207] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 177CA: inserted, on 17 October 2002, by [section 92(1)][2205] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 177D Relief to taxpayers to whom new start grants payable
     
@@ -22745,7 +22687,7 @@ Remission, relief, and refunds
     
     (2) The Commissioner must grant relief---
         
-    *   (a) to the taxpayer, or to a person or an entity associated with the taxpayer, to the extent that the Commissioner thinks it appropriate having regard to the matters referred to in [section CX 48(4) and (5)][2220] or [EW 46(4) and (5)][2221] of the Income Tax Act 2007; and
+    *   (a) to the taxpayer, or to a person or an entity associated with the taxpayer, to the extent that the Commissioner thinks it appropriate having regard to the matters referred to in [section CX 48(4) and (5)][2218] or [EW 46(4) and (5)][2219] of the Income Tax Act 2007; and
     
     *   (b) from the payment of unpaid tax that relates to an income tax liability that would have arisen if the taxpayer's only gross income were derived from---
             
@@ -22763,37 +22705,37 @@ Remission, relief, and refunds
     
     *   (b) from the payment of unpaid tax or amounts owing to the Commissioner under the PAYE rules, if the unpaid tax or amounts owing relate to PAYE income payments made for the farming business for which the new start grant was paid.
     
-    Section 177D: inserted, on 17 October 2002 (applying on and after 1 December 2002), by [section 93(1)][2222] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 177D: inserted, on 17 October 2002 (applying on and after 1 December 2002), by [section 93(1)][2220] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
     
     Section 177D(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 177D(3): amended, on 6 October 2009, by [section 694][2223] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 177D(3): amended, on 6 October 2009, by [section 694][2221] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 177D(3): amended (with effect on 1 February 2004), on 21 December 2004 (applying for 2003--04 and subsequent income years), by [section 136(2)][2224] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 177D(3): amended (with effect on 1 February 2004), on 21 December 2004 (applying for 2003--04 and subsequent income years), by [section 136(2)][2222] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 177D(3)(b): substituted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
+    Section 177D(3)(b): replaced, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 178 Remission of underestimation penalty tax
     
 *   \[Repealed\]
     
-    Section 178: repealed (deemed to be repealed on 1 April 1997), on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 102][2225] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 178: repealed (deemed to be repealed on 1 April 1997), on 23 September 1997 (applying to 1998--99 and subsequent income years), by [section 102][2223] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
 
 ##### 179 Relief from additional tax or incremental tax
     
 *   \[Repealed\]
     
-    Section 179: repealed, on 26 July 1996, by [section 57][2226] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 179: repealed, on 26 July 1996, by [section 57][2224] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 180 Remissions and refunds of imputation penalty tax
     
 *   (1) The Commissioner shall remit any imputation penalty tax imposed under [section 140B][552] to the extent that the Commissioner is satisfied that---
         
-    *   (a) liability for the imputation penalty tax arose by virtue of a debit arising to the company's imputation credit account under [section OB 54][2227] of the Income Tax Act 2007 in relation to an arrangement to obtain a tax advantage, and it is established subsequently that, in relation to any such debit, a credit arises to the imputation credit account in accordance with [section OB 25][2228] of that Act; or
+    *   (a) liability for the imputation penalty tax arose by virtue of a debit arising to the company's imputation credit account under [section OB 54][2225] of the Income Tax Act 2007 in relation to an arrangement to obtain a tax advantage, and it is established subsequently that, in relation to any such debit, a credit arises to the imputation credit account in accordance with [section OB 25][2226] of that Act; or
     
     *   (b) liability for the imputation penalty tax arose by virtue of a refund of income tax having been sent but not having been received by the company, or not having been known by the company to have been received, before the end of the tax year; or
     
-    *   (c) liability for the imputation penalty tax arose by virtue of a debit arising under any of [sections OB 33][2229], [OB 38][2230], [OP 31][2231], [OP 36][2232], and [OZ 3][2233] of the Income Tax Act 2007, and the taxpayer did not become aware of the arising of the debit in sufficient time to allow it to remove the debit balance before the end of the year.
+    *   (c) liability for the imputation penalty tax arose by virtue of a debit arising under any of [sections OB 33][2227], [OB 38][2228], [OP 31][2229], [OP 36][2230], and [OZ 3][2231] of the Income Tax Act 2007, and the taxpayer did not become aware of the arising of the debit in sufficient time to allow it to remove the debit balance before the end of the year.
     
     (2) Where the Commissioner remits any imputation penalty tax under this section, the Commissioner shall also remit any late payment penalty imposed under [section 139B][547] to the extent that the Commissioner is satisfied that the penalty was imposed in respect of the imputation penalty tax so remitted.
     
@@ -22801,43 +22743,43 @@ Remission, relief, and refunds
     
     Compare: 1976 No 65 s 394O
     
-    Section 180(1): amended, on 26 July 1996, by [section 58(1)][2234] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 180(1): amended, on 26 July 1996, by [section 58(1)][2232] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 180(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 180(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 180(1)(b): amended(with effect on 17 August 1995), on 12 December 1995, by [section 11(1)][2235] of the Tax Administration Act (No 3) 1995 (1995 No 77).
+    Section 180(1)(b): amended(with effect on 17 August 1995), on 12 December 1995, by [section 11(1)][2233] of the Tax Administration Act (No 3) 1995 (1995 No 77).
     
     Section 180(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 180(1)(c): added (with effect on 17 August 1995), on 12 December 1995, by [section 11(1)][2235] of the Tax Administration Act (No 3) 1995 (1995 No 77).
+    Section 180(1)(c): inserted (with effect on 17 August 1995), on 12 December 1995, by [section 11(1)][2233] of the Tax Administration Act (No 3) 1995 (1995 No 77).
     
-    Section 180(2): amended, on 26 July 1996, by [section 58(2)][2234] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 180(2): amended, on 26 July 1996, by [section 58(2)][2232] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 180(3): amended, on 26 July 1996, by [section 58(3)][2234] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 180(3): amended, on 26 July 1996, by [section 58(3)][2232] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 181 Remissions and refunds of FDP penalty tax
     
 *   \[Repealed\]
     
-    Section 181: repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 695(1)][2236] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 181: repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 695(1)][2234] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 181B Remissions and refunds of Maori authority distribution penalty tax
     
 *   (1) The Commissioner must remit any Maori authority distribution penalty tax imposed under [section 140CB][556] to the extent that the Commissioner is satisfied that---
         
-    *   (a) liability for the penalty tax arose because of a debit arising to the Maori authority credit account under [section OK 17][2237] of the Income Tax Act 2007 in relation to an arrangement to obtain a tax advantage, and it is established subsequently that, in relation to the debit, a credit arises to the Maori authority credit account in accordance with [section OK  9][2238] of that Act; or
+    *   (a) liability for the penalty tax arose because of a debit arising to the Maori authority credit account under [section OK 17][2235] of the Income Tax Act 2007 in relation to an arrangement to obtain a tax advantage, and it is established subsequently that, in relation to the debit, a credit arises to the Maori authority credit account in accordance with [section OK  9][2236] of that Act; or
     
     *   (b) liability for the penalty tax arose because of a refund of a Maori authority distribution having been sent but not having been received by the Maori authority, or not having been known by the Maori authority to have been received, before the end of the tax year; or
     
-    *   (c) liability for the penalty tax arose because of a debit arising to the Maori authority credit account under [section OK 13][2239] of the Income Tax Act 2007, and the Maori authority did not become aware of the arising of the debit in sufficient time to allow it to remove the debit balance before the end of the year.
+    *   (c) liability for the penalty tax arose because of a debit arising to the Maori authority credit account under [section OK 13][2237] of the Income Tax Act 2007, and the Maori authority did not become aware of the arising of the debit in sufficient time to allow it to remove the debit balance before the end of the year.
     
     (2) If the Commissioner remits any Maori authority distribution penalty tax under this section, the Commissioner must also remit any late payment penalty imposed under [section 139B][547] to the extent that the Commissioner is satisfied that the penalty was imposed in respect of the Maori authority distribution penalty tax so remitted.
     
     (3) If the Commissioner remits any Maori authority distribution penalty tax under subsection (1)(a), the Commissioner must also remit any late payment penalty imposed under [section 139B][547] to the extent that the Commissioner is satisfied that the penalty was imposed in respect of the amount of further income tax that gave rise to the Maori authority distribution penalty tax so remitted.
     
-    Section 181B: inserted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 147(1)][2240] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 181B: inserted, on 26 March 2003 (applying for 2004--05 and subsequent income years), by [section 147(1)][2238] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
     Section 181B(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -22855,7 +22797,7 @@ Remission, relief, and refunds
     
     (2) The Commissioner must remit any interest under [section 120D][468] payable by the company and the late payment penalty relating to the further income tax, to the extent that the amount of further income tax charged in relation to that imputation year is equal to or is less than the amount of unpaid income tax referred to in subsection (1)(b).
     
-    Section 181C: inserted (with effect on 1 April 1998), on 25 November 2003, by [section 138][2241] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
+    Section 181C: inserted (with effect on 1 April 1998), on 25 November 2003, by [section 138][2239] of the Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122).
     
     Section 181C(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -22863,9 +22805,9 @@ Remission, relief, and refunds
 
 ##### 181D Remission of late payment penalties and interest incurred due to obligation by Maori authority to pay further income tax
     
-*   An amount that is interest under [section 120D][468], or a late payment penalty relating to further income tax, and that is paid or payable by a Maori authority and to which [sections OK 23][2242] and [24][2243] of the Income Tax Act 2007 applies must be remitted by the Commissioner to the extent that the amount of further income tax charged in relation to an tax year is equal to or less than the amount of unpaid income tax.
+*   An amount that is interest under [section 120D][468], or a late payment penalty relating to further income tax, and that is paid or payable by a Maori authority and to which [sections OK 23][2240] and [24][2241] of the Income Tax Act 2007 applies must be remitted by the Commissioner to the extent that the amount of further income tax charged in relation to an tax year is equal to or less than the amount of unpaid income tax.
     
-    Section 181D: inserted, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 137(1)][2244] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 181D: inserted, on 1 October 2004 (applying for 2004--05 and subsequent income years), by [section 137(1)][2242] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 181D: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -22873,13 +22815,13 @@ Remission, relief, and refunds
     
 *   \[Repealed\]
     
-    Section 182: repealed, on 26 July 1996, by [section 60][2245] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 182: repealed, on 26 July 1996, by [section 60][2243] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 183 Obligation to pay tax on foreign investment fund income able to be suspended
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 6 October 2009, by [section 696][2246] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 183: repealed, on 6 October 2009, by [section 696][2244] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 183AA Remission for GST transitional taxable periods
     
@@ -22901,15 +22843,15 @@ Remission, relief, and refunds
     
     *   (b) a GST taxable period that includes 1 October 2010 and a later GST taxable period, if that later GST taxable period ends on or before 31 December 2010:
     
-    *   (c) a GST taxable period for which the taxpayer is required to make a return that includes an adjustment under [section 78B][2247] of the Goods and Services Tax Act 1985 because of the change in the rate of goods and services tax on 1 October 2010\.
+    *   (c) a GST taxable period for which the taxpayer is required to make a return that includes an adjustment under [section 78B][2245] of the Goods and Services Tax Act 1985 because of the change in the rate of goods and services tax on 1 October 2010\.
     
-    Section 183AA: inserted, on 1 October 2010, by [section 56][2248] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
+    Section 183AA: inserted, on 1 October 2010, by [section 56][2246] of the Taxation (Budget Measures) Act 2010 (2010 No 27).
     
-    Section 183AA(4)(b): further amended (with effect on 1 October 2010), on 7 May 2012, by [section 148(2)][2249] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    Section 183AA(4)(b): further amended (with effect on 1 October 2010), on 7 May 2012, by [section 148(2)][2247] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
-    Section 183AA(4)(b): amended (with effect on 7 September 2010), on 7 May 2012, by [section 148(1)][2249] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    Section 183AA(4)(b): amended (with effect on 7 September 2010), on 7 May 2012, by [section 148(1)][2247] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
     
-    Section 183AA(4)(c): replaced (with effect on 1 October 2010), on 7 May 2012, by [section 148(2)][2249] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
+    Section 183AA(4)(c): replaced (with effect on 1 October 2010), on 7 May 2012, by [section 148(2)][2247] of the Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34).
 
 ##### 183A Remission for reasonable cause
     
@@ -22959,21 +22901,21 @@ Remission, relief, and refunds
     
     *   (b) a taxpayer's financial position.
     
-    Section 183A: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 104(1)][2250] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 183A: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 104(1)][2248] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 183A(1): substituted, on 1 April 2005, by [section 138][2251] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 183A(1): replaced, on 1 April 2005, by [section 138][2249] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 183A(1)(e): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 697(1)][2252] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 183A(1)(e): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 697(1)][2250] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 183A(1)(h): added, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 183A(1)(h): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 183A(1)(h): amended, on 1 April 2009, by [section 23][2253] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 183A(1)(h): amended, on 1 April 2009, by [section 23][2251] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 183A(1)(h): amended, on 1 April 2008, by [section 264][2254] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 183A(1)(h): amended, on 1 April 2008, by [section 264][2252] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 183A(1)(i): added, on 1 April 2008, by [section 264][2254] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 183A(1)(i): inserted, on 1 April 2008, by [section 264][2252] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 183A(1A): inserted, on 7 October 1998 (applying to penalties that arise on and after 1 April 1999), by [section 39(1)][2255] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 183A(1A): inserted, on 7 October 1998 (applying to penalties that arise on and after 1 April 1999), by [section 39(1)][2253] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
 
 ##### 183ABA Remission in circumstances of emergency event
     
@@ -23015,7 +22957,7 @@ Remission, relief, and refunds
     
     *   (c) may be renewed or replaced from time to time by an Order in Council made before or after the date on which the order would otherwise expire.
     
-    Section 183ABA: substituted, on 6 October 2009, by [section 698][2256] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 183ABA: replaced, on 6 October 2009, by [section 698][2254] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 183AB Cancellation of late payment penalties imposed before 1 April 2002
     
@@ -23045,13 +22987,13 @@ Remission, relief, and refunds
         
         
     
-    Section 183AB: inserted, on 17 October 2002 (applying to arrangements entered into before 1 April 2002), by [section 94(1)][2257] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
+    Section 183AB: inserted, on 17 October 2002 (applying to arrangements entered into before 1 April 2002), by [section 94(1)][2255] of the Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32).
 
 ##### 183B Cancellation of late payment penalties under instalment arrangement
     
 *   \[Repealed\]
     
-    Section 183B: repealed, on 27 March 2001 (applying on 1 April 2002), by [section 54(2)][2258] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 183B: repealed, on 27 March 2001 (applying on 1 April 2002), by [section 54(2)][2256] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 183C Cancellation of interest
     
@@ -23083,17 +23025,17 @@ Remission, relief, and refunds
     
     (6) For the purpose of subsection (5), a payment that is made is a payment of the tax assessed in the notice of assessment, together with any interest payable under [Part 7][461] for the period before the date of the notice.
     
-    Section 183C: substituted (with effect on 1 April 1997, except so far as it applies to subsection (4) and (5)), on 23 September 1997, by [section 104(1)][2250] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 183C: replaced (with effect on 1 April 1997, except so far as it applies to subsection (4) and (5)), on 23 September 1997, by [section 104(1)][2248] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 183C(2): repealed, on 1 April 2003, by [section 149][2259] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 183C(2): repealed, on 1 April 2003, by [section 149][2257] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
     
-    Section 183C(4)(b): amended, on 10 October 2000 (applying to statements of account issued on or after 1 April 2001), by [section 79(1)][2260] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 183C(4)(b): amended, on 10 October 2000 (applying to statements of account issued on or after 1 April 2001), by [section 79(1)][2258] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 183C(5): substituted, on 27 March 2001 (applying to interest cancellations made on and after 27 March 2001), by [section 55(1)][2261] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 183C(5): replaced, on 27 March 2001 (applying to interest cancellations made on and after 27 March 2001), by [section 55(1)][2259] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
     
-    Section 183C(5): amended, on 10 October 2000 (applying to statements of account issued on or after 1 April 2001), by [section 79(1)][2260] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 183C(5): amended, on 10 October 2000 (applying to statements of account issued on or after 1 April 2001), by [section 79(1)][2258] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 183C(6): added, on 27 March 2001 (applying to interest cancellations made on and after 27 March 2001), by [section 55(1)][2261] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 183C(6): inserted, on 27 March 2001 (applying to interest cancellations made on and after 27 March 2001), by [section 55(1)][2259] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
 
 ##### 183CA Cancellation of interest charged on unpaid provisional tax
     
@@ -23111,13 +23053,13 @@ Remission, relief, and refunds
     
     *   (b) refund to the taxpayer the excess interest to the extent that it has been paid by the taxpayer.
     
-    Section 183CA: inserted, on 20 May 1999 (applying to 1997--98 income year), by [section 114(1)][2262] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 183CA: inserted, on 20 May 1999 (applying to 1997--98 income year), by [section 114(1)][2260] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 183CA(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 183CB Cancellation of interest charged on payments under PAYE rules or provisional tax rules arising from work in Canterbury earthquake recovery programme
     
-*   (1) This section applies for a person (the **earner**) who derives income in the form of payment for work in the programme for the recovery of Canterbury from the Canterbury earthquakes, as defined in the [Canterbury Earthquake Recovery Act 2011][2263], when---
+*   (1) This section applies for a person (the **earner**) who derives income in the form of payment for work in the programme for the recovery of Canterbury from the Canterbury earthquakes, as defined in the [Canterbury Earthquake Recovery Act 2011][2261], when---
         
     *   (a) the earner is a non-resident, or is treated as a non-resident under a relevant double tax agreement, on 4 September 2010 and---
             
@@ -23153,7 +23095,7 @@ Remission, relief, and refunds
         
         
     
-    Section 183CB: inserted (with effect on 4 September 2010), on 29 August 2011, by [section 188][2264] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 183CB: inserted (with effect on 4 September 2010), on 29 August 2011, by [section 188][2262] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 183D Remission consistent with collection of highest net revenue over time
     
@@ -23179,19 +23121,19 @@ Remission, relief, and refunds
     
     (3) The Commissioner must not consider a taxpayer's financial position when applying this section.
     
-    Section 183D: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 104(1)][2250] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 183D: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 104(1)][2248] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 183D(1)(aa): inserted, on 7 October 1998 (applying to penalties that arise on and after 1 April 1999), by [section 40(1)][2265] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 183D(1)(aa): inserted, on 7 October 1998 (applying to penalties that arise on and after 1 April 1999), by [section 40(1)][2263] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 183D(1)(bb): inserted, on 1 April 2005, by [section 139][2266] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 183D(1)(bb): inserted, on 1 April 2005, by [section 139][2264] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 183D(1)(bc): inserted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
     
-    Section 183D(1)(bc): amended, on 1 April 2009, by [section 25][2267] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 183D(1)(bc): amended, on 1 April 2009, by [section 25][2265] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 183D(1)(bd): inserted, on 1 April 2008, by [section 265][2268] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 183D(1)(bd): inserted, on 1 April 2008, by [section 265][2266] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 183D(2): substituted, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
+    Section 183D(2): replaced, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
 
 ##### 183E Remission of interest if unpaid tax remitted
     
@@ -23201,7 +23143,7 @@ Remission, relief, and refunds
     
     *   (b) the taxpayer is liable for the interest under [Part 7][461] in respect of the remitted tax.
     
-    Section 183E: inserted, on 26 July 1996, by [section 62][2269] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 183E: inserted, on 26 July 1996, by [section 62][2267] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 183F Small amounts of penalties and interest not to be charged
     
@@ -23217,9 +23159,9 @@ Remission, relief, and refunds
     
     (2) An amount specified in subsection (1) may be varied from time to time by the Governor-General by Order in Council.
     
-    Section 183F: inserted, on 26 July 1996, by [section 62][2269] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 183F: inserted, on 26 July 1996, by [section 62][2267] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 183F(1): substituted, on 6 October 2009, by [section 699][2270] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 183F(1): replaced, on 6 October 2009, by [section 699][2268] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 183G Refunds by Commissioner
     
@@ -23235,7 +23177,7 @@ Remission, relief, and refunds
     
     *   (d) apply the amount towards meeting another tax liability.
     
-    Section 183G: inserted, on 26 July 1996, by [section 62][2269] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 183G: inserted, on 26 July 1996, by [section 62][2267] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 183H Remission on application
     
@@ -23257,15 +23199,15 @@ Remission, relief, and refunds
     
     *   (b) produce such information as the Commissioner requires in relation to the request.
     
-    Section 183H: substituted (with effect on 1 April 1997), on 23 September 1997, by [section 106][2271] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 183H: replaced (with effect on 1 April 1997), on 23 September 1997, by [section 106][2269] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 183H heading: amended, on 3 April 2006 (applying for requests made after 3 April 2006), by [section 262(1)][2272] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 183H heading: amended, on 3 April 2006 (applying for requests made after 3 April 2006), by [section 262(1)][2270] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 183H: amended, on 27 March 1998, by [section 48][2273] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
+    Section 183H: amended, on 27 March 1998, by [section 48][2271] of the Taxation (Remedial Provisions) Act 1998 (1998 No 7).
     
-    Section 183H(a): substituted, on 3 April 2006 (applying for requests made after 3 April 2006), by [section 262(2)][2272] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 183H(a): replaced, on 3 April 2006 (applying for requests made after 3 April 2006), by [section 262(2)][2270] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 183H(a)(ii): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 700(1)][2274] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 183H(a)(ii): repealed (with effect on 30 June 2009), on 6 October 2009 (applying for all income years beginning on or after 1 July 2009), by [section 700(1)][2272] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
 
 ##### 183I Time when cancellation takes effect
     
@@ -23273,23 +23215,23 @@ Remission, relief, and refunds
     
     (2) Without limiting subsection (1), a taxpayer is never liable to pay interest or a civil penalty in respect of a tax liability or obligation that is cancelled.
     
-    Section 183I: inserted, on 26 July 1996, by [section 62][2269] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 183I: inserted, on 26 July 1996, by [section 62][2267] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 184 Refund of tax paid on income subsequently exempted by Order in Council
     
-*   If a double tax agreement exempts from tax any income derived before the date of the Order in Council that gives effect to the double tax agreement, and the Commissioner is satisfied tax has been paid in relation to that income, and written application is made by or on behalf of the taxpayer at any time within 4 years after the date of the Order in Council, then notwithstanding anything in [sections LA 6 to LA 8][1822], [RM 2][1949], [RM 4][2275], [RM 5][1402], [RM 8][1932], and [RM 10][1950] of the Income Tax Act 2007 the Commissioner may refund the tax paid.
+*   If a double tax agreement exempts from tax any income derived before the date of the Order in Council that gives effect to the double tax agreement, and the Commissioner is satisfied tax has been paid in relation to that income, and written application is made by or on behalf of the taxpayer at any time within 4 years after the date of the Order in Council, then notwithstanding anything in [sections LA 6 to LA 8][1822], [RM 2][1949], [RM 4][2273], [RM 5][1402], [RM 8][1932], and [RM 10][1950] of the Income Tax Act 2007 the Commissioner may refund the tax paid.
     
-    Section 184: substituted, on 23 September 1997, by [section 107][2276] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
+    Section 184: replaced, on 23 September 1997, by [section 107][2274] of the Taxation (Remedial Provisions) Act 1997 (1997 No 74).
     
-    Section 184: amended (with effect on 1 April 2013), on 17 July 2013, by [section 118][2277] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
+    Section 184: amended (with effect on 1 April 2013), on 17 July 2013, by [section 118][2275] of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013 (2013 No 52).
     
     Section 184: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 184AA Refund of tax: deductible amounts of interest
     
-*   (1) This section applies when a person is allowed a deduction under [section DB 3B][2278] of the Income Tax Act 2007, section DB 3B of the Income Tax Act 2004, or section DB 2 of the Income Tax Act 1994\.
+*   (1) This section applies when a person is allowed a deduction under [section DB 3B][2276] of the Income Tax Act 2007, section DB 3B of the Income Tax Act 2004, or section DB 2 of the Income Tax Act 1994\.
     
-    (2) The time limits for refunds under the provisions referred to in subsection (3) do not apply for the purposes of the amendments made by [sections 194][2279] and [221][2280] of the Taxation (Tax Administration and Remedial Matters) Act 2011 relating to the deductibility of interest imposed under [Part 7][461].
+    (2) The time limits for refunds under the provisions referred to in subsection (3) do not apply for the purposes of the amendments made by [sections 194][2277] and [221][2278] of the Taxation (Tax Administration and Remedial Matters) Act 2011 relating to the deductibility of interest imposed under [Part 7][461].
     
     (3) The provisions are, as applicable,---
         
@@ -23299,7 +23241,7 @@ Remission, relief, and refunds
     
     *   (c) sections MD 1 and MD 2 of the Income Tax Act 1994\.
     
-    Section 184AA: inserted, on 29 August 2011, by [section 189(1)][2281] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 184AA: inserted, on 29 August 2011, by [section 189(1)][2279] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
 
 ##### 184A Refund of tax paid in excess made by direct credit to bank account
     
@@ -23319,29 +23261,31 @@ Remission, relief, and refunds
     
     *   (c) \[Repealed\]
     
-    *   (d) cheque duty, as provided for in [section 77][2282] of the Stamp and Cheque Duties Act 1971:
+    *   (d) \[Repealed\]
     
     *   (e) financial support, as defined in [section 2][852] of the Child Support Act 1991:
     
-    *   (f) a repayment obligation, as defined in [section 4(1)][850] of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under [section 132][2283] of that Act.
+    *   (f) a repayment obligation, as defined in [section 4(1)][850] of the Student Loan Scheme Act 2011, if the borrower has chosen to receive a refund under [section 132][2280] of that Act.
     
     (6) This section applies to the direct crediting of a type of tax once an Order in Council has been promulgated specifying the date from which the type of tax may be refunded by direct credit.
     
-    Section 184A: inserted, on 7 October 1998 (applying on and after 1 April 2000), by [section 41(1)][2284] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
+    Section 184A: inserted, on 7 October 1998 (applying on and after 1 April 2000), by [section 41(1)][2281] of the Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101).
     
-    Section 184A(5): substituted, on 10 October 2000 (applying to 1999--2000 and subsequent income years), by [section 80(1)][2285] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
+    Section 184A(5): replaced, on 10 October 2000 (applying to 1999--2000 and subsequent income years), by [section 80(1)][2282] of the Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39).
     
-    Section 184A(5)(c): repealed, on 27 March 2001 (applying on 27 March 2001), by [section 56(1)][2286] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    Section 184A(5)(c): repealed, on 27 March 2001 (applying on 27 March 2001), by [section 56(1)][2283] of the Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4).
+    
+    Section 184A(5)(d): repealed, on 22 July 2014, by [section 5(4)][2125] of the Cheque Duty Repeal Act 2014 (2014 No 29).
     
     Section 184A(5)(f): replaced, on 1 April 2012, by [section 223][896] of the Student Loan Scheme Act 2011 (2011 No 62).
     
-    Section 184A(6): added, on 8 September 1999 (applying on and after 8 September 1999), by [section 75(1)][2287] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 184A(6): inserted, on 8 September 1999 (applying on and after 8 September 1999), by [section 75(1)][2284] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
 
 ##### 184B Tax type that may be direct credited to bank account
     
 *   The Governor-General may, by Order in Council, specify the date from which a type of tax may be refunded by direct credit under [section 184A][715] to a bank account nominated by the taxpayer.
     
-    Section 184B: inserted, 8 September 1999 (applying on and after 8 September 1999), by [section 76(1)][2288] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
+    Section 184B: inserted, 8 September 1999 (applying on and after 8 September 1999), by [section 76(1)][2285] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
 
 ##### 185 Payment out of Crown Bank Account
     
@@ -23349,7 +23293,7 @@ Remission, relief, and refunds
         
     *   (a) by way of refund under this Act or the [Income Tax Act 2007][795] or the [Goods and Services Tax Act 1985][796]; or
     
-    *   (b) under [sections LA 6][1822] and [LF 8][2289] of the Income Tax Act 2007 by way of a refund of FDP credit; or
+    *   (b) under [sections LA 6][1822] and [LF 8][2286] of the Income Tax Act 2007 by way of a refund of FDP credit; or
     
     *   (c) by way of interest under this Act; or
     
@@ -23371,23 +23315,23 @@ Remission, relief, and refunds
     
     Section 185(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 185(1)(a): amended, on 21 December 2004, by [section 140][2290] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 185(1)(a): amended, on 21 December 2004, by [section 140][2287] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 185(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 185(1)(c): substituted, on 26 July 1996, by [section 63][2291] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 185(1)(c): replaced, on 26 July 1996, by [section 63][2288] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
-    Section 185(1)(d): repealed, on 26 July 1996, by [section 63][2291] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 185(1)(d): repealed, on 26 July 1996, by [section 63][2288] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 185(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
     Section 185(1)(f): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 185(1)(g): added, on 3 April 2006, by [section 263][2292] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 185(1)(g): inserted, on 3 April 2006, by [section 263][2289] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
     Section 185(1)(g): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 185(2): added, on 20 May 1999 (applying on and after 20 May 1999), by [section 115(1)][2293] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
+    Section 185(2): inserted, on 20 May 1999 (applying on and after 20 May 1999), by [section 115(1)][2290] of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59).
     
     Section 185(2): amended, on 25 January 2005, pursuant to [section 65R(3)][868] of the Public Finance Act 1989(1989 No 44).
 
@@ -23403,25 +23347,25 @@ Remission, relief, and refunds
     
     *   (b) paragraph (d) had not been enacted.
     
-    Section 185B: inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 150(1)][2294] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 185B: inserted, on 26 March 2003 (applying for pay periods beginning on and after 1 April 2004), by [section 150(1)][2291] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ##### 185C Establishment of Listed PAYE Intermediary Bank Account
     
 *   An account called the Listed PAYE Intermediary Bank Account is established by this section.
     
-    Section 185C: inserted, on 3 April 2006, by [section 264][2295] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 185C: inserted, on 3 April 2006, by [section 264][2292] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
 
 ##### 185D Payments into, and out of, Listed PAYE Intermediary Bank Account
     
-*   (1) All payments received by the Commissioner from a listed PAYE intermediary and made under [sections RP 2 to RP 5][2296] of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
+*   (1) All payments received by the Commissioner from a listed PAYE intermediary and made under [sections RP 2 to RP 5][2293] of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
     
     (2) Such amount as is necessary to meet the payments required to be made under [section RP 4][853] of the Income Tax Act 2007 must be paid into the Listed PAYE Intermediary Bank Account.
     
     (3) The money standing to the credit of the Listed PAYE Intermediary Bank Account must be applied in making payments under [section RP 4][853] of the Income Tax Act 2007\.
     
-    Section 185D: inserted, on 3 April 2006, by [section 264][2295] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
+    Section 185D: inserted, on 3 April 2006, by [section 264][2292] of the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3).
     
-    Section 185D(1): substituted (with effect on 1 April 2008), on 6 October 2009, by [section 701][2297] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 185D(1): replaced (with effect on 1 April 2008), on 6 October 2009, by [section 701][2294] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 185D(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -23430,13 +23374,13 @@ Remission, relief, and refunds
 ## Part 11B  
 Foreign account information-sharing agreements
     
-*   Part 11B: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+*   Part 11B: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185E Purpose
     
 *   The purpose of this Part is to give effect to and implement foreign account information-sharing agreements.
     
-    Section 185E: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185E: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185F Permitted choices in relation to foreign account information-sharing agreements
     
@@ -23452,7 +23396,7 @@ Foreign account information-sharing agreements
     
     (4) The Commissioner must publish an appropriate notice of a choice made or revoked by the New Zealand government under the agreement in a publication chosen by the Commissioner.
     
-    (5) A person's permitted choice and a choice made by the New Zealand government under the agreement are treated as part of the agreement for the purposes of this Part and [section BH 1][2299] of the Income Tax Act 2007\.
+    (5) A person's permitted choice and a choice made by the New Zealand government under the agreement are treated as part of the agreement for the purposes of this Part and [section BH 1][2296] of the Income Tax Act 2007\.
     
     (6) Subsections (2) to (5) do not apply to a choice or course of action or inaction listed in subsection (7) (an **excluded choice**).
     
@@ -23466,19 +23410,19 @@ Foreign account information-sharing agreements
     
     *   (d) an election to report on accounts under Annex 1.V.A of the foreign account information-sharing agreement.
     
-    Section 185F: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185F: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185G Obligations related to foreign account information-sharing agreements: registration
     
 *   A person, as described in a foreign account information-sharing agreement (the **agreement**), is required to comply with the relevant registration requirements described or contemplated in the agreement.
     
-    Section 185G: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185G: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185H Obligations related to foreign account information-sharing agreements: due diligence
     
 *   A person, as described in a foreign account information-sharing agreement (the **agreement**), is required to apply the relevant due diligence procedures described or contemplated in the agreement.
     
-    Section 185H: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185H: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185I Obligations related to foreign account information-sharing agreements: information for NZ competent authority
     
@@ -23494,7 +23438,7 @@ Foreign account information-sharing agreements
     
     *   (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under [section 224][776].
     
-    Section 185I: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185I: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185J Obligations related to foreign account information-sharing agreements: information for third parties
     
@@ -23508,19 +23452,19 @@ Foreign account information-sharing agreements
     
     *   (b) regulations made by Order in Council by the Governor-General for the purposes of this Part under [section 224][776].
     
-    Section 185J: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185J: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185K Information provided in form prescribed by Commissioner
     
 *   The information in [section 185I(1)(a) and (b)][726] must be provided to the New Zealand competent authority in the prescribed form or electronic format.
     
-    Section 185K: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185K: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185L Foreign account information-sharing agreements: anti-avoidance
     
 *   If a person enters into an arrangement, and a main purpose of the person in entering into the arrangement is to avoid an obligation under this Part, then the arrangement is treated as having no effect for the purposes of applying this Part.
     
-    Section 185L: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185L: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 185M Timeframes not specified
     
@@ -23528,272 +23472,272 @@ Foreign account information-sharing agreements
     
     (2) If an instrument described in [section 185I(2)(a) and (b)][726] does not specify, or is discretionary as to, a time when the information in section 185I(1)(a) and (b) must be provided, then the information must be provided within 3 months of the end of the period that the information relates to.
     
-    Section 185M: inserted, on 1 July 2014, by [section 182][2298] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 185M: inserted, on 1 July 2014, by [section 182][2295] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ## Part 12  
 Offences and penalties
 
 \[Repealed\]
     
-*   Part 12: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Part 12: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Penal tax
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Heading: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 186 Penal tax for evasion of deficient tax
     
 *   \[Repealed\]
     
-    Section 186: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 186: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 187 Penal tax deemed to be of the same nature as deficient tax
     
 *   \[Repealed\]
     
-    Section 187: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 187: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 188 Assessment of penal tax
     
 *   \[Repealed\]
     
-    Section 188: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 188: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 189 Date for payment of penal tax
     
 *   \[Repealed\]
     
-    Section 189: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 189: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 190 Objections to assessments of penal tax
     
 *   \[Repealed\]
     
-    Section 190: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 190: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 191 Recovery of penal tax
     
 *   \[Repealed\]
     
-    Section 191: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 191: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 192 Recovery of penal tax from executors or administrators
     
 *   \[Repealed\]
     
-    Section 192: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 192: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 193 Recovery of penal tax not affected by conviction of taxpayer
     
 *   \[Repealed\]
     
-    Section 193: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 193: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 194 Penal tax for default in making or paying tax deduction
     
 *   \[Repealed\]
     
-    Section 194: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 194: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 195 Penal tax for failure to deduct specified superannuation contribution withholding tax
     
 *   \[Repealed\]
     
-    Section 195: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 195: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 196 Penal tax for default in making or paying resident withholding tax deductions
     
 *   \[Repealed\]
     
-    Section 196: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 196: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 197 Penal tax for default in making or paying deductions of non-resident withholding tax
     
 *   \[Repealed\]
     
-    Section 197: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 197: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Offences
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Heading: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 198 Offences relating to obstruction of departmental functions
     
 *   \[Repealed\]
     
-    Section 198: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 198: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 199 Penalty for failure to furnish returns, etc
     
 *   \[Repealed\]
     
-    Section 199: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 199: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 200 Offence for failure to provide information requested by Commissioner
     
 *   \[Repealed\]
     
-    Section 200: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 200: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 201 Offence for officers and employees of corporate bodies
     
 *   \[Repealed\]
     
-    Section 201: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 201: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 202 Further offences for officers and employees of corporate bodies
     
 *   \[Repealed\]
     
-    Section 202: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 202: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 203 Offence for failure of officers of department to maintain secrecy
     
 *   \[Repealed\]
     
-    Section 203: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 203: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 204 Offence for failure of other persons to maintain secrecy
     
 *   \[Repealed\]
     
-    Section 204: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 204: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 205 Secrecy requirements where information given by department
     
 *   \[Repealed\]
     
-    Section 205: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 205: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 206 Offences relating to tax deductions
     
 *   \[Repealed\]
     
-    Section 206: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 206: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 207 Offences for failure to deduct specified superannuation contribution withholding tax
     
 *   \[Repealed\]
     
-    Section 207: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 207: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 208 Offences relating to resident withholding tax
     
 *   \[Repealed\]
     
-    Section 208: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 208: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 209 Offences for failure to deduct non-resident withholding tax
     
 *   \[Repealed\]
     
-    Section 209: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 209: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 210 Offences relating to dividend withholding payments
     
 *   \[Repealed\]
     
-    Section 210: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 210: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 211 Offences for failure to make deductions
     
 *   \[Repealed\]
     
-    Section 211: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 211: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 212 Offences relating to family support
     
 *   \[Repealed\]
     
-    Section 212: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 212: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 213 Offences in relation to inquiry before a District Court Judge
     
 *   \[Repealed\]
     
-    Section 213: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 213: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 214 Offences in relation to inquiry by Commissioner
     
 *   \[Repealed\]
     
-    Section 214: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 214: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Proceedings
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Heading: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 215 Proceedings to be taken summarily
     
 *   \[Repealed\]
     
-    Section 215: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 215: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 216 Information may charge several offences
     
 *   \[Repealed\]
     
-    Section 216: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 216: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 217 Information may be laid within 10 years
     
 *   \[Repealed\]
     
-    Section 217: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 217: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 218 Authority to lay information
     
 *   \[Repealed\]
     
-    Section 218: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 218: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Evidence
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Heading: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 219 Evidence in proceedings for failure to furnish returns or information
     
 *   \[Repealed\]
     
-    Section 219: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 219: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 220 Evidence of financial or property transactions
     
 *   \[Repealed\]
     
-    Section 220: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 220: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 #### Penalties
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+*   Heading: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 221 Penalties for offences
     
 *   \[Repealed\]
     
-    Section 221: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 221: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 222 Penalties for failure to meet various tax obligations
     
 *   \[Repealed\]
     
-    Section 222: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 222: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ##### 223 Publication of names of tax evaders
     
 *   \[Repealed\]
     
-    Section 223: repealed, on 26 July 1996, by [section 64][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 223: repealed, on 26 July 1996, by [section 64][2297] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
 
 ## Part 13  
 Miscellaneous
@@ -23826,31 +23770,31 @@ Miscellaneous
     
     Compare: 1976 No 65 s 197H(7)(d), (e), (8)
     
-    Section 225 heading: substituted, on 21 December 2004, by [section 141(1)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225 heading: replaced, on 21 December 2004, by [section 141(1)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 225(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225(1): amended, on 21 December 2004, by [section 141(2)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225(1): amended, on 21 December 2004, by [section 141(2)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 225(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225(1)(a): amended, on 21 December 2004, by [section 141(2)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225(1)(a): amended, on 21 December 2004, by [section 141(2)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 225(1)(c): amended, on 1 July 1995, pursuant to [section 6(1)(b)][2302] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
+    Section 225(1)(c): amended, on 1 July 1995, pursuant to [section 6(1)(b)][2299] of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31).
     
     Section 225(1)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225(1)(d): amended, on 21 December 2004, by [section 141(2)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225(1)(d): amended, on 21 December 2004, by [section 141(2)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
-    Section 225(1)(d): amended, on 1 October 1996, by [section 65][2303] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
+    Section 225(1)(d): amended, on 1 October 1996, by [section 65][2300] of the Tax Administration Amendment Act (No 2) 1996 (1996 No 56).
     
     Section 225(1)(e): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225(1)(e): amended, on 21 December 2004, by [section 141(2)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225(1)(e): amended, on 21 December 2004, by [section 141(2)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 225(1)(f): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225(1)(f): amended, on 21 December 2004, by [section 141(2)][2301] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 225(1)(f): amended, on 21 December 2004, by [section 141(2)][2298] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 225AA Regulations: co-operative dairy and marketing companies
     
@@ -23862,13 +23806,13 @@ Miscellaneous
             
         *   (i) a co-operative dairy company:
         
-        *   (ii) a co-operative milk marketing company, as defined in [section 2][2304] of the Co-operative Companies Act 1956:
+        *   (ii) a co-operative milk marketing company, as defined in [section 2][2301] of the Co-operative Companies Act 1956:
         
-        *   (iii) a co-operative pig marketing company, as defined in [section 2][2304] of the Co-operative Companies Act 1956; and
+        *   (iii) a co-operative pig marketing company, as defined in [section 2][2301] of the Co-operative Companies Act 1956; and
         
         
     
-    *   (b) is registered under [Part 2][2305] or [Part 3][2306] of the Co-operative Companies Act 1996; and
+    *   (b) is registered under [Part 2][2302] or [Part 3][2303] of the Co-operative Companies Act 1996; and
     
     *   (c) was in existence at the start of the 1988--89 income year; and
     
@@ -23884,7 +23828,7 @@ Miscellaneous
     
     (4) The regulations made may apply different rules in relation to different classes of companies.
     
-    Compare: 2004 No 35 [s OC 4][2307]
+    Compare: 2004 No 35 [s OC 4][2304]
     
     Section 225AA: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
@@ -23912,11 +23856,11 @@ Miscellaneous
         
         
     
-    (3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][2308] and must be presented to the House of Representatives under [section 41][2309] of that Act.
+    (3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][2305] and must be presented to the House of Representatives under [section 41][2306] of that Act.
     
-    Section 225A: substituted, on 24 May 1999 (applying on and after 1 October 1999), by [section 21][2310] of the Taxation (Parental Tax Credit) Act 1999 (1999 No 62).
+    Section 225A: replaced, on 24 May 1999 (applying on and after 1 October 1999), by [section 21][2307] of the Taxation (Parental Tax Credit) Act 1999 (1999 No 62).
     
-    Section 225A heading: amended, on 1 April 2008, by [section 267(1)][2311] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 225A heading: amended, on 1 April 2008, by [section 267(1)][2308] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
     Section 225A(1)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
@@ -23926,19 +23870,19 @@ Miscellaneous
     
     Section 225A(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 225A(2)(b)(iii): amended (with effect on 1 April 2008), on 6 October 2009, by [section 702(1)][2312] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 225A(2)(b)(iii): amended (with effect on 1 April 2008), on 6 October 2009, by [section 702(1)][2309] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 225A(2)(b)(iii): amended, on 1 April 2008, by [section 267(2)][2311] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 225A(2)(b)(iii): amended, on 1 April 2008, by [section 267(2)][2308] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 225A(2)(b)(iv): amended (with effect on 1 April 2008), on 6 October 2009, by [section 702(2)][2312] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 225A(2)(b)(iv): amended (with effect on 1 April 2008), on 6 October 2009, by [section 702(2)][2309] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 225A(2)(b)(iv): amended, on 1 April 2008, by [section 267(3)][2311] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 225A(2)(b)(iv): amended, on 1 April 2008, by [section 267(3)][2308] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 225A(3): replaced, on 5 August 2013, by [section 77(3)][2313] of the Legislation Act 2012 (2012 No 119).
+    Section 225A(3): replaced, on 5 August 2013, by [section 77(3)][2310] of the Legislation Act 2012 (2012 No 119).
 
 ##### 225B Order in Council amending Schedule 27
     
-*   (1) The Governor-General may from time to time, by Order in Council, amend [Schedule 27][2314] of the Income Tax Act 2007 by---
+*   (1) The Governor-General may from time to time, by Order in Council, amend [Schedule 27][2311] of the Income Tax Act 2007 by---
         
     *   (a) adding a country or territory outside New Zealand:
     
@@ -23950,19 +23894,19 @@ Miscellaneous
     
     (2) An amendment by Order in Council under subsection (1)(a) or (b) is repealed on 31 December in the tax year following the tax year in which the Order in Council is made, unless Parliament otherwise enacts.
     
-    Compare: 2004 No 35 [s LC 1A(1), (2)][2315]
+    Compare: 2004 No 35 [s LC 1A(1), (2)][2312]
     
     Section 225B: inserted, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 225C Order in Council amending Schedule 38 of Income Tax Act 2007
     
-*   The Governor-General may, from time to time, by Order in Council, amend [Schedule 38][2316] of the Income Tax Act 2007 by---
+*   The Governor-General may, from time to time, by Order in Council, amend [Schedule 38][2313] of the Income Tax Act 2007 by---
         
     *   (a) adding a statute, if the statute provides for an exemption from income tax, for salary or wages, that is to be ignored in determining the family scheme income of a person for an income year:
     
     *   (b) removing a statute.
     
-    Section 225C: inserted, on 1 April 2011, by [section 162][2317] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    Section 225C: inserted, on 1 April 2011, by [section 162][2314] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
 
 ##### 225D Regulations: community housing trusts and companies
     
@@ -23980,7 +23924,7 @@ Miscellaneous
     
     (3) Regulations made under this section are treated as coming into force on a day specified for that purpose in the Order in Council, but that day must not be earlier than 14 April 2014\.
     
-    Section 225D: inserted (with effect on 14 April 2014), on 30 June 2014, by [section 183][2318] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
+    Section 225D: inserted (with effect on 14 April 2014), on 30 June 2014, by [section 183][2315] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
 
 ##### 226 Power to extend time for doing anything under Act
     
@@ -23992,11 +23936,11 @@ Miscellaneous
     
     Section 226(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 226(1): amended, on 21 December 2004, by [section 142][2319] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 226(1): amended, on 21 December 2004, by [section 142][2316] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
     
     Section 226(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 226(2): amended, on 21 December 2004, by [section 142][2319] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
+    Section 226(2): amended, on 21 December 2004, by [section 142][2316] of the Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111).
 
 ##### 226B Business group amnesties
     
@@ -24066,7 +24010,7 @@ Miscellaneous
     
     (12) The Minister must lay a copy of the report before the House of Representatives at the same time as the report under [section 141L][583].
     
-    Section 226B: inserted, on 19 December 2007, by [section 268][2320] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section 226B: inserted, on 19 December 2007, by [section 268][2317] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ##### 226C Secure credit or debit card payments and fees
     
@@ -24078,16 +24022,16 @@ Miscellaneous
     
     (4) Despite subsection (3), the Governor-General may from time to time, by Order in Council, change the fee, with effect from a date specified in the Order in Council.
     
-    Section 226C: inserted, on 29 August 2011, by [section 190][2321] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
+    Section 226C: inserted, on 29 August 2011, by [section 190][2318] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 226C(3): amended, on 2 November 2012, by [section 205][2322] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
+    Section 226C(3): amended, on 2 November 2012, by [section 205][2319] of the Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88).
 
 ## Part 14  
 Transitional provisions and savings
 
 ##### 227 Transitional provisions and savings
     
-*   (1) The continuity of the operation of the law relating to income tax and every other tax imposed under the enactments repealed by section YB 3 of the [Income Tax Act 1994][2323] (in this section referred to as the _repealed enactments_) shall not be affected by the substitution of this Act, the Income Tax Act 1994, and the [Taxation Review Authorities Act 1994][860] for the repealed enactments.
+*   (1) The continuity of the operation of the law relating to income tax and every other tax imposed under the enactments repealed by section YB 3 of the [Income Tax Act 1994][2320] (in this section referred to as the _repealed enactments_) shall not be affected by the substitution of this Act, the Income Tax Act 1994, and the [Taxation Review Authorities Act 1994][860] for the repealed enactments.
     
     (2) For all purposes in respect of any tax which at the commencement of this Act has been already assessed or paid or is still assessable or payable in or for the 1994--95 tax year or any previous tax year in accordance with the provisions of the repealed enactments, all the provisions of those enactments, including their penal provisions, and all regulations, warrants, and other acts of authority originating under them, shall, notwithstanding the repeal of those enactments, be deemed to remain in full force and effect; and all proceedings under any of those enactments, including proceedings for the recovery of any fine or penalty in respect of any offence committed, whether before or after the commencement of this Act, may be instituted or continued accordingly as if the enactment concerned had not been repealed.
     
@@ -24105,7 +24049,7 @@ Transitional provisions and savings
     
 *   The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue is deemed to have been appointed Commissioner of Inland Revenue under [section 6A][12].
     
-    Section 228: substituted (with effect on 1 April 1995), on 2 September 1996, by [section 43][2324] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
+    Section 228: replaced (with effect on 1 April 1995), on 2 September 1996, by [section 43][2321] of the Taxation (Remedial Provisions) Act 1996 (1996 No 159).
 
 ##### 229 References to department, etc
     
@@ -24150,9 +24094,9 @@ Inland Revenue Acts
 
 [Estate and Gift Duties Act 1968][1687]
 
-[Estate Duty Abolition Act 1993][2325]
+[Estate Duty Abolition Act 1993][2322]
 
-[Estate Duty Repeal Act 1999][2326]
+[Estate Duty Repeal Act 1999][2323]
 
 [Gaming Duties Act 1971][1688]
 
@@ -24166,13 +24110,13 @@ Income Tax Act 1994
 
 [KiwiSaver Act 2006][855]
 
-[Land Tax Abolition Act 1990][2327]
+[Land Tax Abolition Act 1990][2324]
 
 [Stamp and Cheque Duties Act 1971][1691]
 
-[Stamp Duty Abolition Act 1999][2328]
+[Stamp Duty Abolition Act 1999][2325]
 
-[Student Loan Scheme Act 1992][2329]
+[Student Loan Scheme Act 1992][2326]
 
 [Student Loan Scheme Act 2011][904]
 
@@ -24185,8 +24129,8 @@ Tax Administration Act 1994
 *   Schedule: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, unless the context requires otherwise), by [section ZA 2][864] of the Income Tax Act 2007 (2007 No 97).
 *   Schedule: amended, on 1 December 2006, by [section 231][874] of the KiwiSaver Act 2006 (2006 No 40).
 *   Schedule: amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][791] of the Income Tax Act 2004 (2004 No 35).
-*   Schedule: amended, on 24 May 1999 (applying on and after 24 May 1999), by [section 17][2330] of the Estate Duty Repeal Act 1999 (1999 No 64).
-*   Schedule: amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 10(1)][2331] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+*   Schedule: amended, on 24 May 1999 (applying on and after 24 May 1999), by [section 17][2327] of the Estate Duty Repeal Act 1999 (1999 No 64).
+*   Schedule: amended, on 20 May 1999 (applying on and after 20 May 1999), by [section 10(1)][2328] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ---
 
@@ -24198,7 +24142,7 @@ Commencement26 July 1996
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Tax Administration Amendment Act (No 2) 1996][2332], and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the ""principal Act"").
+*   This Act may be cited as the [Tax Administration Amendment Act (No 2) 1996][2329], and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the ""principal Act"").
 
 ##### 2 Application date for provisions in this Act
     
@@ -24270,7 +24214,7 @@ Commencement23 September 1997
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Taxation (Remedial Provisions) Act 1997][2333].
+*   This Act may be cited as the [Taxation (Remedial Provisions) Act 1997][2330].
 
 ## Part 2  
 Amendments to Tax Administration Act 1994
@@ -24315,7 +24259,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001][2334].
+*   This Act is the [Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001][2331].
 
 ##### 2 Commencement
     
@@ -24352,7 +24296,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002][2335].
+*   This Act is the [Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002][2332].
 
 ##### 2 Commencement
     
@@ -24405,7 +24349,7 @@ Amendments to Tax Administration Act 1994
     
     (4) Subsection (3)(b) does not apply to outstanding tax that is written off before 1 December 2002 if the Commissioner reverses the write-off of the tax on or after 1 December 2002\.
     
-    Section 92(4): amended, on 17 October 2002, by [section 176][2336] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
+    Section 92(4): amended, on 17 October 2002, by [section 176][2333] of the Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5).
 
 ---
 
@@ -24586,7 +24530,7 @@ Commencementsee section A 2
     
     Compare: 2004 No 35 s A 2
     
-    Section A 2(1B): inserted, on 1 April 2008, by [section 307][2337] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
+    Section A 2(1B): inserted, on 1 April 2008, by [section 307][2334] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
 
 ## Part Z  
 Repeals, amendments, and savings
@@ -24764,7 +24708,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][2338].
+*   This Act is the [Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009][2335].
 
 ##### 2 Commencement
     
@@ -25060,7 +25004,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012][2339].
+*   This Act is the [Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012][2336].
 
 ##### 2 Commencement
     
@@ -25163,30 +25107,6 @@ Amendments to Tax Administration Act 1994
     
     (6) Subsection (3) applies for the 2008--09 and later income years.
 
----
-
-# Cheque Duty Repeal Act 2014Public Act2014 No 29
-
-Date of assent19 May 2014
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Cheque Duty Repeal Act 2014][2340].
-
-##### 2 Commencement
-    
-*   (1) Sections 3 and 4 come into force on 1 July 2014\.
-    
-    (2) Section 5 comes into force on 22 July 2014\.
-
-##### 4 Tax Administration Act 1994 amended consequential to cheque duty repeal
-    
-*   (1) _Amendment(s) incorporated in the Act(s)_.
-    
-    (2) For the purposes of section 144(1)(d) and (e) of the Tax Administration Act 1994, a bank or printer that has its licence cancelled under section 3(2) of this Act is treated as licensed under section 81, or section 82 (as the case may be) of the Stamp and Cheque Duties Act 1971 despite section 3 of this Act.
-
 #### 
 
 ---
@@ -25199,17 +25119,17 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2341] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][2342] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][2337] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][2338] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2343] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2344] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][2339] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][2340] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39): [sections 151--183][877]
     
-    Cheque Duty Repeal Act 2014 (2014 No 29): [section 4(1)][2127]
+    Cheque Duty Repeal Act 2014 (2014 No 29): [section 5(4)][2125]
     
     Taxation (Annual Rates, Foreign Superannuation, and Remedial Matters) Act 2014 (2014 No 4): [sections 133--139][981]
     
@@ -25223,17 +25143,17 @@ Commencementsee section 2
     
     Student Loan Scheme Amendment Act 2013 (2013 No 10): [section 52][897]
     
-    [Tax Administration Amendment Act 2013][2345] (2013 No 2)
+    [Tax Administration Amendment Act 2013][2341] (2013 No 2)
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][2313]
+    Legislation Act 2012 (2012 No 119): [section 77(3)][2310]
     
-    Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88): [sections 170(1)--(3), (5), (6)][893], [171(1), (2), (4)][1024], [172--175][1036], [178][1182], [182][1197], [186--188][1288], [194--196][1677], [199][1784], [202--205][2120]
+    Taxation (Annual Rates, Returns Filing, and Remedial Matters) Act 2012 (2012 No 88): [Part 3][2342]
     
     Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][872]
     
-    Taxation (Budget Measures) Act 2012 (2012 No 38): [Part 2][2346]
+    Taxation (Budget Measures) Act 2012 (2012 No 38): [Part 2][2343]
     
-    Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [Part 2][2347]
+    Taxation (International Investment and Remedial Matters) Act 2012 (2012 No 34): [Part 2][2344]
     
     Student Loan Scheme Amendment Act 2012 (2012 No 32): [section 58][1468]
     
@@ -25241,11 +25161,11 @@ Commencementsee section 2
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][1460]
     
-    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [sections 141--190][2348]
+    Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63): [Part 2][2345]
     
     Student Loan Scheme Act 2011 (2011 No 62): [section 223][896]
     
-    [Tax Administration Amendment Act 2011][2349] (2011 No 49)
+    [Tax Administration Amendment Act 2011][2346] (2011 No 49)
     
     Taxation (Canterbury Earthquake Measures) Act 2011 (2011 No 24): [section 12][1684]
     
@@ -25253,25 +25173,25 @@ Commencementsee section 2
     
     Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][1554]
     
-    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [sections 143--154][890], [156--162][2012], [189][901]
+    Taxation (GST and Remedial Matters) Act 2010 (2010 No 130): [Part 3][2347], [section 189][901]
     
-    Limitation Act 2010 (2010 No 110): [section 58][2160]
+    Limitation Act 2010 (2010 No 110): [section 58][2158]
     
-    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [sections 126--130][876], [132--169][1133], [171--173][2054]
+    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [Part 3][2348]
     
-    Taxation (Budget Measures) Act 2010 (2010 No 27): [sections 42][1095], [43][2033], [55][2016], [56][2248], [73][1194], [100][2217]
+    Taxation (Budget Measures) Act 2010 (2010 No 27): [sections 42][1095], [43][2033], [55][2016], [56][2246], [73][1194], [100][2215]
     
-    Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010 (2010 No 3): [sections 28][1188], [29][2350]
+    Student Loan Scheme (Exemptions and Miscellaneous Provisions) Amendment Act 2010 (2010 No 3): [sections 28][1188], [29][2349]
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 49][1521]
     
-    Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): [sections 128--132][878], [134--143][1178]
+    Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 (2009 No 63): [Part 2][2350]
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][1061]
     
     Sentencing (Offender Levy) Amendment Act 2009 (2009 No 42): [section 10][2351]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [sections 596--611][881], [613--618][1118], [620--624][1200], [626--670][1306], [672--674][2018], [678--702][2035]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [Part 2][2352]
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][1147]
     
@@ -25279,7 +25199,7 @@ Commencementsee section 2
     
     Taxation (Business Tax Measures) Act 2009 (2009 No 5): [section 23][1907]
     
-    Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105): [sections 16][1045], [17][1177], [26][1246], [39][1043], [40][2216]
+    Taxation (Urgent Measures and Annual Rates) Act 2008 (2008 No 105): [sections 16][1045], [17][1177], [26][1246], [39][1043], [40][2214]
     
     Policing Act 2008 (2008 No 72): [section 130(1)][1541]
     
@@ -25287,85 +25207,85 @@ Commencementsee section 2
     
     Taxation (Limited Partnerships) Act 2008 (2008 No 2): [sections 28][1029], [29][1240]
     
-    Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 14--23][895], [25][2267]
+    Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 14--23][895], [25][2265]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [sections 188][871], [189][1020], [192--194][1094], [196--200][1163], [202][1226], [203][1236], [205][1289], [206][1292], [209--228][1338], [230--232][1701], [234--246][1847], [250--265][2042], [267][2311], [268][2320]
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [Part 2][2353]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2][864]
     
-    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [sections 53][1186], [54][2352], [56][1335]
+    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [sections 53][1186], [54][2354], [56][1335]
     
     Student Loan Scheme Amendment Act 2007 (2007 No 13): [section 44][1518]
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 169--175][886], [178][1108], [183][1174], [189--191][1472], [193--199][1669]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [Part 2][2355]
     
     Child Support Amendment Act 2006 (2006 No 42): [sections 51][1466], [52][1540]
     
     KiwiSaver Act 2006 (2006 No 40): [section 231][874]
     
-    [Tax Administration Amendment Act 2006][2353] (2006 No 14)
+    [Tax Administration Amendment Act 2006][2356] (2006 No 14)
     
-    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [sections 210--214][866], [217--224][1215], [226][1331], [229--244][1373], [246][1928], [247][2026], [250][2050], [251][2069], [253--256][2103], [259][2201], [260][2202], [262--264][2272]
+    Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006 (2006 No 3): [Part 2][2357]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][992]
     
     Taxation (Urgent Measures) Act 2005 (2005 No 121): [sections 9--11][899]
     
-    Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79): [sections 120--122][865], [125][1091], [127][1206], [129][1295], [130][1299], [133--143][1476], [145--150][1888]
+    Taxation (Base Maintenance and Miscellaneous Provisions) Act 2005 (2005 No 79): [Part 3][2358]
     
     Public Records Act 2005 (2005 No 40): [section 67(1)][1553]
     
-    Charities Act 2005 (2005 No 39): [sections 70][2354], [71][2355]
+    Charities Act 2005 (2005 No 39): [sections 70][2359], [71][2360]
     
-    [Tax Administration Amendment Act 2005][2356] (2005 No 22)
+    [Tax Administration Amendment Act 2005][2361] (2005 No 22)
     
-    Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111): [sections 88][879], [90--110][1191], [112--119][1756], [121--123][2357], [125--129][2040], [134--142][2196]
+    Taxation (Venture Capital and Miscellaneous Provisions) Act 2004 (2004 No 111): [Part 2][2362]
     
     Taxation (Working for Families) Act 2004 (2004 No 52): [section 27][1527]
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][791]
     
-    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [sections 103][894], [105--107][977], [109][1247], [111][1330], [113--125][1357], [128][2006], [129][2072], [132--134][2099], [136--138][2178]
+    Taxation (GST, Trans-Tasman Imputation and Miscellaneous Provisions) Act 2003 (2003 No 122): [Part 2][2363]
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14][1464]
     
-    Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [sections 82--85][863], [87--92][1038], [96--98][1290], [100--102][1349], [104--121][1398], [123--128][2045], [130--137][2081], [139--147][2139], [149][2259], [150][2294]
+    Taxation (Maori Organisations, Taxpayer Compliance and Miscellaneous Provisions) Act 2003 (2003 No 5): [Part 2][2364]
     
-    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [sections 73--75][862], [77--80][1245], [82--84][1703], [86--94][1958]
+    Taxation (Relief, Refunds and Miscellaneous Provisions) Act 2002 (2002 No 32): [Part 2][2365]
     
-    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 189--193][880], [196--208][1244], [210--215][1761], [217--221][1858], [223--225][1965], [227][2044], [229][2358], [231][2173], [236][1820]
+    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [Part 2][2366]
     
     Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 338][902]
     
-    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [sections 44][889], [45][936], [47--49][1190], [52--56][2067]
+    Taxation (Beneficiary Income of Minors, Services-Related Payments and Remedial Matters) Act 2001 (2001 No 4): [Part 2][2367]
     
     Social Welfare (Transitional Provisions) Amendment Act 2000 (2000 No 88): [section 9][1516]
     
-    Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39): [sections 60][900], [61][1184], [65][1394], [67--69][1406], [71][1938], [73][2027], [75][2111], [79][2260], [80][2285]
+    Taxation (GST and Miscellaneous Provisions) Act 2000 (2000 No 39): [Part 2][2368]
     
-    Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34): [sections 34--38][882]
+    Taxation (FBT, SSCWT and Remedial Matters) Act 2000 (2000 No 34): [Part 2][2369]
     
     Accident Insurance Amendment Act 2000 (2000 No 6): section 9(1)
     
-    Taxation (Tax Rate Increase) Act 1999 (1999 No 143): [section 16][2359]
+    Taxation (Tax Rate Increase) Act 1999 (1999 No 143): [section 16][2370]
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][884]
     
-    Taxation (Remedial Matters) Act 1999 (1999 No 98): [sections 58--62][898], [65][1389], [67--69][1395], [71--73][1927], [75][2287], [76][2288]
+    Taxation (Remedial Matters) Act 1999 (1999 No 98): [Part 2][2371]
     
-    Estate Duty Repeal Act 1999 (1999 No 64): [section 17][2330]
+    Estate Duty Repeal Act 1999 (1999 No 64): [section 17][2327]
     
-    Taxation (Parental Tax Credit) Act 1999 (1999 No 62): [sections 15][883], [17][1225], [18][1272], [21][2310]
+    Taxation (Parental Tax Credit) Act 1999 (1999 No 62): [Part 2][2372]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 7][887], [10][2331]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [sections 7][887], [10][2328]
     
-    Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59): [sections 62--64][869], [66--79][1212], [81--87][1708], [89--99][1733], [101--105][1833], [107][1968], [108][1974], [110--115][1992]
+    Taxation (Accrual Rules and Other Remedial Matters) Act 1999 (1999 No 59): [Part 2][2373]
     
     Accident Insurance Act 1998 (1998 No 114): section 416
     
-    Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107): [sections 25--27][891], [29][1718], [30][1735]
+    Taxation (Tax Credits, Trading Stock, and Other Remedial Matters) Act 1998 (1998 No 107): [Part 2][2374]
     
-    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [sections 3--6][867], [9--14][1170], [16][1222], [19][1268], [21--25][1291], [27--36][1816], [38--41][2189]
+    Taxation (Simplification and Other Remedial Matters) Act 1998 (1998 No 101): [Part 1][2375]
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][1465]
     
@@ -25373,21 +25293,21 @@ Commencementsee section 2
     
     Rating Valuations Act 1998 (1998 No 69): [section 54(1)][1953]
     
-    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [sections 41][2360], [43][1211], [48][2273]
+    Taxation (Remedial Provisions) Act 1998 (1998 No 7): [sections 41][2376], [43][1211], [48][2271]
     
     Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][1264]
     
-    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [sections 68--82][873], [84][1914], [86--89][1933], [91--96][2029], [98][2105], [99][2149], [102][2225], [104][2250], [106][2271], [107][2276], [143][1998], [144][1925]
+    Taxation (Remedial Provisions) Act 1997 (1997 No 74): [Part 2][2377], [sections 143][1998], [144][1925]
     
-    [Tax Administration Amendment Act 1997][2361] (1997 No 70)
+    [Tax Administration Amendment Act 1997][2378] (1997 No 70)
     
-    Taxation (Superannuitant Surcharge Abolition) Act 1997 (1997 No 59): [sections 12][892], [14][1266], [15][1778]
+    Taxation (Superannuitant Surcharge Abolition) Act 1997 (1997 No 59): [Part 2][2379]
     
-    Taxation (Remedial Provisions) Act 1996 (1996 No 159): [sections 41--44][1129]
+    Taxation (Remedial Provisions) Act 1996 (1996 No 159): [Part 3][2380]
     
-    Taxation (Core Provisions) Act 1996 (1996 No 67): sections 430--432, 441, 442, 447, 449, 450, 452--454, 456, 457, 461, 465, 469--472, 474(2), 475(3), (4), 477, 483(3)
+    Taxation (Core Provisions) Act 1996 (1996 No 67): Part 2
     
-    [Tax Administration Amendment Act (No 2) 1996][2332] (1996 No 56)
+    [Tax Administration Amendment Act (No 2) 1996][2329] (1996 No 56)
     
     Tax Administration Amendment Act 1996 (1996 No 19)
     
@@ -25395,7 +25315,7 @@ Commencementsee section 2
     
     Tax Administration Amendment Act (No 2) 1995 (1995 No 72)
     
-    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(b)][2302]
+    Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(b)][2299]
     
     Tax Administration Amendment Act 1995 (1995 No 24)
     
@@ -27530,240 +27450,259 @@ Commencementsee section 2
 [2122]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107184
 [2123]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389032
 [2124]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM244431
-[2125]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM400698
-[2126]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM400800
-[2127]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM6110416
-[2128]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM356085
-[2129]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370444
-[2130]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370445
-[2131]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172255
-[2132]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389033
-[2133]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267043
-[2134]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267025
-[2135]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM82290
-[2136]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM242775
-[2137]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392997
-[2138]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2178963
-[2139]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186786
-[2140]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM414821
-[2141]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM413766
-[2142]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM444051
-[2143]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM367767
-[2144]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM102837
-[2145]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267506
-[2146]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1306559
-[2147]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520174
-[2148]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1307450
-[2149]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412933
-[2150]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389034
-[2151]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186787
-[2152]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29310
-[2153]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107185
-[2154]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392998
-[2155]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3123574
-[2156]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392999
-[2157]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3819763
-[2158]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393200
-[2159]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2033100
-[2160]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2033287
-[2161]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM261466
-[2162]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3186460
-[2163]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517897
-[2164]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518131
-[2165]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518147
-[2166]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186790
-[2167]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1308033
-[2168]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517691
-[2169]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518635
-[2170]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519771
-[2171]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519776
-[2172]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520418
-[2173]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM116822
-[2174]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517436
-[2175]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM264381
-[2176]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM323545
-[2177]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186792
-[2178]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232917
-[2179]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393202
-[2180]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186793
-[2181]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM46208
-[2182]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM269031
-[2183]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM204851
-[2184]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM45599
-[2185]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186794
-[2186]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393203
-[2187]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232918
-[2188]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393204
-[2189]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431991
-[2190]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29311
-[2191]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736264
-[2192]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2226663
-[2193]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401686
-[2194]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2517750
-[2195]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149716
-[2196]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326428
-[2197]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401687
-[2198]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401688
-[2199]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186795
-[2200]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519837
-[2201]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370450
-[2202]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370451
-[2203]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29331
-[2204]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186797
-[2205]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393206
-[2206]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393207
-[2207]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149747
-[2208]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736266
-[2209]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736267
-[2210]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736268
-[2211]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736270
-[2212]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401689
-[2213]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518593
-[2214]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1328000
-[2215]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736271
-[2216]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1764988
-[2217]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2981206
-[2218]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3986009
-[2219]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326429
-[2220]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1513450
-[2221]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1515343
-[2222]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149757
-[2223]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2266401
-[2224]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326430
-[2225]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412938
-[2226]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393210
-[2227]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518839
-[2228]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518751
-[2229]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518772
-[2230]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518782
-[2231]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519474
-[2232]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519484
-[2233]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519714
-[2234]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393211
-[2235]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM350150
-[2236]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401690
-[2237]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519382
-[2238]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519357
-[2239]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519370
-[2240]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186798
-[2241]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232919
-[2242]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519400
-[2243]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519402
-[2244]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326431
-[2245]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393213
-[2246]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401691
-[2247]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM85512
-[2248]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2981099
-[2249]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3324224
-[2250]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412940
-[2251]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326433
-[2252]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401692
-[2253]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107186
-[2254]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172256
-[2255]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431992
-[2256]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2266402
-[2257]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149759
-[2258]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86453
-[2259]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187101
-[2260]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM70845
-[2261]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86454
-[2262]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29334
-[2263]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3653503
-[2264]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3945140
-[2265]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431993
-[2266]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326434
-[2267]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107188
-[2268]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172257
-[2269]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393215
-[2270]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2178964
-[2271]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412946
-[2272]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370453
-[2273]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM424946
-[2274]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401693
-[2275]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520420
-[2276]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412948
-[2277]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5166112
-[2278]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3996301
-[2279]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389042
-[2280]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389065
-[2281]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3819764
-[2282]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM400676
-[2283]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3885563
-[2284]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431994
-[2285]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM70846
-[2286]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86455
-[2287]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM39094
-[2288]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM39095
-[2289]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518093
-[2290]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326435
-[2291]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393216
-[2292]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370454
-[2293]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29336
-[2294]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187102
-[2295]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370455
-[2296]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520503
-[2297]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401694
-[2298]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736272
-[2299]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1512385
-[2300]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393217
-[2301]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326436
-[2302]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM366838
-[2303]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393218
-[2304]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376816
-[2305]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376831
-[2306]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376876
-[2307]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM276581
-[2308]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2997643
-[2309]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998573
-[2310]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30028
-[2311]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172259
-[2312]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401695
-[2313]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998633
-[2314]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1523389
-[2315]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM266311
-[2316]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3683727
-[2317]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3425834
-[2318]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736283
-[2319]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326437
-[2320]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172260
-[2321]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389036
-[2322]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3986010
-[2323]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1184504
-[2324]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM407425
-[2325]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM293076
-[2326]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30070
-[2327]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM214669
-[2328]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29365
-[2329]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM286951
-[2330]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30507
-[2331]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29381
-[2332]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392948
-[2333]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412336
-[2334]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM85952
-[2335]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149037
-[2336]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187143
-[2337]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172356
-[2338]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1400100
-[2339]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3985802
-[2340]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM6110404
-[2341]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998516
-[2342]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998515
-[2343]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998532
-[2344]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[2345]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5020500
-[2346]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM4482533
-[2347]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3324213
-[2348]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3388879
-[2349]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3558805
-[2350]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2238019
+[2125]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM6110417
+[2126]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM356085
+[2127]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370444
+[2128]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370445
+[2129]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172255
+[2130]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389033
+[2131]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267043
+[2132]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267025
+[2133]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM82290
+[2134]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM242775
+[2135]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392997
+[2136]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2178963
+[2137]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186786
+[2138]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM414821
+[2139]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM413766
+[2140]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM444051
+[2141]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM367767
+[2142]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM102837
+[2143]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM267506
+[2144]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1306559
+[2145]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520174
+[2146]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1307450
+[2147]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412933
+[2148]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389034
+[2149]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186787
+[2150]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29310
+[2151]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107185
+[2152]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392998
+[2153]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3123574
+[2154]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392999
+[2155]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3819763
+[2156]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393200
+[2157]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2033100
+[2158]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2033287
+[2159]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM261466
+[2160]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3186460
+[2161]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517897
+[2162]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518131
+[2163]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518147
+[2164]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186790
+[2165]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1308033
+[2166]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517691
+[2167]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518635
+[2168]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519771
+[2169]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519776
+[2170]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520418
+[2171]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM116822
+[2172]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1517436
+[2173]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM264381
+[2174]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM323545
+[2175]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186792
+[2176]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232917
+[2177]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393202
+[2178]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186793
+[2179]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM46208
+[2180]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM269031
+[2181]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM204851
+[2182]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM45599
+[2183]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186794
+[2184]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393203
+[2185]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232918
+[2186]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393204
+[2187]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431991
+[2188]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29311
+[2189]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736264
+[2190]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2226663
+[2191]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401686
+[2192]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2517750
+[2193]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149716
+[2194]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326428
+[2195]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401687
+[2196]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401688
+[2197]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186795
+[2198]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519837
+[2199]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370450
+[2200]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370451
+[2201]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29331
+[2202]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186797
+[2203]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393206
+[2204]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393207
+[2205]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149747
+[2206]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736266
+[2207]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736267
+[2208]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736268
+[2209]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736270
+[2210]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401689
+[2211]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518593
+[2212]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1328000
+[2213]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736271
+[2214]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1764988
+[2215]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2981206
+[2216]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3986009
+[2217]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326429
+[2218]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1513450
+[2219]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1515343
+[2220]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149757
+[2221]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2266401
+[2222]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326430
+[2223]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412938
+[2224]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393210
+[2225]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518839
+[2226]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518751
+[2227]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518772
+[2228]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518782
+[2229]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519474
+[2230]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519484
+[2231]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519714
+[2232]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393211
+[2233]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM350150
+[2234]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401690
+[2235]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519382
+[2236]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519357
+[2237]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519370
+[2238]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186798
+[2239]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232919
+[2240]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519400
+[2241]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1519402
+[2242]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326431
+[2243]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393213
+[2244]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401691
+[2245]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM85512
+[2246]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2981099
+[2247]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3324224
+[2248]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412940
+[2249]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326433
+[2250]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401692
+[2251]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107186
+[2252]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172256
+[2253]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431992
+[2254]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2266402
+[2255]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149759
+[2256]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86453
+[2257]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187101
+[2258]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM70845
+[2259]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86454
+[2260]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29334
+[2261]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3653503
+[2262]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3945140
+[2263]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431993
+[2264]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326434
+[2265]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1107188
+[2266]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172257
+[2267]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393215
+[2268]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2178964
+[2269]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412946
+[2270]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370453
+[2271]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM424946
+[2272]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401693
+[2273]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520420
+[2274]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412948
+[2275]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5166112
+[2276]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3996301
+[2277]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389042
+[2278]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389065
+[2279]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3819764
+[2280]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3885563
+[2281]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431994
+[2282]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM70846
+[2283]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86455
+[2284]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM39094
+[2285]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM39095
+[2286]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1518093
+[2287]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326435
+[2288]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393216
+[2289]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370454
+[2290]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29336
+[2291]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187102
+[2292]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370455
+[2293]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1520503
+[2294]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401694
+[2295]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736272
+[2296]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1512385
+[2297]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393217
+[2298]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326436
+[2299]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM366838
+[2300]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM393218
+[2301]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376816
+[2302]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376831
+[2303]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM376876
+[2304]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM276581
+[2305]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2997643
+[2306]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998573
+[2307]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30028
+[2308]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172259
+[2309]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401695
+[2310]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998633
+[2311]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1523389
+[2312]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM266311
+[2313]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3683727
+[2314]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3425834
+[2315]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5736283
+[2316]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326437
+[2317]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172260
+[2318]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3389036
+[2319]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3986010
+[2320]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1184504
+[2321]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM407425
+[2322]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM293076
+[2323]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30070
+[2324]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM214669
+[2325]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29365
+[2326]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM286951
+[2327]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30507
+[2328]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM29381
+[2329]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM392948
+[2330]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412336
+[2331]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM85952
+[2332]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149037
+[2333]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM187143
+[2334]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172356
+[2335]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1400100
+[2336]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3985802
+[2337]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998516
+[2338]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998515
+[2339]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2998532
+[2340]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[2341]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM5020500
+[2342]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3985962
+[2343]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM4482533
+[2344]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3324213
+[2345]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3388878
+[2346]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3558805
+[2347]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM3123560
+[2348]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2546377
+[2349]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2238019
+[2350]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2226642
 [2351]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM2251002
-[2352]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM408506
-[2353]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM372709
-[2354]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM345510
-[2355]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM345513
-[2356]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM337728
-[2357]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326406
-[2358]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM116820
-[2359]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM52550
-[2360]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM424934
-[2361]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412305
+[2352]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1401562
+[2353]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM1172139
+[2354]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM408506
+[2355]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM401581
+[2356]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM372709
+[2357]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM370258
+[2358]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM356018
+[2359]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM345510
+[2360]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM345513
+[2361]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM337728
+[2362]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM326242
+[2363]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM232666
+[2364]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM186583
+[2365]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM149584
+[2366]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM116770
+[2367]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM86440
+[2368]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM70816
+[2369]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM68326
+[2370]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM52550
+[2371]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM39073
+[2372]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM30015
+[2373]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM28915
+[2374]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM433488
+[2375]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM431920
+[2376]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM424934
+[2377]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412673
+[2378]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM412305
+[2379]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM410784
+[2380]: http://www.legislation.govt.nz/act/public/1994/0166/latest/link.aspx?id=DLM407419
