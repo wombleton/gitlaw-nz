@@ -7865,9 +7865,9 @@ Standards, policy statements, and plans
 
 ##### 86A Purpose of sections 86B to 86G
     
-*   (1) The purpose of [sections 86B to 86G][221] is to specify when a rule in a proposed plan or change described in section 86B(6) has legal effect.
+*   (1) The purpose of [sections 86B to 86G][199] is to specify when a rule in a proposed plan or change described in section 86B(6) has legal effect.
     
-    (2) Except to the extent that subsection (1) applies, [sections 86B to 86G][221] do not limit or affect the weight that a consent authority gives to objectives, policies, and other issues, reasons, or methods in plans before the plan becomes operative.
+    (2) Except to the extent that subsection (1) applies, [sections 86B to 86G][199] do not limit or affect the weight that a consent authority gives to objectives, policies, and other issues, reasons, or methods in plans before the plan becomes operative.
     
     Section 86A: inserted, on 1 October 2009, by [section 68][1284] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
 
