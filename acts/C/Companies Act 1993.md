@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 1 April 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -540,958 +540,1032 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 [193A][253][][253][Rectification or correction of address for service][253]
 
 [Part 11][254]  
-[Accounting records and audit][254]
+[Accounting records and financial reporting][254]
 
-[Accounting records][255]
+[Subpart 1][255][---][255][Accounting records][255]
 
-[194][256][][256][Accounting records to be kept][256]
+[194][256][][256][Accounting records must be kept][256]
 
 [195][257][][257][Place accounting records to be kept][257]
 
-[Auditors][258]
+[Subpart 2][258][---][258][Financial reporting][258]
 
-[196][259][][259][Appointment of auditors][259]
+[196][259][][259][Overview][259]
 
-[196A][260][][260][Auditor is not required to audit financial statements of non-active company][260]
+[197][260][][260][Non-application of subpart if alternative financial reporting duties under financial markets legislation][260]
 
-[197][261][][261][Auditors' fees and expenses][261]
+[198][261][][261][Interpretation][261]
 
-[198][262][][262][Appointment of partnership][262]
+[199][262][][262][Determining number of shareholders][262]
 
-[199][263][][263][Qualifications of auditors][263]
+[Preparation of financial statements][263]
 
-[200][264][][264][Automatic reappointment][264]
+[200][264][][264][Application of preparation provisions][264]
 
-[201][265][][265][Appointment of first auditor][265]
+[201][265][][265][Financial statements must be prepared][265]
 
-[202][266][][266][Replacement of auditor][266]
+[202][266][][266][Group financial statements must be prepared][266]
 
-[203][267][][267][Auditor not seeking reappointment or resigning][267]
+[203][267][][267][Recognition of financial reporting requirements of overseas countries][267]
 
-[204][268][][268][Auditor to avoid conflict of interest][268]
+[204][268][][268][Financial statements for overseas company must include financial statements for large New Zealand business][268]
 
-[205][269][][269][Auditor's report][269]
+[205][269][][269][Balance date of subsidiaries][269]
 
-[206][270][][270][Access to information][270]
+[Audit of financial statements][270]
 
-[207][271][][271][Auditor's attendance at shareholders' meeting][271]
+[206][271][][271][Application of audit requirement][271]
 
-[Part 12][272]  
-[Disclosure by companies][272]
+[207][272][][272][Financial statements must be audited][272]
 
-[Disclosure to shareholders][273]
+[207A][273][][273][Audit must be carried out in accordance with auditing and assurance standards][273]
 
-[208][274][][274][Obligation to prepare annual report][274]
+[207B][274][][274][Auditor must report to shareholders][274]
 
-[209][275][][275][Obligation to make annual report available to shareholders][275]
+[207C][275][][275][Auditor's report must be sent to Registrar and External Reporting Board if requirements have not been complied with][275]
 
-[209A][276][][276][Board must send copy of annual report or concise annual report on request][276]
+[Registration of financial statements of overseas companies and other companies with significant overseas ownership][276]
 
-[209B][277][][277][Annual report and concise annual report made available by electronic means][277]
+[207D][277][][277][Application of registration provisions][277]
 
-[210][278][][278][Information for shareholders who elect not to receive annual report][278] \[Repealed\]
+[207E][278][][278][Financial statements must be registered][278]
 
-[211][279][][279][Contents of annual report][279]
+[Shareholders may request copy of financial statements prepared for tax purposes][279]
 
-[211A][280][][280][Obligations to prepare and make available annual reports or financial statements do not apply to non-active companies][280]
+[207F][280][][280][Shareholders may request copy of financial statements prepared for tax purposes][280]
 
-[212][281][][281][Shareholders may elect not to receive documents][281]
+[Financial reporting offences][281]
 
-[213][282][][282][Failure to disclose][282]
+[207G][282][][282][Financial reporting offences][282]
 
-[214][283][][283][Annual return][283]
+[Provisions relating to opting out and opting in][283]
 
-[214A][284][][284][Registrar may alter New Zealand register][284]
+[207H][284][][284][Period during which company may opt in or opt out][284]
 
-[Inspection of company records][285]
+[207I][285][][285][Companies with 10 or more shareholders may opt out][285]
 
-[215][286][][286][Public inspection of company records][286]
+[207J][286][][286][Large companies may opt out of audit requirement][286]
 
-[216][287][][287][Inspection of company records by shareholders][287]
+[207K][287][][287][Companies with fewer than 10 shareholders may opt in][287]
 
-[217][288][][288][Manner of inspection][288]
+[Registrar may grant exemptions to overseas companies][288]
 
-[218][289][][289][Copies of documents][289]
+[207L][289][][289][Registrar may grant exemptions to overseas companies][289]
 
-[Part 13][290]  
-[Amalgamations][290]
+[207M][290][][290][Publication and status of exemptions][290]
 
-[219][291][][291][Amalgamations][291]
+[207N][291][][291][Consultation][291]
 
-[220][292][][292][Amalgamation proposal][292]
+[207O][292][][292][Exemption may apply to accounting period before exemption is granted][292]
 
-[221][293][][293][Approval of amalgamation proposal][293]
+[Subpart 3][293][---][293][Miscellaneous auditing provisions][293]
 
-[222][294][][294][Short form amalgamation][294]
+[207P][294][][294][Auditor must be appointed if financial statements must be audited][294]
 
-[223][295][][295][Registration of amalgamation proposal][295]
+[207Q][295][][295][Registrar may appoint auditor][295]
 
-[224][296][][296][Certificate of amalgamation][296]
+[207R][296][][296][Resignation and casual vacancy][296]
 
-[225][297][][297][Effect of certificate of amalgamation][297]
+[207S][297][][297][Auditor's fees and expenses][297]
 
-[225A][298][][298][Registers][298]
+[207T][298][][298][Automatic reappointment][298]
 
-[226][299][][299][Powers of court in other cases][299]
+[207U][299][][299][Replacement of auditor][299]
 
-[Part 14][300]  
-[Compromises with creditors][300]
+[207V][300][][300][Auditor not seeking reappointment or resigning][300]
 
-[227][301][][301][Interpretation][301]
+[207W][301][][301][Auditor's attendance at shareholders' meeting][301]
 
-[228][302][][302][Compromise proposal][302]
+[Subpart 4][302][---][302][Infringement offence for failing to register financial statements][302]
 
-[229][303][][303][Notice of proposed compromise][303]
+[207X][303][][303][Interpretation in this subpart][303]
 
-[230][304][][304][Effect of compromise][304]
+[207Y][304][][304][Infringement offences][304]
 
-[231][305][][305][Variation of compromise][305]
+[207Z][305][][305][Infringement notices][305]
 
-[232][306][][306][Powers of court][306]
+[207ZA][306][][306][Procedural requirements for infringement notices][306]
 
-[233][307][][307][Effect of compromise in liquidation of company][307]
+[207ZB][307][][307][Payment of infringement fee][307]
 
-[234][308][][308][Costs of compromise][308]
+[Part 12][308]  
+[Disclosure by companies][308]
 
-[Part 15][309]  
-[Approval of arrangements, amalgamations, and compromises by court][309]
+[Disclosure to shareholders][309]
 
-[235][310][][310][Interpretation][310]
+[208][310][][310][Obligation to prepare annual report][310]
 
-[236][311][][311][Approval of arrangements, amalgamations, and compromises][311]
+[209][311][][311][Obligation to make annual report available to shareholders][311]
 
-[237][312][][312][Court may make additional orders][312]
+[209A][312][][312][Board must send copy of annual report or concise annual report on request][312]
 
-[238][313][][313][Parts 13 and 14 not affected][313]
+[209B][313][][313][Annual report and concise annual report made available by electronic means][313]
 
-[239][314][][314][Application of section 233][314]
+[210][314][][314][Information for shareholders who elect not to receive annual report][314] \[Repealed\]
 
-[Part 15A][315]  
-[Voluntary administration][315]
+[211][315][][315][Contents of annual report][315]
 
-[Subpart 1][316][---][316][Preliminary][316]
+[211A][316][][316][Obligations to prepare and make available annual reports or financial statements do not apply to non-active companies][316] \[Repealed\]
 
-[239A][317][][317][Objects of this Part][317]
+[212][317][][317][Shareholders may elect not to receive documents][317]
 
-[239B][318][][318][Interpretation of some key terms][318]
+[213][318][][318][Failure to disclose][318]
 
-[239C][319][][319][Interpretation of other terms][319]
+[214][319][][319][Annual return][319]
 
-[239D][320][][320][When administration begins][320]
+[214A][320][][320][Registrar may alter New Zealand register][320]
 
-[239E][321][][321][When administration ends][321]
+[Inspection of company records][321]
 
-[239EA][322][][322][Voluntary administration of licensed insurers][322]
+[215][322][][322][Public inspection of company records][322]
 
-[Subpart 2][323][---][323][Appointment of administrator][323]
+[216][323][][323][Inspection of company records by shareholders][323]
 
-[239F][324][][324][Who may be appointed administrator][324]
+[217][324][][324][Manner of inspection][324]
 
-[239G][325][][325][Administrator must consent in writing][325]
+[218][325][][325][Copies of documents][325]
 
-[239H][326][][326][Who may appoint administrator][326]
+[Part 13][326]  
+[Amalgamations][326]
 
-[239I][327][][327][Appointment by company][327]
+[219][327][][327][Amalgamations][327]
 
-[239J][328][][328][Appointment by liquidator or interim liquidator][328]
+[220][328][][328][Amalgamation proposal][328]
 
-[239K][329][][329][Appointment by secured creditor][329]
+[221][329][][329][Approval of amalgamation proposal][329]
 
-[239L][330][][330][Appointment by court][330]
+[222][330][][330][Short form amalgamation][330]
 
-[239M][331][][331][Appointment must not be revoked][331]
+[223][331][][331][Registration of amalgamation proposal][331]
 
-[239N][332][][332][Appointment of 2 or more administrators][332]
+[224][332][][332][Certificate of amalgamation][332]
 
-[239O][333][][333][Remuneration of administrator][333]
+[225][333][][333][Effect of certificate of amalgamation][333]
 
-[Subpart 3][334][---][334][Resignation and removal of administrator][334]
+[225A][334][][334][Registers][334]
 
-[239P][335][][335][When office of administrator is vacant][335]
+[226][335][][335][Powers of court in other cases][335]
 
-[239Q][336][][336][Administrator may resign][336]
+[Part 14][336]  
+[Compromises with creditors][336]
 
-[239R][337][][337][Removal of administrator][337]
+[227][337][][337][Interpretation][337]
 
-[239S][338][][338][Appointor may appoint new administrator to fill vacancy][338]
+[228][338][][338][Compromise proposal][338]
 
-[239T][339][][339][Creditors must consider appointment of replacement administrator][339]
+[229][339][][339][Notice of proposed compromise][339]
 
-[Subpart 4][340][---][340][Effect of appointment of administrator][340]
+[230][340][][340][Effect of compromise][340]
 
-[239U][341][][341][Outline of administrator's role][341]
+[231][341][][341][Variation of compromise][341]
 
-[239V][342][][342][Administrator's powers][342]
+[232][342][][342][Powers of court][342]
 
-[239W][343][][343][Administrator is company's agent][343]
+[233][343][][343][Effect of compromise in liquidation of company][343]
 
-[239X][344][][344][Effect on directors][344]
+[234][344][][344][Costs of compromise][344]
 
-[239Y][345][][345][Effect on employees][345]
+[Part 15][345]  
+[Approval of arrangements, amalgamations, and compromises by court][345]
 
-[239Z][346][][346][Effect on dealing with company property][346]
+[235][346][][346][Interpretation][346]
 
-[239AA][347][][347][Company officer's liability for compensation for void transaction or dealing][347]
+[236][347][][347][Approval of arrangements, amalgamations, and compromises][347]
 
-[239AB][348][][348][Effect on transfer of shares][348]
+[237][348][][348][Court may make additional orders][348]
 
-[239AC][349][][349][Effect on liquidation][349]
+[238][349][][349][Parts 13 and 14 not affected][349]
 
-[239AD][350][][350][Effect on receivership][350]
+[239][350][][350][Application of section 233][350]
 
-[Subpart 5][351][---][351][Administrator's investigation of company's affairs][351]
+[Part 15A][351]  
+[Voluntary administration][351]
 
-[239AE][352][][352][Administrator must investigate company's affairs and consider possible courses of action][352]
+[Subpart 1][352][---][352][Preliminary][352]
 
-[239AF][353][][353][Directors' statement of company's position][353]
+[239A][353][][353][Objects of this Part][353]
 
-[239AG][354][][354][Administrator's right to documents, etc][354]
+[239B][354][][354][Interpretation of some key terms][354]
 
-[239AH][355][][355][Administrator may lodge report with Registrar][355]
+[239C][355][][355][Interpretation of other terms][355]
 
-[239AI][356][][356][Administrator must report misconduct][356]
+[239D][356][][356][When administration begins][356]
 
-[Subpart 6][357][---][357][Creditors' meetings generally][357]
+[239E][357][][357][When administration ends][357]
 
-[239AJ][358][][358][Administrator must call creditors' meetings][358]
+[239EA][358][][358][Voluntary administration of licensed insurers][358]
 
-[239AK][359][][359][Conduct of creditors' meetings][359]
+[Subpart 2][359][---][359][Appointment of administrator][359]
 
-[239AL][360][][360][Joint meetings of creditors of related companies in administration][360]
+[239F][360][][360][Who may be appointed administrator][360]
 
-[239AM][361][][361][Power of court where outcome of voting at creditors' meeting determined by related entity][361]
+[239G][361][][361][Administrator must consent in writing][361]
 
-[Subpart 7][362][---][362][First creditors' meeting to appoint creditors' committee][362]
+[239H][362][][362][Who may appoint administrator][362]
 
-[239AN][363][][363][Administrator must call first creditors' meeting][363]
+[239I][363][][363][Appointment by company][363]
 
-[239AO][364][][364][Notice of first and subsequent creditors' meetings][364]
+[239J][364][][364][Appointment by liquidator or interim liquidator][364]
 
-[239AP][365][][365][Administrator must table interests statement][365]
+[239K][365][][365][Appointment by secured creditor][365]
 
-[239AQ][366][][366][Functions of creditors' committee][366]
+[239L][366][][366][Appointment by court][366]
 
-[239AR][367][][367][Membership of creditors' committee][367]
+[239M][367][][367][Appointment must not be revoked][367]
 
-[Subpart 8][368][---][368][Watershed meeting][368]
+[239N][368][][368][Appointment of 2 or more administrators][368]
 
-[239AS][369][][369][What watershed meeting is][369]
+[239O][369][][369][Remuneration of administrator][369]
 
-[239AT][370][][370][Administrator must convene watershed meeting][370]
+[Subpart 3][370][---][370][Resignation and removal of administrator][370]
 
-[239AU][371][][371][Notice of watershed meeting][371]
+[239P][371][][371][When office of administrator is vacant][371]
 
-[239AV][372][][372][When watershed meeting must be held][372]
+[239Q][372][][372][Administrator may resign][372]
 
-[239AW][373][][373][Directors must attend watershed meeting][373]
+[239R][373][][373][Removal of administrator][373]
 
-[239AX][374][][374][Disclosure of voting arrangements][374]
+[239S][374][][374][Appointor may appoint new administrator to fill vacancy][374]
 
-[239AY][375][][375][Court may order that pooled property owners are separate class][375]
+[239T][375][][375][Creditors must consider appointment of replacement administrator][375]
 
-[239AZ][376][][376][Adjournment of watershed meeting][376]
+[Subpart 4][376][---][376][Effect of appointment of administrator][376]
 
-[239ABA][377][][377][What creditors may decide at watershed meeting][377]
+[239U][377][][377][Outline of administrator's role][377]
 
-[239ABB][378][][378][What happens if proposed deed not fully approved at watershed meeting][378]
+[239V][378][][378][Administrator's powers][378]
 
-[Subpart 9][379][---][379][Protection of company's property during administration][379]
+[239W][379][][379][Administrator is company's agent][379]
 
-[239ABC][380][][380][Charge unenforceable][380]
+[239X][380][][380][Effect on directors][380]
 
-[239ABD][381][][381][Owner or lessor must not recover property used by company][381]
+[239Y][381][][381][Effect on employees][381]
 
-[239ABE][382][][382][Proceeding must not be begun or continued][382]
+[239Z][382][][382][Effect on dealing with company property][382]
 
-[239ABF][383][][383][Administrator not liable in damages for refusing consent][383]
+[239AA][383][][383][Company officer's liability for compensation for void transaction or dealing][383]
 
-[239ABG][384][][384][Enforcement process halted][384]
+[239AB][384][][384][Effect on transfer of shares][384]
 
-[239ABH][385][][385][Duties of court officer in relation to company's property][385]
+[239AC][385][][385][Effect on liquidation][385]
 
-[239ABI][386][][386][_Lis pendens_ taken to exist][386]
+[239AD][386][][386][Effect on receivership][386]
 
-[239ABJ][387][][387][Administration not to trigger enforcement of guarantee of liability of director or relative][387]
+[Subpart 5][387][---][387][Administrator's investigation of company's affairs][387]
 
-[Subpart 10][388][---][388][Rights of secured creditor, owner, or lessor][388]
+[239AE][388][][388][Administrator must investigate company's affairs and consider possible courses of action][388]
 
-[239ABK][389][][389][Meaning of terms used in this subpart][389]
+[239AF][389][][389][Directors' statement of company's position][389]
 
-[239ABL][390][][390][If secured creditor acts before or during decision period][390]
+[239AG][390][][390][Administrator's right to documents, etc][390]
 
-[239ABM][391][][391][If enforcement of charges begins before administration][391]
+[239AH][391][][391][Administrator may lodge report with Registrar][391]
 
-[239ABN][392][][392][Charge over perishable property][392]
+[239AI][392][][392][Administrator must report misconduct][392]
 
-[239ABO][393][][393][Court may limit powers of secured creditor, etc, in relation to property subject to charge][393]
+[Subpart 6][393][---][393][Creditors' meetings generally][393]
 
-[239ABP][394][][394][Giving notice under security agreement][394]
+[239AJ][394][][394][Administrator must call creditors' meetings][394]
 
-[239ABQ][395][][395][If recovery of property begins before administration][395]
+[239AK][395][][395][Conduct of creditors' meetings][395]
 
-[239ABR][396][][396][Recovering perishable property][396]
+[239AL][396][][396][Joint meetings of creditors of related companies in administration][396]
 
-[239ABS][397][][397][Court may limit powers of receiver, etc, in relation to property used by company][397]
+[239AM][397][][397][Power of court where outcome of voting at creditors' meeting determined by related entity][397]
 
-[239ABT][398][][398][Giving notice under agreement about property][398]
+[Subpart 7][398][---][398][First creditors' meeting to appoint creditors' committee][398]
 
-[Subpart 11][399][---][399][Interface with liquidation][399]
+[239AN][399][][399][Administrator must call first creditors' meeting][399]
 
-[239ABU][400][][400][When liquidator may be appointed to company in administration][400]
+[239AO][400][][400][Notice of first and subsequent creditors' meetings][400]
 
-[239ABV][401][][401][Court may adjourn application for liquidation][401]
+[239AP][401][][401][Administrator must table interests statement][401]
 
-[239ABW][402][][402][Court must not appoint interim liquidator if administration in creditors' interests][402]
+[239AQ][402][][402][Functions of creditors' committee][402]
 
-[239ABX][403][][403][Effect of appointment of liquidator][403]
+[239AR][403][][403][Membership of creditors' committee][403]
 
-[239ABY][404][][404][Former administrator is default liquidator][404]
+[Subpart 8][404][---][404][Watershed meeting][404]
 
-[239ABZ][405][][405][Person in control of company must lodge revised report with Registrar][405]
+[239AS][405][][405][What watershed meeting is][405]
 
-[239ACA][406][][406][Act of administrator in good faith must not be set aside in liquidation][406]
+[239AT][406][][406][Administrator must convene watershed meeting][406]
 
-[239ACB][407][][407][Voidable transactions][407]
+[239AU][407][][407][Notice of watershed meeting][407]
 
-[Subpart 12][408][---][408][Deed administrator][408]
+[239AV][408][][408][When watershed meeting must be held][408]
 
-[239ACC][409][][409][Who is deed administrator][409]
+[239AW][409][][409][Directors must attend watershed meeting][409]
 
-[239ACD][410][][410][Who may be appointed deed administrator][410]
+[239AX][410][][410][Disclosure of voting arrangements][410]
 
-[239ACE][411][][411][Deed administrator must consent in writing][411]
+[239AY][411][][411][Court may order that pooled property owners are separate class][411]
 
-[239ACF][412][][412][Appointment of deed administrator must not be revoked][412]
+[239AZ][412][][412][Adjournment of watershed meeting][412]
 
-[239ACG][413][][413][Appointment of 2 or more deed administrators][413]
+[239ABA][413][][413][What creditors may decide at watershed meeting][413]
 
-[239ACH][414][][414][When office of deed administrator vacant][414]
+[239ABB][414][][414][What happens if proposed deed not fully approved at watershed meeting][414]
 
-[239ACI][415][][415][Deed administrator may resign][415]
+[Subpart 9][415][---][415][Protection of company's property during administration][415]
 
-[239ACJ][416][][416][Removal of deed administrator][416]
+[239ABC][416][][416][Charge unenforceable][416]
 
-[239ACK][417][][417][Remuneration of deed administrator][417]
+[239ABD][417][][417][Owner or lessor must not recover property used by company][417]
 
-[239ACL][418][][418][Deed administrator may sell shares in company][418]
+[239ABE][418][][418][Proceeding must not be begun or continued][418]
 
-[Subpart 13][419][---][419][Execution and effect of deed of company arrangement][419]
+[239ABF][419][][419][Administrator not liable in damages for refusing consent][419]
 
-[239ACM][420][][420][When this subpart applies][420]
+[239ABG][420][][420][Enforcement process halted][420]
 
-[239ACN][421][][421][Preparation and contents of deed][421]
+[239ABH][421][][421][Duties of court officer in relation to company's property][421]
 
-[239ACO][422][][422][Execution of deed][422]
+[239ABI][422][][422][_Lis pendens_ taken to exist][422]
 
-[239ACP][423][][423][Procedure if deed not fully approved at watershed meeting][423]
+[239ABJ][423][][423][Administration not to trigger enforcement of guarantee of liability of director or relative][423]
 
-[239ACQ][424][][424][Creditor must not act inconsistently with deed, etc, before execution][424]
+[Subpart 10][424][---][424][Rights of secured creditor, owner, or lessor][424]
 
-[239ACR][425][][425][Company's failure to execute deed][425]
+[239ABK][425][][425][Meaning of terms used in this subpart][425]
 
-[239ACS][426][][426][Who is bound by deed][426]
+[239ABL][426][][426][If secured creditor acts before or during decision period][426]
 
-[239ACT][427][][427][Extent to which deed binds creditors][427]
+[239ABM][427][][427][If enforcement of charges begins before administration][427]
 
-[239ACU][428][][428][Person bound by deed must not take steps to liquidate, etc][428]
+[239ABN][428][][428][Charge over perishable property][428]
 
-[239ACV][429][][429][Court may restrain creditors and others from enforcing charge or recovering property][429]
+[239ABO][429][][429][Court may limit powers of secured creditor, etc, in relation to property subject to charge][429]
 
-[239ACW][430][][430][Effect of deed on company's debts][430]
+[239ABP][430][][430][Giving notice under security agreement][430]
 
-[239ACX][431][][431][Court may rule on validity of deed][431]
+[239ABQ][431][][431][If recovery of property begins before administration][431]
 
-[Subpart 14][432][---][432][Administrator's duty to file accounts][432]
+[239ABR][432][][432][Recovering perishable property][432]
 
-[239ACY][433][][433][Administrator includes deed administrator][433]
+[239ABS][433][][433][Court may limit powers of receiver, etc, in relation to property used by company][433]
 
-[239ACZ][434][][434][Administrator must file accounts][434]
+[239ABT][434][][434][Giving notice under agreement about property][434]
 
-[Subpart 15][435][---][435][Variation and termination of deed][435]
+[Subpart 11][435][---][435][Interface with liquidation][435]
 
-[239ADA][436][][436][Creditors may vary deed][436]
+[239ABU][436][][436][When liquidator may be appointed to company in administration][436]
 
-[239ADB][437][][437][Court may cancel creditors' variation][437]
+[239ABV][437][][437][Court may adjourn application for liquidation][437]
 
-[239ADC][438][][438][Termination of deed][438]
+[239ABW][438][][438][Court must not appoint interim liquidator if administration in creditors' interests][438]
 
-[239ADD][439][][439][Termination by court][439]
+[239ABX][439][][439][Effect of appointment of liquidator][439]
 
-[239ADE][440][][440][Termination by creditors][440]
+[239ABY][440][][440][Former administrator is default liquidator][440]
 
-[239ADF][441][][441][Creditors' meeting to consider proposed variation or termination of deed][441]
+[239ABZ][441][][441][Person in control of company must lodge revised report with Registrar][441]
 
-[Subpart 16][442][---][442][Administrator's liability and indemnity for debts of administration][442]
+[239ACA][442][][442][Act of administrator in good faith must not be set aside in liquidation][442]
 
-[239ADG][443][][443][Administrator not liable for company's debts except as provided in this subpart and in section 239Y][443]
+[239ACB][443][][443][Voidable transactions][443]
 
-[239ADH][444][][444][Administrator liable for general debts][444]
+[Subpart 12][444][---][444][Deed administrator][444]
 
-[239ADI][445][][445][Administrator's liability for rent][445]
+[239ACC][445][][445][Who is deed administrator][445]
 
-[239ADJ][446][][446][Administrator not liable for rental if non-use notice in force][446]
+[239ACD][446][][446][Who may be appointed deed administrator][446]
 
-[239ADK][447][][447][Court may exempt administrator from liability for rent][447]
+[239ACE][447][][447][Deed administrator must consent in writing][447]
 
-[239ADL][448][][448][Administrator's indemnity][448]
+[239ACF][448][][448][Appointment of deed administrator must not be revoked][448]
 
-[239ADM][449][][449][Administrator's right of indemnity has priority over other debts][449]
+[239ACG][449][][449][Appointment of 2 or more deed administrators][449]
 
-[239ADN][450][][450][Lien to secure indemnity][450]
+[239ACH][450][][450][When office of deed administrator vacant][450]
 
-[Subpart 17][451][---][451][Powers of court][451]
+[239ACI][451][][451][Deed administrator may resign][451]
 
-[239ADO][452][][452][Court's general power][452]
+[239ACJ][452][][452][Removal of deed administrator][452]
 
-[239ADP][453][][453][Orders to protect creditors during administration][453]
+[239ACK][453][][453][Remuneration of deed administrator][453]
 
-[239ADQ][454][][454][Court may rule on validity of administrator's appointment][454]
+[239ACL][454][][454][Deed administrator may sell shares in company][454]
 
-[239ADR][455][][455][Administrator may seek directions][455]
+[Subpart 13][455][---][455][Execution and effect of deed of company arrangement][455]
 
-[239ADS][456][][456][Court may supervise administrator or deed administrator][456]
+[239ACM][456][][456][When this subpart applies][456]
 
-[239ADT][457][][457][Court may order administrator or deed administrator to remedy default][457]
+[239ACN][457][][457][Preparation and contents of deed][457]
 
-[239ADU][458][][458][Court's power when office of administrator or deed administrator vacant, etc][458]
+[239ACO][458][][458][Execution of deed][458]
 
-[239ADV][459][][459][Prohibition order][459]
+[239ACP][459][][459][Procedure if deed not fully approved at watershed meeting][459]
 
-[Subpart 18][460][---][460][Notices about steps taken under this Part][460]
+[239ACQ][460][][460][Creditor must not act inconsistently with deed, etc, before execution][460]
 
-[239ADW][461][][461][Administrator must give notice of appointment][461]
+[239ACR][461][][461][Company's failure to execute deed][461]
 
-[239ADX][462][][462][Secured creditor who appoints administrator must give notice to company][462]
+[239ACS][462][][462][Who is bound by deed][462]
 
-[239ADY][463][][463][Deed administrator must give notice of execution of deed of company arrangement][463]
+[239ACT][463][][463][Extent to which deed binds creditors][463]
 
-[239ADZ][464][][464][Deed administrator must give notice of failure to execute deed of company arrangement][464]
+[239ACU][464][][464][Person bound by deed must not take steps to liquidate, etc][464]
 
-[239AEA][465][][465][Deed administrator must give notice of termination by creditors of deed of company arrangement][465]
+[239ACV][465][][465][Court may restrain creditors and others from enforcing charge or recovering property][465]
 
-[239AEB][466][][466][Company must disclose fact of administration][466]
+[239ACW][466][][466][Effect of deed on company's debts][466]
 
-[239AEC][467][][467][Notice of change of name][467]
+[239ACX][467][][467][Court may rule on validity of deed][467]
 
-[239AED][468][][468][Effect of contravention of this subpart][468]
+[Subpart 14][468][---][468][Administrator's duty to file accounts][468]
 
-[Subpart 19][469][---][469][Miscellaneous][469]
+[239ACY][469][][469][Administrator includes deed administrator][469]
 
-[239AEE][470][][470][Effect of things done during administration of company][470]
+[239ACZ][470][][470][Administrator must file accounts][470]
 
-[239AEF][471][][471][Interruption of time for doing act][471]
+[Subpart 15][471][---][471][Variation and termination of deed][471]
 
-[Subpart 20][472][---][472][Set-off and netting agreements][472]
+[239ADA][472][][472][Creditors may vary deed][472]
 
-[239AEG][473][][473][Mutual credit and set-off][473]
+[239ADB][473][][473][Court may cancel creditors' variation][473]
 
-[239AEH][474][][474][Application of set-off under netting agreement][474]
+[239ADC][474][][474][Termination of deed][474]
 
-[239AEI][475][][475][Calculation of netted balance][475]
+[239ADD][475][][475][Termination by court][475]
 
-[239AEJ][476][][476][Mutuality required for transactions under bilateral netting agreements][476]
+[239ADE][476][][476][Termination by creditors][476]
 
-[239AEK][477][][477][When mutuality required for transactions under recognised multilateral netting agreements][477]
+[239ADF][477][][477][Creditors' meeting to consider proposed variation or termination of deed][477]
 
-[239AEL][478][][478][Application of set-off under section 239AEG to transactions subject to netting agreements][478]
+[Subpart 16][478][---][478][Administrator's liability and indemnity for debts of administration][478]
 
-[239AEM][479][][479][Transactions under netting agreement and effect on certain sections][479]
+[239ADG][479][][479][Administrator not liable for company's debts except as provided in this subpart and in section 239Y][479]
 
-[239AEN][480][][480][Rights under netting agreement not affected by commencement of administration][480]
+[239ADH][480][][480][Administrator liable for general debts][480]
 
-[239AEO][481][][481][Effect of declaration of person as recognised clearing house under section 310K][481]
+[239ADI][481][][481][Administrator's liability for rent][481]
 
-[239AEP][482][][482][Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K][482]
+[239ADJ][482][][482][Administrator not liable for rental if non-use notice in force][482]
 
-[Subpart 21][483][---][483][Single administration of related companies in administration][483]
+[239ADK][483][][483][Court may exempt administrator from liability for rent][483]
 
-[239AEQ][484][][484][Interpretation of terms for purposes of this subpart][484]
+[239ADL][484][][484][Administrator's indemnity][484]
 
-[239AER][485][][485][Court may order single administration for related companies in administration][485]
+[239ADM][485][][485][Administrator's right of indemnity has priority over other debts][485]
 
-[239AES][486][][486][Notice that application filed must be given to administrators and creditors][486]
+[239ADN][486][][486][Lien to secure indemnity][486]
 
-[239AET][487][][487][Guidelines for single administration order][487]
+[Subpart 17][487][---][487][Powers of court][487]
 
-[239AEU][488][][488][Court may order that related company in administration be added to existing pool][488]
+[239ADO][488][][488][Court's general power][488]
 
-[239AEV][489][][489][Creditors' meetings in single administration of pool companies][489]
+[239ADP][489][][489][Orders to protect creditors during administration][489]
 
-[239AEW][490][][490][Pool companies may execute single deed of company administration][490]
+[239ADQ][490][][490][Court may rule on validity of administrator's appointment][490]
 
-[Part 16][491]  
-[Liquidations][491]
+[239ADR][491][][491][Administrator may seek directions][491]
 
-[The process of liquidation][492]
+[239ADS][492][][492][Court may supervise administrator or deed administrator][492]
 
-[240][493][][493][Interpretation][493]
+[239ADT][493][][493][Court may order administrator or deed administrator to remedy default][493]
 
-[240A][494][][494][Liquidation of licensed insurers][494]
+[239ADU][494][][494][Court's power when office of administrator or deed administrator vacant, etc][494]
 
-[241][495][][495][Commencement of liquidation][495]
+[239ADV][495][][495][Prohibition order][495]
 
-[241AA][496][][496][Restriction on appointment of liquidator by shareholders or board after application filed for court appointment][496]
+[Subpart 18][496][---][496][Notices about steps taken under this Part][496]
 
-[241A][497][][497][Commencement of liquidation to be recorded][497]
+[239ADW][497][][497][Administrator must give notice of appointment][497]
 
-[242][498][][498][Liquidators to act jointly unless otherwise stated][498]
+[239ADX][498][][498][Secured creditor who appoints administrator must give notice to company][498]
 
-[243][499][][499][Liquidator to summon meeting of creditors][499]
+[239ADY][499][][499][Deed administrator must give notice of execution of deed of company arrangement][499]
 
-[244][500][][500][Liquidator to summon meeting of creditors in other cases][500]
+[239ADZ][500][][500][Deed administrator must give notice of failure to execute deed of company arrangement][500]
 
-[245][501][][501][Liquidator may dispense with meetings of creditors][501]
+[239AEA][501][][501][Deed administrator must give notice of termination by creditors of deed of company arrangement][501]
 
-[245A][502][][502][Power of court where outcome of voting at meeting of creditors determined by related entity][502]
+[239AEB][502][][502][Company must disclose fact of administration][502]
 
-[246][503][][503][Interim liquidator][503]
+[239AEC][503][][503][Notice of change of name][503]
 
-[247][504][][504][Power to stay or restrain certain proceedings against company][504]
+[239AED][504][][504][Effect of contravention of this subpart][504]
 
-[248][505][][505][Effect of commencement of liquidation][505]
+[Subpart 19][505][---][505][Miscellaneous][505]
 
-[249][506][][506][Completion of liquidation][506]
+[239AEE][506][][506][Effect of things done during administration of company][506]
 
-[250][507][][507][Court may terminate liquidation][507]
+[239AEF][507][][507][Interruption of time for doing act][507]
 
-[Provisions relating to prior execution process][508]
+[Subpart 20][508][---][508][Set-off and netting agreements][508]
 
-[251][509][][509][Restriction on rights of creditors to complete execution, distraint, or attachment][509]
+[239AEG][509][][509][Mutual credit and set-off][509]
 
-[252][510][][510][Duties of officer in execution process][510]
+[239AEH][510][][510][Application of set-off under netting agreement][510]
 
-[Duties, rights, and powers of liquidators][511]
+[239AEI][511][][511][Calculation of netted balance][511]
 
-[253][512][][512][Principal duty of liquidator][512]
+[239AEJ][512][][512][Mutuality required for transactions under bilateral netting agreements][512]
 
-[254][513][][513][Liquidator not required to act in certain cases][513]
+[239AEK][513][][513][When mutuality required for transactions under recognised multilateral netting agreements][513]
 
-[255][514][][514][Other duties of liquidator][514]
+[239AEL][514][][514][Application of set-off under section 239AEG to transactions subject to netting agreements][514]
 
-[256][515][][515][Duties in relation to accounts][515]
+[239AEM][515][][515][Transactions under netting agreement and effect on certain sections][515]
 
-[257][516][][516][Duties in relation to final report and accounts][516]
+[239AEN][516][][516][Rights under netting agreement not affected by commencement of administration][516]
 
-[258][517][][517][Duty to have regard to views of creditors and shareholders][517]
+[239AEO][517][][517][Effect of declaration of person as recognised clearing house under section 310K][517]
 
-[258A][518][][518][Duty to report suspected offences][518]
+[239AEP][518][][518][Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K][518]
 
-[258B][519][][519][Registrar may supply report to FMA][519]
+[Subpart 21][519][---][519][Single administration of related companies in administration][519]
 
-[259][520][][520][Documents to state company in liquidation][520]
+[239AEQ][520][][520][Interpretation of terms for purposes of this subpart][520]
 
-[260][521][][521][Powers of liquidator][521]
+[239AER][521][][521][Court may order single administration for related companies in administration][521]
 
-[260A][522][][522][Liquidator may assign right to sue under this Act][522]
+[239AES][522][][522][Notice that application filed must be given to administrators and creditors][522]
 
-[261][523][][523][Power to obtain documents and information][523]
+[239AET][523][][523][Guidelines for single administration order][523]
 
-[262][524][][524][Documents in possession of receiver][524]
+[239AEU][524][][524][Court may order that related company in administration be added to existing pool][524]
 
-[263][525][][525][Restriction on enforcement of lien over documents][525]
+[239AEV][525][][525][Creditors' meetings in single administration of pool companies][525]
 
-[264][526][][526][Delivery of document creating charge over property][526]
+[239AEW][526][][526][Pool companies may execute single deed of company administration][526]
 
-[265][527][][527][Examination by liquidator][527]
+[Part 16][527]  
+[Liquidations][527]
 
-[266][528][][528][Powers of court][528]
+[The process of liquidation][528]
 
-[267][529][][529][Self-incrimination][529]
+[240][529][][529][Interpretation][529]
 
-[268][530][][530][Power of liquidator to enforce liability of shareholders and former shareholders][530]
+[240A][530][][530][Liquidation of licensed insurers][530]
 
-[269][531][][531][Power to disclaim onerous property][531]
+[241][531][][531][Commencement of liquidation][531]
 
-[270][532][][532][Liquidator may be required to elect whether to disclaim onerous property][532]
+[241AA][532][][532][Restriction on appointment of liquidator by shareholders or board after application filed for court appointment][532]
 
-[271][533][][533][Pooling of assets of related companies][533]
+[241A][533][][533][Commencement of liquidation to be recorded][533]
 
-[271A][534][][534][Notice that application filed must be given to administrators and creditors][534]
+[242][534][][534][Liquidators to act jointly unless otherwise stated][534]
 
-[272][535][][535][Guidelines for orders][535]
+[243][535][][535][Liquidator to summon meeting of creditors][535]
 
-[273][536][][536][Certain conduct prohibited][536]
+[244][536][][536][Liquidator to summon meeting of creditors in other cases][536]
 
-[274][537][][537][Duty to identify and deliver property][537]
+[245][537][][537][Liquidator may dispense with meetings of creditors][537]
 
-[275][538][][538][Refusal to supply essential services prohibited][538]
+[245A][538][][538][Power of court where outcome of voting at meeting of creditors determined by related entity][538]
 
-[276][539][][539][Remuneration of liquidators][539]
+[246][539][][539][Interim liquidator][539]
 
-[277][540][][540][Rates of remuneration][540]
+[247][540][][540][Power to stay or restrain certain proceedings against company][540]
 
-[278][541][][541][Expenses and remuneration payable out of assets of company][541]
+[248][541][][541][Effect of commencement of liquidation][541]
 
-[279][542][][542][Liquidator ceases to hold office on completion of liquidation][542]
+[249][542][][542][Completion of liquidation][542]
 
-[Qualifications and supervision of liquidators][543]
+[250][543][][543][Court may terminate liquidation][543]
 
-[280][544][][544][Qualifications of liquidators][544]
+[Provisions relating to prior execution process][544]
 
-[281][545][][545][Validity of acts of liquidators][545]
+[251][545][][545][Restriction on rights of creditors to complete execution, distraint, or attachment][545]
 
-[282][546][][546][Consent to appointment][546]
+[252][546][][546][Duties of officer in execution process][546]
 
-[283][547][][547][Vacancies in office of liquidator][547]
+[Duties, rights, and powers of liquidators][547]
 
-[284][548][][548][Court supervision of liquidation][548]
+[253][548][][548][Principal duty of liquidator][548]
 
-[285][549][][549][Meaning of failure to comply][549]
+[254][549][][549][Liquidator not required to act in certain cases][549]
 
-[286][550][][550][Orders to enforce liquidator's duties][550]
+[255][550][][550][Other duties of liquidator][550]
 
-[Company unable to pay its debts][551]
+[256][551][][551][Duties in relation to accounts][551]
 
-[287][552][][552][Meaning of inability to pay debts][552]
+[257][552][][552][Duties in relation to final report and accounts][552]
 
-[288][553][][553][Evidence and other matters][553]
+[258][553][][553][Duty to have regard to views of creditors and shareholders][553]
 
-[289][554][][554][Statutory demand][554]
+[258A][554][][554][Duty to report suspected offences][554]
 
-[290][555][][555][Court may set aside statutory demand][555]
+[258B][555][][555][Registrar may supply report to FMA][555]
 
-[291][556][][556][Additional powers of court on application to set aside statutory demand][556]
+[259][556][][556][Documents to state company in liquidation][556]
 
-[Voidable transactions][557]
+[260][557][][557][Powers of liquidator][557]
 
-[292][558][][558][Insolvent transaction voidable][558]
+[260A][558][][558][Liquidator may assign right to sue under this Act][558]
 
-[293][559][][559][Voidable charges][559]
+[261][559][][559][Power to obtain documents and information][559]
 
-[294][560][][560][Procedure for setting aside transactions and charges][560]
+[262][560][][560][Documents in possession of receiver][560]
 
-[295][561][][561][Other orders][561]
+[263][561][][561][Restriction on enforcement of lien over documents][561]
 
-[296][562][][562][Additional provisions relating to setting aside transactions and charges][562]
+[264][562][][562][Delivery of document creating charge over property][562]
 
-[Recovery in other cases][563]
+[265][563][][563][Examination by liquidator][563]
 
-[297][564][][564][Transactions at undervalue][564]
+[266][564][][564][Powers of court][564]
 
-[298][565][][565][Transactions for inadequate or excessive consideration with directors and certain other persons][565]
+[267][565][][565][Self-incrimination][565]
 
-[299][566][][566][Court may set aside certain securities and charges][566]
+[268][566][][566][Power of liquidator to enforce liability of shareholders and former shareholders][566]
 
-[300][567][][567][Liability if proper accounting records not kept][567]
+[269][567][][567][Power to disclaim onerous property][567]
 
-[301][568][][568][Power of court to require persons to repay money or return property][568]
+[270][568][][568][Liquidator may be required to elect whether to disclaim onerous property][568]
 
-[Creditors' claims][569]
+[271][569][][569][Pooling of assets of related companies][569]
 
-[302][570][][570][Application of bankruptcy rules to liquidation of insolvent companies][570]
+[271A][570][][570][Notice that application filed must be given to administrators and creditors][570]
 
-[303][571][][571][Admissible claims][571]
+[272][571][][571][Guidelines for orders][571]
 
-[304][572][][572][Claims by unsecured creditors][572]
+[273][572][][572][Certain conduct prohibited][572]
 
-[305][573][][573][Rights and duties of secured creditors][573]
+[274][573][][573][Duty to identify and deliver property][573]
 
-[306][574][][574][Ascertainment of amount of claim][574]
+[275][574][][574][Refusal to supply essential services prohibited][574]
 
-[307][575][][575][Claim not of an ascertained amount][575]
+[276][575][][575][Remuneration of liquidators][575]
 
-[308][576][][576][Fines and penalties][576]
+[277][576][][576][Rates of remuneration][576]
 
-[309][577][][577][Claims relating to debts payable after commencement of liquidation][577]
+[278][577][][577][Expenses and remuneration payable out of assets of company][577]
 
-[310][578][][578][Mutual credit and set-off][578]
+[279][578][][578][Liquidator ceases to hold office on completion of liquidation][578]
 
-[310A][579][][579][Definitions relating to set-off under netting agreement][579]
+[Qualifications and supervision of liquidators][579]
 
-[310B][580][][580][Application of set-off under netting agreement][580]
+[280][580][][580][Qualifications of liquidators][580]
 
-[310C][581][][581][Calculation of netted balance][581]
+[281][581][][581][Validity of acts of liquidators][581]
 
-[310D][582][][582][Mutuality required for transactions under bilateral netting agreements][582]
+[282][582][][582][Consent to appointment][582]
 
-[310E][583][][583][When mutuality required for transactions under recognised multilateral netting agreements][583]
+[283][583][][583][Vacancies in office of liquidator][583]
 
-[310F][584][][584][Application of set-off under section 310 to transactions subject to netting agreements][584]
+[284][584][][584][Court supervision of liquidation][584]
 
-[310G][585][][585][Transactions under netting agreement and effect on certain sections][585]
+[285][585][][585][Meaning of failure to comply][585]
 
-[310H][586][][586][Rights under netting agreement not affected by commencement of liquidation][586]
+[286][586][][586][Orders to enforce liquidator's duties][586]
 
-[310I][587][][587][Set-off under netting agreement not affected by notice under section 294][587]
+[Company unable to pay its debts][587]
 
-[310J][588][][588][Court may set aside bilateral netting agreement between company and related person][588]
+[287][588][][588][Meaning of inability to pay debts][588]
 
-[310K][589][][589][Certain persons may be declared to be recognised clearing houses][589]
+[288][589][][589][Evidence and other matters][589]
 
-[310L][590][][590][Matters that Bank must or may have regard to when making, varying, or revoking declaration under section 310K][590]
+[289][590][][590][Statutory demand][590]
 
-[310M][591][][591][Bank may impose conditions in declaration under section 310K][591]
+[290][591][][591][Court may set aside statutory demand][591]
 
-[310N][592][][592][Bank to notify recognised clearing house about Bank's intention to revoke or vary declaration under section 310K][592]
+[291][592][][592][Additional powers of court on application to set aside statutory demand][592]
 
-[310O][593][][593][Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K][593]
+[Voidable transactions][593]
 
-[311][594][][594][Interest on claims][594]
+[292][594][][594][Insolvent transaction voidable][594]
 
-[312][595][][595][Preferential claims][595]
+[293][595][][595][Voidable charges][595]
 
-[313][596][][596][Claims of other creditors and distribution of surplus assets][596]
+[294][596][][596][Procedure for setting aside transactions and charges][596]
 
-[Liquidation committees][597]
+[295][597][][597][Other orders][597]
 
-[314][598][][598][Meetings of creditors or shareholders][598]
+[296][598][][598][Additional provisions relating to setting aside transactions and charges][598]
 
-[315][599][][599][Liquidation committees][599]
+[Recovery in other cases][599]
 
-[Liquidation Surplus Account][600]
+[297][600][][600][Transactions at undervalue][600]
 
-[316][601][][601][Establishment of Liquidation Surplus Account][601]
+[298][601][][601][Transactions for inadequate or excessive consideration with directors and certain other persons][601]
 
-[Transitional provisions][602]
+[299][602][][602][Court may set aside certain securities and charges][602]
 
-[316A][603][][603][Transitional provision in relation to voidable transactions][603] \[Repealed\]
+[300][603][][603][Liability if proper accounting records not kept][603]
 
-[316B][604][][604][Transitional provision in relation to Liquidation Surplus Account under section 290 of Companies Act 1955][604]
+[301][604][][604][Power of court to require persons to repay money or return property][604]
 
-[Part 17][605]  
-[Removal from the New Zealand register][605]
+[Creditors' claims][605]
 
-[317][606][][606][Removal from register][606]
+[302][606][][606][Application of bankruptcy rules to liquidation of insolvent companies][606]
 
-[318][607][][607][Grounds for removal from register][607]
+[303][607][][607][Admissible claims][607]
 
-[319][608][][608][Notice of intention to remove where company has ceased to carry on business or application fee not paid][608]
+[304][608][][608][Claims by unsecured creditors][608]
 
-[320][609][][609][Notice of intention to remove in other cases][609]
+[305][609][][609][Rights and duties of secured creditors][609]
 
-[321][610][][610][Objection to removal from register][610]
+[306][610][][610][Ascertainment of amount of claim][610]
 
-[322][611][][611][Duties of Registrar if objection received][611]
+[307][611][][611][Claim not of an ascertained amount][611]
 
-[323][612][][612][Powers of court][612]
+[308][612][][612][Fines and penalties][612]
 
-[324][613][][613][Property of company removed from register][613]
+[309][613][][613][Claims relating to debts payable after commencement of liquidation][613]
 
-[325][614][][614][Disclaimer of property by the Crown][614]
+[310][614][][614][Mutual credit and set-off][614]
 
-[326][615][][615][Liability of directors, shareholders, and others to continue][615]
+[310A][615][][615][Definitions relating to set-off under netting agreement][615]
 
-[327][616][][616][Liquidation of company removed from New Zealand register][616] \[Repealed\]
+[310B][616][][616][Application of set-off under netting agreement][616]
 
-[328][617][][617][Registrar may restore company to New Zealand register][617]
+[310C][617][][617][Calculation of netted balance][617]
 
-[329][618][][618][Court may restore company to New Zealand register][618]
+[310D][618][][618][Mutuality required for transactions under bilateral netting agreements][618]
 
-[330][619][][619][Restoration to register][619]
+[310E][619][][619][When mutuality required for transactions under recognised multilateral netting agreements][619]
 
-[331][620][][620][Vesting of property in company on restoration to register][620]
+[310F][620][][620][Application of set-off under section 310 to transactions subject to netting agreements][620]
 
-[Part 18][621]  
-[Overseas companies][621]
+[310G][621][][621][Transactions under netting agreement and effect on certain sections][621]
 
-[332][622][][622][Meaning of carrying on business][622]
+[310H][622][][622][Rights under netting agreement not affected by commencement of liquidation][622]
 
-[332A][623][][623][Registrar may approve use of different form][623]
+[310I][623][][623][Set-off under netting agreement not affected by notice under section 294][623]
 
-[333][624][][624][Name to be reserved before carrying on business][624]
+[310J][624][][624][Court may set aside bilateral netting agreement between company and related person][624]
 
-[334][625][][625][Overseas companies to register under this Act][625]
+[310K][625][][625][Certain persons may be declared to be recognised clearing houses][625]
 
-[335][626][][626][Validity of transactions not affected][626]
+[310L][626][][626][Matters that Bank must or may have regard to when making, varying, or revoking declaration under section 310K][626]
 
-[336][627][][627][Application for registration][627]
+[310M][627][][627][Bank may impose conditions in declaration under section 310K][627]
 
-[337][628][][628][Registration of overseas company][628]
+[310N][628][][628][Bank to notify recognised clearing house about Bank's intention to revoke or vary declaration under section 310K][628]
 
-[338][629][][629][Use of name by overseas company][629]
+[310O][629][][629][Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K][629]
 
-[339][630][][630][Alteration of constitution][630]
+[311][630][][630][Interest on claims][630]
 
-[339A][631][][631][Rectification or correction of name or address of person authorised to accept service][631]
+[312][631][][631][Preferential claims][631]
 
-[340][632][][632][Annual return of overseas company][632]
+[313][632][][632][Claims of other creditors and distribution of surplus assets][632]
 
-[341][633][][633][Overseas company ceasing to carry on business in New Zealand][633]
+[Liquidation committees][633]
 
-[342][634][][634][Liquidation of overseas company][634]
+[314][634][][634][Meetings of creditors or shareholders][634]
 
-[343][635][][635][Attorneys of overseas companies][635]
+[315][635][][635][Liquidation committees][635]
 
-[343A][636][][636][Overseas company not required to provide information, notice, or document in certain circumstances][636]
+[Liquidation Surplus Account][636]
 
-[Part 19][637]  
-[Transfer of registration][637]
+[316][637][][637][Establishment of Liquidation Surplus Account][637]
 
-[Registration of overseas companies as companies under this Act][638]
+[Transitional provisions][638]
 
-[344][639][][639][Overseas companies may be registered as companies under this Act][639]
+[316A][639][][639][Transitional provision in relation to voidable transactions][639] \[Repealed\]
 
-[345][640][][640][Application for registration][640]
+[316B][640][][640][Transitional provision in relation to Liquidation Surplus Account under section 290 of Companies Act 1955][640]
 
-[346][641][][641][Overseas companies must be authorised to register][641]
+[Part 17][641]  
+[Removal from the New Zealand register][641]
 
-[347][642][][642][Overseas companies that cannot be registered][642]
+[317][642][][642][Removal from register][642]
 
-[348][643][][643][Registration][643]
+[318][643][][643][Grounds for removal from register][643]
 
-[349][644][][644][Effect of registration][644]
+[319][644][][644][Notice of intention to remove where company has ceased to carry on business or application fee not paid][644]
 
-[Transfer of registration of companies to other jurisdictions][645]
+[320][645][][645][Notice of intention to remove in other cases][645]
 
-[350][646][][646][Companies may transfer incorporation][646]
+[321][646][][646][Objection to removal from register][646]
 
-[351][647][][647][Application to transfer incorporation][647]
+[322][647][][647][Duties of Registrar if objection received][647]
 
-[352][648][][648][Approval of shareholders][648]
+[323][648][][648][Powers of court][648]
 
-[353][649][][649][Company to give public notice][649]
+[324][649][][649][Property of company removed from register][649]
 
-[354][650][][650][Companies that cannot transfer incorporation][650]
+[325][650][][650][Disclaimer of property by the Crown][650]
 
-[355][651][][651][Removal from register][651]
+[326][651][][651][Liability of directors, shareholders, and others to continue][651]
 
-[356][652][][652][Effect of removal from register][652]
+[327][652][][652][Liquidation of company removed from New Zealand register][652] \[Repealed\]
 
-[Part 20][653]  
-[Registrar of Companies][653]
+[328][653][][653][Registrar may restore company to New Zealand register][653]
 
-[357][654][][654][Registrar and Deputy Registrars of Companies][654]
+[329][654][][654][Court may restore company to New Zealand register][654]
 
-[358][655][][655][District and Assistant Registrars of Companies][655]
+[330][655][][655][Restoration to register][655]
 
-[359][656][][656][Responsible District Registrar][656]
+[331][656][][656][Vesting of property in company on restoration to register][656]
 
-[360][657][][657][Registers][657]
+[Part 18][657]  
+[Overseas companies][657]
 
-[360A][658][][658][Rectification or correction of New Zealand register and overseas register][658]
+[332][658][][658][Meaning of carrying on business][658]
 
-[360B][659][][659][Powers of court][659]
+[332A][659][][659][Registrar may approve use of different form][659]
 
-[361][660][][660][Registrar may direct transfer][660] \[Repealed\]
+[333][660][][660][Name to be reserved before carrying on business][660]
 
-[362][661][][661][Registration of documents][661]
+[334][661][][661][Overseas companies to register under this Act][661]
 
-[363][662][][662][Inspection and evidence of registers][662]
+[335][662][][662][Validity of transactions not affected][662]
 
-[364][663][][663][Notice by Registrar][663]
+[336][663][][663][Application for registration][663]
 
-[365][664][][664][Registrar's powers of inspection][664]
+[337][664][][664][Registration of overseas company][664]
 
-[366][665][][665][Disclosure of information and reports][665]
+[338][665][][665][Use of name by overseas company][665]
 
-[367][666][][666][Application of Official Information Act 1982 and Privacy Act 1993][666]
+[339][666][][666][Alteration of constitution][666]
 
-[368][667][][667][Appeals from decisions under section 367][667]
+[339A][667][][667][Rectification or correction of name or address of person authorised to accept service][667]
 
-[369][668][][668][Inspector's report admissible in liquidation proceedings][668]
+[340][668][][668][Annual return of overseas company][668]
 
-[370][669][][669][Appeals from Registrar's decisions][669]
+[340A][669][][669][Financial reporting requirements for large overseas companies][669]
 
-[371][670][][670][Exercise of powers under section 365 not affected by appeal][670]
+[341][670][][670][Overseas company ceasing to carry on business in New Zealand][670]
 
-[371A][671][][671][Sharing of information with Financial Markets Authority][671]
+[342][671][][671][Liquidation of overseas company][671]
 
-[372][672][][672][Fees][672]
+[343][672][][672][Attorneys of overseas companies][672]
 
-[Part 21][673]  
-[Offences and penalties][673]
+[343A][673][][673][Overseas company not required to provide information, notice, or document in certain circumstances][673]
 
-[373][674][][674][Penalty for failure to comply with Act][674]
+[Part 19][674]  
+[Transfer of registration][674]
 
-[374][675][][675][Penalties that may be imposed on directors in cases of failure by board or company to comply with Act][675]
+[Registration of overseas companies as companies under this Act][675]
 
-[375][676][][676][Proceedings for offences][676]
+[344][676][][676][Overseas companies may be registered as companies under this Act][676]
 
-[376][677][][677][Defences][677]
+[345][677][][677][Application for registration][677]
 
-[377][678][][678][False statements][678]
+[346][678][][678][Overseas companies must be authorised to register][678]
 
-[378][679][][679][Fraudulent use or destruction of property][679]
+[347][679][][679][Overseas companies that cannot be registered][679]
 
-[379][680][][680][Falsification of records][680]
+[348][680][][680][Registration][680]
 
-[380][681][][681][Carrying on business fraudulently][681]
+[349][681][][681][Effect of registration][681]
 
-[381][682][][682][Improper use of ""Limited""][682]
+[Transfer of registration of companies to other jurisdictions][682]
 
-[382][683][][683][Persons prohibited from managing companies][683]
+[350][683][][683][Companies may transfer incorporation][683]
 
-[383][684][][684][Court may disqualify directors][684]
+[351][684][][684][Application to transfer incorporation][684]
 
-[384][685][][685][Liability for contravening sections 382 and 383][685]
+[352][685][][685][Approval of shareholders][685]
 
-[385][686][][686][Registrar or FMA may prohibit persons from managing companies][686]
+[353][686][][686][Company to give public notice][686]
 
-[385A][687][][687][Appeals from FMA's exercise of power under section 385][687]
+[354][687][][687][Companies that cannot transfer incorporation][687]
 
-[386][688][][688][Liability for contravening section 385][688]
+[355][688][][688][Removal from register][688]
 
-[386A][689][][689][Director of failed company must not be director, etc, of phoenix company with same or substantially similar name][689]
+[356][689][][689][Effect of removal from register][689]
 
-[386B][690][][690][Definitions for purpose of phoenix company provisions][690]
+[Part 20][690]  
+[Registrar of Companies][690]
 
-[386C][691][][691][Liability for debts of phoenix company][691]
+[357][691][][691][Registrar and Deputy Registrars of Companies][691]
 
-[386D][692][][692][Exception for person named in successor company notice][692]
+[358][692][][692][District and Assistant Registrars of Companies][692]
 
-[386E][693][][693][Exception for temporary period while application for exemption is made][693]
+[359][693][][693][Responsible District Registrar][693]
 
-[386F][694][][694][Exception in relation to non-dormant phoenix company known by pre-liquidation name of failed company for at least 12 months before liquidation][694]
+[360][694][][694][Registers][694]
 
-[Part 22][695]  
-[Miscellaneous][695]
+[360A][695][][695][Rectification or correction of New Zealand register and overseas register][695]
 
-[387][696][][696][Service of documents on companies in legal proceedings][696]
+[360B][696][][696][Powers of court][696]
 
-[388][697][][697][Service of other documents on companies][697]
+[361][697][][697][Registrar may direct transfer][697] \[Repealed\]
 
-[389][698][][698][Service of documents on overseas companies in legal proceedings][698]
+[362][698][][698][Registration of documents][698]
 
-[390][699][][699][Service of other documents on overseas companies][699]
+[363][699][][699][Inspection and evidence of registers][699]
 
-[391][700][][700][Service of documents on shareholders and creditors][700]
+[364][700][][700][Notice by Registrar][700]
 
-[392][701][][701][Additional provisions relating to service][701]
+[365][701][][701][Registrar's powers of inspection][701]
 
-[393][702][][702][Privileged communications][702]
+[366][702][][702][Disclosure of information and reports][702]
 
-[394][703][][703][Directors' certificates][703]
+[367][703][][703][Application of Official Information Act 1982 and Privacy Act 1993][703]
 
-[395][704][][704][Regulations][704]
+[368][704][][704][Appeals from decisions under section 367][704]
 
-[396][705][][705][Summary Proceedings Act 1957 amended][705]
+[369][705][][705][Inspector's report admissible in liquidation proceedings][705]
 
-[397][706][][706][Securities Transfer Act 1991 amended][706]
+[370][706][][706][Appeals from Registrar's decisions][706]
 
-[398][707][][707][Act subject to application of Cape Town Convention and Aircraft Protocol][707]
+[371][707][][707][Exercise of powers under section 365 not affected by appeal][707]
 
-[399][708][][708][Companies Act 1955 continues to apply for limited purposes][708]
+[371A][708][][708][Sharing of information with Financial Markets Authority][708]
 
-[400][709][][709][Companies restored to register or that have ceased to be in liquidation may be reregistered][709]
+[372][709][][709][Fees][709]
 
-[401][710][][710][References to companies incorporated under Companies Act 1955][710]
+[Part 21][710]  
+[Offences and penalties][710]
 
-[Schedule 1][711]  
-[Proceedings at meetings of shareholders][711]
+[373][711][][711][Penalty for failure to comply with Act][711]
 
-[Schedule 2][712]  
-[Sections of this Act that confer powers on directors that cannot be delegated][712]
+[374][712][][712][Penalties that may be imposed on directors in cases of failure by board or company to comply with Act][712]
 
-[Schedule 3][713]  
-[Proceedings of the board of a company][713]
+[375][713][][713][Proceedings for offences][713]
 
-[Schedule 4][714]  
-[Information to be contained in annual return][714]
+[376][714][][714][Defences][714]
 
-[Schedule 5][715]  
-[Proceedings at meetings of creditors][715]
+[377][715][][715][False statements][715]
 
-[Schedule 6][716]  
-[Powers of liquidators][716]
+[378][716][][716][Fraudulent use or destruction of property][716]
 
-[Schedule 7][717]  
-[Preferential claims][717]
+[379][717][][717][Falsification of records][717]
 
-[Schedule 8][718]  
-[Proceedings at meetings of liquidation committees][718]
+[380][718][][718][Carrying on business fraudulently][718]
 
-[Schedule 9][719]  
-[Liquidation of overseas companies][719]
+[381][719][][719][Improper use of ""Limited""][719]
+
+[382][720][][720][Persons prohibited from managing companies][720]
+
+[383][721][][721][Court may disqualify directors][721]
+
+[384][722][][722][Liability for contravening sections 382 and 383][722]
+
+[385][723][][723][Registrar or FMA may prohibit persons from managing companies][723]
+
+[385A][724][][724][Appeals from FMA's exercise of power under section 385][724]
+
+[386][725][][725][Liability for contravening section 385][725]
+
+[386A][726][][726][Director of failed company must not be director, etc, of phoenix company with same or substantially similar name][726]
+
+[386B][727][][727][Definitions for purpose of phoenix company provisions][727]
+
+[386C][728][][728][Liability for debts of phoenix company][728]
+
+[386D][729][][729][Exception for person named in successor company notice][729]
+
+[386E][730][][730][Exception for temporary period while application for exemption is made][730]
+
+[386F][731][][731][Exception in relation to non-dormant phoenix company known by pre-liquidation name of failed company for at least 12 months before liquidation][731]
+
+[Part 22][732]  
+[Miscellaneous][732]
+
+[387][733][][733][Service of documents on companies in legal proceedings][733]
+
+[388][734][][734][Service of other documents on companies][734]
+
+[389][735][][735][Service of documents on overseas companies in legal proceedings][735]
+
+[390][736][][736][Service of other documents on overseas companies][736]
+
+[391][737][][737][Service of documents on shareholders and creditors][737]
+
+[392][738][][738][Additional provisions relating to service][738]
+
+[393][739][][739][Privileged communications][739]
+
+[394][740][][740][Directors' certificates][740]
+
+[395][741][][741][Regulations][741]
+
+[396][742][][742][Summary Proceedings Act 1957 amended][742]
+
+[397][743][][743][Securities Transfer Act 1991 amended][743]
+
+[398][744][][744][Act subject to application of Cape Town Convention and Aircraft Protocol][744]
+
+[399][745][][745][Companies Act 1955 continues to apply for limited purposes][745]
+
+[400][746][][746][Companies restored to register or that have ceased to be in liquidation may be reregistered][746]
+
+[401][747][][747][References to companies incorporated under Companies Act 1955][747]
+
+[Schedule 1][748]  
+[Proceedings at meetings of shareholders][748]
+
+[Schedule 2][749]  
+[Sections of this Act that confer powers on directors that cannot be delegated][749]
+
+[Schedule 3][750]  
+[Proceedings of the board of a company][750]
+
+[Schedule 4][751]  
+[Information to be contained in annual return][751]
+
+[Schedule 5][752]  
+[Proceedings at meetings of creditors][752]
+
+[Schedule 6][753]  
+[Powers of liquidators][753]
+
+[Schedule 7][754]  
+[Preferential claims][754]
+
+[Schedule 8][755]  
+[Proceedings at meetings of liquidation committees][755]
+
+[Schedule 9][756]  
+[Liquidation of overseas companies][756]
 
 ---
 
@@ -1522,21 +1596,25 @@ Preliminary
     
     _accounting period_, in relation to a company, means a year ending on a balance date of the company and, if as a result of the date of the registration of the company or a change of the balance date of the company, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
     
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
+    
+    _applicable financial reporting standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
+    
     _address for service_ in relation to a company, means the company's address for service adopted in accordance with [section 192][251]
     
     _annual meeting_ means a meeting required to be held by [section 120][159]
     
     _annual report_---
         
-    *   (a) means a report prepared under [section 208][274]; and
+    *   (a) means a report prepared under [section 208][310]; and
     
     *   (b) does not include a concise annual report
     
-    _balance date_ has the meaning set out in [section 7][720] of the Financial Reporting Act 1993
+    _balance date_, in relation to a company or an overseas company, has the same meaning as in [section 41][758] of the Financial Reporting Act 2013
     
     _board_ and _board of directors_ have the meanings set out in [section 127][168]
     
-    _charge_ includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under [section 313][596]; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
+    _charge_ includes a right or interest in relation to property owned by a company, by virtue of which a creditor of the company is entitled to claim payment in priority to creditors entitled to be paid under [section 313][632]; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
     
     _class_ has the meaning set out in [section 116][154]
     
@@ -1544,7 +1622,7 @@ Preliminary
         
     *   (a) a company registered under [Part 2][12]:
     
-    *   (b) a company reregistered under this Act in accordance with the [Companies Reregistration Act 1993][721]
+    *   (b) a company reregistered under this Act in accordance with the [Companies Reregistration Act 1993][759]
     
     _concise annual report_, in relation to a company and an accounting period, means a report on the affairs of the company during that period that is prepared in accordance with the requirements prescribed in regulations made under this Act
     
@@ -1552,7 +1630,7 @@ Preliminary
     
     _court_ means the High Court of New Zealand
     
-    _designated settlement system_ has the meaning set out in [section 156M][722] of the Reserve Bank of New Zealand Act 1989
+    _designated settlement system_ has the meaning set out in [section 156M][760] of the Reserve Bank of New Zealand Act 1989
     
     _director_ has the meaning set out in [section 126][167]
     
@@ -1582,39 +1660,37 @@ Preliminary
     
     *   (b) a person upon whom the constitution confers any of the rights and powers of a shareholder
     
-    _exempt company_ has the meaning set out in [section 6A][723] of the Financial Reporting Act 1993
-    
     _existing company_ means a body corporate registered or deemed to be registered under Part 2 or Part 10 of the Companies Act 1955, or under the Companies Act 1933, the Companies Act 1908, the Companies Act 1903, the Companies Act 1882, or the Joint Stock Companies Act 1860
     
-    _financial markets participant_ has the same meaning as in [section 4][724] of the Financial Markets Authority Act 2011
+    _financial markets participant_ has the same meaning as in [section 4][761] of the Financial Markets Authority Act 2011
     
-    _financial statements_ has the meaning set out in [section 8][725] of the Financial Reporting Act 1993
+    _financial statements_ has the same meaning as in [section 6][762] of the Financial Reporting Act 2013
     
-    _FMA_ means the Financial Markets Authority established under [Part 2][726] of the Financial Markets Authority Act 2011
+    _FMA_ means the Financial Markets Authority established under [Part 2][763] of the Financial Markets Authority Act 2011
     
-    _group financial statements_ has the meaning set out in [section 9][727] of the Financial Reporting Act 1993
+    _generally accepted accounting practice_ has the same meaning as in [section 8][764] of the Financial Reporting Act 2013
     
-    _group of companies_ has the meaning set out in [section 2][728] of the Financial Reporting Act 1993
+    _group financial statements_ has the same meaning as in [section 7][765] of the Financial Reporting Act 2013
     
     _holding company_ has the meaning set out in [section 5][7]
     
-    _interest group_ has the meaning set out in [section 116][154] 
+    _interest group_ has the meaning set out in [section 116][154]
     
     _interested_, in relation to a director, has the meaning set out in [section 139][183]
     
     _interests register_ means the register kept under [section 189(1)(c)][247]
     
-    _licensed insurer_ has the same meaning as in [section 6(1)][729] of the Insurance (Prudential Supervision) Act 2010
+    _licensed insurer_ has the same meaning as in [section 6(1)][766] of the Insurance (Prudential Supervision) Act 2010
     
     _major transaction_ has the meaning set out in [section 129(2)][171]
     
-    _New Zealand register_ means the register of companies incorporated in New Zealand kept pursuant to [section 360(1)(a)][657]
+    _New Zealand register_ means the register of companies incorporated in New Zealand kept pursuant to [section 360(1)(a)][694]
     
     _ordinary resolution_ has the meaning set out in [section 105(2)][138]
     
     _overseas company_ means a body corporate that is incorporated outside New Zealand
     
-    _overseas register_ means the register of bodies corporate that are incorporated outside New Zealand kept pursuant to [section 360(1)(b)][657]
+    _overseas register_ means the register of bodies corporate that are incorporated outside New Zealand kept pursuant to [section 360(1)(b)][694]
     
     _personal representative_, in relation to an individual, means the executor, administrator or trustee of the estate of that individual
     
@@ -1624,7 +1700,7 @@ Preliminary
     
     _property_ means property of every kind whether tangible or intangible, real or personal, corporeal or incorporeal, and includes rights, interests, and claims of every kind in relation to property however they arise
     
-    _receiver_ has the same meaning as in [section 2(1)][730] of the Receiverships Act 1993
+    _receiver_ has the same meaning as in [section 2(1)][767] of the Receiverships Act 1993
     
     _records_ means the documents required to be kept by a company under [section 189(1)][247]
     
@@ -1632,7 +1708,7 @@ Preliminary
     
     _registered office_ has the meaning set out in [section 186][243]
     
-    _Registrar_ means the Registrar of Companies appointed in accordance with [section 357(1)][654]
+    _Registrar_ means the Registrar of Companies appointed in accordance with [section 357(1)][691]
     
     _related company_ has the meaning set out in subsection (3)
     
@@ -1650,7 +1726,7 @@ Preliminary
     
     _secured creditor_, in relation to a company, means a person entitled to a charge on or over property owned by that company
     
-    _securities_ has the same meaning as in the [Securities Act 1978][731]
+    _securities_ has the same meaning as in the [Securities Act 1978][768]
     
     _share_ has the meaning set out in [section 35][46]
     
@@ -1668,7 +1744,7 @@ Preliminary
     
     _subsidiary_ has the meaning set out in [section 5][7]
     
-    _surplus assets_ means the assets of a company remaining after the payment of creditors' claims and available for distribution in accordance with [section 313][596] prior to its removal from the New Zealand register
+    _surplus assets_ means the assets of a company remaining after the payment of creditors' claims and available for distribution in accordance with [section 313][632] prior to its removal from the New Zealand register
     
     _working day_ means a day of the week other than---
         
@@ -1712,35 +1788,57 @@ Preliminary
     
     *   (b) in relation to a body corporate, its registered office or, if it does not have a registered office, its principal place of business.
     
-    Section 2(1) **annual report**: inserted, on 18 June 2007, by [section 4(3)][732] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    (6) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
     
-    Section 2(1) **concise annual report**: inserted, on 18 June 2007, by [section 4(3)][732] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    (7) If an example and a provision to which it relates are inconsistent, the provision prevails.
     
-    Section 2(1) **designated settlement system**: inserted, on 24 November 2009, by [section 16][733] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 2(1) **annual report**: inserted, on 18 June 2007, by [section 4(3)][769] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 2(1) **exempt company**: replaced, on 22 November 2006, by [section 4(1)][732] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 2(1) **applicable auditing and assurance standard**: inserted, on 1 April 2014, by [section 24(6)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **financial markets participant**: inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2(1) **applicable financial reporting standard**: inserted, on 1 April 2014, by [section 24(6)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 2(1) **balance date**: replaced, on 1 April 2014, by [section 24(1)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **licensed insurer**: inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 2(1) **concise annual report**: inserted, on 18 June 2007, by [section 4(3)][769] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 2(1) **receiver**: inserted, on 1 November 2007, by [section 4(1)][736] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 2(1) **designated settlement system**: inserted, on 24 November 2009, by [section 16][771] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 2(1) **relative** paragraph (a): replaced, on 26 April 2005, by [section 7][737] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2(1) **exempt company**: repealed, on 1 April 2014, by [section 24(2)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **relative** paragraph (b): replaced, on 26 April 2005, by [section 7][737] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2(1) **financial markets participant**: inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 2(1) **relative** paragraph (ba): inserted, on 26 April 2005, by [section 7][737] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2(1) **financial statements**: replaced, on 1 April 2014, by [section 24(3)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(1) **spouse**: replaced, on 1 November 2007, by [section 4(2)][736] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 2(1) **FMA**: inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][738] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 2(1) **generally accepted accounting practice**: inserted, on 1 April 2014, by [section 24(6)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(3)(b): amended, on 15 April 2004, by [section 3][739] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 2(1) **group financial statements**: replaced, on 1 April 2014, by [section 24(4)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 2(4): repealed, on 5 December 2013, by [section 4][740] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 2(1) **group of companies**: repealed, on 1 April 2014, by [section 24(5)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(1) **licensed insurer**: inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    
+    Section 2(1) **receiver**: inserted, on 1 November 2007, by [section 4(1)][774] of the Companies Amendment Act 2006 (2006 No 56).
+    
+    Section 2(1) **relative** paragraph (a): replaced, on 26 April 2005, by [section 7][775] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 2(1) **relative** paragraph (b): replaced, on 26 April 2005, by [section 7][775] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 2(1) **relative** paragraph (ba): inserted, on 26 April 2005, by [section 7][775] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 2(1) **spouse**: replaced, on 1 November 2007, by [section 4(2)][774] of the Companies Amendment Act 2006 (2006 No 56).
+    
+    Section 2(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][776] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    
+    Section 2(3)(b): amended, on 15 April 2004, by [section 3][777] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    
+    Section 2(4): repealed, on 5 December 2013, by [section 4][778] of the Companies Amendment Act 2013 (2013 No 111).
+    
+    Section 2(6): inserted, on 1 April 2014, by [section 24(7)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 2(7): inserted, on 1 April 2014, by [section 24(7)][770] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 3 Public notice
     
@@ -1770,17 +1868,17 @@ Preliminary
         
         
     
-    (3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under [sections 319(1)(c)][608], [320(1)][609], [328(3)(a)][617], and [360A(2)(b)][658].
+    (3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under [sections 319(1)(c)][644], [320(1)][645], [328(3)(a)][653], and [360A(2)(b)][695].
     
     (4) The public notice required to be given by the Registrar under the provisions referred to in subsection (3) must be given by publishing the notice in at least 1 issue of the _Gazette_.
     
     (5) The Registrar must ensure that a copy of the notice referred to in subsection (4) is available on an Internet site maintained by or on behalf of the Registrar, at all reasonable times, for a period of not less than 20 working days.
     
-    Section 3(3): inserted, on 7 July 2010, by [section 4][741] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
+    Section 3(3): inserted, on 7 July 2010, by [section 4][779] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
     
-    Section 3(4): inserted, on 7 July 2010, by [section 4][741] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
+    Section 3(4): inserted, on 7 July 2010, by [section 4][779] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
     
-    Section 3(5): inserted, on 7 July 2010, by [section 4][741] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
+    Section 3(5): inserted, on 7 July 2010, by [section 4][779] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
 
 ##### 4 Meaning of solvency test
     
@@ -1790,11 +1888,13 @@ Preliminary
     
     *   (b) the value of the company's assets is greater than the value of its liabilities, including contingent liabilities.
     
-    (2) Without limiting [sections 52][66] and [55(3)][69], in determining for the purposes of this Act (other than [sections 221][293] and [222][294] which relate to amalgamations) whether the value of a company's assets is greater than the value of its liabilities, including contingent liabilities, the directors---
+    (2) Without limiting [sections 52][66] and [55(3)][69], in determining for the purposes of this Act (other than [sections 221][329] and [222][330] which relate to amalgamations) whether the value of a company's assets is greater than the value of its liabilities, including contingent liabilities, the directors---
         
     *   (a) must have regard to---
             
-        *   (i) the most recent financial statements of the company that comply with [section 10][742] of the Financial Reporting Act 1993; and
+        *   (i) the most recent financial statements of the company that are prepared under this Act or any other enactment (if any); and
+        
+        *   (ia) the accounting records of the company; and
         
         *   (ii) all other circumstances that the directors know or ought to know affect, or may affect, the value of the company's assets and the value of the company's liabilities, including its contingent liabilities:
         
@@ -1802,11 +1902,13 @@ Preliminary
     
     *   (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
     
-    (3) Without limiting [sections 221][293] and [222][294], in determining for the purposes of those sections whether the value of the amalgamated company's assets will be greater than the value of its liabilities, including contingent liabilities, the directors of each amalgamating company---
+    (3) Without limiting [sections 221][329] and [222][330], in determining for the purposes of those sections whether the value of the amalgamated company's assets will be greater than the value of its liabilities, including contingent liabilities, the directors of each amalgamating company---
         
     *   (a) must have regard to---
             
-        *   (i) financial statements that comply with [section 10][742] of the Financial Reporting Act 1993 and that are prepared as if the amalgamation had become effective; and
+        *   (i) the most recent financial statements of each amalgamating company that are prepared under this Act or any other enactment (if any); and
+        
+        *   (ia) the accounting records of the amalgamating company; and
         
         *   (ii) all other circumstances that the directors know or ought to know would affect, or may affect, the value of the amalgamated company's assets and the value of its liabilities, including contingent liabilities:
         
@@ -1820,7 +1922,13 @@ Preliminary
     
     *   (b) any claim the company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
     
+    Section 4(2)(a)(i): replaced, on 1 April 2014, by [section 25(1)][780] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 4(2)(a)(ia): inserted, on 1 April 2014, by [section 25(1)][780] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 4(3)(a)(i): replaced, on 1 April 2014, by [section 25(2)][780] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 4(3)(a)(ia): inserted, on 1 April 2014, by [section 25(2)][780] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 5 Meaning of holding company and subsidiary
     
@@ -1850,7 +1958,7 @@ Preliminary
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 5 December 2013, by [section 5][743] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 6: repealed, on 5 December 2013, by [section 5][781] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 7 Control defined
     
@@ -2087,9 +2195,9 @@ Company names
     
     *   (b) if the name has been reserved, that, unless the reservation is sooner revoked by the Registrar, the name is available for registration of a company with that name or on a change of name for 20 working days after the date stated in the notice.
     
-    Section 22(2)(b): amended, on 5 December 2013, by [section 6(1)][744] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 22(2)(b): amended, on 5 December 2013, by [section 6(1)][782] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 22(2)(c): amended, on 5 December 2013, by [section 6(2)][744] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 22(2)(c): amended, on 5 December 2013, by [section 6(2)][782] of the Companies Amendment Act 2013 (2013 No 111).
     
     Section 23(3)(b): amended, on 1 July 1994, by section 2 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -2157,9 +2265,9 @@ Company names
     
     (5) If a company fails to comply with subsection (1) or subsection (4),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     
 
@@ -2184,7 +2292,7 @@ Company constitution
         
     *   (a) in the case of a company registered under [Part 2][12], a document certified by the applicant for registration of the company as the company's constitution; or
     
-    *   (b) in the case of an existing company that is reregistered pursuant to the [Companies Reregistration Act 1993][721], a document certified by the applicant for reregistration as the company's constitution; or
+    *   (b) in the case of an existing company that is reregistered pursuant to the [Companies Reregistration Act 1993][759], a document certified by the applicant for reregistration as the company's constitution; or
     
     *   (c) a document that is adopted by the company as its constitution under [section 32][42]; or
     
@@ -2224,7 +2332,7 @@ Company constitution
     
     (3) Within 10 working days of the adoption of a constitution by a company, or the alteration or revocation of the constitution of a company, as the case may be, the board must ensure that a notice in the prescribed form of the adoption of the constitution or of the alteration or revocation of the constitution is delivered to the Registrar for registration.
     
-    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][675].
+    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][712].
 
 ##### 33 New form of constitution
     
@@ -2238,7 +2346,7 @@ Company constitution
     
     (5) As soon as the Registrar receives a document certified in accordance with subsection (4), the Registrar must register the document.
     
-    (6) If the board of a company fails to comply with subsection (3) or subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (6) If the board of a company fails to comply with subsection (3) or subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
 
 ##### 34 Court may alter constitution
     
@@ -2246,12 +2354,12 @@ Company constitution
     
     (2) The applicant for the order must ensure that a copy of an order made under subsection (1), together with a copy of the constitution as altered, is delivered to the Registrar for registration within 10 working days.
     
-    (3) A person who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (3) A person who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
 
 ## Part 6  
 Shares and debentures
     
-*   Part 6 heading: amended, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+*   Part 6 heading: amended, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ##### 35 Legal nature of shares
     
@@ -2271,7 +2379,7 @@ Shares and debentures
         
         *   (iv) approve a major transaction:
         
-        *   (v) approve an amalgamation of the company under [section 221][293]:
+        *   (v) approve an amalgamation of the company under [section 221][329]:
         
         *   (vi) put the company into liquidation:
         
@@ -2283,9 +2391,9 @@ Shares and debentures
     
     (2) Subject to [section 53][67], the rights specified in subsection (1) may be negated, altered, or added to by the constitution of the company or in accordance with the terms on which the share is issued under [section 41(b)][53] or [section 42][54] or [section 44][56] or [section 107(2)][140], as the case may be.
     
-    Section 36(2): amended, on 3 May 2001, by [section 3][746] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 36(2): amended, on 3 May 2001, by [section 3][784] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 36(2): amended, on 30 June 1997, by [section 2][747] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 36(2): amended, on 30 June 1997, by [section 2][785] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
     Section 36(2): amended, on 1 July 1994, by section 4 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -2321,7 +2429,7 @@ Shares and debentures
 
 ##### 40 Contracts for issue of shares
     
-*   A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of securities or otherwise, is an illegal contract for the purposes of the [Illegal Contracts Act 1970][748] unless---
+*   A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of securities or otherwise, is an illegal contract for the purposes of the [Illegal Contracts Act 1970][786] unless---
         
     *   (a) the board is entitled to issue the shares; and
     
@@ -2341,7 +2449,7 @@ Shares and debentures
         
         
     
-    Section 40: replaced, on 3 May 2001, by [section 4][749] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 40: replaced, on 3 May 2001, by [section 4][787] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
 
 #### Issue of shares
 
@@ -2363,9 +2471,9 @@ Shares and debentures
     
 *   (1) The board of a company must deliver to the Registrar for registration, within 10 working days of the issue of shares under [section 41(b)][53] or [section 42][54] or [section 107(2)][140], a notice in the prescribed form of the issue of the shares by the company.
     
-    (2) If the board of a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (2) If the board of a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 43(1): amended, on 30 June 1997, by [section 3][750] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 43(1): amended, on 30 June 1997, by [section 3][788] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 44 Shareholder approval for issue of shares
     
@@ -2379,7 +2487,7 @@ Shares and debentures
     
     (5) A failure to comply with this section does not affect the validity of an issue of shares.
     
-    (6) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (6) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
 
 ##### 45 Pre-emptive rights
     
@@ -2401,7 +2509,7 @@ Shares and debentures
     
     *   (b) the shareholder is liable to pay or provide consideration for those shares pursuant to either a pre-incorporation contract (within the meaning of [section 182][237]) or a contract entered into after the registration of the company.
     
-    Section 46A: inserted, on 30 June 1997, by [section 4][751] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 46A: inserted, on 30 June 1997, by [section 4][789] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 47 Consideration to be decided by board
     
@@ -2457,7 +2565,7 @@ Shares and debentures
     
     (6) For the purposes of this section, shares that are or are to be credited as paid up, whether wholly or partly, as part of an arrangement that involves the transfer of property or the provision of services and an exchange of cash or cheques or other negotiable instruments, whether simultaneously or not, must be treated as paid up other than in cash to the value of the property or services.
     
-    (7) A director who fails to comply with subsection (2) or subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (7) A director who fails to comply with subsection (2) or subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (8) Nothing in this section applies to the issue of shares in a company on---
         
@@ -2465,7 +2573,7 @@ Shares and debentures
     
     *   (b) the exercise of any option to acquire shares in the company.
     
-    (9) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][675].
+    (9) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][712].
 
 ##### 48 Exceptions to section 47
     
@@ -2507,9 +2615,9 @@ Shares and debentures
     
     (4) For the purposes of this section, shares that are to be credited as paid up, whether wholly or partly, as part of an arrangement that involves the transfer of property or the provision of services and an exchange of cash or cheques or other negotiable instruments, whether simultaneously or not, must be treated as paid up other than in cash to the value of the property or services.
     
-    (5) A director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (5) A director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    (6) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (6) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
 
 ##### 50 Consent to issue of shares
     
@@ -2541,7 +2649,7 @@ Shares and debentures
     
     *   (b) _liabilities_ includes the amount that would be required, if the company were to be removed from the New Zealand register after the distribution, to repay all fixed preferential amounts payable by the company to shareholders, at that time, or on earlier redemption (except where such fixed preferential amounts are expressed in the constitution as being subject to the power of directors to make distributions); but, subject to paragraph (a), does not include dividends payable in the future.
     
-    (5) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (5) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
 
 ##### 53 Dividends
     
@@ -2553,13 +2661,13 @@ Shares and debentures
     
     *   (b) that is of a greater value per share in respect of some shares of a class than it is in respect of other shares of that class---
     
-    unless the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a portfolio tax rate entity, as a result of [section HL 7][752] of the Income Tax Act 2004\.
+    unless the amount of the dividend in respect of a share of that class is in proportion to the amount paid to the company in satisfaction of the liability of the shareholder under the constitution of the company or under the terms of issue of the share or is required, for a portfolio tax rate entity, as a result of [section HL 7][790] of the Income Tax Act 2004\.
     
     (3) Notwithstanding subsection (2), a shareholder may waive his or her entitlement to receive a dividend by notice in writing to the company signed by or on behalf of the shareholder.
     
-    Section 53(2): amended, on 1 October 2007, by [section 70][753] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 53(2): amended, on 1 October 2007, by [section 70][791] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
-    Section 53(2): amended, on 1 October 2007, by [section 219][754] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 53(2): amended, on 1 October 2007, by [section 219][792] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
 
 ##### 54 Shares in lieu of dividends
     
@@ -2669,11 +2777,11 @@ Shares and debentures
     
     (3) Within 10 working days of the purchase or acquisition of the shares, the board of the company must ensure that notice in the prescribed form of the purchase or acquisition is delivered to the Registrar for registration.
     
-    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 58(1): amended, on 17 September 2008, by [section 4][755] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 58(1): amended, on 17 September 2008, by [section 4][793] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
-    Section 58(2): amended, on 17 September 2008, by [section 4][755] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 58(2): amended, on 17 September 2008, by [section 4][793] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
     Section 58(2): amended, on 1 July 1994, by section 7 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -2749,7 +2857,7 @@ Shares and debentures
         
         
     
-    (7) Every director who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (7) Every director who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
 
 ##### 61 Special offers to acquire shares
     
@@ -2775,7 +2883,7 @@ Shares and debentures
     
     (7) Nothing in subsections (5) and (6) applies to an offer to a shareholder by a company if---
         
-    *   (a) the company is a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][756] of the Securities Markets Act 1988); and
+    *   (a) the company is a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][794] of the Securities Markets Act 1988); and
     
     *   (b) the offer is to acquire fewer of the shares quoted on the registered exchange's securities market than is the minimum holding of shares in the company determined by that exchange.
     
@@ -2785,17 +2893,17 @@ Shares and debentures
     
     *   (b) the terms of the offer and the consideration offered for the shares are not fair and reasonable to the company and remaining shareholders.
     
-    (9) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (9) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (10) If a company fails to comply with subsection (5),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
-    Section 61(7): replaced, on 1 December 2002, by [section 30][757] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 61(7): replaced, on 1 December 2002, by [section 30][795] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 61(7)(b): amended, on 24 November 2009, by [section 23(1)][758] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 61(7)(b): amended, on 24 November 2009, by [section 23(1)][796] of the Securities Markets Amendment Act 2009 (2009 No 54).
 
 ##### 62 Disclosure document
     
@@ -2859,9 +2967,9 @@ Shares and debentures
     
     *   (b) the terms of the offer and, if it is disclosed, the consideration offered for the shares are not fair and reasonable to the company or the shareholders.
     
-    (9) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (9) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    (10) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    (10) If the board of a company fails to comply with subsection (5), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     Section 63(1): amended, on 1 July 1994, by section 10(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
@@ -2925,17 +3033,17 @@ Shares and debentures
     
     (3) If a company fails to comply with subsection (2),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     Section 65(2): replaced, on 1 July 1994, by section 11(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 65(2A): repealed, on 31 August 2012, by [section 4(1)][759] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 65(2A): repealed, on 31 August 2012, by [section 4(1)][797] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
     Section 65(2B): inserted, on 1 July 1994, by section 11(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 65(3): amended, on 31 August 2012, by [section 4(2)][759] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 65(3): amended, on 31 August 2012, by [section 4(2)][797] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 66 Cancellation of shares repurchased
     
@@ -2951,7 +3059,7 @@ Shares and debentures
     
     Section 66(1): replaced, on 1 July 1994, by section 2 of the Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82).
     
-    Section 66(1): amended, on 17 September 2008, by [section 5][760] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 66(1): amended, on 17 September 2008, by [section 5][798] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 67 Enforceability of contract to repurchase shares
     
@@ -2981,9 +3089,9 @@ Shares and debentures
     
     Section 67A: inserted, on 1 July 1994, by section 3 of the Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82).
     
-    Section 67A(1): amended, on 17 September 2008, by [section 6][761] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 67A(1): amended, on 17 September 2008, by [section 6][799] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
-    Section 67A(2): amended, on 17 September 2008, by [section 6][761] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 67A(2): amended, on 17 September 2008, by [section 6][799] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 67B Rights and obligations of shares company holds in itself suspended
     
@@ -3001,15 +3109,15 @@ Shares and debentures
     
 *   (1) Subject to subsection (2), [section 47][60] shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under [section 42][54] or [section 44][56].
     
-    (2) [Section 47(2)][60] shall not apply to the transfer of a share held by a company in itself if the share is transferred by means of a system that is approved under [section 7][762] of the Securities Transfer Act 1991\.
+    (2) [Section 47(2)][60] shall not apply to the transfer of a share held by a company in itself if the share is transferred by means of a system that is approved under [section 7][800] of the Securities Transfer Act 1991\.
     
     (3) Subject to subsection (1), the transfer of a share by a company in itself shall not be subject to any provisions in this Act or the company's constitution relating to the issue of shares, except to the extent the company's constitution expressly applies those provisions.
     
-    (4) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the [Takeovers Act 1993][763] or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
+    (4) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the [Takeovers Act 1993][801] or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
     
     Section 67C: inserted, on 1 July 1994, by section 3 of the Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82).
     
-    Section 67C(4): amended, on 25 October 2006, by [section 30(1)][764] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 67C(4): amended, on 25 October 2006, by [section 30(1)][802] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 #### Redemption of shares
 
@@ -3037,7 +3145,7 @@ Shares and debentures
         
         
     
-    Section 68: replaced, on 3 June 1998, by [section 2][765] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 68: replaced, on 3 June 1998, by [section 2][803] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 69 Redemption at option of company
     
@@ -3069,7 +3177,7 @@ Shares and debentures
     
     *   (b) the consideration for the exercise of the option is fair and reasonable to the company.
     
-    (6) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (6) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
 
 ##### 70 Company must satisfy solvency test
     
@@ -3079,7 +3187,7 @@ Shares and debentures
     
     (3) If, after a resolution is passed under subsection (1) and before the option is exercised, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the share is redeemed, satisfy the solvency test in accordance with [section 52][66], any redemption of the share is deemed not to have been authorised for the purpose of that section.
     
-    (4) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (4) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (5) The provisions of [section 56][70] apply in relation to the redemption of a share at the option of the company with such modifications as may be necessary.
 
@@ -3111,13 +3219,13 @@ Shares and debentures
     
     *   (b) the consideration for the redemption is not fair or reasonable to the company or remaining shareholders.
     
-    (8) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (8) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (9) If a company fails to comply with subsection (5),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     
 
@@ -3159,7 +3267,7 @@ Shares and debentures
     
     *   (b) is deemed to be a distribution for the purposes of subsections (1) and (5) of [section 56][70].
     
-    Section 74(1)(c): amended, on 15  April 2004, by [section 4][766] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 74(1)(c): amended, on 15  April 2004, by [section 4][804] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 75 Redemption on fixed date
     
@@ -3177,7 +3285,7 @@ Shares and debentures
     
     *   (b) is deemed to be a distribution for the purposes of subsections (1) and (5) of [section 56][70].
     
-    Section 75(1)(c): amended, on 30 June 1997, by [section 5][767] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 75(1)(c): amended, on 30 June 1997, by [section 5][805] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 #### Assistance by a company in the purchase of its own shares
 
@@ -3211,7 +3319,7 @@ Shares and debentures
     
     (6) For the purposes of this section, _financial assistance_ includes a loan, a guarantee, and the provision of a security.
     
-    (7) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (7) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
 
 ##### 77 Company must satisfy solvency test
     
@@ -3221,7 +3329,7 @@ Shares and debentures
     
     (3) If, after a resolution is passed under subsection (1) and before the financial assistance is given, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the financial assistance is given, satisfy the solvency test, any financial assistance given by the company is deemed not to have been authorised.
     
-    (4) Every director of a company who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (4) Every director of a company who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (5) The provisions of [section 56][70] apply in relation to the giving of financial assistance by a company with such modifications as may be necessary.
     
@@ -3233,13 +3341,13 @@ Shares and debentures
     
     (7) Nothing in subsection (6) limits or affects the application of [section 4(4)][6].
     
-    Section 77(4): amended, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 77(4): amended, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 77(6): replaced, on 1 July 1994, by section 12 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 77(6) **assets**: amended, on 15 April 2004, by [section 5(a)][769] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 77(6) **assets**: amended, on 15 April 2004, by [section 5(a)][807] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 77(6) **liabilities**: amended, on 15 April 2004, by [section 5(b)][769] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 77(6) **liabilities**: amended, on 15 April 2004, by [section 5(b)][807] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
     Section 77(7): inserted, on 1 July 1994, by section 12 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -3271,13 +3379,13 @@ Shares and debentures
     
     *   (b) the terms and conditions under which the assistance is to be given are not fair and reasonable to the company and to those shareholders not receiving the assistance.
     
-    (8) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (8) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     (9) If a company fails to comply with subsection (5),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     
 
@@ -3297,7 +3405,7 @@ Shares and debentures
     
 *   (1) Financial assistance may be given under [section 76(1)(c)][97], only if---
         
-    *   (a) the amount of the financial assistance, together with any other financial assistance given by the company pursuant to this paragraph, repayment of which remains outstanding, would not exceed 5% of the aggregate of amounts received by the company in respect of the issue of shares and reserves as disclosed in the most recent financial statements of the company that comply with [section 10][742] of the Financial Reporting Act 1993, and the company receives fair value in connection with the assistance; and
+    *   (a) the amount of the financial assistance, together with any other financial assistance given by the company pursuant to this paragraph, repayment of which remains outstanding, would not exceed 5% of the aggregate of amounts received by the company in respect of the issue of shares and reserves as disclosed in the relevant statements or records, and the company receives fair value in connection with the assistance; and
     
     *   (b) within 10 working days of providing the financial assistance, the company sends to each shareholder a notice containing the following particulars:
             
@@ -3311,13 +3419,21 @@ Shares and debentures
         
         
     
+    (1A) In subsection (1), _relevant statements or records_ means---
+        
+    *   (a) financial statements of the company prepared for the most recently completed accounting period in accordance with generally accepted accounting practice; or
+    
+    *   (b) if those financial statements have not been prepared, the accounting records of the company.
+    
     (2) If a company fails to comply with subsection (1)(b),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
+    Section 80(1)(a): amended, on 1 April 2014, by [section 26(1)][808] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
+    Section 80(1A): inserted, on 1 April 2014, by [section 26(2)][808] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 81 Enforceability of transactions
     
@@ -3341,7 +3457,7 @@ Shares and debentures
     
     *   (b) the exercise of any voting rights attaching to those shares shall be of no effect.
     
-    (5) Where a company on reregistration under this Act in accordance with the [Companies Reregistration Act 1993][721] held shares in another company and was a subsidiary of that other company,---
+    (5) Where a company on reregistration under this Act in accordance with the [Companies Reregistration Act 1993][759] held shares in another company and was a subsidiary of that other company,---
         
     *   (a) the company may, notwithstanding subsection (1), continue to hold those shares; but
     
@@ -3379,11 +3495,11 @@ Shares and debentures
     
     (5) If a company fails to comply with subsection (1),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalties set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalties set out in [section 374(1)][712].
     
-    Section 83(2)(d): replaced, on 30 June 1997, by [section 6][770] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 83(2)(d): replaced, on 30 June 1997, by [section 6][809] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 #### Transfer of shares
 
@@ -3411,15 +3527,15 @@ Shares and debentures
     
     (6) If a company fails to comply with subsection (4),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     
 
 ##### 85 Transfer of shares under approved system
     
-*   (1) Where shares in a company are transferred under a system of transfer approved under [section 7][762] of the Securities Transfer Act 1991, the company may refuse to complete or delay the registration of the transfer of the shares if---
+*   (1) Where shares in a company are transferred under a system of transfer approved under [section 7][800] of the Securities Transfer Act 1991, the company may refuse to complete or delay the registration of the transfer of the shares if---
         
     *   (a) the board resolves, within 30 working days of such date as may be specified for the purpose in the Order in Council approving the system, to refuse or delay registration of the transfer, and the resolution sets out in full the reasons for doing so; and
     
@@ -3429,7 +3545,7 @@ Shares and debentures
             
         *   (i) the Act or the constitution expressly permits the board to refuse or delay registration for the reasons stated; or
         
-        *   (ii) any identification number assigned to the shares or issued to the holder of the shares under a system of transfer approved under [section 7][762] of the Securities Transfer Act 1991 is not recorded on the form of transfer of the shares or otherwise communicated in writing to the company by or on behalf of the transferor.
+        *   (ii) any identification number assigned to the shares or issued to the holder of the shares under a system of transfer approved under [section 7][800] of the Securities Transfer Act 1991 is not recorded on the form of transfer of the shares or otherwise communicated in writing to the company by or on behalf of the transferor.
         
         
     
@@ -3441,19 +3557,19 @@ Shares and debentures
     
     *   (c) this Act or the constitution of the company expressly permits the board to refuse or delay registration for the reasons stated.
     
-    (2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated settlement system, or under a system approved under [section 7][762] of the Securities Transfer Act 1991,---
+    (2) Subject to subsections (1) and (1A), if a company fails to enter or cause to be entered the name of the transferee on the share register on a transfer of shares effected in accordance with the rules of a designated settlement system, or under a system approved under [section 7][800] of the Securities Transfer Act 1991,---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
-    Section 85(1)(c): replaced, on 3 May 2001, by [section 5][771] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 85(1)(c): replaced, on 3 May 2001, by [section 5][810] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 85(1A): inserted, on 24 November 2009, by [section 17(1)][772] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 85(1A): inserted, on 24 November 2009, by [section 17(1)][811] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 85(2): amended, on 24 November 2009, by [section 17(2)(a)][772] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 85(2): amended, on 24 November 2009, by [section 17(2)(a)][811] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 85(2): amended, on 24 November 2009, by [section 17(2)(b)][772] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 85(2): amended, on 24 November 2009, by [section 17(2)(b)][811] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 86 Transfer of shares by operation of law
     
@@ -3489,9 +3605,9 @@ Shares and debentures
     
     (4) If a company fails to comply with subsection (1) or subsection (2),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     
 
@@ -3517,9 +3633,9 @@ Shares and debentures
     
     (5) If a company fails to comply with subsection (2) or subsection (3),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     
 
@@ -3543,7 +3659,7 @@ Shares and debentures
     
 *   (1) It is the duty of each director to take reasonable steps to ensure that the share register is properly kept and that share transfers are promptly entered on it in accordance with [section 84][108].
     
-    (2) A director who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (2) A director who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
 
 ##### 91 Power of court to rectify share register
     
@@ -3601,7 +3717,7 @@ Shares and debentures
     
     *   (c) the number of shares held by that person.
     
-    (2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated settlement system, or under a system authorised or approved under the [Securities Transfer Act 1991][773], that does not require a share certificate for the transfer of shares.
+    (2) Nothing in subsections (1) or (5) applies in relation to a company the shares in which can be transferred in accordance with the rules of a designated settlement system, or under a system authorised or approved under the [Securities Transfer Act 1991][812], that does not require a share certificate for the transfer of shares.
     
     (3) A shareholder in a company, not being a company to which subsection (1) or subsection (2) applies, may apply to the company for a certificate relating to some or all of the shareholder's shares in the company.
     
@@ -3623,21 +3739,21 @@ Shares and debentures
     
     (6) Subject to subsection (1), where shares to which a share certificate relates are to be transferred, and the share certificate is sent to the company to enable the registration of the transfer, the share certificate must be cancelled and no further share certificate issued except at the request of the transferee.
     
-    (6A) Nothing in this section (except subsection (2)) limits or affects [section 54][774] of the Securities Act 1978\.
+    (6A) Nothing in this section (except subsection (2)) limits or affects [section 54][813] of the Securities Act 1978\.
     
     (7) If a company fails to comply with subsection (1) or subsection (4),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
-    Section 95(2): replaced, on 24 November 2009, by [section 18][775] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 95(2): replaced, on 24 November 2009, by [section 18][814] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
     Section 95(6A): inserted, on 1 July 1994, by section 13 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 #### Debentures
     
-*   Heading: inserted, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+*   Heading: inserted, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ##### 95A Perpetual debentures
     
@@ -3647,11 +3763,11 @@ Shares and debentures
     
     *   (b) redeemable only on the happening of a contingency, however remote, or on the expiration of a period, however long.
     
-    (2) This section applies despite anything to the contrary in [section 97][776] of the Property Law Act 2007 or in any rule of law or equity.
+    (2) This section applies despite anything to the contrary in [section 97][815] of the Property Law Act 2007 or in any rule of law or equity.
     
-    Compare: 1952 No 51 [s 151B][777]
+    Compare: 1952 No 51 [s 151B][816]
     
-    Section 95A: inserted, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+    Section 95A: inserted, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ##### 95B Power to reissue redeemed debentures in certain cases
     
@@ -3685,9 +3801,9 @@ Shares and debentures
     
     *   (b) is not to be treated as the issue of a new debenture for the purposes of any provision limiting the amount or number of debentures to be issued.
     
-    Compare: 1952 No 51 [s 151C][778]
+    Compare: 1952 No 51 [s 151C][817]
     
-    Section 95B: inserted, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+    Section 95B: inserted, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ##### 95C Specific performance of contracts to subscribe for debentures
     
@@ -3695,9 +3811,9 @@ Shares and debentures
     
     (2) The court must not refuse to order the specific performance of a contract of that kind on the ground that the contract is one to lend money.
     
-    Compare: 1952 No 51 [s 151D][779]
+    Compare: 1952 No 51 [s 151D][818]
     
-    Section 95C: inserted, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+    Section 95C: inserted, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ## Part 7  
 Shareholders and their rights and obligations
@@ -3744,11 +3860,11 @@ Shareholders and their rights and obligations
     
     (2) A former shareholder is not liable under subsection (1) for any debt or liability of the company contracted after ceasing to be a shareholder.
     
-    (3) Subsections (1) and (2) apply, with such modifications as may be necessary, in relation to an existing company that has become reregistered under this Act in accordance with the [Companies Reregistration Act 1993][721] and as if the reference to a former shareholder included a reference to a person who was a member of the company before the reregistration of the company.
+    (3) Subsections (1) and (2) apply, with such modifications as may be necessary, in relation to an existing company that has become reregistered under this Act in accordance with the [Companies Reregistration Act 1993][759] and as if the reference to a former shareholder included a reference to a person who was a member of the company before the reregistration of the company.
     
     (4) Where a person ceased to be a shareholder of a company before the liability of the shareholders of the company ceased to be limited and became unlimited and that person has not since become a shareholder of the company, that person is liable to the company only to the same extent as if the liability of the shareholders had remained limited.
     
-    (5) Subsection (4) applies, with such modifications as may be necessary, in relation to an existing company that has become reregistered under this Act in accordance with the [Companies Reregistration Act 1993][721], whether or not the liability of the shareholders ceased to be limited before, on, or after the reregistration of the company and as if the reference to a person who was a shareholder included a reference to a person who was a member of the company before reregistration.
+    (5) Subsection (4) applies, with such modifications as may be necessary, in relation to an existing company that has become reregistered under this Act in accordance with the [Companies Reregistration Act 1993][759], whether or not the liability of the shareholders ceased to be limited before, on, or after the reregistration of the company and as if the reference to a person who was a shareholder included a reference to a person who was a member of the company before reregistration.
     
     (6) For the purposes of subsection (1), _specified period_ means---
         
@@ -3760,19 +3876,19 @@ Shareholders and their rights and obligations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 1 year before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
-    Section 98(6)(a): replaced, on 26 April 1999, by [section 2(1)][780] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 98(6)(a): replaced, on 26 April 1999, by [section 2(1)][819] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 98(6)(b): amended, on 26 April 1999, by [section 2(2)(a)][780] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 98(6)(b): amended, on 26 April 1999, by [section 2(2)(a)][819] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 98(6)(b): amended, on 3 June 1998, by [section 3][781] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 98(6)(b): amended, on 3 June 1998, by [section 3][820] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 98(6)(c): inserted, on 3 June 1998, by [section 3][781] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 98(6)(c): inserted, on 3 June 1998, by [section 3][820] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 98(6)(c): amended, on 26 April 1999, by [section 2(2)(b)][780] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 98(6)(c): amended, on 26 April 1999, by [section 2(2)(b)][819] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 99 Additional provisions relating to liability of shareholders and former shareholders
     
@@ -3784,7 +3900,7 @@ Shareholders and their rights and obligations
             
         *   (i) an alteration of the constitution, repurchase or redemption of the share, or amalgamation; or
         
-        *   (ii) reregistration under this Act in accordance with the [Companies Reregistration Act 1993][721]; or
+        *   (ii) reregistration under this Act in accordance with the [Companies Reregistration Act 1993][759]; or
         
         *   (iii) a change of registration under section 30 of the Companies Act 1955; and
         
@@ -3810,9 +3926,9 @@ Shareholders and their rights and obligations
         
     *   (a) the term _company_ includes an amalgamating company which amalgamated with 1 or more other amalgamating companies to continue as that company:
     
-    *   (b) a member of a company limited by guarantee registered under the Companies Act 1955 is to be treated as if the member was, prior to reregistration of that company under this Act in accordance with the [Companies Reregistration Act 1993][721], the holder of a share which rendered the member liable to calls not exceeding the amount of contribution specified in the memorandum of association as the amount undertaken to be contributed by that member in a winding up:
+    *   (b) a member of a company limited by guarantee registered under the Companies Act 1955 is to be treated as if the member was, prior to reregistration of that company under this Act in accordance with the [Companies Reregistration Act 1993][759], the holder of a share which rendered the member liable to calls not exceeding the amount of contribution specified in the memorandum of association as the amount undertaken to be contributed by that member in a winding up:
     
-    *   (c) a member of an unlimited company registered under the Companies Act 1955 is to be treated as if the member was, prior to reregistration of that company under this Act in accordance with the [Companies Reregistration Act 1993][721], the holder of a share which rendered the member liable to unlimited calls.
+    *   (c) a member of an unlimited company registered under the Companies Act 1955 is to be treated as if the member was, prior to reregistration of that company under this Act in accordance with the [Companies Reregistration Act 1993][759], the holder of a share which rendered the member liable to unlimited calls.
     
     
 
@@ -3850,7 +3966,7 @@ Shareholders and their rights and obligations
     
     (2) In this section, _assignee_ means the assignee in whom the property of a bankrupt is vested pursuant to the Insolvency Act 2006\.
     
-    Section 103(2): amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 103(2): amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
 
 #### Powers of shareholders
 
@@ -3884,7 +4000,7 @@ Shareholders and their rights and obligations
     
     *   (b) approve a major transaction:
     
-    *   (c) approve an amalgamation of the company under [section 221][293]:
+    *   (c) approve an amalgamation of the company under [section 221][329]:
     
     *   (d) put the company into liquidation,---
     
@@ -3926,9 +4042,9 @@ Shareholders and their rights and obligations
     
     (7) Where a power is exercised pursuant to an agreement or concurrence referred to in subsection (5)(b), the board of the company must, within 10 working days of the exercise of the power, send to every entitled person a notice in writing containing details of the exercise of the power.
     
-    (8) If the board of a company fails to comply with subsection (7), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    (8) If the board of a company fails to comply with subsection (7), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
-    Section 107(1)(c): amended, on 3 May 2001, by [section 7][783] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 107(1)(c): amended, on 3 May 2001, by [section 7][822] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
 
 ##### 108 Company to satisfy solvency test
     
@@ -3948,13 +4064,13 @@ Shareholders and their rights and obligations
     
     (5A) Nothing in subsection (5) limits or affects the application of [section 4(4)][6].
     
-    (6) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (6) Every director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    Section 108(5)(a): amended, on 15 April 2004, by [section 6(1)][784] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 108(5)(a): amended, on 15 April 2004, by [section 6(1)][823] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 108(5)(b): amended, on 15 April 2004, by [section 6(2)][784] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 108(5)(b): amended, on 15 April 2004, by [section 6(2)][823] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 108(5A): inserted, on 30 June 1997, by [section 7][785] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 108(5A): inserted, on 30 June 1997, by [section 7][824] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 109 Management review by shareholders
     
@@ -3962,13 +4078,13 @@ Shareholders and their rights and obligations
     
     (2) Notwithstanding anything in this Act or the constitution of the company, but subject to subsections (2A) and (3), a meeting of shareholders may pass a resolution under this section relating to the management of a company.
     
-    (2A) The provisions of [Schedule 1][711] govern proceedings at a meeting of shareholders at which a resolution under this section is passed except to the extent that the constitution of the company provides for matters that are expressed in that schedule to be subject to the constitution of the company.
+    (2A) The provisions of [Schedule 1][748] govern proceedings at a meeting of shareholders at which a resolution under this section is passed except to the extent that the constitution of the company provides for matters that are expressed in that schedule to be subject to the constitution of the company.
     
     (3) Unless the constitution provides that the resolution is binding, a resolution passed pursuant to subsection (2) is not binding on the board.
     
-    Section 109(2): amended, on 15 April 2004, by [section 7(1)][786] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 109(2): amended, on 15 April 2004, by [section 7(1)][825] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 109(2A): inserted, on 15 April 2004, by [section 7(2)][786] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 109(2A): inserted, on 15 April 2004, by [section 7(2)][825] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 #### Minority buy-out rights
 
@@ -4052,7 +4168,7 @@ Shareholders and their rights and obligations
     
     (7) In this section, _resolution_ means the resolution referred to in [section 110][144] or [118][156] that, due to it having been passed, entitles the shareholder to require the company to purchase the shareholder's shares in accordance with [section 111][145].
     
-    Section 112: replaced, on 17 September 2008, by [section 7][787] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 112: replaced, on 17 September 2008, by [section 7][826] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 112A Price for shares referred to arbitration if shareholder objects to price
     
@@ -4080,31 +4196,31 @@ Shareholders and their rights and obligations
     
     (5) Any sum that must be paid in accordance with this section must be paid no later than 10 days after the date of the arbitral tribunal's determination, unless the arbitral tribunal specifically orders otherwise.
     
-    (6) A submission to arbitration under this section is an arbitration agreement for the purposes of the [Arbitration Act 1996][788], and the provisions of that Act apply accordingly.
+    (6) A submission to arbitration under this section is an arbitration agreement for the purposes of the [Arbitration Act 1996][827], and the provisions of that Act apply accordingly.
     
-    (7) [Clause 6][789] of Schedule 2 of the Arbitration Act 1996 may not be excluded from the arbitration agreement, and the term _costs and expenses of an arbitration_ in that clause includes, where a balance is owing to the shareholder,---
+    (7) [Clause 6][828] of Schedule 2 of the Arbitration Act 1996 may not be excluded from the arbitration agreement, and the term _costs and expenses of an arbitration_ in that clause includes, where a balance is owing to the shareholder,---
         
     *   (a) the reasonable legal costs of the shareholder on a solicitor-and-client basis; and
     
     *   (b) the reasonable costs of expert witnesses.
     
-    Section 112A: inserted, on 17 September 2008, by [section 7][787] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 112A: inserted, on 17 September 2008, by [section 7][826] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 112B Interest payable on outstanding payments
     
 *   (1) Interest on any sum that must be paid under [section 112][146] or [112A][147] that is outstanding after the date on which it falls due is payable,---
         
-    *   (a) in the case of a share price determined under [section 112][146], at the same rate of interest as the prescribed rate under [section 87(3)][790] of the Judicature Act 1908; and
+    *   (a) in the case of a share price determined under [section 112][146], at the same rate of interest as the prescribed rate under [section 87(3)][829] of the Judicature Act 1908; and
     
     *   (b) in the case of a share price determined under [section 112A][147], on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
     
     (2) The sum on which interest is payable under subsection (1)(b) includes any interest or damages for loss awarded under [section 112A][147].
     
-    Section 112B: inserted, on 17 September 2008, by [section 7][787] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 112B: inserted, on 17 September 2008, by [section 7][826] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
-    Section 112B(1): replaced, on 31 August 2012, by [section 5(1)][791] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 112B(1): replaced, on 31 August 2012, by [section 5(1)][830] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Section 112B(2): amended, on 31 August 2012, by [section 5(2)][791] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 112B(2): amended, on 31 August 2012, by [section 5(2)][830] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 112C Timing of transfer of shares
     
@@ -4118,7 +4234,7 @@ Shareholders and their rights and obligations
     
     (3) Subsection (2) applies despite subsection (1).
     
-    Section 112C: inserted, on 17 September 2008, by [section 7][787] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 112C: inserted, on 17 September 2008, by [section 7][826] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 113 Purchase of shares by third party
     
@@ -4126,7 +4242,7 @@ Shareholders and their rights and obligations
     
     (2) Every holder of shares that are to be purchased in accordance with the arrangement is indemnified by the company in respect of loss suffered by reason of the failure by the person who has agreed to purchase the shares to purchase them at the price nominated or fixed by arbitration, as the case may be.
     
-    Section 113(1): amended, on 17 September 2008, by [section 8][792] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 113(1): amended, on 17 September 2008, by [section 8][831] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 114 Court may grant exemption
     
@@ -4252,29 +4368,25 @@ Shareholders and their rights and obligations
 
 ##### 120 Annual meeting of shareholders
     
-*   (1) Subject to subsections (2) and (3), the board of a company must call an annual meeting of shareholders to be held---
+*   (1) The board of a company must call an annual meeting of shareholders to be held---
         
-    *   (a) \[Repealed\]
+    *   (a) not later than 6 months after the balance date of the company; and
     
-    *   (b) either---
-            
-        *   (i) in the case of an exempt company, if all the shareholders of the company agree, not later than 10 months after the balance date of the company; or
-        
-        *   (ii) in the case of a company, not being a company to which subparagraph (i) applies, not later than 6 months after the balance date of the company; and
-        
-        
+    *   (b) not later than 15 months after the previous annual meeting.
     
-    *   (c) not later than 15 months after the previous annual meeting.
+    (2) However, a company does not have to hold its first annual meeting in the calendar year of its registration but must hold that meeting within 18 months after its registration.
     
-    (2) A company, not being a company that is reregistered under this Act, does not have to hold its first annual meeting in the calendar year of its registration but must hold that meeting within 18 months of its registration.
-    
-    (3) A company that is reregistered under this Act does not have to hold its first annual meeting in the calendar year of its reregistration but must hold that meeting within 18 months of its registration under the Companies Act 1955\.
+    (3) \[Repealed\]
     
     (4) The company must hold the meeting on the date on which it is called to be held.
     
     Section 120: replaced, on 2 September 1996, by section 3(1) of the Companies Act 1993 Amendment Act 1996 (1996 No 115).
     
-    Section 120(1)(a): repealed, on 3 June 1998, by [section 4][793] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 120(1): replaced, on 1 April 2014, by [section 27][832] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 120(2): replaced, on 1 April 2014, by [section 27][832] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 120(3): repealed, on 1 April 2014, by [section 27][832] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 121 Special meetings of shareholders
     
@@ -4312,7 +4424,7 @@ Shareholders and their rights and obligations
     
     (3) For the purposes of subsection (2)(b), the shareholders are,---
         
-    *   (a) in the case of a resolution under [section 196(2)][259], all the shareholders who are entitled to vote on the resolution:
+    *   (a) in the case of a resolution under [section 207I][285] or [207J][286], the shareholders who together hold not less than 95% of the votes entitled to be cast on the resolution:
     
     *   (b) in any other case, the shareholders referred to in subsection (1).
     
@@ -4330,17 +4442,19 @@ Shareholders and their rights and obligations
     
     (7) If a company fails to comply with subsection (5),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]:
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]:
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
-    Section 122(1): replaced, on 30 June 1997, by [section 8(1)][794] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 122(1): replaced, on 30 June 1997, by [section 8(1)][833] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 122(3A): inserted, on 30 June 1997, by [section 8(2)][794] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 122(3)(a): replaced, on 1 April 2014, by [section 28][834] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 122(3A): amended, on 3 May 2001, by [section 8][795] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 122(3A): inserted, on 30 June 1997, by [section 8(2)][833] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 122(5): replaced, on 17 September 2008, by [section 9][796] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 122(3A): amended, on 3 May 2001, by [section 8][835] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    
+    Section 122(5): replaced, on 17 September 2008, by [section 9][836] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
 
 ##### 123 Court may call meeting of shareholders
     
@@ -4358,7 +4472,7 @@ Shareholders and their rights and obligations
 
 ##### 124 Proceedings at meetings
     
-*   The provisions of [Schedule 1][711] govern proceedings at meetings of shareholders of a company except to the extent that the constitution of the company makes provision for the matters that are expressed in that schedule to be subject to the constitution of the company.
+*   The provisions of [Schedule 1][748] govern proceedings at meetings of shareholders of a company except to the extent that the constitution of the company makes provision for the matters that are expressed in that schedule to be subject to the constitution of the company.
 
 #### Ascertaining shareholders
 
@@ -4388,9 +4502,9 @@ Shareholders and their rights and obligations
     
     (4) A date must not be fixed under subsection (3) that precedes by more than 30 working days or less than 10 working days the date on which the meeting is to be held.
     
-    Section 125(1)(c): replaced, on 30 June 1997, by [section 9(1)][797] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 125(1)(c): replaced, on 30 June 1997, by [section 9(1)][837] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 125(1)(e): replaced, on 30 June 1997, by [section 9(2)][797] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 125(1)(e): replaced, on 30 June 1997, by [section 9(2)][837] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ## Part 8  
 Directors and their powers and duties
@@ -4401,7 +4515,7 @@ Directors and their powers and duties
         
     *   (a) a person occupying the position of director of the company by whatever name called; and
     
-    *   (b) for the purposes of [sections 131 to 141][174], [145 to 149][189], [298][565], [299][566], [301][568], [383][684], [385][686], [386A to 386F][689], and [clause 3(4)(b)][798] of Schedule 7,---
+    *   (b) for the purposes of [sections 131 to 141][174], [145 to 149][189], [298][601], [299][602], [301][604], [383][721], [385][723], [386A to 386F][726], and [clause 3(4)(b)][838] of Schedule 7,---
             
         *   (i) a person in accordance with whose directions or instructions a person referred to in paragraph (a) may be required or is accustomed to act; and
         
@@ -4411,9 +4525,9 @@ Directors and their powers and duties
         
         
     
-    *   (c) for the purposes of [sections 131 to 149][174], [298][565], [299][566], [301][568], [383][684], [385][686], [386A to 386F][689], and [clause 3(4)(b)][798] of Schedule 7, a person to whom a power or duty of the board has been directly delegated by the board with that person's consent or acquiescence, or who exercises the power or duty with the consent or acquiescence of the board; and
+    *   (c) for the purposes of [sections 131 to 149][174], [298][601], [299][602], [301][604], [383][721], [385][723], [386A to 386F][726], and [clause 3(4)(b)][838] of Schedule 7, a person to whom a power or duty of the board has been directly delegated by the board with that person's consent or acquiescence, or who exercises the power or duty with the consent or acquiescence of the board; and
     
-    *   (d) for the purposes of [sections 145 to 149][189], and [clause 3(4)(b)][798] of Schedule 7, a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (c) may be required or is accustomed to act in respect of his or her duties and powers as a director.
+    *   (d) for the purposes of [sections 145 to 149][189], and [clause 3(4)(b)][838] of Schedule 7, a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (c) may be required or is accustomed to act in respect of his or her duties and powers as a director.
     
     (1A) In this Act, _director_, in relation to a company, does not include a receiver.
     
@@ -4429,21 +4543,21 @@ Directors and their powers and duties
     
     (4) Paragraphs (b) to (d) of subsection (1) do not include a person to the extent that the person acts only in a professional capacity.
     
-    Section 126(1)(b): amended, on 1 November 2007, by [section 36(1)][799] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 126(1)(b): amended, on 1 November 2007, by [section 36(1)][839] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 126(1)(b): amended, on 29 May 2004, by [section 3(1)][800] of the Companies Amendment Act 2004 (2004 No 10).
+    Section 126(1)(b): amended, on 29 May 2004, by [section 3(1)][840] of the Companies Amendment Act 2004 (2004 No 10).
     
-    Section 126(1)(b): amended, on 3 May 2001, by [section 9][801] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 126(1)(b): amended, on 3 May 2001, by [section 9][841] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 126(1)(c): amended, on 1 November 2007, by [section 36(2)][799] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 126(1)(c): amended, on 1 November 2007, by [section 36(2)][839] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 126(1)(c): amended, on 29 May 2004, by [section 3(2)][800] of the Companies Amendment Act 2004 (2004 No 10).
+    Section 126(1)(c): amended, on 29 May 2004, by [section 3(2)][840] of the Companies Amendment Act 2004 (2004 No 10).
     
-    Section 126(1)(c): amended, on 3 May 2001, by [section 9][801] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 126(1)(c): amended, on 3 May 2001, by [section 9][841] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 126(1)(d): amended, on 1 November 2007, by [section 36(3)][799] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 126(1)(d): amended, on 1 November 2007, by [section 36(3)][839] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 126(1)(d): amended, on 29 May 2004, by [section 3(3)][800] of the Companies Amendment Act 2004 (2004 No 10).
+    Section 126(1)(d): amended, on 29 May 2004, by [section 3(3)][840] of the Companies Amendment Act 2004 (2004 No 10).
     
     Section 126(1A): inserted, on 1 July 1994, by section 16 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -4507,19 +4621,19 @@ Directors and their powers and duties
     
     Section 129(2) **major transaction**: replaced, on 1 July 1994, by section 17(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 129(2) **major transaction** paragraph (c): amended, on 15 April 2004, by [section 8(1)][802] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 129(2) **major transaction** paragraph (c): amended, on 15 April 2004, by [section 8(1)][842] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
     Section 129(2A): inserted, on 1 July 1994, by section 17(2) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 129(2A): amended, on 3 May 2001, by [section 10][803] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 129(2A): amended, on 3 May 2001, by [section 10][843] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 129(2A): amended, on 30 June 1997, by [section 10][804] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 129(2A): amended, on 30 June 1997, by [section 10][844] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 129(2B): inserted, on 15 April 2004, by [section 8(2)][802] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 129(2B): inserted, on 15 April 2004, by [section 8(2)][842] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 130 Delegation of powers
     
-*   (1) Subject to any restrictions in the constitution of the company, the board of a company may delegate to a committee of directors, a director or employee of the company, or any other person, any 1 or more of its powers other than its powers under any of the sections of this Act set out in [Schedule 2][712].
+*   (1) Subject to any restrictions in the constitution of the company, the board of a company may delegate to a committee of directors, a director or employee of the company, or any other person, any 1 or more of its powers other than its powers under any of the sections of this Act set out in [Schedule 2][749].
     
     (2) A board that delegates a power under subsection (1) is responsible for the exercise of the power by the delegate as if the power had been exercised by the board, unless the board---
         
@@ -4541,7 +4655,7 @@ Directors and their powers and duties
     
     (4) A director of a company that is carrying out a joint venture between the shareholders may, when exercising powers or performing duties as a director in connection with the carrying out of the joint venture, if expressly permitted to do so by the constitution of the company, act in a manner which he or she believes is in the best interests of a shareholder or shareholders, even though it may not be in the best interests of the company.
     
-    Section 131(4): amended, on 30 June 1997, by [section 11][805] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 131(4): amended, on 30 June 1997, by [section 11][845] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 132 Exercise of powers in relation to employees
     
@@ -4633,7 +4747,7 @@ Directors and their powers and duties
     
     (2) For the purposes of this Act, a director of a company is _not interested_ in a transaction to which the company is a party if the transaction comprises only the giving by the company of security to a third party which has no connection with the director, at the request of the third party, in respect of a debt or obligation of the company for which the director or another person has personally assumed responsibility in whole or in part under a guarantee, indemnity, or by the deposit of a security.
     
-    Section 139(1)(d): amended, on 26 April 2005, by [section 7][737] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 139(1)(d): amended, on 26 April 2005, by [section 7][775] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 140 Disclosure of interest
     
@@ -4653,13 +4767,13 @@ Directors and their powers and duties
     
     (3) A failure by a director to comply with subsection (1) does not affect the validity of a transaction entered into by the company or the director.
     
-    (4) Every director who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (4) Every director who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
     Compare: 1955 No 63 s 199
     
-    Section 140(1A): inserted, on 30 June 1997, by [section 12][806] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 140(1A): inserted, on 30 June 1997, by [section 12][846] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 140(2): amended, on 3 May 2001, by [section 11][807] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 140(2): amended, on 3 May 2001, by [section 11][847] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
 
 ##### 141 Avoidance of transactions
     
@@ -4815,7 +4929,7 @@ Directors and their powers and duties
     
     (5) A reference to a power includes a reference to a power that arises from, or is capable of being exercised as the result of, a breach of any trust, agreement, arrangement, or understanding, or any of them, whether or not it is legally enforceable.
     
-    Section 146(2): amended, on 30 June 1997, by [section 13][808] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 146(2): amended, on 30 June 1997, by [section 13][848] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 147 Relevant interests to be disregarded in certain cases
     
@@ -4825,7 +4939,7 @@ Directors and their powers and duties
     
     *   (b) that person has the relevant interest by reason only of acting for another person to acquire or dispose of that share on behalf of the other person in the ordinary course of business of a sharebroker and that person is a person authorised to undertake trading activities on a stock exchange; or
     
-    *   (c) that person has the relevant interest solely by reason of being appointed as a proxy to vote at a particular meeting of members, or of a class of members, of the company and the instrument of that person's appointment is produced before the start of the meeting in accordance with [clause 6(4)][809] of Schedule 1 or by a time specified in the company's constitution, as the case may be; or
+    *   (c) that person has the relevant interest solely by reason of being appointed as a proxy to vote at a particular meeting of members, or of a class of members, of the company and the instrument of that person's appointment is produced before the start of the meeting in accordance with [clause 6(4)][849] of Schedule 1 or by a time specified in the company's constitution, as the case may be; or
     
     *   (d) that person---
             
@@ -4839,11 +4953,11 @@ Directors and their powers and duties
     
     (2) For the purposes of subsection (1)(e), a trustee may be a bare trustee notwithstanding that he or she is entitled as a trustee to be remunerated out of the income or property of the trust.
     
-    Section 147(1)(b): amended, on 1 December 2002, by [section 30][757] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 147(1)(b): amended, on 1 December 2002, by [section 30][795] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 148 Disclosure of share dealing by directors
     
-*   (1) A director of a company that has become registered under this Act in accordance with the [Companies Reregistration Act 1993][721] and who has a relevant interest in any shares issued by the company must, forthwith after the reregistration of the company,---
+*   (1) A director of a company that has become registered under this Act in accordance with the [Companies Reregistration Act 1993][759] and who has a relevant interest in any shares issued by the company must, forthwith after the reregistration of the company,---
         
     *   (a) disclose to the board the number and class of shares in which the relevant interest is held and the nature of the relevant interest; and
     
@@ -4883,9 +4997,9 @@ Directors and their powers and duties
     
     (5) Where a director disposes of shares or securities in contravention of subsection (1)(b), the director is liable to the person to whom the shares or securities were disposed of for the amount by which the consideration received by the director exceeds the fair value of the shares or securities.
     
-    (6) Nothing in this section applies in relation to a company to which [Part 1][810] of the Securities Markets Act 1988 applies.
+    (6) Nothing in this section applies in relation to a company to which [Part 1][850] of the Securities Markets Act 1988 applies.
     
-    Section 149(6): amended, on 1 December 2002, by [section 30][757] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 149(6): amended, on 1 December 2002, by [section 30][795] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 #### Appointment and removal of directors
 
@@ -4909,9 +5023,9 @@ Directors and their powers and duties
     
     *   (d) \[Repealed\]
     
-    *   (e) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under [section 382][683] or [section 383][684] or [section 385][686]:
+    *   (e) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under [section 382][720] or [section 383][721] or [section 385][723]:
     
-    *   (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][731] or the [Securities Markets Act 1988][811] or the [Takeovers Act 1993][763]:
+    *   (ea) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][768] or the [Securities Markets Act 1988][851] or the [Takeovers Act 1993][801]:
     
     *   (eb) a person who is prohibited from 1 or more of the following under an order made, or a notice given, under a law of a prescribed country, State, or territory outside New Zealand:
             
@@ -4923,7 +5037,7 @@ Directors and their powers and duties
         
         
     
-    *   (f) a person who is subject to a property order made under [section 30][812] or [section 31][813] of the Protection of Personal and Property Rights Act 1988:
+    *   (f) a person who is subject to a property order made under [section 30][852] or [section 31][853] of the Protection of Personal and Property Rights Act 1988:
     
     *   (g) in relation to any particular company, a person who does not comply with any qualifications for directors contained in the constitution of that company.
     
@@ -4931,15 +5045,15 @@ Directors and their powers and duties
     
     (4) A person who is disqualified from being a director but who acts as a director is a director for the purposes of a provision of this Act that imposes a duty or an obligation on a director of a company.
     
-    Section 151(2)(ba): repealed, on 5 December 2013, by [section 7][814] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 151(2)(ba): repealed, on 5 December 2013, by [section 7][854] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 151(2)(c): repealed, on 5 December 2013, by [section 7][814] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 151(2)(c): repealed, on 5 December 2013, by [section 7][854] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 151(2)(d): repealed, on 5 December 2013, by [section 7][814] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 151(2)(d): repealed, on 5 December 2013, by [section 7][854] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 151(2)(ea): inserted, on 25 October 2006, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 151(2)(ea): inserted, on 25 October 2006, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 151(2)(eb): inserted, on 18 June 2007, by [section 5(1)][816] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 151(2)(eb): inserted, on 18 June 2007, by [section 5(1)][856] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 152 Director's consent required
     
@@ -5041,13 +5155,13 @@ Directors and their powers and duties
         
         
     
-    (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
 
 #### Miscellaneous provisions relating to directors
 
 ##### 160 Proceedings of board
     
-*   Subject to the constitution of a company, the provisions set out in [Schedule 3][713] govern the proceedings of the board of a company.
+*   Subject to the constitution of a company, the provisions set out in [Schedule 3][750] govern the proceedings of the board of a company.
 
 ##### 161 Remuneration and other benefits
     
@@ -5147,7 +5261,7 @@ Directors and their powers and duties
     
     _indemnify_ includes relieve or excuse from liability, whether before or after the liability arises; and _indemnity_ has a corresponding meaning.
     
-    Section 162(5)(c): replaced, on 3 June 1998, by [section 5][817] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 162(5)(c): replaced, on 3 June 1998, by [section 5][857] of the Companies Amendment Act 1998 (1998 No 31).
 
 ## Part 9  
 Enforcement
@@ -5160,7 +5274,7 @@ Enforcement
 
 ##### 164 Injunctions
     
-*   (1) The court may, on an application under this section, make an order restraining a company that, or a director of a company who, proposes to engage in conduct that would contravene the constitution of the company or this Act or the [Financial Reporting Act 1993][818] from engaging in that conduct.
+*   (1) The court may, on an application under this section, make an order restraining a company that, or a director of a company who, proposes to engage in conduct that would contravene the constitution of the company or this Act from engaging in that conduct.
     
     (2) An application may be made by---
         
@@ -5175,6 +5289,8 @@ Enforcement
     (4) An order may not be made under this section in relation to conduct or a course of conduct that has been completed.
     
     (5) The court may, at any time before the final determination of an application under subsection (1), make, as an interim order, any order that it is empowered to make under that subsection.
+    
+    Section 164(1): amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 #### Derivative actions
 
@@ -5268,7 +5384,9 @@ Enforcement
 
 ##### 170 Actions by shareholders to require directors to act
     
-*   Notwithstanding [section 169][219], the court may, on the application of a shareholder of a company, if it is satisfied it is just and equitable to do so, make an order requiring a director of the company to take any action that is required to be taken by the directors under the constitution of the company or this Act or the Financial Reporting Act 1993 and, on making the order, the court may grant such other consequential relief as it thinks fit.
+*   Notwithstanding [section 169][219], the court may, on the application of a shareholder of a company, if it is satisfied it is just and equitable to do so, make an order requiring a director of the company to take any action that is required to be taken by the directors under the constitution of the company or this Act and, on making the order, the court may grant such other consequential relief as it thinks fit.
+    
+    Section 170: amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 171 Personal actions by shareholders against company
     
@@ -5276,7 +5394,9 @@ Enforcement
 
 ##### 172 Actions by shareholders to require company to act
     
-*   Notwithstanding [section 171][221], the court may, on the application of a shareholder of a company, if it is satisfied that it is just and equitable to do so, make an order requiring the board of the company to take any action that is required to be taken by the constitution of the company or this Act or the [Financial Reporting Act 1993][818] and, on making the order, the court may grant such other consequential relief as it thinks fit.
+*   Notwithstanding [section 171][221], the court may, on the application of a shareholder of a company, if it is satisfied that it is just and equitable to do so, make an order requiring the board of the company to take any action that is required to be taken by the constitution of the company or this Act and, on making the order, the court may grant such other consequential relief as it thinks fit.
+    
+    Section 172: amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 173 Representative actions
     
@@ -5352,7 +5472,7 @@ Enforcement
     
     (3) Within 10 working days of the making of an order under [section 174][224] altering or adding to the constitution of a company, the board of the company must ensure that a copy of the order and the constitution as altered or added to is delivered to the Registrar for registration.
     
-    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][675].
+    (4) If the board of a company fails to comply with subsection (3), every director of the company commits an offence and is liable, on conviction, to the penalty set out in [section 374(2)][712].
 
 #### Ratification
 
@@ -5438,7 +5558,7 @@ Enforcement
     
     (7) A person may only disclose or make use of information or records obtained under this section in accordance with an order made under subsection (4) or subsection (5).
     
-    (8) A person who discloses or makes use of information or records obtained under this section other than in accordance with an order made under subsection (4) or subsection (5) commits an offence, and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (8) A person who discloses or makes use of information or records obtained under this section other than in accordance with an order made under subsection (4) or subsection (5) commits an offence, and is liable on conviction to the penalty set out in [section 373(2)][711].
 
 ## Part 10  
 Administration of companies
@@ -5473,7 +5593,7 @@ Administration of companies
     
     *   (b) whether or not the law governing the contract or obligation is the law of New Zealand.
     
-    Section 180(1A): replaced, on 30 June 1997, by [section 14][819] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 180(1A): replaced, on 30 June 1997, by [section 14][859] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 181 Attorneys
     
@@ -5481,9 +5601,9 @@ Administration of companies
     
     (2) An act of the attorney in accordance with the instrument binds the company.
     
-    (3) [Sections 19 to 21][820] of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by a company, to the same extent as if the company was a natural person and as if the commencement of the liquidation or, if there is no liquidation, the removal from the register kept for the purposes of this Act of the company was an event revoking the power of attorney within the meaning of those sections.
+    (3) [Sections 19 to 21][860] of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by a company, to the same extent as if the company was a natural person and as if the commencement of the liquidation or, if there is no liquidation, the removal from the register kept for the purposes of this Act of the company was an event revoking the power of attorney within the meaning of those sections.
     
-    Section 181(3): replaced, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+    Section 181(3): replaced, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 #### Pre-incorporation contracts
 
@@ -5501,7 +5621,7 @@ Administration of companies
     
     (4) A pre-incorporation contract may be ratified by a company in the same manner as a contract may be entered into on behalf of a company under [section 180][234].
     
-    (5) Notwithstanding the [Contracts (Privity) Act 1982][821], if a pre-incorporation contract has not been ratified by a company, or validated by the court under [section 184][239], the company may not enforce it or take the benefit of it.
+    (5) Notwithstanding the [Contracts (Privity) Act 1982][861], if a pre-incorporation contract has not been ratified by a company, or validated by the court under [section 184][239], the company may not enforce it or take the benefit of it.
     
     Compare: 1955 No 63 s 42A(1)--(3); 1983 No 53 s 15
 
@@ -5547,9 +5667,9 @@ Administration of companies
     
     *   (b) the amount of the claim or the value of the property or relief claimed or in issue is not more than $200,000; or
     
-    *   (c) the parties agree, in accordance with [section 37][822] of the District Courts Act 1947, that a District Court shall have jurisdiction to determine the proceedings.
+    *   (c) the parties agree, in accordance with [section 37][862] of the District Courts Act 1947, that a District Court shall have jurisdiction to determine the proceedings.
     
-    (2) For the purposes of [section 43][823] of the District Courts Act 1947, an application made to a District Court under any of [sections 182 to 185][237] shall be deemed to be a proceeding.
+    (2) For the purposes of [section 43][863] of the District Courts Act 1947, an application made to a District Court under any of [sections 182 to 185][237] shall be deemed to be a proceeding.
     
     Section 185A: inserted, on 1 July 1994, by section 21 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -5599,7 +5719,7 @@ Administration of companies
     
     *   (b) state the reasons for requiring the change:
     
-    *   (c) state that the company has the right to appeal to the court under [section 370][669]:
+    *   (c) state that the company has the right to appeal to the court under [section 370][706]:
     
     *   (d) be dated and signed by the Registrar.
     
@@ -5611,7 +5731,7 @@ Administration of companies
     
     *   (b) if it appeals to the court and the appeal is dismissed, within 5 working days after the decision of the court.
     
-    (6) If a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    (6) If a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     Compare: 1955 No 63 s 115A; 1975 No 137 s 12
 
@@ -5633,9 +5753,9 @@ Administration of companies
     
     *   (f) the full names and addresses of the current directors:
     
-    *   (g) copies of all written communications to all shareholders or all holders of the same class of shares during the last 7 years, including annual reports made under [section 208][274]:
+    *   (g) copies of all written communications to all shareholders or all holders of the same class of shares during the last 7 years, including annual reports made under [section 208][310]:
     
-    *   (h) copies of all financial statements and group financial statements required to be completed by this Act or the Financial Reporting Act 1993 for the last 7 completed accounting periods of the company:
+    *   (h) copies of all financial statements and group financial statements required to be completed by this Act or any other enactment for the last 7 completed accounting periods of the company:
     
     *   (i) the accounting records required by [section 194][256] for the current accounting period and for the last 7 completed accounting periods of the company:
     
@@ -5649,9 +5769,9 @@ Administration of companies
     
     (5) If a company fails to comply with subsection (1) or subsection (4),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]:
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]:
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     Section 189(1)(b): amended, on 1 July 1994, by section 22(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
@@ -5661,7 +5781,7 @@ Administration of companies
     
     Section 189(1)(g): amended, on 1 July 1994, by section 22(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 189(1)(h): amended, on 1 July 1994, by section 22(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
+    Section 189(1)(h): replaced, on 1 April 2014, by [section 29][864] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
     Section 189(1)(i): amended, on 1 July 1994, by section 22(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
@@ -5683,7 +5803,7 @@ Administration of companies
     
     *   (b) detect any falsification of them.
     
-    (3) If the board fails to comply with subsection (2), every director commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (3) If the board fails to comply with subsection (2), every director commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     Compare: 1955 No 63 s 459(2); 1980 No 7(4)
 
@@ -5741,54 +5861,42 @@ Administration of companies
 
 ##### 193A Rectification or correction of address for service
     
-*   (1) This section applies if the address for service of a company is rectified or corrected under [section 360A][658] or [section 360B][659].
+*   (1) This section applies if the address for service of a company is rectified or corrected under [section 360A][695] or [section 360B][696].
     
     (2) The rectification or correction takes effect at the time that the rectification or correction is made to the New Zealand register.
     
-    Section 193A: inserted, on 15 April 2004, by [section 9][824] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 193A: inserted, on 15 April 2004, by [section 9][865] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ## Part 11  
-Accounting records and audit
+Accounting records and financial reporting
+    
+*   Part 11: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-#### Accounting records
+### Subpart 1---Accounting records
+    
+*   Subpart 1: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 194 Accounting records to be kept
+##### 194 Accounting records must be kept
     
-*   (1) The board of a company must cause accounting records to be kept that---
+*   (1) The board of a company must ensure that there are kept at all times accounting records that---
         
-    *   (a) correctly record and explain the transactions of the company; and
+    *   (a) correctly record the transactions of the company; and
     
-    *   (b) will at any time enable the financial position of the company to be determined with reasonable accuracy; and
+    *   (b) will enable the company to ensure that the financial statements or group financial statements of the company comply with generally accepted accounting practice (if the company is required to prepare such statements under this Act or any other enactment); and
     
-    *   (c) will enable the directors to ensure that the financial statements of the company comply with [section 10][742] of the Financial Reporting Act 1993 and any group financial statements comply with [section 13][825] of that Act; and
+    *   (c) will enable the financial statements or group financial statements of the company to be readily and properly audited (if those statements are required to be audited).
     
-    *   (d) will enable the financial statements of the company to be readily and properly audited.
-    
-    (2) Without limiting subsection (1), the accounting records must contain---
-        
-    *   (a) entries of money received and spent each day and the matters to which it relates:
-    
-    *   (b) a record of the assets and liabilities of the company:
-    
-    *   (c) if the company's business involves dealing in goods---
-            
-        *   (i) a record of goods bought and sold, except goods sold for cash in the ordinary course of carrying on a retail business, that identifies both the goods and buyers and sellers and relevant invoices:
-        
-        *   (ii) a record of stock held at the end of the financial year together with records of any stocktakings during the year:
-        
-        
-    
-    *   (d) if the company's business involves providing services, a record of services provided and relevant invoices.
+    (2) The board of a company must establish and maintain a satisfactory system of control of its accounting records.
     
     (3) The accounting records must be kept---
         
-    *   (a) in written form and in English; or
+    *   (a) in written form in English; or
     
     *   (b) in a form or manner in which they are easily accessible and convertible into written form in English.
     
-    (4) If the board of a company fails to comply with the requirements of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (4) If the board of a company fails to comply with the requirements of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(3)][712].
     
-    Compare: 1955 No 63 s 151(1), (2), (4), (6), (7); 1980 No 43 s 7(1)
+    Section 194: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 195 Place accounting records to be kept
     
@@ -5796,281 +5904,747 @@ Accounting records and audit
     
     (2) If the records are not kept in New Zealand,---
         
-    *   (a) the company must ensure that accounts and returns for the operations of the company that---
+    *   (a) the company must ensure that accounts and returns for the operations of the company that satisfy the following requirements are sent to, and kept at, a place in New Zealand:
             
-        *   (i) disclose with reasonable accuracy the financial position of the company at intervals not exceeding 6 months; and
+        *   (i) the accounts and returns must enable the preparation of the company's financial statements or group financial statements required by this Act or any other enactment; and
         
-        *   (ii) will enable the preparation in accordance with the [Financial Reporting Act 1993][818] of the company's financial statements and any group financial statements and any other document required by this Act---
+        *   (ii) the accounts and returns must enable the preparation of any other document required by this Act; and
         
-        are sent to, and kept at, a place in New Zealand; and
+        
     
-    *   (b) notice of the place where---
-            
-        *   (i) the accounting records; and
-        
-        *   (ii) the accounts and returns required under paragraph (a)---
-        
-        are kept, must be given to the Registrar.
+    *   (b) notice of the place where the accounting records and the accounts and returns required under paragraph (a) are kept must be given to the Registrar.
     
     (3) If a company fails to comply with subsection (2),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]:
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]:
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Compare: 1955 No 63 s 151; 1980 No 43 s 7(1)
+    Section 195: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-#### Auditors
-
-##### 196 Appointment of auditors
+### Subpart 2---Financial reporting
     
-*   (1) Subject to this section, a company must, at each annual meeting, appoint an auditor to---
+*   Subpart 2: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 196 Overview
+    
+*   (1) This subpart imposes financial reporting requirements on---
+        
+    *   (a) every large company; and
+    
+    *   (b) every large overseas company that carries on business in New Zealand; and
+    
+    *   (c) every other company with 10 or more shareholders (unless the shareholders of the company opt out of compliance); and
+    
+    *   (d) every other company with fewer than 10 shareholders if shareholders of the company holding at least 5% of the voting shares require the company to comply.
+    
+    (2) This section is only a guide to the general scheme and effect of this subpart.
+    
+    Section 196: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 197 Non-application of subpart if alternative financial reporting duties under financial markets legislation
+    
+*   This subpart does not apply to a company or an overseas company in relation to an accounting period if financial statements of the company or overseas company, or group financial statements of the group that comprises the company or overseas company and its subsidiaries, are required to be prepared for that period under [subpart 3][867] of Part 7 of the Financial Markets Conduct Act 2013 or [section 55][868] of the Financial Reporting Act 2013\.
+    
+    Section 197: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 198 Interpretation
+    
+*   In this subpart,---
+    
+    _group_ means a group comprising a company or an overseas company and its subsidiaries
+    
+    _large company_ means a company that is large under [section 45][869] of the Financial Reporting Act 2013
+    
+    _large overseas company_ means a body corporate incorporated outside New Zealand that---
+        
+    *   (a) carries on business in New Zealand within the meaning of [section 332][658]; and
+    
+    *   (b) is large under [section 45][869] of the Financial Reporting Act 2013
+    
+    _public entity_ has the same meaning as in [section 5][870] of the Public Audit Act 2001
+    
+    _qualified auditor_ has the same meaning as in [section 35][871] of the Financial Reporting Act 2013
+    
+    _subsidiary_---
+        
+    *   (a) means a subsidiary within the meaning of [sections 5 to 8][7]; and
+    
+    *   (b) includes, except in [section 207D][277], any entity that is classified as a subsidiary in any applicable financial reporting standard
+    
+    _voting share_, in relation to a company, means a share in the company that confers a currently exercisable right to cast a vote at meetings of shareholders of the company, not being a right to vote that is exercisable only in 1 or more of the following circumstances:
+        
+    *   (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the share is in arrears or some other default exists:
+    
+    *   (b) on a proposal that affects rights attached to the share:
+    
+    *   (c) during the liquidation of the company:
+    
+    *   (d) in respect of a special, immaterial, or remote matter that is inconsequential to control of the company.
+    
+    Section 198: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 199 Determining number of shareholders
+    
+*   (1) For the purposes of this subpart and [section 208][310], the number of shareholders that a company has, in relation to an accounting period, is the number of shareholders that hold voting shares as at the close of the first day of the period.
+    
+    (2) Joint holders of a parcel of shares must be counted as a single shareholder.
+    
+    ###### Example
+    
+    ABC Limited has an accounting period of 1 April 2014 to 31 March 2015\. ABC Limited is not large (_see_ section 45 of the Financial Reporting Act 2013).
+    
+    At the close of 1 April 2014, 16 shareholders hold ordinary voting shares. (The company also has 12 shareholders who hold non-voting preference shares, but non-voting shares are not relevant to the calculation under this section).
+    
+    Two of those shareholders hold their parcel of ordinary voting shares jointly. These shareholders are counted as a single shareholder.
+    
+    For the purposes of this subpart and section 208, ABC Limited has 15 shareholders in relation to the 1 April 2014 to 31 March 2015 period. This means that it must prepare financial statements, have those statements audited, and prepare an annual report unless it opts out of compliance under section 207I.
+    
+    Section 199: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Preparation of financial statements
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 200 Application of preparation provisions
+    
+*   (1) [Sections 201][265] and [202][266] apply to---
+        
+    *   (a) every large company; and
+    
+    *   (b) every company that is a public entity; and
+    
+    *   (c) every large overseas company; and
+    
+    *   (d) every other company with 10 or more shareholders unless the company has opted out of compliance with the provision in accordance with [section 207I][285]; and
+    
+    *   (e) every other company with fewer than 10 shareholders if the company has opted into compliance with the provision in accordance with [section 207K][287].
+    
+    (2) However, [section 201][265] does not apply to a company or an overseas company in relation to a balance date if the company or overseas company has, on that date, 1 or more subsidiaries (_see_ [section 202][266]).
+    
+    Section 200: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 201 Financial statements must be prepared
+    
+*   Every company or overseas company to which this section applies (_A_) must ensure that, within 5 months after the balance date of A, financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to A and that balance date; and
+    
+    *   (b) dated and signed on behalf of A by 2 directors of A, or, if A has only 1 director, by that director.
+    
+    Compare: 1993 No 106 [ss 10(1)][872], [11(1)][873]
+    
+    Section 201: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 202 Group financial statements must be prepared
+    
+*   (1) Every company or overseas company to which this section applies (_A_) that has, on the balance date of A, 1 or more subsidiaries must ensure that, within 5 months after that balance date, group financial statements that comply with generally accepted accounting practice are---
+        
+    *   (a) completed in relation to that group and that balance date; and
+    
+    *   (b) dated and signed on behalf of A by 2 directors of A, or, if A has only 1 director, by that director.
+    
+    (2) Group financial statements are not required under subsection (1) in relation to a balance date if,---
+        
+    *   (a) on the balance date, A is a subsidiary of a body corporate that is incorporated in New Zealand (**B**); and
+    
+    *   (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed in relation to that balance date under this Act or any other enactment.
+    
+    Compare: 1993 No 106 [ss 13(1)][874], [14(1)][875]
+    
+    Section 202: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 203 Recognition of financial reporting requirements of overseas countries
+    
+*   (1) Subsection (2) applies if the Registrar notifies a large overseas company (_A_) that the Registrar is satisfied that---
+        
+    *   (a) the financial statements of A comply with the requirements of the law in force in the country where A is incorporated or constituted; and
+    
+    *   (b) those requirements are---
+            
+        *   (i) substantially the same as those of this Act; or
+        
+        *   (ii) sufficiently equivalent, in relation to the quality of financial reporting they achieve, to the requirements of this Act.
+        
+        
+    
+    (2) The financial statements must be treated as complying with generally accepted accounting practice.
+    
+    (3) Subsection (4) applies if the Registrar notifies a large overseas company (_A_) that the Registrar is satisfied that---
+        
+    *   (a) the group financial statements of the group that comprises A and its subsidiaries comply with the law in force in the country where A is incorporated or constituted; and
+    
+    *   (b) those requirements are---
+            
+        *   (i) substantially the same as those of this Act; or
+        
+        *   (ii) sufficiently equivalent, in relation to the quality of financial reporting they achieve, to the requirements of this Act.
+        
+        
+    
+    (4) The group financial statements must be treated as complying with generally accepted accounting practice.
+    
+    Compare: 1993 No 106 [ss 11(3)][873], [14(5][875])
+    
+    Section 203: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 204 Financial statements for overseas company must include financial statements for large New Zealand business
+    
+*   (1) If an overseas company is required to prepare financial statements under section 201 and its New Zealand business is large, the financial statements that are prepared must include, in addition to the financial statements of the overseas company, financial statements for its New Zealand business prepared as if that business were conducted by a company formed and registered in New Zealand.
+    
+    (2) If an overseas company is required to prepare group financial statements under [section 202][266] and the group's New Zealand business is large, the group financial statements that are prepared must include, in addition to the financial statements of the group, financial statements for the group's New Zealand business prepared as if the members of the group were companies formed and registered in New Zealand.
+    
+    (3) In this section, the New Zealand business or the group's New Zealand business is _large_ in respect of an accounting period if at least 1 of the following paragraphs applies (calculated as if that business were an entity):
+        
+    *   (a) as at the balance date of each of the 2 preceding accounting periods, the total assets of the business exceed $20 million:
+    
+    *   (b) in each of the 2 preceding accounting periods, the total revenue of the business exceeds $10 million.
+    
+    (4) A financial reporting standard (or a part of a standard) issued by the External Reporting Board that is expressed as applying for the purposes of subsection (3) must be applied in determining whether that provision applies.
+    
+    (5) If an overseas company has been granted an exemption under [section 207L][289] from a requirement to prepare financial statements under [section 201][265] or group financial statements under [section 202][266], subsection (1) or (2) (as the case may be) still applies (except that the financial statements for the New Zealand business are not in addition to the financial statements of the overseas company or its group).
+    
+    Compare: 1993 No 106 [ss 8(2)][876], [9(2)][877]
+    
+    Section 204: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 205 Balance date of subsidiaries
+    
+*   (1) The board of a company or an overseas company that is required to comply with [section 202][266] must ensure that, unless in the board's opinion there are good reasons against it, the balance date of each subsidiary of the company is the same as the balance date of the company.
+    
+    (2) If the balance date of a subsidiary of a company or an overseas company referred to in subsection (1) is not the same as that of the company, the balance date of the subsidiary for the purposes of any particular group financial statements must be a date that precedes the balance date of the company.
+    
+    Compare: 1993 No 106 [s 7(7), (11)][878]
+    
+    Section 205: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Audit of financial statements
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 206 Application of audit requirement
+    
+*   (1) [Section 207][272] applies to---
+        
+    *   (a) every large company unless subsection (2) applies; and
+    
+    *   (b) every company that is a public entity; and
+    
+    *   (c) every large overseas company; and
+    
+    *   (d) every company with 10 or more shareholders unless the company has opted out of compliance with that section in accordance with [section 207I][285]; and
+    
+    *   (e) every company with fewer than 10 shareholders if the company has opted into compliance with the section in accordance with [section 207K][287].
+    
+    (2) Subsection (1)(a) does not apply to a large company (_A_) if---
+        
+    *   (a) A has opted out of compliance with [section 207][272] in accordance with [section 207J][286]; or
+    
+    *   (b) the following requirements are satisfied:
+            
+        *   (i) A is a wholly-owned subsidiary of another company (_B_) or of a large overseas company (_B_); and
+        
+        *   (ii) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in [section 202][266]; and
+        
+        *   (iii) a copy of the group financial statements referred to in subparagraph (ii) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
+        
+        
+    
+    Section 206: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207 Financial statements must be audited
+    
+*   (1) Every company or overseas company to which this section applies (_A_) must ensure that the financial statements or group financial statements prepared in respect of A under [section 201][265], [202][266], or [204][268] (if any) are audited by a qualified auditor.
+    
+    (2) _See_ [sections 37 to 39][879] of the Financial Reporting Act 2013 (which provide for the appointment of a partnership and access to information in relation to a company or an overseas company).
+    
+    Section 207: replaced, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207A Audit must be carried out in accordance with auditing and assurance standards
+    
+*   (1) An auditor must, in carrying out an audit for the purposes of [section 207][272], comply with all applicable auditing and assurance standards.
+    
+    (2) Subsection (3) applies if the Registrar notifies a large overseas company (_A_) that the Registrar is satisfied that standards relating to auditing or assurance that are in force in the country where A is incorporated or constituted (the _overseas standards_) are---
+        
+    *   (a) substantially the same as the applicable auditing and assurance standards referred to in subsection (1); or
+    
+    *   (b) sufficiently equivalent, in relation to the quality of auditing they achieve, to the applicable auditing and assurance standards referred to in subsection (1).
+    
+    (3) The auditor of A's financial statements or group financial statements may, in carrying out the audit of those statements and in preparing the auditor's report, comply with the overseas standards instead of the applicable auditing and assurance standards.
+    
+    (4) This section does not apply to a company that is a public entity.
+    
+    Section 207A: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207B Auditor must report to shareholders
+    
+*   (1) The auditor of a company must make a report to the shareholders on the financial statements or group financial statements audited by the auditor.
+    
+    (2) The auditor's report must comply with the requirements of all applicable auditing and assurance standards.
+    
+    (3) Subsection (2) is subject to [section 207A(3)][273].
+    
+    Section 207B: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207C Auditor's report must be sent to Registrar and External Reporting Board if requirements have not been complied with
+    
+*   If the auditor's report indicates that the requirements of this Act have not been complied with, the auditor must, within 7 working days after signing the report, send a copy of the report and a copy of the financial statements or group financial statements to which it relates to the Registrar and the External Reporting Board.
+    
+    Compare: 1993 No 106 [s 16(2)][880]
+    
+    Section 207C: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Registration of financial statements of overseas companies and other companies with significant overseas ownership
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207D Application of registration provisions
+    
+*   (1) [Section 207E][278] applies to each of the following:
+        
+    *   (a) every large overseas company:
+    
+    *   (b) every large company in which shares that in aggregate carry the right to exercise or control the exercise of 25% or more of the voting power at a meeting of the company are held by---
+            
+        *   (i) a subsidiary of a body corporate incorporated outside New Zealand; or
+        
+        *   (ii) a body corporate incorporated outside New Zealand; or
+        
+        *   (iii) a person not ordinarily resident in New Zealand.
+        
+        
+    
+    (2) However, [section 207E][278] does not apply to a company or an overseas company (_A_) if the following requirements are satisfied:
+        
+    *   (a) A is a subsidiary of a company that is incorporated in New Zealand (_B_); and
+    
+    *   (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in [section 202][266]; and
+    
+    *   (c) a copy of the group financial statements referred to in paragraph (b) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
+    
+    (3) For the purposes of subsection (1), a person is _ordinarily resident in New Zealand_ if that person---
+        
+    *   (a) is domiciled in New Zealand; or
+    
+    *   (b) is living in New Zealand and the place where that person usually lives, and has been living for the immediately preceding 12 months, is in New Zealand, whether or not that person has on occasions been away from New Zealand during that 12-month period.
+    
+    Compare: 1993 No 106 [s 19(1), (2)][881]
+    
+    Section 207D: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207E Financial statements must be registered
+    
+*   (1) A company or an overseas company to which this section applies must ensure that, within 5 months after the balance date of the company or overseas company, copies of its financial statements or group financial statements completed in relation to that balance date under [section 201][265], [202][266], or [204][268] together with a copy of the auditor's report on those statements (if any) are delivered to the Registrar for registration.
+    
+    (2) The company or overseas company must, when the financial statements or group financial statements are registered, pay to the Registrar the prescribed registration fee (if any).
+    
+    (3) Any person may, on payment of the prescribed fee (if any), inspect the copies of the financial statements, group financial statements, and auditor's report on those statements delivered to the Registrar under this section.
+    
+    Compare: 1993 No 106 [s 19(3)][881]
+    
+    Section 207E: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Shareholders may request copy of financial statements prepared for tax purposes
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207F Shareholders may request copy of financial statements prepared for tax purposes
+    
+*   (1) This section applies if---
+        
+    *   (a) neither financial statements in relation to a company nor group financial statements in relation to a company's group are prepared under this Act or [Part 7][882] of the Financial Markets Conduct Act 2013; but
+    
+    *   (b) financial statements in relation to the company, or group financial statements in relation to its group, are prepared under, or for the purposes of, any of the Inland Revenue Acts (as defined in [section 3(1)][883] of the Tax Administration Act 1994).
+    
+    (2) A shareholder of the company may at any time make a written request to the company for a copy of the financial statements or group financial statements (or both) referred to in subsection (1)(b).
+    
+    (3) The company must, within 10 working days of receiving a request under subsection (2), provide, free of charge, a copy of the financial statements or group financial statements (or both) to the shareholder together with a copy of the auditor's report on those statements (if any).
+    
+    Section 207F: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Financial reporting offences
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207G Financial reporting offences
+    
+*   (1) This section applies if---
+        
+    *   (a) a company or an overseas company is required to comply with [section 201][265] and financial statements of the company or overseas company---
+            
+        *   (i) are not completed and signed within the time specified in that section; or
+        
+        *   (ii) fail to comply with an applicable financial reporting standard; or
+        
+        
+    
+    *   (b) a company or an overseas company is required to comply with [section 202][266] and group financial statements of a group comprising the company or overseas company and its subsidiaries---
+            
+        *   (i) are not completed and signed within the time specified in that section; or
+        
+        *   (ii) fail to comply with an applicable financial reporting standard; or
+        
+        
+    
+    *   (c) an overseas company is required to comply with [section 204][268] and the financial statements or group financial statements referred to in that section---
+            
+        *   (i) are not completed and signed within 5 months after the balance date of the overseas company; or
+        
+        *   (ii) fail to comply with an applicable financial reporting standard; or
+        
+        
+    
+    *   (d) a company or an overseas company fails to comply with [section 207][272] (which relates to auditing); or
+    
+    *   (e) a company or an overseas company fails to comply with [section 207E][278] (which relates to registration of financial statements); or
+    
+    *   (f) a company fails to comply with [section 207F][280] (which relates to the supply of copies of financial statements prepared for tax purposes).
+    
+    (2) The company or overseas company commits an offence and is liable on conviction to a fine not exceeding $50,000\.
+    
+    (3) Every director of the company or overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(3)][712].
+    
+    (4) _See_ [section 376(2)][714] (which provides defences to directors in respect of an offence under this section).
+    
+    Compare: 1993 No 106 [ss 36][884], [38][885], [39][886]
+    
+    Section 207G: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Provisions relating to opting out and opting in
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207H Period during which company may opt in or opt out
+    
+*   In sections 207I to 207K, the _opting period_, in relation to the accounting period referred to in [section 207I(3)][285], [207J(3)][286], or [207K(2)][287], is the period from the start of the accounting period until the close of the earliest of the following dates:
+        
+    *   (a) the date that is 6 months after the start of the accounting period:
+    
+    *   (b) the date of the annual meeting to be held in the accounting period:
+    
+    *   (c) in the case of an accounting period that is shorter than 6 months (as a result of the date of the registration of the company or a change of the balance date of the company), the balance date of the period.
+    
+    Section 207H: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207I Companies with 10 or more shareholders may opt out
+    
+*   (1) This section applies to a company with 10 or more shareholders.
+    
+    (2) However, this section does not apply---
+        
+    *   (a) if the constitution of the company expressly provides that this section does not apply; or
+    
+    *   (b) if the company is a large company or a public entity.
+    
+    (3) The shareholders of the company may, at a meeting of shareholders held within the opting period, opt out of compliance with 1 or more of the following provisions in relation to the accounting period by way of a resolution approved by not less than 95% of the votes of those shareholders entitled to vote and voting on the question:
+        
+    *   (a) [sections 201][265] and [202][266] (preparation of financial statements and group financial statements):
+    
+    *   (b) [section 207][272] (audit requirement):
+    
+    *   (c) [section 208][310] (obligation to prepare annual report).
+    
+    (4) If the shareholders opt out of compliance with a provision in relation to an accounting period under this section, the provision does not apply to the company in relation to that period.
+    
+    ###### Example
+    
+    ABC Limited has an accounting period of 1 April 2014 to 31 March 2015\.
+    
+    ABC Limited is not a large company in relation to that period (_see_ section 45 of the Financial Reporting Act 2013).
+    
+    Under section 199, it has 15 shareholders.
+    
+    The opting period ends no later than the close of the date of the annual meeting to be held in that period. At the annual meeting, a resolution to opt out of the preparation provisions (sections 201 and 202) is passed by a 95% majority. Accordingly, ABC Limited does not have to prepare financial statements for that period (section 207, which relates to auditing, also does not apply because financial statements are not required to be prepared).
+    
+    Section 207I: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207J Large companies may opt out of audit requirement
+    
+*   (1) This section applies to a large company.
+    
+    (2) However, this section does not apply if---
+        
+    *   (a) the constitution of the company expressly provides that this section does not apply; or
+    
+    *   (b) the company is a public entity; or
+    
+    *   (c) the company is required to register financial statements under [section 207E][278].
+    
+    (3) The shareholders of the company may, at a meeting of shareholders held within the opting period, opt out of compliance with [section 207][272] in relation to the accounting period by way of a resolution approved by not less than 95% of the votes of those shareholders entitled to vote and voting on the question.
+    
+    (4) If the shareholders opt out of compliance with [section 207][272] in relation to an accounting period under this section, that section does not apply to the company in relation to that period.
+    
+    Section 207J: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207K Companies with fewer than 10 shareholders may opt in
+    
+*   (1) This section applies to a company (other than a large company) with fewer than 10 shareholders.
+    
+    (2) A shareholder of the company who holds, or shareholders of the company who together hold, not less than 5% of the voting shares may, by written notice given to the company within the opting period but not later than 5 working days before the end of that period, require the company to comply with 1 or more of the following provisions in relation to the accounting period:
+        
+    *   (a) [section 201][265] or [202][266] (preparation of financial statements or group financial statements):
+    
+    *   (b) [section 207][272] (audit requirement):
+    
+    *   (c) [section 208][310] (obligation to prepare annual report).
+    
+    (3) If a notice is given under subsection (2) in relation to a provision and an accounting period, the provision applies to the company in relation to that period.
+    
+    Section 207K: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+#### Registrar may grant exemptions to overseas companies
+    
+*   Heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207L Registrar may grant exemptions to overseas companies
+    
+*   (1) The Registrar may, by notice in the _Gazette_, exempt any large overseas company, or any class of large overseas companies, from compliance with any provision of [sections 201][265], [202][266], [207][272], and [207E][278].
+    
+    (2) The Registrar must not grant an exemption under this section unless he or she is satisfied that---
+        
+    *   (a) compliance with the relevant provision would require the overseas company to comply with requirements that are unduly onerous or burdensome; and
+    
+    *   (b) financial reporting requirements must be complied with in relation to the overseas company under the law in force in the country where the overseas company is incorporated or constituted and that those requirements are satisfactory; and
+    
+    *   (c) the extent of the exemption is not broader than what is reasonably necessary to address the matters that gave rise to the exemption.
+    
+    (3) The exemption may be granted on any terms and conditions that the Registrar thinks fit.
+    
+    (4) The Registrar may vary or revoke an exemption in the same way as an exemption may be granted under this section.
+    
+    Compare: 1993 No 106 [s 35B(1)--(3), (5)][887]
+    
+    Section 207L: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207M Publication and status of exemptions
+    
+*   (1) The Registrar may give notice of the exemption in any publications he or she thinks fit (in addition to notifying the exemption in the _Gazette_).
+    
+    (2) Each notice published in the _Gazette_ under [section 207L][289] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][888] and must be presented to the House of Representatives under [section 41][889] of that Act.
+    
+    (3) The Registrar's reasons for granting an exemption (including why the exemption is appropriate) must be notified in the _Gazette_ together with the exemption.
+    
+    Compare: 1993 No 106 s[35B(4), (6), (7)][887]
+    
+    Section 207M: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207N Consultation
+    
+*   In deciding whether or not to grant, amend, or revoke an exemption under section 207L, the Registrar---
+        
+    *   (a) may consult with any persons or organisations that the Registrar thinks fit; but
+    
+    *   (b) must consult with the Commissioner of Inland Revenue if the exemption involves any provision of [section 201][265] or [202][266].
+    
+    Compare: 1993 No 106 [s 35C][890]
+    
+    Section 207N: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207O Exemption may apply to accounting period before exemption is granted
+    
+*   An exemption under [section 207L][289] may, if the Registrar thinks fit, apply to an accounting period that commenced before the exemption is granted (including an accounting period that ended before the exemption is granted) if the exemption is granted before financial statements or group financial statements for that period are required to be delivered for registration under [section 207E][278].
+    
+    Compare: 1993 No 106 [s 35D][891]
+    
+    Section 207O: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+### Subpart 3---Miscellaneous auditing provisions
+    
+*   Subpart 3: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207P Auditor must be appointed if financial statements must be audited
+    
+*   (1) This section applies to a company in relation to an accounting period if financial statements or group financial statements of the company for that period are required to be audited under this Act, the [Financial Markets Conduct Act 2013][892], or any other enactment.
+    
+    (2) A company must, at the annual meeting held in the accounting period referred to in subsection (1), appoint a qualified auditor to---
         
     *   (a) hold office from the conclusion of the meeting until the conclusion of the next annual meeting; and
     
-    *   (b) audit the financial statements of the company and, if the company is required to complete group financial statements, those group financial statements, for the accounting period next after the meeting.
+    *   (b) audit the financial statements or group financial statements referred to in subsection (1).
     
-    (1A) If a company is a public entity as defined in [section 4][826] of the Public Audit Act 2001, the Auditor-General is its auditor in accordance with that Act; and subsection (2) does not apply in respect of that company.
+    (3) However, if a company is a public entity, the Auditor-General is its auditor in accordance with that Act and subsection (2) does not apply.
     
-    (2) A company need not appoint an auditor in accordance with subsection (1) if, at or before the meeting, a unanimous resolution is passed by all the shareholders who would be entitled to vote on that resolution at a meeting of shareholders. Such a resolution ceases to have effect at the commencement of the next annual meeting.
+    (4) The first auditor of a company may be appointed by the directors of the company before the first annual meeting, and, if so appointed, holds office until the conclusion of that meeting.
     
-    (3) Nothing in subsection (2) applies to a company---
-        
-    *   (a) to which [section 19][827] of the Financial Reporting Act 1993 applies; or
-    
-    *   (b) that is an issuer within the meaning of [section 4][828] of that Act.
-    
-    (3A) An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
-    
-    (3B) If a company fails to comply with subsection (3A), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
-    
-    (4) The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains, the surviving or continuing auditor, if any, may continue to act as auditor.
-    
-    (5) If---
-        
-    *   (a) at an annual meeting of a company no auditor is appointed or reappointed and no resolution has been passed pursuant to subsection (2); or
-    
-    *   (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring,---
-    
-    the Registrar may appoint an auditor.
-    
-    (6) A company must, within 5 working days of the power becoming exercisable, give written notice to the Registrar of the fact that the Registrar is entitled to appoint an auditor under subsection (5).
-    
-    (7) If a company fails to comply with subsection (6),---
-        
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
-    
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
-    
-    (8) \[Repealed\]
-    
-    Compare: 1955 No 63 ss 163(1), (5)--(7), 354(3)--(3C); 1969 No 128 s 2(2); 1976 No 80 s 2(1); 1982 No 152 s 19(2)
-    
-    Section 196(1A): inserted, on 1 July 2001, by [section 53][829] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 196(2): replaced, on 30 June 1997, by [section 15][830] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
-    
-    Section 196(3): replaced, on 20 April 2010, by [section 4(1)][831] of the Companies Amendment Act 2010 (2010 No 13).
-    
-    Section 196(3A): inserted, on 15 April 2004, by [section 10][832] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
-    
-    Section 196(3B): inserted, on 15 April 2004, by [section 10][832] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
-    
-    Section 196(8): repealed, on 20 April 2010, by [section 4(2)][831] of the Companies Amendment Act 2010 (2010 No 13).
+    Section 207P: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 196A Auditor is not required to audit financial statements of non-active company
+##### 207Q Registrar may appoint auditor
     
-*   If, by virtue of [section 10A][833] of the Financial Reporting Act 1993, the directors of a company are not required to comply with [section 10][742] of that Act in respect of an accounting period, the auditor of the company is not required to audit financial statements of the company for that period
-    
-    Section 196A: inserted, on 18 June 2007, by [section 6][834] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
-
-##### 197 Auditors' fees and expenses
-    
-*   The fees and expenses of an auditor of a company shall be fixed,---
+*   (1) The Registrar may appoint an auditor if,---
         
-    *   (a) if the auditor is appointed at a meeting of the company, by the company at the meeting or in such manner as the company determines at the meeting:
+    *   (a) at an annual meeting of a company, no auditor is appointed or reappointed as required by [section 207P][294]; or
+    
+    *   (b) a casual vacancy in the office of auditor is not filled within 1 month of the vacancy occurring and the company is required to comply with [section 207P][294].
+    
+    (2) A company must, within 5 working days of the power becoming exercisable, give written notice to the Registrar of the fact that the Registrar is entitled to appoint an auditor under this section.
+    
+    (3) If a company fails to comply with subsection (2),---
+        
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
+    
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
+    
+    Section 207Q: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207R Resignation and casual vacancy
+    
+*   (1) An auditor may resign at any time by giving written notice to the board of the company, and the company must, as soon as practicable, notify its shareholders of the auditor's resignation.
+    
+    (2) If a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
+    
+    (3) The board of a company may fill any casual vacancy in the office of auditor, but while the vacancy remains the surviving or continuing auditor, if any, may continue to act as auditor.
+    
+    Section 207R: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207S Auditor's fees and expenses
+    
+*   The fees and expenses of an auditor of a company must be fixed,---
+        
+    *   (a) if the auditor is appointed at a meeting of the company, by the company at the meeting or in the manner that the company determines at the meeting:
     
     *   (b) if the auditor is appointed by the directors, by the directors:
     
     *   (c) if the auditor is appointed by the Registrar, by the Registrar:
     
-    *   (d) if the auditor is the Auditor-General, in accordance with the [Public Audit Act 2001][835].
+    *   (d) if the auditor is the Auditor-General, in accordance with the [Public Audit Act 2001][893].
     
-    Section 197(d): inserted, on 1 July 2001, by [section 53][829] of the Public Audit Act 2001 (2001 No 10).
+    Section 207S: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 198 Appointment of partnership
+##### 207T Automatic reappointment
     
-*   (1) A partnership may be appointed by the firm name to be the auditor of a company if,---
+*   (1) An auditor of a company, other than an auditor appointed under [section 207P(4)][294], is automatically reappointed at an annual meeting of the company unless---
         
-    *   (a) in the case of a company that is an issuer, the partnership is a registered audit firm:
-    
-    *   (b) in any other case, all or some of the partners are persons who are qualified to be appointed as auditors of the company.
-    
-    (2) The appointment of a partnership by the firm name to be the auditor of a company is deemed, despite [section 199][263], to be the appointment of,---
-        
-    *   (a) in the case of a company that is an issuer, all the partners in the firm, from time to time, who are licensed auditors:
-    
-    *   (b) in any other case, all the partners in the firm from time to time.
-    
-    (3) If a partnership that includes persons who are not qualified to be appointed as auditors of a company is appointed as auditor of a company, the persons who are not qualified to be appointed as auditors must not act as auditors of the company.
-    
-    (4) In this section and [section 199][263], _issuer_, _registered audit firm_, and _licensed auditor_ have the same meanings as in [section 6][836] of the Auditor Regulation Act 2011\.
-    
-    Section 198: replaced, on 1 July 2012, by [section 82][837] of the Auditor Regulation Act 2011 (2011 No 21).
-
-##### 199 Qualifications of auditors
-    
-*   (1) A person must not be appointed or act as an auditor of a company unless---
-        
-    *   (a) the person is a chartered accountant (within the meaning of [section 19][838] of the New Zealand Institute of Chartered Accountants Act 1996); or
-    
-    *   (ab) the person is a licensed auditor; or
-    
-    *   (b) \[Repealed\]
-    
-    *   (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where---
-            
-        *   (i) the association is, by notice in the _Gazette_, approved for the time being for the purposes of this section by the Registrar; and
-        
-        *   (ii) the person is eligible to act as an auditor in the country, State, or territory in which the association is constituted; or
-        
-        
-    
-    *   (d) the person, not being a person to whom paragraph (c) applies, is---
-            
-        *   (i) eligible to act as an auditor in a country, State, or territory outside New Zealand; and
-        
-        *   (ii) approved for the time being for the purposes of this section by the Registrar by notice in the _Gazette_.
-        
-        
-    
-    (1A) However, if the company is an issuer, a person must not be appointed or act as an auditor of the company unless he or she is a licensed auditor.
-    
-    (2) None of the following persons may be appointed or act as auditor of a company:
-        
-    *   (a) a director or employee of the company:
-    
-    *   (b) a person who is a partner, or in the employment, of a director or employee of the company:
-    
-    *   (c) a liquidator or a person who is a receiver in respect of the property of the company:
-    
-    *   (d) a body corporate:
-    
-    *   (e) a person who, by virtue of paragraph (a) or paragraph (b), may not be appointed or act as auditor of a related company.
-    
-    Compare: 1955 No 63 s 165
-    
-    Section 199(1): replaced, on 16 September 1996, by section 4(1) of the Companies Act 1993 Amendment Act 1996 (1996 No 115).
-    
-    Section 199(1)(a): replaced, on 1 October 1996, by [section 23][839] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
-    
-    Section 199(1)(a): amended, on 7 July 2010, by [section 10][840] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
-    
-    Section 199(1)(ab): inserted, on 1 July 2012, by [section 82][837] of the Auditor Regulation Act 2011 (2011 No 21).
-    
-    Section 199(1)(b): repealed, on 1 July 2001, by [section 53][829] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 199(1A): inserted, on 1 July 2012, by [section 82][837] of the Auditor Regulation Act 2011 (2011 No 21).
-
-##### 200 Automatic reappointment
-    
-*   (1) An auditor of a company, other than an auditor appointed under [section 201(1)][265], is automatically reappointed at an annual meeting of the company unless---
-        
-    *   (a) the auditor is not qualified for appointment; or
+    *   (a) the auditor is not a qualified auditor; or
     
     *   (b) the company passes a resolution at the meeting appointing another person to replace him or her as auditor; or
     
-    *   (c) the company passes a resolution under [section 196(2)][259] that no auditor be appointed; or
+    *   (c) the company is not required to appoint an auditor at the meeting (_see_ [section 207P][294]); or
     
-    *   (d) the auditor has given notice to the company that he or she does not wish to be reappointed.
+    *   (d) the auditor has given notice to the company that the auditor does not wish to be reappointed.
     
-    (2) An auditor is not automatically reappointed if the person who it is proposed will replace him or her dies, or is, or becomes incapable of, or disqualified from, appointment.
+    (2) An auditor is not automatically reappointed if the person who it is proposed will replace the auditor dies, or is or becomes incapable of, or disqualified from, appointment.
     
-    Compare: 1963 No 155 s 163(2)
+    Section 207T: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 201 Appointment of first auditor
+##### 207U Replacement of auditor
     
-*   (1) The first auditor of a company may be appointed by the directors of the company before the first annual meeting, and, if so appointed, holds office until the conclusion of that meeting.
-    
-    (2) If the directors do not appoint an auditor under subsection (1), the company must appoint the first auditor at a meeting of the company.
-    
-    (3) Neither the directors nor the company need appoint an auditor in accordance with this section if a unanimous resolution is passed by the company that no auditor be appointed. Such a resolution ceases to have effect at the commencement of the first annual meeting.
-    
-    (4) Nothing in subsection (3) applies to a company referred to in [section 196(3)][259].
-    
-    Compare: 1955 No 63 s 163(4)
-
-##### 202 Replacement of auditor
-    
-*   (1) A company must not appoint a new auditor in the place of an auditor who is qualified for reappointment, unless---
+*   (1) A company must not appoint a new auditor in the place of an auditor who is a qualified auditor, unless---
         
     *   (a) at least 20 working days' written notice of a proposal to do so has been given to the auditor; and
     
-    *   (b) the auditor has been given a reasonable opportunity to make representations to the shareholders on the appointment of another person either in writing or by the auditor or his or her representative speaking at a shareholders' meeting (whichever the auditor may choose).
+    *   (b) the auditor has been given a reasonable opportunity to make representations to the shareholders on the appointment of another person either in writing or by the auditor or the auditor's representative speaking at a shareholders' meeting (whichever the auditor may choose).
+    
+    (2) The auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
+    
+    Section 207U: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207V Auditor not seeking reappointment or resigning
+    
+*   (1) If an auditor gives the board of a company written notice that the auditor does not wish to be reappointed or of the auditor's resignation, the board must, if requested to do so by that auditor,---
+        
+    *   (a) distribute, as soon as practicable, to all shareholders, at the expense of the company, a written statement of the auditor's reasons for the auditor's wish not to be reappointed or for the auditor's resignation; or
+    
+    *   (b) permit the auditor or the auditor's representative to explain at a shareholders' meeting the reasons for wishing not to be reappointed or for resigning.
     
     (2) An auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
     
-    Compare: 1955 No 63 s 164
+    Section 207V: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
-##### 203 Auditor not seeking reappointment or resigning
-    
-*   (1) If an auditor gives the board of a company written notice that he or she does not wish to be reappointed or of his or her resignation, the board must, if requested to do so by that auditor,---
-        
-    *   (a) distribute, as soon as practicable, to all shareholders, at the expense of the company, a written statement of the auditor's reasons for his or her wish not to be reappointed or for his or her resignation; or
-    
-    *   (b) permit the auditor or his or her representative to explain at a shareholders' meeting the reasons for his or her wish not to be reappointed or for his or her resignation.
-    
-    (2) An auditor is entitled to be paid by the company reasonable fees and expenses for making the representations to shareholders.
-    
-    Section 203 heading: amended, on 15 April 2004, by [section 11(1)][841] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
-    
-    Section 203(1): replaced, on 15 April 2004, by [section 11(2)][841] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
-
-##### 204 Auditor to avoid conflict of interest
-    
-*   An auditor of a company must ensure, in carrying out the duties of an auditor under this Part, that his or her judgment is not impaired by reason of any relationship with or interest in the company or any of its subsidiaries.
-
-##### 205 Auditor's report
-    
-*   (1) The auditor of a company must make a report to the shareholders on the financial statements audited by him or her.
-    
-    (2) The auditor's report must state the matters required to be stated in an auditor's report under the [Financial Reporting Act 1993][818].
-    
-    Compare: 1955 No 63 s 166(1)
-
-##### 206 Access to information
-    
-*   (1) The board of a company must ensure that an auditor of a company has access at all times to the accounting records and other documents of the company.
-    
-    (2) An auditor of a company is entitled to require from a director or employee of the company such information and explanations as he or she thinks necessary for the performance of his or her duties as auditor.
-    
-    (3) If the board of a company fails to comply with subsection (1), every director commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
-    
-    (4) A director or employee who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
-    
-    (5) It is a defence to an employee charged with an offence against subsection (4) if he or she proves that---
-        
-    *   (a) he or she did not have the information required in his or her possession or under his or her control; or
-    
-    *   (b) by reason of the position occupied by him or her or the duties assigned to him or her, he or she was unable to give the explanations required,---
-    
-    as the case may be.
-    
-    Compare: 1955 No 63 s 166(3), (5)
-
-##### 207 Auditor's attendance at shareholders' meeting
+##### 207W Auditor's attendance at shareholders' meeting
     
 *   (1) The board of a company must ensure that an auditor of the company---
         
     *   (a) is permitted to attend a meeting of shareholders of the company; and
     
-    *   (b) receives the notices and communications that a shareholder is entitled to receive relating to a meeting of shareholders; and
+    *   (b) receives the notices and communications that a shareholder is entitled to receive that relate to a meeting of shareholders; and
     
-    *   (c) may be heard at a meeting of shareholders which he or she attends on any part of the business of the meeting which concerns him or her as auditor.
+    *   (c) may be heard at a meeting of shareholders that the auditor attends on any part of the business of the meeting that concerns the auditor as auditor.
     
-    (2) If the board of a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (2) If the board of a company fails to comply with subsection (1), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Compare: 1955 No 63 s 166(4)
+    Section 207W: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+### Subpart 4---Infringement offence for failing to register financial statements
+    
+*   Subpart 4: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207X Interpretation in this subpart
+    
+*   In this subpart,---
+    
+    _infringement fee_, in relation to an infringement offence, means $7,000
+    
+    _infringement notice_ means a notice issued under [section 207Z][305]
+    
+    _infringement offence_ means an offence under [section 207G(2) or (3)][282] in respect of a failure referred to in [section 207G(1)(e)][282] (which relates to failing to register financial statements).
+    
+    Section 207X: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207Y Infringement offences
+    
+*   (1) If a person is alleged to have committed an infringement offence, that person may---
+        
+    *   (a) be proceeded against by filing a charging document under [section 14][894] of the Criminal Procedure Act 2011; or
+    
+    *   (b) be served with an infringement notice as provided in [section 207Z][305].
+    
+    (2) Proceedings commenced in the way described in subsection (1)(a) do not require leave of a District Court Judge or Registrar under [section 21(1)(a)][895] of the Summary Proceedings Act 1957\.
+    
+    Section 207Y: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207Z Infringement notices
+    
+*   (1) The Registrar may issue an infringement notice to a person if the Registrar believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+    
+    (2) The Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][895] of the Summary Proceedings Act 1957\.
+    
+    (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
+    
+    Section 207Z: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207ZA Procedural requirements for infringement notices
+    
+*   (1) An infringement notice may be served on a person---
+        
+    *   (a) by delivering it, or a copy of it, personally to the person who appears to have committed the infringement offence; or
+    
+    *   (b) by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
+    
+    (2) An infringement notice sent under subsection (1)(b) must be treated as having been served on the person on the date it was posted.
+    
+    (3) An infringement notice must be in the prescribed form and must contain---
+        
+    *   (a) details of the alleged infringement offence that are sufficient to fairly inform a person of the time, place, and nature of the alleged infringement offence; and
+    
+    *   (b) the amount of the infringement fee; and
+    
+    *   (c) an address at which the infringement fee may be paid; and
+    
+    *   (d) the time within which the infringement fee must be paid; and
+    
+    *   (e) a summary of the provisions of [section 21(10)][895] of the Summary Proceedings Act 1957; and
+    
+    *   (f) a statement that the person served with the notice has a right to request a hearing; and
+    
+    *   (g) a statement of what will happen if the person served with the notice does not pay the fee and does not request a hearing; and
+    
+    *   (h) any other prescribed matters.
+    
+    (4) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][895] of the Summary Proceedings Act 1957 and, in that case,---
+        
+    *   (a) reminder notices may be prescribed under regulations made under this Act; and
+    
+    *   (b) in all other respects, [section 21][895] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    
+    (5) Reminder notices must contain the prescribed information.
+    
+    Section 207ZA: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+
+##### 207ZB Payment of infringement fee
+    
+*   The Registrar must pay all infringement fees received into a Crown Bank Account.
+    
+    Section 207ZB: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 12  
 Disclosure by companies
@@ -6079,13 +6653,23 @@ Disclosure by companies
 
 ##### 208 Obligation to prepare annual report
     
-*   (1) Subject to subsection (2), the board of every company must, within 5 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
+*   (1) This section applies to---
+        
+    *   (a) every large company (within the meaning of [section 198][261]); and
     
-    (2) The board of an exempt company to which [section 120(1)(b)(i)][159] applies, must, within 9 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
+    *   (b) every company that is a public entity; and
     
-    (3) If the board of a company fails to comply with subsection (1) or subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (c) every company that is required to prepare financial statements or group financial statements under [Part 7][882] of the Financial Markets Conduct Act 2013 or [section 55][868] of the Financial Reporting Act 2013; and
     
-    Section 208: replaced, on 2 September 1996, by section 5 of the Companies Act 1993 Amendment Act 1996 (1996 No 115).
+    *   (d) every company with 10 or more shareholders unless the company has opted out of compliance with this section in accordance with [section 207I][285] (in relation to the accounting period referred to in subsection (2)); and
+    
+    *   (e) every company with fewer than 10 shareholders if the company has opted into compliance with this section in accordance with [section 207K][287] (in relation to the accounting period referred to in subsection (2)).
+    
+    (2) The board of every company to which this section applies must, within 5 months after the balance date of the company, prepare an annual report on the affairs of the company during the accounting period ending on that date.
+    
+    (3) If the board of a company fails to comply with subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
+    
+    Section 208: replaced, on 1 April 2014, by [section 31][896] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 209 Obligation to make annual report available to shareholders
     
@@ -6095,7 +6679,9 @@ Disclosure by companies
     
     *   (b) a notice containing the statements specified in subsection (3).
     
-    (2) Subsection (1) is subject to [section 212][281].
+    (1A) Subsection (1) does not apply if the annual report is not required to be prepared under [section 208][310].
+    
+    (2) Subsection (1) is subject to [section 212][317].
     
     (3) The notice referred to in subsection (1)(b) must contain---
         
@@ -6117,49 +6703,51 @@ Disclosure by companies
     
     (4) The notice referred to in subsection (1)(b) may be accompanied by any additional information or documentation that the board of the company thinks fit.
     
-    (5) For the purposes of this section and [sections 209A][276] and [209B][277], every concise annual report for a company must, in relation to an accounting period, include,---
+    (5) For the purposes of this section and [sections 209A][312] and [209B][313], every concise annual report for a company must, in relation to an accounting period, include,---
         
     *   (a) in relation to a company that has, on the balance date of the company, no subsidiaries,---
             
-        *   (i) financial statements for the accounting period and any auditor's report on those financial statements required under [Part 11][254]; or
+        *   (i) financial statements for the accounting period that comply with generally accepted accounting practice and any auditor's report on those financial statements; or
         
-        *   (ii) summary financial statements for the accounting period:
+        *   (ii) summary financial statements for the accounting period that comply with generally accepted accounting practice:
         
         
     
     *   (b) in relation to a company that has, on the balance date of the company, 1 or more subsidiaries,---
             
-        *   (i) group financial statements for the accounting period and any auditor's report on those group financial statements required under [Part 11][254]; or
+        *   (i) group financial statements for the accounting period that comply with generally accepted accounting practice and any auditor's report on those group financial statements; or
         
-        *   (ii) summary financial statements for the accounting period prepared in relation to the group comprising the company and its subsidiaries.
+        *   (ii) summary financial statements for the accounting period, prepared in relation to the group comprising the company and its subsidiaries, that comply with generally accepted accounting practice.
         
         
     
-    (6) For the purposes of subsection (5),---
-        
-    *   (a) financial statements must be completed and signed in accordance with [section 10][742] of the Financial Reporting Act 1993:
+    (6) \[Repealed\]
     
-    *   (b) group financial statements must be completed and signed in accordance with [section 13][825] of the Financial Reporting Act 1993:
+    (7) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    *   (c) summary financial statements must give a true and fair view of the matters to which they relate and comply with generally accepted accounting practice (as defined in [section 3][842] of the Financial Reporting Act 1993).
+    Section 209: replaced, on 18 June 2007, by [section 7][897] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    (7) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    Section 209(1A): inserted, on 1 April 2014, by [section 32(1)][898] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 209: replaced, on 18 June 2007, by [section 7][843] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 209(5): replaced, on 1 April 2014, by [section 32(2)][898] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 209(6): repealed, on 1 April 2014, by [section 32(2)][898] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 209A Board must send copy of annual report or concise annual report on request
     
-*   (1) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][275] and the shareholder, within 15 working days of receiving that notice, makes a request to the company to receive a copy of the annual report, the board of the company must, as soon as practicable, send to the shareholder, free of charge, a copy of that annual report.
+*   (1) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][311] and the shareholder, within 15 working days of receiving that notice, makes a request to the company to receive a copy of the annual report, the board of the company must, as soon as practicable, send to the shareholder, free of charge, a copy of that annual report.
     
     (2) If a shareholder makes a request under subsection (1),---
         
-    *   (a) the request must be treated as a request by the shareholder to send to the shareholder each year a copy of the annual report under [section 209(1)(a)][275]; and
+    *   (a) the request must be treated as a request by the shareholder to send to the shareholder each year a copy of the annual report under [section 209(1)(a)][311]; and
     
-    *   (b) the board of the company must send to the shareholder each year a copy of the annual report under [section 209(1)(a)][275] until the shareholder revokes the request by notice to the company.
+    *   (b) the board of the company must send to the shareholder each year a copy of the annual report under [section 209(1)(a)][311] until the shareholder revokes the request by notice to the company.
+    
+    (2A) Subsection (2) does not require a company to send a copy of an annual report on the affairs of the company during a particular accounting period if the board of the company is not required to comply with [section 208][310] in respect of that period.
     
     (3) Subsection (4) applies if---
         
-    *   (a) the board of a company has sent a notice to a shareholder under [section 209(1)(b)][275]; and
+    *   (a) the board of a company has sent a notice to a shareholder under [section 209(1)(b)][311]; and
     
     *   (b) that notice states that the board has prepared a concise annual report; and
     
@@ -6167,33 +6755,35 @@ Disclosure by companies
     
     (4) The board of the company must send to the shareholder a copy of the concise annual report, free of charge, as soon as practicable after receiving the request.
     
-    (5) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (5) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 209A: inserted, on 18 June 2007, by [section 7][843] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 209A: inserted, on 18 June 2007, by [section 7][897] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 209A(2A): inserted, on 1 April 2014, by [section 33][899] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 209B Annual report and concise annual report made available by electronic means
     
-*   (1) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][275], the board must ensure that---
+*   (1) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][311], the board must ensure that---
         
-    *   (a) a copy of the annual report is available in the manner described in the notice under [section 209(3)(c)][275] at all reasonable times during the period beginning on the date the notice is sent and ending on the date the board acts under section 209(1) in relation to the next accounting period; and
+    *   (a) a copy of the annual report is available in the manner described in the notice under [section 209(3)(c)][311] at all reasonable times during the period beginning on the date the notice is sent and ending on the date the board acts under section 209(1) in relation to the next accounting period; and
     
-    *   (b) the manner described in the notice under [section 209(3)(c)][275] allows a copy of the annual report to be readily accessible so as to be usable for subsequent reference.
+    *   (b) the manner described in the notice under [section 209(3)(c)][311] allows a copy of the annual report to be readily accessible so as to be usable for subsequent reference.
     
-    (2) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][275] and that notice states that the board has prepared a concise annual report, the board must---
+    (2) If the board of a company has sent a notice to a shareholder under [section 209(1)(b)][311] and that notice states that the board has prepared a concise annual report, the board must---
         
-    *   (a) ensure that a copy of the concise annual report is available in the manner described in the notice under [section 209(3)(d)(iii)][275] at all reasonable times during the period beginning on the date the notice is sent and ending on the date the board acts under section 209(1) in relation to the next accounting period; and
+    *   (a) ensure that a copy of the concise annual report is available in the manner described in the notice under [section 209(3)(d)(iii)][311] at all reasonable times during the period beginning on the date the notice is sent and ending on the date the board acts under section 209(1) in relation to the next accounting period; and
     
-    *   (b) ensure that the manner described in the notice under [section 209(3)(d)(iii)][275] allows a copy of the concise annual report to be readily accessible so as to be usable for subsequent reference.
+    *   (b) ensure that the manner described in the notice under [section 209(3)(d)(iii)][311] allows a copy of the concise annual report to be readily accessible so as to be usable for subsequent reference.
     
-    (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (3) If the board of a company fails to comply with this section, every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 209B: inserted, on 18 June 2007, by [section 7][843] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 209B: inserted, on 18 June 2007, by [section 7][897] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 210 Information for shareholders who elect not to receive annual report
     
 *   \[Repealed\]
     
-    Section 210: repealed, on 18 June 2007, by [section 8][844] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 210: repealed, on 18 June 2007, by [section 8][900] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 211 Contents of annual report
     
@@ -6207,9 +6797,9 @@ Disclosure by companies
         
         
     
-    *   (b) include financial statements for the accounting period completed and signed in accordance with [section 10][742] of the Financial Reporting Act 1993 and any group financial statements for the accounting period completed and signed in accordance with [section 13][825] of that Act; and
+    *   (b) include any financial statements or group financial statements for the accounting period that are required to be prepared under [Part 11][254], [Part 7][882] of the Financial Markets Conduct Act 2013, or any other enactment (if any); and
     
-    *   (c) where an auditor's report is required under [Part 11][254] in relation to the financial statements or group financial statements, as the case may be, included in the report, include that auditor's report; and
+    *   (c) if an auditor's report is required under [Part 11][254], [Part 7][882] of the Financial Markets Conduct Act 2013, or any other enactment in relation to the financial statements or group financial statements included in the report, include that auditor's report; and
     
     *   (d) \[Repealed\]
     
@@ -6229,47 +6819,53 @@ Disclosure by companies
     
     (2) A company that is required to include group financial statements in its annual report must include, in relation to its subsidiaries, the information specified in paragraphs (e) to (j) of subsection (1).
     
-    (3) The annual report of a company need not comply with any of paragraphs (a), and (e) to (j) of subsection (1), and subsection (2) if all shareholders agree that the report need not do so.
+    (3) The annual report of a company need not comply with any of paragraphs (a), and (e) to (j) of subsection (1), and subsection (2) if shareholders who together hold at least 95% of the voting shares (within the meaning of [section 198][261]) agree that the report need not do so.
     
-    (4) Nothing in subsection (3) affects the requirements of the [Financial Reporting Act 1993][818].
+    (4) \[Repealed\]
     
     Section 211(1): amended, on 1 July 1994, by section 25 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 211(1)(d): repealed, on 3 June 1998, by [section 6(1)(a)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(1)(b): replaced, on 1 April 2014, by [section 34(1)][901] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 211(1)(f): amended, on 3 June 1998, by [section 6(1)(b)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(1)(c): replaced, on 1 April 2014, by [section 34(1)][901] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 211(1)(h): amended, on 3 June 1998, by [section 6(1)(c)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(1)(d): repealed, on 3 June 1998, by [section 6(1)(a)][902] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 211(2): amended, on 3 June 1998, by [section 6(2)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(1)(f): amended, on 3 June 1998, by [section 6(1)(b)][902] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 211(3): replaced, on 3 June 1998, by [section 6(3)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(1)(h): amended, on 3 June 1998, by [section 6(1)(c)][902] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 211(4): inserted, on 3 June 1998, by [section 6(3)][845] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 211(2): amended, on 3 June 1998, by [section 6(2)][902] of the Companies Amendment Act 1998 (1998 No 31).
+    
+    Section 211(3): replaced, on 3 June 1998, by [section 6(3)][902] of the Companies Amendment Act 1998 (1998 No 31).
+    
+    Section 211(3): amended, on 1 April 2014, by [section 34(2)][901] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 211(4): repealed, on 1 April 2014, by [section 34(3)][901] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 211A Obligations to prepare and make available annual reports or financial statements do not apply to non-active companies
     
-*   If, under [section 10A][833] of the Financial Reporting Act 1993, the directors of a company are not required to comply with [section 10][742] of that Act in respect of an accounting period, the board of the company is not required to---
-        
-    *   (a) prepare an annual report under [section 208][274] in respect of that accounting period; or
+*   \[Repealed\]
     
-    *   (b) send or make available under [sections 209 to 209B][275] any annual report, notice, or other document in respect of that accounting period.
-    
-    Section 211A: inserted, on 18 June 2007, by [section 9][846] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 211A: repealed, on 1 April 2014, by [section 35][903] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 212 Shareholders may elect not to receive documents
     
 *   (1) A shareholder of a company may from time to time, by written notice to the company, waive the right to receive all or any documents from the company and may revoke the waiver in the same manner and, while the waiver is in effect, the company need not send to the shareholder the documents to which the waiver relates.
     
-    (2) However, if a shareholder of a company purports to waive the right to receive both a copy of the annual report and a notice under [section 209(1)(b)][275],---
+    (2) However, if a shareholder of a company purports to waive the right to receive both a copy of the annual report and a notice under [section 209(1)(b)][311],---
         
     *   (a) the purported waiver is invalid; and
     
-    *   (b) the board of the company must, in accordance with [section 209(1)][275], send to the shareholder a copy of the annual report or a notice under section 209(1)(b).
+    *   (b) the board of the company must, in accordance with [section 209(1)][311], send to the shareholder a copy of the annual report or a notice under section 209(1)(b).
     
-    Section 212: amended, on 18 June 2007, by [section 10(1)][847] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    (3) Subsection (2)(b) does not apply if the board of the company is not required to comply with [section 209(1)][311] in respect of an accounting period.
     
-    Section 212(2): inserted, on 18 June 2007, by [section 10(2)][847] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 212: amended, on 18 June 2007, by [section 10(1)][904] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 212(2): inserted, on 18 June 2007, by [section 10(2)][904] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 212(3): inserted, on 1 April 2014, by [section 36][905] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 213 Failure to disclose
     
@@ -6277,7 +6873,7 @@ Disclosure by companies
 
 ##### 214 Annual return
     
-*   (1) The board of a company must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the company for the purpose, an annual return in the prescribed form or in a form the use of which by the company has been approved by the Registrar pursuant to subsection (8), or as near to it as circumstances allow, and containing as much of the information specified in [Schedule 4][714] as is prescribed.
+*   (1) The board of a company must ensure that there is delivered to the Registrar each year, for registration, during the month allocated to the company for the purpose, an annual return in the prescribed form or in a form the use of which by the company has been approved by the Registrar pursuant to subsection (8), or as near to it as circumstances allow, and containing as much of the information specified in [Schedule 4][751] as is prescribed.
     
     (2) The annual return must be dated as at a day within the month during which the return is required to be delivered to the Registrar and the information required to be contained in it must be compiled as at that date.
     
@@ -6299,7 +6895,7 @@ Disclosure by companies
     
     (9) An annual return in a form approved under subsection (8) must contain all the prescribed information.
     
-    (10) If the board of a company fails to comply with subsection (1) or subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (10) If the board of a company fails to comply with subsection (1) or subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     Compare: 1955 No 63 ss 130, 131, 132; 1975 No 137 s 13; 1982 No 152 ss 8, 9, 10
 
@@ -6315,13 +6911,13 @@ Disclosure by companies
     
     that is different from the address of the registered office, the address for service, or the postal address of the company entered on the New Zealand register, the Registrar may alter the New Zealand register accordingly.
     
-    Section 214A: inserted, on 3 June 1998, by [section 7][848] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 214A: inserted, on 3 June 1998, by [section 7][906] of the Companies Amendment Act 1998 (1998 No 31).
 
 #### Inspection of company records
 
 ##### 215 Public inspection of company records
     
-*   (1) A company must keep the following records available for inspection in the manner prescribed in [section 217][288] by a person who serves written notice of intention to inspect on the company:
+*   (1) A company must keep the following records available for inspection in the manner prescribed in [section 217][324] by a person who serves written notice of intention to inspect on the company:
         
     *   (a) the certificate of incorporation or registration of the company:
     
@@ -6335,15 +6931,15 @@ Disclosure by companies
     
     (2) If a company fails to comply with subsection (1),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     
 
 ##### 216 Inspection of company records by shareholders
     
-*   (1) In addition to the records available for public inspection, a company must keep the following records available for inspection in the manner prescribed in [section 217][288] by a shareholder of the company, or by a person authorised in writing by a shareholder for the purpose, who serves written notice of intention to inspect on the company:
+*   (1) In addition to the records available for public inspection, a company must keep the following records available for inspection in the manner prescribed in [section 217][324] by a shareholder of the company, or by a person authorised in writing by a shareholder for the purpose, who serves written notice of intention to inspect on the company:
         
     *   (a) minutes of all meetings and resolutions of shareholders:
     
@@ -6355,21 +6951,21 @@ Disclosure by companies
     
     (2) If a company fails to comply with subsection (1),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of a company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of a company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 216(1)(b): amended, on 15 April 2004, by [section 14][849] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 216(1)(b): amended, on 15 April 2004, by [section 14][907] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 217 Manner of inspection
     
-*   (1) Documents which may be inspected under [section 215][286] or [section 216][287] must be available for inspection at the place at which the company's records are kept between the hours of 9 am and 5 pm on each working day during the inspection period.
+*   (1) Documents which may be inspected under [section 215][322] or [section 216][323] must be available for inspection at the place at which the company's records are kept between the hours of 9 am and 5 pm on each working day during the inspection period.
     
     (2) In this section, the term _inspection period_ means the period commencing on the third working day after the day on which notice of intention to inspect is served on the company by the person or shareholder concerned and ending with the eighth working day after the day of service.
 
 ##### 218 Copies of documents
     
-*   (1) A person may require a copy of, or extract from, a document which is available for inspection by him or her under [section 215][286] or [section 216][287] to be sent to him or her---
+*   (1) A person may require a copy of, or extract from, a document which is available for inspection by him or her under [section 215][322] or [section 216][323] to be sent to him or her---
         
     *   (a) within 5 working days after he or she has made a request in writing for the copy or extract; and
     
@@ -6377,9 +6973,9 @@ Disclosure by companies
     
     (2) If a company fails to provide a copy of, or extract from, a document in accordance with a request under subsection (1),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(1)][712].
     
     
 
@@ -6472,11 +7068,11 @@ Amalgamations
     
     *   (b) if a provision in the amalgamation proposal would, if contained in an amendment to an amalgamating company's constitution or otherwise proposed in relation to that company, require the approval of an interest group, by a special resolution of that interest group.
     
-    (6) A director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (6) A director who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
 
 ##### 222 Short form amalgamation
     
-*   (1) A company and 1 or more other companies that is or that are directly or indirectly wholly owned by it may amalgamate and continue as 1 company (being the company first referred to) without complying with [section 220][292] and [section 221][293] if---
+*   (1) A company and 1 or more other companies that is or that are directly or indirectly wholly owned by it may amalgamate and continue as 1 company (being the company first referred to) without complying with [section 220][328] and [section 221][329] if---
         
     *   (a) the amalgamation is approved by a resolution of the board of each amalgamating company; and
     
@@ -6492,7 +7088,7 @@ Amalgamations
         
         
     
-    (2) Two or more companies, each of which is directly or indirectly wholly owned by the same person, may amalgamate and continue as 1 company without complying with [section 220][292] or [section 221][293] if---
+    (2) Two or more companies, each of which is directly or indirectly wholly owned by the same person, may amalgamate and continue as 1 company without complying with [section 220][328] or [section 221][329] if---
         
     *   (a) the amalgamation is approved by a resolution of the board of each amalgamating company; and
     
@@ -6514,19 +7110,19 @@ Amalgamations
     
     (5) The directors who vote in favour of a resolution required by subsection (1) or subsection (2), as the case may be, must sign a certificate stating that, in their opinion, the condition set out in subsection (1)(b)(iii) or subsection (2)(b)(iii) is satisfied, and the grounds for that opinion.
     
-    (6) A director who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (6) A director who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    Section 222(1)(b)(iii): amended, on 30 June 1997, by [section 16(1)][850] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 222(1)(b)(iii): amended, on 30 June 1997, by [section 16(1)][908] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 222(1)(b)(iv): inserted, on 30 June 1997, by [section 16(1)][850] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 222(1)(b)(iv): inserted, on 30 June 1997, by [section 16(1)][908] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 222(2): amended, on 3 June 1998, by [section 8][851] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 222(2): amended, on 3 June 1998, by [section 8][909] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 222(2)(b)(iii): amended, on 30 June 1997, by [section 16(2)][850] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 222(2)(b)(iii): amended, on 30 June 1997, by [section 16(2)][908] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 222(2)(b)(iv): inserted, on 30 June 1997, by [section 16(2)][850] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 222(2)(b)(iv): inserted, on 30 June 1997, by [section 16(2)][908] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 222(5): amended, on 30 June 1997, by [section 16(3)][850] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 222(5): amended, on 30 June 1997, by [section 16(3)][908] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 223 Registration of amalgamation proposal
     
@@ -6534,23 +7130,23 @@ Amalgamations
         
     *   (a) the approved amalgamation proposal; and
     
-    *   (b) any certificates required under [section 221(2)][293] or [section 222(5)][294]; and
+    *   (b) any certificates required under [section 221(2)][329] or [section 222(5)][330]; and
     
     *   (c) a certificate signed by the board of each amalgamating company stating that the amalgamation has been approved in accordance with this Act and the constitution of the company, if it has one; and
     
     *   (d) if the amalgamated company is a new company or the amalgamation proposal provides for a change of the name of the amalgamated company, a copy of the notice reserving the name of the company; and
     
-    *   (da) if an amalgamating company is a licensed insurer, a copy of the written approval of the Reserve Bank of New Zealand given under [section 44][852] of the Insurance (Prudential Supervision) Act 2010; and
+    *   (da) if an amalgamating company is a licensed insurer, a copy of the written approval of the Reserve Bank of New Zealand given under [section 44][910] of the Insurance (Prudential Supervision) Act 2010; and
     
     *   (e) a certificate signed by the board, or proposed board, of the amalgamated company stating that, where the proportion of the claims of creditors of the amalgamated company in relation to the value of the assets of the company is greater than the proportion of the claims of creditors of an amalgamating company in relation to the value of the assets of that amalgamating company, no creditor will be prejudiced by that fact; and
     
     *   (f) a document in the prescribed form signed by each of the persons named in the amalgamation proposal as a director of the amalgamated company containing his or her consent to be a director and a certificate that he or she is not disqualified from being appointed or holding office as a director of a company.
     
-    Section 223(da): inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 223(da): inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 224 Certificate of amalgamation
     
-*   (1) Forthwith after receipt of the documents required under [section 223][295], the Registrar must,---
+*   (1) Forthwith after receipt of the documents required under [section 223][331], the Registrar must,---
         
     *   (a) if the amalgamated company is the same as one of the amalgamating companies, issue a certificate of amalgamation; or
     
@@ -6606,9 +7202,9 @@ Amalgamations
     
     (3) Without limiting subsection (1) or subsection (2), where any security issued by any person or any rights or interests in property of any person become, by virtue of this Part, the property of an amalgamated company, that person, on presentation of a certificate signed on behalf of the board of the amalgamated company, stating that that security or any such rights or interests have, by virtue of this Part, become the property of the amalgamated company, shall, notwithstanding any other enactment or rule of law or the provisions of any instrument, register the amalgamated company as the holder of that security or as the person entitled to such rights or interests, as the case may be.
     
-    (4) In subsection (3), _security_ has the same meaning as in [section 2(1)][853] of the Securities Act 1978\.
+    (4) In subsection (3), _security_ has the same meaning as in [section 2(1)][911] of the Securities Act 1978\.
     
-    (5) Except as provided in this section, nothing in this Part derogates from the provisions of the [Land Transfer Act 1952][854].
+    (5) Except as provided in this section, nothing in this Part derogates from the provisions of the [Land Transfer Act 1952][912].
     
     Section 225A: inserted, on 1  July 1994, by section 27 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -6631,7 +7227,7 @@ Compromises with creditors
     
 *   In this Part, unless the context otherwise requires,---
     
-    _company_ includes an overseas company registered under [Part 18][621]
+    _company_ includes an overseas company registered under [Part 18][657]
     
     _compromise_ means a compromise between a company and its creditors, including a compromise---
         
@@ -6643,19 +7239,19 @@ Compromises with creditors
     
     _creditor_ includes---
         
-    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][571] that a debt is owing to that person by the company; and
+    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][607] that a debt is owing to that person by the company; and
     
     *   (b) a secured creditor
     
-    _proponent_ means a person referred to in [section 228][302] who proposed a compromise in accordance with this Part.
+    _proponent_ means a person referred to in [section 228][338] who proposed a compromise in accordance with this Part.
     
-    Section 227 **company**: inserted, on 1 November 2007, by [section 5][855] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 227 **company**: inserted, on 1 November 2007, by [section 5][913] of the Companies Amendment Act 2006 (2006 No 56).
     
     Section 227 **creditor**: replaced, on 1 July 1994, by section 28 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 ##### 228 Compromise proposal
     
-*   (1) Any of the following persons may propose a compromise under this Part if that person has reason to believe that a company is or will be unable to pay its debts within the meaning of [section 287][552]---
+*   (1) Any of the following persons may propose a compromise under this Part if that person has reason to believe that a company is or will be unable to pay its debts within the meaning of [section 287][588]---
         
     *   (a) the board of directors of the company:
     
@@ -6677,7 +7273,7 @@ Compromises with creditors
     
     (2) The proponent must give to each known creditor, the company, any receiver or liquidator, and deliver to the Registrar for registration,---
         
-    *   (a) notice in accordance with [Schedule 5][715] of the intention to hold a meeting of creditors, or any 2 or more classes of creditors, for the purpose of voting on the resolution; and
+    *   (a) notice in accordance with [Schedule 5][752] of the intention to hold a meeting of creditors, or any 2 or more classes of creditors, for the purpose of voting on the resolution; and
     
     *   (b) a statement---
             
@@ -6691,7 +7287,7 @@ Compromises with creditors
         
         *   (v) setting out the extent of any interest of a director in the proposed compromise; and
         
-        *   (vi) explaining that the proposed compromise and any amendment to it proposed at a meeting of creditors or any classes of creditors will be binding on all creditors, or on all creditors of that class, if approved in accordance with [section 230][304]; and
+        *   (vi) explaining that the proposed compromise and any amendment to it proposed at a meeting of creditors or any classes of creditors will be binding on all creditors, or on all creditors of that class, if approved in accordance with [section 230][340]; and
         
         *   (vii) containing details of any procedure proposed as part of the proposed compromise for varying the compromise following its approval; and
         
@@ -6703,7 +7299,7 @@ Compromises with creditors
 
 ##### 230 Effect of compromise
     
-*   (1) A compromise, including any amendment proposed at the meeting, is approved by creditors, or a class of creditors, if, at a meeting of creditors or that class of creditors conducted in accordance with [Schedule 5][715], the compromise, including any amendment, is adopted in accordance with [clause 5][856] of that schedule.
+*   (1) A compromise, including any amendment proposed at the meeting, is approved by creditors, or a class of creditors, if, at a meeting of creditors or that class of creditors conducted in accordance with [Schedule 5][752], the compromise, including any amendment, is adopted in accordance with [clause 5][914] of that schedule.
     
     (2) A compromise, including any amendment, approved by creditors or a class of creditors of a company in accordance with this Part is binding on the company and on---
         
@@ -6711,7 +7307,7 @@ Compromises with creditors
     
     *   (b) if there is more than 1 class of creditors, on all creditors of that class---
     
-    to whom notice of the proposal was given under [section 229][303].
+    to whom notice of the proposal was given under [section 229][339].
     
     (3) If a resolution proposing a compromise, including any amendment, is put to the vote of more than 1 class of creditors, it is to be presumed, unless the contrary is expressly stated in the resolution, that the approval of the compromise, including any amendment, by each class is conditional on the approval of the compromise, including any amendment, by every other class voting on the resolution.
     
@@ -6719,7 +7315,7 @@ Compromises with creditors
 
 ##### 231 Variation of compromise
     
-*   (1) A compromise approved under [section 230][304] may be varied either---
+*   (1) A compromise approved under [section 230][340] may be varied either---
         
     *   (a) in accordance with any procedure for variation incorporated in the compromise as approved; or
     
@@ -6745,7 +7341,7 @@ Compromises with creditors
     
     (3) If the court is satisfied, on the application of a creditor of a company who was entitled to vote on a compromise that---
         
-    *   (a) insufficient notice of the meeting or of the matter required to be notified under [section 229][303] was given to that creditor; or
+    *   (a) insufficient notice of the meeting or of the matter required to be notified under [section 229][339] was given to that creditor; or
     
     *   (b) there was some other material irregularity in obtaining approval of the compromise; or
     
@@ -6757,7 +7353,7 @@ Compromises with creditors
 
 ##### 233 Effect of compromise in liquidation of company
     
-*   (1) Where a compromise is approved under [section 230][304], the court may, on the application of---
+*   (1) Where a compromise is approved under [section 230][340], the court may, on the application of---
         
     *   (a) the company; or
     
@@ -6767,7 +7363,7 @@ Compromises with creditors
     
     make such order as the court thinks fit with respect to the extent, if any, to which the compromise will, if the company is put into liquidation, continue in effect and be binding on the liquidator of the company.
     
-    (2) Where a compromise is approved under [section 230][304] and the company is subsequently put into liquidation, the court may, on the application of---
+    (2) Where a compromise is approved under [section 230][340] and the company is subsequently put into liquidation, the court may, on the application of---
         
     *   (a) the liquidator; or
     
@@ -6785,7 +7381,7 @@ Compromises with creditors
     
     *   (b) if incurred by a receiver or a liquidator, are a cost of the receivership or liquidation; or
     
-    *   (c) if incurred by any other person, are a debt due to that person by the company and, if the company is put into liquidation, are payable in the order of priority specified in [Schedule 7][717].
+    *   (c) if incurred by any other person, are a debt due to that person by the company and, if the company is put into liquidation, are payable in the order of priority specified in [Schedule 7][754].
     
     
 
@@ -6804,11 +7400,11 @@ Approval of arrangements, amalgamations, and compromises by court
     
     *   (b) an overseas company that is registered on the overseas register:
     
-    *   (c) an association that may be put into liquidation under [section 17A][857] of the Judicature Act 1908
+    *   (c) an association that may be put into liquidation under [section 17A][915] of the Judicature Act 1908
     
     _creditor_ includes---
         
-    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][571] that a debt is owing to that person by the company; and
+    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][607] that a debt is owing to that person by the company; and
     
     *   (b) a secured creditor.
     
@@ -6830,19 +7426,19 @@ Approval of arrangements, amalgamations, and compromises by court
     
     *   (e) an order specifying the persons who shall be entitled to appear and be heard on the application to approve the arrangement or amalgamation or compromise.
     
-    (2A) If the arrangement or amalgamation or compromise involves a transfer or amalgamation that requires the written approval of the Reserve Bank of New Zealand under [section 44][852] of the Insurance (Prudential Supervision) Act 2010, the court may not make an order under this section unless that approval has been given.
+    (2A) If the arrangement or amalgamation or compromise involves a transfer or amalgamation that requires the written approval of the Reserve Bank of New Zealand under [section 44][910] of the Insurance (Prudential Supervision) Act 2010, the court may not make an order under this section unless that approval has been given.
     
     (3) An order made under this section has effect on and from the date specified in the order.
     
     (4) Within 10 working days of an order being made by the court, the board of the company must ensure that a copy of the order is delivered to the Registrar for registration.
     
-    (5) If the board of a company fails to comply with subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (5) If the board of a company fails to comply with subsection (4), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Section 236(2A): inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 236(2A): inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 237 Court may make additional orders
     
-*   (1) Without limiting [section 236][311], the court may, for the purpose of giving effect to any arrangement or amalgamation or compromise approved under that section, either by the order approving the arrangement or amalgamation or compromise, or by any subsequent order, provide for, and prescribe terms and conditions relating to,---
+*   (1) Without limiting [section 236][347], the court may, for the purpose of giving effect to any arrangement or amalgamation or compromise approved under that section, either by the order approving the arrangement or amalgamation or compromise, or by any subsequent order, provide for, and prescribe terms and conditions relating to,---
         
     *   (a) the transfer or vesting of real or personal property, assets, rights, powers, interests, liabilities, contracts, and engagements:
     
@@ -6858,30 +7454,30 @@ Approval of arrangements, amalgamations, and compromises by court
     
     (2) Within 10 working days of an order being made by the court, the board of the company must ensure that a copy of the order is delivered to the Registrar for registration.
     
-    (3) If the board of a company fails to comply with subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    (3) If the board of a company fails to comply with subsection (2), every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
 
 ##### 238 Parts 13 and 14 not affected
     
 *   The court may---
         
-    *   (a) approve an amalgamation under [section 236][311] even though the amalgamation could be effected under [Part 13][290]:
+    *   (a) approve an amalgamation under [section 236][347] even though the amalgamation could be effected under [Part 13][326]:
     
-    *   (b) approve a compromise under [section 236][311] even though the compromise could be approved under [Part 14][300].
+    *   (b) approve a compromise under [section 236][347] even though the compromise could be approved under [Part 14][336].
     
     
 
 ##### 239 Application of section 233
     
-*   The provisions of [section 233][307] shall apply with such modifications as may be necessary in relation to any compromise approved under [section 236][311].
+*   The provisions of [section 233][343] shall apply with such modifications as may be necessary in relation to any compromise approved under [section 236][347].
 
 ## Part 15A  
 Voluntary administration
     
-*   Part 15A: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Part 15A: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 1---Preliminary
     
-*   Subpart 1: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 1: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239A Objects of this Part
     
@@ -6893,7 +7489,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 435A (Aust)
     
-    Section 239A: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239A: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239B Interpretation of some key terms
     
@@ -6907,7 +7503,7 @@ Voluntary administration
     
     _watershed meeting_ means the creditors' meeting called by the administrator to decide the future of the company and, in particular, whether the company and the deed administrator should execute a deed of company arrangement.
     
-    Section 239B: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239B: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239C Interpretation of other terms
     
@@ -6915,11 +7511,11 @@ Voluntary administration
     
     _company_ includes an overseas company
     
-    _convening period_ has the meaning given to it in [section 239AT(2)][370]
+    _convening period_ has the meaning given to it in [section 239AT(2)][406]
     
     _creditor_ includes---
         
-    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][571] that a debt is owing to that person by the company; and
+    *   (a) a person who, in a liquidation, would be entitled to claim in accordance with [section 303][607] that a debt is owing to that person by the company; and
     
     *   (b) a secured creditor
     
@@ -6933,7 +7529,7 @@ Voluntary administration
     
     _sheriff_ includes a person charged with the execution of a writ or other enforcement process.
     
-    Section 239C: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239C: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239D When administration begins
     
@@ -6941,7 +7537,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 435C(1) (Aust)
     
-    Section 239D: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239D: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239E When administration ends
     
@@ -6963,23 +7559,23 @@ Voluntary administration
     
     *   (d) if the watershed meeting ends without a resolution that the company execute a deed of company arrangement, the administration ends at the end of that meeting; or
     
-    *   (e) if the company fails to execute a proposed deed of company arrangement within the time allowed by [section 239ACO][422] or [239ACP][423], the administration ends when that time expires; or
+    *   (e) if the company fails to execute a proposed deed of company arrangement within the time allowed by [section 239ACO][458] or [239ACP][459], the administration ends when that time expires; or
     
     *   (f) if the court appoints a liquidator or an interim liquidator, the administration ends at the time when the order is made.
     
     Compare: Corporations Act 2001 s 435C(2), (3) (Aust)
     
-    Section 239E: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239E: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239EA Voluntary administration of licensed insurers
     
-*   If a company is a licensed insurer, this Part applies in respect of the insurer subject to [subpart 3][859] of Part 4 of the Insurance (Prudential Supervision) Act 2010\.
+*   If a company is a licensed insurer, this Part applies in respect of the insurer subject to [subpart 3][917] of Part 4 of the Insurance (Prudential Supervision) Act 2010\.
     
-    Section 239EA: inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 239EA: inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ### Subpart 2---Appointment of administrator
     
-*   Subpart 2: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 2: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239F Who may be appointed administrator
     
@@ -6987,11 +7583,11 @@ Voluntary administration
     
     (2) Unless the court orders otherwise, a person is disqualified from appointment as an administrator if that person---
         
-    *   (a) is disqualified under [section 280(1)][544] from being appointed or acting as a liquidator of the company; or
+    *   (a) is disqualified under [section 280(1)][580] from being appointed or acting as a liquidator of the company; or
     
-    *   (b) is prohibited from being an administrator by an order made under [section 239ADV][459].
+    *   (b) is prohibited from being an administrator by an order made under [section 239ADV][495].
     
-    Section 239F: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239F: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239G Administrator must consent in writing
     
@@ -6999,21 +7595,21 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 448A (Aust)
     
-    Section 239G: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239G: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239H Who may appoint administrator
     
 *   (1) An administrator may be appointed to a company by---
         
-    *   (a) the company (_see_ [section 239I][327]); or
+    *   (a) the company (_see_ [section 239I][363]); or
     
-    *   (b) if the company is in liquidation, the liquidator (_see_ [section 239J][328]); or
+    *   (b) if the company is in liquidation, the liquidator (_see_ [section 239J][364]); or
     
-    *   (c) if an interim liquidator has been appointed, the interim liquidator (_see_ [section 239J][328]); or
+    *   (c) if an interim liquidator has been appointed, the interim liquidator (_see_ [section 239J][364]); or
     
-    *   (d) a secured creditor holding a charge over the whole, or substantially the whole, of the company's property (_see_ [section 239K][329]); or
+    *   (d) a secured creditor holding a charge over the whole, or substantially the whole, of the company's property (_see_ [section 239K][365]); or
     
-    *   (e) the court (_see_ [section 239L][330]).
+    *   (e) the court (_see_ [section 239L][366]).
     
     (2) If the company is already in administration, an administrator may be appointed only by---
         
@@ -7025,7 +7621,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436D (Aust)
     
-    Section 239H: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239H: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239I Appointment by company
     
@@ -7039,13 +7635,13 @@ Voluntary administration
     
     (3) The company must not appoint an administrator if the company is already in liquidation.
     
-    (4) If an application has been filed for the appointment of a liquidator of the company by the court under [section 241(2)(c)][495], the company may only appoint an administrator if the administrator is appointed within 10 working days after service on the company of the application.
+    (4) If an application has been filed for the appointment of a liquidator of the company by the court under [section 241(2)(c)][531], the company may only appoint an administrator if the administrator is appointed within 10 working days after service on the company of the application.
     
     (5) Subsection (4) does not apply once the application has been finally disposed of.
     
     Compare: Corporations Act 2001 s 436A (Aust)
     
-    Section 239I: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239I: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239J Appointment by liquidator or interim liquidator
     
@@ -7061,11 +7657,11 @@ Voluntary administration
     
     (4) A liquidator or interim liquidator must not appoint as administrator a person who is the liquidator's or interim liquidator's business or professional partner, employer, or employee, unless the appointment has been approved by the company's creditors in the form of a resolution passed at a creditors' meeting.
     
-    (5) An administrator who is appointed to a company already in liquidation may apply to the court for an order under [section 250][507] terminating the liquidation.
+    (5) An administrator who is appointed to a company already in liquidation may apply to the court for an order under [section 250][543] terminating the liquidation.
     
     Compare: Corporations Act 2001 s 436B (Aust)
     
-    Section 239J: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239J: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239K Appointment by secured creditor
     
@@ -7077,7 +7673,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436C (Aust)
     
-    Section 239K: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239K: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239L Appointment by court
     
@@ -7093,13 +7689,13 @@ Voluntary administration
         
     *   (a) subsection (2)(a) or (b) apply; or
     
-    *   (b) the insurer is failing to maintain a solvency margin (within the meaning of [section 6(1)][729] of the Insurance (Prudential Supervision) Act 2010).
+    *   (b) the insurer is failing to maintain a solvency margin (within the meaning of [section 6(1)][766] of the Insurance (Prudential Supervision) Act 2010).
     
-    Section 239L: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239L: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239L(1): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239L(1): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 239L(3): inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 239L(3): inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 239M Appointment must not be revoked
     
@@ -7109,7 +7705,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 449A (Aust)
     
-    Section 239M: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239M: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239N Appointment of 2 or more administrators
     
@@ -7123,7 +7719,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 451A (Aust)
     
-    Section 239N: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239N: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239O Remuneration of administrator
     
@@ -7135,11 +7731,11 @@ Voluntary administration
     
     Compare: 1993 No 105 ss 276(1), 284(1)(e)
     
-    Section 239O: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239O: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 3---Resignation and removal of administrator
     
-*   Subpart 3: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 3: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239P When office of administrator is vacant
     
@@ -7149,13 +7745,13 @@ Voluntary administration
     
     *   (b) dies; or
     
-    *   (c) becomes disqualified from appointment as an administrator (_see_ [section 239F(2)][324]); or
+    *   (c) becomes disqualified from appointment as an administrator (_see_ [section 239F(2)][360]); or
     
     *   (d) is removed by the court.
     
     Compare: Corporations Act 2001 s 449C(1) (Aust)
     
-    Section 239P: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239P: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239Q Administrator may resign
     
@@ -7169,7 +7765,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 449C(1)(c) (Aust)
     
-    Section 239Q: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239Q: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239R Removal of administrator
     
@@ -7179,7 +7775,7 @@ Voluntary administration
     
     *   (b) by a resolution of creditors passed at the first creditors' meeting; or
     
-    *   (c) by a resolution of creditors at a meeting convened under [section 239T(1)][339] to consider whether to remove a replacement administrator.
+    *   (c) by a resolution of creditors at a meeting convened under [section 239T(1)][375] to consider whether to remove a replacement administrator.
     
     (2) The creditors may not remove the administrator by a resolution passed at a creditors' meeting unless---
         
@@ -7195,9 +7791,9 @@ Voluntary administration
     
     Compare: Corporations Act 2001 ss 436E(4), 449B (Aust)
     
-    Section 239R: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239R: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239R(1)(a): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239R(1)(a): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 239S Appointor may appoint new administrator to fill vacancy
     
@@ -7213,11 +7809,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 449C (Aust)
     
-    Section 239S: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239S: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239T Creditors must consider appointment of replacement administrator
     
-*   (1) A replacement administrator, unless appointed by the court or by the creditors under [section 239R(1)(b)][337], must convene a meeting of the creditors at which the creditors may vote to remove the replacement administrator and appoint another person in his or her place.
+*   (1) A replacement administrator, unless appointed by the court or by the creditors under [section 239R(1)(b)][373], must convene a meeting of the creditors at which the creditors may vote to remove the replacement administrator and appoint another person in his or her place.
     
     (2) The meeting must be held not more than 5 working days after the date on which the replacement administrator is appointed.
     
@@ -7231,11 +7827,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 449C(4), (5) (Aust)
     
-    Section 239T: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239T: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 4---Effect of appointment of administrator
     
-*   Subpart 4: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 4: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239U Outline of administrator's role
     
@@ -7251,7 +7847,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 437A(1) (Aust)
     
-    Section 239U: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239U: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239V Administrator's powers
     
@@ -7271,7 +7867,7 @@ Voluntary administration
     
     Compare: 1993 No 105 s 260(1)
     
-    Section 239V: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239V: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239W Administrator is company's agent
     
@@ -7279,7 +7875,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 437B (Aust)
     
-    Section 239W: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239W: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239X Effect on directors
     
@@ -7293,7 +7889,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 437C (Aust)
     
-    Section 239X: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239X: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239Y Effect on employees
     
@@ -7309,9 +7905,9 @@ Voluntary administration
     
     (4) The court may, on the administrator's application, extend the period of 14 days in subsection (3) within which notice of termination must be given, and may extend it on the terms and conditions, if any, that the court thinks appropriate.
     
-    (5) From the date of the appointment of the administrator, the duty of good faith set out in [section 4][860] of the Employment Relations Act 2000 continues to apply between each employee of the company and his or her employer (who may be the administrator if the administrator has adopted the employment agreement under subsection (2)).
+    (5) From the date of the appointment of the administrator, the duty of good faith set out in [section 4][918] of the Employment Relations Act 2000 continues to apply between each employee of the company and his or her employer (who may be the administrator if the administrator has adopted the employment agreement under subsection (2)).
     
-    Section 239Y: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239Y: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239Z Effect on dealing with company property
     
@@ -7347,15 +7943,15 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 437D (Aust)
     
-    Section 239Z: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239Z: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AA Company officer's liability for compensation for void transaction or dealing
     
-*   The court may order a director or officer of a company who is convicted of an offence under [section 239Z(4)][346] to compensate any person, including the company, who has suffered loss as a result of the act or omission constituting the offence.
+*   The court may order a director or officer of a company who is convicted of an offence under [section 239Z(4)][382] to compensate any person, including the company, who has suffered loss as a result of the act or omission constituting the offence.
     
     Compare: Corporations Act 2001 s 437E(1) (Aust)
     
-    Section 239AA: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AA: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AB Effect on transfer of shares
     
@@ -7371,7 +7967,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 437F (Aust)
     
-    Section 239AB: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AB: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AC Effect on liquidation
     
@@ -7381,17 +7977,17 @@ Voluntary administration
     
     (3) In this section, _liquidator_ includes a liquidator or interim liquidator appointed before the administration began.
     
-    Section 239AC: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AC: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AD Effect on receivership
     
 *   The appointment of an administrator to a company in receivership does not remove the receiver from office.
     
-    Section 239AD: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AD: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 5---Administrator's investigation of company's affairs
     
-*   Subpart 5: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 5: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AE Administrator must investigate company's affairs and consider possible courses of action
     
@@ -7411,7 +8007,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 438A (Aust)
     
-    Section 239AE: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AE: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AF Directors' statement of company's position
     
@@ -7427,13 +8023,13 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 438B(2) (Aust)
     
-    Section 239AF: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AF: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AG Administrator's right to documents, etc
     
-*   [Sections 261][523] and [263 to 267][525] apply with all necessary modifications as if every reference to liquidator and liquidation was a reference to administrator and administration.
+*   [Sections 261][559] and [263 to 267][561] apply with all necessary modifications as if every reference to liquidator and liquidation was a reference to administrator and administration.
     
-    Section 239AG: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AG: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AH Administrator may lodge report with Registrar
     
@@ -7441,7 +8037,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 438D(2) (Aust)
     
-    Section 239AH: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AH: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AI Administrator must report misconduct
     
@@ -7457,7 +8053,7 @@ Voluntary administration
         
         *   (iii) the Securities Markets Act 1988:
         
-        *   (iv) the Financial Reporting Act 1993:
+        *   (iv) \[Repealed\]
         
         *   (v) the Takeovers Act 1993; or
         
@@ -7483,11 +8079,13 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 438D (Aust)
     
-    Section 239AI: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AI: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
+    
+    Section 239AI(1)(b)(iv): repealed, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ### Subpart 6---Creditors' meetings generally
     
-*   Subpart 6: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 6: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AJ Administrator must call creditors' meetings
     
@@ -7495,19 +8093,19 @@ Voluntary administration
         
     *   (a) the first creditors' meeting, for the appointment (if any) of a committee of creditors; and
     
-    *   (b) the watershed meeting (_see_ [section 239AS][369]); and
+    *   (b) the watershed meeting (_see_ [section 239AS][405]); and
     
     *   (c) other creditors' meetings as required (for example, because an administrator has been replaced).
     
-    Section 239AJ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AJ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AK Conduct of creditors' meetings
     
-*   (1) The following clauses of [Schedule 5][715] apply to creditors' meetings called under this Part as if references to the liquidator were references to the administrator:
+*   (1) The following clauses of [Schedule 5][752] apply to creditors' meetings called under this Part as if references to the liquidator were references to the administrator:
         
-    *   (a) subject to [section 239AZ][376], [clause 4][861]; and
+    *   (a) subject to [section 239AZ][412], [clause 4][919]; and
     
-    *   (b) [clauses 6 to 11][862].
+    *   (b) [clauses 6 to 11][920].
     
     (2) At any meeting of creditors or class of creditors held under this Part, a resolution is adopted if a majority in number representing 75% in value of the creditors or class of creditors voting in person, or by proxy vote or by postal vote, vote in favour of the resolution.
     
@@ -7517,7 +8115,7 @@ Voluntary administration
     
     (5) On the application of the administrator, or of a creditor who is aggrieved by an estimate made by the administrator, the court must determine the amount of the claim as it sees fit.
     
-    Section 239AK: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AK: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AL Joint meetings of creditors of related companies in administration
     
@@ -7545,7 +8143,7 @@ Voluntary administration
     
     (5) For the purposes of subsection (4)(d), the administrator may in his or her discretion determine the time for receipt of an objection, but must specify a time that is reasonably practicable in the circumstances.
     
-    Section 239AL: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AL: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AM Power of court where outcome of voting at creditors' meeting determined by related entity
     
@@ -7583,7 +8181,7 @@ Voluntary administration
     
     (3) In this section,---
     
-    _promoter_ has the same meaning as in [section 2(1)][853] of the Securities Act 1978
+    _promoter_ has the same meaning as in [section 2(1)][911] of the Securities Act 1978
     
     _related creditor_ means a creditor who is a related entity of the company in administration
     
@@ -7615,11 +8213,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 600A (Aust)
     
-    Section 239AM: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AM: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 7---First creditors' meeting to appoint creditors' committee
     
-*   Subpart 7: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 7: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AN Administrator must call first creditors' meeting
     
@@ -7633,7 +8231,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436E(1), (2) (Aust)
     
-    Section 239AN: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AN: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AO Notice of first and subsequent creditors' meetings
     
@@ -7647,7 +8245,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436E(3) (Aust)
     
-    Section 239AO: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AO: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AP Administrator must table interests statement
     
@@ -7657,7 +8255,7 @@ Voluntary administration
     
     (3) The administrator must, before tabling the interests statement, make the inquiries that are reasonably necessary for ensuring that the interests statement is complete.
     
-    Section 239AP: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AP: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AQ Functions of creditors' committee
     
@@ -7671,7 +8269,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436F (Aust)
     
-    Section 239AQ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AQ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AR Membership of creditors' committee
     
@@ -7685,17 +8283,17 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 436G (Aust)
     
-    Section 239AR: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AR: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 8---Watershed meeting
     
-*   Subpart 8: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 8: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AS What watershed meeting is
     
 *   The watershed meeting is the meeting of creditors called by the administrator to decide the future of the company and, in particular, whether the company and the deed administrator should execute a deed of company arrangement.
     
-    Section 239AS: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AS: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AT Administrator must convene watershed meeting
     
@@ -7707,7 +8305,7 @@ Voluntary administration
     
     (4) The application to extend may be made before or after the convening period has expired.
     
-    Section 239AT: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AT: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AU Notice of watershed meeting
     
@@ -7743,7 +8341,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 439A(3), (4) (Aust)
     
-    Section 239AU: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AU: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AV When watershed meeting must be held
     
@@ -7751,7 +8349,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 439A(2) (Aust)
     
-    Section 239AV: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AV: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AW Directors must attend watershed meeting
     
@@ -7765,15 +8363,15 @@ Voluntary administration
     
     (3) A director attending the watershed meeting must leave for all or part of the remainder of the meeting if required by a resolution of the creditors to do so.
     
-    (4) A director who contravenes subsection (1) commits an offence, unless subsection (2) applies, and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (4) A director who contravenes subsection (1) commits an offence, unless subsection (2) applies, and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    Section 239AW: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AW: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AX Disclosure of voting arrangements
     
 *   The administrator and the directors of the company under administration must, before the meeting votes on any resolution, inform the meeting of any voting arrangement of which the administrator or a director, as the case may be, is aware that requires 1 or more creditors to vote in a particular way on any resolution that will or may be voted on by the meeting.
     
-    Section 239AX: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AX: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AY Court may order that pooled property owners are separate class
     
@@ -7797,9 +8395,9 @@ Voluntary administration
     
     (4) It is not necessary that a separate meeting of the pooled property owners be held for the purpose of voting on the resolution.
     
-    (5) Subsection (3) applies no matter what [sections 239ACS][426] and [239ACT][427] say.
+    (5) Subsection (3) applies no matter what [sections 239ACS][462] and [239ACT][463] say.
     
-    Section 239AY: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AY: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AZ Adjournment of watershed meeting
     
@@ -7809,7 +8407,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 439B(2) (Aust)
     
-    Section 239AZ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AZ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABA What creditors may decide at watershed meeting
     
@@ -7823,11 +8421,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 439C (Aust)
     
-    Section 239ABA: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABA: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABB What happens if proposed deed not fully approved at watershed meeting
     
-*   (1) If, at the watershed meeting, the creditors resolve that the company execute a deed of company arrangement, but the proposed deed is not fully approved at the meeting, then the administrator must take the steps set out in [section 239ACP][423] (briefly, the administrator must draft a deed and circulate it to creditors).
+*   (1) If, at the watershed meeting, the creditors resolve that the company execute a deed of company arrangement, but the proposed deed is not fully approved at the meeting, then the administrator must take the steps set out in [section 239ACP][459] (briefly, the administrator must draft a deed and circulate it to creditors).
     
     (2) The administrator must inform the creditors at the watershed meeting that---
         
@@ -7835,15 +8433,15 @@ Voluntary administration
     
     *   (b) the administrator has the ultimate responsibility for drafting the deed and the executed deed may differ from the draft.
     
-    Section 239ABB: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABB: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 9---Protection of company's property during administration
     
-*   Subpart 9: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 9: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABC Charge unenforceable
     
-*   Subject to [subpart 10][388], a person must not, during the administration of a company, enforce a charge over the property of the company, except---
+*   Subject to [subpart 10][424], a person must not, during the administration of a company, enforce a charge over the property of the company, except---
         
     *   (a) with the administrator's written consent; or
     
@@ -7851,7 +8449,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440B (Aust)
     
-    Section 239ABC: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABC: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABD Owner or lessor must not recover property used by company
     
@@ -7863,7 +8461,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440C (Aust)
     
-    Section 239ABD: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABD: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABE Proceeding must not be begun or continued
     
@@ -7875,7 +8473,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440D (Aust)
     
-    Section 239ABE: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABE: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABF Administrator not liable in damages for refusing consent
     
@@ -7883,7 +8481,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440E (Aust)
     
-    Section 239ABF: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABF: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABG Enforcement process halted
     
@@ -7891,7 +8489,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440F (Aust)
     
-    Section 239ABG: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABG: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABH Duties of court officer in relation to company's property
     
@@ -7933,7 +8531,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440G (Aust)
     
-    Section 239ABH: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABH: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABI _Lis pendens_ taken to exist
     
@@ -7945,7 +8543,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440H (Aust)
     
-    Section 239ABI: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABI: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABJ Administration not to trigger enforcement of guarantee of liability of director or relative
     
@@ -7959,11 +8557,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440J(1) (Aust)
     
-    Section 239ABJ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABJ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 10---Rights of secured creditor, owner, or lessor
     
-*   Subpart 10: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 10: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABK Meaning of terms used in this subpart
     
@@ -7973,7 +8571,7 @@ Voluntary administration
         
     *   (a) begins---
             
-        *   (i) if notice of the appointment of the administrator must be given to the secured creditor under [section 239ADW(1)(c)][461], on the day when that notice is given; or
+        *   (i) if notice of the appointment of the administrator must be given to the secured creditor under [section 239ADW(1)(c)][497], on the day when that notice is given; or
         
         *   (ii) in any other case, on the day when the administration begins; and
         
@@ -7993,7 +8591,7 @@ Voluntary administration
     
     *   (e) to exercise, as secured creditor or as a receiver or person so appointed, a right, power, or remedy existing because of the charge, whether arising under an instrument relating to the charge, under a written or unwritten law, or otherwise.
     
-    Section 239ABK: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABK: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABL If secured creditor acts before or during decision period
     
@@ -8017,21 +8615,21 @@ Voluntary administration
         
         *   (ii) whether or not any of the charges is enforced in the same way in relation to all the property of the company subject to that charge; and
         
-        *   (iii) in so far as the charges are enforced in relation to property of the company in a way referred to in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][389], whether or not the same person is appointed in respect of all of the last-mentioned property.
+        *   (iii) in so far as the charges are enforced in relation to property of the company in a way referred to in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][425], whether or not the same person is appointed in respect of all of the last-mentioned property.
         
         
     
-    (3) Nothing in [section 239ABC][380] or in an order under [section 239ABO][393] prevents any of the following persons from enforcing the charge:
+    (3) Nothing in [section 239ABC][416] or in an order under [section 239ABO][429] prevents any of the following persons from enforcing the charge:
         
     *   (a) the secured creditor:
     
-    *   (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][389] as that definition applies in relation to the charge, or any of the charges (even if appointed after the decision period).
+    *   (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][425] as that definition applies in relation to the charge, or any of the charges (even if appointed after the decision period).
     
-    (4) [Section 239Z][346] does not apply in relation to a transaction or dealing that affects property of the company and is entered into by the secured creditor or a receiver or person of a kind referred to in subsection (3)(b) in the performance or exercise of a function or power as that secured creditor, receiver, or person, as the case may be.
+    (4) [Section 239Z][382] does not apply in relation to a transaction or dealing that affects property of the company and is entered into by the secured creditor or a receiver or person of a kind referred to in subsection (3)(b) in the performance or exercise of a function or power as that secured creditor, receiver, or person, as the case may be.
     
     Compare: Corporations Act 2001 s 441A (Aust)
     
-    Section 239ABL: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABL: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABM If enforcement of charges begins before administration
     
@@ -8047,9 +8645,9 @@ Voluntary administration
     
     *   (e) exercised any other power in relation to the property.
     
-    (2) Nothing in [section 239ABC][380] prevents the secured creditor, receiver, or other person from enforcing the charge in relation to the property.
+    (2) Nothing in [section 239ABC][416] prevents the secured creditor, receiver, or other person from enforcing the charge in relation to the property.
     
-    (3) [Section 239Z][346] does not apply in relation to a transaction or dealing that affects the property and is entered into, as the case may be,---
+    (3) [Section 239Z][382] does not apply in relation to a transaction or dealing that affects the property and is entered into, as the case may be,---
         
     *   (a) in the exercise of a power of the secured creditor as secured creditor; or
     
@@ -8057,15 +8655,15 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 441B (Aust)
     
-    Section 239ABM: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABM: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABN Charge over perishable property
     
 *   (1) This section applies if perishable property of a company in administration is subject to a charge.
     
-    (2) Nothing in [section 239ABC][380] prevents the secured creditor, a receiver, or a person appointed (at any time) as mentioned in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][389] from enforcing the charge, so far as it is a charge over perishable property.
+    (2) Nothing in [section 239ABC][416] prevents the secured creditor, a receiver, or a person appointed (at any time) as mentioned in paragraph (a), (b), or (d) of the definition of enforce in [section 239ABK][425] from enforcing the charge, so far as it is a charge over perishable property.
     
-    (3) [Section 239Z][346] does not apply in relation to a transaction or dealing that affects perishable property of the company and is entered into, as the case may be,---
+    (3) [Section 239Z][382] does not apply in relation to a transaction or dealing that affects perishable property of the company and is entered into, as the case may be,---
         
     *   (a) in the exercise of a power of the secured creditor as secured creditor; or
     
@@ -8073,7 +8671,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 441C (Aust)
     
-    Section 239ABN: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABN: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABO Court may limit powers of secured creditor, etc, in relation to property subject to charge
     
@@ -8081,13 +8679,13 @@ Voluntary administration
         
     *   (a) applies if,---
             
-        *   (i) for the purpose of enforcing a charge over property of a company, the secured creditor, a receiver, or other person does an act of a kind referred to in [section 239ABM(1)][391]; and
+        *   (i) for the purpose of enforcing a charge over property of a company, the secured creditor, a receiver, or other person does an act of a kind referred to in [section 239ABM(1)][427]; and
         
         *   (ii) the company is in administration when the secured creditor, receiver, or other person does that act, or an administrator is later appointed to the company:
         
         
     
-    *   (b) does not apply in a case where [section 239ABL][390] applies.
+    *   (b) does not apply in a case where [section 239ABL][426] applies.
     
     (2) On an application by the administrator, the court may order the secured creditor, receiver, or other person not to perform specified functions or exercise specified powers, except as permitted by the order.
     
@@ -8097,19 +8695,19 @@ Voluntary administration
         
     *   (a) may be made only, and has effect only, during the administration; and
     
-    *   (b) has effect despite [section 239ABM][391] and [239ABN][392].
+    *   (b) has effect despite [section 239ABM][427] and [239ABN][428].
     
     Compare: Corporations Act 2001 s 441D (Aust)
     
-    Section 239ABO: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABO: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABP Giving notice under security agreement
     
-*   [Section 239ABC][380] does not prevent a person from giving a notice under the provisions of a security agreement.
+*   [Section 239ABC][416] does not prevent a person from giving a notice under the provisions of a security agreement.
     
     Compare: Corporations Act 2001 s 441E (Aust)
     
-    Section 239ABP: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABP: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABQ If recovery of property begins before administration
     
@@ -8119,23 +8717,23 @@ Voluntary administration
     
     *   (b) exercised any other power in relation to the property.
     
-    (2) [Section 239ABD][381] does not prevent the receiver or other person from performing a function, or exercising a power, in relation to the property.
+    (2) [Section 239ABD][417] does not prevent the receiver or other person from performing a function, or exercising a power, in relation to the property.
     
-    (3) [Section 239Z][346] does not apply in relation to a transaction or dealing that affects the property and is entered into in the performance or exercise of a function or power of the receiver or other person.
+    (3) [Section 239Z][382] does not apply in relation to a transaction or dealing that affects the property and is entered into in the performance or exercise of a function or power of the receiver or other person.
     
     Compare: Corporations Act 2001 s 441F (Aust)
     
-    Section 239ABQ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABQ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABR Recovering perishable property
     
-*   (1) Nothing in [section 239ABD][381] prevents a person from taking possession of, or otherwise recovering, perishable property.
+*   (1) Nothing in [section 239ABD][417] prevents a person from taking possession of, or otherwise recovering, perishable property.
     
-    (2) [Section 239Z][346] does not apply in relation to a transaction or dealing that affects perishable property and is entered into for the purpose of enforcing a right of the owner or lessor of the property to take possession of the property or otherwise recover it.
+    (2) [Section 239Z][382] does not apply in relation to a transaction or dealing that affects perishable property and is entered into for the purpose of enforcing a right of the owner or lessor of the property to take possession of the property or otherwise recover it.
     
     Compare: Corporations Act 2001 s 441G (Aust)
     
-    Section 239ABR: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABR: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABS Court may limit powers of receiver, etc, in relation to property used by company
     
@@ -8159,41 +8757,41 @@ Voluntary administration
         
     *   (a) may be made only, and has effect only, during the administration; and
     
-    *   (b) has effect despite [sections 239ABQ][395] and [239ABR][396].
+    *   (b) has effect despite [sections 239ABQ][431] and [239ABR][432].
     
     Compare: Corporations Act 2001 s 441H (Aust)
     
-    Section 239ABS: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABS: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABT Giving notice under agreement about property
     
-*   Nothing in [section 239ABD][381] prevents a person from giving a notice to a company under an agreement relating to property that is used or occupied by, or is in the possession of, the company.
+*   Nothing in [section 239ABD][417] prevents a person from giving a notice to a company under an agreement relating to property that is used or occupied by, or is in the possession of, the company.
     
     Compare: Corporations Act 2001 s 441J (Aust)
     
-    Section 239ABT: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABT: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 11---Interface with liquidation
     
-*   Subpart 11: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 11: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABU When liquidator may be appointed to company in administration
     
 *   A liquidator may be appointed to a company in administration---
         
-    *   (a) by the court, on an application for the appointment of a liquidator under [section 241(2)(c)][495]; or
+    *   (a) by the court, on an application for the appointment of a liquidator under [section 241(2)(c)][531]; or
     
-    *   (b) by resolution of the creditors at the watershed meeting or at a meeting convened under [section 239ADF][441] to consider the termination of the deed of company arrangement.
+    *   (b) by resolution of the creditors at the watershed meeting or at a meeting convened under [section 239ADF][477] to consider the termination of the deed of company arrangement.
     
-    Section 239ABU: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABU: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABV Court may adjourn application for liquidation
     
-*   The court may adjourn an application under [section 241(2)(c)][495] for the appointment of a liquidator of a company in administration if the court is satisfied that it is in the interests of the company's creditors for the company to continue in administration rather than be placed in liquidation.
+*   The court may adjourn an application under [section 241(2)(c)][531] for the appointment of a liquidator of a company in administration if the court is satisfied that it is in the interests of the company's creditors for the company to continue in administration rather than be placed in liquidation.
     
     Compare: Corporations Act 2001 s 440A(2) (Aust)
     
-    Section 239ABV: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABV: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABW Court must not appoint interim liquidator if administration in creditors' interests
     
@@ -8201,13 +8799,13 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 440A(3) (Aust)
     
-    Section 239ABW: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABW: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABX Effect of appointment of liquidator
     
 *   The appointment of a liquidator to a company in administration ends the administration.
     
-    Section 239ABX: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABX: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABY Former administrator is default liquidator
     
@@ -8219,7 +8817,7 @@ Voluntary administration
     
     *   (c) the person nominated is for any other reason unable or unwilling to act as liquidator.
     
-    Section 239ABY: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABY: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ABZ Person in control of company must lodge revised report with Registrar
     
@@ -8239,7 +8837,7 @@ Voluntary administration
     
     (3) If there is no administrator or deed administrator acting when the company is placed in liquidation, the director or directors of the company at the date of liquidation must take the steps described in subsection (2) as if they were the administrator or deed administrator.
     
-    Section 239ABZ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ABZ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACA Act of administrator in good faith must not be set aside in liquidation
     
@@ -8247,7 +8845,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 451C(b) (Aust)
     
-    Section 239ACA: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACA: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACB Voidable transactions
     
@@ -8257,13 +8855,13 @@ Voluntary administration
     
     *   (b) specifically authorised by the deed of company arrangement and carried out by the deed administrator.
     
-    (2) In this section, _voidable transaction provisions_ means [sections 292 to 296][558].
+    (2) In this section, _voidable transaction provisions_ means [sections 292 to 296][594].
     
-    Section 239ACB: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACB: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 12---Deed administrator
     
-*   Subpart 12: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 12: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACC Who is deed administrator
     
@@ -8271,7 +8869,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444A(2) (Aust)
     
-    Section 239ACC: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACC: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACD Who may be appointed deed administrator
     
@@ -8279,11 +8877,11 @@ Voluntary administration
     
     (2) Unless the court orders otherwise, a person is disqualified from appointment as a deed administrator if that person is---
         
-    *   (a) disqualified under [section 280(1)][544] from acting as a liquidator of the company; or
+    *   (a) disqualified under [section 280(1)][580] from acting as a liquidator of the company; or
     
-    *   (b) prohibited from being a deed administrator by an order made under [section 239ADV][459].
+    *   (b) prohibited from being a deed administrator by an order made under [section 239ADV][495].
     
-    Section 239ACD: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACD: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACE Deed administrator must consent in writing
     
@@ -8291,7 +8889,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 448A (Aust)
     
-    Section 239ACE: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACE: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACF Appointment of deed administrator must not be revoked
     
@@ -8299,7 +8897,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 449A (Aust)
     
-    Section 239ACF: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACF: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACG Appointment of 2 or more deed administrators
     
@@ -8313,7 +8911,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 451B (Aust)
     
-    Section 239ACG: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACG: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACH When office of deed administrator vacant
     
@@ -8321,17 +8919,17 @@ Voluntary administration
         
     *   (a) resigns; or
     
-    *   (b) becomes disqualified from appointment as a deed administrator (_see_ [section 239ACD(2)][410]); or
+    *   (b) becomes disqualified from appointment as a deed administrator (_see_ [section 239ACD(2)][446]); or
     
     *   (c) is removed by the court.
     
-    Section 239ACH: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACH: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACI Deed administrator may resign
     
 *   The deed administrator may resign by giving written notice to the company.
     
-    Section 239ACI: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACI: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACJ Removal of deed administrator
     
@@ -8343,9 +8941,9 @@ Voluntary administration
     
     (2) The court may make an order under subsection (1) on the application of a creditor of the company, a shareholder, the liquidator (if the company is in liquidation), the FMA (if the company is a financial markets participant), or the Registrar.
     
-    Section 239ACJ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACJ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ACJ(2): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ACJ(2): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 239ACK Remuneration of deed administrator
     
@@ -8357,7 +8955,7 @@ Voluntary administration
     
     Compare: 1993 No 105 ss 276(1), 284(1)(e)
     
-    Section 239ACK: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACK: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACL Deed administrator may sell shares in company
     
@@ -8369,13 +8967,13 @@ Voluntary administration
     
     (2) The shareholder concerned, a creditor, the FMA (if the company is a financial markets participant), or the Registrar may oppose an application by the administrator for the court's permission.
     
-    Section 239ACL: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACL: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ACL(2): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ACL(2): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 13---Execution and effect of deed of company arrangement
     
-*   Subpart 13: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 13: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACM When this subpart applies
     
@@ -8383,7 +8981,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444A(1) (Aust)
     
-    Section 239ACM: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACM: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACN Preparation and contents of deed
     
@@ -8413,7 +9011,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444A(3)--(5) (Aust)
     
-    Section 239ACN: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACN: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACO Execution of deed
     
@@ -8427,11 +9025,11 @@ Voluntary administration
     
     (3) The company may not execute the deed unless the board of the company has, by resolution, authorised the deed to be executed by the company or on its behalf.
     
-    (4) Subsection (3) has effect despite [section 239X][344], but does not limit the functions and powers of the administrator of the company.
+    (4) Subsection (3) has effect despite [section 239X][380], but does not limit the functions and powers of the administrator of the company.
     
     Compare: Corporations Act 2001 s 444B (Aust)
     
-    Section 239ACO: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACO: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACP Procedure if deed not fully approved at watershed meeting
     
@@ -8447,7 +9045,7 @@ Voluntary administration
     
     (3) The court may extend the execution period by up to 2 working days, on an application by the administrator, but only if the application is made within the original execution period.
     
-    Section 239ACP: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACP: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACQ Creditor must not act inconsistently with deed, etc, before execution
     
@@ -8461,27 +9059,27 @@ Voluntary administration
         
     *   (a) must not do anything inconsistent with the deed, except with the permission of the court; and
     
-    *   (b) must not take a step that is prohibited under [section 239ACU][428].
+    *   (b) must not take a step that is prohibited under [section 239ACU][464].
     
     Compare: Corporations Act 2001 s 444C (Aust)
     
-    Section 239ACQ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACQ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACR Company's failure to execute deed
     
-*   If the creditors at the watershed meeting have passed a resolution that the company execute a deed of company arrangement, and the company fails to do so within the deadline for execution, then, notwithstanding [section 239E(2)(e)][321],---
+*   If the creditors at the watershed meeting have passed a resolution that the company execute a deed of company arrangement, and the company fails to do so within the deadline for execution, then, notwithstanding [section 239E(2)(e)][357],---
         
     *   (a) the administrator must apply for the appointment of a liquidator to the company; or
     
     *   (b) if the company is already in liquidation, the administrator must apply for the liquidation to resume.
     
-    Section 239ACR: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACR: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACS Who is bound by deed
     
 *   A deed of company arrangement binds---
         
-    *   (a) the company's creditors, to the extent provided by [section 239ACT][427]; and
+    *   (a) the company's creditors, to the extent provided by [section 239ACT][463]; and
     
     *   (b) the company; and
     
@@ -8491,27 +9089,27 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444G (Aust)
     
-    Section 239ACS: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACS: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACT Extent to which deed binds creditors
     
-*   (1) A deed of company arrangement binds all creditors in respect of claims that arise on or before the cut-off day (_see_ [section 239ACN(2)(i)][421]) specified in the deed.
+*   (1) A deed of company arrangement binds all creditors in respect of claims that arise on or before the cut-off day (_see_ [section 239ACN(2)(i)][457]) specified in the deed.
     
     (2) This section does not prevent a secured creditor from enforcing or otherwise dealing with the charge, except so far as---
         
     *   (a) the deed provides otherwise in relation to a secured creditor who at the watershed meeting voted in favour of the resolution as a result of which the company executed the deed; or
     
-    *   (b) the court orders otherwise under [section 239ACV(1)(a)][429].
+    *   (b) the court orders otherwise under [section 239ACV(1)(a)][465].
     
     (3) This section does not affect a right that an owner or lessor of property has in relation to that property, except so far as---
         
     *   (a) the deed provides otherwise in relation to an owner or lessor of property who at the watershed meeting voted in favour of the resolution as a result of which the company executed the deed; or
     
-    *   (b) the court orders otherwise under [section 239ACV(1)(b)][429].
+    *   (b) the court orders otherwise under [section 239ACV(1)(b)][465].
     
     Compare: Corporations Act 2001 s 444D (Aust)
     
-    Section 239ACT: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACT: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACU Person bound by deed must not take steps to liquidate, etc
     
@@ -8527,7 +9125,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444E (Aust)
     
-    Section 239ACU: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACU: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACV Court may restrain creditors and others from enforcing charge or recovering property
     
@@ -8553,7 +9151,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444F (Aust)
     
-    Section 239ACV: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACV: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACW Effect of deed on company's debts
     
@@ -8571,7 +9169,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 444H (Aust)
     
-    Section 239ACW: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACW: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACX Court may rule on validity of deed
     
@@ -8607,19 +9205,19 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 445G (Aust)
     
-    Section 239ACX: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACX: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ACX(2)(ba): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ACX(2)(ba): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 14---Administrator's duty to file accounts
     
-*   Subpart 14: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 14: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACY Administrator includes deed administrator
     
 *   In this subpart, unless the context otherwise requires, _administrator_ includes a deed administrator.
     
-    Section 239ACY: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACY: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ACZ Administrator must file accounts
     
@@ -8641,19 +9239,19 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 432(1), (1A)(a), (b) (Aust)
     
-    Section 239ACZ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ACZ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 15---Variation and termination of deed
     
-*   Subpart 15: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 15: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADA Creditors may vary deed
     
-*   The creditors may vary a deed of company arrangement by a resolution passed at a meeting convened under [section 239ADF][441], but the variation must not be materially different from the proposed variation set out in the notice of the meeting.
+*   The creditors may vary a deed of company arrangement by a resolution passed at a meeting convened under [section 239ADF][477], but the variation must not be materially different from the proposed variation set out in the notice of the meeting.
     
     Compare: Corporations Act 2001 s 445A (Aust)
     
-    Section 239ADA: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADA: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADB Court may cancel creditors' variation
     
@@ -8667,15 +9265,15 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 445B (Aust)
     
-    Section 239ADB: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADB: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADC Termination of deed
     
 *   (1) A deed of company arrangement may be terminated---
         
-    *   (a) by the court under [section 239ADD][439]; or
+    *   (a) by the court under [section 239ADD][475]; or
     
-    *   (b) by a resolution of the creditors under [section 239ADE][440]; or
+    *   (b) by a resolution of the creditors under [section 239ADE][476]; or
     
     *   (c) automatically, if the deed specifies circumstances in which the deed will terminate, and those circumstances occur.
     
@@ -8683,9 +9281,9 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 445C (Aust)
     
-    Section 239ADC: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADC: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ADC(2): inserted, on 31 August 2012, by [section 6][863] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 239ADC(2): inserted, on 31 August 2012, by [section 6][921] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 239ADD Termination by court
     
@@ -8725,7 +9323,7 @@ Voluntary administration
             
         *   (i) was given to the administrator or the creditors; or
         
-        *   (ii) was contained in a report or statement under [section 239AU(3)][371] that accompanied a notice of the watershed meeting at which a resolution that the company execute a deed of company arrangement was passed; or
+        *   (ii) was contained in a report or statement under [section 239AU(3)][407] that accompanied a notice of the watershed meeting at which a resolution that the company execute a deed of company arrangement was passed; or
         
         
     
@@ -8735,17 +9333,17 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 445D (Aust)
     
-    Section 239ADD: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADD: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADE Termination by creditors
     
-*   (1) The creditors, by a resolution passed at a meeting convened under [section 239ADF][441], may terminate the deed if there has occurred a material breach of the deed that has not been rectified.
+*   (1) The creditors, by a resolution passed at a meeting convened under [section 239ADF][477], may terminate the deed if there has occurred a material breach of the deed that has not been rectified.
     
     (2) The creditors may also appoint a liquidator if the notice of the meeting sets out a proposed resolution that a liquidator be appointed to the company.
     
     Compare: Corporations Act 2001 s 445E (Aust)
     
-    Section 239ADE: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADE: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADF Creditors' meeting to consider proposed variation or termination of deed
     
@@ -8771,19 +9369,19 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 445F (Aust)
     
-    Section 239ADF: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADF: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 16---Administrator's liability and indemnity for debts of administration
     
-*   Subpart 16: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 16: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADG Administrator not liable for company's debts except as provided in this subpart and in section 239Y
     
-*   The administrator is not liable for the debts of the company except as provided in this subpart and in [section 239Y][345].
+*   The administrator is not liable for the debts of the company except as provided in this subpart and in [section 239Y][381].
     
     Compare: Corporations Act 2001 s 443C (Aust)
     
-    Section 239ADG: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADG: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADH Administrator liable for general debts
     
@@ -8801,7 +9399,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 443A (Aust)
     
-    Section 239ADH: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADH: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADI Administrator's liability for rent
     
@@ -8847,11 +9445,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 443B(1), (2), (7), (9) (Aust)
     
-    Section 239ADI: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADI: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADJ Administrator not liable for rental if non-use notice in force
     
-*   (1) The administrator is not liable under [section 239ADI][445] for any period for which a non-use notice is in force.
+*   (1) The administrator is not liable under [section 239ADI][481] for any period for which a non-use notice is in force.
     
     (2) In this section, _non-use notice_ means, in relation to the property to which it refers, a notice that---
         
@@ -8877,15 +9475,15 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 443B(3)--(6) (Aust)
     
-    Section 239ADJ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADJ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADK Court may exempt administrator from liability for rent
     
-*   The court may exempt an administrator from liability for rent and other payments under [section 239ADI][445], but the court's order does not affect the company's liability.
+*   The court may exempt an administrator from liability for rent and other payments under [section 239ADI][481], but the court's order does not affect the company's liability.
     
     Compare: Corporations Act 2001 s 443B(8) (Aust)
     
-    Section 239ADK: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADK: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADL Administrator's indemnity
     
@@ -8893,23 +9491,23 @@ Voluntary administration
         
     *   (a) a personal liability incurred in the due performance of his or her duties, but not a personal liability incurred in bad faith or negligently; and
     
-    *   (b) the remuneration to which the administrator is entitled under [section 239O][333].
+    *   (b) the remuneration to which the administrator is entitled under [section 239O][369].
     
     Compare: Corporations Act 2001 s 443D (Aust)
     
-    Section 239ADL: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADL: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADM Administrator's right of indemnity has priority over other debts
     
-*   Subject to [section 312][595], the administrator's right of indemnity under this subpart has priority over---
+*   Subject to [section 312][631], the administrator's right of indemnity under this subpart has priority over---
         
     *   (a) all the company's unsecured debts; and
     
-    *   (b) debts of the company secured by a charge of the kind described in [clause 2(1)(b)][864] of Schedule 7\.
+    *   (b) debts of the company secured by a charge of the kind described in [clause 2(1)(b)][922] of Schedule 7\.
     
     Compare: Corporations Act 2001 s 443E (Aust)
     
-    Section 239ADM: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADM: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADN Lien to secure indemnity
     
@@ -8919,11 +9517,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 443F (Aust)
     
-    Section 239ADN: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADN: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 17---Powers of court
     
-*   Subpart 17: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 17: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADO Court's general power
     
@@ -8957,9 +9555,9 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447A (Aust)
     
-    Section 239ADO: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADO: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ADO(4)(da): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ADO(4)(da): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 239ADP Orders to protect creditors during administration
     
@@ -8971,9 +9569,9 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447B (Aust)
     
-    Section 239ADP: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADP: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ADP(1): replaced, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ADP(1): replaced, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 239ADQ Court may rule on validity of administrator's appointment
     
@@ -8989,7 +9587,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447C (Aust)
     
-    Section 239ADQ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADQ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADR Administrator may seek directions
     
@@ -8999,7 +9597,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447D (Aust)
     
-    Section 239ADR: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADR: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADS Court may supervise administrator or deed administrator
     
@@ -9017,7 +9615,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447E(1) (Aust)
     
-    Section 239ADS: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADS: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADT Court may order administrator or deed administrator to remedy default
     
@@ -9043,7 +9641,7 @@ Voluntary administration
     
     *   (c) in any case, by the Registrar.
     
-    Section 239ADT: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADT: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADU Court's power when office of administrator or deed administrator vacant, etc
     
@@ -9065,9 +9663,9 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 447E(2) (Aust)
     
-    Section 239ADU: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADU: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239ADU(2)(ba): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 239ADU(2)(ba): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 239ADV Prohibition order
     
@@ -9099,15 +9697,15 @@ Voluntary administration
     
     (7) A copy of every order made under subsection (1) must, within 10 working days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a file indexed by reference to the name of the administrator or deed administrator concerned.
     
-    Section 239ADV: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADV: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 18---Notices about steps taken under this Part
     
-*   Subpart 18: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 18: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADW Administrator must give notice of appointment
     
-*   (1) An administrator appointed by the company under [section 239I][327], by the liquidator or interim liquidator under [section 239J][328], by a secured creditor under [section 239K][329], by the court under [section 239L][330], or by the creditors under [section 239R(2)(a)][337] must,---
+*   (1) An administrator appointed by the company under [section 239I][363], by the liquidator or interim liquidator under [section 239J][364], by a secured creditor under [section 239K][365], by the court under [section 239L][366], or by the creditors under [section 239R(2)(a)][373] must,---
         
     *   (a) before the end of the next working day after appointment, lodge a notice of the appointment with the Registrar; and
     
@@ -9121,21 +9719,21 @@ Voluntary administration
         
         
     
-    *   (d) in the notice referred to in paragraph (c), set out the rights of the creditor to enforce the charge under [section 239ABL][390].
+    *   (d) in the notice referred to in paragraph (c), set out the rights of the creditor to enforce the charge under [section 239ABL][426].
     
     (2) The administrator need not give notice under subsection (1) to the person who appointed him or her.
     
     Compare: Corporations Act 2001 s 450A(1), (3), (4) (Aust)
     
-    Section 239ADW: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADW: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADX Secured creditor who appoints administrator must give notice to company
     
-*   A secured creditor who appoints an administrator under [section 239K][329] must give written notice of the appointment to the company as soon as practicable and in any event before the end of the next working day.
+*   A secured creditor who appoints an administrator under [section 239K][365] must give written notice of the appointment to the company as soon as practicable and in any event before the end of the next working day.
     
     Compare: Corporations Act 2001 s 450A(2) (Aust)
     
-    Section 239ADX: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADX: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADY Deed administrator must give notice of execution of deed of company arrangement
     
@@ -9149,11 +9747,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 450B (Aust)
     
-    Section 239ADY: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADY: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239ADZ Deed administrator must give notice of failure to execute deed of company arrangement
     
-*   If a company does not meet the deadline under [section 239ACO][422] or [239ACP(1)(c)][423] for the execution of a deed of company arrangement, the deed administrator must as soon as practicable---
+*   If a company does not meet the deadline under [section 239ACO][458] or [239ACP(1)(c)][459] for the execution of a deed of company arrangement, the deed administrator must as soon as practicable---
         
     *   (a) cause a notice of the failure to execute the deed to be advertised in accordance with [section 3(1)(b)][5]; and
     
@@ -9161,7 +9759,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 450C (Aust)
     
-    Section 239ADZ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239ADZ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEA Deed administrator must give notice of termination by creditors of deed of company arrangement
     
@@ -9175,7 +9773,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 450D (Aust)
     
-    Section 239AEA: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEA: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEB Company must disclose fact of administration
     
@@ -9187,11 +9785,11 @@ Voluntary administration
     
     (2) The court may, on an application by the company, exempt the company from the requirement in subsection (1)(b).
     
-    (3) A company that fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (3) A company that fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
     Compare: Corporations Act 2001 s 450E (Aust)
     
-    Section 239AEB: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEB: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEC Notice of change of name
     
@@ -9199,7 +9797,7 @@ Voluntary administration
     
     (2) If a company to which subsection (1) applies is, in the course of the administration, placed in liquidation, the liquidator must, in any document of the company where its name appears, include also its former name.
     
-    Section 239AEC: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEC: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AED Effect of contravention of this subpart
     
@@ -9207,11 +9805,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 450F (Aust)
     
-    Section 239AED: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AED: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 19---Miscellaneous
     
-*   Subpart 19: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 19: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEE Effect of things done during administration of company
     
@@ -9219,7 +9817,7 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s 451C(a) (Aust)
     
-    Section 239AEE: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEE: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEF Interruption of time for doing act
     
@@ -9227,11 +9825,11 @@ Voluntary administration
     
     Compare: Corporations Act 2001 s  451D (Aust)
     
-    Section 239AEF: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEF: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 20---Set-off and netting agreements
     
-*   Subpart 20: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 20: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEG Mutual credit and set-off
     
@@ -9243,17 +9841,17 @@ Voluntary administration
     
     *   (c) only the balance of the account may be admitted under the deed of company arrangement, or is payable to the company, as the case may be.
     
-    Section 239AEG: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEG: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEH Application of set-off under netting agreement
     
-*   (1) [Sections 239AEI to 239AEP][475] apply---
+*   (1) [Sections 239AEI to 239AEP][511] apply---
         
     *   (a) to a netting agreement---
             
         *   (i) made in or evidenced by writing; and
         
-        *   (ii) in which the application of [sections 239AEI to 239AEP][475] has not been expressly excluded; and
+        *   (ii) in which the application of [sections 239AEI to 239AEP][511] has not been expressly excluded; and
         
         *   (iii) whether made before or after the commencement of this section; and
         
@@ -9261,19 +9859,19 @@ Voluntary administration
     
     *   (b) to all obligations under a netting agreement (whether those obligations are payable in New Zealand currency or in some other currency).
     
-    (2) [Sections 239AEI to 239AEP][475] apply despite---
+    (2) [Sections 239AEI to 239AEP][511] apply despite---
         
     *   (a) any disposal of rights under a transaction that is subject to a netting agreement, in contravention of a prohibition in the netting agreement; or
     
     *   (b) the creation of a charge or other interest in respect of the rights referred to in paragraph (a) in contravention of a prohibition in the netting agreement.
     
-    (3) Nothing in [sections 239AEI to 239AEP][475] applies to an amount paid or payable by a shareholder---
+    (3) Nothing in [sections 239AEI to 239AEP][511] applies to an amount paid or payable by a shareholder---
         
     *   (a) as the consideration, or part of the consideration, for the issue of a share; or
     
     *   (b) in satisfaction of a call in respect of an outstanding liability of the shareholder made by the board of the company or by the administrator.
     
-    Section 239AEH: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEH: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEI Calculation of netted balance
     
@@ -9291,19 +9889,19 @@ Voluntary administration
     
     as the case may be.
     
-    Section 239AEI: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEI: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEJ Mutuality required for transactions under bilateral netting agreements
     
-*   [Sections 239AEI to 239AEP][475] apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+*   [Sections 239AEI to 239AEP][511] apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
     
-    Section 239AEJ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEJ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEK When mutuality required for transactions under recognised multilateral netting agreements
     
-*   (1) [Sections 239AEI to 239AEP][475] apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+*   (1) [Sections 239AEI to 239AEP][511] apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
     
-    (2) Despite subsection (1), [sections 239AEI to 239AEP][475] do not apply to transactions that are subject to a recognised multilateral netting agreement if---
+    (2) Despite subsection (1), [sections 239AEI to 239AEP][511] do not apply to transactions that are subject to a recognised multilateral netting agreement if---
         
     *   (a) those transactions do not constitute mutual credits, mutual debts, or other mutual dealings; and
     
@@ -9311,67 +9909,67 @@ Voluntary administration
     
     *   (c) the party acting as trustee is not authorised by the terms of the trust of which the party is a trustee to enter into the transaction.
     
-    Section 239AEK: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEK: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEL Application of set-off under section 239AEG to transactions subject to netting agreements
     
-*   (1) [Section 239AEG][473] does not apply to transactions that are subject to a netting agreement to which [sections 239AEI to 239AEP][475] apply.
+*   (1) [Section 239AEG][509] does not apply to transactions that are subject to a netting agreement to which [sections 239AEI to 239AEP][511] apply.
     
-    (2) However, a netted balance is to be treated as an amount to which [section 239AEG][473] applies if the company in administration and the other party to the netting agreement also have mutual credits, mutual debts, or other mutual dealings between them that are not subject to the netting agreement.
+    (2) However, a netted balance is to be treated as an amount to which [section 239AEG][509] applies if the company in administration and the other party to the netting agreement also have mutual credits, mutual debts, or other mutual dealings between them that are not subject to the netting agreement.
     
-    Section 239AEL: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEL: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEM Transactions under netting agreement and effect on certain sections
     
-*   (1) Nothing in [sections 239AEH to 239AEP][474] prevents the operation of [section 56][70] or, subject to [section 239ACB][407], [section 292][558], [297][564] or [298][565] in respect of a transaction that is subject to a netting agreement.
+*   (1) Nothing in [sections 239AEH to 239AEP][510] prevents the operation of [section 56][70] or, subject to [section 239ACB][443], [section 292][594], [297][600] or [298][601] in respect of a transaction that is subject to a netting agreement.
     
-    (2) However, nothing in [section 292(4A)][558] applies to a transaction that is subject to a netting agreement.
+    (2) However, nothing in [section 292(4A)][594] applies to a transaction that is subject to a netting agreement.
     
-    (3) For the purposes of [sections 292][558] and [297][564], the term _transaction_, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
+    (3) For the purposes of [sections 292][594] and [297][600], the term _transaction_, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
     
-    Section 239AEM: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEM: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 239AEM(2): amended, on 7 July 2010, by [section 5][865] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
+    Section 239AEM(2): amended, on 7 July 2010, by [section 5][923] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
 
 ##### 239AEN Rights under netting agreement not affected by commencement of administration
     
-*   Nothing in [section 239Z][346] affects, in respect of a company in administration, the exercise of any of the following rights under a netting agreement:
+*   Nothing in [section 239Z][382] affects, in respect of a company in administration, the exercise of any of the following rights under a netting agreement:
         
     *   (a) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of an administrator) occurring not later than the commencement of the administration; or
     
     *   (b) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination.
     
-    Section 239AEN: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEN: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEO Effect of declaration of person as recognised clearing house under section 310K
     
-*   A person who is declared a recognised clearing house under [section 310K][589] is deemed to be a recognised clearing house for the purposes of [sections 239AEI to 239AEP][475] also.
+*   A person who is declared a recognised clearing house under [section 310K][625] is deemed to be a recognised clearing house for the purposes of [sections 239AEI to 239AEP][511] also.
     
-    Section 239AEO: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEO: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEP Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K
     
-*   The variation or revocation of a declaration under [section 310K][589] does not affect the application of [sections 239AEI to 239AEP][475] to any transaction---
+*   The variation or revocation of a declaration under [section 310K][625] does not affect the application of [sections 239AEI to 239AEP][511] to any transaction---
         
     *   (a) that is or was subject to a recognised multilateral netting agreement; and
     
     *   (b) that was entered into before the variation or revocation of the declaration.
     
-    Section 239AEP: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEP: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ### Subpart 21---Single administration of related companies in administration
     
-*   Subpart 21: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+*   Subpart 21: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEQ Interpretation of terms for purposes of this subpart
     
 *   (1) In this subpart,---
     
-    _pool_ means a pool of related companies in a single administration under a single administration order made under [section 239AER][485]
+    _pool_ means a pool of related companies in a single administration under a single administration order made under [section 239AER][521]
     
     _pool administrator_ means the administrator of a pool
     
-    _pool company_ means a company in respect of which a single administration order has been made under [section 239AER][485].
+    _pool company_ means a company in respect of which a single administration order has been made under [section 239AER][521].
     
     (2) For the purposes of the single administration of a pool, in this Part, unless the context indicates otherwise,---
     
@@ -9381,9 +9979,9 @@ Voluntary administration
     
     _deed administrator_ includes the deed administrator of a deed of company administration executed by a pool
     
-    _deed of company administration_ includes a deed of company administration executed under [section 239AEW][490].
+    _deed of company administration_ includes a deed of company administration executed under [section 239AEW][526].
     
-    Section 239AEQ: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEQ: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AER Court may order single administration for related companies in administration
     
@@ -9397,11 +9995,11 @@ Voluntary administration
     
     Compare: 1993 No 105 s 271(b)
     
-    Section 239AER: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AER: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AES Notice that application filed must be given to administrators and creditors
     
-*   (1) Unless the court orders otherwise, an applicant for an order under [section 239AER][485] must give notice that the application has been filed to---
+*   (1) Unless the court orders otherwise, an applicant for an order under [section 239AER][521] must give notice that the application has been filed to---
         
     *   (a) the administrator of each company in administration; and
     
@@ -9417,11 +10015,11 @@ Voluntary administration
     
     (3) The notice requirement in this section is in addition to anything required by the High Court Rules to be done.
     
-    Section 239AES: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AES: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AET Guidelines for single administration order
     
-*   In deciding whether it is just and equitable to make an order under [section 239AER][485], the court must have regard to the following criteria:
+*   In deciding whether it is just and equitable to make an order under [section 239AER][521], the court must have regard to the following criteria:
         
     *   (a) the extent to which any of the companies took part in the management of any of the other companies in the proposed pool:
     
@@ -9435,7 +10033,7 @@ Voluntary administration
     
     Compare: 1993 No 105 s 272(2)
     
-    Section 239AET: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AET: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEU Court may order that related company in administration be added to existing pool
     
@@ -9447,13 +10045,13 @@ Voluntary administration
     
     *   (b) the administrator or any creditors of the pool.
     
-    (3) The court may make the order if it is satisfied that it is just and equitable to do so having regard to any 1 or more of the criteria in [section 239AET][487].
+    (3) The court may make the order if it is satisfied that it is just and equitable to do so having regard to any 1 or more of the criteria in [section 239AET][523].
     
-    (4) [Sections 239AER][485] and [239AES][486] apply with all necessary modifications to an application under this section.
+    (4) [Sections 239AER][521] and [239AES][522] apply with all necessary modifications to an application under this section.
     
     (5) The court must not make the order unless the pool administrator consents.
     
-    Section 239AEU: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEU: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEV Creditors' meetings in single administration of pool companies
     
@@ -9461,13 +10059,13 @@ Voluntary administration
     
     (2) If separate voting by creditors is impracticable (because, for example, the affairs of the pool companies are intermingled), the court may, on the application of the pool administrator, give directions as to how voting at a creditors' meeting must proceed.
     
-    Section 239AEV: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEV: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 239AEW Pool companies may execute single deed of company administration
     
 *   For the purposes of the single administration of a pool, the pool companies may execute a single deed of company arrangement.
     
-    Section 239AEW: inserted, on 1 November 2007, by [section 6][858] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 239AEW: inserted, on 1 November 2007, by [section 6][916] of the Companies Amendment Act 2006 (2006 No 56).
 
 ## Part 16  
 Liquidations
@@ -9478,29 +10076,29 @@ Liquidations
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _creditor_ means a person who, in a liquidation, would be entitled to claim in accordance with [section 303][571] that a debt is owing to that person by the company; and includes a secured creditor only---
+    _creditor_ means a person who, in a liquidation, would be entitled to claim in accordance with [section 303][607] that a debt is owing to that person by the company; and includes a secured creditor only---
         
-    *   (a) for the purposes of [sections 241(2)(c)][495], [247][504], [250][507], and [289][554]; or
+    *   (a) for the purposes of [sections 241(2)(c)][531], [247][540], [250][543], and [289][590]; or
     
-    *   (b) to the extent of the amount of any debt owing to the secured creditor in respect of which the secured creditor claims under [section 305][573] as an unsecured creditor
+    *   (b) to the extent of the amount of any debt owing to the secured creditor in respect of which the secured creditor claims under [section 305][609] as an unsecured creditor
     
-    _liquidation committee_ means a liquidation committee appointed under [section 314][598]
+    _liquidation committee_ means a liquidation committee appointed under [section 314][634]
     
     _Official Assignee_ means an Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006
     
-    _statutory demand_ has the meaning set out in [section 289][554].
+    _statutory demand_ has the meaning set out in [section 289][590].
     
     (2) For the purposes of this Act, the power to appoint a liquidator of a company includes the power to appoint 2 or more persons as liquidators of a company.
     
     Section 240(1) **creditor**: replaced, on 1 July 1994, by section 30 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 240(1) **Official Assignee**: amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 240(1) **Official Assignee**: amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 240A Liquidation of licensed insurers
     
-*   If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to [subpart 3][859] of Part 4 of the Insurance (Prudential Supervision) Act 2010\.
+*   If a licensed insurer may be put into liquidation under or in accordance with this Part, this Part applies in respect of the insurer subject to [subpart 3][917] of Part 4 of the Insurance (Prudential Supervision) Act 2010\.
     
-    Section 240A: inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 240A: inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 241 Commencement of liquidation
     
@@ -9534,9 +10132,9 @@ Liquidations
         
         
     
-    *   (d) a resolution of the creditors passed at the watershed meeting held under [section 239AT][370].
+    *   (d) a resolution of the creditors passed at the watershed meeting held under [section 239AT][406].
     
-    (2A) However, the court must not appoint a liquidator under subsection (2)(c)(viii) unless the company is restored to the New Zealand register under [section 328][617] or [329][618].
+    (2A) However, the court must not appoint a liquidator under subsection (2)(c)(viii) unless the company is restored to the New Zealand register under [section 328][653] or [329][654].
     
     (3) An Official Assignee may be appointed liquidator of a company only---
         
@@ -9562,49 +10160,49 @@ Liquidations
     
     (5) The liquidation of a company commences on the date on which, and at the time at which, the liquidator is appointed.
     
-    Section 241(2): replaced, on 1 November 2007, by [section 7][866] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 241(2): replaced, on 1 November 2007, by [section 7][924] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 241(2)(c)(va): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 241(2)(c)(va): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 241(2)(c)(vii): inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 241(2)(c)(vii): inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 241(2)(c)(vii): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 241(2)(c)(vii): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 241(2)(c)(viii): inserted, on 25 February 2012, by [regulation 4(1)][867] of the Companies Amendment Act 2012 (2012 No 7).
+    Section 241(2)(c)(viii): inserted, on 25 February 2012, by [regulation 4(1)][925] of the Companies Amendment Act 2012 (2012 No 7).
     
-    Section 241(2A): inserted, on 25 February 2012, by [regulation 4(2)][867] of the Companies Amendment Act 2012 (2012 No 7).
+    Section 241(2A): inserted, on 25 February 2012, by [regulation 4(2)][925] of the Companies Amendment Act 2012 (2012 No 7).
     
-    Section 241(5): replaced, on 26 April 1999, by [section 3][868] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 241(5): replaced, on 26 April 1999, by [section 3][926] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 241AA Restriction on appointment of liquidator by shareholders or board after application filed for court appointment
     
-*   (1) This section applies if an application has been filed for the appointment of a liquidator of a company by the court under [section 241(2)(c)][495].
+*   (1) This section applies if an application has been filed for the appointment of a liquidator of a company by the court under [section 241(2)(c)][531].
     
-    (2) A liquidator of the company may only be appointed under [section 241(2)(a) or (b)][495] if the liquidator is appointed within 10 working days after service on the company of the application.
+    (2) A liquidator of the company may only be appointed under [section 241(2)(a) or (b)][531] if the liquidator is appointed within 10 working days after service on the company of the application.
     
-    (3) If a liquidator is appointed under [section 241(2)(a) or (b)][495], the creditor who filed the application referred to in subsection (1) may apply to the court under [section 283(4)][547] for the review of his or her appointment as if the words ""successor to a liquidator"" in section 283(4) read ""liquidator"".
+    (3) If a liquidator is appointed under [section 241(2)(a) or (b)][531], the creditor who filed the application referred to in subsection (1) may apply to the court under [section 283(4)][583] for the review of his or her appointment as if the words ""successor to a liquidator"" in section 283(4) read ""liquidator"".
     
     (4) Subsection (2) does not apply once the application has been finally disposed of.
     
-    Section 241AA: inserted, on 1 November 2007, by [section 15][869] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 241AA: inserted, on 1 November 2007, by [section 15][927] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 241A Commencement of liquidation to be recorded
     
 *   (1) If---
         
-    *   (a) a liquidator is appointed under [section 241(2)(a)][495], the shareholders must record in the special resolution appointing the liquidator the date on which, and the time at which, the special resolution was passed; or
+    *   (a) a liquidator is appointed under [section 241(2)(a)][531], the shareholders must record in the special resolution appointing the liquidator the date on which, and the time at which, the special resolution was passed; or
     
-    *   (b) a liquidator is appointed under [section 241(2)(b)][495], the board of the company must record in the instrument appointing the liquidator the date on which, and the time at which, the liquidator was appointed; or
+    *   (b) a liquidator is appointed under [section 241(2)(b)][531], the board of the company must record in the instrument appointing the liquidator the date on which, and the time at which, the liquidator was appointed; or
     
-    *   (c) a liquidator is appointed under [section 241(2)(c)][495], the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made.
+    *   (c) a liquidator is appointed under [section 241(2)(c)][531], the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made.
     
-    *   (d) a liquidator is appointed under [section 241(2)(d)][495], the creditors must record in the resolution appointing the liquidator the date on which, and the time at which, the resolution was passed.
+    *   (d) a liquidator is appointed under [section 241(2)(d)][531], the creditors must record in the resolution appointing the liquidator the date on which, and the time at which, the resolution was passed.
     
     (2) If any question arises as to whether on the date on which a liquidator was appointed an act was done or a transaction was entered into or effected before or after the time at which the liquidator was appointed, that act or transaction is, in the absence of proof to the contrary, deemed to have been done or entered into or effected, as the case may be, after that time.
     
-    Section 241A: inserted, on 26 April 1999, by [section 4][870] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 241A: inserted, on 26 April 1999, by [section 4][928] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 241A(1)(d): inserted, on 1 November 2007, by [section 8][871] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 241A(1)(d): inserted, on 1 November 2007, by [section 8][929] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 242 Liquidators to act jointly unless otherwise stated
     
@@ -9612,75 +10210,75 @@ Liquidations
 
 ##### 243 Liquidator to summon meeting of creditors
     
-*   (1) Subject to [section 245][501] and to subsection (8), the liquidator of a company must call a meeting of the creditors of the company for the purpose,---
+*   (1) Subject to [section 245][537] and to subsection (8), the liquidator of a company must call a meeting of the creditors of the company for the purpose,---
         
-    *   (a) in the case of a liquidator appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][495], of resolving whether to confirm the appointment of that liquidator or to appoint another liquidator in place of the liquidator so appointed:
+    *   (a) in the case of a liquidator appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][531], of resolving whether to confirm the appointment of that liquidator or to appoint another liquidator in place of the liquidator so appointed:
     
-    *   (b) in the case of a liquidator appointed pursuant to paragraph (c) of subsection (2) of [section 241][495], of resolving whether to confirm the appointment of that liquidator or to make an application to the court for the appointment of a liquidator in place of the liquidator so appointed:
+    *   (b) in the case of a liquidator appointed pursuant to paragraph (c) of subsection (2) of [section 241][531], of resolving whether to confirm the appointment of that liquidator or to make an application to the court for the appointment of a liquidator in place of the liquidator so appointed:
     
-    *   (c) in either case, of determining whether to pass a resolution for the purposes of [section 258(1)(b)][517].
+    *   (c) in either case, of determining whether to pass a resolution for the purposes of [section 258(1)(b)][553].
     
-    (1A) If the appointment of a liquidator under paragraph (a) or paragraph (b) of [section 241(2)][495] is not confirmed at a meeting of creditors and another liquidator is not appointed in place of that liquidator, the appointment of the liquidator under paragraph (a) or paragraph (b) of section 241(2) continues until another liquidator is appointed.
+    (1A) If the appointment of a liquidator under paragraph (a) or paragraph (b) of [section 241(2)][531] is not confirmed at a meeting of creditors and another liquidator is not appointed in place of that liquidator, the appointment of the liquidator under paragraph (a) or paragraph (b) of section 241(2) continues until another liquidator is appointed.
     
     (2) Notice in writing of a meeting of creditors---
         
-    *   (a) must be given to every known creditor together with the report and notice referred to in [section 255(2)(c)][514]; and
+    *   (a) must be given to every known creditor together with the report and notice referred to in [section 255(2)(c)][550]; and
     
-    *   (b) if the liquidator receives a notice under [section 245(1)(b)(iii)][501], must be given within 10 working days after receiving the notice.
+    *   (b) if the liquidator receives a notice under [section 245(1)(b)(iii)][537], must be given within 10 working days after receiving the notice.
     
     (3) Public notice of the meeting of creditors must also be given by the liquidator not less than 5 working days before the date of the meeting.
     
     (4) Except if subsection (2)(b) applies, a meeting of creditors must be held,---
         
-    *   (a) in the case of a liquidator appointed under paragraph (a) or paragraph (b) of subsection (2) of [section 241][495], within 10 working days of the liquidator's appointment; or
+    *   (a) in the case of a liquidator appointed under paragraph (a) or paragraph (b) of subsection (2) of [section 241][531], within 10 working days of the liquidator's appointment; or
     
-    *   (b) in the case of a liquidator appointed under paragraph (c) of subsection (2) of [section 241][495], within 30 working days of the liquidator's appointment; or
+    *   (b) in the case of a liquidator appointed under paragraph (c) of subsection (2) of [section 241][531], within 30 working days of the liquidator's appointment; or
     
     *   (c) in either case, within such longer period as the court may allow.
     
-    (4A) If subsection (2)(b) applies, a meeting of creditors must be held within 15 working days after the liquidator receives a notice under [section 245(1)(b)(iii)][501] requiring a meeting of creditors to be called.
+    (4A) If subsection (2)(b) applies, a meeting of creditors must be held within 15 working days after the liquidator receives a notice under [section 245(1)(b)(iii)][537] requiring a meeting of creditors to be called.
     
-    (5) Every meeting of creditors must be held in accordance with [Schedule 5][715].
+    (5) Every meeting of creditors must be held in accordance with [Schedule 5][752].
     
-    (6) If at a meeting of creditors it is resolved to appoint a person as liquidator of the company in place of the liquidator appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][495], the person who it is resolved to appoint as liquidator shall, subject to [section 282][546], be the liquidator of the company.
+    (6) If at a meeting of creditors it is resolved to appoint a person as liquidator of the company in place of the liquidator appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][531], the person who it is resolved to appoint as liquidator shall, subject to [section 282][582], be the liquidator of the company.
     
-    (7) If at a meeting of creditors it is resolved to apply to the court for the appointment of a person as liquidator in place of the liquidator appointed pursuant to paragraph (c) of subsection (2) of [section 241][495], the liquidator of the company must forthwith apply to the court for the appointment of that person as liquidator and the court may, if it thinks fit, appoint that person as the liquidator of the company.
+    (7) If at a meeting of creditors it is resolved to apply to the court for the appointment of a person as liquidator in place of the liquidator appointed pursuant to paragraph (c) of subsection (2) of [section 241][531], the liquidator of the company must forthwith apply to the court for the appointment of that person as liquidator and the court may, if it thinks fit, appoint that person as the liquidator of the company.
     
-    (8) Nothing in this section applies to the liquidator of a company appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][495] if, within 20 working days before the appointment of the liquidator, the board of the company resolved that the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of that subsection, be able to pay its debts and a copy of the resolution is delivered to the Registrar for registration.
+    (8) Nothing in this section applies to the liquidator of a company appointed pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][531] if, within 20 working days before the appointment of the liquidator, the board of the company resolved that the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of that subsection, be able to pay its debts and a copy of the resolution is delivered to the Registrar for registration.
     
-    (9) The directors who vote in favour of such a resolution must sign a certificate stating that, in their opinion, the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of subsection (2) of [section 241][495], as the case may be, be able to pay its debts, and the grounds for that opinion.
+    (9) The directors who vote in favour of such a resolution must sign a certificate stating that, in their opinion, the company would, on the appointment of a liquidator under either paragraph (a) or paragraph (b) of subsection (2) of [section 241][531], as the case may be, be able to pay its debts, and the grounds for that opinion.
     
-    (10) Every director who fails to comply with subsection (9) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][674].
+    (10) Every director who fails to comply with subsection (9) commits an offence and is liable on conviction to the penalty set out in [section 373(1)][711].
     
-    (11) Except for subsection (5), this section does not apply if the liquidator is appointed under [section 241(2)(d)][495].
+    (11) Except for subsection (5), this section does not apply if the liquidator is appointed under [section 241(2)(d)][531].
     
-    Section 243(1)(a): amended, on 3 June 1998, by [section 9(1)(a)][872] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 243(1)(a): amended, on 3 June 1998, by [section 9(1)(a)][930] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 243(1)(b): amended, on 3 June 1998, by [section 9(1)(b)][872] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 243(1)(b): amended, on 3 June 1998, by [section 9(1)(b)][930] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 243(1A): inserted, on 3 June 1998, by [section 9(2)][872] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 243(1A): inserted, on 3 June 1998, by [section 9(2)][930] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 243(2): replaced, on 1 November 2007, by [section 16][873] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 243(2): replaced, on 1 November 2007, by [section 16][931] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 243(4): amended, on 3 June 1998, by [section 9(4)][872] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 243(4): amended, on 3 June 1998, by [section 9(4)][930] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 243(4A): inserted, on 3 June 1998, by [section 9(5)][872] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 243(4A): inserted, on 3 June 1998, by [section 9(5)][930] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 243(11): inserted, on 1 November 2007, by [section 9][874] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 243(11): inserted, on 1 November 2007, by [section 9][932] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 244 Liquidator to summon meeting of creditors in other cases
     
-*   Subject to [section 245][501], the liquidator of a company who was not, by reason of [section 243(8)][499], required to call a meeting of creditors of the company must,---
+*   Subject to [section 245][537], the liquidator of a company who was not, by reason of [section 243(8)][535], required to call a meeting of creditors of the company must,---
         
-    *   (a) if the liquidator is satisfied that the directors who voted in favour of a resolution referred to in that subsection did not have reasonable grounds to believe that the company would, on the appointment of a liquidator under paragraph (a) or paragraph (b) of subsection (2) of [section 241][495], be able to pay its debts; or
+    *   (a) if the liquidator is satisfied that the directors who voted in favour of a resolution referred to in that subsection did not have reasonable grounds to believe that the company would, on the appointment of a liquidator under paragraph (a) or paragraph (b) of subsection (2) of [section 241][531], be able to pay its debts; or
     
     *   (b) if the liquidator is satisfied that the company is not able to pay its debts,---
     
-    forthwith call a meeting of the creditors of the company for the purpose specified in paragraph (a) or paragraph (b) of subsection (1) of [section 243][499], as the case may be; and the provisions of that section shall apply accordingly with such modifications as may be necessary.
+    forthwith call a meeting of the creditors of the company for the purpose specified in paragraph (a) or paragraph (b) of subsection (1) of [section 243][535], as the case may be; and the provisions of that section shall apply accordingly with such modifications as may be necessary.
 
 ##### 245 Liquidator may dispense with meetings of creditors
     
-*   (1) A liquidator is not required to call a meeting of creditors under [section 243][499] or [section 244][500], as the case may be, if---
+*   (1) A liquidator is not required to call a meeting of creditors under [section 243][535] or [section 244][536], as the case may be, if---
         
     *   (a) the liquidator considers, having regard to the assets and liabilities of the company, the likely result of the liquidation of the company, and any other relevant matters, that no such meeting should be held; and
     
@@ -9696,11 +10294,11 @@ Liquidations
     
     *   (c) no notice requiring the meeting to be called is received by the liquidator within that period.
     
-    (2) Notice under subsection (1)(b) must be given to every known creditor together with the report and notice referred to in [section 255(2)(c)][514].
+    (2) Notice under subsection (1)(b) must be given to every known creditor together with the report and notice referred to in [section 255(2)(c)][550].
     
     Compare: 1955 No 63 s 235A; 1989 No 101 s 8
     
-    Section 245(2): replaced, on 1 November 2007, by [section 17][875] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 245(2): replaced, on 1 November 2007, by [section 17][933] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 245A Power of court where outcome of voting at meeting of creditors determined by related entity
     
@@ -9738,7 +10336,7 @@ Liquidations
     
     (3) In this section,---
     
-    _promoter_ has the same meaning as in [section 2(1)][853] of the Securities Act 1978
+    _promoter_ has the same meaning as in [section 2(1)][911] of the Securities Act 1978
     
     _related creditor_ means a creditor who is a related entity of the company in liquidation
     
@@ -9770,7 +10368,7 @@ Liquidations
     
     Compare: Corporations Act 2001 s 600A (Aust)
     
-    Section 245A: inserted, on 1 November 2007, by [section 18][876] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 245A: inserted, on 1 November 2007, by [section 18][934] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 246 Interim liquidator
     
@@ -9786,15 +10384,15 @@ Liquidations
     
     (6) If any question arises as to whether on the date on which an interim liquidator was appointed an act was done or a transaction was entered into or effected before or after the time at which the interim liquidator was appointed, that act or transaction is, in the absence of proof to the contrary, deemed to have been done or entered into or effected, as the case may be, after that time.
     
-    Section 246(4): inserted, on 26 April 1999, by [section 5][877] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 246(4): inserted, on 26 April 1999, by [section 5][935] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 246(5): inserted, on 26 April 1999, by [section 5][877] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 246(5): inserted, on 26 April 1999, by [section 5][935] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 246(6): inserted, on 26 April 1999, by [section 5][877] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 246(6): inserted, on 26 April 1999, by [section 5][935] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 247 Power to stay or restrain certain proceedings against company
     
-*   At any time after the making of an application to the court under [section 241(2)(c)][495] to appoint a liquidator of a company and before a liquidator is appointed, the company or any creditor or shareholder of the company may,---
+*   At any time after the making of an application to the court under [section 241(2)(c)][531] to appoint a liquidator of a company and before a liquidator is appointed, the company or any creditor or shareholder of the company may,---
         
     *   (a) in the case of any application or proceeding against the company that is pending in the court or Court of Appeal, apply to the court or Court of Appeal, as the case may be, for a stay of the application or proceeding:
     
@@ -9828,23 +10426,23 @@ Liquidations
     
     *   (g) the constitution of the company must not be altered.
     
-    (2) Subsection (1) does not affect the right of a secured creditor, subject to [section 305][573], to take possession of, and realise or otherwise deal with, property of the company over which that creditor has a charge.
+    (2) Subsection (1) does not affect the right of a secured creditor, subject to [section 305][609], to take possession of, and realise or otherwise deal with, property of the company over which that creditor has a charge.
     
-    (3) This section is subject to [section 139J(1) to (3)][878] of the Reserve Bank of New Zealand Act 1989\.
+    (3) This section is subject to [section 139J(1) to (3)][936] of the Reserve Bank of New Zealand Act 1989\.
     
-    Section 248(3): inserted, on 10 December 2013, by [section 12][879] of the Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103).
+    Section 248(3): inserted, on 10 December 2013, by [section 12][937] of the Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103).
 
 ##### 249 Completion of liquidation
     
 *   The liquidation of a company is completed when the liquidator---
         
-    *   (a) complies with [section 257(1)(b)][516]; or
+    *   (a) complies with [section 257(1)(b)][552]; or
     
     *   (b) delivers to the Registrar for registration---
             
-        *   (i) a copy of any order made by the court under [section 257(2)(a)][516]; or
+        *   (i) a copy of any order made by the court under [section 257(2)(a)][552]; or
         
-        *   (ii) a copy of any order made by the court under [section 257(2)(b)][516] together with any documents required to comply with the order,---
+        *   (ii) a copy of any order made by the court under [section 257(2)(b)][552] together with any documents required to comply with the order,---
         
         
     
@@ -9888,13 +10486,13 @@ Liquidations
     
     (6) Where the court makes an order under subsection (1), the company ceases to be in liquidation and the liquidator ceases to hold office with effect on and from the making of the order or such other date as may be specified in the order.
     
-    (7) Every person who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (7) Every person who fails to comply with subsection (5) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
-    Section 250(2): replaced, on 1 November 2007, by [section 10][880] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 250(2): replaced, on 1 November 2007, by [section 10][938] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 250(2)(ea): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 250(2)(ea): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 250(2A): inserted, on 1 November 2007, by [section 10][880] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 250(2A): inserted, on 1 November 2007, by [section 10][938] of the Companies Amendment Act 2006 (2006 No 56).
 
 #### Provisions relating to prior execution process
 
@@ -9902,11 +10500,11 @@ Liquidations
     
 *   (1) Subject to subsection (3), a creditor is not entitled to retain the benefit of any execution process, distress, or attachment over or against the property of a company unless the execution process, distress, or attachment is completed before---
         
-    *   (a) the passing of a special resolution under [section 241(2)(a)][495] or a resolution under section 241(2)(d) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
+    *   (a) the passing of a special resolution under [section 241(2)(a)][531] or a resolution under section 241(2)(d) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
     
-    *   (b) the passing of a resolution by the board of a company under [section 241(2)(b)][495] appointing a liquidator or the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
+    *   (b) the passing of a resolution by the board of a company under [section 241(2)(b)][531] appointing a liquidator or the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
     
-    *   (c) the making of an application to the court under [section 241(2)(c)][495] to appoint a liquidator of the company.
+    *   (c) the making of an application to the court under [section 241(2)(c)][531] to appoint a liquidator of the company.
     
     (2) Notwithstanding subsection (1),---
         
@@ -9924,11 +10522,11 @@ Liquidations
     
     *   (c) an execution against land is completed by sale, and, in the case of an equitable interest, by the appointment of a receiver.
     
-    (5) Nothing in this section limits or affects [section 292][558].
+    (5) Nothing in this section limits or affects [section 292][594].
     
     Compare: 1955 No 63 s 314; 1980 No 43 s 29
     
-    Section 251(1)(a): amended, on 1 November 2007, by [section 11][881] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 251(1)(a): amended, on 1 November 2007, by [section 11][939] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 252 Duties of officer in execution process
     
@@ -9954,11 +10552,11 @@ Liquidations
         
     *   (a) within the period of 10 working days, the officer has notice of---
             
-        *   (i) the calling of a meeting at which a special resolution is proposed to appoint a liquidator pursuant to [section 241(2)(a)][495]; or
+        *   (i) the calling of a meeting at which a special resolution is proposed to appoint a liquidator pursuant to [section 241(2)(a)][531]; or
         
-        *   (ii) the calling of a meeting of the board at which a resolution is proposed to appoint a liquidator pursuant to [section 241(2)(b)][495]; or
+        *   (ii) the calling of a meeting of the board at which a resolution is proposed to appoint a liquidator pursuant to [section 241(2)(b)][531]; or
         
-        *   (iii) the making of an application to the court to appoint a liquidator pursuant to [section 241(2)(c)][495]; and
+        *   (iii) the making of an application to the court to appoint a liquidator pursuant to [section 241(2)(c)][531]; and
         
         
     
@@ -9976,11 +10574,11 @@ Liquidations
 
 ##### 253 Principal duty of liquidator
     
-*   Subject to [section 254][513], the principal duty of a liquidator of a company is---
+*   Subject to [section 254][549], the principal duty of a liquidator of a company is---
         
     *   (a) to take possession of, protect, realise, and distribute the assets, or the proceeds of the realisation of the assets, of the company to its creditors in accordance with this Act; and
     
-    *   (b) if there are surplus assets remaining, to distribute them, or the proceeds of the realisation of the surplus assets, in accordance with [section 313(4)][596]---
+    *   (b) if there are surplus assets remaining, to distribute them, or the proceeds of the realisation of the surplus assets, in accordance with [section 313(4)][632]---
     
     in a reasonable and efficient manner.
 
@@ -9988,11 +10586,11 @@ Liquidations
     
 *   Notwithstanding any other provisions of this Part,---
         
-    *   (a) except where the charge is surrendered or taken to be surrendered or redeemed under [section 305][573], a liquidator may, but is not required to, carry out any duty or exercise any power in relation to property that is subject to a charge:
+    *   (a) except where the charge is surrendered or taken to be surrendered or redeemed under [section 305][609], a liquidator may, but is not required to, carry out any duty or exercise any power in relation to property that is subject to a charge:
     
     *   (b) where---
             
-        *   (i) a company is put into liquidation under [section 241(2)(c)][495]; and
+        *   (i) a company is put into liquidation under [section 241(2)(c)][531]; and
         
         *   (ii) the Official Assignee is the liquidator of the company; and
         
@@ -10002,11 +10600,11 @@ Liquidations
     
     the Official Assignee shall not be required, without the consent of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act, to carry out any duty or exercise any power in connection with the liquidation if, to do so, would or would be likely to involve incurring any expense.
     
-    Section 254(b): amended, on 1 October 1995, by [section 10(3)][882] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 254(b): amended, on 1 October 1995, by [section 10(3)][940] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 255 Other duties of liquidator
     
-*   (1) Without limiting [section 253][512], a liquidator has the other functions and duties specified in this Act.
+*   (1) Without limiting [section 253][548], a liquidator has the other functions and duties specified in this Act.
     
     (2) Without limiting subsection (1), a liquidator must,---
         
@@ -10030,7 +10628,7 @@ Liquidations
                 
             *   (A) a report containing a statement of the company's affairs, proposals for conducting the liquidation, and, if practicable, the estimated date of its completion; and
             
-            *   (B) a notice explaining the right of a creditor or shareholder to require the liquidator to call a meeting of creditors under [section 314][598]; and
+            *   (B) a notice explaining the right of a creditor or shareholder to require the liquidator to call a meeting of creditors under [section 314][634]; and
             
             *   (C) the list of creditors referred to in subparagraph (i); and
             
@@ -10048,9 +10646,9 @@ Liquidations
     
     (3) For the purposes of subsection (2)(c), _applicable period_ means,---
         
-    *   (a) in the case of a liquidator appointed under [section 241(2)(a), (b), or (d)][495], 5 working days after the liquidator's appointment; or
+    *   (a) in the case of a liquidator appointed under [section 241(2)(a), (b), or (d)][531], 5 working days after the liquidator's appointment; or
     
-    *   (b) in the case of a liquidator appointed under paragraph (c) of subsection (2) of [section 241][495], 25 working days after the liquidator's appointment; or
+    *   (b) in the case of a liquidator appointed under paragraph (c) of subsection (2) of [section 241][531], 25 working days after the liquidator's appointment; or
     
     *   (c) in either case, such longer period as the court may allow.
     
@@ -10066,19 +10664,19 @@ Liquidations
     
     (6) \[Repealed\]
     
-    Section 255(2)(a)(ii): amended, on 26 April 1999, by [section 6(a)][883] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 255(2)(a)(ii): amended, on 26 April 1999, by [section 6(a)][941] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 255(2)(c)(i): replaced, on 1 November 2007, by [section 19(1)][884] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 255(2)(c)(i): replaced, on 1 November 2007, by [section 19(1)][942] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 255(2)(c)(ii)(C): inserted, on 1 November 2007, by [section 19(2)][884] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 255(2)(c)(ii)(C): inserted, on 1 November 2007, by [section 19(2)][942] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 255(2)(d): amended, on 26 April 1999, by [section 6(b)][883] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 255(2)(d): amended, on 26 April 1999, by [section 6(b)][941] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 255(3)(a): amended, on 1 November 2007, by [section 12][885] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 255(3)(a): amended, on 1 November 2007, by [section 12][943] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 255(5): repealed, on 1 November 2007, by [section 19(3)][884] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 255(5): repealed, on 1 November 2007, by [section 19(3)][942] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 255(6): repealed, on 1 November 2007, by [section 19(3)][884] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 255(6): repealed, on 1 November 2007, by [section 19(3)][942] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 256 Duties in relation to accounts
     
@@ -10086,7 +10684,7 @@ Liquidations
         
     *   (a) keep accounts and records of the liquidation and permit those accounts and records, and the accounts and records in the company, to be inspected by---
             
-        *   (i) any liquidation committee appointed under [section 314][598], unless the liquidator believes on reasonable grounds that inspection would be prejudicial to the liquidation; and
+        *   (i) any liquidation committee appointed under [section 314][634], unless the liquidator believes on reasonable grounds that inspection would be prejudicial to the liquidation; and
         
         *   (ii) if the court so orders, a creditor or shareholder; and
         
@@ -10100,7 +10698,7 @@ Liquidations
     
     *   (b) require any accounts or records to be retained for longer than 1 year after the completion of the liquidation.
     
-    Section 256(2)(b): amended, on 3 June 1998, by [section 11][886] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 256(2)(b): amended, on 3 June 1998, by [section 11][944] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 257 Duties in relation to final report and accounts
     
@@ -10120,7 +10718,7 @@ Liquidations
             
             
         
-        *   (iii) a summary of the applicable grounds on which the creditor or shareholder may object to the removal of the company from the New Zealand register under [section 321][610]:
+        *   (iii) a summary of the applicable grounds on which the creditor or shareholder may object to the removal of the company from the New Zealand register under [section 321][646]:
         
         
     
@@ -10138,9 +10736,9 @@ Liquidations
     
 *   (1) The liquidator must have regard to---
         
-    *   (a) the views of the shareholders by whom any special resolution was passed at a meeting held for the purposes of [section 241(2)(a)][495] set out in a resolution passed at that meeting:
+    *   (a) the views of the shareholders by whom any special resolution was passed at a meeting held for the purposes of [section 241(2)(a)][531] set out in a resolution passed at that meeting:
     
-    *   (b) the views of creditors set out in any resolution passed at a meeting held for the purposes of [section 243][499]:
+    *   (b) the views of creditors set out in any resolution passed at a meeting held for the purposes of [section 243][535]:
     
     *   (c) the views of creditors or shareholders set out in a resolution passed at a meeting called in accordance with subsection (2):
     
@@ -10148,9 +10746,9 @@ Liquidations
     
     (2) For the purposes of subsection (1), a liquidator---
         
-    *   (a) must summon meetings of shareholders at such times as may be specified by any resolution of shareholders passed at a meeting held for the purposes of [section 241(2)(a)][495]:
+    *   (a) must summon meetings of shareholders at such times as may be specified by any resolution of shareholders passed at a meeting held for the purposes of [section 241(2)(a)][531]:
     
-    *   (b) must summon meetings of creditors at such times as may be specified by any resolution of creditors passed at a meeting held for the purposes of [section 243][499]:
+    *   (b) must summon meetings of creditors at such times as may be specified by any resolution of creditors passed at a meeting held for the purposes of [section 243][535]:
     
     *   (c) must summon a meeting of shareholders forthwith when required to do so by notice in writing given by shareholders holding shares on which has been paid up not less than 10% of the total amount paid up on all shares issued by the company:
     
@@ -10158,7 +10756,7 @@ Liquidations
     
     *   (e) may, at his or her discretion, summon a meeting of shareholders or creditors of the company.
     
-    (3) A liquidator who calls a meeting of creditors or shareholders must call such a meeting in accordance with [Schedule 1][711] or, if applicable, [Schedule 5][715], as the case may be.
+    (3) A liquidator who calls a meeting of creditors or shareholders must call such a meeting in accordance with [Schedule 1][748] or, if applicable, [Schedule 5][752], as the case may be.
     
     (4) Nothing in this section limits or prevents a liquidator from exercising his or her discretion in carrying out his or her functions and duties under this Act.
     
@@ -10168,17 +10766,17 @@ Liquidations
     
 *   (1) A liquidator of a company who considers that an offence that is material to the liquidation has been committed by the company or any director of the company against this Act or any of the following Acts must report that fact to the Registrar:
         
-    *   (a) the [Crimes Act 1961][887]:
+    *   (a) the [Crimes Act 1961][945]:
     
-    *   (b) the [Securities Act 1978][731]:
+    *   (b) the [Securities Act 1978][768]:
     
-    *   (c) the [Securities Markets Act 1988][811]:
+    *   (c) the [Securities Markets Act 1988][851]:
     
-    *   (d) the [Financial Reporting Act 1993][818]: 
+    *   (d) \[Repealed\]
     
-    *   (e) the [Takeovers Act 1993][763]:
+    *   (e) the [Takeovers Act 1993][801]:
     
-    *   (f) the [Insurance (Prudential Supervision) Act 2010][888].
+    *   (f) the [Insurance (Prudential Supervision) Act 2010][946].
     
     (2) A report made under subsection (1), and any communications between the liquidator and Registrar relating to that report, are protected by absolute privilege.
     
@@ -10186,13 +10784,15 @@ Liquidations
     
     (4) A copy of a report sent under subsection (3), and any communications between the liquidator and Reserve Bank of New Zealand relating to that report, are protected by absolute privilege.
     
-    (5) A liquidator who fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (5) A liquidator who fails to comply with subsection (1) or (3) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
-    Section 258A: replaced, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 258A: replaced, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    
+    Section 258A(1)(d): repealed, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 258B Registrar may supply report to FMA
     
-*   (1) If a report is made under [section 258A][518] in respect of a financial markets participant, the Registrar may supply a copy of the report to the FMA.
+*   (1) If a report is made under [section 258A][554] in respect of a financial markets participant, the Registrar may supply a copy of the report to the FMA.
     
     (2) Any communications between---
         
@@ -10200,7 +10800,7 @@ Liquidations
     
     *   (b) the liquidator and the FMA that relate to that report are protected by absolute privilege.
     
-    Section 258B: inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 258B: inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 259 Documents to state company in liquidation
     
@@ -10214,7 +10814,7 @@ Liquidations
     
     *   (b) conferred on a liquidator by this Act.
     
-    (2) Without limiting subsection (1), a liquidator has the powers set out in [Schedule 6][716].
+    (2) Without limiting subsection (1), a liquidator has the powers set out in [Schedule 6][753].
 
 ##### 260A Liquidator may assign right to sue under this Act
     
@@ -10226,7 +10826,7 @@ Liquidations
     
     *   (b) opposed by a person who is a defendant to the liquidator's action, if already begun, or a proposed defendant.
     
-    Section 260A: inserted, on 1 November 2007, by [section 21][889] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 260A: inserted, on 1 November 2007, by [section 21][947] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 261 Power to obtain documents and information
     
@@ -10272,19 +10872,19 @@ Liquidations
     
     *   (c) the liquidator has not paid that person travelling or other expenses.
     
-    (6A) A person who fails to comply with a notice given under this section commits an offence and is liable on conviction to the penalty set out in [section 373(3)][674].
+    (6A) A person who fails to comply with a notice given under this section commits an offence and is liable on conviction to the penalty set out in [section 373(3)][711].
     
-    (7) Nothing in this section limits or affects [section 260][521].
+    (7) Nothing in this section limits or affects [section 260][557].
     
     Section 261(2): amended, on 1 July 1994, by section 31(1) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
     Section 261(3A): inserted, on 1 July 1994, by section 31(2) of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 261(6A): inserted, on 3 May 2001, by [section 13][890] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 261(6A): inserted, on 3 May 2001, by [section 13][948] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
 
 ##### 262 Documents in possession of receiver
     
-*   (1) A receiver is not required to deliver to a liquidator under [section 261][523] any books, records, or documents that the receiver requires for the purpose of exercising any powers or functions as receiver in relation to property of a company in liquidation.
+*   (1) A receiver is not required to deliver to a liquidator under [section 261][559] any books, records, or documents that the receiver requires for the purpose of exercising any powers or functions as receiver in relation to property of a company in liquidation.
     
     (2) The liquidator may, from time to time, by notice in writing, require the receiver---
         
@@ -10300,35 +10900,35 @@ Liquidations
     
 *   (1) A person is not entitled, as against the liquidator of a company, to claim or enforce a lien over books, records, or documents of the company.
     
-    (2) If the lien arises in relation to a debt for the provision of services to the company before the commencement of the liquidation, the debt is a preferential claim against the company under [section 312][595] to the extent of 10% of the total value of the debt, up to a maximum amount of $2,000\.
+    (2) If the lien arises in relation to a debt for the provision of services to the company before the commencement of the liquidation, the debt is a preferential claim against the company under [section 312][631] to the extent of 10% of the total value of the debt, up to a maximum amount of $2,000\.
     
-    (3) Nothing in this section applies to a company that was put into liquidation pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][495] if---
+    (3) Nothing in this section applies to a company that was put into liquidation pursuant to paragraph (a) or paragraph (b) of subsection (2) of [section 241][531] if---
         
-    *   (a) the board of the company passed a resolution of the kind referred to in [section 243(8)][499]; and
+    *   (a) the board of the company passed a resolution of the kind referred to in [section 243(8)][535]; and
     
-    *   (b) [section 244][500] does not apply in relation to the company.
+    *   (b) [section 244][536] does not apply in relation to the company.
     
-    Section 263(2): amended, on 1 November 2007, by [section 13][891] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 263(2): amended, on 1 November 2007, by [section 13][949] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 264 Delivery of document creating charge over property
     
-*   (1) A person is required to deliver a document to a liquidator under [section 261][523] even though possession of the document creates a charge over property of a company.
+*   (1) A person is required to deliver a document to a liquidator under [section 261][559] even though possession of the document creates a charge over property of a company.
     
     (2) Production of the document to the liquidator does not prejudice the existence or priority of the charge, but the liquidator must make the document available to the person entitled to it for the purpose of dealing with or realising the charge or the secured property.
 
 ##### 265 Examination by liquidator
     
-*   (1) A liquidator or a barrister or solicitor acting on behalf of the liquidator may administer an oath to, or take the affirmation of, a person required to be examined under [section 261][523].
+*   (1) A liquidator or a barrister or solicitor acting on behalf of the liquidator may administer an oath to, or take the affirmation of, a person required to be examined under [section 261][559].
     
-    (2) A person required to be examined under [section 261][523] is entitled to be represented by a barrister or solicitor.
+    (2) A person required to be examined under [section 261][559] is entitled to be represented by a barrister or solicitor.
     
-    (3) A liquidator or a barrister or solicitor acting on behalf of the liquidator who conducts an examination under [section 261][523] must ensure that the examination is recorded in writing or by means of a tape recorder or other similar device.
+    (3) A liquidator or a barrister or solicitor acting on behalf of the liquidator who conducts an examination under [section 261][559] must ensure that the examination is recorded in writing or by means of a tape recorder or other similar device.
 
 ##### 266 Powers of court
     
-*   (1) The court may, on the application of the liquidator, order a person who has failed to comply with a requirement of the liquidator under [section 261][523] to comply with that requirement.
+*   (1) The court may, on the application of the liquidator, order a person who has failed to comply with a requirement of the liquidator under [section 261][559] to comply with that requirement.
     
-    (2) The court may, on the application of the liquidator, order a person to whom [section 261][523] applies to---
+    (2) The court may, on the application of the liquidator, order a person to whom [section 261][559] applies to---
         
     *   (a) attend before the court and be examined on oath or affirmation by the court or the liquidator or a barrister or solicitor acting on behalf of the liquidator on any matter relating to the business, accounts, or affairs of the company:
     
@@ -10340,13 +10940,13 @@ Liquidations
     
     *   (b) the person examined must sign the record.
     
-    (4) Subject to any directions by the court, a record of an examination under this section is admissible in evidence in any proceedings under this Part, [section 383][684], [section 60A][892] of the Securities Act 1978, [section 43F][893] of the Securities Markets Act 1988, or [section 44F][894] of the Takeovers Act 1993\.
+    (4) Subject to any directions by the court, a record of an examination under this section is admissible in evidence in any proceedings under this Part, [section 383][721], [section 60A][950] of the Securities Act 1978, [section 43F][951] of the Securities Markets Act 1988, or [section 44F][952] of the Takeovers Act 1993\.
     
-    Section 266(4): amended, on 25 October 2006, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 266(4): amended, on 25 October 2006, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 267 Self-incrimination
     
-*   (1) A person is not excused from answering a question in the course of being examined under [section 261][523] or [section 266][528] on the ground that the answer may incriminate or tend to incriminate that person.
+*   (1) A person is not excused from answering a question in the course of being examined under [section 261][559] or [section 266][564] on the ground that the answer may incriminate or tend to incriminate that person.
     
     (2) The testimony of the person examined is not admissible as evidence in criminal proceedings against that person except on a charge of perjury in relation to that testimony.
 
@@ -10362,7 +10962,7 @@ Liquidations
 
 ##### 269 Power to disclaim onerous property
     
-*   (1) Subject to [section 270][532], a liquidator may disclaim onerous property even though the liquidator has taken possession of it, tried to sell it, or otherwise exercised rights of ownership in relation to it.
+*   (1) Subject to [section 270][568], a liquidator may disclaim onerous property even though the liquidator has taken possession of it, tried to sell it, or otherwise exercised rights of ownership in relation to it.
     
     (2) For the purposes of this section, _onerous property_---
         
@@ -10378,11 +10978,11 @@ Liquidations
     
     *   (b) does not include---
             
-        *   (i) a netting agreement to which [sections 310A to 310O][579] apply; or
+        *   (i) a netting agreement to which [sections 310A to 310O][615] apply; or
         
         *   (ii) any contract of the company that constitutes a transaction under a netting agreement; or
         
-        *   (iii) a settlement instruction or a settlement under the rules of a settlement system that is declared to be a designated settlement system under [Part 5C][895] of the Reserve Bank of New Zealand Act 1989\.
+        *   (iii) a settlement instruction or a settlement under the rules of a settlement system that is declared to be a designated settlement system under [Part 5C][953] of the Reserve Bank of New Zealand Act 1989\.
         
         
     
@@ -10404,15 +11004,15 @@ Liquidations
     
     Compare: 1955 No 63 s 312
     
-    Section 269(2): replaced, on 26 April 1999, by [section 7][896] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 269(2): replaced, on 26 April 1999, by [section 7][954] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 269(2)(a)(ii): replaced, on 1 November 2007, by [section 22][897] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 269(2)(a)(ii): replaced, on 1 November 2007, by [section 22][955] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 269(2)(a)(iii): inserted, on 1 November 2007, by [section 22][897] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 269(2)(a)(iii): inserted, on 1 November 2007, by [section 22][955] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 269(2)(b): replaced, on 21 August 2003, by [section 48(1)][898] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 269(2)(b): replaced, on 21 August 2003, by [section 48(1)][956] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 269(2)(b)(iii): amended, on 24 November 2009, by [section 19][899] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 269(2)(b)(iii): amended, on 24 November 2009, by [section 19][957] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 270 Liquidator may be required to elect whether to disclaim onerous property
     
@@ -10428,15 +11028,15 @@ Liquidations
     
     (2) The court may make such other order or give such directions to facilitate giving effect to an order under subsection (1) as it thinks fit.
     
-    (3) This section is subject to [section 139J(4)][878] of the Reserve Bank of New Zealand Act 1989\.
+    (3) This section is subject to [section 139J(4)][936] of the Reserve Bank of New Zealand Act 1989\.
     
     Compare: 1955 No 63 ss 315A, 315B; 1980 No 43 s 30
     
-    Section 271(3): inserted, on 10 December 2013, by [section 12][879] of the Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103).
+    Section 271(3): inserted, on 10 December 2013, by [section 12][937] of the Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103).
 
 ##### 271A Notice that application filed must be given to administrators and creditors
     
-*   (1) Unless the court orders otherwise, an applicant for an order under [section 271(1)(b)][533] must give notice that the application has been filed to the liquidator and each creditor of each related company in liquidation.
+*   (1) Unless the court orders otherwise, an applicant for an order under [section 271(1)(b)][569] must give notice that the application has been filed to the liquidator and each creditor of each related company in liquidation.
     
     (2) An applicant need not give notice to himself or herself.
     
@@ -10450,11 +11050,11 @@ Liquidations
     
     (4) The notice requirement in this section is in addition to anything required to be done by the High Court Rules.
     
-    Section 271A: inserted, on 1 November 2007, by [section 23][900] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 271A: inserted, on 1 November 2007, by [section 23][958] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 272 Guidelines for orders
     
-*   (1) In deciding whether it is just and equitable to make an order under [section 271(1)(a)][533], the court must have regard to the following matters:
+*   (1) In deciding whether it is just and equitable to make an order under [section 271(1)(a)][569], the court must have regard to the following matters:
         
     *   (a) the extent to which the related company took part in the management of the company in liquidation:
     
@@ -10464,7 +11064,7 @@ Liquidations
     
     *   (d) such other matters as the court thinks fit.
     
-    (2) In deciding whether it is just and equitable to make an order under [section 271(1)(b)][533], the court must have regard to the following matters:
+    (2) In deciding whether it is just and equitable to make an order under [section 271(1)(b)][569], the court must have regard to the following matters:
         
     *   (a) the extent to which any of the companies took part in the management of any of the other companies:
     
@@ -10476,7 +11076,7 @@ Liquidations
     
     *   (e) such other matters as the court thinks fit.
     
-    (3) The fact that creditors of a company in liquidation relied on the fact that another company is, or was, related to it is not a ground for making an order under [section 271][533].
+    (3) The fact that creditors of a company in liquidation relied on the fact that another company is, or was, related to it is not a ground for making an order under [section 271][569].
     
     Compare: 1955 No 63 s 315C; 1980 No 43 s 30
 
@@ -10498,7 +11098,7 @@ Liquidations
     
     *   (c) destroy, conceal, or remove records or other documents of the company.
     
-    (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(3)][674].
+    (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(3)][711].
 
 ##### 274 Duty to identify and deliver property
     
@@ -10508,7 +11108,7 @@ Liquidations
     
     *   (b) on being required to do so by the liquidator, forthwith or within such time as may be specified by the liquidator, deliver the property to the liquidator or such other person as the liquidator may direct, or dispose of the property in such manner as the liquidator may direct.
     
-    (2) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(3)][674].
+    (2) A person who fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(3)][711].
 
 ##### 275 Refusal to supply essential services prohibited
     
@@ -10532,17 +11132,17 @@ Liquidations
     
     *   (c) make it a condition of the supply of the service to a company in liquidation that the liquidator personally guarantees payment of the charges that would be incurred for the supply of the service.
     
-    (4) The charges incurred by a liquidator for the supply of an essential service are an expense incurred by the liquidator for the purposes of [clause 1(1)(a)][901] of Schedule 7\.
+    (4) The charges incurred by a liquidator for the supply of an essential service are an expense incurred by the liquidator for the purposes of [clause 1(1)(a)][959] of Schedule 7\.
     
-    Section 275(4): amended, on 1 November 2007, by [section 37][902] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 275(4): amended, on 1 November 2007, by [section 37][960] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 276 Remuneration of liquidators
     
-*   (1) Subject to [section 284(1)(e)][548], every liquidator, not being an Official Assignee, appointed under paragraph (a) or paragraph (b) of subsection (2) of [section 241][495] is entitled to charge reasonable remuneration for carrying out his or her duties and exercising his or her powers as liquidator.
+*   (1) Subject to [section 284(1)(e)][584], every liquidator, not being an Official Assignee, appointed under paragraph (a) or paragraph (b) of subsection (2) of [section 241][531] is entitled to charge reasonable remuneration for carrying out his or her duties and exercising his or her powers as liquidator.
     
-    (2) Unless the court otherwise orders, every Official Assignee who is appointed a liquidator under paragraph (a) of subsection (2) of [section 241][495] and every liquidator appointed under paragraph (c) of that subsection shall charge remuneration either---
+    (2) Unless the court otherwise orders, every Official Assignee who is appointed a liquidator under paragraph (a) of subsection (2) of [section 241][531] and every liquidator appointed under paragraph (c) of that subsection shall charge remuneration either---
         
-    *   (a) of an amount equal to the amount fixed under [section 277][540]; or
+    *   (a) of an amount equal to the amount fixed under [section 277][576]; or
     
     *   (b) at, or in accordance with, such rate or rates as may be prescribed under that section.
     
@@ -10550,7 +11150,7 @@ Liquidations
 
 ##### 277 Rates of remuneration
     
-*   (1) The Governor-General may from time to time, by Order in Council, for the purposes of [section 276][539], make regulations fixing an amount or prescribing a rate or rates in respect of the remuneration of liquidators to which that section applies.
+*   (1) The Governor-General may from time to time, by Order in Council, for the purposes of [section 276][575], make regulations fixing an amount or prescribing a rate or rates in respect of the remuneration of liquidators to which that section applies.
     
     (2) Without limiting subsection (1), such regulations may---
         
@@ -10570,9 +11170,9 @@ Liquidations
 
 ##### 279 Liquidator ceases to hold office on completion of liquidation
     
-*   (1) A liquidator ceases to hold office on the completion of the liquidation in accordance with [section 249][506].
+*   (1) A liquidator ceases to hold office on the completion of the liquidation in accordance with [section 249][542].
     
-    (2) Subsection (1) does not limit [section 284][548] or [section 286][550].
+    (2) Subsection (1) does not limit [section 284][584] or [section 286][586].
 
 #### Qualifications and supervision of liquidators
 
@@ -10592,13 +11192,13 @@ Liquidations
     
     *   (d) an undischarged bankrupt:
     
-    *   (e) a person who is, or is deemed to be, subject to a compulsory treatment order made under [Part 2][903] of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
+    *   (e) a person who is, or is deemed to be, subject to a compulsory treatment order made under [Part 2][961] of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     
-    *   (f) a person in respect of whom an order has been made under [section 30][812] or [section 31][813] of the Protection of Personal and Property Rights Act 1988:
+    *   (f) a person in respect of whom an order has been made under [section 30][852] or [section 31][853] of the Protection of Personal and Property Rights Act 1988:
     
-    *   (g) a person in respect of whom an order has been made under [section 286(5)][550]:
+    *   (g) a person in respect of whom an order has been made under [section 286(5)][586]:
     
-    *   (h) a person in respect of whom an order has been made under [section 37(6)][904] of the Receiverships Act 1993:
+    *   (h) a person in respect of whom an order has been made under [section 37(6)][962] of the Receiverships Act 1993:
     
     *   (ha) \[Repealed\]
     
@@ -10606,41 +11206,41 @@ Liquidations
     
     *   (j) \[Repealed\]
     
-    *   (k) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under [section 382][683] or [section 383][684] or [section 385][686]:
+    *   (k) a person who is prohibited from being a director or promoter of or being concerned or taking part in the management of a company under [section 382][720] or [section 383][721] or [section 385][723]:
     
-    *   (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][731], or the [Securities Markets Act 1988][811], or the [Takeovers Act 1993][763]:
+    *   (ka) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Securities Act 1978][768], or the [Securities Markets Act 1988][851], or the [Takeovers Act 1993][801]:
     
-    *   (l) a person who is prohibited under [section 299(1)(c)][905] of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
+    *   (l) a person who is prohibited under [section 299(1)(c)][963] of the Insolvency Act 2006 from acting as a director or taking part directly or indirectly in the management of any company or class of company:
     
-    *   (m) a person who is prohibited from being administrator or deed administrator under [section 239ADV][459].
+    *   (m) a person who is prohibited from being administrator or deed administrator under [section 239ADV][495].
     
     (1A) Subsection (1)(ca) or (cb) does not apply if all the creditors consent to the appointment of the person in question.
     
     (2) A body corporate must not be appointed or act as a liquidator.
     
-    (3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (3) A person who contravenes subsection (1) or subsection (2) commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
     (4) A person other than the Official Assignee must not be appointed a liquidator unless he or she has first certified in writing that he or she is not disqualified under subsection (1).
     
-    Section 280(1)(ca): inserted, on 1 November 2007, by [section 24(1)][906] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 280(1)(ca): inserted, on 1 November 2007, by [section 24(1)][964] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 280(1)(cb): inserted, on 1 November 2007, by [section 24(1)][906] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 280(1)(cb): inserted, on 1 November 2007, by [section 24(1)][964] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 280(1)(ha): repealed, on 5 December 2013, by [section 8][907] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 280(1)(ha): repealed, on 5 December 2013, by [section 8][965] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 280(1)(i): repealed, on 5 December 2013, by [section 8][907] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 280(1)(i): repealed, on 5 December 2013, by [section 8][965] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 280(1)(j): repealed, on 5 December 2013, by [section 8][907] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 280(1)(j): repealed, on 5 December 2013, by [section 8][965] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 280(1)(ka): inserted, on 25 October 2006, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 280(1)(ka): inserted, on 25 October 2006, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 280(1)(l): amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 280(1)(l): amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 280(1)(m): inserted, on 1 November 2007, by [section 24(2)][906] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 280(1)(m): inserted, on 1 November 2007, by [section 24(2)][964] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 280(1A): inserted, on 1 November 2007, by [section 24(3)][906] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 280(1A): inserted, on 1 November 2007, by [section 24(3)][964] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 280(4): inserted, on 1 November 2007, by [section 24(4)][906] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 280(4): inserted, on 1 November 2007, by [section 24(4)][964] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 281 Validity of acts of liquidators
     
@@ -10652,19 +11252,19 @@ Liquidations
 
 ##### 283 Vacancies in office of liquidator
     
-*   (1) The office of liquidator becomes vacant if the person holding office resigns, dies, or becomes disqualified under [section 280][544].
+*   (1) The office of liquidator becomes vacant if the person holding office resigns, dies, or becomes disqualified under [section 280][580].
     
     (2) A person, other than an Official Assignee, may resign from the office of liquidator by appointing another such person as his or her successor and sending or delivering notice in writing of the appointment of his or her successor to the Registrar for registration.
     
     (3) With the approval of the Official Assignee for New Zealand, an Official Assignee may resign from the office of liquidator by appointing another Official Assignee as his or her successor.
     
-    (4) The court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, review the appointment of a successor to a liquidator and may appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of [section 241][495] to be the liquidator of the company.
+    (4) The court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, review the appointment of a successor to a liquidator and may appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of [section 241][531] to be the liquidator of the company.
     
     (5) If, for any reason other than resignation, a vacancy occurs in the office of liquidator, written notice of the vacancy must forthwith be sent or delivered to the Official Assignee for New Zealand by the person vacating office or, if that person is unable to act, by his or her personal representative.
     
     (6) If, as the result of the vacation of office by a liquidator, other than an Official Assignee, no person is acting as liquidator, the Official Assignee for New Zealand may appoint a person to act as liquidator until a successor is appointed under this section.
     
-    (7) If a vacancy occurs in the office of the liquidator, or a liquidator has been appointed under subsection (6), as the case may be, the court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, or the Official Assignee for New Zealand, appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of [section 241][495] to be the liquidator of the company.
+    (7) If a vacancy occurs in the office of the liquidator, or a liquidator has been appointed under subsection (6), as the case may be, the court may, on the application of the company, or a shareholder or other entitled person, or a director or creditor of the company, or the Official Assignee for New Zealand, appoint any person who could be appointed as liquidator under paragraph (a) or paragraph (b) or paragraph (c), as the case may be, of subsection (2) of [section 241][531] to be the liquidator of the company.
     
     (8) A liquidator appointed under subsection (7) must, within 10 working days of being appointed or being notified of his or her appointment, deliver a notice of his or her appointment to the Registrar for registration.
     
@@ -10704,7 +11304,7 @@ Liquidations
 
 ##### 285 Meaning of failure to comply
     
-*   (1) In [section 286][550] unless the context otherwise requires, _failure to comply_ means a failure of a liquidator to comply with a relevant duty arising---
+*   (1) In [section 286][586] unless the context otherwise requires, _failure to comply_ means a failure of a liquidator to comply with a relevant duty arising---
         
     *   (a) under this or any other Act or rule of law or rules of court; or
     
@@ -10714,7 +11314,7 @@ Liquidations
     
     (2) In subsection (1), _relevant duty_ includes the duty of a person in his or her capacity as administrator or deed administrator of a company.
     
-    Section 285(2): inserted, on 1 November 2007, by [section 25][908] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 285(2): inserted, on 1 November 2007, by [section 25][966] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 286 Orders to enforce liquidator's duties
     
@@ -10744,11 +11344,11 @@ Liquidations
     
     *   (b) without prejudice to any other remedy which may be available in relation to a breach of duty by the liquidator, order the liquidator to comply to the extent specified in the order.
     
-    (4) A court may, in relation to a person who fails to comply with an order made under subsection (3), or is or becomes disqualified under [section 280][544] to become or remain a liquidator,---
+    (4) A court may, in relation to a person who fails to comply with an order made under subsection (3), or is or becomes disqualified under [section 280][580] to become or remain a liquidator,---
         
     *   (a) remove the liquidator from office; or
     
-    *   (b) order that the person may be appointed and act, or may continue to act, as liquidator, notwithstanding the provisions of [section 280][544].
+    *   (b) order that the person may be appointed and act, or may continue to act, as liquidator, notwithstanding the provisions of [section 280][580].
     
     (5) If the court is satisfied that a person is unfit to act as a liquidator by reason of persistent failures to comply or the seriousness of a failure to comply,---
         
@@ -10780,17 +11380,17 @@ Liquidations
     
     (9) A copy of every order made under subsection (5) must, within 10 working days of the order being made, be delivered by the applicant to the Official Assignee for New Zealand who must keep it on a file indexed by reference to the name of the liquidator concerned.
     
-    Section 286(1)(f): amended, on 7 July 2010, by [section 10][840] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 286(1)(f): amended, on 7 July 2010, by [section 10][967] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 286(5): replaced, on 1 November 2007, by [section 26(1)][909] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 286(5): replaced, on 1 November 2007, by [section 26(1)][968] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 286(7): amended, on 1 November 2007, by [section 26(2)][909] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 286(7): amended, on 1 November 2007, by [section 26(2)][968] of the Companies Amendment Act 2006 (2006 No 56).
 
 #### Company unable to pay its debts
 
 ##### 287 Meaning of inability to pay debts
     
-*   Unless the contrary is proved, and subject to [section 288][553], a company is presumed to be unable to pay its debts if---
+*   Unless the contrary is proved, and subject to [section 288][589], a company is presumed to be unable to pay its debts if---
         
     *   (a) the company has failed to comply with a statutory demand; or
     
@@ -10798,7 +11398,7 @@ Liquidations
     
     *   (c) a person entitled to a charge over all or substantially all of the property of the company has appointed a receiver under the instrument creating the charge; or
     
-    *   (d) a compromise between a company and its creditors has been put to a vote in accordance with [Part 14][300] but has not been approved.
+    *   (d) a compromise between a company and its creditors has been put to a vote in accordance with [Part 14][336] but has not been approved.
     
     
 
@@ -10806,7 +11406,7 @@ Liquidations
     
 *   (1) On an application to the court for an order that a company be put into liquidation, evidence of failure to comply with a statutory demand is not admissible as evidence that a company is unable to pay its debts unless the application is made within 30 working days after the last date for compliance with the demand.
     
-    (2) [Section 287][552] does not prevent proof by other means that a company is unable to pay its debts.
+    (2) [Section 287][588] does not prevent proof by other means that a company is unable to pay its debts.
     
     (3) Information or records acquired under [section 178][230] or, if the court so orders, under [section 179][231], may be received as evidence that a company is unable to pay its debts.
     
@@ -10826,7 +11426,7 @@ Liquidations
     
     *   (c) be served on the company; and
     
-    *   (d) require the company to pay the debt, or enter into a compromise under [Part 14][300], or otherwise compound with the creditor, or give a charge over its property to secure payment of the debt, to the reasonable satisfaction of the creditor, within 15 working days of the date of service, or such longer period as the court may order.
+    *   (d) require the company to pay the debt, or enter into a compromise under [Part 14][336], or otherwise compound with the creditor, or give a charge over its property to secure payment of the debt, to the reasonable satisfaction of the creditor, within 15 working days of the date of service, or such longer period as the court may order.
     
     
 
@@ -10858,11 +11458,11 @@ Liquidations
 
 ##### 291 Additional powers of court on application to set aside statutory demand
     
-*   (1) If, on the hearing of an application under [section 290][555], the court is satisfied that there is a debt due by the company to the creditor that is not the subject of a substantial dispute, or is not subject to a counterclaim, set-off, or cross-demand, the court may---
+*   (1) If, on the hearing of an application under [section 290][591], the court is satisfied that there is a debt due by the company to the creditor that is not the subject of a substantial dispute, or is not subject to a counterclaim, set-off, or cross-demand, the court may---
         
     *   (a) order the company to pay the debt within a specified period and that, in default of payment, the creditor may make an application to put the company into liquidation; or
     
-    *   (b) dismiss the application and forthwith make an order under [section 241(4)][495] putting the company into liquidation,---
+    *   (b) dismiss the application and forthwith make an order under [section 241(4)][531] putting the company into liquidation,---
     
     on the ground that the company is unable to pay its debts.
     
@@ -10924,7 +11524,7 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 2 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
@@ -10938,51 +11538,51 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 6 months before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
     Compare: 1955 No 63 s 309; 1980 No 43 s 24(1); 1982 No 152 s 18
     
-    Section 292 heading: replaced, on 1 November 2007, by [section 27(1)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292 heading: replaced, on 1 November 2007, by [section 27(1)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(1): replaced, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(1): replaced, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(2): replaced, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(2): replaced, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(3): replaced, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(3): replaced, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(4): replaced, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(4): replaced, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(4): amended, on 31 August 2012, by [section 7][911] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 292(4): amended, on 31 August 2012, by [section 7][970] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Section 292(4A): inserted, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(4A): inserted, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(4B): inserted, on 1 November 2007, by [section 27(2)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(4B): inserted, on 1 November 2007, by [section 27(2)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(5): amended, on 1 November 2007, by [section 27(3)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(5): amended, on 1 November 2007, by [section 27(3)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(5)(a): replaced, on 26 April 1999, by [section 8(1)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(5)(a): replaced, on 26 April 1999, by [section 8(1)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 292(5)(b): amended, on 26 April 1999, by [section 8(2)(a)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(5)(b): amended, on 26 April 1999, by [section 8(2)(a)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 292(5)(b): amended, on 3 June 1998, by [section 12(1)][913] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 292(5)(b): amended, on 3 June 1998, by [section 12(1)][972] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 292(5)(c): inserted, on 3 June 1998, by [section 12(1)][913] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 292(5)(c): inserted, on 3 June 1998, by [section 12(1)][972] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 292(5)(c): amended, on 26 April 1999, by [section 8(2)(b)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(5)(c): amended, on 26 April 1999, by [section 8(2)(b)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 292(6): amended, on 1 November 2007, by [section 27(4)][910] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 292(6): amended, on 1 November 2007, by [section 27(4)][969] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 292(6)(a): replaced, on 26 April 1999, by [section 8(3)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(6)(a): replaced, on 26 April 1999, by [section 8(3)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 292(6)(b): amended, on 26 April 1999, by [section 8(4)(a)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(6)(b): amended, on 26 April 1999, by [section 8(4)(a)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 292(6)(b): amended, on 3 June 1998, by [section 12(2)][913] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 292(6)(b): amended, on 3 June 1998, by [section 12(2)][972] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 292(6)(c): inserted, on 3 June 1998, by [section 12(2)][913] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 292(6)(c): inserted, on 3 June 1998, by [section 12(2)][972] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 292(6)(c): amended, on 26 April 1999, by [section 8(4)(b)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 292(6)(c): amended, on 26 April 1999, by [section 8(4)(b)][971] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 293 Voidable charges
     
@@ -11026,7 +11626,7 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 2 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
@@ -11040,47 +11640,47 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 6 months before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
-    Section 293(1): replaced, on 1 November 2007, by [section 28(1)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(1): replaced, on 1 November 2007, by [section 28(1)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(1A): inserted, on 1 November 2007, by [section 28(1)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(1A): inserted, on 1 November 2007, by [section 28(1)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(3): amended, on 1 November 2007, by [section 28(2)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(3): amended, on 1 November 2007, by [section 28(2)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(5): amended, on 1 November 2007, by [section 28(3)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(5): amended, on 1 November 2007, by [section 28(3)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(6)(a): replaced, on 26 April 1999, by [section 9(1)][915] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(6)(a): replaced, on 26 April 1999, by [section 9(1)][974] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 293(6)(a): amended, on 1 November 2007, by [section 28(4)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(6)(a): amended, on 1 November 2007, by [section 28(4)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(6)(b): amended, on 1 November 2007, by [section 28(4)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(6)(b): amended, on 1 November 2007, by [section 28(4)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(6)(b): amended, on 26 April 1999, by [section 9(2)(a)][915] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(6)(b): amended, on 26 April 1999, by [section 9(2)(a)][974] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 293(6)(b): amended, on 3 June 1998, by [section 13(1)][916] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 293(6)(b): amended, on 3 June 1998, by [section 13(1)][975] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 293(6)(c): inserted, on 3 June 1998, by [section 13(1)][916] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 293(6)(c): inserted, on 3 June 1998, by [section 13(1)][975] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 293(6)(c): amended, on 1 November 2007, by [section 28(4)][914] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 293(6)(c): amended, on 1 November 2007, by [section 28(4)][973] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 293(6)(c): amended, on 26 April 1999, by [section 9(2)(b)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(6)(c): amended, on 26 April 1999, by [section 9(2)(b)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 293(7)(a): replaced, on 26 April 1999, by [section 9(3)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(7)(a): replaced, on 26 April 1999, by [section 9(3)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 293(7)(b): amended, on 26 April 1999, by [section 9(4)(a)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(7)(b): amended, on 26 April 1999, by [section 9(4)(a)][971] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 293(7)(b): amended, on 3 June 1998, by [section 13(2)][916] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 293(7)(b): amended, on 3 June 1998, by [section 13(2)][975] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 293(7)(c): inserted, on 3 June 1998, by [section 13(2)][916] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 293(7)(c): inserted, on 3 June 1998, by [section 13(2)][975] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 293(7)(c): amended, on 26 April 1999, by [section 9(4)(b)][912] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 293(7)(c): amended, on 26 April 1999, by [section 9(4)(b)][971] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 294 Procedure for setting aside transactions and charges
     
-*   (1) A liquidator who wishes to set aside a transaction or charge that is voidable under [section 292][558] or [293][559] must---
+*   (1) A liquidator who wishes to set aside a transaction or charge that is voidable under [section 292][594] or [293][595] must---
         
     *   (a) file a notice with the court that meets the requirements set out in subsection (2); and
     
@@ -11116,11 +11716,11 @@ Liquidations
     
     (5) A transaction or charge that is not automatically set aside may still be set aside by the court on the liquidator's application.
     
-    Section 294: replaced, on 1 November 2007, by [section 29][917] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 294: replaced, on 1 November 2007, by [section 29][976] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 295 Other orders
     
-*   If a transaction or charge is set aside under [section 294][560], the court may make 1 or more of the following orders:
+*   If a transaction or charge is set aside under [section 294][596], the court may make 1 or more of the following orders:
         
     *   (a) an order that a person pay to the company an amount equal to some or all of the money that the company has paid under the transaction:
     
@@ -11144,11 +11744,11 @@ Liquidations
     
     Compare: Corporations Act 2001 s 588FF(1)(a)--(d) (Aust)
     
-    Section 295: replaced, on 1 November 2007, by [section 30][918] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 295: replaced, on 1 November 2007, by [section 30][977] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 296 Additional provisions relating to setting aside transactions and charges
     
-*   (1) The setting aside of a transaction or an order made under [section 295][561] does not affect the title or interest of a person in property which that person has acquired---
+*   (1) The setting aside of a transaction or an order made under [section 295][597] does not affect the title or interest of a person in property which that person has acquired---
         
     *   (a) from a person other than the company; and
     
@@ -11156,7 +11756,7 @@ Liquidations
     
     *   (c) without knowledge of the circumstances under which the property was acquired from the company.
     
-    (2) The setting aside of a charge or an order made under [section 295][561] does not affect the title or interest of a person in property which that person has acquired---
+    (2) The setting aside of a charge or an order made under [section 295][597] does not affect the title or interest of a person in property which that person has acquired---
         
     *   (a) as the result of the exercise of a power of sale by the grantee of the charge; and
     
@@ -11172,9 +11772,9 @@ Liquidations
     
     *   (c) A gave value for the property or altered A's position in the reasonably held belief that the transfer of the property to A was valid and would not be set aside.
     
-    (4) Nothing in the [Land Transfer Act 1952][854] restricts the operation of this section or [sections 292 to 295][558].
+    (4) Nothing in the [Land Transfer Act 1952][912] restricts the operation of this section or [sections 292 to 295][594].
     
-    Section 296(3): replaced, on 1 November 2007, by [section 31][919] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 296(3): replaced, on 1 November 2007, by [section 31][978] of the Companies Amendment Act 2006 (2006 No 56).
 
 #### Recovery in other cases
 
@@ -11200,7 +11800,7 @@ Liquidations
     
     (3) For the purposes of this section,---
         
-    *   (a) _transaction_ has the same meaning as in [section 292(3)][558]:
+    *   (a) _transaction_ has the same meaning as in [section 292(3)][594]:
     
     *   (b) _specified period_ means---
             
@@ -11212,33 +11812,33 @@ Liquidations
                 
             *   (A) an application was made to the court to put a company into liquidation; and
             
-            *   (B) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+            *   (B) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
             
             the period of 2 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
         
         
     
-    Section 297(1): replaced, on 1 November 2007, by [section 32(1)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(1): replaced, on 1 November 2007, by [section 32(1)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(2): replaced, on 1 November 2007, by [section 32(1)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(2): replaced, on 1 November 2007, by [section 32(1)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(3)(a): replaced, on 1 November 2007, by [section 32(2)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(3)(a): replaced, on 1 November 2007, by [section 32(2)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(3)(b)(i): replaced, on 26 April 1999, by [section 10(1)][921] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 297(3)(b)(i): replaced, on 26 April 1999, by [section 10(1)][980] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 297(3)(b)(i): amended, on 1 November 2007, by [section 32(3)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(3)(b)(i): amended, on 1 November 2007, by [section 32(3)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(3)(b)(ii): amended, on 1 November 2007, by [section 32(3)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(3)(b)(ii): amended, on 1 November 2007, by [section 32(3)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(3)(b)(ii): amended, on 26 April 1999, by [section 10(2)(a)][921] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 297(3)(b)(ii): amended, on 26 April 1999, by [section 10(2)(a)][980] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 297(3)(b)(ii): amended, on 3 June 1998, by [section 14][922] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 297(3)(b)(ii): amended, on 3 June 1998, by [section 14][981] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 297(3)(b)(iii): inserted, on 3 June 1998, by [section 14][922] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 297(3)(b)(iii): inserted, on 3 June 1998, by [section 14][981] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 297(3)(b)(iii): amended, on 1 November 2007, by [section 32(3)][920] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 297(3)(b)(iii): amended, on 1 November 2007, by [section 32(3)][979] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 297(3)(b)(iii): amended, on 26 April 1999, by [section 10(2)(b)][921] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 297(3)(b)(iii): amended, on 26 April 1999, by [section 10(2)(b)][980] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 298 Transactions for inadequate or excessive consideration with directors and certain other persons
     
@@ -11282,21 +11882,21 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 3 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
     Compare: 1955 No 63 s 311C; 1980 No 43 s 28
     
-    Section 298(4)(a): replaced, on 26 April 1999, by [section 11(1)][923] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 298(4)(a): replaced, on 26 April 1999, by [section 11(1)][982] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 298(4)(b): amended, on 26 April 1999, by [section 11(2)(a)][923] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 298(4)(b): amended, on 26 April 1999, by [section 11(2)(a)][982] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 298(4)(b): amended, on 3 June 1998, by [section 15][924] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 298(4)(b): amended, on 3 June 1998, by [section 15][983] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 298(4)(c): inserted, on 3 June 1998, by [section 15][925] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 298(4)(c): inserted, on 3 June 1998, by [section 15][984] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 298(4)(c): amended, on 26 April 1999, by [section 11(2)(b)][923] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 298(4)(c): amended, on 26 April 1999, by [section 11(2)(b)][982] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 299 Court may set aside certain securities and charges
     
@@ -11320,7 +11920,7 @@ Liquidations
     
     (3) The court may make such other orders as it thinks proper for the purpose of giving effect to an order under this section.
     
-    (4) Nothing in the [Land Transfer Act 1952][854] restricts the operation of this section.
+    (4) Nothing in the [Land Transfer Act 1952][912] restricts the operation of this section.
     
     (5) The provisions of [section 7][9] apply with such modifications as may be necessary to determine control of a company.
     
@@ -11334,7 +11934,7 @@ Liquidations
             
         *   (i) [section 194][256] (which relates to the keeping of accounting records); or
         
-        *   (ii) [section 10][742] of the Financial Reporting Act 1993 (which relates to the preparation of financial statements); and
+        *   (ii) [section 201][265] or [202][266] (which relates to the preparation of financial statements or group financial statements) or any other enactment that requires the company to prepare financial statements or group financial statements; and
         
         
     
@@ -11358,11 +11958,13 @@ Liquidations
     
     (4) The court may make a declaration under this section even though the person concerned is liable to be convicted of an offence.
     
-    (5) An order under this section is deemed to be a final judgment within the meaning of [section 17(1)(a)][926] of the Insolvency Act 2006\.
+    (5) An order under this section is deemed to be a final judgment within the meaning of [section 17(1)(a)][985] of the Insolvency Act 2006\.
     
     Compare: 1955 No 63 s 319; 1980 No 43 s 31
     
-    Section 300(5): amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 300(1)(a): replaced, on 1 April 2014, by [section 37][986] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 300(5): amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 301 Power of court to require persons to repay money or return property
     
@@ -11382,19 +11984,19 @@ Liquidations
     
     (2) This section has effect even though the conduct may constitute an offence.
     
-    (3) An order for payment of money under this section is deemed to be a final judgment within the meaning of [section 17(1)(a)][926] of the Insolvency Act 2006\.
+    (3) An order for payment of money under this section is deemed to be a final judgment within the meaning of [section 17(1)(a)][985] of the Insolvency Act 2006\.
     
-    (4) In making an order under subsection (1) against a past or present director, the court must, where relevant, take into account any action that person took for the appointment of an administrator to the company under [Part 15A][315].
+    (4) In making an order under subsection (1) against a past or present director, the court must, where relevant, take into account any action that person took for the appointment of an administrator to the company under [Part 15A][351].
     
     Compare: 1955 No 63 s 321; 1980 No 43 s 33
     
-    Section 301(1): amended, on 1 November 2007, by [section 14(1)][927] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 301(1): amended, on 1 November 2007, by [section 14(1)][987] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 301(1)(a): amended, on 1 November 2007, by [section 14(1)][927] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 301(1)(a): amended, on 1 November 2007, by [section 14(1)][987] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 301(3): amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 301(3): amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 301(4): inserted, on 1 November 2007, by [section 14(2)][927] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 301(4): inserted, on 1 November 2007, by [section 14(2)][987] of the Companies Amendment Act 2006 (2006 No 56).
 
 #### Creditors' claims
 
@@ -11410,15 +12012,15 @@ Liquidations
     
     and all persons who in any such case would be entitled to make claims and receive payment in whole or in part are so entitled in the liquidation.
     
-    (2) In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under [section 304][572] and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 2006\.
+    (2) In applying in a liquidation the rules in force under the law of bankruptcy, a claim made under [section 304][608] and admitted by a liquidator is to be treated as if it were a debt proved in accordance with the requirements of the Insolvency Act 2006\.
     
-    Section 302(2): amended, on 3 December 2007, by [section 445][782] of the Insolvency Act 2006 (2006 No 55).
+    Section 302(2): amended, on 3 December 2007, by [section 445][821] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 303 Admissible claims
     
 *   (1) Subject to subsection (2), a debt or liability, present or future, certain or contingent, whether it is an ascertained debt or a liability for damages, may be admitted as a claim against a company in liquidation.
     
-    (2) Fines, monetary penalties, and costs to which [section 308][576] applies are not claims that may be admitted against a company in liquidation.
+    (2) Fines, monetary penalties, and costs to which [section 308][612] applies are not claims that may be admitted against a company in liquidation.
     
     Section 303: replaced, on 1 July 1994, by section 34 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -11444,7 +12046,7 @@ Liquidations
     
     *   (b) omits, or authorises the omission, from a claim under this section of any matter knowing that the omission makes the claim false or misleading in a material particular---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
 
 ##### 305 Rights and duties of secured creditors
     
@@ -11516,7 +12118,7 @@ Liquidations
     
     *   (b) omits, or authorises the omission, from a claim under that subsection of any matter knowing that the omission makes the claim false or misleading in a material particular---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     Section 305(4): replaced, on 1 July 1994, by section 35 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -11526,7 +12128,7 @@ Liquidations
     
     (2) The amount of a claim based on a debt or liability denominated in a currency other than New Zealand currency must be converted into New Zealand currency at the rate of exchange on the date of commencement of the liquidation, or, if there is more than 1 rate of exchange on that date, at the average of those rates.
     
-    Section 306(1): amended, on 26 April 1999, by [section 12][928] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 306(1): amended, on 26 April 1999, by [section 12][988] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 307 Claim not of an ascertained amount
     
@@ -11554,9 +12156,9 @@ Liquidations
     
 *   (1) A claim in respect of a debt that, but for the liquidation, would not be payable until a date that is 6 months, or later than 6 months, after the date of commencement of the liquidation is to be treated, for the purposes of this Part, as a claim for the present value of the debt.
     
-    (2) For the purposes of subsection (1), the present value of a debt is to be determined by deducting from the amount of the debt interest at the prescribed rate (within the meaning of [section 87(3)][790] of the Judicature Act 1908) for the period from the date on which the company is put into liquidation to the date when the debt is due.
+    (2) For the purposes of subsection (1), the present value of a debt is to be determined by deducting from the amount of the debt interest at the prescribed rate (within the meaning of [section 87(3)][829] of the Judicature Act 1908) for the period from the date on which the company is put into liquidation to the date when the debt is due.
     
-    Section 309(1): amended, on 26 April 1999, by [section 13][929] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 309(1): amended, on 26 April 1999, by [section 13][989] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310 Mutual credit and set-off
     
@@ -11602,7 +12204,7 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         
     
@@ -11618,29 +12220,29 @@ Liquidations
             
         *   (i) an application was made to the court to put a company into liquidation; and
         
-        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][495],---
+        *   (ii) after the making of the application to the court a liquidator was appointed under paragraph (a) or paragraph (b) of [section 241(2)][531],---
         
         the period of 2 years before the making of the application to the court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     
-    Section 310(6)(a): replaced, on 26 April 1999, by [section 14(1)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(6)(a): replaced, on 26 April 1999, by [section 14(1)][990] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310(6)(b): amended, on 26 April 1999, by [section 14(2)(a)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(6)(b): amended, on 26 April 1999, by [section 14(2)(a)][990] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310(6)(b): amended, on 3 June 1998, by [section 16(1)][931] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 310(6)(b): amended, on 3 June 1998, by [section 16(1)][991] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 310(6)(c): inserted, on 3 June 1998, by [section 16(1)][931] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 310(6)(c): inserted, on 3 June 1998, by [section 16(1)][991] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 310(6)(c): amended, on 26 April 1999, by [section 14(2)(b)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(6)(c): amended, on 26 April 1999, by [section 14(2)(b)][990] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310(7)(a): replaced, on 26 April 1999, by [section 14(3)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(7)(a): replaced, on 26 April 1999, by [section 14(3)][990] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310(7)(b): amended, on 26 April 1999, by [section 14(4)(a)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(7)(b): amended, on 26 April 1999, by [section 14(4)(a)][990] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310(7)(b): amended, on 3 June 1998, by [section 16(2)][931] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 310(7)(b): amended, on 3 June 1998, by [section 16(2)][991] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 310(7)(c): inserted, on 3 June 1998, by [section 16(2)][931] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 310(7)(c): inserted, on 3 June 1998, by [section 16(2)][991] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 310(7)(c): amended, on 26 April 1999, by [section 14(4)(b)][930] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310(7)(c): amended, on 26 April 1999, by [section 14(4)(b)][990] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310A Definitions relating to set-off under netting agreement
     
@@ -11676,21 +12278,21 @@ Liquidations
     
     _netting agreement_ means a bilateral netting agreement or a recognised multilateral netting agreement
     
-    _recognised clearing house_ means a clearing house declared under [section 310K][589] to be a recognised clearing house
+    _recognised clearing house_ means a clearing house declared under [section 310K][625] to be a recognised clearing house
     
     _recognised multilateral netting agreement_ means a multilateral netting agreement that is contained in, or is subject to, the rules of a recognised clearing house.
     
-    Section 310A: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310A: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310B Application of set-off under netting agreement
     
-*   (1) Despite anything in [section 313][596], [sections 310A to 310O][579] apply---
+*   (1) Despite anything in [section 313][632], [sections 310A to 310O][615] apply---
         
     *   (a) to a netting agreement---
             
         *   (i) made in or evidenced by writing; and
         
-        *   (ii) in which the application of [sections 310A to 310O][579] has not been expressly excluded; and
+        *   (ii) in which the application of [sections 310A to 310O][615] has not been expressly excluded; and
         
         *   (iii) whether made before or after the commencement of this section; and
         
@@ -11698,19 +12300,19 @@ Liquidations
     
     *   (b) to all obligations under a netting agreement (whether those obligations are payable in New Zealand currency or in some other currency).
     
-    (2) [Sections 310A to 310O][579] apply despite---
+    (2) [Sections 310A to 310O][615] apply despite---
         
     *   (a) any disposal of rights under a transaction that is subject to a netting agreement in contravention of a prohibition in the netting agreement; or
     
     *   (b) the creation of a charge or other interest in respect of the rights referred to in paragraph (a) in contravention of a prohibition in the netting agreement.
     
-    (3) Nothing in [sections 310A to 310O][579] applies to an amount paid or payable by a shareholder---
+    (3) Nothing in [sections 310A to 310O][615] applies to an amount paid or payable by a shareholder---
         
     *   (a) as the consideration, or part of the consideration, for the issue of a share; or
     
     *   (b) in satisfaction of a call in respect of an outstanding liability of the shareholder made by the board of directors or by the liquidator.
     
-    Section 310B: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310B: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310C Calculation of netted balance
     
@@ -11720,19 +12322,19 @@ Liquidations
     
     *   (b) that netted balance constitutes the amount that may be claimed in the liquidation or is payable to the company, as the case may be, in respect of the transactions that are included in the calculation.
     
-    Section 310C: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310C: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310D Mutuality required for transactions under bilateral netting agreements
     
-*   [Sections 310A to 310O][579] apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+*   [Sections 310A to 310O][615] apply to transactions that are subject to a bilateral netting agreement only if those transactions constitute mutual credits, mutual debts, or other mutual dealings.
     
-    Section 310D: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310D: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310E When mutuality required for transactions under recognised multilateral netting agreements
     
-*   (1) [Sections 310A to 310O][579] apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
+*   (1) [Sections 310A to 310O][615] apply to transactions that are subject to a recognised multilateral netting agreement, whether or not those transactions constitute mutual credits, mutual debts, or other mutual dealings.
     
-    (2) Despite subsection (1), [sections 310A to 310O][579] do not apply to transactions that are subject to a recognised multilateral netting agreement if---
+    (2) Despite subsection (1), [sections 310A to 310O][615] do not apply to transactions that are subject to a recognised multilateral netting agreement if---
         
     *   (a) those transactions do not constitute mutual credits, mutual debts, or other mutual dealings; and
     
@@ -11740,43 +12342,43 @@ Liquidations
     
     *   (c) the party acting as trustee is not authorised by the terms of the trust of which the party is a trustee to enter into the transaction.
     
-    Section 310E: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310E: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310F Application of set-off under section 310 to transactions subject to netting agreements
     
-*   (1) [Section 310][578] does not apply to transactions that are subject to a netting agreement to which [sections 310A to 310O][579] apply.
+*   (1) [Section 310][614] does not apply to transactions that are subject to a netting agreement to which [sections 310A to 310O][615] apply.
     
-    (2) However, a netted balance is to be treated as an amount to which [section 310(1)][578] applies if the company that is in liquidation and the other party to the netting agreement also have mutual credits, mutual debts, or other mutual dealings between them that are not subject to the netting agreement.
+    (2) However, a netted balance is to be treated as an amount to which [section 310(1)][614] applies if the company that is in liquidation and the other party to the netting agreement also have mutual credits, mutual debts, or other mutual dealings between them that are not subject to the netting agreement.
     
-    Section 310F: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310F: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310G Transactions under netting agreement and effect on certain sections
     
-*   (1) Nothing in [sections 310A to 310O][579] prevents the operation of [section 56][70] or [section 292][558] or [section 297][564] or [section 298][565] in respect of a transaction that is subject to a netting agreement.
+*   (1) Nothing in [sections 310A to 310O][615] prevents the operation of [section 56][70] or [section 292][594] or [section 297][600] or [section 298][601] in respect of a transaction that is subject to a netting agreement.
     
-    (2) However, nothing in [section 292(4A)][558] applies to a transaction that is subject to a netting agreement.
+    (2) However, nothing in [section 292(4A)][594] applies to a transaction that is subject to a netting agreement.
     
-    (3) For the purposes of [sections 292][558] and [297][564], the term _transaction_, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
+    (3) For the purposes of [sections 292][594] and [297][600], the term _transaction_, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
     
-    Section 310G: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310G: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 310G(2): amended, on 7 July 2010, by [section 6][932] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
+    Section 310G(2): amended, on 7 July 2010, by [section 6][992] of the Companies Amendment Act (No 2) 2010 (2010 No 53).
 
 ##### 310H Rights under netting agreement not affected by commencement of liquidation
     
-*   Nothing in [section 248(1)][505] affects, in respect of a company in liquidation, the exercise of any of the following rights under a netting agreement:
+*   Nothing in [section 248(1)][541] affects, in respect of a company in liquidation, the exercise of any of the following rights under a netting agreement:
         
     *   (a) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a liquidator) occurring not later than the commencement of the liquidation; or
     
     *   (b) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination.
     
-    Section 310H: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310H: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310I Set-off under netting agreement not affected by notice under section 294
     
-*   The filing of a notice under [section 294][560] in respect of any transaction that is subject to a netting agreement does not affect the operation of [section 310C][581] in respect of the transaction, and that section continues to apply to the transaction until the transaction is set aside under subsection (3) or subsection (4) of section 294\.
+*   The filing of a notice under [section 294][596] in respect of any transaction that is subject to a netting agreement does not affect the operation of [section 310C][617] in respect of the transaction, and that section continues to apply to the transaction until the transaction is set aside under subsection (3) or subsection (4) of section 294\.
     
-    Section 310I: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310I: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310J Court may set aside bilateral netting agreement between company and related person
     
@@ -11802,23 +12404,23 @@ Liquidations
     
     *   (d) a related company
     
-    _restricted period_ has the same meaning as in [section 310(7)][578].
+    _restricted period_ has the same meaning as in [section 310(7)][614].
     
-    Section 310J: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310J: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310K Certain persons may be declared to be recognised clearing houses
     
-*   (1) The Bank may, by notice in the _Gazette_, declare any person that provides or proposes to provide clearing or settlement services to be a recognised clearing house for the purposes of [sections 310A to 310O][579].
+*   (1) The Bank may, by notice in the _Gazette_, declare any person that provides or proposes to provide clearing or settlement services to be a recognised clearing house for the purposes of [sections 310A to 310O][615].
     
     (2) The Bank may, by notice in the _Gazette_, vary or revoke any declaration made under subsection (1).
     
-    Section 310K: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310K: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310L Matters that Bank must or may have regard to when making, varying, or revoking declaration under section 310K
     
-*   (1) In determining whether a declaration should be made, varied, or revoked under [section 310K][589], the Bank must have regard to the extent to which the application of [sections 310A to 310O][579] to any multilateral netting agreement that is subject to the rules of that clearing house would assist in promoting the soundness or efficiency of the financial system.
+*   (1) In determining whether a declaration should be made, varied, or revoked under [section 310K][625], the Bank must have regard to the extent to which the application of [sections 310A to 310O][615] to any multilateral netting agreement that is subject to the rules of that clearing house would assist in promoting the soundness or efficiency of the financial system.
     
-    (2) In determining whether a declaration should be made, varied, or revoked under [section 310K][589], the Bank may have regard to any of the following matters:
+    (2) In determining whether a declaration should be made, varied, or revoked under [section 310K][625], the Bank may have regard to any of the following matters:
         
     *   (a) the type of transactions that may be effected through the clearing house; and
     
@@ -11826,19 +12428,19 @@ Liquidations
     
     *   (c) any other matters that the Bank may, in any particular case, consider appropriate.
     
-    Section 310L: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310L: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310M Bank may impose conditions in declaration under section 310K
     
-*   (1) The Bank may, in any declaration made or varied under [section 310K][589], impose conditions relating to any of the matters referred to in [section 310L][590].
+*   (1) The Bank may, in any declaration made or varied under [section 310K][625], impose conditions relating to any of the matters referred to in [section 310L][626].
     
-    (2) If a recognised clearing house fails to comply with any conditions referred to in subsection (1), the Bank may revoke the declaration made under [section 310K][589] that relates to the clearing house.
+    (2) If a recognised clearing house fails to comply with any conditions referred to in subsection (1), the Bank may revoke the declaration made under [section 310K][625] that relates to the clearing house.
     
-    Section 310M: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310M: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310N Bank to notify recognised clearing house about Bank's intention to revoke or vary declaration under section 310K
     
-*   The Bank must not revoke or vary a declaration made under [section 310K][589] unless---
+*   The Bank must not revoke or vary a declaration made under [section 310K][625] unless---
         
     *   (a) the recognised clearing house to which the notice applies has been given not less than 7 days' notice in writing of the Bank's intention to do so; and
     
@@ -11846,17 +12448,17 @@ Liquidations
     
     *   (c) the Bank considers those submissions.
     
-    Section 310N: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310N: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 310O Transactions under recognised multilateral netting agreement not affected by variation or revocation of declaration under section 310K
     
-*   The variation or revocation of a declaration under [section 310K][589] does not affect the application of [sections 310A to 310O][579] to any transaction---
+*   The variation or revocation of a declaration under [section 310K][625] does not affect the application of [sections 310A to 310O][615] to any transaction---
         
     *   (a) that is or was subject to a recognised multilateral netting agreement; and
     
     *   (b) that was entered into before the variation or revocation of the declaration.
     
-    Section 310O: inserted, on 26 April 1999, by [section 15][924] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 310O: inserted, on 26 April 1999, by [section 15][983] of the Companies Amendment Act 1999 (1999 No 19).
 
 ##### 311 Interest on claims
     
@@ -11870,31 +12472,31 @@ Liquidations
     
     (3) If any surplus assets remain after the payment of interest in accordance with subsection (2), interest shall be paid on all admitted claims referred to in subsection (1) from the date of commencement of the liquidation to the date on which the claim is paid at a rate equal to the excess between the prescribed rate and the rate referred to in paragraph (a) or paragraph (b) of that subsection, as the case may be, and, if the amount of the surplus assets is insufficient to pay interest in full on all claims, payment shall abate rateably among all claims.
     
-    (4) For the purposes of this section, _prescribed rate_ means the prescribed rate within the meaning of [section 87(3)][790] of the Judicature Act 1908\.
+    (4) For the purposes of this section, _prescribed rate_ means the prescribed rate within the meaning of [section 87(3)][829] of the Judicature Act 1908\.
     
-    Section 311(1): amended, on 26 April 1999, by [section 16][933] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 311(1): amended, on 26 April 1999, by [section 16][993] of the Companies Amendment Act 1999 (1999 No 19).
     
-    Section 311(3): amended, on 26 April 1999, by [section 16][933] of the Companies Amendment Act 1999 (1999 No 19).
+    Section 311(3): amended, on 26 April 1999, by [section 16][993] of the Companies Amendment Act 1999 (1999 No 19).
     
     Section 311(3): amended, on 1 July 1994, by section 36 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 ##### 312 Preferential claims
     
-*   (1) The liquidator must pay out of the assets of the company the expenses, fees, and claims set out in [Schedule 7][717] to the extent and in the order of priority specified in that schedule and that schedule applies to the payment of those expenses, fees, and claims according to its tenor.
+*   (1) The liquidator must pay out of the assets of the company the expenses, fees, and claims set out in [Schedule 7][754] to the extent and in the order of priority specified in that schedule and that schedule applies to the payment of those expenses, fees, and claims according to its tenor.
     
-    (2) Without limiting [clause 2(1)(b)][717] of Schedule 7, the term _assets_ in subsection (1) does not include assets subject to a charge unless the charge is surrendered or taken to be surrendered or redeemed under [section 305][573].
+    (2) Without limiting [clause 2(1)(b)][754] of Schedule 7, the term _assets_ in subsection (1) does not include assets subject to a charge unless the charge is surrendered or taken to be surrendered or redeemed under [section 305][609].
     
-    Section 312(2): amended, on 1 November 2007, by [section 38][934] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 312(2): amended, on 1 November 2007, by [section 38][994] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 313 Claims of other creditors and distribution of surplus assets
     
-*   (1) After paying preferential claims in accordance with [section 312][595], the liquidator must apply the assets of the company in satisfaction of all other claims.
+*   (1) After paying preferential claims in accordance with [section 312][631], the liquidator must apply the assets of the company in satisfaction of all other claims.
     
     (2) The claims referred to in subsection (1) rank equally among themselves and must be paid in full, unless the assets are insufficient to meet them, in which case payment shall abate rateably among all claims.
     
     (3) Where, before the commencement of a liquidation, a creditor agrees to accept a lower priority in respect of a debt than that which it would otherwise have under this section, nothing in this section prevents the agreement from having effect according to its terms.
     
-    (4) Subject to [section 311][594], after paying the claims referred to in subsection (1), the liquidator must distribute the company's surplus assets---
+    (4) Subject to [section 311][630], after paying the claims referred to in subsection (1), the liquidator must distribute the company's surplus assets---
         
     *   (a) in accordance with the provisions contained in the company's constitution; or
     
@@ -11922,7 +12524,7 @@ Liquidations
     
     (3) The decision of a liquidator to decline the request may be reviewed by the court on the application of any creditor or shareholder, as the case may be.
     
-    (4) Subject to subsections (2) and (3), a liquidator who receives a request to call a meeting of creditors or of shareholders must forthwith call such a meeting in accordance with [Schedule 1][711] or, if applicable, [Schedule 5][715] as the case may be.
+    (4) Subject to subsections (2) and (3), a liquidator who receives a request to call a meeting of creditors or of shareholders must forthwith call such a meeting in accordance with [Schedule 1][748] or, if applicable, [Schedule 5][752] as the case may be.
     
     (5) The members of a liquidation committee chosen by a meeting of creditors or of shareholders take office forthwith, but if there is a difference between the decisions of meetings of creditors and meetings of shareholders on---
         
@@ -11952,15 +12554,15 @@ Liquidations
     
     *   (b) call a meeting of creditors or of shareholders:
     
-    *   (c) apply to the court under [section 284][548] and [section 286][550]:
+    *   (c) apply to the court under [section 284][584] and [section 286][586]:
     
     *   (d) assist the liquidator as appropriate in the conduct of the liquidation.
     
-    (3) The provisions set out in [Schedule 8][718] govern proceedings at meetings of liquidation committees.
+    (3) The provisions set out in [Schedule 8][755] govern proceedings at meetings of liquidation committees.
     
-    (4) A meeting of creditors called under subsection (2)(b) shall be held in accordance with [Schedule 5][715].
+    (4) A meeting of creditors called under subsection (2)(b) shall be held in accordance with [Schedule 5][752].
     
-    (5) Where, by reason of vacancies in a liquidation committee, the committee is unable to act, the liquidator must call attention to the situation in the next 6-monthly report required to be prepared and sent under [section 255(2)(d)][514].
+    (5) Where, by reason of vacancies in a liquidation committee, the committee is unable to act, the liquidator must call attention to the situation in the next 6-monthly report required to be prepared and sent under [section 255(2)(d)][550].
 
 #### Liquidation Surplus Account
 
@@ -11970,7 +12572,7 @@ Liquidations
     
     (2) At the expiration of a period of 12 months after the date on which the money is paid, Public Trust must, after deduction of any amount required to meet the claim of any person which is established within that period, pay the balance into an account entitled the ""Liquidation Surplus Account"" for distribution in accordance with this section.
     
-    (3) Money held in the Liquidation Surplus Account may be invested in accordance with the provisions of the [Trustee Act 1956][935] as to the investment of trust funds. Interest on any investment must be distributed in accordance with this section.
+    (3) Money held in the Liquidation Surplus Account may be invested in accordance with the provisions of the [Trustee Act 1956][995] as to the investment of trust funds. Interest on any investment must be distributed in accordance with this section.
     
     (4) Money held in the Liquidation Surplus Account may be---
         
@@ -11982,39 +12584,39 @@ Liquidations
     
     (6) In making a payment under this section, Public Trust is not required to ascertain that money or sufficient money was received on account of any company to which the claim for payment relates.
     
-    (7) Nothing in the [Unclaimed Money Act 1971][936] applies in relation to money to which this section applies.
+    (7) Nothing in the [Unclaimed Money Act 1971][996] applies in relation to money to which this section applies.
     
     Compare: 1955 No 63 s 330A; 1989 No 101 s 12
     
-    Section 316(1): amended, on 1 March 2002, by [section 170(1)][937] of the Public Trust Act 2001 (2001 No 100).
+    Section 316(1): amended, on 1 March 2002, by [section 170(1)][997] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 316(1): amended, on 3 June 1998, by [section 17][938] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 316(1): amended, on 3 June 1998, by [section 17][998] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 316(2): amended, on 1 March 2002, by [section 170(1)][937] of the Public Trust Act 2001 (2001 No 100).
+    Section 316(2): amended, on 1 March 2002, by [section 170(1)][997] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 316(5): amended, on 1 March 2002, by [section 170(1)][937] of the Public Trust Act 2001 (2001 No 100).
+    Section 316(5): amended, on 1 March 2002, by [section 170(1)][997] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 316(6): amended, on 1 March 2002, by [section 170(1)][937] of the Public Trust Act 2001 (2001 No 100).
+    Section 316(6): amended, on 1 March 2002, by [section 170(1)][997] of the Public Trust Act 2001 (2001 No 100).
 
 #### Transitional provisions
     
-*   Heading: replaced, on 30 June 1997, by [section 17][939] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+*   Heading: replaced, on 30 June 1997, by [section 17][999] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 316A Transitional provision in relation to voidable transactions
     
 *   \[Repealed\]
     
-    Section 316A: repealed, on 5 December 2013, by [section 9][940] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 316A: repealed, on 5 December 2013, by [section 9][1000] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 316B Transitional provision in relation to Liquidation Surplus Account under section 290 of Companies Act 1955
     
-*   On the repeal of the Companies Act 1955 by [section 2][941] of the Companies Act Repeal Act 1993,---
+*   On the repeal of the Companies Act 1955 by [section 2][1001] of the Companies Act Repeal Act 1993,---
         
-    *   (a) all money standing to the credit of the Liquidation Surplus Account established under section 290 of the Companies Act 1955 and representing unclaimed assets of an existing company is deemed to be money held in the Liquidation Surplus Account established under [section 316][601], and that section applies as if the money represented unclaimed assets of a company registered under this Act; and
+    *   (a) all money standing to the credit of the Liquidation Surplus Account established under section 290 of the Companies Act 1955 and representing unclaimed assets of an existing company is deemed to be money held in the Liquidation Surplus Account established under [section 316][637], and that section applies as if the money represented unclaimed assets of a company registered under this Act; and
     
-    *   (b) [section 316][601] applies to all money to which section 290 of the Companies Act 1955 would have applied if the Companies Act 1955 had been in force, and section 316 applies as if the money represented unclaimed assets of a company registered under this Act.
+    *   (b) [section 316][637] applies to all money to which section 290 of the Companies Act 1955 would have applied if the Companies Act 1955 had been in force, and section 316 applies as if the money represented unclaimed assets of a company registered under this Act.
     
-    Section 316B: inserted, on 30 June 1997, by [section 18][942] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 316B: inserted, on 30 June 1997, by [section 18][1002] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ## Part 17  
 Removal from the New Zealand register
@@ -12027,7 +12629,7 @@ Removal from the New Zealand register
     
 *   (1) Subject to this section, the Registrar must remove a company from the New Zealand register if---
         
-    *   (a) the company is an amalgamating company, other than an amalgamated company, on the day on which the Registrar issues a certificate of amalgamation under [section 224][296]; or
+    *   (a) the company is an amalgamating company, other than an amalgamated company, on the day on which the Registrar issues a certificate of amalgamation under [section 224][332]; or
     
     *   (b) the Registrar is satisfied that---
             
@@ -12041,7 +12643,7 @@ Removal from the New Zealand register
             
         *   (i) no liquidator is acting; or
         
-        *   (ii) the documents referred to in [section 257(1)(a)][516] have not been sent or delivered to the Registrar within 6 months after the liquidation of the company is completed; or
+        *   (ii) the documents referred to in [section 257(1)(a)][552] have not been sent or delivered to the Registrar within 6 months after the liquidation of the company is completed; or
         
         
     
@@ -12055,9 +12657,9 @@ Removal from the New Zealand register
     
     *   (e) a liquidator sends or delivers to the Registrar---
             
-        *   (i) the documents referred to in [section 257(1)(a)][516]; and
+        *   (i) the documents referred to in [section 257(1)(a)][552]; and
         
-        *   (ii) a copy of the notice referred to in [section 320(4)][609]; or
+        *   (ii) a copy of the notice referred to in [section 320(4)][645]; or
         
         
     
@@ -12067,59 +12669,59 @@ Removal from the New Zealand register
         
     *   (a) that the company has ceased to carry on business, has discharged in full its liabilities to all its known creditors, and has distributed its surplus assets in accordance with its constitution and this Act; or
     
-    *   (b) that the company has no surplus assets after paying its debts in full or in part, and no creditor has applied to the court under [section 241][495] for an order putting the company into liquidation.
+    *   (b) that the company has no surplus assets after paying its debts in full or in part, and no creditor has applied to the court under [section 241][531] for an order putting the company into liquidation.
     
     (3) A request that a company be removed from the New Zealand register under subsection (1)(d) must be accompanied by a written notice from the Commissioner of Inland Revenue stating that the Commissioner has no objection to the company being removed from the New Zealand register.
     
     (3A) The Registrar must remove a company from the New Zealand register under subsection (1)(f) if---
         
-    *   (a) the Registrar has complied with [section 319][608]; and
+    *   (a) the Registrar has complied with [section 319][644]; and
     
-    *   (b) the fee prescribed by regulations for the application for registration of the company under [section 12][17] has not been paid in full to the Registrar within 20 working days after the date of the notice given under [section 319][608].
+    *   (b) the fee prescribed by regulations for the application for registration of the company under [section 12][17] has not been paid in full to the Registrar within 20 working days after the date of the notice given under [section 319][644].
     
     (4) The Registrar must remove a company from the New Zealand register under subsection (1)(b) only if---
         
-    *   (a) the Registrar has complied with [section 319][608]; and
+    *   (a) the Registrar has complied with [section 319][644]; and
     
     *   (b) the company has not satisfied the Registrar that it is carrying on business or that reason exists for the company to continue in existence; and
     
     *   (c) the Registrar---
             
-        *   (i) is satisfied that no person has objected to the removal under [section 321][610]; or
+        *   (i) is satisfied that no person has objected to the removal under [section 321][646]; or
         
-        *   (ii) if an objection to the removal has been received, has complied with [section 322][611].
+        *   (ii) if an objection to the removal has been received, has complied with [section 322][647].
         
         
     
     (5) The Registrar must remove a company from the New Zealand register under paragraphs (c), (d), or (e) of subsection (1) only if---
         
-    *   (a) the Registrar is satisfied that notice has been given in accordance with [section 320][609]; and
+    *   (a) the Registrar is satisfied that notice has been given in accordance with [section 320][645]; and
     
     *   (b) the Registrar---
             
-        *   (i) is satisfied that no person has objected to the removal under [section 321][610]; or
+        *   (i) is satisfied that no person has objected to the removal under [section 321][646]; or
         
-        *   (ii) if an objection to the removal has been received, has complied with [section 322][611].
+        *   (ii) if an objection to the removal has been received, has complied with [section 322][647].
         
         
     
     Section 318(1)(d)(i): replaced, on 1 July 1994, by section 39 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 318(1)(e): replaced, on 3 June 1998, by [section 18][943] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 318(1)(e): replaced, on 3 June 1998, by [section 18][1003] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 318(1)(e)(ii): amended, on 15 April 2004, by [section 15(1)][944] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 318(1)(e)(ii): amended, on 15 April 2004, by [section 15(1)][1004] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 318(1)(f): inserted, on 15 April 2004, by [section 15(1)][944] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 318(1)(f): inserted, on 15 April 2004, by [section 15(1)][1004] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 318(3A): inserted, on 15 April 2004, by [section 15(2)][944] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 318(3A): inserted, on 15 April 2004, by [section 15(2)][1004] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 319 Notice of intention to remove where company has ceased to carry on business or application fee not paid
     
-*   (1) Before a company can be removed from the New Zealand register under [section 318(1)(b) or (f)][607], the Registrar must---
+*   (1) Before a company can be removed from the New Zealand register under [section 318(1)(b) or (f)][643], the Registrar must---
         
     *   (a) give notice to the company in accordance with subsection (2); and
     
-    *   (b) give notice of the matters set out in subsection (3) to any person who is entitled to a security interest in respect of which a financing statement has been registered under the [Personal Property Securities Act 1999][945]; and
+    *   (b) give notice of the matters set out in subsection (3) to any person who is entitled to a security interest in respect of which a financing statement has been registered under the [Personal Property Securities Act 1999][1005]; and
     
     *   (c) give public notice of the matters set out in subsection (3).
     
@@ -12127,13 +12729,13 @@ Removal from the New Zealand register
         
     *   (a) state the section under, and the grounds on which, it is intended to remove the company from the New Zealand register; and
     
-    *   (ab) if [section 318(1)(f)][607] applies, state that, unless the fee prescribed by regulations for the application for registration of the company under [section 12][17] is paid in full to the Registrar within 20 working days after the date of the notice, the company will be removed from the New Zealand register; and
+    *   (ab) if [section 318(1)(f)][643] applies, state that, unless the fee prescribed by regulations for the application for registration of the company under [section 12][17] is paid in full to the Registrar within 20 working days after the date of the notice, the company will be removed from the New Zealand register; and
     
-    *   (b) if [section 318(1)(b)][607] applies, state that, unless---
+    *   (b) if [section 318(1)(b)][643] applies, state that, unless---
             
         *   (i) by the date specified in the notice, which shall not be less than 20 working days after the date of the notice, the company satisfies the Registrar by notice in writing that it is still carrying on business or there is other reason for it to continue in existence; or
         
-        *   (ii) the Registrar does not, in accordance with [section 322][611], proceed to remove the company from the register,---
+        *   (ii) the Registrar does not, in accordance with [section 322][647], proceed to remove the company from the register,---
         
         the company will be removed from the New Zealand register.
     
@@ -12143,33 +12745,33 @@ Removal from the New Zealand register
     
     *   (b) the section under, and the grounds on which, it is intended to remove the company from the New Zealand register; and
     
-    *   (c) if [section 318(1)(b)][607] applies, the date by which an objection to the removal under [section 321][610] must be delivered to the Registrar, which shall not be less than 20 working days after the date of the notice.
+    *   (c) if [section 318(1)(b)][643] applies, the date by which an objection to the removal under [section 321][646] must be delivered to the Registrar, which shall not be less than 20 working days after the date of the notice.
     
-    Section 319 heading: amended, on 15 April 2004, by [section 16(1)][946] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 319 heading: amended, on 15 April 2004, by [section 16(1)][1006] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 319(1): amended, on 15 April 2004, by [section 16(2)][946] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 319(1): amended, on 15 April 2004, by [section 16(2)][1006] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 319(1)(b): replaced, on 1 May 2002, by [section 191(1)][947] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 319(1)(b): replaced, on 1 May 2002, by [section 191(1)][1007] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 319(2)(ab): inserted, on 15 April 2004, by [section 16(3)][946] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 319(2)(ab): inserted, on 15 April 2004, by [section 16(3)][1006] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 319(2)(b): amended, on 15 April 2004, by [section 16(4)][946] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 319(2)(b): amended, on 15 April 2004, by [section 16(4)][1006] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 319(3)(a): amended, on 30 June 1997, by [section 19][948] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 319(3)(a): amended, on 30 June 1997, by [section 19][1008] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Section 319(3)(c): amended, on 15 April 2004, by [section 16(5)][946] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 319(3)(c): amended, on 15 April 2004, by [section 16(5)][1006] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 320 Notice of intention to remove in other cases
     
-*   (1) If a company is to be removed from the register under [section 318(1)(c) or (d)][607], the Registrar must give public notice of the matters set out in subsection (4).
+*   (1) If a company is to be removed from the register under [section 318(1)(c) or (d)][643], the Registrar must give public notice of the matters set out in subsection (4).
     
-    (2) If a company is to be removed from the register under [section 318(1)(e)][607], the liquidator must give public notice of the matters set out in subsection (4).
+    (2) If a company is to be removed from the register under [section 318(1)(e)][643], the liquidator must give public notice of the matters set out in subsection (4).
     
-    (3) If a company is to be removed from the register under [section 318(1)(c)][607], the Registrar, or, if it is to be removed from the register under section 318(1)(d), the applicant, as the case may be, must also give notice of the matters set out in subsection (4) to---
+    (3) If a company is to be removed from the register under [section 318(1)(c)][643], the Registrar, or, if it is to be removed from the register under section 318(1)(d), the applicant, as the case may be, must also give notice of the matters set out in subsection (4) to---
         
     *   (a) the company; and
     
-    *   (b) a person who is entitled to a security interest in respect of which a financing statement has been registered under the [Personal Property Securities Act 1999][945].
+    *   (b) a person who is entitled to a security interest in respect of which a financing statement has been registered under the [Personal Property Securities Act 1999][1005].
     
     (4) The notice to be given under this section must specify---
         
@@ -12177,15 +12779,15 @@ Removal from the New Zealand register
     
     *   (b) the section under, and the grounds on which, it is intended to remove the company from the New Zealand register; and
     
-    *   (c) the date by which an objection to the removal under [section 321][610] must be delivered to the Registrar, which shall be not less than 20 working days after the date of the notice.
+    *   (c) the date by which an objection to the removal under [section 321][646] must be delivered to the Registrar, which shall be not less than 20 working days after the date of the notice.
     
-    Section 320(1): amended, on 15 April 2004, by [section 17(1)][949] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 320(1): amended, on 15 April 2004, by [section 17(1)][1009] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 320(2): replaced, on 15 April 2004, by [section 17(2)][949] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 320(2): replaced, on 15 April 2004, by [section 17(2)][1009] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Section 320(3)(b): replaced, on 1 May 2002, by [section 191(1)][947] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 320(3)(b): replaced, on 1 May 2002, by [section 191(1)][1007] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 320(4)(a): amended, on 30 June 1997, by [section 20][950] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 320(4)(a): amended, on 30 June 1997, by [section 20][1010] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 321 Objection to removal from register
     
@@ -12209,7 +12811,7 @@ Removal from the New Zealand register
             
         *   (i) the claim has been paid in full; or
         
-        *   (ii) the claim has been paid in part under a compromise entered into under [Part 14][300] or by being otherwise compounded to the reasonable satisfaction of the creditor; or
+        *   (ii) the claim has been paid in part under a compromise entered into under [Part 14][336] or by being otherwise compounded to the reasonable satisfaction of the creditor; or
         
         *   (iii) the claim has been paid in full or in part by a receiver or a liquidator in the course of a completed receivership or liquidation; or
         
@@ -12225,13 +12827,13 @@ Removal from the New Zealand register
         
         
     
-    (3) An objection to the removal of a company from the New Zealand register cannot be made under this section if the ground for removal is that specified in [section 318(1)(f)][607].
+    (3) An objection to the removal of a company from the New Zealand register cannot be made under this section if the ground for removal is that specified in [section 318(1)(f)][643].
     
-    Section 321(3): inserted, on 15 April 2004, by [section 18][951] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 321(3): inserted, on 15 April 2004, by [section 18][1011] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 322 Duties of Registrar if objection received
     
-*   (1) If an objection to the removal of a company from the New Zealand register is made on a ground specified in [section 321(1)(a), (b), or (c)][610], the Registrar must not proceed with the removal unless the Registrar is satisfied that---
+*   (1) If an objection to the removal of a company from the New Zealand register is made on a ground specified in [section 321(1)(a), (b), or (c)][646], the Registrar must not proceed with the removal unless the Registrar is satisfied that---
         
     *   (a) the objection has been withdrawn; or
     
@@ -12239,11 +12841,11 @@ Removal from the New Zealand register
     
     *   (c) the objection is frivolous or vexatious.
     
-    (2) If an objection to the removal of a company from the New Zealand register is made on a ground specified in [section 321(1)(d), (e), or (f)][610], the Registrar must give notice to the person objecting that, unless notice of an application to the court by that person for an order---
+    (2) If an objection to the removal of a company from the New Zealand register is made on a ground specified in [section 321(1)(d), (e), or (f)][646], the Registrar must give notice to the person objecting that, unless notice of an application to the court by that person for an order---
         
-    *   (a) under [section 241(2)(c)][495], that the company be put into liquidation; or
+    *   (a) under [section 241(2)(c)][531], that the company be put into liquidation; or
     
-    *   (b) under [section 323][612], that, on any ground specified in [section 321][610], the company not be removed from the New Zealand register---
+    *   (b) under [section 323][648], that, on any ground specified in [section 321][646], the company not be removed from the New Zealand register---
     
     is served on the Registrar not later than 20 working days after the date of the notice, the Registrar intends to proceed with the removal.
     
@@ -12261,17 +12863,17 @@ Removal from the New Zealand register
     
     (5) The Registrar must send---
         
-    *   (a) a copy of an objection under [section 321][610]; and
+    *   (a) a copy of an objection under [section 321][646]; and
     
     *   (b) a copy of a notice given by or served on the Registrar under this section; and
     
     *   (c) if the company is removed from the New Zealand register, notice of the removal---
     
-    to a person who sent or delivered to the Registrar a request that the company be removed from the New Zealand register under [section 318(1)(d)][607] or, while acting as liquidator, sent or delivered to the Registrar the documents referred to in section 318(1)(e).
+    to a person who sent or delivered to the Registrar a request that the company be removed from the New Zealand register under [section 318(1)(d)][643] or, while acting as liquidator, sent or delivered to the Registrar the documents referred to in section 318(1)(e).
 
 ##### 323 Powers of court
     
-*   (1) A person who gives a notice objecting to the removal of a company from the New Zealand register on a ground specified in [section 321(1)(d), (e), or (f)][610] may apply to the court for an order that the company not be removed from the register on any ground set out in that subsection.
+*   (1) A person who gives a notice objecting to the removal of a company from the New Zealand register on a ground specified in [section 321(1)(d), (e), or (f)][646] may apply to the court for an order that the company not be removed from the register on any ground set out in that subsection.
     
     (2) On an application for an order under subsection (1), the court may, if it is satisfied that the company should not be removed from the register on any of those grounds, make an order that the company is not to be removed from the register.
 
@@ -12301,17 +12903,17 @@ Removal from the New Zealand register
     
     (6) Compensation ordered to be paid under subsection (4) shall be paid out of a Crown Bank Account without further appropriation than this section.
     
-    Section 324(6): amended, on 25 January 2005, pursuant to [section 65R(3)][952] of the Public Finance Act 1989 (1989 No 44).
+    Section 324(6): amended, on 25 January 2005, pursuant to [section 65R(3)][1012] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 325 Disclaimer of property by the Crown
     
-*   (1) The Secretary to the Treasury may, by notice in writing, disclaim the Crown's title to property vesting in the Crown under [section 324][613] if the property is onerous property within the meaning of [section 269][531].
+*   (1) The Secretary to the Treasury may, by notice in writing, disclaim the Crown's title to property vesting in the Crown under [section 324][649] if the property is onerous property within the meaning of [section 269][567].
     
     (2) The Secretary must forthwith give public notice of the disclaimer.
     
-    (3) Property that is disclaimed under this section shall be deemed not to have vested in the Crown under [section 324][613].
+    (3) Property that is disclaimed under this section shall be deemed not to have vested in the Crown under [section 324][649].
     
-    (4) Subsections (3), (5), and (6) of [section 269][531] apply to any property that is disclaimed under this section as if the property had been disclaimed under that section immediately before the company was removed from the New Zealand register.
+    (4) Subsections (3), (5), and (6) of [section 269][567] apply to any property that is disclaimed under this section as if the property had been disclaimed under that section immediately before the company was removed from the New Zealand register.
     
     (5) Subject to any order of the court, the Secretary to the Treasury is not entitled to disclaim property unless---
         
@@ -12335,7 +12937,7 @@ Removal from the New Zealand register
     
 *   \[Repealed\]
     
-    Section 327: repealed, on 20 September 2007, by [section 4][953] of the Companies Amendment Act 2007 (2007 No 48).
+    Section 327: repealed, on 20 September 2007, by [section 4][1013] of the Companies Amendment Act 2007 (2007 No 48).
 
 ##### 328 Registrar may restore company to New Zealand register
     
@@ -12359,7 +12961,7 @@ Removal from the New Zealand register
     
     (3) Before the Registrar restores a company to the New Zealand register under this section,---
         
-    *   (a) in the case of a company that was removed from the New Zealand register under paragraph (b) or paragraph (c) of [section 318(1)][607], the Registrar must give public notice setting out---
+    *   (a) in the case of a company that was removed from the New Zealand register under paragraph (b) or paragraph (c) of [section 318(1)][643], the Registrar must give public notice setting out---
             
         *   (i) the name of the company; and
         
@@ -12371,7 +12973,7 @@ Removal from the New Zealand register
         
         
     
-    *   (b) in the case of a company that was removed from the New Zealand register under paragraph (d) or paragraph (e) of [section 318(1)][607], the person who made the application under subsection (1) must give public notice setting out---
+    *   (b) in the case of a company that was removed from the New Zealand register under paragraph (d) or paragraph (e) of [section 318(1)][643], the person who made the application under subsection (1) must give public notice setting out---
             
         *   (i) the name of the company; and
         
@@ -12389,9 +12991,9 @@ Removal from the New Zealand register
     
     (6) The court may, on the application of the Registrar or the applicant, give such directions or make such orders as may be necessary or desirable for the purpose of placing a company that is restored to the New Zealand register under this section and any other persons as nearly as possible in the same position as if the company had not been removed from the register.
     
-    (7) Nothing in this section limits or affects [section 329][618].
+    (7) Nothing in this section limits or affects [section 329][654].
     
-    Section 328(3): replaced, on 30 June 1997, by [section 21][954] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 328(3): replaced, on 30 June 1997, by [section 21][1014] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 329 Court may restore company to New Zealand register
     
@@ -12445,13 +13047,13 @@ Removal from the New Zealand register
 
 ##### 331 Vesting of property in company on restoration to register
     
-*   (1) Subject to this section, property of a company that is, at the time the company is restored to the New Zealand register, vested in the Crown pursuant to [section 324][613], shall, on the restoration of the company to the New Zealand register, vest in the company as if the company had not been removed from the register.
+*   (1) Subject to this section, property of a company that is, at the time the company is restored to the New Zealand register, vested in the Crown pursuant to [section 324][649], shall, on the restoration of the company to the New Zealand register, vest in the company as if the company had not been removed from the register.
     
-    (2) Nothing in subsection (1) applies to any property vested in the Crown pursuant to [section 324][613] if the court has made an order for the payment of compensation to any person pursuant to section 324(4)(b) in respect of that property.
+    (2) Nothing in subsection (1) applies to any property vested in the Crown pursuant to [section 324][649] if the court has made an order for the payment of compensation to any person pursuant to section 324(4)(b) in respect of that property.
     
-    (3) Nothing in subsection (1) applies to land or any estate or interest in land that has vested in the Crown pursuant to [section 324][613] if transmission to the Crown of the land or that estate or interest in land has been registered under the [Land Transfer Act 1952][854].
+    (3) Nothing in subsection (1) applies to land or any estate or interest in land that has vested in the Crown pursuant to [section 324][649] if transmission to the Crown of the land or that estate or interest in land has been registered under the [Land Transfer Act 1952][912].
     
-    (4) Where transmission to the Crown of land or any estate or interest in land that has vested in the Crown pursuant to [section 324][613] has been registered under the [Land Transfer Act 1952][854], the court may, on the application of the company, make an order---
+    (4) Where transmission to the Crown of land or any estate or interest in land that has vested in the Crown pursuant to [section 324][649] has been registered under the [Land Transfer Act 1952][912], the court may, on the application of the company, make an order---
         
     *   (a) for the transfer of the land or the estate or interest to the company; or
     
@@ -12469,7 +13071,7 @@ Removal from the New Zealand register
     
     Compare: 1955 No 63 s 337
     
-    Section 331(6): amended, on 25 January 2005, pursuant to [section 65R(3)][952] of the Public Finance Act 1989 (1989 No 44).
+    Section 331(6): amended, on 25 January 2005, pursuant to [section 65R(3)][1012] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 18  
 Overseas companies
@@ -12506,15 +13108,15 @@ Overseas companies
         
         *   (ix) invests its funds or holds property; or
         
-        *   (x) enters into a contract of insurance as an insurer with a New Zealand policyholder (within the meaning of [section 6(1)][729] of the Insurance (Prudential Supervision) Act 2010).
+        *   (x) enters into a contract of insurance as an insurer with a New Zealand policyholder (within the meaning of [section 6(1)][766] of the Insurance (Prudential Supervision) Act 2010).
         
         
     
     Compare: Corporations Act 1989 s 21(2), (3) (Aust)
     
-    Section 332(b)(ix): amended, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 332(b)(ix): amended, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 332(b)(x): inserted, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 332(b)(x): inserted, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
 ##### 332A Registrar may approve use of different form
     
@@ -12524,7 +13126,7 @@ Overseas companies
     
     (3) An application, notice, or other document given to the Registrar by an overseas company must be treated as having been given in the prescribed form if the Registrar has approved the use of the form by the overseas company under this section.
     
-    Section 332A: inserted, on 1 September 2007, by [section 11][955] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 332A: inserted, on 1 September 2007, by [section 11][1015] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 333 Name to be reserved before carrying on business
     
@@ -12538,19 +13140,19 @@ Overseas companies
     
     (5) If an overseas company contravenes this section,---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     Compare: 1955 No 63 s 396A; 1983 No 53 s 23
     
-    Section 333(2): repealed, on 5 December 2013, by [section 10][956] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 333(2): repealed, on 5 December 2013, by [section 10][1016] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 334 Overseas companies to register under this Act
     
-*   (1) An overseas company that, on or after the commencement of this Act, commences to carry on business in New Zealand must apply for registration under this Part in accordance with [section 336][627] within 10 working days of commencing to carry on business.
+*   (1) An overseas company that, on or after the commencement of this Act, commences to carry on business in New Zealand must apply for registration under this Part in accordance with [section 336][663] within 10 working days of commencing to carry on business.
     
-    (2) An overseas company that, immediately before the commencement of this Act, was carrying on business in New Zealand and, on the commencement of this Act, continues to carry on business in New Zealand, must apply for registration under this Part in accordance with [section 336][627] within 10 working days of the commencement of this Act.
+    (2) An overseas company that, immediately before the commencement of this Act, was carrying on business in New Zealand and, on the commencement of this Act, continues to carry on business in New Zealand, must apply for registration under this Part in accordance with [section 336][663] within 10 working days of the commencement of this Act.
     
     (3) An overseas company registered under Part 12 of the Companies Act 1955 immediately before the date of commencement of this Act is, on and from that date, deemed to be registered under this Part instead of under Part 12 of the Companies Act 1955\.
     
@@ -12560,15 +13162,15 @@ Overseas companies
     
     (6) If an overseas company fails to comply with this section,---
         
-    *   (a) the overseas company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the overseas company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     
 
 ##### 335 Validity of transactions not affected
     
-*   A failure by an overseas company to comply with [section 333][624] or [section 334][625] does not affect the validity or enforceability of any transaction entered into by the overseas company.
+*   A failure by an overseas company to comply with [section 333][660] or [section 334][661] does not affect the validity or enforceability of any transaction entered into by the overseas company.
 
 ##### 336 Application for registration
     
@@ -12598,9 +13200,9 @@ Overseas companies
     
 *   (1) Where the Registrar receives a properly completed application for registration under this Part of an overseas company, the Registrar must forthwith register the application on the overseas register.
     
-    (2) Where an overseas company is deemed to be registered under this Part by virtue of [section 334(3)][625], the Registrar must, forthwith after the commencement of this Act, transfer the registration of the overseas company to the overseas register.
+    (2) Where an overseas company is deemed to be registered under this Part by virtue of [section 334(3)][661], the Registrar must, forthwith after the commencement of this Act, transfer the registration of the overseas company to the overseas register.
     
-    (3) Where the Registrar receives a notice of a change of name of an overseas company in accordance with [section 334(5)][625], the Registrar must register the change of name on the overseas register.
+    (3) Where the Registrar receives a notice of a change of name of an overseas company in accordance with [section 334(5)][661], the Registrar must register the change of name on the overseas register.
 
 ##### 338 Use of name by overseas company
     
@@ -12628,19 +13230,19 @@ Overseas companies
     
     (2) If an overseas company fails to comply with subsection (1),---
         
-    *   (a) the overseas company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the overseas company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     Section 339(1): replaced, on 1 July 1994, by section 42 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 ##### 339A Rectification or correction of name or address of person authorised to accept service
     
-*   (1) This section applies if the name or address of a person resident or incorporated in New Zealand who is authorised to accept service in New Zealand of documents on behalf of an overseas company is rectified or corrected under [section 360A][658] or [section 360B][659].
+*   (1) This section applies if the name or address of a person resident or incorporated in New Zealand who is authorised to accept service in New Zealand of documents on behalf of an overseas company is rectified or corrected under [section 360A][695] or [section 360B][696].
     
     (2) The rectification or correction takes effect at the time that the rectification or correction is made to the overseas register.
     
-    Section 339A: inserted, on 15 April 2004, by [section 19][957] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 339A: inserted, on 15 April 2004, by [section 19][1017] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 340 Annual return of overseas company
     
@@ -12656,11 +13258,17 @@ Overseas companies
     
     (6) If an overseas company fails to comply with subsection (1) or subsection (2),---
         
-    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674]; and
+    *   (a) the company commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711]; and
     
-    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][675].
+    *   (b) every director of the overseas company commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
     
+
+##### 340A Financial reporting requirements for large overseas companies
+    
+*   [Subpart 2][258] of Part 11 imposes obligations on large overseas companies (within the meaning of [section 198][261]).
+    
+    Section 340A: inserted, on 1 April 2014, by [section 38][1018] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 341 Overseas company ceasing to carry on business in New Zealand
     
@@ -12674,7 +13282,7 @@ Overseas companies
         
     *   (a) the date specified in the notice given in accordance with subsection (1)(b); or
     
-    *   (b) receipt of a notice given by a liquidator in accordance with the provisions of [Schedule 9][719].
+    *   (b) receipt of a notice given by a liquidator in accordance with the provisions of [Schedule 9][756].
     
     Compare: 1955 No 63 s 405
     
@@ -12682,27 +13290,27 @@ Overseas companies
 
 ##### 342 Liquidation of overseas company
     
-*   (1) An application may be made to the court for the liquidation of an overseas company in accordance with [Part 16][491], subject to the modifications and exclusions set out in [Schedule 9][719].
+*   (1) An application may be made to the court for the liquidation of an overseas company in accordance with [Part 16][527], subject to the modifications and exclusions set out in [Schedule 9][756].
     
     (2) An application may be made under subsection (1) whether or not the overseas company---
         
     *   (a) is registered under this Part; or
     
-    *   (b) has given public notice of an intention to cease to carry on business in New Zealand in accordance with [section 341(1)(a)][633]; or
+    *   (b) has given public notice of an intention to cease to carry on business in New Zealand in accordance with [section 341(1)(a)][670]; or
     
-    *   (c) has given notice to the Registrar of the date on which it will cease to carry on business in New Zealand in accordance with [section 341(1)(b)][633]; or
+    *   (c) has given notice to the Registrar of the date on which it will cease to carry on business in New Zealand in accordance with [section 341(1)(b)][670]; or
     
     *   (d) has been dissolved, or otherwise ceased to exist as a company, under or by virtue of the laws of any other country.
     
-    Section 342 heading: amended, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Section 342 heading: amended, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
     
-    Section 342(1): amended, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Section 342(1): amended, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
 
 ##### 343 Attorneys of overseas companies
     
-*   (1) [Sections 19 to 21][820] of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part, to the same extent as if the company was a natural person and as if the commencement of the liquidation of the company was an event revoking the power of attorney within the meaning of those sections.
+*   (1) [Sections 19 to 21][860] of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by an overseas company registered under this Part, to the same extent as if the company was a natural person and as if the commencement of the liquidation of the company was an event revoking the power of attorney within the meaning of those sections.
     
-    (2) A declaration endorsed on or annexed to an instrument appointing, or appearing to appoint, an attorney of an overseas company, made or appearing to be made by one of the directors before a person authorised by [section 11][959] of the Oaths and Declarations Act 1957 to take a declaration for use in New Zealand, in the country concerned, to the effect that---
+    (2) A declaration endorsed on or annexed to an instrument appointing, or appearing to appoint, an attorney of an overseas company, made or appearing to be made by one of the directors before a person authorised by [section 11][1020] of the Oaths and Declarations Act 1957 to take a declaration for use in New Zealand, in the country concerned, to the effect that---
         
     *   (a) the company is incorporated under the name stated in the instrument in accordance with the law of the country in which it is so incorporated, the name of which is stated in the declaration; and
     
@@ -12712,7 +13320,7 @@ Overseas companies
     
     is conclusive evidence of those facts.
     
-    Section 343(1): replaced, on 1 January 2008, by [section 364(1)][745] of the Property Law Act 2007 (2007 No 91).
+    Section 343(1): replaced, on 1 January 2008, by [section 364(1)][783] of the Property Law Act 2007 (2007 No 91).
 
 ##### 343A Overseas company not required to provide information, notice, or document in certain circumstances
     
@@ -12724,7 +13332,7 @@ Overseas companies
     
     *   (c) the information or document is of a class that is prescribed for the purposes of this section.
     
-    Section 343A: inserted, on 1 September 2007, by [section 12][960] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 343A: inserted, on 1 September 2007, by [section 12][1021] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ## Part 19  
 Transfer of registration
@@ -12743,13 +13351,13 @@ Transfer of registration
     
     *   (b) a certified copy of the documents defining its constitution; and
     
-    *   (c) evidence acceptable to the Registrar that the company is not prevented from being registered as a company under this Act by either [section 346][641] or [section 347][642]; and
+    *   (c) evidence acceptable to the Registrar that the company is not prevented from being registered as a company under this Act by either [section 346][678] or [section 347][679]; and
     
     *   (d) the documents and information that are required to register a company under [Part 2][12]; and
     
     *   (e) any other documents and information the Registrar may require.
     
-    (2) The Registrar may direct that a document that has been delivered to the Registrar or registered under [Part 18][621] need not accompany the application.
+    (2) The Registrar may direct that a document that has been delivered to the Registrar or registered under [Part 18][657] need not accompany the application.
 
 ##### 346 Overseas companies must be authorised to register
     
@@ -12789,7 +13397,7 @@ Transfer of registration
     
 *   (1) As soon as the Registrar receives a properly completed application for registration of an overseas company as a company under this Act, the Registrar must---
         
-    *   (a) enter on the New Zealand register the particulars of the company required under [section 360][657]; and
+    *   (a) enter on the New Zealand register the particulars of the company required under [section 360][694]; and
     
     *   (b) issue a certificate of registration in the prescribed form.
     
@@ -12825,9 +13433,9 @@ Transfer of registration
     
 *   An application by a company for removal from the New Zealand register in connection with becoming incorporated under the law in force in, or in any part of, another country must be in the prescribed form and must be accompanied by---
         
-    *   (a) evidence acceptable to the Registrar that [sections 352][648] and [353][649] have been complied with; and
+    *   (a) evidence acceptable to the Registrar that [sections 352][685] and [353][686] have been complied with; and
     
-    *   (b) evidence acceptable to the Registrar that the removal of the company from the New Zealand register is not prevented by [section 354][650]; and
+    *   (b) evidence acceptable to the Registrar that the removal of the company from the New Zealand register is not prevented by [section 354][687]; and
     
     *   (c) written notice from the Commissioner of Inland Revenue that the Commissioner has no objection to the company being removed from the New Zealand register; and
     
@@ -12839,15 +13447,15 @@ Transfer of registration
 
 ##### 352 Approval of shareholders
     
-*   A company must not apply to be removed from the New Zealand register under [section 351][647] unless the making of the application has been approved by special resolution.
+*   A company must not apply to be removed from the New Zealand register under [section 351][684] unless the making of the application has been approved by special resolution.
 
 ##### 353 Company to give public notice
     
-*   A company must not apply to be removed from the New Zealand register under [section 351][647] unless---
+*   A company must not apply to be removed from the New Zealand register under [section 351][684] unless---
         
     *   (a) the company gives public notice---
             
-        *   (i) stating that it intends, after the date specified in the notice, which must not be less than 20 working days after the date of the notice, to apply under [section 351][647] for the company to be removed from the New Zealand register in connection with the company becoming incorporated under the law in force in, or in any part of, another country; and
+        *   (i) stating that it intends, after the date specified in the notice, which must not be less than 20 working days after the date of the notice, to apply under [section 351][684] for the company to be removed from the New Zealand register in connection with the company becoming incorporated under the law in force in, or in any part of, another country; and
         
         *   (ii) specifying the country or part of the country under the law of which it is proposed that the company will become incorporated; and
         
@@ -12859,27 +13467,27 @@ Transfer of registration
 
 ##### 354 Companies that cannot transfer incorporation
     
-*   (1) A company must not be removed from the New Zealand register under [section 355][651] if---
+*   (1) A company must not be removed from the New Zealand register under [section 355][688] if---
         
-    *   (a) the company is in liquidation or an application has been made to the court under [section 241][495] to put the company into liquidation; or
+    *   (a) the company is in liquidation or an application has been made to the court under [section 241][531] to put the company into liquidation; or
     
     *   (b) a receiver or manager has been appointed, whether by a court or not, in relation to the property of the company; or
     
-    *   (c) the company has entered into a compromise with creditors or a class of creditors under [Part 14][300] or a compromise has been proposed under that Part in relation to the company; or
+    *   (c) the company has entered into a compromise with creditors or a class of creditors under [Part 14][336] or a compromise has been proposed under that Part in relation to the company; or
     
-    *   (d) a compromise has been approved by the court under [Part 15][309] in relation to the company or an application has been made to the court to approve a compromise under that Part.
+    *   (d) a compromise has been approved by the court under [Part 15][345] in relation to the company or an application has been made to the court to approve a compromise under that Part.
     
-    (2) A company must not be removed from the New Zealand register under [section 355][651] unless the company would, immediately before it is removed from the register, satisfy the solvency test.
+    (2) A company must not be removed from the New Zealand register under [section 355][688] unless the company would, immediately before it is removed from the register, satisfy the solvency test.
 
 ##### 355 Removal from register
     
-*   (1) As soon as the Registrar receives a properly completed application under [section 351][647] to remove a company from the New Zealand register, the Registrar must remove the company from the register.
+*   (1) As soon as the Registrar receives a properly completed application under [section 351][684] to remove a company from the New Zealand register, the Registrar must remove the company from the register.
     
     (2) A company is removed from the New Zealand register when a notice signed by the Registrar stating that the company is removed from the New Zealand register is registered under this Act.
 
 ##### 356 Effect of removal from register
     
-*   (1) The removal of a company from the New Zealand register under [section 355][651] does not---
+*   (1) The removal of a company from the New Zealand register under [section 355][688] does not---
         
     *   (a) prejudice or affect the identity of the body corporate that was constituted under this Act or its continuity as a legal person; or
     
@@ -12887,7 +13495,7 @@ Transfer of registration
     
     *   (c) affect proceedings by or against that body corporate.
     
-    (2) Proceedings that could have been commenced or continued by or against a company before the company was removed from the New Zealand register under [section 355][651] may be commenced or continued by or against the body corporate that continues in existence after the removal of the company from the register.
+    (2) Proceedings that could have been commenced or continued by or against a company before the company was removed from the New Zealand register under [section 355][688] may be commenced or continued by or against the body corporate that continues in existence after the removal of the company from the register.
 
 ## Part 20  
 Registrar of Companies
@@ -12898,23 +13506,23 @@ Registrar of Companies
         
     *   (a) a Registrar of Companies; and
     
-    *   (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the [Limited Partnerships Act 2008][961],---
+    *   (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the [Limited Partnerships Act 2008][1022],---
     
-    each of whom must be appointed under the [State Sector Act 1988][962].
+    each of whom must be appointed under the [State Sector Act 1988][1023].
     
-    (2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act and the [Limited Partnerships Act 2008][961].
+    (2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act and the [Limited Partnerships Act 2008][1022].
     
     (3) The fact that a Deputy Registrar exercises those powers, duties, or functions is conclusive evidence of the authority to do so.
     
     (4) The person holding office as Registrar of Companies under the Companies Act 1955 and every person holding office as a Deputy Registrar of Companies under that Act, immediately before the commencement of this Act, shall be deemed to have been appointed as Registrar of Companies or as a Deputy Registrar of Companies, as the case may be, in accordance with this section.
     
-    Section 357(1)(b): amended, on 2 May 2008, by [section 119(1)][963] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 357(1)(b): amended, on 2 May 2008, by [section 119(1)][1024] of the Limited Partnerships Act 2008 (2008 No 1).
     
-    Section 357(2): amended, on 2 May 2008, by [section 119(2)][963] of the Limited Partnerships Act 2008 (2008 No 1).
+    Section 357(2): amended, on 2 May 2008, by [section 119(2)][1024] of the Limited Partnerships Act 2008 (2008 No 1).
 
 ##### 358 District and Assistant Registrars of Companies
     
-*   (1) As many District Registrars of Companies and Assistant Registrars of Companies as may be necessary for the purposes of this Act must be appointed under the [State Sector Act 1988][962].
+*   (1) As many District Registrars of Companies and Assistant Registrars of Companies as may be necessary for the purposes of this Act must be appointed under the [State Sector Act 1988][1023].
     
     (2) Subject to the control of the Registrar and of a Deputy Registrar, a District Registrar has and may exercise the powers, duties, and functions of the Registrar.
     
@@ -12932,9 +13540,9 @@ Registrar of Companies
     
 *   (1) The Registrar must ensure that---
         
-    *   (a) a register of companies registered under [Part 2][12] or reregistered under this Act in accordance with the [Companies Reregistration Act 1993][721], as the case may be; and
+    *   (a) a register of companies registered under [Part 2][12] or reregistered under this Act in accordance with the [Companies Reregistration Act 1993][759], as the case may be; and
     
-    *   (b) a register of overseas companies registered or deemed to be registered under [Part 18][621],---
+    *   (b) a register of overseas companies registered or deemed to be registered under [Part 18][657],---
     
     is kept in New Zealand.
     
@@ -12948,9 +13556,9 @@ Registrar of Companies
     
     *   (b) that permits the information so recorded or stored to be readily inspected or reproduced in usable form.
     
-    Regulation 360(2): repealed, on 25 February 2012, by [regulation 5][964] of the Companies Amendment Act 2012 (2012 No 7).
+    Regulation 360(2): repealed, on 25 February 2012, by [regulation 5][1025] of the Companies Amendment Act 2012 (2012 No 7).
     
-    Regulation 360(3): repealed, on 25 February 2012, by [regulation 5][964] of the Companies Amendment Act 2012 (2012 No 7).
+    Regulation 360(3): repealed, on 25 February 2012, by [regulation 5][1025] of the Companies Amendment Act 2012 (2012 No 7).
 
 ##### 360A Rectification or correction of New Zealand register and overseas register
     
@@ -12980,11 +13588,11 @@ Registrar of Companies
     
     (4) The Registrar must not rectify the New Zealand register or the overseas register if the Registrar receives a written objection to the proposed rectification by the date specified unless the Registrar is satisfied that the objection has been withdrawn.
     
-    Section 360A: inserted, on 15 April 2004, by [section 20][965] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 360A: inserted, on 15 April 2004, by [section 20][1026] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 360B Powers of court
     
-*   (1) If an objection to a proposed rectification is received by the Registrar under [section 360A(3)][658], the applicant for the rectification of the New Zealand register or the overseas register may apply to the court for an order for rectification.
+*   (1) If an objection to a proposed rectification is received by the Registrar under [section 360A(3)][695], the applicant for the rectification of the New Zealand register or the overseas register may apply to the court for an order for rectification.
     
     (2) If an application for an order is made under subsection (1),---
         
@@ -12994,13 +13602,13 @@ Registrar of Companies
     
     (3) On an application for an order under subsection (1), the court may, if it is satisfied that any information has been wrongly entered in, or omitted from, the New Zealand register or the overseas register, make an order that the New Zealand register or the overseas register be rectified.
     
-    Section 360B: inserted, on 15 April 2004, by [section 20][965] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 360B: inserted, on 15 April 2004, by [section 20][1026] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 361 Registrar may direct transfer
     
 *   \[Repealed\]
     
-    Regulation 361: repealed, on 25 February 2012, by [regulation 6][966] of the Companies Amendment Act 2012 (2012 No 7).
+    Regulation 361: repealed, on 25 February 2012, by [regulation 6][1027] of the Companies Amendment Act 2012 (2012 No 7).
 
 ##### 362 Registration of documents
     
@@ -13018,7 +13626,7 @@ Registrar of Companies
     
     *   (c) is not printed or typewritten; or
     
-    *   (d) where the New Zealand register or the overseas register is kept wholly or partly by means of a device or facility referred to in [section 360(4)][657], is not in a form that enables particulars to be entered directly by electronic or other means in the device or facility; or
+    *   (d) where the New Zealand register or the overseas register is kept wholly or partly by means of a device or facility referred to in [section 360(4)][694], is not in a form that enables particulars to be entered directly by electronic or other means in the device or facility; or
     
     *   (e) has not been properly completed; or
     
@@ -13034,11 +13642,11 @@ Registrar of Companies
         
     *   (a) the document itself is constituted part of the New Zealand register or the overseas register; or
     
-    *   (b) particulars of the document are entered in any device or facility referred to in [section 360(4)][657].
+    *   (b) particulars of the document are entered in any device or facility referred to in [section 360(4)][694].
     
     (4) Neither registration, nor refusal of registration, of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
     
-    Section 362(1)(b): amended, on 30 June 1997, by [section 22][967] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Section 362(1)(b): amended, on 30 June 1997, by [section 22][1028] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 363 Inspection and evidence of registers
     
@@ -13046,7 +13654,7 @@ Registrar of Companies
         
     *   (a) any document that constitutes part of the New Zealand register or the overseas register:
     
-    *   (b) particulars of any registered document that have been entered on any device or facility referred to in [section 360(4)][657]:
+    *   (b) particulars of any registered document that have been entered on any device or facility referred to in [section 360(4)][694]:
     
     *   (c) any registered document particulars of which have been entered in any such device or facility---
     
@@ -13056,11 +13664,11 @@ Registrar of Companies
         
     *   (a) a certificate of incorporation of a company; or
     
-    *   (b) a certificate of reregistration of a company under this Act in accordance with the [Companies Reregistration Act 1993][721]; or
+    *   (b) a certificate of reregistration of a company under this Act in accordance with the [Companies Reregistration Act 1993][759]; or
     
     *   (c) a copy of, or extract from, a document that constitutes part of the New Zealand register or the overseas register; or
     
-    *   (d) particulars of any registered document that have been entered in any device or facility referred to in [section 360(4)][657]; or
+    *   (d) particulars of any registered document that have been entered in any device or facility referred to in [section 360(4)][694]; or
     
     *   (e) a copy of, or extract from, a registered document particulars of which have been entered in any such device or facility.
     
@@ -13068,7 +13676,7 @@ Registrar of Companies
         
     *   (a) a registered document kept by the Registrar; or
     
-    *   (b) evidence of the entry of particulars of a registered document in any device or facility referred to in [section 360(4)][657]---
+    *   (b) evidence of the entry of particulars of a registered document in any device or facility referred to in [section 360(4)][694]---
     
     must not issue from the court without the leave of the court and, if it does, it must have a statement attached to it that it is issued with the leave of the court.
     
@@ -13076,11 +13684,11 @@ Registrar of Companies
         
     *   (a) that constitutes part of the New Zealand register or the overseas register; or
     
-    *   (b) particulars of which have been entered in any device or facility referred to in [section 360(4)][657]---
+    *   (b) particulars of which have been entered in any device or facility referred to in [section 360(4)][694]---
     
     certified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.
     
-    (5) An extract certified by the Registrar as containing particulars of a registered document that have been entered in any device or facility referred to in [section 360(4)][657] is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
+    (5) An extract certified by the Registrar as containing particulars of a registered document that have been entered in any device or facility referred to in [section 360(4)][694] is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
     
     Compare: 1955 No 63 s 9
 
@@ -13098,7 +13706,7 @@ Registrar of Companies
     
     *   (d) having it published in a newspaper or other publication in circulation in the area where that person lives or is believed to live.
     
-    (3) [Section 392][701] shall apply, with such modifications as may be necessary, in respect of the giving of notices by the Registrar.
+    (3) [Section 392][738] shall apply, with such modifications as may be necessary, in respect of the giving of notices by the Registrar.
     
     (4) A document that---
         
@@ -13114,11 +13722,11 @@ Registrar of Companies
         
     *   (a) for the purpose of---
             
-        *   (i) ascertaining whether a company or a director of a company is complying, or has complied, with this Act or the [Financial Reporting Act 1993][818]; or
+        *   (i) ascertaining whether a company or a director of a company is complying, or has complied, with this Act; or
         
-        *   (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the [Financial Reporting Act 1993][818]; or
+        *   (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act; or
         
-        *   (iii) detecting offences against this Act or the [Financial Reporting Act 1993][818]; and
+        *   (iii) detecting offences against this Act; and
         
         
     
@@ -13134,9 +13742,9 @@ Registrar of Companies
     
     *   (f) retain relevant documents for a period which is, in all the circumstances reasonable, if there are reasonable grounds for believing that they are evidence of the commission of an offence.
     
-    (2) Nothing in this section limits or affects the [Tax Administration Act 1994][968] or the [Statistics Act 1975][969].
+    (2) Nothing in this section limits or affects the [Tax Administration Act 1994][1029] or the [Statistics Act 1975][1030].
     
-    (3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of [section 2][970] of the Reserve Bank of New Zealand Act 1989).
+    (3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of [section 2][1031] of the Reserve Bank of New Zealand Act 1989).
     
     (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1).
     
@@ -13146,7 +13754,7 @@ Registrar of Companies
     
     *   (b) acts in contravention of subsection (4)---
     
-    commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
     (6) In this section,---
     
@@ -13160,13 +13768,19 @@ Registrar of Companies
     
     Compare: 1955 No 63 s 9A; 1983 No 53 s 3
     
+    Section 365(1)(a)(i): amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 365(1)(a)(ii): amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 365(1)(a)(iii): amended, on 1 April 2014, by [section 126][858] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
     Section 365(2): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
     Section 365(5)(b): amended, on 1 July 1994, by section 44 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 ##### 366 Disclosure of information and reports
     
-*   (1) A person authorised by the Registrar for the purpose of [section 365][664] who has---
+*   (1) A person authorised by the Registrar for the purpose of [section 365][701] who has---
         
     *   (a) obtained a document or information in the course of making an inspection under that section; or
     
@@ -13184,7 +13798,7 @@ Registrar of Companies
     
     *   (g) any person authorised by the Registrar to receive the document, information, or report for the purposes of detecting offences against any Act.
     
-    (2) A person authorised by the Registrar for the purposes of [section 365][664] who has---
+    (2) A person authorised by the Registrar for the purposes of [section 365][701] who has---
         
     *   (a) obtained a document or information in the course of making an inspection under that section; or
     
@@ -13192,7 +13806,7 @@ Registrar of Companies
     
     must give the document, information, or report to the Registrar, a Deputy Registrar, a District Registrar, or an Assistant Registrar when directed to do so by any person holding any of those offices.
     
-    (3) A person authorised by the Registrar for the purposes of [section 365][664] who has---
+    (3) A person authorised by the Registrar for the purposes of [section 365][701] who has---
         
     *   (a) obtained a document or information in the course of making an inspection under that section; or
     
@@ -13214,11 +13828,11 @@ Registrar of Companies
     
     *   (i) subject to the approval of the Registrar, for the purpose of detecting offences against any Act.
     
-    (4) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+    (4) A person who fails to comply with this section commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
-    Section 366(1)(c): replaced, on 1 October 1995, by [section 10(3)][882] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 366(1)(c): replaced, on 1 October 1995, by [section 10(3)][940] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 366(1)(d): replaced, on 1 October 1995, by [section 10(3)][882] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 366(1)(d): replaced, on 1 October 1995, by [section 10(3)][940] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 367 Application of Official Information Act 1982 and Privacy Act 1993
     
@@ -13236,9 +13850,9 @@ Registrar of Companies
     
     *   (f) an Assistant Registrar.
     
-    (2) Notwithstanding the [Official Information Act 1982][971] or the [Privacy Act 1993][972], a person to whom this section applies may refuse to disclose a document, information, or report in his or her possession obtained in making, or acquired as a result of, an inspection under [section 365][664], until the purpose for which the inspection is carried out has been satisfied.
+    (2) Notwithstanding the [Official Information Act 1982][1032] or the [Privacy Act 1993][1033], a person to whom this section applies may refuse to disclose a document, information, or report in his or her possession obtained in making, or acquired as a result of, an inspection under [section 365][701], until the purpose for which the inspection is carried out has been satisfied.
     
-    (3) Notwithstanding the Official Information Act 1982, where a person requests disclosure of whether an inspection under [section 365][664] is being, or is proposed to be, or has been carried out, as the case may be, no person to whom this section applies is required to disclose that information under the [Official Information Act 1982][971] unless---
+    (3) Notwithstanding the Official Information Act 1982, where a person requests disclosure of whether an inspection under [section 365][701] is being, or is proposed to be, or has been carried out, as the case may be, no person to whom this section applies is required to disclose that information under the [Official Information Act 1982][1032] unless---
         
     *   (a) the disclosure of that information would not be likely to prejudice the commercial position of any person; and
     
@@ -13246,11 +13860,11 @@ Registrar of Companies
     
     Compare: 1955 No 63 s 9AA; 1988 No 236 s 2
     
-    Section 367(1): replaced, on 1 October 1995, by [section 10(3)][882] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 367(1): replaced, on 1 October 1995, by [section 10(3)][940] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 368 Appeals from decisions under section 367
     
-*   (1) A person who is aggrieved by a refusal to disclose a document, information, or report under [section 367][666] may appeal to the court within 15 working days after being notified of that refusal, or within such further time as the court may allow.
+*   (1) A person who is aggrieved by a refusal to disclose a document, information, or report under [section 367][703] may appeal to the court within 15 working days after being notified of that refusal, or within such further time as the court may allow.
     
     (2) On hearing the appeal, the court may confirm the refusal, or give such directions, or make such determination in the matter as the court thinks fit.
     
@@ -13258,7 +13872,7 @@ Registrar of Companies
 
 ##### 369 Inspector's report admissible in liquidation proceedings
     
-*   Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under [section 365][664] is admissible in evidence at the hearing of an application to the court to appoint a liquidator.
+*   Notwithstanding any other Act or rule of law, a report prepared by a person in relation to an inspection carried out by him or her under [section 365][701] is admissible in evidence at the hearing of an application to the court to appoint a liquidator.
 
 ##### 370 Appeals from Registrar's decisions
     
@@ -13270,7 +13884,7 @@ Registrar of Companies
 
 ##### 371 Exercise of powers under section 365 not affected by appeal
     
-*   (1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the court in relation to an act or decision of the Registrar or a person authorised by the Registrar under [section 365][664], until a decision on the appeal or application is given,---
+*   (1) Subject to subsection (2), but notwithstanding any other provision of any Act or any rule of law, where a person appeals or applies to the court in relation to an act or decision of the Registrar or a person authorised by the Registrar under [section 365][701], until a decision on the appeal or application is given,---
         
     *   (a) the Registrar, or that person, may continue to exercise the powers under that section as if no such appeal or application had been made; and
     
@@ -13292,15 +13906,15 @@ Registrar of Companies
     
     *   (b) considers may assist the FMA in the exercise or performance of the FMA's functions, powers, or duties under this Act or any other enactment.
     
-    (2) The Registrar may use any information, or a copy of any document, provided to him or her by the FMA under [section 30][973] of the Financial Markets Authority Act 2011 in the Registrar's exercise or performance of the Registrar's functions, powers, or duties.
+    (2) The Registrar may use any information, or a copy of any document, provided to him or her by the FMA under [section 30][1034] of the Financial Markets Authority Act 2011 in the Registrar's exercise or performance of the Registrar's functions, powers, or duties.
     
-    (3) In this section, _Registrar's functions, powers, or duties_ means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][974] and the [Securities Act 1978][731]).
+    (3) In this section, _Registrar's functions, powers, or duties_ means his or her functions, powers, or duties under this Act or any other enactment (including functions, powers, or duties as the Registrar under the [Financial Service Providers (Registration and Dispute Resolution) Act 2008][1035] and the [Securities Act 1978][768]).
     
     (4) This section applies despite anything to the contrary in any contract, deed, or document.
     
-    (5) Nothing in this section limits the [Privacy Act 1993][972].
+    (5) Nothing in this section limits the [Privacy Act 1993][1033].
     
-    Section 371A: inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 371A: inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 372 Fees
     
@@ -13383,17 +13997,17 @@ Offences and penalties
     
     *   (24) [section 122(7)(a)][161] (which relates to resolutions in lieu of meetings):
     
-    *   (25) [section 218(2)(a)][289] (which relates to the obligation to provide copies of documents):
+    *   (25) [section 218(2)(a)][325] (which relates to the obligation to provide copies of documents):
     
-    *   (26) [section 221(6)][293] (which relates to approval of an amalgamation proposal):
+    *   (26) [section 221(6)][329] (which relates to approval of an amalgamation proposal):
     
-    *   (27) [section 222(6)][294] (which relates to short form amalgamations):
+    *   (27) [section 222(6)][330] (which relates to short form amalgamations):
     
-    *   (27A) [section 239AEA(3)][465] (which relates to the failure by a company in administration to disclose the fact of administration):
+    *   (27A) [section 239AEA(3)][501] (which relates to the failure by a company in administration to disclose the fact of administration):
     
-    *   (27B) [section 239AW(4)][373] (which relates to attendance by a director at a watershed meeting):
+    *   (27B) [section 239AW(4)][409] (which relates to attendance by a director at a watershed meeting):
     
-    *   (28) [section 243(10)][499] (which relates to the duty of a liquidator to summon meetings of creditors).
+    *   (28) [section 243(10)][535] (which relates to the duty of a liquidator to summon meetings of creditors).
     
     (2) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $10,000:
         
@@ -13413,81 +14027,87 @@ Offences and penalties
     
     *   (h) [section 195(3)(a)][257] (which relates to the place where accounting records must be kept):
     
-    *   (i) [section 196(7)(a)][259] (which relates to the appointment of an auditor):
+    *   (i) [section 207Q(3)(a)][295] (which relates to the appointment of an auditor):
     
-    *   (j) [section 206(4)][270] (which relates to access to information by auditors):
+    *   (j) \[Repealed\]
     
-    *   (k) [section 215(2)(a)][286] (which relates to public inspection of company records):
+    *   (k) [section 215(2)(a)][322] (which relates to public inspection of company records):
     
-    *   (l) [section 216(2)(a)][287] (which relates to inspection of company records by shareholders):
+    *   (l) [section 216(2)(a)][323] (which relates to inspection of company records by shareholders):
     
-    *   (m) [section 250(7)][507] (which relates to the termination of the liquidation of a company):
+    *   (m) [section 250(7)][543] (which relates to the termination of the liquidation of a company):
     
-    *   (ma) [section 258A(5)][518] (which relates to the duty of liquidators to report suspected offences):
+    *   (ma) [section 258A(5)][554] (which relates to the duty of liquidators to report suspected offences):
     
-    *   (n) [section 280(3)][544] (which relates to the qualifications of liquidators):
+    *   (n) [section 280(3)][580] (which relates to the qualifications of liquidators):
     
-    *   (o) [section 333(5)(a)][624] (which relates to name reservation by overseas companies):
+    *   (o) [section 333(5)(a)][660] (which relates to name reservation by overseas companies):
     
-    *   (p) [section 334(6)(a)][625] (which relates to the registration of overseas companies):
+    *   (p) [section 334(6)(a)][661] (which relates to the registration of overseas companies):
     
-    *   (q) [section 339(2)(a)][630] (which relates to changes in the constitution of an overseas company):
+    *   (q) [section 339(2)(a)][666] (which relates to changes in the constitution of an overseas company):
     
-    *   (r) [section 340(6)(a)][632] (which relates to the filing of annual returns by overseas companies):
+    *   (r) [section 340(6)(a)][668] (which relates to the filing of annual returns by overseas companies):
     
-    *   (s) [section 365(5)][664] (which relates to the Registrar's powers of inspection):
+    *   (s) [section 365(5)][701] (which relates to the Registrar's powers of inspection):
     
-    *   (t) [section 366(4)][665] (which relates to the disclosure of information and reports obtained during an investigation):
+    *   (t) [section 366(4)][702] (which relates to the disclosure of information and reports obtained during an investigation):
     
-    *   (u) [section 381][682] (which relates to improper use of the word ""Limited"").
+    *   (u) [section 381][719] (which relates to improper use of the word ""Limited"").
     
     (3) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years:
         
-    *   (a) [section 261(6A)][523] (which relates to the power of liquidators to obtain documents and information):
+    *   (a) [section 261(6A)][559] (which relates to the power of liquidators to obtain documents and information):
     
-    *   (b) [section 273(2)][536] (which relates to certain prohibited conduct):
+    *   (b) [section 273(2)][572] (which relates to certain prohibited conduct):
     
-    *   (c) [section 274(2)][537] (which relates to the duty to identify and deliver property).
+    *   (c) [section 274(2)][573] (which relates to the duty to identify and deliver property).
     
     (4) A person convicted of an offence against any of the following sections of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000:
         
-    *   (a) [section 304(6)][572] (which relates to false claims by unsecured creditors in liquidations):
+    *   (a) [section 304(6)][608] (which relates to false claims by unsecured creditors in liquidations):
     
-    *   (b) [section 305(11)][573] (which relates to false claims by secured creditors in liquidations):
+    *   (b) [section 305(11)][609] (which relates to false claims by secured creditors in liquidations):
     
-    *   (c) [section 377][678] (which relates to false statements):
+    *   (c) [section 377][715] (which relates to false statements):
     
-    *   (d) [section 378][679] (which relates to the fraudulent use or destruction of property):
+    *   (d) [section 378][716] (which relates to the fraudulent use or destruction of property):
     
-    *   (e) [section 379][680] (which relates to falsifying records):
+    *   (e) [section 379][717] (which relates to falsifying records):
     
-    *   (f) [section 380][681] (which relates to carrying on business fraudulently):
+    *   (f) [section 380][718] (which relates to carrying on business fraudulently):
     
-    *   (g) [section 382(4)][683] (which relates to persons prohibited from managing companies):
+    *   (g) [section 382(4)][720] (which relates to persons prohibited from managing companies):
     
-    *   (h) [section 383(5)][684] (which relates to acting as a director of a company while prohibited by the court):
+    *   (h) [section 383(5)][721] (which relates to acting as a director of a company while prohibited by the court):
     
-    *   (i) [section 385(9)][686] (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
+    *   (i) [section 385(9)][723] (which relates to acting as a director of a company or taking part in the management of a company while prohibited by the Registrar or the FMA):
     
-    *   (j) [section 386A(2)][689] (which relates to acting as a director of a phoenix company).
+    *   (j) [section 386A(2)][726] (which relates to acting as a director of a phoenix company).
     
     Section 373(1)(2): amended, on 1 July 1994, by section 46 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 373(1)(27A): inserted, on 1 November 2007, by [section 39(1)][975] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 373(1)(27A): inserted, on 1 November 2007, by [section 39(1)][1036] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 373(1)(27B): inserted, on 1 November 2007, by [section 39(1)][975] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 373(1)(27B): inserted, on 1 November 2007, by [section 39(1)][1036] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 373(2)(ma): replaced, on 1 February 2011, by [section 241(2)][735] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
+    Section 373(2)(h): replaced, on 1 April 2014, by [section 39][1037] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 373(3)(a): replaced, on 3 May 2001, by [section 14(2)][976] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 373(2)(i): replaced, on 1 April 2014, by [section 39][1037] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 373(3)(b): replaced, on 3 May 2001, by [section 14(2)][976] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 373(2)(j): repealed, on 1 April 2014, by [section 39][1037] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 373(3)(c): inserted, on 3 May 2001, by [section 14(2)][976] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 373(2)(ma): replaced, on 1 February 2011, by [section 241(2)][773] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 373(4)(i): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 373(3)(a): replaced, on 3 May 2001, by [section 14(2)][1038] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 373(4)(j): inserted, on 1 November 2007, by [section 39(2)][975] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 373(3)(b): replaced, on 3 May 2001, by [section 14(2)][1038] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    
+    Section 373(3)(c): inserted, on 3 May 2001, by [section 14(2)][1038] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    
+    Section 373(4)(i): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 373(4)(j): inserted, on 1 November 2007, by [section 39(2)][1036] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 374 Penalties that may be imposed on directors in cases of failure by board or company to comply with Act
     
@@ -13521,7 +14141,7 @@ Offences and penalties
     
     *   (n) [section 188(6)][245] (which relates to a requirement to change a company's registered office):
     
-    *   (o) [section 218(2)(b)][289] (which relates to the obligation to provide copies of documents).
+    *   (o) [section 218(2)(b)][325] (which relates to the obligation to provide copies of documents).
     
     (2) A director of a company who is convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $10,000:
         
@@ -13553,53 +14173,73 @@ Offences and penalties
     
     *   (14) [section 190(3)][248] (which relates to the form in which company records are kept):
     
-    *   (15) [section 194(4)][256] (which relates to the keeping of accounting records):
+    *   (15) [section 195(3)(b)][257] (which relates to the place where accounting records must be kept):
     
-    *   (16) [section 195(3)(b)][257] (which relates to the place where accounting records must be kept):
+    *   (16) [section 207Q(3)(b)][295] (which relates to the appointment of an auditor):
     
-    *   (16A) [section 196(3B)][259] (which relates to the notification of the resignation of an auditor):
+    *   (16A) \[Repealed\]
     
-    *   (17) [section 196(7)(b)][259] (which relates to the appointment of an auditor):
+    *   (17) [section 207R(2)][296] (which relates to the notification of the resignation of an auditor):
     
-    *   (18) [section 206(3)][270] (which relates to access to information by auditors):
+    *   (18) [section 207W(2)][301] (which relates to the attendance of auditors at meetings of shareholders):
     
-    *   (19) [section 207(2)][271] (which relates to the attendance of auditors at meetings of shareholders):
+    *   (19) [section 208(3)][310] (which relates to the duty to prepare an annual report):
     
-    *   (20) [section 208(2)][274] (which relates to the duty to prepare an annual report):
+    *   (20) \[Repealed\]
     
-    *   (21) [section 209(7)][275] (which relates to the obligation to make the annual report available to shareholders):
+    *   (21) [section 209(7)][311] (which relates to the obligation to make the annual report available to shareholders):
     
-    *   (22) [section 209A(5)][276] (which relates to the obligation to send copies of annual reports or concise annual reports to shareholders on request):
+    *   (22) [section 209A(5)][312] (which relates to the obligation to send copies of annual reports or concise annual reports to shareholders on request):
     
-    *   (22A) [section 209B(3)][277] (which relates to making annual reports and concise annual reports available by electronic means):
+    *   (22A) [section 209B(3)][313] (which relates to making annual reports and concise annual reports available by electronic means):
     
-    *   (23) [section 214(10)][283] (which relates to the obligation to file an annual return):
+    *   (23) [section 214(10)][319] (which relates to the obligation to file an annual return):
     
-    *   (24) [section 215(2)(b)][286] (which relates to public inspection of company records):
+    *   (24) [section 215(2)(b)][322] (which relates to public inspection of company records):
     
-    *   (25) [section 216(2)(b)][287] (which relates to inspection of company records by shareholders):
+    *   (25) [section 216(2)(b)][323] (which relates to inspection of company records by shareholders):
     
-    *   (26) [section 236(5)][311] (which relates to the approval of arrangements, amalgamations, and compromises by the court):
+    *   (26) [section 236(5)][347] (which relates to the approval of arrangements, amalgamations, and compromises by the court):
     
-    *   (27) [section 237(3)][312] (which relates to the power of the court to make additional orders in connection with the approval of an arrangement or amalgamation or compromise):
+    *   (27) [section 237(3)][348] (which relates to the power of the court to make additional orders in connection with the approval of an arrangement or amalgamation or compromise):
     
-    *   (28) [section 333(5)(b)][624] (which relates to name reservation by overseas companies):
+    *   (28) [section 333(5)(b)][660] (which relates to name reservation by overseas companies):
     
-    *   (29) [section 334(6)(b)][625] (which relates to the registration of overseas companies):
+    *   (29) [section 334(6)(b)][661] (which relates to the registration of overseas companies):
     
-    *   (30) [section 339(2)(b)][630] (which relates to changes in the constitution of an overseas company):
+    *   (30) [section 339(2)(b)][666] (which relates to changes in the constitution of an overseas company):
     
-    *   (31) [section 340(6)(b)][632] (which relates to the filing of annual returns by overseas companies).
+    *   (31) [section 340(6)(b)][668] (which relates to the filing of annual returns by overseas companies).
+    
+    (3) A director of a company who is convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $50,000:
+        
+    *   (a) [section 194(4)][256] (which relates to the keeping of accounting records):
+    
+    *   (b) [section 207G(3)][282] (which relates to the preparation, audit, and registration of financial statements).
     
     Section 374(2)(1): repealed, on 1 July 1994, by section 47 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
     
-    Section 374(2)(16A): inserted, on 15 April 2004, by [section 21(1)][977] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Section 374(2)(15): replaced, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 374(2)(21): replaced, on 18 June 2007, by [section 13][978] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 374(2)(16): replaced, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 374(2)(22): replaced, on 18 June 2007, by [section 13][978] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 374(2)(16A): repealed, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 374(2)(22A): inserted, on 18 June 2007, by [section 13][978] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 374(2)(17): replaced, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 374(2)(18): replaced, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 374(2)(19): replaced, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 374(2)(20): repealed, on 1 April 2014, by [section 40(1)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Section 374(2)(21): replaced, on 18 June 2007, by [section 13][1040] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 374(2)(22): replaced, on 18 June 2007, by [section 13][1040] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 374(2)(22A): inserted, on 18 June 2007, by [section 13][1040] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    
+    Section 374(3): inserted, on 1 April 2014, by [section 40(2)][1039] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 375 Proceedings for offences
     
@@ -13607,19 +14247,19 @@ Offences and penalties
     
     (2) \[Repealed\]
     
-    (3) Despite anything to the contrary in [section 25][979] of the Criminal Procedure Act 2011,---
+    (3) Despite anything to the contrary in [section 25][1041] of the Criminal Procedure Act 2011,---
         
-    *   (a) a charging document may be filed at any time in respect of an offence against [section 373(4)][674]; and
+    *   (a) a charging document may be filed at any time in respect of an offence against [section 373(4)][711]; and
     
-    *   (b) the limitation period in respect of an offence specified in [section 373(1) or (2)][674], or [section 374][675] of this Act ends on the date that is 3 years after the date on which the offence was committed.
+    *   (b) the limitation period in respect of an offence specified in [section 373(1) or (2)][711], or [section 374][712] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    (4) Nothing in [sections 377 to 380][678] affects the liability of any person under any other Act, but no person shall be convicted of an offence against any of those sections and a provision of any other Act in respect of the same conduct.
+    (4) Nothing in [sections 377 to 380][715] affects the liability of any person under any other Act, but no person shall be convicted of an offence against any of those sections and a provision of any other Act in respect of the same conduct.
     
-    Section 375(1): repealed, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 375(1): repealed, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 375(2): repealed, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 375(2): repealed, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 375(3): replaced, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 375(3): replaced, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 376 Defences
     
@@ -13649,7 +14289,7 @@ Offences and penalties
     
     *   (b) omits, or authorises the omission from it of, any matter knowing that the omission makes the document false or misleading in a material particular---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (2) Every director or employee of a company who makes or furnishes, or authorises or permits the making or furnishing of, a statement or report that relates to the affairs of the company and that is false or misleading in a material particular, to---
         
@@ -13661,7 +14301,7 @@ Offences and penalties
     
     *   (d) a stock exchange or an officer of a stock exchange,---
     
-    knowing it to be false or misleading, commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    knowing it to be false or misleading, commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (3) For the purposes of this section, a person who voted in favour of the making of a statement at a meeting is deemed to have authorised the making of the statement.
     
@@ -13675,7 +14315,7 @@ Offences and penalties
     
     *   (b) fraudulently conceals or destroys property of the company---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     Compare: 1955 No 63 s 461A; 1980 No 43 s 47
 
@@ -13687,7 +14327,7 @@ Offences and penalties
     
     *   (b) makes, or is a party to the making of, a false entry in any register, accounting records, book, paper, or other document belonging or relating to the company---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (2) Every person who, in relation to a mechanical, electronic, or other device used in connection with the keeping or preparation of any register, accounting or other records, index, book, paper, or other document for the purposes of a company or this Act,---
         
@@ -13695,13 +14335,13 @@ Offences and penalties
     
     *   (b) with intent to falsify or render misleading any such register, accounting or other records, index, book, paper, or other document, destroys, removes, or falsifies matter recorded or stored in the device, or fails or omits to record or store any matter in the device---
     
-    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence, and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     Compare: 1955 No 63 s 461C; 1980 No 43 s 47
 
 ##### 380 Carrying on business fraudulently
     
-*   (1) Every person who is knowingly a party to a company carrying on business with intent to defraud creditors of the company or any other person or for a fraudulent purpose commits an offence and is liable on conviction to the penalties set out in [section 373(4)][674].
+*   (1) Every person who is knowingly a party to a company carrying on business with intent to defraud creditors of the company or any other person or for a fraudulent purpose commits an offence and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (2) Every director of a company who,---
         
@@ -13717,17 +14357,17 @@ Offences and penalties
         
         
     
-    commits an offence and is liable on conviction to the penalties set out in [section 373(4)][674].
+    commits an offence and is liable on conviction to the penalties set out in [section 373(4)][711].
     
-    (3) Every director of a company commits an offence and is liable on conviction to the penalties set out in [section 373(4)][674], who, with intent to defraud a creditor or creditors of the company, does any thing that causes material loss to any creditor.
+    (3) Every director of a company commits an offence and is liable on conviction to the penalties set out in [section 373(4)][711], who, with intent to defraud a creditor or creditors of the company, does any thing that causes material loss to any creditor.
     
     Compare: 1955 No 63 s 461D; 1980 No 43 s 47
     
-    Section 380(3): inserted, on 1 November 2007, by [section 33][980] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 380(3): inserted, on 1 November 2007, by [section 33][1042] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 381 Improper use of ""Limited""
     
-*   Any person who, not being incorporated with limited liability, whether alone or with other persons, carries on business under a name or title of which ""Limited"" or a contraction or imitation of that word is the last word, commits an offence and is liable on conviction to the penalty set out in [section 373(2)][674].
+*   Any person who, not being incorporated with limited liability, whether alone or with other persons, carries on business under a name or title of which ""Limited"" or a contraction or imitation of that word is the last word, commits an offence and is liable on conviction to the penalty set out in [section 373(2)][711].
     
     Compare: 1955 No 63 s 462
 
@@ -13735,9 +14375,9 @@ Offences and penalties
     
 *   (1) Where---
         
-    *   (a) a person has been convicted under any of subparagraphs (g) to (j) of [section 373(4)][674] of any offence in connection with the promotion, formation, or management of a company; or
+    *   (a) a person has been convicted under any of subparagraphs (g) to (j) of [section 373(4)][711] of any offence in connection with the promotion, formation, or management of a company; or
     
-    *   (b) a person has been convicted of an offence under any of [sections 377 to 380][678] or of any crime involving dishonesty as defined in [section 2(1)][981] of the Crimes Act 1961,---
+    *   (b) a person has been convicted of an offence under any of [sections 377 to 380][715] or of any crime involving dishonesty as defined in [section 2(1)][1043] of the Crimes Act 1961,---
     
     *   (c) \[Repealed\]
     
@@ -13747,25 +14387,25 @@ Offences and penalties
     
     (3) The Registrar, and such other persons as the court thinks fit, may attend and be heard at the hearing of any application under this section.
     
-    (4) A person who acts in contravention of this section, or of any order made under this section, commits an offence and is liable on conviction to the penalty set out in [section 373(4)][674].
+    (4) A person who acts in contravention of this section, or of any order made under this section, commits an offence and is liable on conviction to the penalty set out in [section 373(4)][711].
     
     (5) In this section, the term _company_ includes an overseas company that carries on business in New Zealand.
     
-    Section 382(1)(a): amended, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 382(1)(a): amended, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 382(1)(c): repealed, on 29 February 2008, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 382(1)(c): repealed, on 29 February 2008, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 383 Court may disqualify directors
     
 *   (1) Where---
         
-    *   (a) a person has been convicted under [section 373(4)][674] of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in [section 2(1)][981] of the Crimes Act 1961; or
+    *   (a) a person has been convicted under [section 373(4)][711] of an offence in connection with the promotion, formation, or management of a company, or has been convicted of a crime involving dishonesty as defined in [section 2(1)][1043] of the Crimes Act 1961; or
     
     *   (b) a person has committed an offence for which the person is liable (whether convicted or not) under this Part; or
     
     *   (c) a person has, while a director of a company and whether convicted or not,---
             
-        *   (i) persistently failed to comply with this Act or the Companies Act 1955, the [Securities Act 1978][731], the [Securities Markets Act 1988][811], the [Takeovers Act 1993][763], or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
+        *   (i) persistently failed to comply with this Act or the Companies Act 1955, the [Securities Act 1978][768], the [Securities Markets Act 1988][851], the [Takeovers Act 1993][801], or the takeovers code in force under that Act or, if the company has failed to so comply, persistently failed to take reasonable steps to obtain compliance with those Acts or the code; or
         
         *   (ii) been guilty of fraud in relation to the company or of a breach of duty to the company or a shareholder; or
         
@@ -13779,7 +14419,9 @@ Offences and penalties
     
     *   (e) a person has become of unsound mind,---
     
-    the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company for such period not exceeding 10 years as may be specified in the order.
+    the court may make an order that the person must not, without the leave of the court, be a director or promoter of, or in any way, whether directly or indirectly, be concerned or take part in the management of, a company permanently or for a period specified in the order.
+    
+    (1A) The court may make an order under this section permanent or for a period longer than 10 years only in the most serious of cases for which an order may be made.
     
     (2) A person intending to apply for an order under this section must give not less than 10 days' notice of that intention to the person against whom the order is sought, and on the hearing of the application the last-mentioned person may appear and give evidence or call witnesses.
     
@@ -13799,35 +14441,39 @@ Offences and penalties
     
     (4) An order may be made under this section even though the person concerned may be criminally liable in respect of the matters on the ground of which the order is to be made.
     
-    (4A) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, [section 43F][893] of the Securities Markets Act 1988, [section 44F][894] of the Takeovers Act 1993, and [section 60A][892] of the Securities Act 1978, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+    (4A) If conduct by a person constitutes grounds for making an order under any 1 or more of this section, [section 43F][951] of the Securities Markets Act 1988, [section 44F][952] of the Takeovers Act 1993, and [section 60A][950] of the Securities Act 1978, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
     (5) The Registrar of the court must, as soon as practicable after the making of an order under this section, give notice to the Registrar that the order has been made and the Registrar must give notice in the _Gazette_ of the name of the person against whom the order is made.
     
-    (6) Every person who acts in contravention of an order under this section commits an offence and is liable on conviction to the penalties set out in [section 373(4)][674].
+    (6) Every person who acts in contravention of an order under this section commits an offence and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (7) In this section, _company_ includes an overseas company.
     
     Compare: 1955 No 63 s 189; 1988 No 236 s 4
     
-    Section 383(1)(a): amended, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 383(1): amended, on 1 April 2014, by [section 150][1044] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 383(1)(c)(i): replaced, on 25 October 2006, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 383(1)(a): amended, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 383(1)(ca): inserted, on 22 November 2006, by [section 14][982] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 383(1)(c)(i): replaced, on 25 October 2006, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 383(1)(d): repealed, on 29 February 2008, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 383(1)(ca): inserted, on 22 November 2006, by [section 14][1045] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 383(3): replaced, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 383(1)(d): repealed, on 29 February 2008, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 383(3A): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 383(1A): inserted, on 1 April 2014, by [section 150][1044] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 383(3B): inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 383(3): replaced, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 383(4A): inserted, on 25 October 2006, by [section 25][815] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 383(3A): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 383(3B): inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 383(4A): inserted, on 25 October 2006, by [section 25][855] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 384 Liability for contravening sections 382 and 383
     
-*   A person who acts as a director of a company in contravention of [section 382][683] or an order made under [section 383][684] is personally liable to---
+*   A person who acts as a director of a company in contravention of [section 382][720] or an order made under [section 383][721] is personally liable to---
         
     *   (a) a liquidator of the company for every unpaid debt incurred by the company; and
     
@@ -13851,11 +14497,11 @@ Offences and penalties
     
     *   (f) that has entered into a compromise or arrangement with its creditors:
     
-    *   (g) that is in voluntary administration under [Part 15A][315].
+    *   (g) that is in voluntary administration under [Part 15A][351].
     
     (2) This section also applies in relation to a company the liquidation of which has been completed whether or not the company has been removed from the New Zealand register.
     
-    (3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 5 years after the date of the notice as is specified in the notice. Every notice shall be published in the _Gazette_.
+    (3) The Registrar or the FMA may, by notice in writing given to a person, prohibit that person from being a director or promoter of a company, or being concerned in, or taking part, whether directly or indirectly, in the management of, a company during such period not exceeding 10 years after the date of the notice as is specified in the notice. Every notice shall be published in the _Gazette_.
     
     (4) The power conferred by subsection (3) may be exercised in relation to---
         
@@ -13887,47 +14533,49 @@ Offences and penalties
     
     Every such notice shall be published in the _Gazette_.
     
-    (9) Every person to whom a notice under subsection (3) is given who fails to comply with the notice commits an offence and is liable on conviction to the penalties set out in [section 373(4)][674].
+    (9) Every person to whom a notice under subsection (3) is given who fails to comply with the notice commits an offence and is liable on conviction to the penalties set out in [section 373(4)][711].
     
     (10) In this section, _company_ includes an overseas company that carries on business in New Zealand.
     
     Compare: 1955 No 63 s 189A; 1988 No 236 s 5
     
-    Section 385 heading: amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385 heading: amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(1)(g): inserted, on 1 November 2007, by [section 34][983] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 385(1)(g): inserted, on 1 November 2007, by [section 34][1046] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 385(3): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(3): amended, on 1 April 2014, by [section 150][1044] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
     
-    Section 385(4)(a): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(3): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(4)(b): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(4)(a): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(5): replaced, on 3 May 2001, by [section 15][984] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
+    Section 385(4)(b): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(5): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(5): replaced, on 3 May 2001, by [section 15][1047] of the Companies Act 1993 Amendment Act 2001 (2001 No 18).
     
-    Section 385(5)(a): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(5): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(5)(b): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(5)(a): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(7): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(5)(b): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 385(8): amended, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385(7): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 385(8): amended, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 385A Appeals from FMA's exercise of power under section 385
     
-*   (1) A person who is aggrieved by the FMA's exercise of a power under [section 385][686] may appeal to the court within 15 working days after the date that the notice is published in the _Gazette_ under section 385(3), or within any further time as the court may allow.
+*   (1) A person who is aggrieved by the FMA's exercise of a power under [section 385][723] may appeal to the court within 15 working days after the date that the notice is published in the _Gazette_ under section 385(3), or within any further time as the court may allow.
     
     (2) On hearing the appeal, the court may approve the FMA's exercise of the power or may give any directions or make any determination in the matter that the court thinks fit.
     
-    (3) [Section 370][669] provides for appeals from the Registrar's acts or decisions under [section 385][686].
+    (3) [Section 370][706] provides for appeals from the Registrar's acts or decisions under [section 385][723].
     
-    Section 385A: inserted, on 1 May 2011, by [section 82][734] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 385A: inserted, on 1 May 2011, by [section 82][772] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 386 Liability for contravening section 385
     
-*   A person who acts in contravention of a notice under [section 385][686] is personally liable to---
+*   A person who acts in contravention of a notice under [section 385][723] is personally liable to---
         
     *   (a) a liquidator of the company for every unpaid debt incurred by the company; and
     
@@ -13937,7 +14585,7 @@ Offences and penalties
 
 ##### 386A Director of failed company must not be director, etc, of phoenix company with same or substantially similar name
     
-*   (1) Except with the permission of the court, or unless one of the exceptions in [sections 386D to 386F][692] applies, a director of a failed company must not, for a period of 5 years after the date of commencement of the liquidation of the failed company,---
+*   (1) Except with the permission of the court, or unless one of the exceptions in [sections 386D to 386F][729] applies, a director of a failed company must not, for a period of 5 years after the date of commencement of the liquidation of the failed company,---
         
     *   (a) be a director of a phoenix company; or
     
@@ -13945,17 +14593,17 @@ Offences and penalties
     
     *   (c) directly or indirectly be concerned in or take part in the carrying on of a business that has the same name as the failed company's pre-liquidation name or a similar name.
     
-    (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(4)][674].
+    (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in [section 373(4)][711].
     
     Compare: Insolvency Act 1986 s 216 (UK)
     
-    Section 386A: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386A: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 386A(2): amended, on 1 July 2013, by [section 413][768] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 386A(2): amended, on 1 July 2013, by [section 413][806] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 386B Definitions for purpose of phoenix company provisions
     
-*   (1) In [sections 386A to 386F][689],---
+*   (1) In [sections 386A to 386F][726],---
     
     _director of a failed company_ means a person who was a director of a failed company at any time in the period of 12 months before the commencement of its liquidation, and _director of the failed company_ has a corresponding meaning
     
@@ -13971,21 +14619,21 @@ Offences and penalties
     
     _similar name_ means a name that is so similar to a pre-liquidation name of a failed company as to suggest an association with that company.
     
-    (2) For the purposes of [sections 386A to 386F][689], a company is known by a name if that name is its registered name or if it carries on business, or carries on a part of its business, under that name.
+    (2) For the purposes of [sections 386A to 386F][726], a company is known by a name if that name is its registered name or if it carries on business, or carries on a part of its business, under that name.
     
     Compare: Insolvency Act 1986 s 216(6) (UK)
     
-    Section 386B: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386B: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 386C Liability for debts of phoenix company
     
-*   (1) A person who contravenes [section 386A(1)(a) or (b)][689] is personally liable for all of the relevant debts of the phoenix company.
+*   (1) A person who contravenes [section 386A(1)(a) or (b)][726] is personally liable for all of the relevant debts of the phoenix company.
     
     (2) A person (_A_) who is involved in the management of a phoenix company is personally liable for all of the relevant debts of the company if---
         
     *   (a) in the management of the company A acts or is willing to act on instructions given by another person (_B_); and
     
-    *   (b) at that time A knows that B is contravening [section 386A(1)(a) or (b)][689] in relation to the company.
+    *   (b) at that time A knows that B is contravening [section 386A(1)(a) or (b)][726] in relation to the company.
     
     (3) In this section, _relevant debts_---
         
@@ -13995,17 +14643,17 @@ Offences and penalties
     
     (4) Liability under this section is joint and several.
     
-    (5) For the purposes of this section, a person who, as a person involved in the management of a company, has at any time acted on instructions given by a person who he or she knew at the time to be in contravention of [section 386A][689] is presumed, unless the contrary is shown, to have been willing at any later time to act on any instructions given by that person.
+    (5) For the purposes of this section, a person who, as a person involved in the management of a company, has at any time acted on instructions given by a person who he or she knew at the time to be in contravention of [section 386A][726] is presumed, unless the contrary is shown, to have been willing at any later time to act on any instructions given by that person.
     
     Compare: Insolvency Act 1986 s 217 (UK)
     
-    Section 386C: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386C: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 386D Exception for person named in successor company notice
     
-*   (1) [Section 386A][689] does not apply to a person named in a successor company notice.
+*   (1) [Section 386A][726] does not apply to a person named in a successor company notice.
     
-    (2) A _successor company_ is a company that acquires the whole or substantially the whole of the business of a failed company under arrangements made by a liquidator or receiver or made under a deed of company arrangement under [Part 15A][315].
+    (2) A _successor company_ is a company that acquires the whole or substantially the whole of the business of a failed company under arrangements made by a liquidator or receiver or made under a deed of company arrangement under [Part 15A][351].
     
     (3) A _successor company notice_ is a notice by a successor company that---
         
@@ -14037,11 +14685,11 @@ Offences and penalties
     
     Compare: Insolvency Rules 1986 rule 4.228 (UK)
     
-    Section 386D: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386D: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 386E Exception for temporary period while application for exemption is made
     
-*   (1) A person does not contravene a prohibition in [section 386A][689] for the temporary period set out in subsection (2) if that person applies to the court within 5 working days after the commencement of the liquidation of the failed company for an order exempting that person from the prohibition in question.
+*   (1) A person does not contravene a prohibition in [section 386A][726] for the temporary period set out in subsection (2) if that person applies to the court within 5 working days after the commencement of the liquidation of the failed company for an order exempting that person from the prohibition in question.
     
     (2) The temporary period in subsection (1) is the period beginning on the date of the commencement of the liquidation of the failed company and ending on the earlier of---
         
@@ -14051,21 +14699,23 @@ Offences and penalties
     
     Compare: Insolvency Rules 1986 rule 4.229 (UK)
     
-    Section 386E: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386E: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 386F Exception in relation to non-dormant phoenix company known by pre-liquidation name of failed company for at least 12 months before liquidation
     
-*   (1) The prohibitions in [section 386A(1)(a) and (b)][689] do not apply in respect of a phoenix company that has been known by a name or names that are the same as the failed company's pre-liquidation name or are similar names if---
+*   (1) The prohibitions in [section 386A(1)(a) and (b)][726] do not apply in respect of a phoenix company that has been known by a name or names that are the same as the failed company's pre-liquidation name or are similar names if---
         
     *   (a) it has been known by that name or those names for not less than the period of 12 months before liquidation commences; and
     
     *   (b) it has not been dormant during those 12 months.
     
-    (2) For the purposes of subsection (1), a company has not been dormant during the 12-month period if transactions that are required by [section 194(2)][256] to be recorded in its accounting records have occurred throughout that period.
+    (2) For the purposes of subsection (1), a company has not been dormant during the 12-month period if transactions that are required by [section 194(1)][256] to be recorded in its accounting records have occurred throughout that period.
     
     Compare: Insolvency Rules 1986 rule 4.230 (UK)
     
-    Section 386F: inserted, on 1 November 2007, by [section 35][985] of the Companies Amendment Act 2006 (2006 No 56).
+    Section 386F: inserted, on 1 November 2007, by [section 35][1048] of the Companies Amendment Act 2006 (2006 No 56).
+    
+    Section 386F(2): amended, on 1 April 2014, by [section 41][1049] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ## Part 22  
 Miscellaneous
@@ -14088,23 +14738,23 @@ Miscellaneous
     
     (2) The methods of service specified in subsection (1) are the only methods by which a document in legal proceedings may be served on a company in New Zealand.
     
-    Section 387(1)(e): amended, on 3 June 1998, by [section 19][986] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 387(1)(e): amended, on 3 June 1998, by [section 19][1050] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Section 387(1)(f): inserted, on 3 June 1998, by [section 19][986] of the Companies Amendment Act 1998 (1998 No 31).
+    Section 387(1)(f): inserted, on 3 June 1998, by [section 19][1050] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 388 Service of other documents on companies
     
 *   (1) A document, other than a document in any legal proceedings, may be served on a company as follows:
         
-    *   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of [section 387][696]; or
+    *   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of [section 387][733]; or
     
     *   (b) by posting it to the company's registered office or address for service or delivering it to a box at a document exchange which the company is using at the time; or
     
     *   (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the company's registered office or address for service or its head office or principal place of business.
     
-    (2) Subsection (1) is subject to [section 391(3A) to (3C)][700].
+    (2) Subsection (1) is subject to [section 391(3A) to (3C)][737].
     
-    Section 388(2): inserted, on 31 August 2012, by [section 8][987] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 388(2): inserted, on 31 August 2012, by [section 8][1051] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 389 Service of documents on overseas companies in legal proceedings
     
@@ -14126,15 +14776,15 @@ Miscellaneous
     
 *   (1) A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
         
-    *   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of [section 389][698]; or
+    *   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of [section 389][735]; or
     
     *   (b) by posting it to the address of the overseas company's principal place of business in New Zealand or delivering it to a box at a document exchange which the overseas company is then using at the time; or
     
     *   (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company.
     
-    (2) Subsection (1) is subject to [section 391(3A) to (3C)][700].
+    (2) Subsection (1) is subject to [section 391(3A) to (3C)][737].
     
-    Section 390(2): inserted, on 31 August 2012, by [section 9][988] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 390(2): inserted, on 31 August 2012, by [section 9][1052] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 391 Service of documents on shareholders and creditors
     
@@ -14146,7 +14796,7 @@ Miscellaneous
     
     *   (c) sent by facsimile machine to a telephone number used by that person for the transmission of documents by facsimile.
     
-    (2) A notice, statement, report, accounts, or other document to be sent to a shareholder or creditor that is a company or an overseas company may be sent by any of the methods of serving documents referred to in [section 388][697] or [section 390][699], as the case may be, of this Act.
+    (2) A notice, statement, report, accounts, or other document to be sent to a shareholder or creditor that is a company or an overseas company may be sent by any of the methods of serving documents referred to in [section 388][734] or [section 390][736], as the case may be, of this Act.
     
     (3) A notice, statement, report, accounts, or other document to be sent to a creditor that is a body corporate, not being a company or an overseas company, may be---
         
@@ -14180,15 +14830,15 @@ Miscellaneous
     
     and the documents are returned unclaimed 3 consecutive times, the liquidator need not send further documents to the shareholder or creditor until the shareholder or creditor gives notice to the company of its new address.
     
-    Section 391(3A): inserted, on 31 August 2012, by [section 10][989] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 391(3A): inserted, on 31 August 2012, by [section 10][1053] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Section 391(3B): inserted, on 31 August 2012, by [section 10][989] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 391(3B): inserted, on 31 August 2012, by [section 10][1053] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Section 391(3C): inserted, on 31 August 2012, by [section 10][989] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Section 391(3C): inserted, on 31 August 2012, by [section 10][1053] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 392 Additional provisions relating to service
     
-*   (1) Subject to subsection (2), for the purposes of [sections 387 to 391][696],---
+*   (1) Subject to subsection (2), for the purposes of [sections 387 to 391][733],---
         
     *   (a) if a document is to be served by delivery to a natural person, service must be made---
             
@@ -14220,7 +14870,7 @@ Miscellaneous
     
 *   (1) Subject to subsection (2), nothing in this Act requires a legal practitioner to disclose a privileged communication.
     
-    (2) Nothing in subsection (1) applies to a communication made to or by a person referred to in [section 261(2)(f)][523] while acting or having acted as a solicitor for a company to which that section applies and which that person is required to disclose under section 261(3).
+    (2) Nothing in subsection (1) applies to a communication made to or by a person referred to in [section 261(2)(f)][559] while acting or having acted as a solicitor for a company to which that section applies and which that person is required to disclose under section 261(3).
     
     (3) For the purposes of this section, a communication is a privileged communication only if---
         
@@ -14236,17 +14886,17 @@ Miscellaneous
     
     *   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of an illegal or wrongful act.
     
-    (4) If the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, a book, account, statement or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of [section 6][990] of the Lawyers and Conveyancers Act 2006\.
+    (4) If the information or document consists wholly of payments, income, expenditure, or financial transactions of a specified person (whether a legal practitioner, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, a book, account, statement or other record prepared or kept by the legal practitioner in connection with a trust account of the legal practitioner within the meaning of [section 6][1054] of the Lawyers and Conveyancers Act 2006\.
     
     (5) The court may, on the application of any person, determine whether or not a claim of privilege is valid and may, for that purpose, require the information or document to be produced.
     
-    (6) For the purposes of this section, the term _legal practitioner_ means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][991]) in which he or she is, or is held out to be, a partner, director, or shareholder.
+    (6) For the purposes of this section, the term _legal practitioner_ means a barrister or solicitor of the High Court, and references to a legal practitioner include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][1055]) in which he or she is, or is held out to be, a partner, director, or shareholder.
     
-    Compare: 1990 No 51 [s 24][992]
+    Compare: 1990 No 51 [s 24][1056]
     
-    Section 393(4): amended, on 1 August 2008, by [section 348][993] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 393(4): amended, on 1 August 2008, by [section 348][1057] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 393(6): replaced, on 1 August 2008, by [section 348][993] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 393(6): replaced, on 1 August 2008, by [section 348][1057] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 394 Directors' certificates
     
@@ -14278,43 +14928,43 @@ Miscellaneous
     
     *   (cb) prescribing requirements for the preparation of concise annual reports:
     
-    *   (cc) prescribing countries, States, or territories outside New Zealand for the purposes of [section 343A][636]:
+    *   (cc) prescribing countries, States, or territories outside New Zealand for the purposes of [section 343A][673]:
     
-    *   (cd) prescribing classes of information or documents for the purposes of [section 343A][636]:
+    *   (cd) prescribing classes of information or documents for the purposes of [section 343A][673]:
     
     *   (d) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
     
     (2) Different forms for the purposes of this Act may be prescribed for different classes of persons.
     
-    Section 395(1)(ca): inserted, on 22 November 2006, by [section 15(1)][994] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 395(1)(ca): inserted, on 22 November 2006, by [section 15(1)][1058] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 395(1)(cb): inserted, on 22 November 2006, by [section 15(1)][994] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 395(1)(cb): inserted, on 22 November 2006, by [section 15(1)][1058] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 395(1)(cc): inserted, on 22 November 2006, by [section 15(1)][994] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 395(1)(cc): inserted, on 22 November 2006, by [section 15(1)][1058] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 395(1)(cd): inserted, on 22 November 2006, by [section 15(1)][994] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 395(1)(cd): inserted, on 22 November 2006, by [section 15(1)][1058] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 395(2): inserted, on 22 November 2006, by [section 15(2)][994] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 395(2): inserted, on 22 November 2006, by [section 15(2)][1058] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 396 Summary Proceedings Act 1957 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][995]._
+*   _Amendment(s) incorporated in the [Act(s)][1059]._
 
 ##### 397 Securities Transfer Act 1991 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][996]._
+*   _Amendment(s) incorporated in the [Act(s)][1060]._
 
 ##### 398 Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) [Parts 14][300], [15][309], [15A][315], and [16][491] and all other provisions of this Act are subject to [section 106][997] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][998] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) [Parts 14][336], [15][345], [15A][351], and [16][527] and all other provisions of this Act are subject to [section 106][1061] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][1062] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][999] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][1063] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][999] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][1063] of the Civil Aviation Act 1990\.
     
-    Section 398: inserted, on 1 November 2010, by [section 14(1)][1000] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 398: inserted, on 1 November 2010, by [section 14(1)][1064] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 399 Companies Act 1955 continues to apply for limited purposes
     
@@ -14324,7 +14974,7 @@ Miscellaneous
     
     (3) Part 6A of the Companies Act 1955 continues to apply in respect of every company that, immediately before the repeal of that Act, was subject to any action under that Part of that Act to remove the company from the register, or had been removed from the register.
     
-    (4) Subsections (1) to (3) apply despite the repeal of the Companies Act 1955 by the [Companies Act Repeal Act 1993][1001].
+    (4) Subsections (1) to (3) apply despite the repeal of the Companies Act 1955 by the [Companies Act Repeal Act 1993][1065].
     
     (5) Nothing in subsection (1) applies in relation to section 290 of the Companies Act 1955\.
     
@@ -14332,21 +14982,21 @@ Miscellaneous
     
     Compare: 1993 No 126 s 3
     
-    Section 399: inserted, on 5 December 2013, by [section 11][1002] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 399: inserted, on 5 December 2013, by [section 11][1066] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 400 Companies restored to register or that have ceased to be in liquidation may be reregistered
     
-*   (1) This section applies to a company that, but for the repeal of the Companies Reregistration Act 1993, would have been deemed to have been reregistered under this Act in accordance with [section 13A][1003] or [13B][1004] of the Companies Reregistration Act 1993 (which relate to companies that have been restored to the register or that have ceased to be in liquidation).
+*   (1) This section applies to a company that, but for the repeal of the Companies Reregistration Act 1993, would have been deemed to have been reregistered under this Act in accordance with [section 13A][1067] or [13B][1068] of the Companies Reregistration Act 1993 (which relate to companies that have been restored to the register or that have ceased to be in liquidation).
     
-    (2) [Sections 12][1005] and [13A to 15][1003] and the [Schedule][1006] of the Companies Reregistration Act 1993 continue to apply to the company as if the [Companies Amendment Act 2013][1007] had not been enacted.
+    (2) [Sections 12][1069] and [13A to 15][1067] and the [Schedule][1070] of the Companies Reregistration Act 1993 continue to apply to the company as if the [Companies Amendment Act 2013][1071] had not been enacted.
     
-    Section 400: inserted, on 5 December 2013, by [section 11][1002] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 400: inserted, on 5 December 2013, by [section 11][1066] of the Companies Amendment Act 2013 (2013 No 111).
 
 ##### 401 References to companies incorporated under Companies Act 1955
     
 *   A reference in any enactment to a company incorporated under the Companies Act 1955 or to which that Act applies must, unless the context otherwise requires, be read as including a company registered under this Act or to which this Act applies.
     
-    Section 401: inserted, on 5 December 2013, by [section 11][1002] of the Companies Amendment Act 2013 (2013 No 111).
+    Section 401: inserted, on 5 December 2013, by [section 11][1066] of the Companies Amendment Act 2013 (2013 No 111).
 
 ---
 
@@ -14373,6 +15023,8 @@ Proceedings at meetings of shareholders
     
     *   (b) the text of any special resolution to be submitted to the meeting; and
     
+    *   (ba) the text of any resolution for the purposes of [section 207I][285] or [207J][286] to be submitted to the meeting; and
+    
     *   (c) in the case of special resolutions required by [section 106(1)(a) or (b)][139], the right of a shareholder under [section 110][144].
     
     (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
@@ -14381,9 +15033,11 @@ Proceedings at meetings of shareholders
     
     (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
     
-    Schedule 1 clause 2(2)(b): amended, on 17 September 2008, by [section 10][1008] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Schedule 1 clause 2(2)(b): amended, on 17 September 2008, by [section 10][1072] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
-    Schedule 1 clause 2(2)(c): inserted, on 17 September 2008, by [section 10][1008] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Schedule 1 clause 2(2)(ba): inserted, on 1 April 2014, by [section 42][1073] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    
+    Schedule 1 clause 2(2)(c): inserted, on 17 September 2008, by [section 10][1072] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
     Schedule 1 clause 2(3A): inserted, on 1 July 1994, by section 49 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
@@ -14391,13 +15045,13 @@ Proceedings at meetings of shareholders
     
 *   A meeting of shareholders may be held by a quorum of the shareholders---
         
-    *   (a) being assembled together at the time and place appointed for the meeting; or 
+    *   (a) being assembled together at the time and place appointed for the meeting; or
     
     *   (b) participating in the meeting by means of audio, audio and visual, or electronic communication; or
     
     *   (c) by a combination of both of the methods described in paragraphs (a) and (b).
     
-    Schedule 1 clause 3: replaced, on 31 August 2012, by [section 11(1)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 3: replaced, on 31 August 2012, by [section 11(1)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 4 Quorum
     
@@ -14413,17 +15067,17 @@ Proceedings at meetings of shareholders
     
     (4) To avoid doubt, a shareholder participating in a meeting by means of audio, audio and visual, or electronic communication is present at the meeting and part of the quorum.
     
-    Schedule 1 clause 4(4): inserted, on 31 August 2012, by [section 11(2)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 4(4): inserted, on 31 August 2012, by [section 11(2)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 5 Voting
     
-*   (1) In the case of a meeting of shareholders held under [clause 3(a)][1010], unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
+*   (1) In the case of a meeting of shareholders held under [clause 3(a)][1075], unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
         
     *   (a) voting by voice; or
     
     *   (b) voting by show of hands.
     
-    (2) In the case of a meeting of shareholders held under [clause 3(b)][1010] or (c), unless a poll is demanded, voting at the meeting shall be by any method permitted by the chairperson of the meeting.
+    (2) In the case of a meeting of shareholders held under [clause 3(b)][1075] or (c), unless a poll is demanded, voting at the meeting shall be by any method permitted by the chairperson of the meeting.
     
     (3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4).
     
@@ -14445,11 +15099,11 @@ Proceedings at meetings of shareholders
     
     (8) For the purposes of this clause, the instrument appointing a proxy to vote at a meeting of a company confers authority to demand or join in demanding a poll and a demand by a person as proxy for a shareholder has the same effect as a demand by the shareholder.
     
-    Schedule 1 clause 5(2): amended, on 31 August 2012, by [section 11(3)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 5(2): amended, on 31 August 2012, by [section 11(3)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Schedule 1 clause 5(4)(c): amended, on 3 June 1998, by [section 20(1)][1011] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 1 clause 5(4)(c): amended, on 3 June 1998, by [section 20(1)][1076] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Schedule 1 clause 5(4)(d): inserted, on 3 June 1998, by [section 20(1)][1011] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 1 clause 5(4)(d): inserted, on 3 June 1998, by [section 20(1)][1076] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 6 Proxies
     
@@ -14465,11 +15119,11 @@ Proceedings at meetings of shareholders
     
     (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
     
-    Schedule 1 clause 6(3): amended, on 31 August 2012, by [section 11(4)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 6(3): amended, on 31 August 2012, by [section 11(4)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
     
-    Schedule 1 clause 6(3): amended, on 3 June 1998, by [section 20(2)][1011] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 1 clause 6(3): amended, on 3 June 1998, by [section 20(2)][1076] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Schedule 1 clause 6(3A): inserted, on 31 August 2012, by [section 11(5)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 6(3A): inserted, on 31 August 2012, by [section 11(5)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 7 Postal votes
     
@@ -14509,7 +15163,7 @@ Proceedings at meetings of shareholders
     
     (8) The chairperson of a meeting must ensure that a certificate of postal votes held by him or her is annexed to the minutes of the meeting.
     
-    Schedule 1 clause 7(1A): inserted, on 31 August 2012, by [section 11(6)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 7(1A): inserted, on 31 August 2012, by [section 11(6)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ##### 8 Minutes
     
@@ -14531,15 +15185,15 @@ Proceedings at meetings of shareholders
     
     (6) The board is not required to include in or with the notice given by the board---
         
-    *   (a) any part of a statement prepared by a shareholder that the directors consider to be defamatory (within the meaning of the [Defamation Act 1992][1012]), frivolous, or vexatious; or
+    *   (a) any part of a statement prepared by a shareholder that the directors consider to be defamatory (within the meaning of the [Defamation Act 1992][1077]), frivolous, or vexatious; or
     
-    *   (b) any part of a proposal or resolution prepared by a shareholder that the directors consider to be defamatory (within the meaning of the [Defamation Act 1992][1012]).
+    *   (b) any part of a proposal or resolution prepared by a shareholder that the directors consider to be defamatory (within the meaning of the [Defamation Act 1992][1077]).
     
     (7) Where the costs of giving notice of the shareholder proposal and the text of any proposed resolution are required to be met by the proposing shareholder, the proposing shareholder must, on giving notice to the board, deposit with the company or tender to the company a sum sufficient to meet those costs.
     
-    Schedule 1 clause 9(4): amended, on 15 April 2004, by [section 22(1)][1013] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Schedule 1 clause 9(4): amended, on 15 April 2004, by [section 22(1)][1078] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
     
-    Schedule 1 clause 9(6): replaced, on 15 April 2004, by [section 22(2)][1013] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+    Schedule 1 clause 9(6): replaced, on 15 April 2004, by [section 22(2)][1078] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ##### 10 Corporations may act by representatives
     
@@ -14567,7 +15221,7 @@ Proceedings at meetings of shareholders
     
     (2) To avoid doubt, participation in a meeting includes participation in any manner specified in this schedule or permitted by the constitution of the company.
     
-    Schedule 1 clause 14: inserted, on 31 August 2012, by [section 11(7)][1009] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
+    Schedule 1 clause 14: inserted, on 31 August 2012, by [section 11(7)][1074] of the Companies Amendment Act (No 2) 2012 (2012 No 60).
 
 ---
 
@@ -14616,11 +15270,11 @@ Sections of this Act that confer powers on directors that cannot be delegated
 
 *   (s) [section 193][252] (which relates to a change of address for service):
 
-*   (t) [section 221][293] (which relates to the manner of approving an amalgamation proposal):
+*   (t) [section 221][329] (which relates to the manner of approving an amalgamation proposal):
 
-*   (u) [section 222][294] (which relates to short form amalgamations).
+*   (u) [section 222][330] (which relates to short form amalgamations).
 
-*   Schedule 2 paragraph (da): inserted, on 15 April 2004, by [section 23][1014] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+*   Schedule 2 paragraph (da): inserted, on 15 April 2004, by [section 23][1079] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ---
 
@@ -14692,7 +15346,7 @@ Proceedings of the board of a company
 ## Schedule 4  
 Information to be contained in annual return
 
-[s 214][283]
+[s 214][319]
 
 *   (a) the address of the registered office of the company:
 
@@ -14728,7 +15382,7 @@ Information to be contained in annual return
 
 *   (g) the full names and residential addresses of the directors of the company:
 
-*   (h) if the company is a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][756] of the Securities Markets Act 1988), the names and addresses of, and the number of shares held by,---
+*   (h) if the company is a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][794] of the Securities Markets Act 1988), the names and addresses of, and the number of shares held by,---
         
     *   (i) the persons holding the 10 largest numbers of shares; or
     
@@ -14736,7 +15390,7 @@ Information to be contained in annual return
     
     
 
-*   (i) if the company is not a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][756] of the Securities Markets Act 1988), the following information relating to past and present shareholders of the company:
+*   (i) if the company is not a party to a listing agreement with a registered exchange (within the meaning of [section 2(1)][794] of the Securities Markets Act 1988), the following information relating to past and present shareholders of the company:
         
     *   (i) the names and addresses of all the shareholders of the company:
     
@@ -14778,9 +15432,11 @@ Information to be contained in annual return
     
     *   (iv) \[Repealed\]
     
-    [section 18][1015] or [section 19][827] of the Financial Reporting Act 1993 applied to the company or the company was a code company within the meaning of [section 2A][1016] of the Takeovers Act 1993:
+    the financial statements or group financial statements of the company were required to be registered or lodged under any Act or the company was a code company within the meaning of [section 2A][1080] of the Takeovers Act 1993:
 
-*   (k) in the case of a company which has passed a resolution under [section 196(2)][259] that no auditor be appointed, the text and date of the resolution:
+*   (k) in the case of a company that has passed a resolution under [section 207I][285] or [207J][286], the text and date of the resolution:
+
+*   (ka) in the case of a company in respect of which a notice has been given under section 207K, the text and date of the notice:
 
 *   (l) the date of the last annual meeting of the company held under this Act or, if the company avoided the need for an annual meeting by doing everything required to be done at that meeting by passing a resolution under [section 122][161], the date on which the resolution was passed.
 
@@ -14792,28 +15448,31 @@ The information required by paragraph (f)(i) must show separately the number of 
 
 The information required under paragraph (i) need relate only to persons who have become shareholders or who have ceased to be shareholders since the date of an annual return filed under this Act for one of the 2 preceding years if that annual return contained the information required by that paragraph.
     
-*   Schedule 4 paragraph (h): amended, on 1 December 2002, by [section 30][757] of the Securities Markets Amendment Act 2002 (2002 No 44).
-*   Schedule 4 paragraph (i): amended, on 1 December 2002, by [section 30][757] of the Securities Markets Amendment Act 2002 (2002 No 44).
-*   Schedule 4 paragraph (i)(ii)(B): replaced, on 5 December 2013, by [section 12(1)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (i)(ii)(C): repealed, on 5 December 2013, by [section 12(1)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (i)(ii)(D): repealed, on 5 December 2013, by [section 12(1)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (i)(iv)(B): replaced, on 5 December 2013, by [section 12(2)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (i)(iv)(C): repealed, on 5 December 2013, by [section 12(2)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (i)(iv)(D): repealed, on 5 December 2013, by [section 12(2)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (j): amended, on 31 August 2012, by [section 10(2)][1018] of the Takeovers Amendment Act 2012 (2012 No 68).
-*   Schedule 4 paragraph (j): amended, on 7 July 2010, by [section 20][1019] of the Takeovers Amendment Act 2010 (2010 No 88).
-*   Schedule 4 paragraph (j)(ii): replaced, on 5 December 2013, by [section 12(3)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (j)(iii): repealed, on 5 December 2013, by [section 12(3)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (j)(iv): repealed, on 5 December 2013, by [section 12(3)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 paragraph (m): repealed, on 5 December 2013, by [section 12(4)][1017] of the Companies Amendment Act 2013 (2013 No 111).
-*   Schedule 4 notes: amended, on 31 August 2012, by [section 10(3)][1018] of the Takeovers Amendment Act 2012 (2012 No 68).
+*   Schedule 4 paragraph (h): amended, on 1 December 2002, by [section 30][795] of the Securities Markets Amendment Act 2002 (2002 No 44).
+*   Schedule 4 paragraph (i): amended, on 1 December 2002, by [section 30][795] of the Securities Markets Amendment Act 2002 (2002 No 44).
+*   Schedule 4 paragraph (i)(ii)(B): replaced, on 5 December 2013, by [section 12(1)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (i)(ii)(C): repealed, on 5 December 2013, by [section 12(1)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (i)(ii)(D): repealed, on 5 December 2013, by [section 12(1)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (i)(iv)(B): replaced, on 5 December 2013, by [section 12(2)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (i)(iv)(C): repealed, on 5 December 2013, by [section 12(2)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (i)(iv)(D): repealed, on 5 December 2013, by [section 12(2)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (j): amended, on 1 April 2014, by [section 43(1)][1082] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Schedule 4 paragraph (j): amended, on 31 August 2012, by [section 10(2)][1083] of the Takeovers Amendment Act 2012 (2012 No 68).
+*   Schedule 4 paragraph (j): amended, on 7 July 2010, by [section 20][1084] of the Takeovers Amendment Act 2010 (2010 No 88).
+*   Schedule 4 paragraph (j)(ii): replaced, on 5 December 2013, by [section 12(3)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (j)(iii): repealed, on 5 December 2013, by [section 12(3)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (j)(iv): repealed, on 5 December 2013, by [section 12(3)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 paragraph (k): replaced, on 1 April 2014, by [section 43(2)][1082] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Schedule 4 paragraph (ka): inserted, on 1 April 2014, by [section 43(2)][1082] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Schedule 4 paragraph (m): repealed, on 5 December 2013, by [section 12(4)][1081] of the Companies Amendment Act 2013 (2013 No 111).
+*   Schedule 4 notes: amended, on 31 August 2012, by [section 10(3)][1083] of the Takeovers Amendment Act 2012 (2012 No 68).
 
 ---
 
 ## Schedule 5  
 Proceedings at meetings of creditors
 
-[ss 229(2)][303], [230(1)][304], [243(5)][499], [314(4)][598], [315(4)][599]
+[ss 229(2)][339], [230(1)][340], [243(5)][535], [314(4)][634], [315(4)][635]
 
 ##### 1 Methods of holding meetings
     
@@ -14823,7 +15482,7 @@ Proceedings at meetings of creditors
     
     *   (b) by means of audio, or audio and visual, communication by which all creditors participating can simultaneously hear each other throughout the meeting; or
     
-    *   (c) by conducting a postal ballot in accordance with [clause 7][1020] of those creditors entitled to take part.
+    *   (c) by conducting a postal ballot in accordance with [clause 7][1085] of those creditors entitled to take part.
     
     
 
@@ -14831,11 +15490,11 @@ Proceedings at meetings of creditors
     
 *   (1) Written notice of---
         
-    *   (a) the time and place of every meeting to be held under [clause 1(a)][1021]; or
+    *   (a) the time and place of every meeting to be held under [clause 1(a)][1086]; or
     
-    *   (b) the time and method of communication for every meeting to be held under [clause 1(b)][1021]; or
+    *   (b) the time and method of communication for every meeting to be held under [clause 1(b)][1086]; or
     
-    *   (c) the time and address for the return of voting papers for every meeting to be held under [clause 1(a) or (b) or (c)][1021]---
+    *   (c) the time and address for the return of voting papers for every meeting to be held under [clause 1(a) or (b) or (c)][1086]---
     
     must be sent to every creditor entitled to attend the meeting, and to any liquidator not less than 5 working days before the meeting.
     
@@ -14867,25 +15526,25 @@ Proceedings at meetings of creditors
     
     (5) An adjourned meeting must be held in the same place unless another place is specified in the resolution for the adjournment.
     
-    (6) If a meeting of creditors under [clause 1(a) or (b)][1021] is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
+    (6) If a meeting of creditors under [clause 1(a) or (b)][1086] is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
     
-    Schedule 5 clause 2(2)(c): amended, on 3 June 1998, by [section 21(1)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 2(2)(c): amended, on 3 June 1998, by [section 21(1)][1087] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Schedule 5 clause 2(2)(d): inserted, on 3  June 1998, by [section 21(1)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 2(2)(d): inserted, on 3  June 1998, by [section 21(1)][1087] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 3 Chairperson
     
-*   (1) If a liquidator has been appointed and is present, or if the liquidator has appointed a nominee and the nominee is present, he or she must act as chairperson of a meeting held in accordance with [clause 1(a) or (b)][1021].
+*   (1) If a liquidator has been appointed and is present, or if the liquidator has appointed a nominee and the nominee is present, he or she must act as chairperson of a meeting held in accordance with [clause 1(a) or (b)][1086].
     
-    (2) At any meeting of creditors, not being a meeting held for the purposes of [section 230][304], where neither the liquidator nor any nominee of the liquidator is present, the creditors participating must choose one of their number to act as chairperson of the meeting.
+    (2) At any meeting of creditors, not being a meeting held for the purposes of [section 230][340], where neither the liquidator nor any nominee of the liquidator is present, the creditors participating must choose one of their number to act as chairperson of the meeting.
     
-    (2A) At any meeting of creditors held for the purposes of [section 230][304] where there is no liquidator or neither the liquidator nor any nominee of the liquidator is present, the proponent of the compromise or the proponent's nominee must act as chairperson of the meeting; but if neither the proponent nor any nominee of the proponent is present, the creditors participating must choose one of their number to act as chairperson of the meeting.
+    (2A) At any meeting of creditors held for the purposes of [section 230][340] where there is no liquidator or neither the liquidator nor any nominee of the liquidator is present, the proponent of the compromise or the proponent's nominee must act as chairperson of the meeting; but if neither the proponent nor any nominee of the proponent is present, the creditors participating must choose one of their number to act as chairperson of the meeting.
     
-    (3) The person convening a meeting under [clause 1(c)][1021] must do everything necessary that would otherwise be done by the person chairing a meeting.
+    (3) The person convening a meeting under [clause 1(c)][1086] must do everything necessary that would otherwise be done by the person chairing a meeting.
     
-    Schedule 5 clause 3(2): replaced, on 3 June 1998, by [section 21(2)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 3(2): replaced, on 3 June 1998, by [section 21(2)][1087] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Schedule 5 clause 3(2A): inserted, on 3 June 1998, by [section 21(2)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 3(2A): inserted, on 3 June 1998, by [section 21(2)][1087] of the Companies Amendment Act 1998 (1998 No 31).
 
 ##### 4 Quorum
     
@@ -14899,15 +15558,15 @@ Proceedings at meetings of creditors
 
 ##### 5 Voting
     
-*   (1) At any meeting of creditors or a class of creditors, not being a meeting held for the purposes of [section 230][304], a resolution is adopted if a majority in number and value of the creditors or the class of creditors voting in person or by proxy vote or by postal vote in favour of the resolution.
+*   (1) At any meeting of creditors or a class of creditors, not being a meeting held for the purposes of [section 230][340], a resolution is adopted if a majority in number and value of the creditors or the class of creditors voting in person or by proxy vote or by postal vote in favour of the resolution.
     
-    (2) At any meeting of creditors or a class of creditors held for the purposes of [section 230][304], a resolution is adopted if a majority in number representing 75% in value of the creditors or class of creditors voting in person or by proxy vote or by postal vote in favour of the resolution.
+    (2) At any meeting of creditors or a class of creditors held for the purposes of [section 230][340], a resolution is adopted if a majority in number representing 75% in value of the creditors or class of creditors voting in person or by proxy vote or by postal vote in favour of the resolution.
     
     (3) A creditor chairing the meeting does not have a casting vote.
     
-    Schedule 5 clause 5(1): amended, on 30 June 1997, by [section 23(1)][1023] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Schedule 5 clause 5(1): amended, on 30 June 1997, by [section 23(1)][1088] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
     
-    Schedule 5 clause 5(2): amended, on 30 June 1997, by [section 23(1)][1023] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Schedule 5 clause 5(2): amended, on 30 June 1997, by [section 23(1)][1088] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 6 Proxies
     
@@ -14919,11 +15578,11 @@ Proceedings at meetings of creditors
     
     (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is delivered to the liquidator or, if no liquidator is acting, to the person by whom the notice convening the meeting was given, not less than 2 working days before the start of the meeting.
     
-    Schedule 5 clause 6(4): amended, on 30 June 1997, by [section 23(2)][1023] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Schedule 5 clause 6(4): amended, on 30 June 1997, by [section 23(2)][1088] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 7 Postal votes
     
-*   (1) A creditor entitled to vote at a meeting of creditors held in accordance with [clause 1(a) or (b) or (c)][1021] may exercise the right to vote by casting a postal vote in relation to a matter to be decided at that meeting.
+*   (1) A creditor entitled to vote at a meeting of creditors held in accordance with [clause 1(a) or (b) or (c)][1086] may exercise the right to vote by casting a postal vote in relation to a matter to be decided at that meeting.
     
     (1A) If a creditor votes by casting a postal vote in respect of a resolution that is to be submitted to the meeting and a different resolution is submitted to the meeting,---
         
@@ -14935,7 +15594,7 @@ Proceedings at meetings of creditors
     
     (3) If no person has been authorised to receive and count postal votes in relation to a meeting, or if no person is named as being so authorised in the notice of the meeting, every director, or if the company is in liquidation, the liquidator, is deemed to be so authorised.
     
-    (4) A creditor may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a marked voting paper to a person authorised to receive and count postal votes in relation to that meeting, so as to reach that person not less than 2 working days before the start of the meeting or, if the meeting is held under [clause 1(c)][1024], not later than the date named for the return of the voting paper.
+    (4) A creditor may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a marked voting paper to a person authorised to receive and count postal votes in relation to that meeting, so as to reach that person not less than 2 working days before the start of the meeting or, if the meeting is held under [clause 1(c)][1089], not later than the date named for the return of the voting paper.
     
     (5) It is the duty of a person authorised to receive and count postal votes in relation to a meeting---
         
@@ -14959,17 +15618,17 @@ Proceedings at meetings of creditors
     
     *   (d) to ensure that the certificate required by paragraph (c) is presented to the person chairing or convening the meeting.
     
-    (6) If a vote is taken at a meeting held under [clause 1(a) or (b)][1021] on a resolution on which postal votes have been cast, the person chairing the meeting must include the results of voting by all creditors who have sent in a voting paper duly marked as for or against the resolution.
+    (6) If a vote is taken at a meeting held under [clause 1(a) or (b)][1086] on a resolution on which postal votes have been cast, the person chairing the meeting must include the results of voting by all creditors who have sent in a voting paper duly marked as for or against the resolution.
     
     (7) A certificate given under subclause (5) in relation to the postal votes cast in respect of a meeting of creditors must be annexed to the minutes of the meeting.
     
-    Schedule 5 clause 7(1A): inserted, on 3 June 1998, by [section 21(3)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 7(1A): inserted, on 3 June 1998, by [section 21(3)][1087] of the Companies Amendment Act 1998 (1998 No 31).
     
-    Schedule 5 clause 7(4): amended, on 30 June 1997, by [section 23(3)][1023] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
+    Schedule 5 clause 7(4): amended, on 30 June 1997, by [section 23(3)][1088] of the Companies Act 1993 Amendment Act 1997 (1997 No 27).
 
 ##### 8 Minutes
     
-*   (1) The person chairing a meeting of creditors, or in the case of a meeting held under [clause 1(c)][1024], the person convening the meeting, must ensure that minutes are kept of all proceedings.
+*   (1) The person chairing a meeting of creditors, or in the case of a meeting held under [clause 1(c)][1089], the person convening the meeting, must ensure that minutes are kept of all proceedings.
     
     (2) Minutes which have been signed correct by the person chairing or convening the meeting are prima facie evidence of the proceedings.
 
@@ -14987,14 +15646,14 @@ Proceedings at meetings of creditors
     
     (2) The court may, on the application of the liquidator or a creditor of the company, make an order under subclause (1) if it is satisfied that substantial injustice would be caused if the order were not made.
     
-    Schedule 5 clause 11: inserted, on 3 June 1998, by [section 21(4)][1022] of the Companies Amendment Act 1998 (1998 No 31).
+    Schedule 5 clause 11: inserted, on 3 June 1998, by [section 21(4)][1087] of the Companies Amendment Act 1998 (1998 No 31).
 
 ---
 
 ## Schedule 6  
 Powers of liquidators
 
-[s 260(2)][521]
+[s 260(2)][557]
 
 A liquidator of a company has power to---
     
@@ -15036,16 +15695,16 @@ A liquidator of a company has power to---
 
 *   (o) change the registered office or address for service of the company.
 
-*   Schedule 6 paragraph (o): inserted, on 15 April 2004, by [section 24][1025] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
+*   Schedule 6 paragraph (o): inserted, on 15 April 2004, by [section 24][1090] of the Companies Amendment Act (No 2) 2004 (2004 No 24).
 
 ---
 
 ## Schedule 7  
 Preferential claims
 
-[s 312][595]
+[s 312][631]
 
-*   Schedule 7: replaced, on 1 November 2007, by [section 40(1)][1026] of the Companies Amendment Act 2006 (2006 No 56).
+*   Schedule 7: replaced, on 1 November 2007, by [section 40(1)][1091] of the Companies Amendment Act 2006 (2006 No 56).
 
 ##### 1 Priority of payments to preferential creditors
     
@@ -15069,35 +15728,35 @@ Preferential claims
     
     (2) After paying the claims referred to in subclause (1), the liquidator must next pay, to the extent that they remain unpaid, the following claims:
         
-    *   (a) subject to [clause 3(1)][798], all wages or salary of any employee, whether or not earned wholly or in part by way of commission, and whether payable for time or for piece work, in respect of services provided to the company during the 4 months before the commencement of the liquidation:
+    *   (a) subject to [clause 3(1)][838], all wages or salary of any employee, whether or not earned wholly or in part by way of commission, and whether payable for time or for piece work, in respect of services provided to the company during the 4 months before the commencement of the liquidation:
     
-    *   (aa) subject to [clause 3(1)][798], all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under [section 24Q][1027] of the Tax Administration Act 1994 during the 4 months before the commencement of the liquidation:
+    *   (aa) subject to [clause 3(1)][838], all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under [section 24Q][1092] of the Tax Administration Act 1994 during the 4 months before the commencement of the liquidation:
     
-    *   (b) subject to [clause 3(1)][798], any holiday pay payable to an employee on the termination of his or her employment before, or because of, the commencement of the liquidation:
+    *   (b) subject to [clause 3(1)][838], any holiday pay payable to an employee on the termination of his or her employment before, or because of, the commencement of the liquidation:
     
-    *   (c) subject to [clause 3(1)][798], any compensation for redundancy owed to an employee that accrues before, or because of, the commencement of the liquidation:
+    *   (c) subject to [clause 3(1)][838], any compensation for redundancy owed to an employee that accrues before, or because of, the commencement of the liquidation:
     
-    *   (d) subject to [clause 3(1)][798], amounts deducted by the company from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with [section 163(1)][1028] of the Child Support Act 1991 and [section 167(2)][1029] of the Tax Administration Act 1994 as applied by [section 70][1030] of the Student Loan Scheme Act 2011):
+    *   (d) subject to [clause 3(1)][838], amounts deducted by the company from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with [section 163(1)][1093] of the Child Support Act 1991 and [section 167(2)][1094] of the Tax Administration Act 1994 as applied by [section 70][1095] of the Student Loan Scheme Act 2011):
     
-    *   (e) subject to [clause 3(1)][798], any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under [section 123(1)(b)][1031] or [section 128][1032] of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the commencement of the liquidation:
+    *   (e) subject to [clause 3(1)][838], any reimbursement or payment provided for, or ordered by, the Employment Relations Authority, the Employment Court, or the Court of Appeal under [section 123(1)(b)][1096] or [section 128][1097] of the Employment Relations Act 2000, to the extent that the reimbursement or payment does not relate to any matter set out in section 123(1)(c) of the Employment Relations Act 2000, in respect of wages or other money or remuneration lost during the 4 months before the commencement of the liquidation:
     
-    *   (f) amounts that are preferential claims under [section 263(2)][525]:
+    *   (f) amounts that are preferential claims under [section 263(2)][561]:
     
-    *   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with [section 167(2)][1029] of the Tax Administration Act 1994 as applied by [section 67][1033] of the KiwiSaver Act 2006:
+    *   (g) all amounts payable to the Commissioner of Inland Revenue in accordance with [section 167(2)][1094] of the Tax Administration Act 1994 as applied by [section 67][1098] of the KiwiSaver Act 2006:
     
     *   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subclause.
     
-    (3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under [section 11][1034] of the Layby Sales Act 1971,---
+    (3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under [section 11][1099] of the Layby Sales Act 1971,---
         
     *   (a) paid by the buyer to a seller on account of the purchase price of goods; or
     
-    *   (b) to which the buyer is or becomes entitled to receive from a seller under [section 9][1035] of the Layby Sales Act 1971\.
+    *   (b) to which the buyer is or becomes entitled to receive from a seller under [section 9][1100] of the Layby Sales Act 1971\.
     
-    (4) After paying the claims referred to in subclause (3), the liquidator must next pay the amount of any costs referred to in [section 234(c)][308].
+    (4) After paying the claims referred to in subclause (3), the liquidator must next pay the amount of any costs referred to in [section 234(c)][344].
     
     (5) After paying the claims referred to in subclause (4), the liquidator must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of---
         
-    *   (a) tax payable by the company in the manner required by [Part 3][1036] of the Goods and Services Tax Act 1985; and
+    *   (a) tax payable by the company in the manner required by [Part 3][1101] of the Goods and Services Tax Act 1985; and
     
     *   (b) tax deductions made by the company under the PAYE rules of the Income Tax Act 2004; and
     
@@ -15105,15 +15764,15 @@ Preferential claims
     
     *   (d) resident withholding tax deducted by the company under the RWT rules of the Income Tax Act 2004; and
     
-    *   (e) duty payable within the meaning of [section 2(1)][1037] of the Customs and Excise Act 1996\.
+    *   (e) duty payable within the meaning of [section 2(1)][1102] of the Customs and Excise Act 1996\.
     
-    Schedule 7 clause 1(2)(aa): inserted, on 6 January 2010, by [section 862][1038] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 7 clause 1(2)(aa): inserted, on 6 January 2010, by [section 862][1103] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 7 clause 1(2)(d): amended, on 1 April 2012, by [section 223][1039] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Schedule 7 clause 1(2)(d): amended, on 1 April 2012, by [section 223][1104] of the Student Loan Scheme Act 2011 (2011 No 62).
 
 ##### 2 Conditions to priority of payments to preferential creditors
     
-*   (1) The claims listed in each of subclauses (2), (3), (4), and (5) of [clause 1][901]---
+*   (1) The claims listed in each of subclauses (2), (3), (4), and (5) of [clause 1][959]---
         
     *   (a) rank equally among themselves and, subject to any maximum payment level specified in any Act or regulations, must be paid in full, unless the assets of the company are insufficient to meet them, in which case they abate in equal proportions; and
     
@@ -15123,7 +15782,7 @@ Preferential claims
                 
             *   (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
             
-            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][1040] of the Personal Property Securities Act 1999; and
+            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][1105] of the Personal Property Securities Act 1999; and
             
             *   (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the commencement of the liquidation and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
             
@@ -15137,11 +15796,11 @@ Preferential claims
     
     (3) To the extent that the claims to which subclause (1) applies are paid out of assets referred to in paragraph (b) of that subclause, the amount so paid is an unsecured debt due by the company to the secured party.
     
-    (4) [Clause 9][1041] of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+    (4) [Clause 9][1106] of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ##### 3 Provisions concerning preferential payments to employees
     
-*   (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of [clause 1(2)][901] must not, in the case of any one employee, exceed $20,340 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
+*   (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of [clause 1(2)][959] must not, in the case of any one employee, exceed $20,340 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
     
     (2) The sum stated in subclause (1) must be adjusted as follows:
         
@@ -15161,15 +15820,15 @@ Preferential claims
     
     (3) The sum stated in subclause (1), or any greater amount prescribed under subclause (2) that applies on the date of commencement of a liquidation, continues to apply to that liquidation regardless of any change to that sum that is prescribed after the date of commencement of the liquidation.
     
-    (4) For the purposes of this clause and [clause 1][901],---
+    (4) For the purposes of this clause and [clause 1][959],---
         
     *   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the company during that period:
     
-    *   (b) _employee_ means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in [section 5][1042] of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
+    *   (b) _employee_ means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in [section 5][1107] of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
     
-    *   (c) _holiday pay_, in relation to a person, means all sums payable to that person by the company under [subpart 1][1043] of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
+    *   (c) _holiday pay_, in relation to a person, means all sums payable to that person by the company under [subpart 1][1108] of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
     
-    Schedule 7 clause 3(1): amended, on 28 September 2012, by [clause 3][1044] of the Companies (Maximum Priority Amount) Order 2012 (SR 2012/252).
+    Schedule 7 clause 3(1): amended, on 28 September 2012, by [clause 3][1109] of the Companies (Maximum Priority Amount) Order 2012 (SR 2012/252).
 
 ##### 4 Subrogation of persons if payment has been made
     
@@ -15179,7 +15838,7 @@ Preferential claims
     
 *   If a person has distrained on goods or effects of the company during the 20 working days before the commencement of the liquidation, the preferential claims set out in this schedule are a first charge on the goods or effects so distrained, or the proceeds from their sale; but if any money is paid to a claimant under that charge, the person has the same rights of priority as that claimant.
     
-    Schedule 7 clause 5: amended, on 1 January 2008, by [section 370(2)][1045] of the Property Law Act 2007 (2007 No 91).
+    Schedule 7 clause 5: amended, on 1 January 2008, by [section 370(2)][1110] of the Property Law Act 2007 (2007 No 91).
 
 ##### 6 Saving provision for liquidation that has commenced
     
@@ -15190,7 +15849,7 @@ Preferential claims
 ## Schedule 8  
 Proceedings at meetings of liquidation committees
 
-[s 315(3)][599]
+[s 315(3)][635]
 
 ##### 1 Frequency of meetings
     
@@ -15231,13 +15890,13 @@ Proceedings at meetings of liquidation committees
 ## Schedule 9  
 Liquidation of overseas companies
 
-[ss 341(2)][633], [342(1)][634]
+[ss 341(2)][670], [342(1)][671]
 
-*   Schedule 9 heading: amended, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+*   Schedule 9 heading: amended, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
 
 ##### 1 Modified application of Part 16
     
-*   [Part 16][491] applies to the liquidation of an overseas company, with the following modifications and exclusions:
+*   [Part 16][527] applies to the liquidation of an overseas company, with the following modifications and exclusions:
         
     *   (a) \[Repealed\]
     
@@ -15247,21 +15906,21 @@ Liquidation of overseas companies
     
     *   (d) the following provisions of that Part do not apply to such a liquidation:
             
-        *   (i) [section 248(1)(d), (e), (f), and (g)][505]:
+        *   (i) [section 248(1)(d), (e), (f), and (g)][541]:
         
-        *   (ii) [section 268][530]:
+        *   (ii) [section 268][566]:
         
         
     
     *   (e) \[Repealed\]
     
-    *   (f) [section 257][516] applies to such a liquidation, but instead of making the statement required by subsection (1)(a)(ii)(C) of that section, the liquidator must state that the company has ceased to carry on business in New Zealand and is ready to be removed from the overseas register.
+    *   (f) [section 257][552] applies to such a liquidation, but instead of making the statement required by subsection (1)(a)(ii)(C) of that section, the liquidator must state that the company has ceased to carry on business in New Zealand and is ready to be removed from the overseas register.
     
-    Schedule 9 clause 1: amended, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Schedule 9 clause 1: amended, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
     
-    Schedule 9 clause 1(a): repealed, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Schedule 9 clause 1(a): repealed, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
     
-    Schedule 9 clause 1(e): repealed, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Schedule 9 clause 1(e): repealed, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
 
 ##### 2 Rights of action not affected
     
@@ -15271,7 +15930,7 @@ Liquidation of overseas companies
     
     *   (b) to bring an action in New Zealand in relation to the balance of a debt remaining unpaid after the completion of a liquidation.
     
-    Schedule 9 clause 2: amended, on 24 July 2008, by [section 13][958] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
+    Schedule 9 clause 2: amended, on 24 July 2008, by [section 13][1019] of the Insolvency (Cross-border) Act 2006 (2006 No 57).
 
 ---
 
@@ -15283,13 +15942,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Companies Amendment Act 2006][1046].
+*   This Act is the [Companies Amendment Act 2006][1111].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2: Companies Amendment Act 2006 brought into force, on 1 November 2007, by the [Companies Amendment Act 2006 Commencement Order 2007][1047] (SR 2007/297).
+    Section 2: Companies Amendment Act 2006 brought into force, on 1 November 2007, by the [Companies Amendment Act 2006 Commencement Order 2007][1112] (SR 2007/297).
 
 ##### 3 Principal Act amended
     
@@ -15329,7 +15988,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Companies Amendment Act (No 2) 2006][1048].
+*   This Act is the [Companies Amendment Act (No 2) 2006][1113].
 
 ##### 2 Commencement
     
@@ -15337,11 +15996,11 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
     
-    Section 2(1): sections 4(3), 5--10, 13, 16(1), (2), and 17, and the Schedule brought into force, on 18 June 2007, by [clause 2(1)][1049] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
+    Section 2(1): sections 4(3), 5--10, 13, 16(1), (2), and 17, and the Schedule brought into force, on 18 June 2007, by [clause 2(1)][1114] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
     
-    Section 2(1): sections 11 and 12 brought into force, on 1 September 2007, by [clause 2(2)][1050] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
+    Section 2(1): sections 11 and 12 brought into force, on 1 September 2007, by [clause 2(2)][1115] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
     
-    Section 2(1): section 16(3) brought into force, on 29 February 2008, by the [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1051] (SR 2007/370).
+    Section 2(1): section 16(3) brought into force, on 29 February 2008, by the [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1116] (SR 2007/370).
 
 ##### 3 Principal Act amended
     
@@ -15375,7 +16034,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Companies (Minority Buy-out Rights) Amendment Act 2008][1052].
+*   This Act is the [Companies (Minority Buy-out Rights) Amendment Act 2008][1117].
 
 ##### 2 Commencement
     
@@ -15395,6 +16054,44 @@ Transitional provision and consequential amendments to other enactments
     
 *   The amendments in Part 1 do not apply to any special resolution passed under section 106(1) of the Companies Act 1993 before this Act comes into force.
 
+---
+
+# Financial Reporting (Amendments to Other Enactments) Act 2013Public Act2013 No 102
+
+Date of assent3 December 2013
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Financial Reporting (Amendments to Other Enactments) Act 2013][1118].
+
+##### 2 Commencement
+    
+*   (1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
+    
+    (2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017\.
+    
+    (3) In this section, _provision_ includes any item, or any part of an item, in any of the schedules.
+    
+    Section 2(1): this Act (other than sections 18--22) brought into force, on 1 April 2014, by the [Financial Reporting Legislation Commencement Order 2014][1119] (LI 2014/52).
+
+#### Amendments to Companies Act 1993
+
+##### 23 Principal Act
+    
+*   Sections 24 to 43 amend the Companies Act 1993 (the _principal Act_).
+
+##### 44 Transitional provision
+    
+*   (1) The Companies Act 1993, as amended by sections 24 to 43, applies to a company or an overseas company in relation to accounting periods that commence on or after the commencement of this section.
+    
+    (2) The Companies Act 1993 and the Financial Reporting Act 1993 (and the regulations and order referred to in section 54(2) and (3)), as in force before the commencement of this section, continue to apply to a company or an overseas company in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
+    
+    (3) Unless the context otherwise requires, a reference to financial statements or group financial statements in the Companies Act 1993 (other than sections 200 to 207O) includes financial statements or group financial statements prepared under the Financial Reporting Act 1993 (whether under section 55 of the Financial Reporting Act 2013 or otherwise).
+    
+    (4) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
+
 #### 
 
 ---
@@ -15407,123 +16104,119 @@ Transitional provision and consequential amendments to other enactments
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1053] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][1054] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1120] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1121] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1055] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1056] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1122] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1123] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Companies Amendment Act 2013][1007] (2013 No 111)
+*   [Companies Amendment Act 2013][1071] (2013 No 111)
     
-    Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][879]
+    Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][937]
     
-    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][738]
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [sections 24--43][770], [126][858]
     
-    Companies (Maximum Priority Amount) Order 2012 (SR 2012/252): [clause 3][1044]
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][1044]
     
-    Takeovers Amendment Act 2012 (2012 No 68): [section 10][1018]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][776]
     
-    [Companies Amendment Act (No 2) 2012][1057] (2012 No 60)
+    Companies (Maximum Priority Amount) Order 2012 (SR 2012/252): [clause 3][1109]
     
-    [Companies Amendment Act 2012][1058] (2012 No 7)
+    Takeovers Amendment Act 2012 (2012 No 68): [section 10][1083]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][768]
+    [Companies Amendment Act (No 2) 2012][1124] (2012 No 60)
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1039]
+    [Companies Amendment Act 2012][1125] (2012 No 7)
     
-    Auditor Regulation Act 2011 (2011 No 21): [section 82][837]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][806]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][734]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1104]
     
-    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][735]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][772]
     
-    Takeovers Amendment Act 2010 (2010 No 88): [section 20][1019]
+    Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][773]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][840]
+    Takeovers Amendment Act 2010 (2010 No 88): [section 20][1084]
     
-    [Companies Amendment Act (No 2) 2010][1059] (2010 No 53)
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][967]
     
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][1000]
+    [Companies Amendment Act (No 2) 2010][1126] (2010 No 53)
     
-    [Companies Amendment Act 2010][1060] (2010 No 13)
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][1064]
     
-    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][758]
+    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][796]
     
-    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 16--19][733]
+    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 16--19][771]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 862][1038]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 862][1103]
     
-    [Companies (Minority Buy-out Rights) Amendment Act 2008][1052] (2008 No 69)
+    [Companies (Minority Buy-out Rights) Amendment Act 2008][1117] (2008 No 69)
     
-    Limited Partnerships Act 2008 (2008 No 1): [section 119][963]
+    Limited Partnerships Act 2008 (2008 No 1): [section 119][1024]
     
-    [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1051] (SR 2007/370).
+    [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1116] (SR 2007/370).
     
-    Property Law Act 2007 (2007 No 91): [sections 364(1)][745], [370(2)][1045]
+    Property Law Act 2007 (2007 No 91): [sections 364(1)][783], [370(2)][1110]
     
-    [Companies Amendment Act 2006 Commencement Order 2007][1047] (SR 2007/297)
+    [Companies Amendment Act 2006 Commencement Order 2007][1112] (SR 2007/297)
     
-    [Companies Amendment Act 2007 ][1061](2007 No 48)
+    [Companies Amendment Act 2007][1127] (2007 No 48)
     
-    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [section 70][753]
+    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [section 70][791]
     
-    [Companies Amendment Act (No 2) 2006 Commencement Order 2007][1050] (SR 2007/108).
+    [Companies Amendment Act (No 2) 2006 Commencement Order 2007][1115] (SR 2007/108).
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [section 219][754]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [section 219][792]
     
-    [Companies Amendment Act (No 2) 2006][1048] (2006 No 62)
+    [Companies Amendment Act (No 2) 2006][1113] (2006 No 62)
     
-    Insolvency (Cross-border) Act 2006 (2006 No 57): [section 13][958]
+    Insolvency (Cross-border) Act 2006 (2006 No 57): [section 13][1019]
     
-    [Companies Amendment Act 2006][1046] (2006 No 56)
+    [Companies Amendment Act 2006][1111] (2006 No 56)
     
-    Insolvency Act 2006 (2006 No 55): [section 445][782]
+    Insolvency Act 2006 (2006 No 55): [section 445][821]
     
-    Takeovers Amendment Act 2006 (2006 No 48): [section 30(1)][764]
+    Takeovers Amendment Act 2006 (2006 No 48): [section 30(1)][802]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][815]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][855]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][993]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][1057]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): section 7
     
-    [Companies Amendment Act (No 2) 2004][1062] (2004 No 24)
+    [Companies Amendment Act (No 2) 2004][1128] (2004 No 24)
     
-    [Companies Amendment Act 2004][1063] (2004 No 10)
+    [Companies Amendment Act 2004][1129] (2004 No 10)
     
     Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): section 48(1)
     
-    Takeovers Amendment Act 2002 (2002 No 45): [section 38][1064]
+    Takeovers Amendment Act 2002 (2002 No 45): [section 38][1130]
     
-    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][757]
+    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][795]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][937]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][997]
     
-    [Companies Act 1993 Amendment Act 2001][1065] (2001 No 18)
+    [Companies Act 1993 Amendment Act 2001][1131] (2001 No 18)
     
-    Public Audit Act 2001 (2001 No 10): [section 53][829]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][1007]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][947]
+    [Companies Amendment Act 1999][1132] (1999 No 19)
     
-    [Companies Amendment Act 1999][1066] (1999 No 19)
+    [Companies Amendment Act 1998][1133] (1998 No 31)
     
-    [Companies Amendment Act 1998][1067] (1998 No 31)
-    
-    [Companies Act 1993 Amendment Act 1997][1068] (1997 No 27)
+    [Companies Act 1993 Amendment Act 1997][1134] (1997 No 27)
     
     Companies Act 1993 Amendment Act 1996 (1996 No 115)
     
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][839]
-    
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][882]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][940]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82) 
+    Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][952]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][1012]
 
 
 
@@ -15782,817 +16475,883 @@ Transitional provision and consequential amendments to other enactments
 [252]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320869
 [253]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320870
 [254]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320872
-[255]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320873
+[255]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042988
 [256]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320874
 [257]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320875
-[258]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320876
+[258]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042912
 [259]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320877
-[260]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320882
-[261]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320884
-[262]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320886
-[263]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320887
+[260]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320884
+[261]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320886
+[262]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320887
+[263]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041554
 [264]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320893
 [265]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320894
 [266]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320895
 [267]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320896
 [268]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM320899
 [269]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321100
-[270]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321101
-[271]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321102
-[272]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321103
-[273]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321104
-[274]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321105
-[275]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321107
-[276]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321111
-[277]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321113
-[278]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321115
-[279]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321118
-[280]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321125
-[281]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321127
-[282]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321130
-[283]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321131
-[284]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321133
-[285]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321135
-[286]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321136
-[287]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321137
-[288]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321139
-[289]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321141
-[290]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321142
-[291]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321143
-[292]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321144
-[293]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321145
-[294]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321146
-[295]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321151
-[296]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321152
-[297]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321155
-[298]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321156
-[299]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321159
-[300]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321160
-[301]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321161
-[302]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321171
-[303]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321172
-[304]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321173
-[305]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321174
-[306]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321175
-[307]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321176
-[308]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321177
-[309]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321178
-[310]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321179
-[311]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321187
-[312]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321188
-[313]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321189
-[314]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321190
-[315]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321191
-[316]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321192
-[317]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321193
-[318]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321194
-[319]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321195
-[320]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321196
-[321]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321197
-[322]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3522910
-[323]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321198
-[324]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321199
-[325]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321500
-[326]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321501
-[327]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321502
-[328]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321503
-[329]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321504
-[330]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321505
-[331]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321506
-[332]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321507
-[333]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321508
-[334]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321509
-[335]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321510
-[336]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321511
-[337]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321512
-[338]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321513
-[339]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321514
-[340]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321515
-[341]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321516
-[342]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321517
-[343]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321518
-[344]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321519
-[345]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321520
-[346]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321521
-[347]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321522
-[348]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321523
-[349]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321524
-[350]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321525
-[351]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321526
-[352]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321527
-[353]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321528
-[354]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321529
-[355]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321530
-[356]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321531
-[357]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321532
-[358]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321533
-[359]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321534
-[360]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321535
-[361]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321536
-[362]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321537
-[363]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321538
-[364]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321539
-[365]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321540
-[366]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321541
-[367]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321542
-[368]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321543
-[369]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321544
-[370]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321545
-[371]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321546
-[372]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321547
-[373]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321548
-[374]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321549
-[375]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321550
-[376]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321551
-[377]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321552
-[378]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321553
-[379]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321554
-[380]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321555
-[381]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321556
-[382]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321557
-[383]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321558
-[384]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321559
-[385]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321560
-[386]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321561
-[387]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321562
-[388]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321563
-[389]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321564
-[390]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321565
-[391]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321566
-[392]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321567
-[393]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321568
-[394]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321569
-[395]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321570
-[396]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321571
-[397]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321572
-[398]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321573
-[399]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321574
-[400]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321575
-[401]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321576
-[402]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321577
-[403]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321578
-[404]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321579
-[405]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321580
-[406]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321581
-[407]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321582
-[408]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321583
-[409]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321584
-[410]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321585
-[411]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321586
-[412]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321587
-[413]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321588
-[414]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321589
-[415]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321590
-[416]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321591
-[417]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321592
-[418]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321593
-[419]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321594
-[420]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321595
-[421]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321596
-[422]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321597
-[423]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321598
-[424]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321599
-[425]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321600
-[426]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321601
-[427]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321602
-[428]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321603
-[429]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321604
-[430]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321605
-[431]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321606
-[432]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321607
-[433]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321608
-[434]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321609
-[435]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321610
-[436]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321611
-[437]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321612
-[438]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321613
-[439]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321614
-[440]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321615
-[441]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321616
-[442]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321617
-[443]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321618
-[444]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321619
-[445]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321620
-[446]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321621
-[447]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321622
-[448]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321623
-[449]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321624
-[450]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321625
-[451]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321626
-[452]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321627
-[453]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321628
-[454]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321629
-[455]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321630
-[456]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321631
-[457]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321632
-[458]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321633
-[459]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321634
-[460]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321635
-[461]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321636
-[462]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321637
-[463]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321638
-[464]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321639
-[465]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321640
-[466]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321641
-[467]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321642
-[468]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321643
-[469]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321644
-[470]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321645
-[471]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321646
-[472]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321647
-[473]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321648
-[474]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321649
-[475]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321650
-[476]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321651
-[477]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321652
-[478]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321653
-[479]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321654
-[480]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321655
-[481]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321656
-[482]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321657
-[483]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321658
-[484]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321659
-[485]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321660
-[486]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321661
-[487]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321662
-[488]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321663
-[489]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321664
-[490]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321665
-[491]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321666
-[492]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321667
-[493]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321668
-[494]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3522915
-[495]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321678
-[496]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321680
-[497]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321681
-[498]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321683
-[499]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321684
-[500]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321691
-[501]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321692
-[502]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321693
-[503]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321694
-[504]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321696
-[505]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321697
-[506]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321698
-[507]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321699
-[508]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321900
-[509]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321901
-[510]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321902
-[511]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321903
-[512]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321904
-[513]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321905
-[514]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321907
-[515]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321912
-[516]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321914
-[517]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321915
-[518]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321916
-[519]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725381
-[520]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321918
-[521]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321919
-[522]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321920
-[523]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321921
-[524]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321925
-[525]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321926
-[526]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321927
-[527]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321928
-[528]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321929
-[529]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321931
-[530]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321932
-[531]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321933
-[532]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321937
-[533]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321938
-[534]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321939
-[535]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321940
-[536]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321941
-[537]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321942
-[538]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321943
-[539]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321946
-[540]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321948
-[541]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321949
-[542]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321950
-[543]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321951
-[544]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321952
-[545]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321955
-[546]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321956
-[547]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321957
-[548]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321958
-[549]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321959
-[550]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321964
-[551]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321966
-[552]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321967
-[553]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321969
-[554]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321970
-[555]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321971
-[556]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321973
-[557]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321974
-[558]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321975
-[559]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321989
-[560]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322302
-[561]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322303
-[562]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322304
-[563]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322305
-[564]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322306
-[565]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322314
-[566]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322321
-[567]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322322
-[568]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322323
-[569]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322324
-[570]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322325
-[571]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322326
-[572]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322328
-[573]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322329
-[574]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322331
-[575]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322333
-[576]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322334
-[577]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322335
-[578]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322337
-[579]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322351
-[580]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322369
-[581]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322371
-[582]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322373
-[583]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322375
-[584]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322377
-[585]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322379
-[586]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322382
-[587]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322384
-[588]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322386
-[589]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322392
-[590]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322394
-[591]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322396
-[592]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322398
-[593]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322800
-[594]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322802
-[595]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322807
-[596]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322809
-[597]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322810
-[598]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322811
-[599]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322813
-[600]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322814
-[601]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322815
-[602]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322818
-[603]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322821
-[604]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322823
-[605]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322825
-[606]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322826
-[607]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322827
-[608]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322833
-[609]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322841
-[610]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322846
-[611]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322848
-[612]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322849
-[613]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322850
-[614]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322851
-[615]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322853
-[616]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322854
-[617]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322855
-[618]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322857
-[619]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322858
-[620]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322859
-[621]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322860
-[622]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322861
-[623]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322863
-[624]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322865
-[625]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322866
-[626]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322867
-[627]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322868
-[628]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322869
-[629]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322870
-[630]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322872
-[631]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322874
-[632]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322876
-[633]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322877
-[634]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322879
-[635]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322880
-[636]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322881
-[637]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322883
-[638]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322884
-[639]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322885
-[640]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322886
-[641]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322887
-[642]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322888
-[643]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322889
-[644]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322890
-[645]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322891
-[646]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322892
-[647]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322893
-[648]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322894
-[649]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322895
-[650]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322896
-[651]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322897
-[652]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322898
-[653]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322899
-[654]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323200
-[655]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323201
-[656]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323202
-[657]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323203
-[658]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323204
-[659]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323206
-[660]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323208
-[661]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323209
-[662]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323211
-[663]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323212
-[664]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323213
-[665]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323220
-[666]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323222
-[667]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323224
-[668]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323225
-[669]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323226
-[670]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323227
-[671]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725382
-[672]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323228
-[673]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323230
-[674]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323231
-[675]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323235
-[676]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323242
-[677]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323243
-[678]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323244
-[679]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323245
-[680]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323246
-[681]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323247
-[682]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323248
-[683]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323249
-[684]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323252
-[685]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323258
-[686]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323259
-[687]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725383
-[688]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323262
-[689]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323263
-[690]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323264
-[691]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323265
-[692]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323266
-[693]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323267
-[694]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323268
-[695]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323269
-[696]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323270
-[697]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323273
-[698]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323274
-[699]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323275
-[700]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323276
-[701]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323277
-[702]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323278
-[703]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323280
-[704]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323281
-[705]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323284
-[706]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323286
-[707]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3381401
-[708]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800112
-[709]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800115
-[710]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800116
-[711]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323288
-[712]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323508
-[713]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323510
-[714]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323519
-[715]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323523
-[716]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323543
-[717]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323545
-[718]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323585
-[719]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323594
-[720]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324911
-[721]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327492
-[722]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM202023
-[723]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324908
-[724]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231030
-[725]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324914
-[726]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231062
-[727]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324920
-[728]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324843
-[729]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478128
-[730]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327646
-[731]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM25999
-[732]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392151
-[733]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166011
-[734]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231793
-[735]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478612
-[736]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387953
-[737]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM333795
-[738]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4929207
-[739]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244126
-[740]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620807
-[741]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040605
-[742]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324932
-[743]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620808
-[744]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620809
-[745]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969644
-[746]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90177
-[747]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409540
-[748]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM396434
-[749]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90178
-[750]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409541
-[751]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409542
-[752]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM264600
-[753]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM408533
-[754]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM401660
-[755]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036524
-[756]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139928
-[757]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM162198
-[758]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2498696
-[759]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443908
-[760]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036525
-[761]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036526
-[762]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250653
-[763]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325508
-[764]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM384843
-[765]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426271
-[766]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244127
-[767]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409543
-[768]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3360714
-[769]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244128
-[770]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409544
-[771]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90180
-[772]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166014
-[773]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250195
-[774]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM29133
-[775]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166015
-[776]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969267
-[777]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268959
-[778]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268961
-[779]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268964
-[780]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22769
-[781]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426272
-[782]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387857
-[783]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90182
-[784]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244129
-[785]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409545
-[786]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244130
-[787]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036527
-[788]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM403276
-[789]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405768
-[790]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM147379
-[791]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443909
-[792]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036534
-[793]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426273
-[794]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409546
-[795]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90183
-[796]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1582200
-[797]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409547
-[798]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323554
-[799]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389291
-[800]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240257
-[801]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90184
-[802]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244131
-[803]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90185
-[804]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409548
-[805]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409549
-[806]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409550
-[807]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90186
-[808]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409551
-[809]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323297
-[810]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139997
-[811]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139726
-[812]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM127009
-[813]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM127010
-[814]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620810
-[815]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM383050
-[816]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392158
-[817]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426274
-[818]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM323597
-[819]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409552
-[820]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969126
-[821]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM63970
-[822]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM243648
-[823]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM243668
-[824]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244132
-[825]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324944
-[826]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM88548
-[827]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324962
-[828]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324887
-[829]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM88957
-[830]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409553
-[831]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2853003
-[832]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244134
-[833]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324934
-[834]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392159
-[835]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM88540
-[836]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3230581
-[837]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231525
-[838]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM391422
-[839]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM391427
-[840]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3043113
-[841]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244135
-[842]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324886
-[843]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392161
-[844]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392165
-[845]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426275
-[846]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392166
-[847]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392168
-[848]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426276
-[849]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244139
-[850]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409554
-[851]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426277
-[852]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478320
-[853]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM26805
-[854]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM269031
-[855]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387959
-[856]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323294
-[857]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM145736
-[858]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387963
-[859]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478496
-[860]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58328
-[861]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323530
-[862]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323533
-[863]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443910
-[864]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323547
-[865]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040606
-[866]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389207
-[867]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013907
-[868]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22770
-[869]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389216
-[870]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22771
-[871]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389208
-[872]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426278
-[873]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389219
-[874]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389209
-[875]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389220
-[876]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389221
-[877]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22772
-[878]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4456855
-[879]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4456860
-[880]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389210
-[881]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389211
-[882]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM367235
-[883]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22773
-[884]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389230
-[885]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389212
-[886]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM425650
-[887]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327381
-[888]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478100
-[889]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389233
-[890]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90189
-[891]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389213
-[892]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM29434
-[893]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM141877
-[894]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM326702
-[895]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM201599
-[896]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22774
-[897]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389236
-[898]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM202699
-[899]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2498404
-[900]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389238
-[901]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323546
-[902]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389292
-[903]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM263029
-[904]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327767
-[905]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387531
-[906]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389241
-[907]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620811
-[908]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389242
-[909]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389244
-[910]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389246
-[911]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443911
-[912]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22775
-[913]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426281
-[914]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389250
-[915]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22776
-[916]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426282
-[917]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389251
-[918]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389253
-[919]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389255
-[920]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389257
-[921]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22777
-[922]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426283
-[923]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22778
-[924]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22782
-[925]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426284
-[926]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM385882
-[927]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389214
-[928]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22779
-[929]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22780
-[930]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22781
-[931]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426285
-[932]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040607
-[933]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22783
-[934]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389293
-[935]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM304703
-[936]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM398422
-[937]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM124529
-[938]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426286
-[939]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409555
-[940]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620812
-[941]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM328327
-[942]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409556
-[943]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426287
-[944]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244140
-[945]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM45599
-[946]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244141
-[947]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM47639
-[948]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409557
-[949]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244142
-[950]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409558
-[951]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244143
-[952]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM162942
-[953]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968147
-[954]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409559
-[955]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392169
-[956]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620813
-[957]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244144
-[958]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389647
-[959]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM316109
-[960]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392171
-[961]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1139100
-[962]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM129109
-[963]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1139294
-[964]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013908
-[965]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244146
-[966]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013909
-[967]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409560
-[968]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM348342
-[969]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM430704
-[970]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM199850
-[971]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM64784
-[972]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM296638
-[973]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231705
-[974]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1109400
-[975]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389294
-[976]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90190
-[977]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244149
-[978]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392173
-[979]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3360067
-[980]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389264
-[981]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327394
-[982]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392174
-[983]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389266
-[984]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90191
-[985]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389268
-[986]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426288
-[987]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443912
-[988]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443913
-[989]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443914
-[990]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM364948
-[991]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM364938
-[992]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM211455
-[993]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM367849
-[994]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392175
-[995]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM314314
-[996]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250655
-[997]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378214
-[998]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378654
-[999]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378200
-[1000]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3005756
-[1001]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM328321
-[1002]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620814
-[1003]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327625
-[1004]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327627
-[1005]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327623
-[1006]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327638
-[1007]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620800
-[1008]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036535
-[1009]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443915
-[1010]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323293
-[1011]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426289
-[1012]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM280686
-[1013]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244150
-[1014]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244151
-[1015]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324958
-[1016]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4721602
-[1017]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620820
-[1018]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4444824
-[1019]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3044625
-[1020]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323299
-[1021]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323524
-[1022]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426290
-[1023]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409561
-[1024]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323525
-[1025]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244152
-[1026]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389296
-[1027]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2687906
-[1028]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM256575
-[1029]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM357456
-[1030]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180159
-[1031]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60364
-[1032]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60371
-[1033]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM379041
-[1034]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405309
-[1035]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405305
-[1036]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM83095
-[1037]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM377342
-[1038]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2179067
-[1039]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180446
-[1040]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM46737
-[1041]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323571
-[1042]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58337
-[1043]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM236870
-[1044]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4655420
-[1045]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969650
-[1046]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387946
-[1047]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM973483
-[1048]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392144
-[1049]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435272
-[1050]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435265
-[1051]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1061143
-[1052]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036513
-[1053]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998516
-[1054]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998515
-[1055]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998532
-[1056]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1057]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443900
-[1058]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013902
-[1059]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040600
-[1060]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1594700
-[1061]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968140
-[1062]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244120
-[1063]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240251
-[1064]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM163049
-[1065]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90171
-[1066]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22763
-[1067]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426265
-[1068]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409534
+[270]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041560
+[271]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321101
+[272]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321102
+[273]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041565
+[274]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041568
+[275]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041569
+[276]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041570
+[277]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041571
+[278]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041575
+[279]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041576
+[280]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041577
+[281]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041578
+[282]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041579
+[283]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041580
+[284]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041581
+[285]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041583
+[286]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041584
+[287]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041585
+[288]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041586
+[289]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041587
+[290]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041588
+[291]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041589
+[292]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041590
+[293]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6043027
+[294]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041591
+[295]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041592
+[296]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041593
+[297]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041594
+[298]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041595
+[299]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041596
+[300]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041597
+[301]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041598
+[302]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6043037
+[303]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6041599
+[304]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042206
+[305]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042207
+[306]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042208
+[307]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042209
+[308]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321103
+[309]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321104
+[310]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321105
+[311]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321107
+[312]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321111
+[313]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321113
+[314]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321115
+[315]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321118
+[316]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321125
+[317]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321127
+[318]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321130
+[319]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321131
+[320]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321133
+[321]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321135
+[322]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321136
+[323]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321137
+[324]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321139
+[325]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321141
+[326]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321142
+[327]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321143
+[328]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321144
+[329]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321145
+[330]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321146
+[331]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321151
+[332]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321152
+[333]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321155
+[334]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321156
+[335]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321159
+[336]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321160
+[337]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321161
+[338]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321171
+[339]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321172
+[340]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321173
+[341]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321174
+[342]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321175
+[343]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321176
+[344]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321177
+[345]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321178
+[346]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321179
+[347]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321187
+[348]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321188
+[349]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321189
+[350]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321190
+[351]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321191
+[352]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321192
+[353]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321193
+[354]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321194
+[355]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321195
+[356]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321196
+[357]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321197
+[358]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3522910
+[359]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321198
+[360]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321199
+[361]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321500
+[362]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321501
+[363]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321502
+[364]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321503
+[365]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321504
+[366]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321505
+[367]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321506
+[368]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321507
+[369]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321508
+[370]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321509
+[371]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321510
+[372]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321511
+[373]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321512
+[374]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321513
+[375]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321514
+[376]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321515
+[377]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321516
+[378]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321517
+[379]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321518
+[380]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321519
+[381]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321520
+[382]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321521
+[383]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321522
+[384]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321523
+[385]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321524
+[386]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321525
+[387]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321526
+[388]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321527
+[389]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321528
+[390]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321529
+[391]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321530
+[392]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321531
+[393]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321532
+[394]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321533
+[395]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321534
+[396]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321535
+[397]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321536
+[398]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321537
+[399]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321538
+[400]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321539
+[401]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321540
+[402]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321541
+[403]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321542
+[404]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321543
+[405]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321544
+[406]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321545
+[407]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321546
+[408]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321547
+[409]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321548
+[410]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321549
+[411]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321550
+[412]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321551
+[413]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321552
+[414]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321553
+[415]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321554
+[416]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321555
+[417]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321556
+[418]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321557
+[419]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321558
+[420]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321559
+[421]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321560
+[422]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321561
+[423]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321562
+[424]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321563
+[425]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321564
+[426]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321565
+[427]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321566
+[428]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321567
+[429]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321568
+[430]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321569
+[431]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321570
+[432]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321571
+[433]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321572
+[434]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321573
+[435]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321574
+[436]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321575
+[437]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321576
+[438]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321577
+[439]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321578
+[440]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321579
+[441]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321580
+[442]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321581
+[443]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321582
+[444]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321583
+[445]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321584
+[446]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321585
+[447]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321586
+[448]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321587
+[449]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321588
+[450]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321589
+[451]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321590
+[452]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321591
+[453]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321592
+[454]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321593
+[455]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321594
+[456]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321595
+[457]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321596
+[458]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321597
+[459]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321598
+[460]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321599
+[461]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321600
+[462]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321601
+[463]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321602
+[464]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321603
+[465]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321604
+[466]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321605
+[467]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321606
+[468]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321607
+[469]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321608
+[470]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321609
+[471]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321610
+[472]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321611
+[473]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321612
+[474]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321613
+[475]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321614
+[476]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321615
+[477]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321616
+[478]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321617
+[479]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321618
+[480]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321619
+[481]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321620
+[482]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321621
+[483]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321622
+[484]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321623
+[485]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321624
+[486]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321625
+[487]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321626
+[488]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321627
+[489]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321628
+[490]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321629
+[491]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321630
+[492]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321631
+[493]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321632
+[494]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321633
+[495]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321634
+[496]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321635
+[497]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321636
+[498]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321637
+[499]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321638
+[500]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321639
+[501]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321640
+[502]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321641
+[503]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321642
+[504]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321643
+[505]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321644
+[506]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321645
+[507]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321646
+[508]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321647
+[509]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321648
+[510]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321649
+[511]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321650
+[512]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321651
+[513]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321652
+[514]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321653
+[515]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321654
+[516]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321655
+[517]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321656
+[518]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321657
+[519]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321658
+[520]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321659
+[521]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321660
+[522]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321661
+[523]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321662
+[524]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321663
+[525]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321664
+[526]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321665
+[527]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321666
+[528]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321667
+[529]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321668
+[530]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3522915
+[531]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321678
+[532]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321680
+[533]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321681
+[534]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321683
+[535]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321684
+[536]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321691
+[537]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321692
+[538]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321693
+[539]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321694
+[540]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321696
+[541]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321697
+[542]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321698
+[543]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321699
+[544]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321900
+[545]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321901
+[546]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321902
+[547]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321903
+[548]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321904
+[549]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321905
+[550]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321907
+[551]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321912
+[552]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321914
+[553]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321915
+[554]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321916
+[555]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725381
+[556]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321918
+[557]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321919
+[558]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321920
+[559]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321921
+[560]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321925
+[561]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321926
+[562]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321927
+[563]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321928
+[564]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321929
+[565]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321931
+[566]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321932
+[567]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321933
+[568]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321937
+[569]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321938
+[570]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321939
+[571]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321940
+[572]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321941
+[573]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321942
+[574]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321943
+[575]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321946
+[576]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321948
+[577]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321949
+[578]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321950
+[579]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321951
+[580]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321952
+[581]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321955
+[582]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321956
+[583]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321957
+[584]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321958
+[585]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321959
+[586]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321964
+[587]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321966
+[588]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321967
+[589]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321969
+[590]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321970
+[591]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321971
+[592]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321973
+[593]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321974
+[594]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321975
+[595]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM321989
+[596]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322302
+[597]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322303
+[598]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322304
+[599]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322305
+[600]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322306
+[601]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322314
+[602]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322321
+[603]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322322
+[604]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322323
+[605]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322324
+[606]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322325
+[607]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322326
+[608]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322328
+[609]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322329
+[610]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322331
+[611]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322333
+[612]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322334
+[613]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322335
+[614]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322337
+[615]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322351
+[616]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322369
+[617]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322371
+[618]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322373
+[619]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322375
+[620]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322377
+[621]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322379
+[622]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322382
+[623]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322384
+[624]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322386
+[625]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322392
+[626]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322394
+[627]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322396
+[628]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322398
+[629]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322800
+[630]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322802
+[631]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322807
+[632]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322809
+[633]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322810
+[634]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322811
+[635]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322813
+[636]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322814
+[637]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322815
+[638]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322818
+[639]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322821
+[640]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322823
+[641]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322825
+[642]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322826
+[643]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322827
+[644]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322833
+[645]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322841
+[646]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322846
+[647]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322848
+[648]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322849
+[649]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322850
+[650]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322851
+[651]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322853
+[652]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322854
+[653]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322855
+[654]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322857
+[655]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322858
+[656]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322859
+[657]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322860
+[658]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322861
+[659]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322863
+[660]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322865
+[661]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322866
+[662]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322867
+[663]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322868
+[664]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322869
+[665]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322870
+[666]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322872
+[667]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322874
+[668]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322876
+[669]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM6042911
+[670]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322877
+[671]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322879
+[672]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322880
+[673]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322881
+[674]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322883
+[675]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322884
+[676]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322885
+[677]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322886
+[678]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322887
+[679]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322888
+[680]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322889
+[681]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322890
+[682]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322891
+[683]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322892
+[684]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322893
+[685]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322894
+[686]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322895
+[687]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322896
+[688]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322897
+[689]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322898
+[690]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM322899
+[691]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323200
+[692]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323201
+[693]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323202
+[694]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323203
+[695]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323204
+[696]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323206
+[697]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323208
+[698]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323209
+[699]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323211
+[700]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323212
+[701]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323213
+[702]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323220
+[703]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323222
+[704]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323224
+[705]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323225
+[706]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323226
+[707]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323227
+[708]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725382
+[709]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323228
+[710]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323230
+[711]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323231
+[712]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323235
+[713]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323242
+[714]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323243
+[715]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323244
+[716]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323245
+[717]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323246
+[718]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323247
+[719]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323248
+[720]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323249
+[721]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323252
+[722]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323258
+[723]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323259
+[724]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3725383
+[725]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323262
+[726]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323263
+[727]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323264
+[728]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323265
+[729]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323266
+[730]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323267
+[731]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323268
+[732]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323269
+[733]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323270
+[734]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323273
+[735]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323274
+[736]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323275
+[737]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323276
+[738]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323277
+[739]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323278
+[740]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323280
+[741]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323281
+[742]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323284
+[743]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323286
+[744]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM3381401
+[745]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800112
+[746]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800115
+[747]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM5800116
+[748]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323288
+[749]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323508
+[750]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323510
+[751]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323519
+[752]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323523
+[753]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323543
+[754]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323545
+[755]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323585
+[756]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323594
+[757]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632837
+[758]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632954
+[759]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327492
+[760]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM202023
+[761]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231030
+[762]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632890
+[763]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231062
+[764]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632894
+[765]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632892
+[766]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478128
+[767]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327646
+[768]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM25999
+[769]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392151
+[770]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739963
+[771]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166011
+[772]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231793
+[773]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478612
+[774]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387953
+[775]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM333795
+[776]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4929207
+[777]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244126
+[778]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620807
+[779]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040605
+[780]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739981
+[781]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620808
+[782]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620809
+[783]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969644
+[784]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90177
+[785]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409540
+[786]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM396434
+[787]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90178
+[788]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409541
+[789]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409542
+[790]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM264600
+[791]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM408533
+[792]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM401660
+[793]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036524
+[794]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139928
+[795]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM162198
+[796]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2498696
+[797]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443908
+[798]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036525
+[799]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036526
+[800]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250653
+[801]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325508
+[802]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM384843
+[803]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426271
+[804]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244127
+[805]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409543
+[806]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3360714
+[807]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244128
+[808]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739982
+[809]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409544
+[810]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90180
+[811]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166014
+[812]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250195
+[813]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM29133
+[814]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2166015
+[815]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969267
+[816]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268959
+[817]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268961
+[818]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM268964
+[819]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22769
+[820]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426272
+[821]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387857
+[822]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90182
+[823]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244129
+[824]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409545
+[825]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244130
+[826]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036527
+[827]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM403276
+[828]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405768
+[829]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM147379
+[830]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443909
+[831]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036534
+[832]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739984
+[833]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409546
+[834]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739985
+[835]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90183
+[836]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1582200
+[837]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409547
+[838]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323554
+[839]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389291
+[840]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240257
+[841]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90184
+[842]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244131
+[843]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90185
+[844]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409548
+[845]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409549
+[846]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409550
+[847]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90186
+[848]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409551
+[849]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323297
+[850]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139997
+[851]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM139726
+[852]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM127009
+[853]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM127010
+[854]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620810
+[855]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM383050
+[856]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392158
+[857]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426274
+[858]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740665
+[859]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409552
+[860]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969126
+[861]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM63970
+[862]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM243648
+[863]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM243668
+[864]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739986
+[865]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244132
+[866]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739987
+[867]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4702249
+[868]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632981
+[869]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5206501
+[870]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM88578
+[871]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632944
+[872]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324932
+[873]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324938
+[874]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324944
+[875]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324947
+[876]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324914
+[877]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324920
+[878]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324911
+[879]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4632947
+[880]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324953
+[881]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM324962
+[882]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4702238
+[883]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM348353
+[884]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325141
+[885]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325145
+[886]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325148
+[887]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325133
+[888]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2997643
+[889]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998573
+[890]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325135
+[891]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM325137
+[892]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4090503
+[893]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM88540
+[894]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3360057
+[895]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM311346
+[896]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740277
+[897]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392161
+[898]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740279
+[899]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740280
+[900]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392165
+[901]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740281
+[902]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426275
+[903]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740282
+[904]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392168
+[905]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740283
+[906]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426276
+[907]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244139
+[908]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409554
+[909]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426277
+[910]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478320
+[911]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM26805
+[912]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM269031
+[913]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387959
+[914]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323294
+[915]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM145736
+[916]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387963
+[917]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478496
+[918]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58328
+[919]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323530
+[920]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323533
+[921]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443910
+[922]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323547
+[923]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040606
+[924]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389207
+[925]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013907
+[926]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22770
+[927]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389216
+[928]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22771
+[929]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389208
+[930]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426278
+[931]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389219
+[932]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389209
+[933]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389220
+[934]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389221
+[935]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22772
+[936]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4456855
+[937]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4456860
+[938]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389210
+[939]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389211
+[940]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM367235
+[941]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22773
+[942]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389230
+[943]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389212
+[944]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM425650
+[945]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327381
+[946]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2478100
+[947]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389233
+[948]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90189
+[949]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389213
+[950]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM29434
+[951]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM141877
+[952]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM326702
+[953]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM201599
+[954]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22774
+[955]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389236
+[956]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM202699
+[957]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2498404
+[958]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389238
+[959]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323546
+[960]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389292
+[961]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM263029
+[962]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327767
+[963]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387531
+[964]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389241
+[965]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620811
+[966]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389242
+[967]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3043113
+[968]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389244
+[969]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389246
+[970]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443911
+[971]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22775
+[972]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426281
+[973]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389250
+[974]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22776
+[975]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426282
+[976]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389251
+[977]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389253
+[978]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389255
+[979]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389257
+[980]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22777
+[981]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426283
+[982]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22778
+[983]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22782
+[984]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426284
+[985]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM385882
+[986]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740284
+[987]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389214
+[988]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22779
+[989]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22780
+[990]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22781
+[991]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426285
+[992]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040607
+[993]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22783
+[994]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389293
+[995]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM304703
+[996]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM398422
+[997]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM124529
+[998]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426286
+[999]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409555
+[1000]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620812
+[1001]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM328327
+[1002]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409556
+[1003]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426287
+[1004]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244140
+[1005]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM45599
+[1006]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244141
+[1007]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM47639
+[1008]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409557
+[1009]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244142
+[1010]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409558
+[1011]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244143
+[1012]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM162942
+[1013]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968147
+[1014]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409559
+[1015]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392169
+[1016]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620813
+[1017]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244144
+[1018]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740285
+[1019]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389647
+[1020]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM316109
+[1021]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392171
+[1022]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1139100
+[1023]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM129109
+[1024]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1139294
+[1025]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013908
+[1026]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244146
+[1027]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013909
+[1028]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409560
+[1029]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM348342
+[1030]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM430704
+[1031]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM199850
+[1032]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM64784
+[1033]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM296638
+[1034]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3231705
+[1035]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1109400
+[1036]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389294
+[1037]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740287
+[1038]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90190
+[1039]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740288
+[1040]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392173
+[1041]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3360067
+[1042]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389264
+[1043]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327394
+[1044]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5561603
+[1045]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392174
+[1046]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389266
+[1047]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90191
+[1048]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389268
+[1049]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740289
+[1050]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426288
+[1051]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443912
+[1052]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443913
+[1053]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443914
+[1054]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM364948
+[1055]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM364938
+[1056]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM211455
+[1057]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM367849
+[1058]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392175
+[1059]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM314314
+[1060]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250655
+[1061]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378214
+[1062]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378654
+[1063]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378200
+[1064]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3005756
+[1065]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM328321
+[1066]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620814
+[1067]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327625
+[1068]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327627
+[1069]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327623
+[1070]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM327638
+[1071]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620800
+[1072]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036535
+[1073]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740290
+[1074]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443915
+[1075]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323293
+[1076]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426289
+[1077]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM280686
+[1078]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244150
+[1079]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244151
+[1080]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4721602
+[1081]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5620820
+[1082]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5740291
+[1083]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4444824
+[1084]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3044625
+[1085]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323299
+[1086]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323524
+[1087]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426290
+[1088]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409561
+[1089]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323525
+[1090]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244152
+[1091]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM389296
+[1092]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2687906
+[1093]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM256575
+[1094]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM357456
+[1095]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180159
+[1096]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60364
+[1097]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60371
+[1098]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM379041
+[1099]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405309
+[1100]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405305
+[1101]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM83095
+[1102]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM377342
+[1103]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2179067
+[1104]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180446
+[1105]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM46737
+[1106]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323571
+[1107]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58337
+[1108]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM236870
+[1109]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4655420
+[1110]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969650
+[1111]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387946
+[1112]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM973483
+[1113]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392144
+[1114]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435272
+[1115]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435265
+[1116]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1061143
+[1117]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036513
+[1118]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739901
+[1119]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5927500
+[1120]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998516
+[1121]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998515
+[1122]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998532
+[1123]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1124]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443900
+[1125]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013902
+[1126]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040600
+[1127]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968140
+[1128]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244120
+[1129]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240251
+[1130]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM163049
+[1131]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90171
+[1132]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22763
+[1133]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426265
+[1134]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409534
