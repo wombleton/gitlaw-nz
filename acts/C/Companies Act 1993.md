@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 17 June 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1596,10 +1596,6 @@ Preliminary
     
     _accounting period_, in relation to a company, means a year ending on a balance date of the company and, if as a result of the date of the registration of the company or a change of the balance date of the company, the period ending on that date is longer or shorter than a year, that longer or shorter period is an accounting period
     
-    _applicable auditing and assurance standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
-    
-    _applicable financial reporting standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
-    
     _address for service_ in relation to a company, means the company's address for service adopted in accordance with [section 192][251]
     
     _annual meeting_ means a meeting required to be held by [section 120][159]
@@ -1609,6 +1605,10 @@ Preliminary
     *   (a) means a report prepared under [section 208][310]; and
     
     *   (b) does not include a concise annual report
+    
+    _applicable auditing and assurance standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
+    
+    _applicable financial reporting standard_ has the same meaning as in [section 5][757] of the Financial Reporting Act 2013
     
     _balance date_, in relation to a company or an overseas company, has the same meaning as in [section 41][758] of the Financial Reporting Act 2013
     
@@ -1770,9 +1770,9 @@ Preliminary
         
     *   (a) the other company is its holding company or subsidiary; or
     
-    *   (b) more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, is held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
+    *   (b) more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, are held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
     
-    *   (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them is held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
+    *   (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them are held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
     
     *   (d) the businesses of the companies have been so carried on that the separate business of each company, or a substantial part of it, is not readily identifiable; or
     
@@ -1962,7 +1962,7 @@ Preliminary
 
 ##### 7 Control defined
     
-*   For the purposes of [section 5][7], without limiting the circumstances in which the composition of a company's board is to be taken to be controlled by another company, the composition of the board is to be taken to be so _controlled_ if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if---
+*   For the purposes of [section 5][7], without limiting the circumstances in which the composition of a company's board is to be taken to be controlled by another company, the composition of the board is to be taken to be so controlled if the other company, by exercising a power exercisable (whether with or without the consent or concurrence of any other person) by it, can appoint or remove all the directors of the company, or such number of directors as together hold a majority of the voting rights at meetings of the board of the company, and for this purpose, the other company is to be taken as having power to make such an appointment if---
         
     *   (a) a person cannot be appointed as a director of the company without the exercise by the other company of such a power in the person's favour; or
     
@@ -2199,7 +2199,7 @@ Company names
     
     Section 22(2)(c): amended, on 5 December 2013, by [section 6(2)][782] of the Companies Amendment Act 2013 (2013 No 111).
     
-    Section 23(3)(b): amended, on 1 July 1994, by section 2 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
+    Section 22(3)(b): amended, on 1 July 1994, by section 2 of the Companies Act 1993 Amendment Act 1994 (1994 No 6).
 
 ##### 23 Change of name
     
@@ -3167,7 +3167,7 @@ Shares and debentures
     
     *   (b) the consideration for the redemption of the shares is fair and reasonable to the company.
     
-    (3) The resolution must set out in full the grounds for the director's conclusions.
+    (3) The resolution must set out in full the grounds for the directors' conclusions.
     
     (4) The directors who vote in favour of a resolution required by subsection (2) must sign a certificate as to the matters set out in that subsection and may combine it with the certificate required by [section 70][90] and any certificate required by [section 71][91].
     
@@ -5532,7 +5532,7 @@ Enforcement
     
     *   (b) the company has sufficient reason to refuse to supply the information but that other reasons exist that outweigh the refusal,---
     
-    the court may make an order requiring the company to supply the information.
+    make an order requiring the company to supply the information.
     
     (8) Where the court makes an order under subsection (7), it may specify the use that may be made of the information and the persons to whom it may be disclosed.
     
@@ -5805,7 +5805,7 @@ Administration of companies
     
     (3) If the board fails to comply with subsection (2), every director commits an offence and is liable on conviction to the penalty set out in [section 374(2)][712].
     
-    Compare: 1955 No 63 s 459(2); 1980 No 7(4)
+    Compare: 1955 No 63 s 459(2); 1980 No 43 s 7(4)
 
 ##### 191 Inspection of records by directors
     
@@ -5874,7 +5874,7 @@ Accounting records and financial reporting
 
 ### Subpart 1---Accounting records
     
-*   Subpart 1: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 1 heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 194 Accounting records must be kept
     
@@ -5924,7 +5924,7 @@ Accounting records and financial reporting
 
 ### Subpart 2---Financial reporting
     
-*   Subpart 2: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+*   Subpart 2 heading: inserted, on 1 April 2014, by [section 30][866] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 196 Overview
     
@@ -6891,7 +6891,7 @@ Disclosure by companies
     
     (7) For the purposes of this section, _prescribed_ means prescribed by regulations made under this Act or by the Registrar by notice in the _Gazette_ and different forms of annual return may be prescribed in respect of different classes of companies.
     
-    (8) The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time, revoke, in whole or in part, any such approval.
+    (8) The Registrar may, on the application of any person, approve the use, by such company or companies as the Registrar may specify, of a form of annual return different from that prescribed, and may at any time revoke, in whole or in part, any such approval.
     
     (9) An annual return in a form approved under subsection (8) must contain all the prescribed information.
     
@@ -10194,7 +10194,7 @@ Liquidations
     
     *   (b) a liquidator is appointed under [section 241(2)(b)][531], the board of the company must record in the instrument appointing the liquidator the date on which, and the time at which, the liquidator was appointed; or
     
-    *   (c) a liquidator is appointed under [section 241(2)(c)][531], the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made.
+    *   (c) a liquidator is appointed under [section 241(2)(c)][531], the court must record in the order appointing the liquidator the date on which, and the time at which, the order was made; or
     
     *   (d) a liquidator is appointed under [section 241(2)(d)][531], the creditors must record in the resolution appointing the liquidator the date on which, and the time at which, the resolution was passed.
     
@@ -10502,7 +10502,7 @@ Liquidations
         
     *   (a) the passing of a special resolution under [section 241(2)(a)][531] or a resolution under section 241(2)(d) appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
     
-    *   (b) the passing of a resolution by the board of a company under [section 241(2)(b)][531] appointing a liquidator or the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
+    *   (b) the passing of a resolution by the board of a company under [section 241(2)(b)][531] appointing a liquidator of the company, or the date on which the creditor had notice of the calling of a meeting at which such a resolution was proposed, whichever occurs first; or
     
     *   (c) the making of an application to the court under [section 241(2)(c)][531] to appoint a liquidator of the company.
     
@@ -10856,7 +10856,7 @@ Liquidations
     
     *   (c) to be examined on oath or affirmation by the liquidator or by a barrister or solicitor acting on behalf of the liquidator on any matter relating to the business, accounts, or affairs of the company:
     
-    *   (d) assist in the liquidation to the best of the person's ability.
+    *   (d) to assist in the liquidation to the best of the person's ability.
     
     (3A) Without limiting subsection (3)(a), a person may be required to attend on the liquidator under that subsection at a meeting of creditors of the company.
     
@@ -15087,7 +15087,7 @@ Proceedings at meetings of shareholders
     
     *   (b) a shareholder or shareholders representing not less than 10% of the total voting rights of all shareholders having the right to vote at the meeting; or
     
-    *   (c) by a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
+    *   (c) a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
     
     *   (d) the chairperson of the meeting.
     
@@ -15746,11 +15746,11 @@ Preferential claims
     
     *   (h) all sums that, by any other enactment, are required to be paid in accordance with the priority established by this subclause.
     
-    (3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under [section 11][1099] of the Layby Sales Act 1971,---
+    (3) After paying the claims referred to in subclause (2), the liquidator must next pay all sums, for which a buyer is a creditor in the liquidation of the company under [section 36J][1099] of the Fair Trading Act 1986,---
         
     *   (a) paid by the buyer to a seller on account of the purchase price of goods; or
     
-    *   (b) to which the buyer is or becomes entitled to receive from a seller under [section 9][1100] of the Layby Sales Act 1971\.
+    *   (b) to which the buyer is or becomes entitled to receive from a seller under [section 36H][1100] of the Fair Trading Act 1986\.
     
     (4) After paying the claims referred to in subclause (3), the liquidator must next pay the amount of any costs referred to in [section 234(c)][344].
     
@@ -15758,17 +15758,27 @@ Preferential claims
         
     *   (a) tax payable by the company in the manner required by [Part 3][1101] of the Goods and Services Tax Act 1985; and
     
-    *   (b) tax deductions made by the company under the PAYE rules of the Income Tax Act 2004; and
+    *   (b) tax deductions made by the company under the PAYE rules of the [Income Tax Act 2007][1102]; and
     
-    *   (c) non-resident withholding tax deducted by the company under the NRWT rules of the Income Tax Act 2004; and
+    *   (c) non-resident withholding tax deducted by the company under the NRWT rules of the [Income Tax Act 2007][1102]; and
     
-    *   (d) resident withholding tax deducted by the company under the RWT rules of the Income Tax Act 2004; and
+    *   (d) resident withholding tax deducted by the company under the RWT rules of the [Income Tax Act 2007][1102]; and
     
-    *   (e) duty payable within the meaning of [section 2(1)][1102] of the Customs and Excise Act 1996\.
+    *   (e) duty payable within the meaning of [section 2(1)][1103] of the Customs and Excise Act 1996\.
     
-    Schedule 7 clause 1(2)(aa): inserted, on 6 January 2010, by [section 862][1103] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Schedule 7 clause 1(2)(aa): inserted, on 6 January 2010, by [section 862][1104] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Schedule 7 clause 1(2)(d): amended, on 1 April 2012, by [section 223][1104] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Schedule 7 clause 1(2)(d): amended, on 1 April 2012, by [section 223][1105] of the Student Loan Scheme Act 2011 (2011 No 62).
+    
+    Schedule 7 clause 1(3) : amended, on 17 June 2014, by [section 41(2)][1106] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    
+    Schedule 7 clause 1(3)(b) : amended, on 17 June 2014, by [section 41(2)][1106] of the Fair Trading Amendment Act 2013 (2013 No 143).
+    
+    Schedule 7 clause 1(5)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1107] of the Income Tax Act 2007 (2007 No 97).
+    
+    Schedule 7 clause 1(5)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1107] of the Income Tax Act 2007 (2007 No 97).
+    
+    Schedule 7 clause 1(5)(d): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1107] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 2 Conditions to priority of payments to preferential creditors
     
@@ -15782,7 +15792,7 @@ Preferential claims
                 
             *   (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
             
-            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][1105] of the Personal Property Securities Act 1999; and
+            *   (B) is not a purchase money security interest that has been perfected at the time specified in [section 74][1108] of the Personal Property Securities Act 1999; and
             
             *   (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the commencement of the liquidation and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
             
@@ -15796,7 +15806,7 @@ Preferential claims
     
     (3) To the extent that the claims to which subclause (1) applies are paid out of assets referred to in paragraph (b) of that subclause, the amount so paid is an unsecured debt due by the company to the secured party.
     
-    (4) [Clause 9][1106] of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+    (4) Clause 9 of this schedule, as was in force immediately before the commencement of the [Personal Property Securities Act 1999][1005], continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ##### 3 Provisions concerning preferential payments to employees
     
@@ -15824,11 +15834,11 @@ Preferential claims
         
     *   (a) remuneration in respect of a period of holiday or of absence from work through sickness or other good cause is to be treated as wages in respect of services rendered to the company during that period:
     
-    *   (b) _employee_ means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in [section 5][1107] of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
+    *   (b) _employee_ means any person of any age employed by an employer to do any work for hire or reward under a contract of service (including a homeworker as defined in [section 5][1109] of the Employment Relations Act 2000); but does not include a person who is, or was at any time during the 12 months before the commencement of the liquidation, a director of the company in liquidation, or a nominee or relative of, or a trustee for, a director of the company:
     
-    *   (c) _holiday pay_, in relation to a person, means all sums payable to that person by the company under [subpart 1][1108] of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
+    *   (c) _holiday pay_, in relation to a person, means all sums payable to that person by the company under [subpart 1][1110] of Part 2 of the Holidays Act 2003, and includes all sums that by or under any other enactment or any award, agreement, or contract of service are payable to that person by the company as holiday pay.
     
-    Schedule 7 clause 3(1): amended, on 28 September 2012, by [clause 3][1109] of the Companies (Maximum Priority Amount) Order 2012 (SR 2012/252).
+    Schedule 7 clause 3(1): amended, on 28 September 2012, by [clause 3][1111] of the Companies (Maximum Priority Amount) Order 2012 (SR 2012/252).
 
 ##### 4 Subrogation of persons if payment has been made
     
@@ -15838,7 +15848,7 @@ Preferential claims
     
 *   If a person has distrained on goods or effects of the company during the 20 working days before the commencement of the liquidation, the preferential claims set out in this schedule are a first charge on the goods or effects so distrained, or the proceeds from their sale; but if any money is paid to a claimant under that charge, the person has the same rights of priority as that claimant.
     
-    Schedule 7 clause 5: amended, on 1 January 2008, by [section 370(2)][1110] of the Property Law Act 2007 (2007 No 91).
+    Schedule 7 clause 5: amended, on 1 January 2008, by [section 370(2)][1112] of the Property Law Act 2007 (2007 No 91).
 
 ##### 6 Saving provision for liquidation that has commenced
     
@@ -15942,13 +15952,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Companies Amendment Act 2006][1111].
+*   This Act is the [Companies Amendment Act 2006][1113].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2: Companies Amendment Act 2006 brought into force, on 1 November 2007, by the [Companies Amendment Act 2006 Commencement Order 2007][1112] (SR 2007/297).
+    Section 2: this Act brought into force, on 1 November 2007, by the [Companies Amendment Act 2006 Commencement Order 2007][1114] (SR 2007/297).
 
 ##### 3 Principal Act amended
     
@@ -15988,7 +15998,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Companies Amendment Act (No 2) 2006][1113].
+*   This Act is the [Companies Amendment Act (No 2) 2006][1115].
 
 ##### 2 Commencement
     
@@ -15996,63 +16006,21 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
     
-    Section 2(1): sections 4(3), 5--10, 13, 16(1), (2), and 17, and the Schedule brought into force, on 18 June 2007, by [clause 2(1)][1114] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
+    Section 2(1): sections 4(3), 5--10, 13, 16(1), (2), and 17, and the Schedule brought into force, on 18 June 2007, by [clause 2(1)][1116] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
     
-    Section 2(1): sections 11 and 12 brought into force, on 1 September 2007, by [clause 2(2)][1115] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
+    Section 2(1): sections 11 and 12 brought into force, on 1 September 2007, by [clause 2(2)][1117] of the Companies Amendment Act (No 2) 2006 Commencement Order 2007 (SR 2007/108).
     
-    Section 2(1): section 16(3) brought into force, on 29 February 2008, by the [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1116] (SR 2007/370).
+    Section 2(1): section 16(3) brought into force, on 29 February 2008, by the [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1118] (SR 2007/370).
 
 ##### 3 Principal Act amended
     
 *   This Act amends the Companies Act 1993\.
-
-##### 4 Interpretation
-    
-*   (1) _Amendment(s) incorporated in the Act(s)._
-    
-    (2) Subsection (1) applies in respect of---
-        
-    *   (a) accounting periods that have not ended at the commencement of that subsection; and
-    
-    *   (b) accounting periods that commence after the commencement of that subsection.
-    
-    (3) _Amendment(s) incorporated in the Act(s)._
 
 ##### 5 Qualifications of directors
     
 *   (1) _Amendment(s) incorporated in the Act(s)._
     
     (2) If, immediately before the commencement of this section, a person is a director of a company and is subject to an order or notice of a kind referred to in section 151(2)(eb) of the principal Act (as inserted by this section), the person is not disqualified from being a director of that company under that paragraph by reason of that order or notice.
-
----
-
-# Companies (Minority Buy-out Rights) Amendment Act 2008Public Act2008 No 69
-
-Date of assent16 September 2008
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Companies (Minority Buy-out Rights) Amendment Act 2008][1117].
-
-##### 2 Commencement
-    
-*   This Act comes into force on the day after the date on which it receives the Royal assent.
-
-## Part 1  
-Amendments to Companies Act 1993
-
-##### 3 Principal Act amended
-    
-*   This Part amends the Companies Act 1993\.
-
-## Part 2  
-Transitional provision and consequential amendments to other enactments
-
-##### 11 Application of amendments in Part 1
-    
-*   The amendments in Part 1 do not apply to any special resolution passed under section 106(1) of the Companies Act 1993 before this Act comes into force.
 
 ---
 
@@ -16064,7 +16032,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Financial Reporting (Amendments to Other Enactments) Act 2013][1118].
+*   This Act is the [Financial Reporting (Amendments to Other Enactments) Act 2013][1119].
 
 ##### 2 Commencement
     
@@ -16074,7 +16042,7 @@ Commencementsee section 2
     
     (3) In this section, _provision_ includes any item, or any part of an item, in any of the schedules.
     
-    Section 2(1): this Act (other than sections 18--22) brought into force, on 1 April 2014, by the [Financial Reporting Legislation Commencement Order 2014][1119] (LI 2014/52).
+    Section 2(1): this Act (other than sections 18--22) brought into force, on 1 April 2014, by the [Financial Reporting Legislation Commencement Order 2014][1120] (LI 2014/52).
 
 #### Amendments to Companies Act 1993
 
@@ -16104,15 +16072,17 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1120] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1121] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1121] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1122] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1122] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1123] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1123] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1124] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Companies Amendment Act 2013][1071] (2013 No 111)
+*   Fair Trading Amendment Act 2013 (2013 No 143): [section 41(2)][1106]
+    
+    [Companies Amendment Act 2013][1071] (2013 No 111)
     
     Reserve Bank of New Zealand (Covered Bonds) Amendment Act 2013 (2013 No 103): [section 12][937]
     
@@ -16122,17 +16092,17 @@ Commencementsee section 2
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][776]
     
-    Companies (Maximum Priority Amount) Order 2012 (SR 2012/252): [clause 3][1109]
+    Companies (Maximum Priority Amount) Order 2012 (SR 2012/252): [clause 3][1111]
     
     Takeovers Amendment Act 2012 (2012 No 68): [section 10][1083]
     
-    [Companies Amendment Act (No 2) 2012][1124] (2012 No 60)
+    [Companies Amendment Act (No 2) 2012][1125] (2012 No 60)
     
-    [Companies Amendment Act 2012][1125] (2012 No 7)
+    [Companies Amendment Act 2012][1126] (2012 No 7)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][806]
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1104]
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][1105]
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][772]
     
@@ -16142,7 +16112,7 @@ Commencementsee section 2
     
     New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][967]
     
-    [Companies Amendment Act (No 2) 2010][1126] (2010 No 53)
+    [Companies Amendment Act (No 2) 2010][1127] (2010 No 53)
     
     Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][1064]
     
@@ -16150,31 +16120,27 @@ Commencementsee section 2
     
     Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 16--19][771]
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 862][1103]
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 862][1104]
     
-    [Companies (Minority Buy-out Rights) Amendment Act 2008][1117] (2008 No 69)
+    [Companies (Minority Buy-out Rights) Amendment Act 2008][1128] (2008 No 69)
     
     Limited Partnerships Act 2008 (2008 No 1): [section 119][1024]
     
-    [Companies Amendment Act (No 2) 2006 Commencement Order (No 2) 2007][1116] (SR 2007/370).
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][1107]
     
-    Property Law Act 2007 (2007 No 91): [sections 364(1)][783], [370(2)][1110]
+    Property Law Act 2007 (2007 No 91): [sections 364(1)][783], [370(2)][1112]
     
-    [Companies Amendment Act 2006 Commencement Order 2007][1112] (SR 2007/297)
-    
-    [Companies Amendment Act 2007][1127] (2007 No 48)
+    [Companies Amendment Act 2007][1129] (2007 No 48)
     
     Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [section 70][791]
     
-    [Companies Amendment Act (No 2) 2006 Commencement Order 2007][1115] (SR 2007/108).
-    
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [section 219][792]
     
-    [Companies Amendment Act (No 2) 2006][1113] (2006 No 62)
+    [Companies Amendment Act (No 2) 2006][1115] (2006 No 62)
     
     Insolvency (Cross-border) Act 2006 (2006 No 57): [section 13][1019]
     
-    [Companies Amendment Act 2006][1111] (2006 No 56)
+    [Companies Amendment Act 2006][1113] (2006 No 56)
     
     Insolvency Act 2006 (2006 No 55): [section 445][821]
     
@@ -16186,27 +16152,25 @@ Commencementsee section 2
     
     Relationships (Statutory References) Act 2005 (2005 No 3): section 7
     
-    [Companies Amendment Act (No 2) 2004][1128] (2004 No 24)
+    [Companies Amendment Act (No 2) 2004][1130] (2004 No 24)
     
-    [Companies Amendment Act 2004][1129] (2004 No 10)
+    [Companies Amendment Act 2004][1131] (2004 No 10)
     
     Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): section 48(1)
-    
-    Takeovers Amendment Act 2002 (2002 No 45): [section 38][1130]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][795]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][997]
     
-    [Companies Act 1993 Amendment Act 2001][1131] (2001 No 18)
+    [Companies Act 1993 Amendment Act 2001][1132] (2001 No 18)
     
     Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][1007]
     
-    [Companies Amendment Act 1999][1132] (1999 No 19)
+    [Companies Amendment Act 1999][1133] (1999 No 19)
     
-    [Companies Amendment Act 1998][1133] (1998 No 31)
+    [Companies Amendment Act 1998][1134] (1998 No 31)
     
-    [Companies Act 1993 Amendment Act 1997][1134] (1997 No 27)
+    [Companies Act 1993 Amendment Act 1997][1135] (1997 No 27)
     
     Companies Act 1993 Amendment Act 1996 (1996 No 115)
     
@@ -16215,6 +16179,8 @@ Commencementsee section 2
     Income Tax Act 1994 (1994 No 164): section YB 1
     
     Companies Act 1993 Amendment Act (No 2) 1994 (1994 No 82)
+    
+    Companies Act 1993 Amendment Act 1994 (1994 No 6)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][1012]
 
@@ -17279,7 +17245,7 @@ Commencementsee section 2
 [1056]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM211455
 [1057]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM367849
 [1058]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392175
-[1059]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM314314
+[1059]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM314307
 [1060]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM250655
 [1061]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378214
 [1062]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3378654
@@ -17319,39 +17285,40 @@ Commencementsee section 2
 [1096]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60364
 [1097]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM60371
 [1098]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM379041
-[1099]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405309
-[1100]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM405305
+[1099]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM6156631
+[1100]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM6156629
 [1101]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM83095
-[1102]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM377342
-[1103]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2179067
-[1104]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180446
-[1105]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM46737
-[1106]: http://www.legislation.govt.nz/act/public/1993/0105/latest/whole.html#DLM323571
-[1107]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58337
-[1108]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM236870
-[1109]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4655420
-[1110]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969650
-[1111]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387946
-[1112]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM973483
-[1113]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392144
-[1114]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435272
-[1115]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435265
-[1116]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1061143
-[1117]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036513
-[1118]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739901
-[1119]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5927500
-[1120]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998516
-[1121]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998515
-[1122]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998532
-[1123]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1124]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443900
-[1125]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013902
-[1126]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040600
-[1127]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968140
-[1128]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244120
-[1129]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240251
-[1130]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM163049
-[1131]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90171
-[1132]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22763
-[1133]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426265
-[1134]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409534
+[1102]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1512300
+[1103]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM377342
+[1104]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2179067
+[1105]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3180446
+[1106]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3673107
+[1107]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1523176
+[1108]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM46737
+[1109]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM58337
+[1110]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM236870
+[1111]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4655420
+[1112]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM969650
+[1113]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM387946
+[1114]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM973483
+[1115]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM392144
+[1116]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435272
+[1117]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM435265
+[1118]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1061143
+[1119]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5739901
+[1120]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM5927500
+[1121]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998516
+[1122]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998515
+[1123]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM2998532
+[1124]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1125]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4443900
+[1126]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM4013902
+[1127]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM3040600
+[1128]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM1036513
+[1129]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM968140
+[1130]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM244120
+[1131]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM240251
+[1132]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM90171
+[1133]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM22763
+[1134]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM426265
+[1135]: http://www.legislation.govt.nz/act/public/1993/0105/latest/link.aspx?id=DLM409534
