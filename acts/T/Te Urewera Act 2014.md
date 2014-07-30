@@ -788,7 +788,7 @@ Te Urewera
     > 
     > 
     
-    (4) The [Public Finance Act 1989][218] is consequentially amended in the manner shown in [Schedule 5][227].
+    (4) The [Public Finance Act 1989][218] is consequentially amended in the manner shown in [Schedule 5][207].
 
 ## Part 2  
 Governance and management of Te Urewera
@@ -3064,7 +3064,7 @@ Te Urewera land and related matters
     
     _trustees of Te Rūnanga o Ngāti Manawa_ has the meaning given in [section 10][303] of the Ngāti Manawa Claims Settlement Act 2012\.
     
-    (2) The Ngāti Manawa Claims Settlement Act 2012 is consequentially amended in the manner shown in [Schedule 5][207].
+    (2) The [Ngāti Manawa Claims Settlement Act 2012][305] is consequentially amended in the manner shown in [Schedule 5][207].
 
 ##### 130 Vesting of Tāwhiuau Maunga in name of Tangiharuru
     
@@ -3116,7 +3116,7 @@ Te Urewera land and related matters
     
     *   (b) must perform the duties, and exercise the powers and rights, in their own names and not in the name of Tangiharuru. 
     
-    (2) On and from the date of registration of Tāwhiuau Maunga, [section 100][305] of the Ngāti Manawa Claims Settlement Act 2012 ceases to apply to Tāwhiuau Maunga.
+    (2) On and from the date of registration of Tāwhiuau Maunga, [section 100][306] of the Ngāti Manawa Claims Settlement Act 2012 ceases to apply to Tāwhiuau Maunga.
 
 ##### 133 Management of Tāwhiuau area
     
@@ -3140,7 +3140,7 @@ Te Urewera land and related matters
     
 *   In order to recognise Ngāti Manawa's interests within the western parts of Te Urewera that are in the Ngāti Manawa area of interest, the trustees of Te Rūnanga o Ngāti Manawa and the Board must, not later than 24 months after the settlement date, enter into an agreement to make provision for how the Board and the trustees of Te Rūnanga o Ngāti Manawa will conduct their relationship---
         
-    *   (a) in matters relating to the management and administration of the area of Te Urewera where Ngāti Manawa have existing redress under the [Ngāti Manawa Claims Settlement Act 2012][306]; and
+    *   (a) in matters relating to the management and administration of the area of Te Urewera where Ngāti Manawa have existing redress under the [Ngāti Manawa Claims Settlement Act 2012][305]; and
     
     *   (b) in other matters of interest to both the Board and the trustees of Te Rūnanga o Ngāti Manawa, such as---
             
@@ -5232,7 +5232,7 @@ In Schedule 1, after [clause 25(b)][424], insert:
 > 
 > 
 
-##### [Ngāti Manawa Claims Settlement Act 2012][306] (2012 No 27)
+##### [Ngāti Manawa Claims Settlement Act 2012][305] (2012 No 27)
 
 In [section 10][303], definition of _conservation document_, replace paragraph (c) with:
 
@@ -5380,7 +5380,7 @@ After [section 3C][441], insert:
 
 ---
 
-This Act is administered by the Ministry of Justice.
+This Act is administered by the Department of Conservation.
 
 [0]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183604
 [1]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183605
@@ -5687,8 +5687,8 @@ This Act is administered by the Ministry of Justice.
 [302]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM142600
 [303]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276821
 [304]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183953
-[305]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3277079
-[306]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276800
+[305]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276800
+[306]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3277079
 [307]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM4339919
 [308]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183957
 [309]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183958
