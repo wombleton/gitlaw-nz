@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2009
+as at 28 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -186,27 +186,31 @@ Interpretation and application
     
     *   (b) land forming part of a national park under the [National Parks Act 1980][46]:
     
-    *   (c) land held for railway purposes other than for the accommodation of employees by the Crown, New Zealand Railways Corporation, or a railway operator that is a Crown transferee company (as those terms are defined in [section 2][47] of the New Zealand Railways Corporation Restructuring Act 1990):
+    *   (ba) land that is Te Urewera land, as defined by [section 7][47] of the Te Urewera Act 2014:
     
-    *   (ca) land held or occupied for the operation of a railway by a railway operator, not being a Crown transferee company (as those terms are defined in [section 2][47] of the New Zealand Railways Corporation Restructuring Act 1990), other than land used principally for car parking, the storage of freight, materials, and ancillary equipment, or administration or residential purposes:
+    *   (c) land held for railway purposes other than for the accommodation of employees by the Crown, New Zealand Railways Corporation, or a railway operator that is a Crown transferee company (as those terms are defined in [section 2][48] of the New Zealand Railways Corporation Restructuring Act 1990):
     
-    *   (d) land that is a marginal strip within the meaning of the [Conservation Act 1987][48]:
+    *   (ca) land held or occupied for the operation of a railway by a railway operator, not being a Crown transferee company (as those terms are defined in [section 2][48] of the New Zealand Railways Corporation Restructuring Act 1990), other than land used principally for car parking, the storage of freight, materials, and ancillary equipment, or administration or residential purposes:
     
-    *   (e) land that is an esplanade reserve within the meaning of the [Resource Management Act 1991][49] or an esplanade strip within the meaning of that Act.
+    *   (d) land that is a marginal strip within the meaning of the [Conservation Act 1987][49]:
+    
+    *   (e) land that is an esplanade reserve within the meaning of the [Resource Management Act 1991][50] or an esplanade strip within the meaning of that Act.
     
     (2) Subject to subsection (1), this Act binds the Crown.
     
     Compare: 1908 No 61 s 5
     
-    Section 3(1)(b): amended, on 1 April 1981, pursuant to [section 80(2)][50] of the National Parks Act 1980 (1980 No 66).
+    Section 3(1)(b): amended, on 1 April 1981, pursuant to [section 80(2)][51] of the National Parks Act 1980 (1980 No 66).
     
-    Section 3(1)(c): substituted, on 28 August 1990, by [section 35][51] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
+    Section 3(1)(ba): inserted, on 28 July 2014, by [section 138][52] of the Te Urewera Act 2014 (2014 No 51).
     
-    Section 3(1)(ca): inserted, on 28 August 1990, by [section 35][51] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
+    Section 3(1)(c): substituted, on 28 August 1990, by [section 35][53] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
     
-    Section 3(1)(d): substituted, on 1 April 1987, by [section 65(1)][52] of the Conservation Act 1987 (1987 No 65).
+    Section 3(1)(ca): inserted, on 28 August 1990, by [section 35][53] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
     
-    Section 3(1)(e): substituted, on 1 July 2003, by [section 262][53] of the Local Government Act 2002 (2002 No 84).
+    Section 3(1)(d): substituted, on 1 April 1987, by [section 65(1)][54] of the Conservation Act 1987 (1987 No 65).
+    
+    Section 3(1)(e): substituted, on 1 July 2003, by [section 262][55] of the Local Government Act 2002 (2002 No 84).
 
 ## Part 2  
 Agreements
@@ -219,13 +223,13 @@ Agreements
 
 ##### 5 Fencing covenants and agreements registrable
     
-*   (1) Fencing covenants and fencing agreements relating to land subject to the [Land Transfer Act 1952][54] may be registered under that Act against the title to that land.
+*   (1) Fencing covenants and fencing agreements relating to land subject to the [Land Transfer Act 1952][56] may be registered under that Act against the title to that land.
     
     (2) Subject to [section 6][9], the burden of any fencing covenant or fencing agreement that is registered against the title to the land to which it relates shall run with the land, whether or not assigns are named in the covenant or agreement.
 
 ##### 6 Registration of fencing covenants to expire after 12 years
     
-*   (1) Where a fencing covenant is registered under the [Land Transfer Act 1952][54] after the commencement of this Act, or where a covenant, agreement, or proviso (being a fencing covenant within the meaning of this Act) was registered under the [Land Transfer Act 1952][54] before the commencement of this Act by virtue of section 7 of the Fencing Act 1908, the registration of the covenant, agreement, or proviso shall expire after the expiration of 12 years from the date of the registration or the date of the commencement of this Act, whichever is the later.
+*   (1) Where a fencing covenant is registered under the [Land Transfer Act 1952][56] after the commencement of this Act, or where a covenant, agreement, or proviso (being a fencing covenant within the meaning of this Act) was registered under the [Land Transfer Act 1952][56] before the commencement of this Act by virtue of section 7 of the Fencing Act 1908, the registration of the covenant, agreement, or proviso shall expire after the expiration of 12 years from the date of the registration or the date of the commencement of this Act, whichever is the later.
     
     (2) Nothing in subsection (1) applies in respect of a fencing covenant that protects a local authority from liability to contribute towards any work on a fence between a public reserve vested in or administered by that local authority and any adjoining land.
 
@@ -266,13 +270,13 @@ Liability for work on a fence
 
 ##### 9A Contributions where fence required by Fencing of Swimming Pools Act 1987
     
-*   Where any person is required to provide a fence in order to comply with the [Fencing of Swimming Pools Act 1987][55]---
+*   Where any person is required to provide a fence in order to comply with the [Fencing of Swimming Pools Act 1987][57]---
         
     *   (a) all work on that fence that is required because of the application of that Act and would not otherwise be required shall be the responsibility of the owner of the swimming pool; and
     
     *   (b) no person, other than the owner of the swimming pool, shall be required to make any contribution under this Act to the work on a fence greater than the contribution that the person would be required to make to the work on a fence (whether of the same type or not) if the swimming pool did not exist.
     
-    Section 9A: inserted, on 20 July 1987, by [section 14][56] of the Fencing of Swimming Pools Act 1987 (1987 No 178).
+    Section 9A: inserted, on 20 July 1987, by [section 14][58] of the Fencing of Swimming Pools Act 1987 (1987 No 178).
 
 ##### 10 Notice to do work to be given
     
@@ -336,11 +340,11 @@ Liability for work on a fence
     
     (5) Notwithstanding anything in the foregoing provisions of this section, the court may in any case make an order directing the manner in which any notice or cross-notice is to be delivered, or dispensing with the delivery thereof.
     
-    Compare: 1908 No 61 s 40; 1952 No 51 [s 152][57]
+    Compare: 1908 No 61 s 40; 1952 No 51 [s 152][59]
     
-    Section 12(4)(a): substituted, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 12(4)(a): substituted, on 1 July 2005, by [section 151][60] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 12(4)(b): substituted, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 12(4)(b): substituted, on 1 July 2005, by [section 151][60] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 13 Where notices vary
     
@@ -433,15 +437,15 @@ Procedure
     
 *   (1) Subject to [section 24A][31], the provisions of the District Courts Act 1947 shall apply to all proceedings under this Act.
     
-    (2) Nothing in this Part shall restrict [section 26][59] of Te Ture Whenua Maori Act 1993\.
+    (2) Nothing in this Part shall restrict [section 26][61] of Te Ture Whenua Maori Act 1993\.
     
     Compare: 1908 No 61 s 37
     
-    Section 23 heading: amended, on 1 January 1980, pursuant to [section 2(3)][60] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23 heading: amended, on 1 January 1980, pursuant to [section 2(3)][62] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(1): substituted, on 1 March 1989, by [section 72][61] of the Disputes Tribunal Act 1988 (1988 No 110).
+    Section 23(1): substituted, on 1 March 1989, by [section 72][63] of the Disputes Tribunal Act 1988 (1988 No 110).
     
-    Section 23(2): amended, on 1 July 1993, pursuant to [section 362(2)][62] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 23(2): amended, on 1 July 1993, pursuant to [section 362(2)][64] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 24 Jurisdiction of the court
     
@@ -495,7 +499,7 @@ Procedure
 
 ##### 24A Jurisdiction of Disputes Tribunals
     
-*   (1) Subject to subsection (2), a Disputes Tribunal established under the [Disputes Tribunals Act 1988][63] shall have jurisdiction to---
+*   (1) Subject to subsection (2), a Disputes Tribunal established under the [Disputes Tribunals Act 1988][65] shall have jurisdiction to---
         
     *   (a) hear and determine all questions and disputes arising under this Act in relation to any of the matters specified in paragraphs (a) to (o) of subsection (1) of [section 24][30]; and
     
@@ -519,21 +523,21 @@ Procedure
     
     and an order or judgment of a Tribunal that exceeds any such restriction shall be entirely of no effect.
     
-    (3) Where, in respect of any proceedings under subsection (1), the jurisdiction of a Disputes Tribunal has been extended under an agreement made pursuant to [section 13][64] of the Disputes Tribunals Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000\.
+    (3) Where, in respect of any proceedings under subsection (1), the jurisdiction of a Disputes Tribunal has been extended under an agreement made pursuant to [section 13][66] of the Disputes Tribunals Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000\.
     
-    Section 24A: inserted, on 1 March 1989, by [section 73][65] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 24A: inserted, on 1 March 1989, by [section 73][67] of the Disputes Tribunals Act 1988 (1988 No 110).
     
-    Section 24A(2)(a)(i): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(2)(a)(i): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 24A(2)(a)(ii): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(2)(a)(ii): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 24A(2)(a)(iii): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(2)(a)(iii): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 24A(2)(a)(iv): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(2)(a)(iv): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 24A(2)(b): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(2)(b): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 24A(3): amended, on 1 August 2009, by [section 8][66] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 24A(3): amended, on 1 August 2009, by [section 8][68] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 25 Power to come in and defend proceedings
     
@@ -564,11 +568,11 @@ Miscellaneous provisions
 
 ##### 27 Rules
     
-*   The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the [District Courts Rules 1992][67], or of the [Disputes Tribunals Act 1988][63], as the case may require, shall so far as practicable be adopted.
+*   The Governor-General may from time to time, by Order in Council, make rules prescribing, in all cases not specially provided for in this Act, the practice and procedure of the court and forms in all proceedings before a court under this Act, and until rules are made and to the extent they do not cover any case the provisions of the [District Courts Rules 1992][69], or of the [Disputes Tribunals Act 1988][65], as the case may require, shall so far as practicable be adopted.
     
-    Section 27: amended, on 1 July 1992, pursuant to [rule 676][68] of the District Courts Rules 1992 (SR 1992/109).
+    Section 27: amended, on 1 July 1992, pursuant to [rule 676][70] of the District Courts Rules 1992 (SR 1992/109).
     
-    Section 27: amended, on 1 March 1989, by [section 74][69] of the Disputes Tribunals Act 1988 (1988 No 110).
+    Section 27: amended, on 1 March 1989, by [section 74][71] of the Disputes Tribunals Act 1988 (1988 No 110).
 
 ##### 28 Repeals and savings
     
@@ -643,7 +647,7 @@ Signature:
 
 \*Delete if no counter-proposals are proposed.
 
-*   Schedule 1 form 2: amended, on 1 April 1980, pursuant to [section 18(2)][70] of the District Courts Amendment Act 1979 (1979 No 125).
+*   Schedule 1 form 2: amended, on 1 April 1980, pursuant to [section 18(2)][72] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ---
 
@@ -683,7 +687,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][71]_.
+_Amendment(s) incorporated in the [Act(s)][73]_.
 
 ##### Fencing Act 1908 (1908 No 61) (1957 Reprint, Vol 4, p 869)
 
@@ -697,100 +701,59 @@ _Amendment(s) incorporated in the [Act(s)][71]_.
 
 _Amendment(s) incorporated in the Act(s)_.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Fencing Act 1978\. The reprint incorporates all the amendments to the Act as at 1 August 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][72] ![](/images/external_link.gif).
+*   This is a reprint of the Fencing Act 1978 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][73] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][74] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][75] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][74] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][76] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][77] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][75] and [17E][76] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Te Urewera Act 2014 (2014 No 51): [section 138][52]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][66]
+    Disputes Tribunals Amendment Act 2009 (2009 No 22): [section 8][68]
     
     Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][44]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][58]
+    Care of Children Act 2004 (2004 No 90): [section 151][60]
     
-    Local Government Act 2002 (2002 No 84): [section 262][53]
+    Local Government Act 2002 (2002 No 84): [section 262][55]
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][62]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][64]
     
-    District Courts Rules 1992 (SR 1992/109): [rule 676][68]
+    District Courts Rules 1992 (SR 1992/109): [rule 676][70]
     
-    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [section 35][51]
+    New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [section 35][53]
     
     Government Roading Powers Act 1989 (1989 No 75): [section 116(1)][45]
     
     Disputes Tribunal Act 1988 (1988 No 110): sections 71--74
     
-    Fencing of Swimming Pools Act 1987 (1987 No 178): [section 14][56]
+    Fencing of Swimming Pools Act 1987 (1987 No 178): [section 14][58]
     
-    Conservation Act 1987 (1987 No 65): [section 65(1)][52]
+    Conservation Act 1987 (1987 No 65): [section 65(1)][54]
     
-    National Parks Act 1980 (1980 No 66): [section 80(2)][50]
+    National Parks Act 1980 (1980 No 66): [section 80(2)][51]
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][60], [18(2)][70]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][62], [18(2)][72]
     
     Fencing Amendment Act 1979 (1979 No 88)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1978/0050/latest/whole.html#DLM21809
 [2]: http://www.legislation.govt.nz/act/public/1978/0050/latest/whole.html#DLM21811
 [3]: http://www.legislation.govt.nz/act/public/1978/0050/latest/whole.html#DLM21812
@@ -837,33 +800,34 @@ _Amendment(s) incorporated in the Act(s)_.
 [44]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM1313622
 [45]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM175926
 [46]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM36962
-[47]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM222636
-[48]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM103609
-[49]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM230264
-[50]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM38526
-[51]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM223141
-[52]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM106995
-[53]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM174088
-[54]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM269031
-[55]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM124441
-[56]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM124495
-[57]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM268967
-[58]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM317988
-[59]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM290564
-[60]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM35057
-[61]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134146
-[62]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM293026
-[63]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM133281
-[64]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM133648
-[65]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134147
-[66]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM1919616
-[67]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM154671
-[68]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM161097
-[69]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134149
-[70]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM35085
-[71]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM396851
-[72]: http://www.pco.parliament.govt.nz/reprints/
-[73]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM195439
-[74]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[75]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM195468
-[76]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM195470
+[47]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM6183614
+[48]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM222636
+[49]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM103609
+[50]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM230264
+[51]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM38526
+[52]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM6183949
+[53]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM223141
+[54]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM106995
+[55]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM174088
+[56]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM269031
+[57]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM124441
+[58]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM124495
+[59]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM268967
+[60]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM317988
+[61]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM290564
+[62]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM35057
+[63]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134146
+[64]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM293026
+[65]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM133281
+[66]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM133648
+[67]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134147
+[68]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM1919616
+[69]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM154671
+[70]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM161097
+[71]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM134149
+[72]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM35085
+[73]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM396851
+[74]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM2998516
+[75]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM2998515
+[76]: http://www.legislation.govt.nz/act/public/1978/0050/latest/link.aspx?id=DLM2998532
+[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
