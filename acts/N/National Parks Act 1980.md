@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 28 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -634,7 +634,7 @@ National parks
     
     *   (f) the Mount Cook National Park:
     
-    *   (g) the Urewera National Park:
+    *   (g) \[Repealed\]
     
     *   (h) the Nelson Lakes National Park:
     
@@ -646,13 +646,15 @@ National parks
     
     (3) By virtue of [section 162][146] of the Ngāi Tahu Claims Settlement Act 1998, the Mount Cook National Park is now called the Aoraki/Mount Cook National Park.
     
-    (4) By virtue of Order in Council dated 3 April 2000 (_Gazette_ 1 June 2000, p 1281), Urewera National Park is now called Te Urewera National Park.
+    (4) \[Repealed\]
     
     Compare: 1952 No 54 s 9; 1974 No 69 s 4
     
+    Section 6(1)(g): repealed, on 28 July 2014, by [section 14][147] of the Te Urewera Act 2014 (2014 No 51).
+    
     Section 6(3): inserted, on 1 October 1998, by [section 162(3)][146] of the Ngāi Tahu Claims Settlement Act 1998 (1998 No 97).
     
-    Section 6(4): inserted, on 27 September 2001, by [section 3][147] of the National Parks Amendment Act 2001 (2001 No 73).
+    Section 6(4): repealed, on 28 July 2014, by [section 14][147] of the Te Urewera Act 2014 (2014 No 51).
 
 ##### 7 Constitution of other national parks and addition of land to national parks
     
@@ -2529,7 +2531,9 @@ An Act to amend the National Parks Act 1980
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][230]
+*   Te Urewera Act 2014 (2014 No 51): [section 14][147]
+    
+    Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][230]
     
     Conservation (Natural Heritage Protection) Act 2013 (2013 No 89): [Part 2][245]
     
@@ -2558,8 +2562,6 @@ An Act to amend the National Parks Act 1980
     Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): [section 38(2)][224]
     
     Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][142]
-    
-    [National Parks Amendment Act 2001][249] (2001 No 73)
     
     Forests (West Coast Accord) Act 2000 (2000 No 45):[section 22][180]
     
@@ -2746,7 +2748,7 @@ An Act to amend the National Parks Act 1980
 [144]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM435656
 [145]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM51965
 [146]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM429954
-[147]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113306
+[147]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM6183710
 [148]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM175060
 [149]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065508
 [150]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1065512
@@ -2848,4 +2850,3 @@ An Act to amend the National Parks Act 1980
 [246]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM3043000
 [247]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM1209600
 [248]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM348461
-[249]: http://www.legislation.govt.nz/act/public/1980/0066/latest/link.aspx?id=DLM113303
