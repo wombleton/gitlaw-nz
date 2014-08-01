@@ -1,5 +1,5 @@
 Reprint  
-as at 20 October 1972
+as at 28 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement17 December 1971
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Te Puni Kōkiri.
 
@@ -53,7 +53,7 @@ This Act is administered by Te Puni Kōkiri.
 
 [13][15][][15][Vesting in Maori Trust Boards of Lake Waikaremoana][15]
 
-[14][16][][16][Rent and other money to be paid to Maori Trust Boards][16]
+[14][16][][16][Rent and other money payable][16]
 
 [Schedule][17]  
 [Lease of Lake Waikaremoana][17]
@@ -86,33 +86,41 @@ An Act to validate the lease to the Crown of Lake Waikaremoana, and to provide f
     
     _Lake Waikaremoana_ or _the lake_ means all that piece of Maori freehold land known as Lake Waikaremoana, situated in the Gisborne Land District, and containing 12 875 acres, more or less, and being all the land comprised and described in a Freehold Order of the Maori Land Court dated 6 June 1918 and registered in the Provisional Register, Volume 1B, folio 861, Gisborne Registry
     
-    _the lease_ means the lease by Sir Turi Carroll and 9 others to the Crown, a copy of which is set out in the [Schedule][17].
+    _the lease_ means the lease by Sir Turi Carroll and 9 others to the Crown, a copy of which is set out in the [Schedule][17]
+    
+    _trustees_ means the trustees of the Tūhoe Charitable Trust
+    
+    _Tūhoe Charitable Trust_ has the meaning given in [section 88][18] of the Tūhoe Claims Settlement Act 2014\.
+    
+    Section 2 **_trustees_**: inserted, on 28 July 2014, by [section 109][19] of the Tūhoe Claims Settlement Act 2014 (2014 No 50).
+    
+    Section 2 **_Tūhoe Charitable Trust_**: inserted, on 28 July 2014, by [section 109][19] of the Tūhoe Claims Settlement Act 2014 (2014 No 50).
 
 ##### 3 Validation of the lease
     
 *   (1) The lease is hereby declared to be a valid and effectual lease of Lake Waikaremoana and to have effect according to its tenor as if it had been granted in due form by the Maori Trustee pursuant to a duly confirmed resolution of a meeting of assembled owners under Part 23 of the Maori Affairs Act 1953\.
     
-    (2) Any extension of the term of the lease and any variation, negation of, or addition to the covenants, conditions, and restrictions contained or implied in the lease shall be effected in the manner provided by [section 116][18] of the Land Transfer Act 1952 and in any such case all the provisions of that section shall apply accordingly.
+    (2) Any extension of the term of the lease and any variation, negation of, or addition to the covenants, conditions, and restrictions contained or implied in the lease shall be effected in the manner provided by [section 116][20] of the Land Transfer Act 1952 and in any such case all the provisions of that section shall apply accordingly.
 
 ##### 4 Registration of lease
     
-*   The District Land Registrar for the Land Registration District of Gisborne is hereby authorised and directed upon the application of the Commissioner of Crown Lands at Gisborne to register the lease under the [Land Transfer Act 1952][19], notwithstanding that the form of the lease does not conform to the requirements of that Act.
+*   The District Land Registrar for the Land Registration District of Gisborne is hereby authorised and directed upon the application of the Commissioner of Crown Lands at Gisborne to register the lease under the [Land Transfer Act 1952][21], notwithstanding that the form of the lease does not conform to the requirements of that Act.
 
 ##### 5 Change of name of Tuhoe Maori Trust Board
     
-*   (1) The body corporate constituted by [section 9A][20] of the Maori Trust Boards Act 1955 (as inserted by [section 9][21] of the Maori Purposes Act 1958) under the name of the Tuhoe Maori Trust Board shall continue to exist and shall henceforth be known as the Tuhoe-Waikaremoana Maori Trust Board.
+*   (1) The body corporate constituted by [section 9A][22] of the Maori Trust Boards Act 1955 (as inserted by [section 9][23] of the Maori Purposes Act 1958) under the name of the Tuhoe Maori Trust Board shall continue to exist and shall henceforth be known as the Tuhoe-Waikaremoana Maori Trust Board.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][20]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][22]_.
     
-    (3) The provisions of [section 40][22] of the Maori Trust Boards Act 1955 shall apply to the change of name effected by this section as if it had been effected by that Act.
+    (3) The provisions of [section 40][24] of the Maori Trust Boards Act 1955 shall apply to the change of name effected by this section as if it had been effected by that Act.
 
 ##### 6 Change of name of Wairoa Maori Trust Board
     
-*   (1) The body corporate continued in existence by [section 11][23] of the Maori Trust Boards Act 1955 under the name of the Wairoa Maori Trust Board shall continue to exist and shall henceforth be known as the Wairoa-Waikaremoana Maori Trust Board.
+*   (1) The body corporate continued in existence by [section 11][25] of the Maori Trust Boards Act 1955 under the name of the Wairoa Maori Trust Board shall continue to exist and shall henceforth be known as the Wairoa-Waikaremoana Maori Trust Board.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][23]._
+    (2) _Amendment(s) incorporated in the [Act(s)][25]._
     
-    (3) The provisions of [section 40][22] of the Maori Trust Boards Act 1955 shall apply to the change of name effected by this section as if it had been effected by that Act.
+    (3) The provisions of [section 40][24] of the Maori Trust Boards Act 1955 shall apply to the change of name effected by this section as if it had been effected by that Act.
 
 ##### 7 Original lists for Kahungunu and Tuhoe
     
@@ -146,17 +154,17 @@ An Act to validate the lease to the Crown of Lake Waikaremoana, and to provide f
     
     (2) \[Repealed\]
     
-    Section 10(2): repealed, on 20 October 1972, by [section 15(2)][24] of the Maori Purposes Act 1972 (1972 No 135).
+    Section 10(2): repealed, on 20 October 1972, by [section 15(2)][26] of the Maori Purposes Act 1972 (1972 No 135).
 
 ##### 11 Additional beneficiaries of Tuhoe-Waikaremoana Maori Trust Board
     
 *   (1) The persons whose names are comprised in the Tuhoe portion of the list compiled pursuant to subsection (3) of [section 9][11] together with their descendants shall be beneficiaries of the Tuhoe-Waikaremoana Maori Trust Board.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][20]._
+    (2) _Amendment(s) incorporated in the [Act(s)][22]._
 
 ##### 12 Representation of new beneficiaries by members of Trust Boards
     
-*   Pending provision by regulations under the [Maori Trust Boards Act 1955][25] for varying the number of members of the Tuhoe-Waikaremoana Maori Trust Board and of the Wairoa-Waikaremoana Maori Trust Board and for varying the provision for the representation of the beneficiaries of those Boards to allow for the representation of the new beneficiaries added by this Act, the Governor-General may in respect of each of the Boards referred to appoint 3 persons to be additional members of the Board to represent those additional beneficiaries, and those additional members shall hold office as if they had been appointed to the Board following the last election of members of the Board.
+*   Pending provision by regulations under the [Maori Trust Boards Act 1955][27] for varying the number of members of the Tuhoe-Waikaremoana Maori Trust Board and of the Wairoa-Waikaremoana Maori Trust Board and for varying the provision for the representation of the beneficiaries of those Boards to allow for the representation of the new beneficiaries added by this Act, the Governor-General may in respect of each of the Boards referred to appoint 3 persons to be additional members of the Board to represent those additional beneficiaries, and those additional members shall hold office as if they had been appointed to the Board following the last election of members of the Board.
 
 ##### 13 Vesting in Maori Trust Boards of Lake Waikaremoana
     
@@ -164,15 +172,25 @@ An Act to validate the lease to the Crown of Lake Waikaremoana, and to provide f
     
     (2) The Registrar shall thereupon make an order vesting Lake Waikaremoana in the Wairoa-Waikaremoana Maori Trust Board and in the Tuhoe-Waikaremoana Maori Trust Board for an estate of freehold in fee simple (but subject to the lease to the Crown validated by [section 3][5]) as tenants in common in stated shares which shares shall be as expressed by the Registrar pursuant to subsection (1) for the Ngati Kahungunu group of owners and for the Tuhoe group of owners respectively.
     
-    (3) The order made pursuant to subsection (2) shall have effect as if it were an order of the Maori Land Court, and the District Land Registrar is hereby authorised and directed upon the application of the Registrar of the Maori Land Court to register it accordingly under the [Land Transfer Act 1952][19].
+    (3) The order made pursuant to subsection (2) shall have effect as if it were an order of the Maori Land Court, and the District Land Registrar is hereby authorised and directed upon the application of the Registrar of the Maori Land Court to register it accordingly under the [Land Transfer Act 1952][21].
 
-##### 14 Rent and other money to be paid to Maori Trust Boards
+##### 14 Rent and other money payable
     
-*   The rent payable under the lease, and any other money that becomes payable in respect of Lake Waikaremoana, shall be paid to the Tuhoe-Waikaremoana Maori Trust Board and to the Wairoa-Waikaremoana Maori Trust Board in accordance with their respective shares in the lake and shall, in each case, constitute assets of the Board for the purposes of [section 24][26] of the Maori Trust Boards Act 1955:
+*   (1) The rent payable under the lease and any other money that becomes payable in respect of Lake Waikaremoana must be paid, in accordance with their respective shares in the lake, to---
+        
+    *   (a) the Tūhoe Charitable Trust Board, to be held subject to the trusts, covenants, and conditions applying to the assets and liabilities of the Tūhoe Charitable Trust; and
     
-    provided that any necessary expenses incurred in negotiating the lease and in carrying out the requirements of this Act may be met from the rent payable under the lease before it is paid to the Maori Trust Boards:
+    *   (b) the Wairoa-Waikaremoana Maori Trust Board.
     
-    provided also that until the shares of the Maori Trust Boards are determined the rent shall continue to be paid to the Maori Trustee.
+    (2) The rent and other money referred to in subsection (1) constitute assets,---
+        
+    *   (a) in the case of the money paid under subsection (1)(a), of the Tūhoe Charitable Trust Board; and
+    
+    *   (b) in the case of the money paid under subsection (1)(b), of the Wairoa-Waikaremoana Maori Trust Board, for the purposes of [section 24][28] of the Maori Trust Boards Act 1955\.
+    
+    (3) Any necessary expenses incurred in negotiating the lease and carrying out the requirements of this Act may be met from the rent payable under the lease before it is paid to the Tūhoe Charitable Trust Board as trustee of the Tūhoe Charitable Trust and the Wairoa-Waikaremoana Maori Trust Board respectively.
+    
+    Section 14: replaced, on 28 July 2014, by [section 109][19] of the Tūhoe Claims Settlement Act 2014 (2014 No 50).
 
 ---
 
@@ -306,74 +324,33 @@ Witness: Whare Cotter.
 Occupation: Supervisor.  
 Address: Napier. 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Lake Waikaremoana Act 1971\. The reprint incorporates all the amendments to the Act as at 20 October 1972, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][27] ![](/images/external_link.gif).
+*   This is a reprint of the Lake Waikaremoana Act 1971 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][28] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][29] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][30] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][29] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][31] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][32] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Tūhoe Claims Settlement Act 2014 (2014 No 50): [section 109][19]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Maori Purposes Act 1972 (1972 No 135): [section 15(2)][24]
+    Maori Purposes Act 1972 (1972 No 135): [section 15(2)][26]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405548
 [2]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405549
 [3]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405552
@@ -391,17 +368,18 @@ Address: Napier.
 [15]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405573
 [16]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405574
 [17]: http://www.legislation.govt.nz/act/public/1971/0152/latest/whole.html#DLM405575
-[18]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM271030
-[19]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM269031
-[20]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289372
-[21]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM320064
-[22]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289572
-[23]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289383
-[24]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM409115
-[25]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289314
-[26]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289516
-[27]: http://www.pco.parliament.govt.nz/reprints/
-[28]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM195439
-[29]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[30]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM195468
-[31]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM195470
+[18]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM4929039
+[19]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM5481543
+[20]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM271030
+[21]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM269031
+[22]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289372
+[23]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM320064
+[24]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289572
+[25]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289383
+[26]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM409115
+[27]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289314
+[28]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM289516
+[29]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM2998516
+[30]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM2998515
+[31]: http://www.legislation.govt.nz/act/public/1971/0152/latest/link.aspx?id=DLM2998532
+[32]: http://www.pco.parliament.govt.nz/editorial-conventions/
