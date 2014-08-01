@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 28 July 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1220,6 +1220,8 @@ The New Zealand Police
 
 Tokelau Administration
 
+Te Urewera Board as defined in [section 7][155] of the Te Urewera Act 2014
+
 Valuers Registration Board
 
 Waitangi National Trust Board
@@ -1230,28 +1232,29 @@ West Coast Development Trust
 
 Winston Churchill Memorial Trust
     
-*   Schedule 2: amended, on 1 November 2010, by [section 113(1)][155] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
-*   Schedule 2 Architects Education and Registration Board: repealed, on 1 July 2006, by [section 85(c)][156] of the Registered Architects Act 2005 (2005 No 38).
-*   Schedule 2 Arts boards: repealed, on 30 April 2014, by [section 27][157] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
-*   Schedule 2 Building Practitioners Board: inserted, on 31 March 2005, by [section 414][158] of the Building Act 2004 (2004 No 72).
-*   Schedule 2 Carter Observatory: repealed, on 1 June 2010, by [section 12][159] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
-*   Schedule 2 Chartered Professional Engineers Council: inserted, on 1 July 2002, by [section 69(2)][160] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+*   Schedule 2: amended, on 1 November 2010, by [section 113(1)][156] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+*   Schedule 2 Architects Education and Registration Board: repealed, on 1 July 2006, by [section 85(c)][157] of the Registered Architects Act 2005 (2005 No 38).
+*   Schedule 2 Arts boards: repealed, on 30 April 2014, by [section 27][158] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
+*   Schedule 2 Building Practitioners Board: inserted, on 31 March 2005, by [section 414][159] of the Building Act 2004 (2004 No 72).
+*   Schedule 2 Carter Observatory: repealed, on 1 June 2010, by [section 12][160] of the Carter Observatory Act Repeal Act 2010 (2010 No 34).
+*   Schedule 2 Chartered Professional Engineers Council: inserted, on 1 July 2002, by [section 69(2)][161] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 *   Schedule 2 Electricity Ashburton Limited: repealed, on 8 August 2001, by [section 22(2)(a)][151] of the Electricity Amendment Act 2001 (2001 No 40).
-*   Schedule 2 Engineers Registration Board: repealed, on 1 January 2004, by [section 75(4)][161] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
-*   Schedule 2 Game Animal Council: inserted, on 28 November 2013, by [section 41(2)][162] of the Game Animal Council Act 2013 (2013 No 98).
-*   Schedule 2 Heritage New Zealand Pouhere Taonga: inserted, on 20 May 2014, by [section 107][163] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
-*   Schedule 2 Māori Television Service: inserted, on 8 May 2003, by [section 60][164] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
-*   Schedule 2 Maori Trustee: repealed, on 1 July 2009, by [section 30(1)][165] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-*   Schedule 2 Montfort Trimble Foundation: inserted, on 11 December 2003, by [section 26][166] of the Masterton District Council (Montfort Trimble Foundation) Act 2003 (2003 No 5 (L)).
-*   Schedule 2 New Zealand Historic Places Trust: repealed, on 20 May 2014, by [section 107][163] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
-*   Schedule 2 New Zealand Registered Architects' Board: inserted, on 1 July 2005, by [section 82(2)][167] of the Registered Architects Act 2005 (2005 No 38).
+*   Schedule 2 Engineers Registration Board: repealed, on 1 January 2004, by [section 75(4)][162] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+*   Schedule 2 Game Animal Council: inserted, on 28 November 2013, by [section 41(2)][163] of the Game Animal Council Act 2013 (2013 No 98).
+*   Schedule 2 Heritage New Zealand Pouhere Taonga: inserted, on 20 May 2014, by [section 107][164] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+*   Schedule 2 Māori Television Service: inserted, on 8 May 2003, by [section 60][165] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
+*   Schedule 2 Maori Trustee: repealed, on 1 July 2009, by [section 30(1)][166] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Schedule 2 Montfort Trimble Foundation: inserted, on 11 December 2003, by [section 26][167] of the Masterton District Council (Montfort Trimble Foundation) Act 2003 (2003 No 5 (L)).
+*   Schedule 2 New Zealand Historic Places Trust: repealed, on 20 May 2014, by [section 107][164] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+*   Schedule 2 New Zealand Registered Architects' Board: inserted, on 1 July 2005, by [section 82(2)][168] of the Registered Architects Act 2005 (2005 No 38).
 *   Schedule 2 Otago Power Limited: repealed, on 8 August 2001, by [section 22(2)(b)][151] of the Electricity Amendment Act 2001 (2001 No 40).
-*   Schedule 2 Overseas Investment Commission: repealed, on 25 August 2005, by [section 75][168] of the Overseas Investment Act 2005 (2005 No 82).
-*   Schedule 2 Patriotic and Canteen Funds Board: repealed, on 17 May 2005, by [section 22][169] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
-*   Schedule 2 Royal New Zealand Foundation for the Blind: repealed, on 30 April 2003, by [section 28(1)][170] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
-*   Schedule 2 Survey Board of New Zealand: repealed, on 1 June 2002, by [section 68(1)][171] of the Cadastral Survey Act 2002 (2002 No 12).
-*   Schedule 2 Treaty of Waitangi Fisheries Commission: repealed, on 29 November 2004, by [section 214][172] of the Maori Fisheries Act 2004 (2004 No 78).
-*   Schedule 2 West Coast Development Trust: inserted, on 21 March 2002, by [clause 3][173] of the Public Audit (West Coast Development Trust) Order 2002 (SR 2002/17).
+*   Schedule 2 Overseas Investment Commission: repealed, on 25 August 2005, by [section 75][169] of the Overseas Investment Act 2005 (2005 No 82).
+*   Schedule 2 Patriotic and Canteen Funds Board: repealed, on 17 May 2005, by [section 22][170] of the Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65).
+*   Schedule 2 Royal New Zealand Foundation for the Blind: repealed, on 30 April 2003, by [section 28(1)][171] of the Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)).
+*   Schedule 2 Survey Board of New Zealand: repealed, on 1 June 2002, by [section 68(1)][172] of the Cadastral Survey Act 2002 (2002 No 12).
+*   Schedule 2 Treaty of Waitangi Fisheries Commission: repealed, on 29 November 2004, by [section 214][173] of the Maori Fisheries Act 2004 (2004 No 78).
+*   Schedule 2 Te Urewera Board: inserted, on 28 July 2014, by [section 138][174] of the Te Urewera Act 2014 (2014 No 51).
+*   Schedule 2 West Coast Development Trust: inserted, on 21 March 2002, by [clause 3][175] of the Public Audit (West Coast Development Trust) Order 2002 (SR 2002/17).
 
 ---
 
@@ -1278,7 +1281,7 @@ Provisions applying in respect of Auditor-General, Deputy Auditor-General, and e
     
     (2) A person who has been appointed as Deputy Auditor-General may be reappointed as Deputy Auditor-General.
     
-    (3) Subclauses (2) and (3) of [clause 1][174] apply, with the necessary modifications, in respect of the Deputy Auditor-General as if references to the Auditor-General were references to the Deputy Auditor-General.
+    (3) Subclauses (2) and (3) of [clause 1][176] apply, with the necessary modifications, in respect of the Deputy Auditor-General as if references to the Auditor-General were references to the Deputy Auditor-General.
 
 ##### 3 Oath of office
     
@@ -1302,15 +1305,15 @@ Provisions applying in respect of Auditor-General, Deputy Auditor-General, and e
     
     (2) The salary of the Auditor-General, or of the Deputy Auditor-General, must not be reduced during the Auditor-General's, or Deputy Auditor-General's, appointment.
     
-    Schedule 3 clause 5(1): amended, on 25 January 2005, pursuant to [section 65R(3)][175] of the Public Finance Act 1989 (1989 No 44).
+    Schedule 3 clause 5(1): amended, on 25 January 2005, pursuant to [section 65R(3)][177] of the Public Finance Act 1989 (1989 No 44).
     
-    Schedule 3 clause 5(1)(a): amended, on 1 April 2003, by [section 4(1)][176] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Schedule 3 clause 5(1)(a): amended, on 1 April 2003, by [section 4(1)][178] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
     
-    Schedule 3 clause 5(1)(b): amended, on 1 April 2003, by [section 4(1)][176] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Schedule 3 clause 5(1)(b): amended, on 1 April 2003, by [section 4(1)][178] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 6 State Sector Act 1988 and Government Superannuation Fund Act 1956 not applicable to Auditor-General and Deputy Auditor-General
     
-*   The Auditor-General and Deputy Auditor-General are not employed in the service of the Crown for the purposes of the [State Sector Act 1988][177] or the [Government Superannuation Fund Act 1956][130] by reason of their appointment as Auditor-General or Deputy Auditor-General.
+*   The Auditor-General and Deputy Auditor-General are not employed in the service of the Crown for the purposes of the [State Sector Act 1988][179] or the [Government Superannuation Fund Act 1956][130] by reason of their appointment as Auditor-General or Deputy Auditor-General.
 
 ##### 7 Auditor-General not to borrow, etc, without approval of Minister of Finance
     
@@ -1378,13 +1381,13 @@ Provisions applying in respect of Auditor-General, Deputy Auditor-General, and e
     
     *   (b) an account of the extent to which the Auditor-General was able to meet, during the year to which the report relates, the equal employment opportunities programme for that year.
     
-    (3) For the purposes of this clause and [clause 8][178], an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
+    (3) For the purposes of this clause and [clause 8][180], an equal employment opportunities programme means a programme that is aimed at the identification and elimination of all aspects of policies, procedures, and other institutional barriers that cause or perpetuate, or tend to cause or perpetuate, inequality in respect to the employment of any persons or group of persons.
 
 ##### 11 State Sector Act 1988 and Government Superannuation Fund Act 1956 not applicable to employees of Auditor-General
     
 *   (1) This clause applies to employees to whom [section 62][86] does not apply.
     
-    (2) An employee of the Auditor-General is not to be regarded as employed in the service of the Crown for the purposes of the [State Sector Act 1988][177] or the [Government Superannuation Fund Act 1956][130] by reason of his or her employment as such.
+    (2) An employee of the Auditor-General is not to be regarded as employed in the service of the Crown for the purposes of the [State Sector Act 1988][179] or the [Government Superannuation Fund Act 1956][130] by reason of his or her employment as such.
 
 ---
 
@@ -1402,11 +1405,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][179]_.
+_Amendment(s) incorporated in the [Act(s)][181]_.
 
 ##### Animal Control Products Limited Act 1991 (1991 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][180]_.
+_Amendment(s) incorporated in the [Act(s)][182]_.
 
 ##### Architects Act 1963 (1963 No 12)
 
@@ -1414,7 +1417,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Armed Forces Canteens Act 1948 (1948 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][181]_.
+_Amendment(s) incorporated in the [Act(s)][183]_.
 
 ##### Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19)
 
@@ -1422,15 +1425,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][182]_.
+_Amendment(s) incorporated in the [Act(s)][184]_.
 
 ##### Burial and Cremation Act 1964 (1964 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][183]_.
+_Amendment(s) incorporated in the [Act(s)][185]_.
 
 ##### Carter Observatory Act 1938 (1938 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][184]_.
+_Amendment(s) incorporated in the [Act(s)][186]_.
 
 ##### Casino Control Act 1990 (1990 No 62)
 
@@ -1440,21 +1443,21 @@ _Amendment(s) incorporated in the Act(s)_.
 
 _Amendment(s) incorporated in the Act(s)_.
 
-##### Commerce Act 1986 (1986 No 5) 
-
-_Amendment(s) incorporated in the [Act(s)][185]_.
-
-##### Companies Act 1993 (1993 No 105) 
-
-_Amendment(s) incorporated in the [Act(s)][186]_.
-
-##### Conservation Act 1987 (1987 No 65)
+##### Commerce Act 1986 (1986 No 5)
 
 _Amendment(s) incorporated in the [Act(s)][187]_.
 
-##### Copyright Act 1994 (1994 No 143)
+##### Companies Act 1993 (1993 No 105)
 
 _Amendment(s) incorporated in the [Act(s)][188]_.
+
+##### Conservation Act 1987 (1987 No 65)
+
+_Amendment(s) incorporated in the [Act(s)][189]_.
+
+##### Copyright Act 1994 (1994 No 143)
+
+_Amendment(s) incorporated in the [Act(s)][190]_.
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
@@ -1462,47 +1465,47 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Earthquake Commission Act 1993 (1993 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][189]_.
+_Amendment(s) incorporated in the [Act(s)][191]_.
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][190]_.
+_Amendment(s) incorporated in the [Act(s)][192]_.
 
 ##### Energy Companies Act 1992 (1992 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][191]_.
+_Amendment(s) incorporated in the [Act(s)][193]_.
 
 ##### Energy Efficiency and Conservation Act 2000 (2000 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][192]_.
+_Amendment(s) incorporated in the [Act(s)][194]_.
 
 ##### Engineering Associates Act 1961 (1961 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][193]_.
+_Amendment(s) incorporated in the [Act(s)][195]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][194]_.
+_Amendment(s) incorporated in the [Act(s)][196]_.
 
 ##### Export Guarantee Act 1964 (1964 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][195]_.
+_Amendment(s) incorporated in the [Act(s)][197]_.
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][196]_.
+_Amendment(s) incorporated in the [Act(s)][198]_.
 
 ##### Finance Act (No 2) 1949 (1949 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][197]_.
+_Amendment(s) incorporated in the [Act(s)][199]_.
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][198]_.
+_Amendment(s) incorporated in the [Act(s)][200]_.
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][199]_.
+_Amendment(s) incorporated in the [Act(s)][201]_.
 
 ##### Fishing Industry Board Act 1963 (1963 No 70)
 
@@ -1518,15 +1521,15 @@ _Amendment(s) incorporated in the [Act(s)][130]_.
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][200]_.
+_Amendment(s) incorporated in the [Act(s)][202]_.
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][201]_.
+_Amendment(s) incorporated in the [Act(s)][203]_.
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][202]_.
+_Amendment(s) incorporated in the [Act(s)][204]_.
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
@@ -1534,7 +1537,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][203]._
+_Amendment(s) incorporated in the [Act(s)][205]._
 
 ##### Industry New Zealand Act 2000 (2000 No 27)
 
@@ -1542,19 +1545,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][204]_.
+_Amendment(s) incorporated in the [Act(s)][206]_.
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][205]_.
+_Amendment(s) incorporated in the [Act(s)][207]_.
 
 ##### Law Commission Act 1985 (1985 No 151)
 
-_Amendment(s) incorporated in the [Act(s)][206]_.
+_Amendment(s) incorporated in the [Act(s)][208]_.
 
 ##### Licensing Fund Act 1989 (1989 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][207]_.
+_Amendment(s) incorporated in the [Act(s)][209]_.
 
 ##### Local Authorities Empowering Act 1915 (1915 No 10)
 
@@ -1566,15 +1569,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][208]_.
+_Amendment(s) incorporated in the [Act(s)][210]_.
 
 ##### Maori Soldiers Trust Act 1957 (1957 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][209]_.
+_Amendment(s) incorporated in the [Act(s)][211]_.
 
 ##### Maori Trust Boards Act 1955 (1955 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][210]_.
+_Amendment(s) incorporated in the [Act(s)][212]_.
 
 ##### National Library Act 1965 (1965 No 136)
 
@@ -1582,27 +1585,27 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### New Zealand Antarctic Institute Act 1996 (1996 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][211]_.
+_Amendment(s) incorporated in the [Act(s)][213]_.
 
 ##### New Zealand Council for Educational Research Act 1972 (1972 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][212]_.
+_Amendment(s) incorporated in the [Act(s)][214]_.
 
 ##### New Zealand Film Commission Act 1978 (1978 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][213]_.
+_Amendment(s) incorporated in the [Act(s)][215]_.
 
 ##### New Zealand Horticulture Export Authority Act 1987 (1987 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][214]_.
+_Amendment(s) incorporated in the [Act(s)][216]_.
 
 ##### New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][215]_.
+_Amendment(s) incorporated in the [Act(s)][217]_.
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][216]_.
+_Amendment(s) incorporated in the [Act(s)][218]_.
 
 ##### New Zealand Symphony Orchestra Act 1988 (1988 No 163)
 
@@ -1614,11 +1617,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][217]_.
+_Amendment(s) incorporated in the [Act(s)][219]_.
 
 ##### Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][218]_.
+_Amendment(s) incorporated in the [Act(s)][220]_.
 
 ##### Nurses Act 1977 (1977 No 53)
 
@@ -1626,27 +1629,27 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][219]_.
+_Amendment(s) incorporated in the [Act(s)][221]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][220]_.
+_Amendment(s) incorporated in the [Act(s)][222]_.
 
 ##### Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138)
 
-_Amendment(s) incorporated in the [Act(s)][221]_.
+_Amendment(s) incorporated in the [Act(s)][223]_.
 
 ##### Parliamentary Service Act 2000 (2000 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][222]_.
+_Amendment(s) incorporated in the [Act(s)][224]_.
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][223]_.
+_Amendment(s) incorporated in the [Act(s)][225]_.
 
 ##### Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][224]_.
+_Amendment(s) incorporated in the [Act(s)][226]_.
 
 ##### Police Complaints Authority Act 1988 (1988 No 2)
 
@@ -1654,11 +1657,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Port Companies Act 1988 (1988 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][225]_.
+_Amendment(s) incorporated in the [Act(s)][227]_.
 
 ##### Primary Products Marketing Act 1953 (1953 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][226]_.
+_Amendment(s) incorporated in the [Act(s)][228]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
@@ -1666,31 +1669,31 @@ _Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### Protected Disclosures Act 2000 (2000 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][227]_.
+_Amendment(s) incorporated in the [Act(s)][229]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][228]_.
+_Amendment(s) incorporated in the [Act(s)][230]_.
 
 ##### Radio New Zealand Act 1995 (1995 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][229]_.
+_Amendment(s) incorporated in the [Act(s)][231]_.
 
 ##### Reserve Bank of New Zealand Act 1989 (1989 No 157)
 
-_Amendment(s) incorporated in the [Act(s)][230]_.
+_Amendment(s) incorporated in the [Act(s)][232]_.
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][231]_.
+_Amendment(s) incorporated in the [Act(s)][233]_.
 
 ##### Reserves and Other Lands Disposal Act 1995 (1995 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][232]_.
+_Amendment(s) incorporated in the [Act(s)][234]_.
 
 ##### Residential Tenancies Act 1986 (1986 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][233]_.
+_Amendment(s) incorporated in the [Act(s)][235]_.
 
 ##### Retirement Income Act 1993 (1993 No 148)
 
@@ -1702,27 +1705,27 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][234]_.
+_Amendment(s) incorporated in the [Act(s)][236]_.
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][235]_.
+_Amendment(s) incorporated in the [Act(s)][237]_.
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][236]_.
+_Amendment(s) incorporated in the [Act(s)][238]_.
 
 ##### Standards Act 1988 (1988 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][237]_.
+_Amendment(s) incorporated in the [Act(s)][239]_.
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][177]_.
+_Amendment(s) incorporated in the [Act(s)][179]_.
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][238]_.
+_Amendment(s) incorporated in the [Act(s)][240]_.
 
 ##### Survey Act 1986 (1986 No 123)
 
@@ -1730,38 +1733,38 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Testing Laboratory Registration Act 1972 (1972 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][239]_.
+_Amendment(s) incorporated in the [Act(s)][241]_.
 
 ##### Taranaki Scholarships Trust Board Act 1957 (1957 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][240]_.
+_Amendment(s) incorporated in the [Act(s)][242]_.
 
 ##### Valuation Department (Restructuring) Act 1998 (1998 No 70)
 
-_Amendment(s) incorporated in the [Act(s)][241]_.
+_Amendment(s) incorporated in the [Act(s)][243]_.
 
 ##### Valuers Act 1948 (1948 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][242]_.
+_Amendment(s) incorporated in the [Act(s)][244]_.
 
 ##### War Pensions Act 1954 (1954 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][243]_.
+_Amendment(s) incorporated in the [Act(s)][245]_.
 
 ##### Wildlife Act 1953 (1953 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][244]_.
+_Amendment(s) incorporated in the [Act(s)][246]_.
 
 ##### Winston Churchill Memorial Trust Act 1965 (1965 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][245]_.
+_Amendment(s) incorporated in the [Act(s)][247]_.
 
 ## Part 2  
 Local and private Acts
 
 ##### Auckland Aotea Centre Empowering Act 1985 (1985 No 9 (L))
 
-_Amendment(s) incorporated in the [Act(s)][246]_.
+_Amendment(s) incorporated in the [Act(s)][248]_.
 
 ##### Canterbury Museum Trust Board Act 1993 (1993 No 4 (L))
 
@@ -1773,22 +1776,22 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Museum of Transport and Technology Act 2000 (2000 No 1 (P))
 
-_Amendment(s) incorporated in the [Act(s)][247]_.
+_Amendment(s) incorporated in the [Act(s)][249]_.
 
 ##### Otago Museum Trust Board Act 1996 (1996 No 1 (L))
 
-_Amendment(s) incorporated in the [Act(s)][248]_.
+_Amendment(s) incorporated in the [Act(s)][250]_.
 
 ##### Selwyn Plantation Board Empowering Act 1992 (1992 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][249]_.
+_Amendment(s) incorporated in the [Act(s)][251]_.
 
 ## Part 3  
 Regulations
 
 ##### Airport Authorities (Airport Companies Information Disclosure) Regulations 1999 (SR 1999/242)
 
-_Amendment(s) incorporated in the [regulations][250]_.
+_Amendment(s) incorporated in the [regulations][252]_.
 
 ##### Electricity (Information Disclosure) Regulations 1999 (SR 1999/82)
 
@@ -1796,7 +1799,7 @@ _Amendment(s) incorporated in the regulations_.
 
 ##### Gas (Information Disclosure) Regulations 1997 (SR 1997/127)
 
-_Amendment(s) incorporated in the [regulations][251]_.
+_Amendment(s) incorporated in the [regulations][253]_.
 
 ##### Hop Marketing Regulations 1939 (SR 1939/96)
 
@@ -1814,21 +1817,23 @@ _Amendment(s) incorporated in the regulations_.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][252] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][253] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][254] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][255] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][254] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][255] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][256] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][257] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][163]
+*   Te Urewera Act 2014 (2014 No 51): [section 138][174]
     
-    Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][157]
+    Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][164]
+    
+    Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1): [section 27][158]
     
     Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][101]
     
-    Game Animal Council Act 2013 (2013 No 98): [section 41(2)][162]
+    Game Animal Council Act 2013 (2013 No 98): [section 41(2)][163]
     
     Public Finance Amendment Act 2013 (2013 No 50): [section 57][118]
     
@@ -1844,51 +1849,51 @@ _Amendment(s) incorporated in the regulations_.
     
     Auditor Regulation Act 2011 (2011 No 21): [section 82][107]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][155]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][156]
     
-    Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][159]
+    Carter Observatory Act Repeal Act 2010 (2010 No 34): [section 12][160]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][165]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][166]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][126]
     
-    Overseas Investment Act 2005 (2005 No 82): [section 75][168]
+    Overseas Investment Act 2005 (2005 No 82): [section 75][169]
     
-    Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65): [section 22][169]
+    Patriotic and Canteen Funds Amendment Act 2005 (2005 No 65): [section 22][170]
     
-    Registered Architects Act 2005 (2005 No 38): [sections 82(2)][167], [85(c)][156]
+    Registered Architects Act 2005 (2005 No 38): [sections 82(2)][168], [85(c)][157]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][150]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][106]
     
-    Maori Fisheries Act 2004 (2004 No 78): [section 214][172]
+    Maori Fisheries Act 2004 (2004 No 78): [section 214][173]
     
-    Building Act 2004 (2004 No 72): [section 414][158]
+    Building Act 2004 (2004 No 72): [section 414][159]
     
     Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(c)][129]
     
-    Sale of Liquor Amendment Act 2004 (2004 No 21): [section 8(2)][256]
+    Sale of Liquor Amendment Act 2004 (2004 No 21): [section 8(2)][258]
     
-    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 60][164]
+    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 60][165]
     
-    Masterton District Council (Montfort Trimble Foundation) Act 2003 (2003 No 5 (L)): [section 26][166]
+    Masterton District Council (Montfort Trimble Foundation) Act 2003 (2003 No 5 (L)): [section 26][167]
     
     Local Government Act 2002 (2002 No 84): [sections 262][102], [266][127]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][176]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][178]
     
-    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][170]
+    Royal New Zealand Foundation of the Blind Act 2002 (2002 No 3 (P)): [section 28(1)][171]
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [sections 69(2)][160], [75(4)][161]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [sections 69(2)][161], [75(4)][162]
     
-    Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][171]
+    Cadastral Survey Act 2002 (2002 No 12): [section 68(1)][172]
     
-    [Public Audit (West Coast Development Trust) Order 2002][257] (SR 2002/17)
+    [Public Audit (West Coast Development Trust) Order 2002][259] (SR 2002/17)
     
     Electricity Amendment Act 2001 (2001 No 40): [section 22][151]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][175]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][177]
 
 
 
@@ -2047,106 +2052,108 @@ _Amendment(s) incorporated in the regulations_.
 [152]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4009727
 [153]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4538252
 [154]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3338662
-[155]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3016880
-[156]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM344301
-[157]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3007375
-[158]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM309090
-[159]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2272429
-[160]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM145116
-[161]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM145125
-[162]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4105502
-[163]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4005646
-[164]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM194564
-[165]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM1583888
-[166]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM88364
-[167]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM344094
-[168]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM358540
-[169]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM348934
-[170]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM121634
-[171]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM142638
-[172]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM313622
-[173]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109398
-[174]: http://www.legislation.govt.nz/act/public/2001/0010/latest/whole.html#DLM89105
-[175]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM162942
-[176]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM167443
-[177]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM129109
-[178]: http://www.legislation.govt.nz/act/public/2001/0010/latest/whole.html#DLM89115
-[179]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM439968
-[180]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM229510
-[181]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM249672
-[182]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM155364
-[183]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM355078
-[184]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM224106
-[185]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM87622
-[186]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM319569
-[187]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM103609
-[188]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM345633
-[189]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM305967
-[190]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM307518
-[191]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM267121
-[192]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM54947
-[193]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM336843
-[194]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM98974
-[195]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM353495
-[196]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM312894
-[197]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM260594
-[198]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM323597
-[199]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM432647
-[200]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM381221
-[201]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM333583
-[202]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM411832
-[203]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM304211
-[204]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM382333
-[205]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM250585
-[206]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM85581
-[207]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM165101
-[208]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM124115
-[209]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM310214
-[210]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM289314
-[211]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM390267
-[212]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM407019
-[213]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM22639
-[214]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM117371
-[215]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM348782
-[216]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM80050
-[217]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM429089
-[218]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM238748
-[219]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM314552
-[220]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM430983
-[221]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM409224
-[222]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM55839
-[223]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM246644
-[224]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM439138
-[225]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM131682
-[226]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM276319
-[227]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM53465
-[228]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM160808
-[229]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM368574
-[230]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM199363
-[231]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM444304
-[232]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM368679
-[233]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM94277
-[234]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM165115
-[235]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM25999
-[236]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM223190
-[237]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM128138
-[238]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM97376
-[239]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM407090
-[240]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM317731
-[241]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM427751
-[242]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM249941
-[243]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM284374
-[244]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM276813
-[245]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM373160
-[246]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM76787
-[247]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM119384
-[248]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM83312
-[249]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM80645
-[250]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM290139
-[251]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM234021
-[252]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998516
-[253]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998515
-[254]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998532
-[255]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[256]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM243522
-[257]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109392
+[155]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM6183614
+[156]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3016880
+[157]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM344301
+[158]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM3007375
+[159]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM309090
+[160]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2272429
+[161]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM145116
+[162]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM145125
+[163]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4105502
+[164]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM4005646
+[165]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM194564
+[166]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM1583888
+[167]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM88364
+[168]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM344094
+[169]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM358540
+[170]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM348934
+[171]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM121634
+[172]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM142638
+[173]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM313622
+[174]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM6183949
+[175]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109398
+[176]: http://www.legislation.govt.nz/act/public/2001/0010/latest/whole.html#DLM89105
+[177]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM162942
+[178]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM167443
+[179]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM129109
+[180]: http://www.legislation.govt.nz/act/public/2001/0010/latest/whole.html#DLM89115
+[181]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM439968
+[182]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM229510
+[183]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM249672
+[184]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM155364
+[185]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM355078
+[186]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM224106
+[187]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM87622
+[188]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM319569
+[189]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM103609
+[190]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM345633
+[191]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM305967
+[192]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM307518
+[193]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM267121
+[194]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM54947
+[195]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM336843
+[196]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM98974
+[197]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM353495
+[198]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM312894
+[199]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM260594
+[200]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM323597
+[201]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM432647
+[202]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM381221
+[203]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM333583
+[204]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM411832
+[205]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM304211
+[206]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM382333
+[207]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM250585
+[208]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM85581
+[209]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM165101
+[210]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM124115
+[211]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM310214
+[212]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM289314
+[213]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM390267
+[214]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM407019
+[215]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM22639
+[216]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM117371
+[217]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM348782
+[218]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM80050
+[219]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM429089
+[220]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM238748
+[221]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM314552
+[222]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM430983
+[223]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM409224
+[224]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM55839
+[225]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM246644
+[226]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM439138
+[227]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM131682
+[228]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM276319
+[229]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM53465
+[230]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM160808
+[231]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM368574
+[232]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM199363
+[233]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM444304
+[234]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM368679
+[235]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM94277
+[236]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM165115
+[237]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM25999
+[238]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM223190
+[239]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM128138
+[240]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM97376
+[241]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM407090
+[242]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM317731
+[243]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM427751
+[244]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM249941
+[245]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM284374
+[246]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM276813
+[247]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM373160
+[248]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM76787
+[249]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM119384
+[250]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM83312
+[251]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM80645
+[252]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM290139
+[253]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM234021
+[254]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998516
+[255]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998515
+[256]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM2998532
+[257]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[258]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM243522
+[259]: http://www.legislation.govt.nz/act/public/2001/0010/latest/link.aspx?id=DLM109392
