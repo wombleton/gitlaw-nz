@@ -3399,9 +3399,9 @@ Administrative matters
     
     (5) In this clause,---
     
-    _financial statements_ has the meaning given in [section 8][337] of the Financial Reporting Act 1993
+    _financial statements_ has the meaning given in [section 6][337] of the Financial Reporting Act 2013
     
-    _generally accepted accounting practice_ has the meaning given in [section 3][338] of the Financial Reporting Act 1993\.
+    _generally accepted accounting practice_ has the meaning given in [section 8][338] of the Financial Reporting Act 2013\.
 
 ##### 8 Disclosure of annual report
     
@@ -5212,9 +5212,9 @@ After [section CW 40][419], insert:
 
 ##### [Litter Act 1979][420] (1979 No 41)
 
-In [section 6(1)(h)][421], insert:
+After [section 6(1)(h)][421], insert:
 
-> *   "(j) every warranted officer and honorary warranted officer who is warranted for the purposes of the Te Urewera Act 2014, while acting in the exercise and performance of powers and duties conferred and imposed by the Te Urewera Act 2014\."
+> *   "(i) every warranted officer and honorary warranted officer who is warranted for the purposes of the Te Urewera Act 2014, while acting in the exercise and performance of powers and duties conferred and imposed by the Te Urewera Act 2014\."
 > 
 > 
 
@@ -5298,7 +5298,7 @@ Replace [section 26(1)][431] with:
 > 
 > 
 
-In [section 26(2)][431], replace ""Director-General retains"" with ""persons referred to in subsection (1)"".
+In [section 26(2)][431], replace ""Director-General retains"" with ""persons referred to in subsection (1) retain"".
 
 In [section 26(3)][431], replace ""Director-General"" with ""persons referred to in subsection (1)"".
 
@@ -5330,21 +5330,21 @@ In [section 30(4)(a)][435], replace ""dispose"" with ""introduce legislation for
 
 In [section 30(4)(b)][435], replace ""responsibility for managing"" with ""Crown responsibility in relation to"".
 
-In [section 30(5)][435], replace ""4(a) or (b)"" with ""4"".
+In [section 30(5)][435], replace ""(4)(a) or (b)"" with ""(4)"".
 
 In [section 30(5)][435], after ""management of"", insert ""the relevant part of"".
 
-##### [Property Law Act 2007][436] (2007 No 91)
+##### [Ombudsmen Act 1975][237] (1975 No 9)
 
-After [section 328(2)(a)][437], insert:
+In Schedule 1, [Part 2][436], insert in its appropriate alphabetical order ""Te Urewera Board as defined in section 7 of the Te Urewera Act 2014"".
+
+##### [Property Law Act 2007][437] (2007 No 91)
+
+After [section 328(2)(a)][438], insert:
 
 > *   "(aa) any part of Te Urewera land, as defined in section 7 of the Te Urewera Act 2014; or".
 > 
 > 
-
-##### [Ombudsmen Act 1975][237] (1975 No 9)
-
-In Schedule 1, [Part 2][438], insert in its appropriate alphabetical order ""Te Urewera Board as defined in section 7 of the Te Urewera Act 2014"".
 
 ##### [Public Audit Act 2001][238] (2001 No 10)
 
@@ -5356,7 +5356,7 @@ In [section 2(1)][440], definition of _Crown_ or _the Sovereign_, paragraph (c)(
 
 In [section 2(1)][440], definition of _Crown_ or _the Sovereign_, after paragraph (c)(vi), insert:
 
-> *   "(vii) an entity named or described in Schedule 7".
+> *   "(vii) an entity named or described in Schedule 6".
 > 
 > 
 
@@ -5364,7 +5364,7 @@ After [section 3C][441], insert:
 
 > ##### "3D Power to amend Schedule 6 to reflect name changes
 >     
-> *   The Governor-General may, by Order in Council, on the recommendation of the Minister following consultation with the person with statutory responsibility for performing or exercising the rights, powers, and duties of the legal entity, amend Schedule 7 to replace the name of an entity in recognition of a change to its name."
+> *   The Governor-General may, by Order in Council, on the recommendation of the Minister following consultation with the person with statutory responsibility for performing or exercising the rights, powers, and duties of the legal entity, amend Schedule 6 to replace the name of an entity in recognition of a change to its name."
 > 
 > 
 
@@ -5719,8 +5719,8 @@ This Act is administered by the Department of Conservation.
 [334]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183990
 [335]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183995
 [336]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM88548
-[337]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM324914
-[338]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM324886
+[337]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM4632890
+[338]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM4632894
 [339]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6183998
 [340]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6184000
 [341]: http://www.legislation.govt.nz/act/public/2014/0051/latest/whole.html#DLM6184001
@@ -5818,9 +5818,9 @@ This Act is administered by the Department of Conservation.
 [433]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276981
 [434]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276982
 [435]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM3276983
-[436]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM968961
-[437]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM969585
-[438]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM431296
+[436]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM431296
+[437]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM968961
+[438]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM969585
 [439]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM88987
 [440]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM160819
 [441]: http://www.legislation.govt.nz/act/public/2014/0051/latest/link.aspx?id=DLM4576347
