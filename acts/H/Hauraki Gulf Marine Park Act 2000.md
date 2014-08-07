@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 1 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -157,6 +157,9 @@ This Act is administered by the Department of Conservation.
 [Schedule 4][63]  
 [Description of HMNZS Tamaki Reserve][63]
 
+[Schedule 5][64]  
+[Land included in Park to give effect to legislation settling historical Treaty of Waitangi claims][64]
+
 ---
 
 *   #### Preamble
@@ -167,7 +170,7 @@ This Act is administered by the Department of Conservation.
     
     (3) The Gulf has a rich history of human settlement and use. The Gulf is one of the earliest places of human settlement in New Zealand and for generations supported and was home to tangata whenua. While tangata whenua have no single name for the Gulf, the names Tikapa Moana and Te Moananui a Toi are recognised as referring to the Gulf. Auckland, the first seat of government, is also on its shore. Along the shores of the Gulf the changing culture and technologies can be traced through places like the pa, kainga, and garden sites of antiquity on every island, driving dams, copper and gold mines, whaling stations, timber mills, industrial sites, and grand and ordinary homes:
     
-    (4) The [Treaty of Waitangi][64] was signed by tangata whenua of the Hauraki Gulf both at Waitangi and on the shores of the Gulf. The Treaty provides guarantees to both the Crown and tangata whenua and forms a basis for the protection, use, and management of the Gulf, its islands, and catchments. The Treaty continues to underpin the relationship between the Crown and tangata whenua. The assembled tribes of the Hauraki Gulf reaffirmed its importance to them in a statement from a hui at Motutapu Island, 14--15 November 1992 (_The Motutapu Accord_):
+    (4) The [Treaty of Waitangi][65] was signed by tangata whenua of the Hauraki Gulf both at Waitangi and on the shores of the Gulf. The Treaty provides guarantees to both the Crown and tangata whenua and forms a basis for the protection, use, and management of the Gulf, its islands, and catchments. The Treaty continues to underpin the relationship between the Crown and tangata whenua. The assembled tribes of the Hauraki Gulf reaffirmed its importance to them in a statement from a hui at Motutapu Island, 14--15 November 1992 (_The Motutapu Accord_):
     
     (5) The hinterland of the Gulf is intensively developed and settled. Its shores contain New Zealand's largest metropolitan area and extensive tracts of productive farm land. The coastal waters are of great importance to commerce in New Zealand. The Gulf contains the Port of Auckland, many smaller ports, and marinas. The Gulf is lived in and worked in, and is used for marine commerce, commercial fishing, and harbour and gulf transport. The Gulf is economically important:
     
@@ -203,7 +206,7 @@ This Act is administered by the Department of Conservation.
     
 *   In this Act, unless the context otherwise requires,---
     
-    _administering body_ has the same meaning as in [section 2][65] of the Reserves Act 1977
+    _administering body_ has the same meaning as in [section 2][66] of the Reserves Act 1977
     
     _catchment_ means any area of land where the surface water drains into the Hauraki Gulf
     
@@ -231,11 +234,11 @@ This Act is administered by the Department of Conservation.
     
     _conservation area_ means any land or foreshore that is---
         
-    *   (a) land or foreshore for the time being held under the [Conservation Act 1987][66] for conservation purposes; or
+    *   (a) land or foreshore for the time being held under the [Conservation Act 1987][67] for conservation purposes; or
     
-    *   (b) land in respect of which an interest is held under the [Conservation Act 1987][66] for conservation purposes
+    *   (b) land in respect of which an interest is held under the [Conservation Act 1987][67] for conservation purposes
     
-    _Conservation Board_ means a Conservation Board established under [section 6L][67] of the Conservation Act 1987
+    _Conservation Board_ means a Conservation Board established under [section 6L][68] of the Conservation Act 1987
     
     _constituent party_ means any Minister or local authority who has the power under [section 16(2)][19] to appoint 1 or more representatives to the Forum; and includes any tangata whenua representatives appointed under section 16(2)(e)
     
@@ -271,37 +274,37 @@ This Act is administered by the Department of Conservation.
     
     _Hauraki Gulf Marine Park_ or _Park_ means the Park established under [section 33][37]
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][68]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][69]
     
-    _Maori land_ and _Maori customary land_ have the same meaning as in [Te Ture Whenua Maori Act 1993][69]
+    _Maori land_ and _Maori customary land_ have the same meaning as in [Te Ture Whenua Maori Act 1993][70]
     
-    _marine mammal sanctuary_ has the same meaning as in the [Marine Mammals Protection Act 1978][70]
+    _marine mammal sanctuary_ has the same meaning as in the [Marine Mammals Protection Act 1978][71]
     
-    _marine reserve_ has the same meaning as in the [Marine Reserves Act 1971][71]
+    _marine reserve_ has the same meaning as in the [Marine Reserves Act 1971][72]
     
-    _mataitai reserve_ means a mataitai reserve declared by notice in the _Gazette_ in accordance with the [Fisheries Act 1996][72] and regulations made under that Act
+    _mataitai reserve_ means a mataitai reserve declared by notice in the _Gazette_ in accordance with the [Fisheries Act 1996][73] and regulations made under that Act
     
     _Minister_ means the Minister of Conservation
     
-    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][68]
+    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][69]
     
-    _regional park_ means a regional park created under the [Local Government Act 1974][73]
+    _regional park_ means a regional park created under the [Local Government Act 1974][74]
     
-    _reserve_ has the same meaning as in the [Reserves Act 1977][74] or in any corresponding former Act; and includes any reserve established by any other Act
+    _reserve_ has the same meaning as in the [Reserves Act 1977][75] or in any corresponding former Act; and includes any reserve established by any other Act
     
-    _taiapure-local fishery_ means a taiapure-local fishery established under [Part 9][75] of the Fisheries Act 1996
+    _taiapure-local fishery_ means a taiapure-local fishery established under [Part 9][76] of the Fisheries Act 1996
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][68]
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][69]
     
-    _wildlife refuge_ has the same meaning as in the [Wildlife Act 1953][76]
+    _wildlife refuge_ has the same meaning as in the [Wildlife Act 1953][77]
     
-    _wildlife sanctuary_ has the same meaning as in the [Wildlife Act 1953][77].
+    _wildlife sanctuary_ has the same meaning as in the [Wildlife Act 1953][78].
     
-    Section 4 **local authority**: substituted, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 4 **local authority**: substituted, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
     
-    Section 4 **regional council**: substituted, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 4 **regional council**: substituted, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
     
-    Section 4 **territorial authority**: substituted, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 4 **territorial authority**: substituted, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
 
 ##### 5 Act to bind the Crown
     
@@ -309,13 +312,13 @@ This Act is administered by the Department of Conservation.
 
 ##### 6 Treaty of Waitangi (Te Tiriti o Waitangi)
     
-*   (1) Subject to subsections (2) and (4), the provisions of [Part 3][35] relating to the Park must be so interpreted and administered as to give effect to the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][64].
+*   (1) Subject to subsections (2) and (4), the provisions of [Part 3][35] relating to the Park must be so interpreted and administered as to give effect to the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][65].
     
     (2) Subsection (1) does not apply in respect of any area of the Park that is foreshore, seabed, private land, taiapure-local fishery, or mataitai.
     
-    (3) When carrying out its functions under [Part 2][17], the Forum must have regard to the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][64].
+    (3) When carrying out its functions under [Part 2][17], the Forum must have regard to the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][65].
     
-    (4) Nothing in [Part 1][8] or [Part 3][35] or [Part 4][55] limits, affects, or extends the obligations any person has in respect of the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][64] under any of the Acts listed in [Schedule 1][60], and those obligations must be fulfilled in accordance with those Acts.
+    (4) Nothing in [Part 1][8] or [Part 3][35] or [Part 4][55] limits, affects, or extends the obligations any person has in respect of the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][65] under any of the Acts listed in [Schedule 1][60], and those obligations must be fulfilled in accordance with those Acts.
 
 ## Part 1  
 Management of Hauraki Gulf
@@ -360,43 +363,43 @@ Management of Hauraki Gulf
 
 ##### 9 Relationship of Act with Resource Management Act 1991
     
-*   (1) For the purposes of this section and [section 10][12], the terms _district plan_, _plan_, _proposed plan_, _regional plan_, _regional policy statement_, _resource consent_, and _New Zealand coastal policy statement_ have the same meaning as in the [Resource Management Act 1991][79], and _regional council_ and _territorial authority_ have the same meaning as in the [Local Government Act 2002][68].
+*   (1) For the purposes of this section and [section 10][12], the terms _district plan_, _plan_, _proposed plan_, _regional plan_, _regional policy statement_, _resource consent_, and _New Zealand coastal policy statement_ have the same meaning as in the [Resource Management Act 1991][80], and _regional council_ and _territorial authority_ have the same meaning as in the [Local Government Act 2002][69].
     
     (2) A regional council must ensure that any part of a regional policy statement or a regional plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with [sections 7][9] and [8][10].
     
     (3) A territorial authority must ensure that any part of a district plan that applies to the Hauraki Gulf, its islands, and catchments, does not conflict with [sections 7][9] and [8][10].
     
-    (4) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to [sections 7][9] and [8][10] in addition to the matters contained in the [Resource Management Act 1991][79].
+    (4) A consent authority must, when considering an application for a resource consent for the Hauraki Gulf, its islands, and catchments, have regard to [sections 7][9] and [8][10] in addition to the matters contained in the [Resource Management Act 1991][80].
     
-    (5) The provisions of [section 55][80] of the Resource Management Act 1991 apply as though [sections 7][9] and [8][10] of this Act were a national policy statement and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
+    (5) The provisions of [section 55][81] of the Resource Management Act 1991 apply as though [sections 7][9] and [8][10] of this Act were a national policy statement and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
     
-    Section 9(1): amended, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 9(1): amended, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
 
 ##### 10 Creation of New Zealand coastal policy statement by this Act
     
-*   (1) For the coastal environment of the Hauraki Gulf, [sections 7][9] and [8][10] must be treated as a New Zealand coastal policy statement issued under the [Resource Management Act 1991][79].
+*   (1) For the coastal environment of the Hauraki Gulf, [sections 7][9] and [8][10] must be treated as a New Zealand coastal policy statement issued under the [Resource Management Act 1991][80].
     
-    (2) For the coastal environment of the Hauraki Gulf, if there is a conflict between [sections 7][9] and [8][10] and the provisions of any New Zealand coastal policy statement issued under the [Resource Management Act 1991][79], the New Zealand coastal policy statement prevails.
+    (2) For the coastal environment of the Hauraki Gulf, if there is a conflict between [sections 7][9] and [8][10] and the provisions of any New Zealand coastal policy statement issued under the [Resource Management Act 1991][80], the New Zealand coastal policy statement prevails.
     
-    (3) The provisions of [section 55][80] of the Resource Management Act 1991 apply to the New Zealand coastal policy statement created by this section and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
+    (3) The provisions of [section 55][81] of the Resource Management Act 1991 apply to the New Zealand coastal policy statement created by this section and a regional council or a territorial authority must take action in accordance with that section and notify a change to a regional policy statement, plan, or proposed plan within 5 years of the date of commencement of this Act.
 
 ##### 11 Statements of general policy under Conservation Act 1987 and Acts in Schedule 1 of that Act
     
 *   (1) For the purposes of each of the following Acts for the Hauraki Gulf, [sections 7][9] and [8][10] have the same effect as a statement of general policy approved under the following specified sections:
         
-    *   (a) Wildlife Act 1953, [section 14C][81]:
+    *   (a) Wildlife Act 1953, [section 14C][82]:
     
-    *   (b) Marine Reserves Act 1971, [section 6][82]:
+    *   (b) Marine Reserves Act 1971, [section 6][83]:
     
-    *   (c) Reserves Act 1977, [section 15A][83]:
+    *   (c) Reserves Act 1977, [section 15A][84]:
     
-    *   (d) Wild Animal Control Act 1977, [section 5][84]:
+    *   (d) Wild Animal Control Act 1977, [section 5][85]:
     
-    *   (e) Marine Mammals Protection Act 1978, [section 3B][85]:
+    *   (e) Marine Mammals Protection Act 1978, [section 3B][86]:
     
-    *   (f) National Parks Act 1980, [section 44][86]:
+    *   (f) National Parks Act 1980, [section 44][87]:
     
-    *   (g) Conservation Act 1987, [section 17B][87].
+    *   (g) Conservation Act 1987, [section 17B][88].
     
     *   (h) \[Repealed\]
     
@@ -404,11 +407,11 @@ Management of Hauraki Gulf
     
     (3) Where a conservation management strategy or a conservation management plan made under an Act listed in this section derogates from a statement of general policy created by this section, the requirement that the strategy or plan must not derogate from a statement of general policy does not take effect for any statement of general policy made under this section until the date that the strategy or plan is next amended or reviewed.
     
-    Section 11(1)(h): repealed, on 30 September 2008, by [section 82][88] of the Walking Access Act 2008 (2008 No 101).
+    Section 11(1)(h): repealed, on 30 September 2008, by [section 82][89] of the Walking Access Act 2008 (2008 No 101).
 
 ##### 12 Amendment to Fisheries Act 1996
     
-*   _Amendment(s) incorporated in the [Act(s)][89]._
+*   _Amendment(s) incorporated in the [Act(s)][90]._
 
 ##### 13 Obligation to have particular regard to sections 7 and 8
     
@@ -418,7 +421,7 @@ Management of Hauraki Gulf
     
 *   (1) Nothing in this Act limits or affects any title or right to ownership of the foreshore, seabed, or other land or natural resources of the Hauraki Gulf, its islands, and catchments, whether that title or right to ownership is conferred by Act, common law, or in any other manner.
     
-    (2) Nothing in this Act limits or affects the ability of any person to bring a claim or to continue any existing claim in any court or tribunal relating to the foreshore, seabed, or other land or natural resources of the Hauraki Gulf, its islands, and catchments arising out of the application of the [Treaty of Waitangi][64], or any Act, or at common law, or in any other manner.
+    (2) Nothing in this Act limits or affects the ability of any person to bring a claim or to continue any existing claim in any court or tribunal relating to the foreshore, seabed, or other land or natural resources of the Hauraki Gulf, its islands, and catchments arising out of the application of the [Treaty of Waitangi][65], or any Act, or at common law, or in any other manner.
     
     (3) Nothing in this section limits or affects any remedy associated with any claim referred to in subsection (2).
 
@@ -495,37 +498,37 @@ Hauraki Gulf Forum
     
     *   (b) include 1 member of each of the Great Barrier Island and Waiheke Island local boards.
     
-    (3) The representatives appointed in accordance with subsection (2)(d) or (5) must be members of the local authority elected in accordance with the [Local Electoral Act 2001][90].
+    (3) The representatives appointed in accordance with subsection (2)(d) or (5) must be members of the local authority elected in accordance with the [Local Electoral Act 2001][91].
     
     (4) \[Repealed\]
     
     (5) If two-thirds or more of the constituent parties agree, a local authority whose powers and functions may have an effect on the Hauraki Gulf, its islands, and catchments, and whose inclusion in the Forum will further the interests of the Forum and of the Hauraki Gulf may join the Forum as a constituent party and appoint a representative to the Forum.
     
-    Section 16(2)(ca): inserted, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(ca): inserted, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(i): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(i): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(ii): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(ii): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(iii): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(iii): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(v): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(v): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(vii): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(vii): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(viii): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(viii): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(d)(xii): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(d)(xii): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2)(f): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2)(f): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(2A): inserted, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(2A): inserted, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(3): amended, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(3): amended, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 16(3): amended, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 16(3): amended, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
     
-    Section 16(4): repealed, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 16(4): repealed, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 17 Functions of Forum
     
@@ -607,21 +610,21 @@ Hauraki Gulf Forum
 
 ##### 22 Forum to be joint committee
     
-*   (1) Subject to [section 28][31], the Forum is to be treated as a joint committee of the constituent local authorities appointed under [clause 30(1)(b)][92] of Schedule 7 of the Local Government Act 2002\.
+*   (1) Subject to [section 28][31], the Forum is to be treated as a joint committee of the constituent local authorities appointed under [clause 30(1)(b)][93] of Schedule 7 of the Local Government Act 2002\.
     
-    (2) [Clauses 20][93], [22][94], [23][95], [24][96], [26][97], [28][98], [29][99], [30(2)][92], and 30(4) to (10) of Schedule 7 of the Local Government Act 2002 apply with any necessary modifications to the Forum.
+    (2) [Clauses 20][94], [22][95], [23][96], [24][97], [26][98], [28][99], [29][100], [30(2)][93], and 30(4) to (10) of Schedule 7 of the Local Government Act 2002 apply with any necessary modifications to the Forum.
     
     (3) The Forum may appoint such subcommittees as it considers appropriate.
     
-    Section 22: substituted, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 22: substituted, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
 
 ##### 23 Forum to follow model standing orders
     
 *   (1) Unless three-quarters of the representatives present at a meeting of the Forum agree otherwise, at its meetings the Forum must follow the New Zealand Standard for standing orders (NZS: 9202:1992).
     
-    (2) If the Forum agrees in accordance with subsection (1) to adopt other standing orders, those standing orders must not contravene the provisions of the [Local Government Act 2002][68], the [Local Government Official Information and Meetings Act 1987][100], or any other Act.
+    (2) If the Forum agrees in accordance with subsection (1) to adopt other standing orders, those standing orders must not contravene the provisions of the [Local Government Act 2002][69], the [Local Government Official Information and Meetings Act 1987][101], or any other Act.
     
-    Section 23(2): amended, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+    Section 23(2): amended, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
 
 ##### 24 Term of representatives
     
@@ -655,7 +658,7 @@ Hauraki Gulf Forum
     
 *   The Auckland Council must store the Forum's records and make them available when the Forum requires.
     
-    Section 27: substituted, on 1 November 2010, by [section 113(1)][91] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 27: substituted, on 1 November 2010, by [section 113(1)][92] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 28 Appointment and functions of administering authority
     
@@ -677,13 +680,13 @@ Hauraki Gulf Forum
     
 *   (1) The Minister must pay to tangata whenua representatives on the Forum, from any appropriation by Parliament for this purpose,---
         
-    *   (a) remuneration by way of allowances, travelling allowances, and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][101]; and
+    *   (a) remuneration by way of allowances, travelling allowances, and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][102]; and
     
     *   (b) after agreement between the Minister and tangata whenua representatives, made before any costs are incurred, actual and reasonable communication costs and consultation costs incurred in the course of their work as tangata whenua representatives on the Forum.
     
     (2) If there is no agreement between the Minister and tangata whenua representatives under subsection (1)(b), the Minister may make such payment to tangata whenua representatives as the Minister considers appropriate in the circumstances.
     
-    (3) The provisions of the [Fees and Travelling Allowances Act 1951][101] apply to any payment made under subsection (1)(a).
+    (3) The provisions of the [Fees and Travelling Allowances Act 1951][102] apply to any payment made under subsection (1)(a).
 
 ##### 30 Liability of representatives
     
@@ -720,9 +723,9 @@ Hauraki Gulf Marine Park
     
     (2) The Hauraki Gulf Marine Park consists of---
         
-    *   (a) all conservation areas, wildlife refuges, wildlife sanctuaries, reserves, marine mammal sanctuaries, and marine reserves held, managed, or administered by the Crown from time to time in accordance with the [Conservation Act 1987][66] or any Act in [Schedule 1][102] of that Act within the Hauraki Gulf, its islands, and coastal area:
+    *   (a) all conservation areas, wildlife refuges, wildlife sanctuaries, reserves, marine mammal sanctuaries, and marine reserves held, managed, or administered by the Crown from time to time in accordance with the [Conservation Act 1987][67] or any Act in [Schedule 1][103] of that Act within the Hauraki Gulf, its islands, and coastal area:
     
-    *   (b) any reserve controlled and managed from time to time by an administering body (whether or not that administering body is a local authority) under an appointment to control and manage made in accordance with the [Reserves Act 1977][103] or any corresponding former Act, within the Hauraki Gulf, its islands, and coastal area:
+    *   (b) any reserve controlled and managed from time to time by an administering body (whether or not that administering body is a local authority) under an appointment to control and manage made in accordance with the [Reserves Act 1977][104] or any corresponding former Act, within the Hauraki Gulf, its islands, and coastal area:
     
     *   (c) all the common marine and coastal area within the Hauraki Gulf other than foreshore or seabed held for defence purposes:
     
@@ -732,7 +735,15 @@ Hauraki Gulf Marine Park
     
     *   (f) all land included in the Park in accordance with [section 34][38] or [section 35][39]:
     
-    *   (g) all mataitai reserves and taiapure-local fisheries included in the Park in accordance with [section 36][40].
+    *   (g) all mataitai reserves and taiapure-local fisheries included in the Park in accordance with [section 36][40]:
+    
+    *   (h) all land---
+            
+        *   (i) included in the Park to give effect to legislation settling historical claims of iwi and hapū under the [Treaty of Waitangi][65] (being claims relating to acts or omissions of the Crown before 21 September 1992); and
+        
+        *   (ii) described in [Schedule 5][64].
+        
+        
     
     (3) The inclusion of seawater in the Hauraki Gulf Marine Park is to give effect to the purposes of the Park and does not---
         
@@ -742,23 +753,25 @@ Hauraki Gulf Marine Park
     
     (4) Land to which subsection (2)(a) applies and which is used for the purposes of education, defence, police, or prisons is not a part of the Park unless the Minister responsible for that use of the land requests the Minister to include the land in the Park; and the Minister may do so by notice in the _Gazette_.
     
-    (5) Despite subsection (4), the land described in [Part 1][104] of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes---
+    (5) Despite subsection (4), the land described in [Part 1][105] of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes---
         
-    *   (a) must be held, and treated as classified, as an historic reserve under [section 18][105] of the Reserves Act 1977; and
+    *   (a) must be held, and treated as classified, as an historic reserve under [section 18][106] of the Reserves Act 1977; and
     
     *   (b) must be treated as included in the Park under subsection (2)(a).
     
-    (6) If the land or any part of the land described in [Part 2][106] of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes, is no longer required for defence purposes, the land---
+    (6) If the land or any part of the land described in [Part 2][107] of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes, is no longer required for defence purposes, the land---
         
-    *   (a) must be held, and treated as classified as a recreation reserve under [section 17][107] of the Reserves Act 1977; and
+    *   (a) must be held, and treated as classified as a recreation reserve under [section 17][108] of the Reserves Act 1977; and
     
     *   (b) must be treated as included in the Park under subsection (2)(a).
     
-    (7) Despite any provision of the [Defence Act 1990][108] and subsection (6), the Minister of Defence may administer and manage the land or any part of the land in [Part 2][106] of Schedule 4 jointly with the Commissioner or an administering body for the purposes of the Park as if it were a recreation reserve under [section 17][107] of the Reserves Act 1977\.
+    (7) Despite any provision of the [Defence Act 1990][109] and subsection (6), the Minister of Defence may administer and manage the land or any part of the land in [Part 2][107] of Schedule 4 jointly with the Commissioner or an administering body for the purposes of the Park as if it were a recreation reserve under [section 17][108] of the Reserves Act 1977\.
     
-    (8) For the purposes of subsection (7), _Commissioner_ has the same meaning as in [section 2][109] of the Reserves Act 1977\.
+    (8) For the purposes of subsection (7), _Commissioner_ has the same meaning as in [section 2][110] of the Reserves Act 1977\.
     
-    Section 33(2)(c): amended, on 1 April 2011, by [section 128][110] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 33(2)(c): amended, on 1 April 2011, by [section 128][111] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    
+    Section 33(2)(h): inserted, on 1 August 2014, by [section 164(2)][112] of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014 (2014 No 52).
 
 ##### 34 Inclusion of other public land in Park
     
@@ -780,21 +793,21 @@ Hauraki Gulf Marine Park
     
     (2) The following land may be included in the Park in accordance with this section:
         
-    *   (a) land subject to a conservation covenant entered into under [section 77][111] of the Reserves Act 1977 or [section 27][112] of the Conservation Act 1987:
+    *   (a) land subject to a conservation covenant entered into under [section 77][113] of the Reserves Act 1977 or [section 27][114] of the Conservation Act 1987:
     
-    *   (b) land subject to a Nga Whenua Rahui kawenata entered into under [section 77A][113] of the Reserves Act 1977 or [section 27A][114] of the Conservation Act 1987:
+    *   (b) land subject to a Nga Whenua Rahui kawenata entered into under [section 77A][115] of the Reserves Act 1977 or [section 27A][116] of the Conservation Act 1987:
     
-    *   (c) land subject to a heritage covenant entered into under [section 39][115] of the Heritage New Zealand Pouhere Taonga Act 2014:
+    *   (c) land subject to a heritage covenant entered into under [section 39][117] of the Heritage New Zealand Pouhere Taonga Act 2014:
     
-    *   (d) land subject to an open space covenant entered into under [section 22][116] of the Queen Elizabeth the Second National Trust Act 1977:
+    *   (d) land subject to an open space covenant entered into under [section 22][118] of the Queen Elizabeth the Second National Trust Act 1977:
     
-    *   (e) land subject to a declaration under [section 76][117] of the Reserves Act 1977 that it is protected private land:
+    *   (e) land subject to a declaration under [section 76][119] of the Reserves Act 1977 that it is protected private land:
     
-    *   (f) land controlled and managed by a Minister or an administering body for the purposes of the [Reserves Act 1977][103] where the owner has agreed to the use of land for that purpose in accordance with [section 38][118] of that Act:
+    *   (f) land controlled and managed by a Minister or an administering body for the purposes of the [Reserves Act 1977][104] where the owner has agreed to the use of land for that purpose in accordance with [section 38][120] of that Act:
     
     *   (g) any land in the Hauraki Gulf, other than land owned by the Crown, whether or not it is subject to a covenant referred to in paragraphs (a) to (d), within a wetland approved by the Minister of Foreign Affairs and notified to the Bureau of the Convention on Wetlands of International Importance done at Ramsar on 2 February 1971\.
     
-    Section 35(2)(c): amended, on 20 May 2014, by [section 107][119] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 35(2)(c): amended, on 20 May 2014, by [section 107][121] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 36 Inclusion of certain fisheries in Park
     
@@ -814,7 +827,7 @@ Hauraki Gulf Marine Park
     
     *   (d) limits the powers and functions of a regional council in the coastal marine area.
     
-    (3) Despite subsection (1), land included in the Park in accordance with [section 33(2)(a), (b), (c), or (e)][37] continues to be held, managed, or administered in accordance with the [Conservation Act 1987][66], or any Act in [Schedule 1][102] of that Act, if any of those Acts applies to that land.
+    (3) Despite subsection (1), land included in the Park in accordance with [section 33(2)(a), (b), (c), or (e)][37] continues to be held, managed, or administered in accordance with the [Conservation Act 1987][67], or any Act in [Schedule 1][103] of that Act, if any of those Acts applies to that land.
 
 #### Removal of land, foreshore, seabed, waters, or fisheries from Park
 
@@ -830,33 +843,33 @@ Hauraki Gulf Marine Park
     
     *   (c) the status or classification of the land.
     
-    Section 38 heading: amended, on 1 April 2011, by [section 128][110] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 38 heading: amended, on 1 April 2011, by [section 128][111] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 39 Removal of land with protected status from Park by change of status of land
     
 *   (1) Land, marine mammal sanctuaries, and marine reserves in [section 33(2)(a), (b), and (c)][37] may be removed from the Park by any of the following actions:
         
-    *   (a) exchanging a conservation area under [section 16A][120] of the Conservation Act 1987:
+    *   (a) exchanging a conservation area under [section 16A][122] of the Conservation Act 1987:
     
-    *   (b) disposing of a conservation area under [section 26][121] of the Conservation Act 1987:
+    *   (b) disposing of a conservation area under [section 26][123] of the Conservation Act 1987:
     
-    *   (c) exchanging a reserve under [section 15][122] of the Reserves Act 1977:
+    *   (c) exchanging a reserve under [section 15][124] of the Reserves Act 1977:
     
-    *   (d) revoking a reserve under [section 24][123] of the Reserves Act 1977:
+    *   (d) revoking a reserve under [section 24][125] of the Reserves Act 1977:
     
     *   (e) revoking or disposing of a wildlife refuge or a wildlife sanctuary:
     
-    *   (f) varying, redefining, or abolishing a marine mammal sanctuary under [section 22][70] of the Marine Mammals Protection Act 1978:
+    *   (f) varying, redefining, or abolishing a marine mammal sanctuary under [section 22][71] of the Marine Mammals Protection Act 1978:
     
     *   (g) revoking a marine reserve.
     
     (2) Before taking an action under subsection (1), the Minister must, in addition to any requirements of a relevant Act, consider the purpose of the Park and be satisfied that the land or marine reserve no longer serves the purpose of the Park.
     
-    (3) A local authority or the administering body of a reserve must, before requesting the revocation of a reserve under [section 24][123] of the Reserves Act 1977, consider the purpose of the Park.
+    (3) A local authority or the administering body of a reserve must, before requesting the revocation of a reserve under [section 24][125] of the Reserves Act 1977, consider the purpose of the Park.
     
     (4) The notice, Order in Council, or other instrument that carries out the action in subsection (1), must state that the land, marine mammal sanctuary, or marine reserve has been removed from the Park.
     
-    Section 39 heading: amended, on 1 April 2011, by [section 128][110] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+    Section 39 heading: amended, on 1 April 2011, by [section 128][111] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
 
 ##### 40 Removal of other areas from Park
     
@@ -880,7 +893,7 @@ Hauraki Gulf Marine Park
     
     (2) The Minister may remove the land, taiapure-local fishery, or mataitai reserve from the Park if the Minister considers that the inclusion of that land, taiapure-local fishery, or mataitai reserve in the Park is no longer serving the purpose of the Park.
     
-    (3) The Minister must remove the land, a taiapure-local fishery, or a mataitai reserve from the Park within 20 working days (as defined in the [Conservation Act 1987][66]) of receipt of a notice requiring the removal of that land, taiapure-local fishery, or mataitai reserve from the Park, from the person whose consent was necessary for inclusion of that land, taiapure-local fishery, or mataitai reserve in the Park.
+    (3) The Minister must remove the land, a taiapure-local fishery, or a mataitai reserve from the Park within 20 working days (as defined in the [Conservation Act 1987][67]) of receipt of a notice requiring the removal of that land, taiapure-local fishery, or mataitai reserve from the Park, from the person whose consent was necessary for inclusion of that land, taiapure-local fishery, or mataitai reserve in the Park.
 
 ##### 42 Entries in register
     
@@ -955,17 +968,17 @@ Miscellaneous
         
     *   (a) made before the commencement of this Act; but
     
-    *   (b) not finally determined before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124].
+    *   (b) not finally determined before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][126].
     
-    (2) The continuation and completion of an application (including rights of appeal) must be in accordance with the [Resource Management Act 1991][79] as if this Act had not been enacted.
+    (2) The continuation and completion of an application (including rights of appeal) must be in accordance with the [Resource Management Act 1991][80] as if this Act had not been enacted.
     
-    (3) Subsection (4) applies to an application that, under [section 119(4)][125] of the Resource Management Act 1991, has been referred back to the hearing committee or Environment Court for a recommendation or report on the matters contained in [sections 7][9] and [8][10] of this Act.
+    (3) Subsection (4) applies to an application that, under [section 119(4)][127] of the Resource Management Act 1991, has been referred back to the hearing committee or Environment Court for a recommendation or report on the matters contained in [sections 7][9] and [8][10] of this Act.
     
     (4) The Minister must consider the application as if the referral back had not been made.
     
-    (5) For the purposes of subsection (4), the time period under [section 119(1)][125] of the Resource Management Act 1991 begins again from the date of the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124].
+    (5) For the purposes of subsection (4), the time period under [section 119(1)][127] of the Resource Management Act 1991 begins again from the date of the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][126].
     
-    Section 49A: inserted, on 16 June 2001, by [section 3][126] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
+    Section 49A: inserted, on 16 June 2001, by [section 3][128] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
 
 ##### 49B Applications finally determined
     
@@ -975,7 +988,7 @@ Miscellaneous
     
     *   (b) finally determined---
             
-        *   (i) before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][124]; and
+        *   (i) before the commencement of the [Hauraki Gulf Marine Park Amendment Act 2001][126]; and
         
         *   (ii) without complying with [section 9(4)][11] of this Act.
         
@@ -983,7 +996,7 @@ Miscellaneous
     
     (2) A decision (including a decision on an appeal) relating to an application has effect, on and from the date it is made, as if this Act had not been enacted.
     
-    Section 49B: inserted, on 16 June 2001, by [section 3][126] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
+    Section 49B: inserted, on 16 June 2001, by [section 3][128] of the Hauraki Gulf Marine Park Amendment Act 2001 (2001 No 36).
 
 ##### 50 Map to indicate boundaries
     
@@ -996,54 +1009,54 @@ Acts to which Part 1 applies
 
 [s 13][15]
 
-Biosecurity Act 1993 ([Part 5][127])
+Biosecurity Act 1993 ([Part 5][129])
 
-[Conservation Act 1987][66]
+[Conservation Act 1987][67]
 
-[Fisheries Act 1983][128]
+[Fisheries Act 1983][130]
 
-[Fisheries Act 1996][72]
+[Fisheries Act 1996][73]
 
-[Harbour Boards Dry Land Endowment Revesting Act 1991][129]
+[Harbour Boards Dry Land Endowment Revesting Act 1991][131]
 
 Heritage New Zealand Pouhere Taonga Act 2014
 
-[Local Government Act 1974][73]
+[Local Government Act 1974][74]
 
-[Local Government Act 2002][68]
+[Local Government Act 2002][69]
 
-[Marine and Coastal Area (Takutai Moana) Act 2011][130]
+[Marine and Coastal Area (Takutai Moana) Act 2011][132]
 
 Marine Farming Act 1971
 
-[Marine Mammals Protection Act 1978][131]
+[Marine Mammals Protection Act 1978][133]
 
-[Marine Reserves Act 1971][132]
+[Marine Reserves Act 1971][134]
 
-[National Parks Act 1980][133]
+[National Parks Act 1980][135]
 
-[Native Plants Protection Act 1934][134]
+[Native Plants Protection Act 1934][136]
 
-[Queen Elizabeth the Second National Trust Act 1977][135]
+[Queen Elizabeth the Second National Trust Act 1977][137]
 
-[Reserves Act 1977][103]
+[Reserves Act 1977][104]
 
-[Resource Management Act 1991][79]
+[Resource Management Act 1991][80]
 
-[Soil Conservation and Rivers Control Act 1941][136]
+[Soil Conservation and Rivers Control Act 1941][138]
 
-[Trade in Endangered Species Act 1989][137]
+[Trade in Endangered Species Act 1989][139]
 
-[Walking Access Act 2008][138]
+[Walking Access Act 2008][140]
 
-[Wild Animal Control Act 1977][139]
+[Wild Animal Control Act 1977][141]
 
-[Wildlife Act 1953][77]
+[Wildlife Act 1953][78]
     
-*   Schedule 1: amended, on 20 May 2014, by [section 107][119] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
-*   Schedule 1: amended, on 1 April 2011, by [section 128][110] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
-*   Schedule 1: amended, on 30 September 2008, by [section 82][88] of the Walking Access Act 2008 (2008 No 101).
-*   Schedule 1: amended, on 1 July 2003, by [section 262][78] of the Local Government Act 2002 (2002 No 84).
+*   Schedule 1: amended, on 20 May 2014, by [section 107][121] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+*   Schedule 1: amended, on 1 April 2011, by [section 128][111] of the Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3).
+*   Schedule 1: amended, on 30 September 2008, by [section 82][89] of the Walking Access Act 2008 (2008 No 101).
+*   Schedule 1: amended, on 1 July 2003, by [section 262][79] of the Local Government Act 2002 (2002 No 84).
 
 ---
 
@@ -1054,15 +1067,15 @@ Enactments amended
 
 ##### Conservation Act 1987 (RS Vol 36, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Environment Act 1986 (RS Vol 36, p 223)
 
-_Amendment(s) incorporated in the [Act(s)][141]._
+_Amendment(s) incorporated in the [Act(s)][143]._
 
 ##### Local Government Official Information and Meetings Act 1987 (RS Vol 35, p 347)
 
-_Amendment(s) incorporated in the [Act(s)][142]._
+_Amendment(s) incorporated in the [Act(s)][144]._
 
 ---
 
@@ -1090,7 +1103,20 @@ Land held as reserve for defence purposes
 
 All that land comprising 5.0024 hectares, more or less, being Section 2 SO 448861 and Sections 1, 2, and 3 SO 355498\.
     
-*   Schedule 4 Part 2: amended, on 8 February 2013, by [section 55][143] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
+*   Schedule 4 Part 2: amended, on 8 February 2013, by [section 55][145] of the Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91).
+
+---
+
+## Schedule 5  
+Land included in Park to give effect to legislation settling historical Treaty of Waitangi claims
+
+[s 33(2)(h)][37]
+
+*   Schedule 5: inserted, on 1 August 2014, by [section 164(4)][112] of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014 (2014 No 52).
+
+The land described as the Islington Bay Bach 80 property in [Part 2][146] of Schedule 3 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014\.
+
+The land described as the Islington Bay Hall property in [Part 2][146] of Schedule 3 of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014\.
 
 #### 
 
@@ -1104,27 +1130,29 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][144] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][145] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][147] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][148] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][146] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][147] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][149] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][150] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][119]
+*   Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014 (2014 No 52): [section 164][112]
     
-    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 55][143]
+    Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][121]
     
-    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][110]
+    Ngāti Whātua Ōrākei Claims Settlement Act 2012 (2012 No 91): [section 55][145]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][91]
+    Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][111]
     
-    Walking Access Act 2008 (2008 No 101): [section 82][88]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][92]
     
-    Local Government Act 2002 (2002 No 84): [section 262][78]
+    Walking Access Act 2008 (2008 No 101): [section 82][89]
     
-    [Hauraki Gulf Marine Park Amendment Act 2001][124] (2001 No 36)
+    Local Government Act 2002 (2002 No 84): [section 262][79]
+    
+    [Hauraki Gulf Marine Park Amendment Act 2001][126] (2001 No 36)
 
 
 
@@ -1192,87 +1220,90 @@ All that land comprising 5.0024 hectares, more or less, being Section 2 SO 44886
 [61]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53403
 [62]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53404
 [63]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53406
-[64]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM435834
-[65]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444314
-[66]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM103609
-[67]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104213
-[68]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM170872
-[69]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM289881
-[70]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25372
-[71]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397876
-[72]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM394191
-[73]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM415531
-[74]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444430
-[75]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397957
-[76]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM277076
-[77]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM276813
-[78]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM174088
-[79]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM230264
-[80]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM233372
-[81]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM277272
-[82]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM398129
-[83]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444488
-[84]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM16979
-[85]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25196
-[86]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM37993
-[87]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104294
-[88]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM1244216
-[89]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM395397
-[90]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM93300
-[91]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3016880
-[92]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175699
-[93]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175678
-[94]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175681
-[95]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175683
-[96]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175684
-[97]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175691
-[98]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175696
-[99]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175697
-[100]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM122241
-[101]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM264952
-[102]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM107200
-[103]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444304
-[104]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53407
-[105]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444607
-[106]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53408
-[107]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444605
-[108]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM204972
-[109]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444310
-[110]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3213476
-[111]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444912
-[112]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106603
-[113]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444916
-[114]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106607
-[115]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005548
-[116]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM9005
-[117]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444911
-[118]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444666
-[119]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005646
-[120]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104281
-[121]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104957
-[122]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444484
-[123]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444632
-[124]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95818
-[125]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM234883
-[126]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95824
-[127]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM315367
-[128]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM66581
-[129]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM248777
-[130]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3213102
-[131]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25110
-[132]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397837
-[133]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM36962
-[134]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM216730
-[135]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM8800
-[136]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM230364
-[137]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM145965
-[138]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM1244000
-[139]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM16622
-[140]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104299
-[141]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM99782
-[142]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM123625
-[143]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4326181
-[144]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998516
-[145]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998515
-[146]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998532
-[147]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[64]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM6230002
+[65]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM435834
+[66]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444314
+[67]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM103609
+[68]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104213
+[69]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM170872
+[70]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM289881
+[71]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25372
+[72]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397876
+[73]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM394191
+[74]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM415531
+[75]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444430
+[76]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397957
+[77]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM277076
+[78]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM276813
+[79]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM174088
+[80]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM230264
+[81]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM233372
+[82]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM277272
+[83]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM398129
+[84]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444488
+[85]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM16979
+[86]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25196
+[87]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM37993
+[88]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104294
+[89]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM1244216
+[90]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM395397
+[91]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM93300
+[92]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3016880
+[93]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175699
+[94]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175678
+[95]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175681
+[96]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175683
+[97]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175684
+[98]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175691
+[99]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175696
+[100]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM175697
+[101]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM122241
+[102]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM264952
+[103]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM107200
+[104]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444304
+[105]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53407
+[106]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444607
+[107]: http://www.legislation.govt.nz/act/public/2000/0001/latest/whole.html#DLM53408
+[108]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444605
+[109]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM204972
+[110]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444310
+[111]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3213476
+[112]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM5322753
+[113]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444912
+[114]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106603
+[115]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444916
+[116]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM106607
+[117]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005548
+[118]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM9005
+[119]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444911
+[120]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444666
+[121]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4005646
+[122]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104281
+[123]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104957
+[124]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444484
+[125]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM444632
+[126]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95818
+[127]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM234883
+[128]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM95824
+[129]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM315367
+[130]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM66581
+[131]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM248777
+[132]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM3213102
+[133]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM25110
+[134]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM397837
+[135]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM36962
+[136]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM216730
+[137]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM8800
+[138]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM230364
+[139]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM145965
+[140]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM1244000
+[141]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM16622
+[142]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM104299
+[143]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM99782
+[144]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM123625
+[145]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM4326181
+[146]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM5322764
+[147]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998516
+[148]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998515
+[149]: http://www.legislation.govt.nz/act/public/2000/0001/latest/link.aspx?id=DLM2998532
+[150]: http://www.pco.parliament.govt.nz/editorial-conventions/
