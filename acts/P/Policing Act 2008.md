@@ -2031,7 +2031,7 @@ Biometric information, international policing, and other miscellaneous provision
 
 ##### 100 Scope of review by State Services Commissioner
     
-*   If the State Services Commissioner is directed or requested under [section 11][283] of the State Sector Act 1988 to carry out, under [section 6(b)][284]of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in [section 16(1)][20].
+*   If the State Services Commissioner is directed or requested under [section 11][283] of the State Sector Act 1988 to carry out, under [section 6(c)][284] of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in [section 16(1)][20].
 
 ##### 101 Annual report
     
