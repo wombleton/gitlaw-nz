@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 7 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -627,507 +627,524 @@ This Act is administered by the Department of Internal Affairs.
 
 [199][297][][297][Basis on which development contributions may be required][297]
 
-[Conditions relevant to requirement for contributions][298]
+[199C][298][][298][Right to object to assessed amount of development contribution][298]
 
-[200][299][][299][Limitations applying to requirement for development contribution][299]
+[199D][299][][299][Scope of development contribution objections][299]
 
-[Development contributions policy][300]
+[199E][300][][300][Procedure for development contribution objections][300]
 
-[201][301][][301][Contents of development contributions policy][301]
+[199M][301][][301][Residual powers of territorial authority relating to development contribution objection decision][301]
 
-[202][302][][302][Contents of schedule to development contributions policy][302]
+[199N][302][][302][Objector's right to apply for judicial review unaffected][302]
 
-[203][303][][303][Maximum development contributions not to be exceeded][303]
+[199O][303][][303][Territorial authority to provide administrative support for development contributions commissioners][303]
 
-[Use of development contributions][304]
+[199P][304][][304][Interim effect of development contribution objection][304]
 
-[204][305][][305][Use of development contributions by territorial authority][305]
+[Conditions relevant to requirement for contributions][305]
 
-[205][306][][306][Use of development contributions for reserves][306]
+[200][306][][306][Limitations applying to requirement for development contribution][306]
 
-[206][307][][307][Alternative uses of development contributions for reserves][307]
+[Development contributions policy][307]
 
-[207][308][][308][Power to use money collected and held under Local Government Act 1974 or Resource Management Act 1991][308]
+[201][308][][308][Contents of development contributions policy][308]
 
-[Powers to recover unpaid development contributions][309]
+[202][309][][309][Contents of schedule to development contributions policy][309]
 
-[208][310][][310][Powers of territorial authority if development contributions not paid or made][310]
+[203][310][][310][Maximum development contributions not to be exceeded][310]
 
-[Refund of development contributions][311]
+[Use of development contributions][311]
 
-[209][312][][312][Refund of money and return of land if development does not proceed][312]
+[204][312][][312][Use of development contributions by territorial authority][312]
 
-[210][313][][313][Refund of money or return of land if not applied to specified reserve purposes][313]
+[205][313][][313][Use of development contributions for reserves][313]
 
-[211][314][][314][Application of other Acts][314]
+[206][314][][314][Alternative uses of development contributions for reserves][314]
 
-[Subpart 6][315][---][315][Removal orders][315]
+[207][315][][315][Power to use money collected and held under Local Government Act 1974 or Resource Management Act 1991][315]
 
-[212][316][][316][Interpretation][316]
+[Powers to recover unpaid development contributions][316]
 
-[Application of rules of court][317]
+[208][317][][317][Powers of territorial authority if development contributions not paid or made][317]
 
-[213][318][][318][Application of District Courts Rules to removal orders][318]
+[Refund of development contributions][318]
 
-[214][319][][319][Scope of rules made under section 213][319]
+[209][319][][319][Refund of money and return of land if development does not proceed][319]
 
-[Application for removal order][320]
+[210][320][][320][Refund of money or return of land if not applied to specified reserve purposes][320]
 
-[215][321][][321][Application for removal order][321]
+[211][321][][321][Application of other Acts][321]
 
-[Making of removal orders][322]
+[Subpart 6][322][---][322][Removal orders][322]
 
-[216][323][][323][Circumstances when court may make removal order][323]
+[212][323][][323][Interpretation][323]
 
-[Objection to making of removal order][324]
+[Application of rules of court][324]
 
-[217][325][][325][Right of objection][325]
+[213][325][][325][Application of District Courts Rules to removal orders][325]
 
-[218][326][][326][Consideration of objections][326]
+[214][326][][326][Scope of rules made under section 213][326]
 
-[Right of appeal][327]
+[Application for removal order][327]
 
-[219][328][][328][Appeal to High Court final][328]
+[215][328][][328][Application for removal order][328]
 
-[Compliance with removal order][329]
+[Making of removal orders][329]
 
-[220][330][][330][Compliance with removal order][330]
+[216][330][][330][Circumstances when court may make removal order][330]
 
-[221][331][][331][Limits to power of entry to enforce compliance][331]
+[Objection to making of removal order][331]
 
-[Application of certain other Acts][332]
+[217][332][][332][Right of objection][332]
 
-[222][333][][333][Provisions of Resource Management Act 1991 and Building Act 2004 continue to apply][333]
+[218][333][][333][Consideration of objections][333]
 
-[223][334][][334][Relationship with Fencing Act 1978][334]
+[Right of appeal][334]
 
-[Part 9][335]  
-[Offences, penalties, infringement offences, and legal proceedings][335]
+[219][335][][335][Appeal to High Court final][335]
 
-[Subpart 1][336][---][336][Offences][336]
+[Compliance with removal order][336]
 
-[Offences relating to water][337]
+[220][337][][337][Compliance with removal order][337]
 
-[224][338][][338][Offence relating to water wastage][338]
+[221][338][][338][Limits to power of entry to enforce compliance][338]
 
-[225][339][][339][Offences relating to waterworks][339]
+[Application of certain other Acts][339]
 
-[226][340][][340][Liability for cost of damage][340]
+[222][340][][340][Provisions of Resource Management Act 1991 and Building Act 2004 continue to apply][340]
 
-[Offences relating to water meters][341]
+[223][341][][341][Relationship with Fencing Act 1978][341]
 
-[227][342][][342][Offences relating to water meters][342]
+[Part 9][342]  
+[Offences, penalties, infringement offences, and legal proceedings][342]
 
-[Offences relating to water races and private drains][343]
+[Subpart 1][343][---][343][Offences][343]
 
-[228][344][][344][Offences relating to water races][344]
+[Offences relating to water][344]
 
-[Offence relating to obstruction of enforcement officers and others][345]
+[224][345][][345][Offence relating to water wastage][345]
 
-[229][346][][346][Obstruction of enforcement officers or agents of local authority][346]
+[225][346][][346][Offences relating to waterworks][346]
 
-[Offences by occupiers or owners][347]
+[226][347][][347][Liability for cost of damage][347]
 
-[230][348][][348][Offences by occupiers][348]
+[Offences relating to water meters][348]
 
-[231][349][][349][Offences in relation to notices sent to occupiers or owners][349]
+[227][349][][349][Offences relating to water meters][349]
 
-[Offences relating to property damage][350]
+[Offences relating to water races and private drains][350]
 
-[232][351][][351][Damage to local authority works or property][351]
+[228][351][][351][Offences relating to water races][351]
 
-[Miscellaneous offences][352]
+[Offence relating to obstruction of enforcement officers and others][352]
 
-[233][353][][353][Offence relating to advertising][353]
+[229][353][][353][Obstruction of enforcement officers or agents of local authority][353]
 
-[234][354][][354][Unauthorised use of coat of arms][354]
+[Offences by occupiers or owners][354]
 
-[Offences committed by members and officers of local authorities][355]
+[230][355][][355][Offences by occupiers][355]
 
-[235][356][][356][Offences by members of local authorities][356]
+[231][356][][356][Offences in relation to notices sent to occupiers or owners][356]
 
-[236][357][][357][Penalty for acting without warrant][357]
+[Offences relating to property damage][357]
 
-[Offences committed by members and officers of Remuneration Authority][358]
+[232][358][][358][Damage to local authority works or property][358]
 
-[237][359][][359][Offence by member or officer of Remuneration Authority][359]
+[Miscellaneous offences][359]
 
-[Offences against Act][360]
+[233][360][][360][Offence relating to advertising][360]
 
-[238][361][][361][Offence of failing to comply with Act][361]
+[234][361][][361][Unauthorised use of coat of arms][361]
 
-[Offences against bylaws][362]
+[Offences committed by members and officers of local authorities][362]
 
-[239][363][][363][Offences in respect of breaches of bylaws (other than alcohol bans)][363]
+[235][363][][363][Offences by members of local authorities][363]
 
-[239A][364][][364][Breaches of alcohol bans][364]
+[236][364][][364][Penalty for acting without warrant][364]
 
-[Defences][365]
+[Offences committed by members and officers of Remuneration Authority][365]
 
-[240][366][][366][Defence to offences under this Act][366]
+[237][366][][366][Offence by member or officer of Remuneration Authority][366]
 
-[Time for filing charging document][367]
+[Offences against Act][367]
 
-[241][368][][368][Time for filing charging document][368]
+[238][368][][368][Offence of failing to comply with Act][368]
 
-[Subpart 2][369][---][369][Penalties][369]
+[Offences against bylaws][369]
 
-[242][370][][370][Penalties for offences][370]
+[239][370][][370][Offences in respect of breaches of bylaws (other than alcohol bans)][370]
 
-[Subpart 3][371][---][371][Infringement offences][371]
+[239A][371][][371][Breaches of alcohol bans][371]
 
-[243][372][][372][Interpretation][372]
+[Defences][372]
 
-[244][373][][373][Proceedings for infringement offences][373]
+[240][373][][373][Defence to offences under this Act][373]
 
-[245][374][][374][Issue of infringement notices][374]
+[Time for filing charging document][374]
 
-[245A][375][][375][Constables may require certain information][375]
+[241][375][][375][Time for filing charging document][375]
 
-[246][376][][376][Entitlement to infringement fees][376]
+[Subpart 2][376][---][376][Penalties][376]
 
-[Subpart 4][377][---][377][Legal proceedings][377]
+[242][377][][377][Penalties for offences][377]
 
-[Procedure][378]
+[Subpart 3][378][---][378][Infringement offences][378]
 
-[247][379][][379][Proceedings in District Court][379]
+[243][379][][379][Interpretation][379]
 
-[Judges not disqualified][380]
+[244][380][][380][Proceedings for infringement offences][380]
 
-[248][381][][381][Judges not disqualified for being ratepayers][381]
+[245][381][][381][Issue of infringement notices][381]
 
-[Representation][382]
+[245A][382][][382][Constables may require certain information][382]
 
-[249][383][][383][Representation of local authority in proceedings][383]
+[246][383][][383][Entitlement to infringement fees][383]
 
-[Service][384]
+[Subpart 4][384][---][384][Legal proceedings][384]
 
-[250][385][][385][Service of legal proceedings on local authority][385]
+[Procedure][385]
 
-[Evidence][386]
+[247][386][][386][Proceedings in District Court][386]
 
-[251][387][][387][Evidence of ownership, vesting, or control][387]
+[Judges not disqualified][387]
 
-[Recovery of debts][388]
+[248][388][][388][Judges not disqualified for being ratepayers][388]
 
-[252][389][][389][Recovery of debts][389]
+[Representation][389]
 
-[Part 10][390]  
-[Powers of Minister to act in relation to local authorities][390]
+[249][390][][390][Representation of local authority in proceedings][390]
 
-[253][391][][391][Outline of Part][391]
+[Service][391]
 
-[254][392][][392][How this Part works][392]
+[250][392][][392][Service of legal proceedings on local authority][392]
 
-[255][393][][393][Application of this Part][393]
+[Evidence][393]
 
-[256][394][][394][Interpretation][394]
+[251][394][][394][Evidence of ownership, vesting, or control][394]
 
-[Subpart 1][395][---][395][Ministerial powers of assistance and intervention][395]
+[Recovery of debts][395]
 
-[Minister may require information from local authority][396]
+[252][396][][396][Recovery of debts][396]
 
-[257][397][][397][Minister may require information][397]
+[Part 10][397]  
+[Powers of Minister to act in relation to local authorities][397]
 
-[Minister may appoint Crown Review Team][398]
+[253][398][][398][Outline of Part][398]
 
-[258][399][][399][Minister may appoint Crown Review Team][399]
+[254][399][][399][How this Part works][399]
 
-[258A][400][][400][How Crown Review Team appointed][400]
+[255][400][][400][Application of this Part][400]
 
-[Minister may appoint Crown Observer][401]
+[256][401][][401][Interpretation][401]
 
-[258B][402][][402][Minister may appoint Crown Observer][402]
+[Subpart 1][402][---][402][Ministerial powers of assistance and intervention][402]
 
-[258C][403][][403][How Crown Observer appointed][403]
+[Minister may require information from local authority][403]
 
-[Minister may appoint Crown Manager][404]
+[257][404][][404][Minister may require information][404]
 
-[258D][405][][405][Minister may appoint Crown Manager][405]
+[Minister may appoint Crown Review Team][405]
 
-[258E][406][][406][How Crown Manager appointed][406]
+[258][406][][406][Minister may appoint Crown Review Team][406]
 
-[Minister may appoint Commission][407]
+[258A][407][][407][How Crown Review Team appointed][407]
 
-[258F][408][][408][Minister may appoint Commission][408]
+[Minister may appoint Crown Observer][408]
 
-[258G][409][][409][How Commission appointed][409]
+[258B][409][][409][Minister may appoint Crown Observer][409]
 
-[258H][410][][410][Application of this and other enactments during Commission's term of appointment][410]
+[258C][410][][410][How Crown Observer appointed][410]
 
-[258I][411][][411][Minister may postpone general election when appointing Commission][411]
+[Minister may appoint Crown Manager][411]
 
-[258J][412][][412][Timing of election following postponed election][412]
+[258D][412][][412][Minister may appoint Crown Manager][412]
 
-[258K][413][][413][Local authority members remain in office but must not act during term of Commission][413]
+[258E][413][][413][How Crown Manager appointed][413]
 
-[258L][414][][414][Extraordinary vacancy when Commission appointed or during term of Commission][414]
+[Minister may appoint Commission][414]
 
-[Minister may call general election][415]
+[258F][415][][415][Minister may appoint Commission][415]
 
-[258M][416][][416][Minister may call general election][416]
+[258G][416][][416][How Commission appointed][416]
 
-[Subpart 2][417][---][417][General provisions applying to Ministerial powers conferred under subpart 1][417]
+[258H][417][][417][Application of this and other enactments during Commission's term of appointment][417]
 
-[258N][418][][418][Minister may consult any person][418]
+[258I][418][][418][Minister may postpone general election when appointing Commission][418]
 
-[258O][419][][419][Minister must publish list in _Gazette_][419]
+[258J][419][][419][Timing of election following postponed election][419]
 
-[258P][420][][420][Minister must have regard to published list][420]
+[258K][420][][420][Local authority members remain in office but must not act during term of Commission][420]
 
-[258Q][421][][421][Notice to local authority of proposed appointment of Ministerial body][421]
+[258L][421][][421][Extraordinary vacancy when Commission appointed or during term of Commission][421]
 
-[258R][422][][422][Notice to local authority of proposed general election][422]
+[Minister may call general election][422]
 
-[258S][423][][423][Notification of appointment of Ministerial body][423]
+[258M][423][][423][Minister may call general election][423]
 
-[258T][424][][424][Notification of change of membership of Ministerial body][424]
+[Subpart 2][424][---][424][General provisions applying to Ministerial powers conferred under subpart 1][424]
 
-[258U][425][][425][Final report of Ministerial body][425]
+[258N][425][][425][Minister may consult any person][425]
 
-[258V][426][][426][Remuneration and expenses of Ministerial appointees][426]
+[258O][426][][426][Minister must publish list in _Gazette_][426]
 
-[258W][427][][427][Recovery of expenses from local authority][427]
+[258P][427][][427][Minister must have regard to published list][427]
 
-[258X][428][][428][Minister may terminate Ministerial body or Ministerial appointee][428]
+[258Q][428][][428][Notice to local authority of proposed appointment of Ministerial body][428]
 
-[258Y][429][][429][Protection from liability for Ministerial appointees][429]
+[258R][429][][429][Notice to local authority of proposed general election][429]
 
-[258Z][430][][430][Disclosure of information held by local authority][430]
+[258S][430][][430][Notification of appointment of Ministerial body][430]
 
-[258ZA][431][][431][Decisions and directions of Crown Manager or Commission remain in force until local authority decides otherwise][431]
+[258T][431][][431][Notification of change of membership of Ministerial body][431]
 
-[Part 11][432]  
-[Regulations, other Orders in Council, and rules][432]
+[258U][432][][432][Final report of Ministerial body][432]
 
-[Regulations][433]
+[258V][433][][433][Remuneration and expenses of Ministerial appointees][433]
 
-[259][434][][434][Regulations][434]
+[258W][434][][434][Recovery of expenses from local authority][434]
 
-[259A][435][][435][Levy to fund rules for performance measures][435]
+[258X][435][][435][Minister may terminate Ministerial body or Ministerial appointee][435]
 
-[259B][436][][436][Power to refund levy][436]
+[258Y][436][][436][Protection from liability for Ministerial appointees][436]
 
-[259C][437][][437][Auditor-General must report on disclosures made under certain regulations][437]
+[258Z][437][][437][Disclosure of information held by local authority][437]
 
-[259D][438][][438][Regulations may incorporate financial reporting standards by reference][438]
+[258ZA][438][][438][Decisions and directions of Crown Manager or Commission remain in force until local authority decides otherwise][438]
 
-[259E][439][][439][Effect of amendments to, or replacement of, standards incorporated by reference in regulations][439]
+[Part 11][439]  
+[Regulations, other Orders in Council, and rules][439]
 
-[259F][440][][440][Proof of standards incorporated by reference][440]
+[Regulations][440]
 
-[259G][441][][441][Effect of expiry or revocation of standards incorporated by reference][441]
+[259][441][][441][Regulations][441]
 
-[259H][442][][442][Access to standards incorporated by reference][442]
+[259A][442][][442][Levy to fund rules for performance measures][442]
 
-[259I][443][][443][Application of Legislation Act 2012 to standards incorporated by reference][443]
+[259B][443][][443][Power to refund levy][443]
 
-[259J][444][][444][Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference][444] \[Repealed\]
+[259C][444][][444][Auditor-General must report on disclosures made under certain regulations][444]
 
-[Other Orders in Council][445]
+[259D][445][][445][Regulations may incorporate financial reporting standards by reference][445]
 
-[260][446][][446][Amendment of Schedule 2 by Order in Council][446]
+[259E][446][][446][Effect of amendments to, or replacement of, standards incorporated by reference in regulations][446]
 
-[261][447][][447][Circumstances when Order in Council may extend time or validate action taken][447]
+[259F][447][][447][Proof of standards incorporated by reference][447]
 
-[Rules for performance measures][448]
+[259G][448][][448][Effect of expiry or revocation of standards incorporated by reference][448]
 
-[261A][449][][449][Purpose of rules specifying performance measures][449]
+[259H][449][][449][Access to standards incorporated by reference][449]
 
-[261B][450][][450][Secretary must make rules specifying performance measures][450]
+[259I][450][][450][Application of Legislation Act 2012 to standards incorporated by reference][450]
 
-[261C][451][][451][Status of rules][451]
+[259J][451][][451][Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference][451] \[Repealed\]
 
-[Incorporation by reference][452]
+[Other Orders in Council][452]
 
-[261D][453][][453][Incorporation of documents by reference in rules][453]
+[260][453][][453][Amendment of Schedule 2 by Order in Council][453]
 
-[261E][454][][454][Proof of material incorporated by reference][454]
+[261][454][][454][Circumstances when Order in Council may extend time or validate action taken][454]
 
-[261F][455][][455][Effect of change to, or expiry of, material incorporated by reference][455]
+[Rules for performance measures][455]
 
-[261G][456][][456][Consultation on proposal to incorporate material by reference][456]
+[261A][456][][456][Purpose of rules specifying performance measures][456]
 
-[261H][457][][457][Access to material incorporated by reference][457]
+[261B][457][][457][Secretary must make rules specifying performance measures][457]
 
-[Part 12][458]  
-[Consequential amendments, repeals, revocations, transitional provisions, and savings][458]
+[261C][458][][458][Status of rules][458]
 
-[Consequential amendments, repeals, and revocations][459]
+[Incorporation by reference][459]
 
-[262][460][][460][Consequential amendments][460]
+[261D][460][][460][Incorporation of documents by reference in rules][460]
 
-[263][461][][461][Water services][461]
+[261E][461][][461][Proof of material incorporated by reference][461]
 
-[264][462][][462][Amendment to Personal Property Securities Act 1999][462]
+[261F][462][][462][Effect of change to, or expiry of, material incorporated by reference][462]
 
-[265][463][][463][New Schedule added to Receiverships Act 1993][463]
+[261G][463][][463][Consultation on proposal to incorporate material by reference][463]
 
-[266][464][][464][Repeals][464]
+[261H][464][][464][Access to material incorporated by reference][464]
 
-[267][465][][465][Repeal of enactments relating to special consultative procedure][465]
+[Part 12][465]  
+[Consequential amendments, repeals, revocations, transitional provisions, and savings][465]
 
-[268][466][][466][Repeal of Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001][466]
+[Consequential amendments, repeals, and revocations][466]
 
-[269][467][][467][Repeal of spent local Acts][467]
+[262][467][][467][Consequential amendments][467]
 
-[270][468][][468][Repeal of provisions relating to regional parks of Wellington Regional Council][468]
+[263][468][][468][Water services][468]
 
-[271][469][][469][Lake Taupo Regulations 1976][469]
+[264][469][][469][Amendment to Personal Property Securities Act 1999][469]
 
-[272][470][][470][Revocations][470]
+[265][470][][470][New Schedule added to Receiverships Act 1993][470]
 
-[Transitional provisions][471]
+[266][471][][471][Repeals][471]
 
-[273][472][][472][First triennial agreement][472]
+[267][472][][472][Repeal of enactments relating to special consultative procedure][472]
 
-[274][473][][473][First local governance statement][473]
+[268][473][][473][Repeal of Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001][473]
 
-[275][474][][474][First policy on appointment of directors][474]
+[269][474][][474][Repeal of spent local Acts][474]
 
-[276][475][][475][First statement of intent and report and accounts of existing local authority trading enterprises][475]
+[270][475][][475][Repeal of provisions relating to regional parks of Wellington Regional Council][475]
 
-[277][476][][476][First statement of intent of other council-controlled organisations][476]
+[271][476][][476][Lake Taupo Regulations 1976][476]
 
-[278][477][][477][First policy on significance][477]
+[272][477][][477][Revocations][477]
 
-[279][478][][478][Long-term council community plan][478] \[Repealed\]
+[Transitional provisions][478]
 
-[280][479][][479][Long-term plan for period beginning on 1 July 2006][479]
+[273][479][][479][First triennial agreement][479]
 
-[281][480][][480][Annual plan][480] \[Repealed\]
+[274][480][][480][First local governance statement][480]
 
-[282][481][][481][Certain decisions to be taken only if provided for in annual plan or special consultative procedure used][481] \[Repealed\]
+[275][481][][481][First policy on appointment of directors][481]
 
-[283][482][][482][Annual reports][482]
+[276][482][][482][First statement of intent and report and accounts of existing local authority trading enterprises][482]
 
-[284][483][][483][First annual plan][483]
+[277][483][][483][First statement of intent of other council-controlled organisations][483]
 
-[285][484][][484][First assessment of water and sanitary services][484]
+[278][484][][484][First policy on significance][484]
 
-[286][485][][485][Waste management plan][485]
+[279][485][][485][Long-term council community plan][485] \[Repealed\]
 
-[287][486][][486][Special consultative procedure][486]
+[280][486][][486][Long-term plan for period beginning on 1 July 2006][486]
 
-[288][487][][487][Decision-making processes commenced before enactment][487] \[Repealed\]
+[281][487][][487][Annual plan][487] \[Repealed\]
 
-[289][488][][488][Special orders][488]
+[282][488][][488][Certain decisions to be taken only if provided for in annual plan or special consultative procedure used][488] \[Repealed\]
 
-[289A][489][][489][Special orders on or after 1 July 2003][489]
+[283][489][][489][Annual reports][489]
 
-[290][490][][490][Development contributions][490]
+[284][490][][490][First annual plan][490]
 
-[291][491][][491][Reorganisation proposals][491]
+[285][491][][491][First assessment of water and sanitary services][491]
 
-[292][492][][492][Existing charges][492]
+[286][492][][492][Waste management plan][492]
 
-[293][493][][493][Bylaws][493]
+[287][493][][493][Special consultative procedure][493]
 
-[294][494][][494][Standing orders][494]
+[288][494][][494][Decision-making processes commenced before enactment][494] \[Repealed\]
 
-[295][495][][495][Communities and community boards][495]
+[289][495][][495][Special orders][495]
 
-[296][496][][496][Chief executive][496]
+[289A][496][][496][Special orders on or after 1 July 2003][496]
 
-[297][497][][497][Members of Commission][497]
+[290][497][][497][Development contributions][497]
 
-[298][498][][498][Community trusts][498]
+[291][498][][498][Reorganisation proposals][498]
 
-[299][499][][499][Borrowing from sinking fund][499]
+[292][499][][499][Existing charges][499]
 
-[300][500][][500][Cancellation of part of loan in respect of which sinking fund is held][500]
+[293][500][][500][Bylaws][500]
 
-[301][501][][501][Consent required for release of sinking fund][501]
+[294][501][][501][Standing orders][501]
 
-[302][502][][502][Provisions relating to Public Trust and Board of Trustees of National Provident Fund][502]
+[295][502][][502][Communities and community boards][502]
 
-[303][503][][503][Public Bodies Leases Act 1969][503]
+[296][503][][503][Chief executive][503]
 
-[304][504][][504][Sale of land purchased for commercial or industrial purposes][504]
+[297][504][][504][Members of Commission][504]
 
-[305][505][][505][Local Authorities (Employment Protection) Act 1963][505]
+[298][505][][505][Community trusts][505]
 
-[306][506][][506][Local Authorities Loans Act 1956][506]
+[299][506][][506][Borrowing from sinking fund][506]
 
-[307][507][][507][Existing proceedings][507]
+[300][507][][507][Cancellation of part of loan in respect of which sinking fund is held][507]
 
-[308][508][][508][Existing causes of action][508]
+[301][508][][508][Consent required for release of sinking fund][508]
 
-[Savings][509]
+[302][509][][509][Provisions relating to Public Trust and Board of Trustees of National Provident Fund][509]
 
-[309][510][][510][Saving][510]
+[303][510][][510][Public Bodies Leases Act 1969][510]
 
-[310][511][][511][Saving in respect of bylaws of Transit New Zealand][511]
+[304][511][][511][Sale of land purchased for commercial or industrial purposes][511]
 
-[311][512][][512][Savings in respect of bylaws made in respect of government roads][512]
+[305][512][][512][Local Authorities (Employment Protection) Act 1963][512]
 
-[312][513][][513][Savings and validation in respect of remuneration, allowances, and expenses of elected members][513]
+[306][513][][513][Local Authorities Loans Act 1956][513]
 
-[313][514][][514][Saving in respect of Infrastructure Auckland][514] \[Repealed\]
+[307][514][][514][Existing proceedings][514]
 
-[314][515][][515][Prohibition of vehicles and consumption or possession of intoxicating liquor in public place][515]
+[308][515][][515][Existing causes of action][515]
 
-[Schedule 1][516]  
-[Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government][516]
+[Savings][516]
 
-[Schedule 2][517]  
-[Local authorities][517]
+[309][517][][517][Saving][517]
 
-[Schedule 3][518]  
-[Reorganisation of local authorities][518]
+[310][518][][518][Saving in respect of bylaws of Transit New Zealand][518]
 
-[Schedule 4][519]  
-[Provisions relating to Local Government Commission and its proceedings][519]
+[311][519][][519][Savings in respect of bylaws made in respect of government roads][519]
 
-[Schedule 5][520]  
-[Appeals against decisions of Local Government Commission][520]
+[312][520][][520][Savings and validation in respect of remuneration, allowances, and expenses of elected members][520]
 
-[Schedule 6][521]  
-[Constitution of communities][521]
+[313][521][][521][Saving in respect of Infrastructure Auckland][521] \[Repealed\]
 
-[Schedule 7][522]  
-[Local authorities and community boards, and their members][522]
+[314][522][][522][Prohibition of vehicles and consumption or possession of intoxicating liquor in public place][522]
 
-[Schedule 8][523]  
-[Statements of intent][523]
+[Schedule 1][523]  
+[Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government][523]
 
-[Schedule 9][524]  
-[Council-controlled organisations and transfer of undertakings][524]
+[Schedule 2][524]  
+[Local authorities][524]
 
-[Schedule 10][525]  
-[Long-term plans, annual plans, and annual reports][525]
+[Schedule 3][525]  
+[Reorganisation of local authorities][525]
 
-[Schedule 11][526]  
-[Matters relating to rates relief on Māori freehold land][526]
+[Schedule 4][526]  
+[Provisions relating to Local Government Commission and its proceedings][526]
 
-[Schedule 12][527]  
-[Conditions of constructing or undertaking works on private land without the owner's consent][527]
+[Schedule 5][527]  
+[Appeals against decisions of Local Government Commission][527]
 
-[Schedule 13][528]  
-[Methodology for calculating development contributions][528]
+[Schedule 6][528]  
+[Constitution of communities][528]
 
-[Schedule 14][529]  
-[Procedure for making removal orders][529]
+[Schedule 7][529]  
+[Local authorities and community boards, and their members][529]
 
-[Schedule 15][530]  
-[Powers of Minister][530]
+[Schedule 8][530]  
+[Statements of intent][530]
+
+[Schedule 9][531]  
+[Council-controlled organisations and transfer of undertakings][531]
+
+[Schedule 10][532]  
+[Long-term plans, annual plans, and annual reports][532]
+
+[Schedule 11][533]  
+[Matters relating to rates relief on Māori freehold land][533]
+
+[Schedule 12][534]  
+[Conditions of constructing or undertaking works on private land without the owner's consent][534]
+
+[Schedule 13][535]  
+[Methodology for calculating development contributions][535]
+
+[Schedule 13A][536]  
+[Procedure relating to development contribution objections][536]
+
+[Schedule 14][537]  
+[Procedure for making removal orders][537]
+
+[Schedule 15][538]  
+[Powers of Minister][538]
 
 \[Repealed\]
 
-[Schedule 16][531]  
-[Consequential amendments][531]
+[Schedule 16][539]  
+[Consequential amendments][539]
 
-[Schedule 17][532]  
-[New Schedule of Receiverships Act 1993][532]
+[Schedule 17][540]  
+[New Schedule of Receiverships Act 1993][540]
 
-[Schedule 18][533]  
-[Enactments repealed][533]
+[Schedule 18][541]  
+[Enactments repealed][541]
 
-[Schedule 19][534]  
-[Local Acts repealed][534]
+[Schedule 19][542]  
+[Local Acts repealed][542]
 
-[Schedule 20][535]  
-[Orders in Council revoked][535]
+[Schedule 20][543]  
+[Orders in Council revoked][543]
 
 ---
 
@@ -1137,7 +1154,7 @@ This Act is administered by the Department of Internal Affairs.
 
 ##### 2 Commencement
     
-*   (1) [Sections 5][6], [6][7], and [7][8], [subparts 1 to 3][109] of Part 6, [subpart 2][179] of Part 7, [sections 138][193], [267][465], [268][466], [271][469], [275][474], [276][475], [278][477], [279][478], [281][480], [282][481], [284][483], [287][486], [288][487], and [312][513], and [Schedules 10][525] and [11][526] come into force on the day after the date on which this Act receives the Royal assent.
+*   (1) [Sections 5][6], [6][7], and [7][8], [subparts 1 to 3][109] of Part 6, [subpart 2][179] of Part 7, [sections 138][193], [267][472], [268][473], [271][476], [275][481], [276][482], [278][484], [279][485], [281][487], [282][488], [284][490], [287][493], [288][494], and [312][520], and [Schedules 10][532] and [11][533] come into force on the day after the date on which this Act receives the Royal assent.
     
     (2) The rest of this Act comes into force on 1 July 2003\.
 
@@ -1156,11 +1173,11 @@ Preliminary provisions
     
     *   (d) provides for local authorities to play a broad role in meeting the current and future needs of their communities for good-quality local infrastructure, local public services, and performance of regulatory functions.
     
-    Section 3(d): replaced, on 5 December 2012, by [section 4][536] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 3(d): replaced, on 5 December 2012, by [section 4][544] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 4 Treaty of Waitangi
     
-*   In order to recognise and respect the Crown's responsibility to take appropriate account of the principles of the [Treaty of Waitangi][537] and to maintain and improve opportunities for Māori to contribute to local government decision-making processes, [Parts 2][10] and [6][107] provide principles and requirements for local authorities that are intended to facilitate participation by Māori in local authority decision-making processes.
+*   In order to recognise and respect the Crown's responsibility to take appropriate account of the principles of the [Treaty of Waitangi][545] and to maintain and improve opportunities for Māori to contribute to local government decision-making processes, [Parts 2][10] and [6][107] provide principles and requirements for local authorities that are intended to facilitate participation by Māori in local authority decision-making processes.
 
 ##### 5 Interpretation
     
@@ -1180,19 +1197,19 @@ Preliminary provisions
     
     *   (b) in relation to a territorial authority, means a territorial authority whose district contains an affected area
     
-    _affected area_ has the same meaning as in [clause 2][538] of Schedule 3
+    _affected area_ has the same meaning as in [clause 2][546] of Schedule 3
     
     _annual plan_ means an annual plan adopted under [section 95][134]
     
     _bylaw_ means a bylaw made by a local authority under any enactment
     
-    _capital project_ has the meaning given to it in [section 5][539] of the Local Government (Rating) Act 2002
+    _capital project_ has the meaning given to it in [section 5][547] of the Local Government (Rating) Act 2002
     
     _Commission_,---
         
-    *   (a) other than in [Part 10][390], means the Local Government Commission continued under [section 28][44]:
+    *   (a) other than in [Part 10][397], means the Local Government Commission continued under [section 28][44]:
     
-    *   (b) in [Part 10][390], has the meaning given by [section 256][394]
+    *   (b) in [Part 10][397], has the meaning given by [section 256][401]
     
     _committee_ includes, in relation to a local authority,---
         
@@ -1200,11 +1217,11 @@ Preliminary provisions
     
     *   (b) a standing committee or special committee appointed by that local authority; and
     
-    *   (c) a joint committee appointed under [clause 30][540] of Schedule 7; and
+    *   (c) a joint committee appointed under [clause 30][548] of Schedule 7; and
     
     *   (d) any subcommittee of a committee described in paragraph (a) or paragraph (b) or paragraph (c)
     
-    _community_ means, subject to subsection (2), a community constituted under [Schedule 6][521]
+    _community_ means, subject to subsection (2), a community constituted under [Schedule 6][528]
     
     _community board_ means a community board established under [section 49][73]
     
@@ -1228,11 +1245,11 @@ Preliminary provisions
     
     _enforcement officer_ means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
     
-    _equity security_ has the meaning given to it in [section 2][541] of the Securities Act 1978
+    _equity security_ has the meaning given to it in [section 2][549] of the Securities Act 1978
     
     _financial year_ means a period of 12 months ending on 30 June
     
-    _generally accepted accounting practice_ has the same meaning as in [section 8][542] of the Financial Reporting Act 2013
+    _generally accepted accounting practice_ has the same meaning as in [section 8][550] of the Financial Reporting Act 2013
     
     _good-quality_, in relation to local infrastructure, local public services, and performance of regulatory functions, has the meaning given in [section 10(2)][13]
     
@@ -1244,25 +1261,25 @@ Preliminary provisions
     
     _long-term plan_ means a long-term plan adopted under [section 93][132]
     
-    _lump sum contribution_ has the meaning given to it in [section 5][539] of the Local Government (Rating) Act 2002
+    _lump sum contribution_ has the meaning given to it in [section 5][547] of the Local Government (Rating) Act 2002
     
-    _mayor_ means the mayor of a territorial authority elected under the [Local Electoral Act 2001][543]
+    _mayor_ means the mayor of a territorial authority elected under the [Local Electoral Act 2001][551]
     
     _member_,---
         
-    *   (a) in relation to a community board, means a member appointed to that board or elected to that board under the [Local Electoral Act 2001][543]:
+    *   (a) in relation to a community board, means a member appointed to that board or elected to that board under the [Local Electoral Act 2001][551]:
     
     *   (b) in relation to the Commission, means a member of the Local Government Commission:
     
-    *   (c) in relation to a local authority, means a member of the governing body of the local authority elected under the [Local Electoral Act 2001][543]:
+    *   (c) in relation to a local authority, means a member of the governing body of the local authority elected under the [Local Electoral Act 2001][551]:
     
-    *   (d) in relation to a regional council, means a member of the governing body of the regional council elected under the [Local Electoral Act 2001][543], including the chairperson:
+    *   (d) in relation to a regional council, means a member of the governing body of the regional council elected under the [Local Electoral Act 2001][551], including the chairperson:
     
-    *   (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the [Local Electoral Act 2001][543], including the mayor
+    *   (e) in relation to a territorial authority, means a member of the governing body of the territorial authority elected under the [Local Electoral Act 2001][551], including the mayor
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _natural hazard_ has the meaning given to it in [section 2(1)][544] of the Resource Management Act 1991
+    _natural hazard_ has the meaning given to it in [section 2(1)][552] of the Resource Management Act 1991
     
     _network infrastructure_ has the meaning set out in [section 197(2)][294]
     
@@ -1288,9 +1305,9 @@ Preliminary provisions
     
     *   (b) includes the district of a territorial authority, if the territorial authority is a unitary authority
     
-    _regional council_ means a regional council named in [Part 1][545] of Schedule 2
+    _regional council_ means a regional council named in [Part 1][553] of Schedule 2
     
-    _remuneration and employment policy_ means a policy adopted by a local authority under [clause 36A][546] of Schedule 7
+    _remuneration and employment policy_ means a policy adopted by a local authority under [clause 36A][554] of Schedule 7
     
     _reserve fund_ means money set aside by a local authority for a specific purpose
     
@@ -1316,13 +1333,13 @@ Preliminary provisions
     
     *   (c) any equity securities held by the local authority in---
             
-        *   (i) a port company within the meaning of the [Port Companies Act 1988][547]:
+        *   (i) a port company within the meaning of the [Port Companies Act 1988][555]:
         
-        *   (ii) an airport company within the meaning of the [Airport Authorities Act 1966][548]
+        *   (ii) an airport company within the meaning of the [Airport Authorities Act 1966][556]
         
         
     
-    _territorial authority_ means a city council or a district council named in [Part 2][549] of Schedule 2
+    _territorial authority_ means a city council or a district council named in [Part 2][557] of Schedule 2
     
     _unitary authority_ means a territorial authority that has the responsibilities, duties, and powers of a regional council conferred on it under---
         
@@ -1396,7 +1413,7 @@ Preliminary provisions
     
     *   (c) any of the provisions of [Parts 2][10] and [6][107]; or
     
-    *   (d) any of the provisions of [Schedules 10][525] and [11][526]; or
+    *   (d) any of the provisions of [Schedules 10][532] and [11][533]; or
     
     *   (e) any other provisions of this Act in respect of which the context otherwise requires.
     
@@ -1406,61 +1423,61 @@ Preliminary provisions
     
     *   (b) publicise both the fact that the document is available and the manner in which copies of the document may be obtained.
     
-    Section 5(1) **affected**: inserted, on 5 December 2012, by [section 5(9)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **affected**: inserted, on 5 December 2012, by [section 5(9)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **affected area**: inserted, on 5 December 2012, by [section 5(9)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **affected area**: inserted, on 5 December 2012, by [section 5(9)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **bylaw**: inserted, on 28 June 2006, by [section 4(1)][551] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 5(1) **bylaw**: inserted, on 28 June 2006, by [section 4(1)][559] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 5(1) **capital project**: inserted, on 28 June 2006, by [section 15(1)][552] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 5(1) **capital project**: inserted, on 28 June 2006, by [section 15(1)][560] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
     
-    Section 5(1) **Commission**: replaced, on 5 December 2012, by [section 5(1)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **Commission**: replaced, on 5 December 2012, by [section 5(1)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **community facilities**: substituted, on 28 June 2006, by [section 4(2)][551] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 5(1) **community facilities**: substituted, on 28 June 2006, by [section 4(2)][559] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 5(1) **community facilities**: amended, on 5 December 2012, by [section 5(2)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **community facilities**: amended, on 5 December 2012, by [section 5(2)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **community infrastructure**: amended, on 5 December 2012, by [section 5(3)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **community infrastructure**: amended, on 5 December 2012, by [section 5(3)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **community outcomes**: replaced, on 5 December 2012, by [section 5(4)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **community outcomes**: replaced, on 5 December 2012, by [section 5(4)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **development contribution**: amended, on 5 December 2012, by [section 5(5)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **development contribution**: amended, on 5 December 2012, by [section 5(5)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **development contribution policy**: amended, on 5 December 2012, by [section 5(6)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **development contribution policy**: amended, on 5 December 2012, by [section 5(6)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **equity security**: inserted, on 27 November 2010, by [section 4(2)][553] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(1) **equity security**: inserted, on 27 November 2010, by [section 4(2)][561] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 5(1) **generally accepted accounting practice**: replaced, on 1 April 2014, by [section 126][554] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 5(1) **generally accepted accounting practice**: replaced, on 1 April 2014, by [section 126][562] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 5(1) **good-quality**: inserted, on 5 December 2012, by [section 5(9)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **good-quality**: inserted, on 5 December 2012, by [section 5(9)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **long-term council community plan**: repealed, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(1) **long-term council community plan**: repealed, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 5(1) **long-term plan**: inserted, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(1) **long-term plan**: inserted, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 5(1) **lump sum contribution**: inserted, on 28 June 2006, by [section 15(1)][552] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 5(1) **lump sum contribution**: inserted, on 28 June 2006, by [section 15(1)][560] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
     
-    Section 5(1) **natural hazard**: inserted, on 27 November 2010, by [section 4(2)][553] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(1) **natural hazard**: inserted, on 27 November 2010, by [section 4(2)][561] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 5(1) **network assets of Watercare Services Limited**: repealed, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **network assets of Watercare Services Limited**: repealed, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **network infrastructure**: amended, on 5 December 2012, by [section 5(7)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **network infrastructure**: amended, on 5 December 2012, by [section 5(7)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **remuneration and employment policy**: inserted, on 5 December 2012, by [section 5(9)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **remuneration and employment policy**: inserted, on 5 December 2012, by [section 5(9)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **reorganisation proposal**: repealed, on 5 December 2012, by [section 5(10)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **reorganisation proposal**: repealed, on 5 December 2012, by [section 5(10)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **reorganisation scheme**: repealed, on 5 December 2012, by [section 5(10)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **reorganisation scheme**: repealed, on 5 December 2012, by [section 5(10)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **reserve fund**: inserted, on 27 November 2010, by [section 4(2)][553] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(1) **reserve fund**: inserted, on 27 November 2010, by [section 4(2)][561] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 5(1) **significance** paragraph (a): replaced, on 5 December 2012, by [section 5(8)][550] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 5(1) **significance** paragraph (a): replaced, on 5 December 2012, by [section 5(8)][558] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 5(1) **waterworks**: substituted, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **waterworks**: substituted, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][557] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 5(1) **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][565] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
     
-    Section 5(2)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 5(2)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 6 Meaning of council-controlled organisation and council organisation
     
@@ -1534,11 +1551,11 @@ Preliminary provisions
         
     *   (a) a body corporate that carries on an electricity business (whether or not that business is its principal or only business) or a trust that is constituted for purposes which include owning or controlling, directly or indirectly, all or part of an electricity company that carries on that business; or
     
-    *   (b) an energy company within the meaning of the [Energy Companies Act 1992][558]; or
+    *   (b) an energy company within the meaning of the [Energy Companies Act 1992][566]; or
     
-    *   (c) a port company or subsidiary of a port company within the meaning of the [Port Companies Act 1988][547]; or
+    *   (c) a port company or subsidiary of a port company within the meaning of the [Port Companies Act 1988][555]; or
     
-    *   (ca) a company in which a port company (within the meaning of the [Port Companies Act 1988][547]) holds or controls 50% of the shares; or
+    *   (ca) a company in which a port company (within the meaning of the [Port Companies Act 1988][555]) holds or controls 50% of the shares; or
     
     *   (d) \[Repealed\]
     
@@ -1552,33 +1569,33 @@ Preliminary provisions
     
     *   (i) an organisation exempted under [section 7][8].
     
-    (5) In this section, terms not defined in this Act, but defined in the [Companies Act 1993][559], have the same meaning as in that Act.
+    (5) In this section, terms not defined in this Act, but defined in the [Companies Act 1993][567], have the same meaning as in that Act.
     
-    Compare: 1974 No 66 [s 594B][560]
+    Compare: 1974 No 66 [s 594B][568]
     
-    Section 6(1) **council-controlled organisation** paragraph (b): amended, on 7 July 2004, by [section 3(1)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council-controlled organisation** paragraph (b): amended, on 7 July 2004, by [section 3(1)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council-controlled organisation** paragraph (b)(i): amended, on 7 July 2004, by [section 3(1)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council-controlled organisation** paragraph (b)(i): amended, on 7 July 2004, by [section 3(1)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council-controlled organisation** paragraph (b)(ii): amended, on 7 July 2004, by [section 3(1)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council-controlled organisation** paragraph (b)(ii): amended, on 7 July 2004, by [section 3(1)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council organisation** paragraph (a)(ii): amended, on 7 July 2004, by [section 3(2)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council organisation** paragraph (a)(ii): amended, on 7 July 2004, by [section 3(2)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council organisation** paragraph (b): amended, on 7 July 2004, by [section 3(3)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council organisation** paragraph (b): amended, on 7 July 2004, by [section 3(3)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council organisation** paragraph (b)(i): amended, on 7 July 2004, by [section 3(3)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council organisation** paragraph (b)(i): amended, on 7 July 2004, by [section 3(3)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(1) **council organisation** paragraph (b)(ii): amended, on 7 July 2004, by [section 3(3)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(1) **council organisation** paragraph (b)(ii): amended, on 7 July 2004, by [section 3(3)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(2): amended, on 7 July 2004, by [section 3(4)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(2): amended, on 7 July 2004, by [section 3(4)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(4)(a): substituted, on 1 November 2010, by [section 166][562] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 6(4)(a): substituted, on 1 November 2010, by [section 166][570] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 6(4)(ca): inserted, on 7 July 2004, by [section 3(5)][561] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 6(4)(ca): inserted, on 7 July 2004, by [section 3(5)][569] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 6(4)(d): repealed, on 1 July 2004, by [section 48(1)(b)][563] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+    Section 6(4)(d): repealed, on 1 July 2004, by [section 48(1)(b)][571] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
     
-    Section 6(4)(g): repealed, on 1 July 2012, by [section 113(2)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 6(4)(g): repealed, on 1 July 2012, by [section 113(2)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 7 Exempted organisations
     
@@ -1608,9 +1625,9 @@ Preliminary provisions
     
     (7) A local authority may, at any time, revoke an exemption it has granted.
     
-    Section 7(1): amended, on 28 June 2006, by [section 5(1)][564] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 7(1): amended, on 28 June 2006, by [section 5(1)][572] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 7(2): substituted, on 28 June 2006, by [section 5(2)][564] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 7(2): substituted, on 28 June 2006, by [section 5(2)][572] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 8 Act binds the Crown
     
@@ -1620,17 +1637,17 @@ Preliminary provisions
         
     *   (a) [section 22][31] and [subpart 4][24] of Part 2 (which relate to the powers of the Minister and of officials); and
     
-    *   (b) [Part 3][27] and [Schedules 4][519], [5][520], and [6][521] (which relate to the Commission, the reorganisation of local authorities, and the establishment of community boards); and
+    *   (b) [Part 3][27] and [Schedules 4][526], [5][527], and [6][528] (which relate to the Commission, the reorganisation of local authorities, and the establishment of community boards); and
     
-    *   (c) [Part 10][390] (which relates to the Minister's powers in relation to the governance of local authorities).
+    *   (c) [Part 10][397] (which relates to the Minister's powers in relation to the governance of local authorities).
     
     (3) [Subpart 1][202] of Part 8 binds the Crown to the extent set out in [sections 153][221] and [154][222].
     
     (4) Except as provided in subsections (2) and (3), this Act, and the regulations and bylaws made under it, apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to private property.
     
-    (5) A local authority or person or body of persons (whether incorporated or not) appointed, under [section 28][565] of the Reserves Act 1977, to control and manage any public reserve that is vested in the Crown is, by virtue of that appointment, deemed to have an interest in that reserve.
+    (5) A local authority or person or body of persons (whether incorporated or not) appointed, under [section 28][573] of the Reserves Act 1977, to control and manage any public reserve that is vested in the Crown is, by virtue of that appointment, deemed to have an interest in that reserve.
     
-    Section 8(2)(c): amended, on 5 December 2012, by [section 6][566] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 8(2)(c): amended, on 5 December 2012, by [section 6][574] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ## Part 2  
 Purpose of local government, and role and powers of local authorities
@@ -1663,9 +1680,9 @@ Purpose of local government, and role and powers of local authorities
     
     *   (c) appropriate to present and anticipated future circumstances.
     
-    Section 10(1)(b): replaced, on 5 December 2012, by [section 7(1)][567] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 10(1)(b): replaced, on 5 December 2012, by [section 7(1)][575] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 10(2): inserted, on 5 December 2012, by [section 7(2)][567] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 10(2): inserted, on 5 December 2012, by [section 7(2)][575] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 2---Role of local authorities and related matters
 
@@ -1693,7 +1710,7 @@ Purpose of local government, and role and powers of local authorities
     
     *   (e) libraries, museums, reserves, recreational facilities, and other community infrastructure.
     
-    Section 11A: inserted, on 27 November 2010, by [section 5][568] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 11A: inserted, on 27 November 2010, by [section 5][576] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 12 Status and powers
     
@@ -1731,11 +1748,11 @@ Purpose of local government, and role and powers of local authorities
     
     *   (e) prevent a local authority from making a donation (whether of money, resources, or otherwise) to a local government body outside New Zealand to enable it to share its experience and expertise with that body.
     
-    Section 12(6)(c): amended, on 28 June 2006, by [section 6][569] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 12(6)(c): amended, on 28 June 2006, by [section 6][577] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 12(6)(d): added, on 28 June 2006, by [section 6][569] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 12(6)(d): added, on 28 June 2006, by [section 6][577] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 12(6)(e): added, on 28 June 2006, by [section 6][569] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 12(6)(e): added, on 28 June 2006, by [section 6][577] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 13 Performance of functions under other enactments
     
@@ -1793,13 +1810,13 @@ Purpose of local government, and role and powers of local authorities
     
     (2) If any of these principles conflict in any particular case, the local authority should resolve the conflict in accordance with the principle in subsection (1)(a)(i).
     
-    Section 14(1)(c)(iii): replaced, on 5 December 2012, by [section 8(1)][570] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 14(1)(c)(iii): replaced, on 5 December 2012, by [section 8(1)][578] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 14(1)(fa): inserted, on 27 November 2010, by [section 6][571] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 14(1)(fa): inserted, on 27 November 2010, by [section 6][579] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 14(1)(h)(i): amended, on 5 December 2012, by [section 8(2)][570] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 14(1)(h)(i): amended, on 5 December 2012, by [section 8(2)][578] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 14(2): amended, on 5 December 2012, by [section 8(3)][570] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 14(2): amended, on 5 December 2012, by [section 8(3)][578] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 3---Co-ordination of responsibilities of local authorities
 
@@ -1867,7 +1884,7 @@ Purpose of local government, and role and powers of local authorities
     
     *   (c) a proposal to transfer bylaw-making powers; or
     
-    *   (d) a reorganisation application under [Schedule 3][518]; or
+    *   (d) a reorganisation application under [Schedule 3][525]; or
     
     *   (e) a proposal to undertake an activity or enter into an undertaking jointly with the Crown.
     
@@ -1881,9 +1898,9 @@ Purpose of local government, and role and powers of local authorities
     
     _annual plan_---
         
-    *   (a) means a report adopted under [section 223D][572] of the Local Government Act 1974; and
+    *   (a) means a report adopted under [section 223D][580] of the Local Government Act 1974; and
     
-    *   (b) includes such a report that [section 281][480] applies to
+    *   (b) includes such a report that [section 281][487] applies to
     
     _new activity_---
         
@@ -1915,21 +1932,21 @@ Purpose of local government, and role and powers of local authorities
         
         
     
-    Section 16(1)(c)(ii): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 16(1)(c)(ii): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 16(2)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 16(2)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 16(3): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 16(3): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 16(8)(d): amended, on 5 December 2012, by [section 9][573] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 16(8)(d): amended, on 5 December 2012, by [section 9][581] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 16(9) **affected territorial authority** paragraph (b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 16(9) **affected territorial authority** paragraph (b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 17 Transfer of responsibilities
     
-*   (1) A regional council may transfer 1 or more of its responsibilities (other than a responsibility that may be transferred under [section 33][574] of the Resource Management Act 1991) to a territorial authority in accordance with this section.
+*   (1) A regional council may transfer 1 or more of its responsibilities (other than a responsibility that may be transferred under [section 33][582] of the Resource Management Act 1991) to a territorial authority in accordance with this section.
     
-    (2) A territorial authority may transfer 1 or more of its responsibilities (other than a responsibility that may be transferred under [section 33][574] of the Resource Management Act 1991) to a regional council in accordance with this section.
+    (2) A territorial authority may transfer 1 or more of its responsibilities (other than a responsibility that may be transferred under [section 33][582] of the Resource Management Act 1991) to a regional council in accordance with this section.
     
     (3) A transfer of responsibilities under this section---
         
@@ -1963,25 +1980,25 @@ Purpose of local government, and role and powers of local authorities
     
     *   (b) the reversal of the transfer.
     
-    Compare: 1974 No 66 [ss 37SC][575], [37SD][576]
+    Compare: 1974 No 66 [ss 37SC][583], [37SD][584]
     
-    Section 17(4)(a)(i): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 17(4)(a)(i): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 4---Minister and Secretary
 
 ##### 18 Responsibilities, powers, and duties of Minister
     
-*   (1) The responsibilities, powers, and duties conferred or imposed on the Minister of Internal Affairs by any of the Acts specified in [Schedule 1][516], or by any regulations, rules, orders, or bylaws made under any of those Acts, must be exercised or performed by the Minister.
+*   (1) The responsibilities, powers, and duties conferred or imposed on the Minister of Internal Affairs by any of the Acts specified in [Schedule 1][523], or by any regulations, rules, orders, or bylaws made under any of those Acts, must be exercised or performed by the Minister.
     
-    (2) The Governor-General may, by Order in Council, amend [Schedule 1][516] to add or delete any Act.
+    (2) The Governor-General may, by Order in Council, amend [Schedule 1][523] to add or delete any Act.
     
-    Compare: 1974 No 66 [s 2A][577]
+    Compare: 1974 No 66 [s 2A][585]
 
 ##### 19 Secretary
     
-*   The responsibilities, powers, and duties conferred on the Secretary for Internal Affairs by any of the Acts specified in [Schedule 1][516], or by any regulations, rules, orders, or bylaws made under any such Act, must be exercised or performed by the Secretary for Local Government.
+*   The responsibilities, powers, and duties conferred on the Secretary for Internal Affairs by any of the Acts specified in [Schedule 1][523], or by any regulations, rules, orders, or bylaws made under any such Act, must be exercised or performed by the Secretary for Local Government.
     
-    Compare: 1974 No 66 [s 2B(2)][578]
+    Compare: 1974 No 66 [s 2B(2)][586]
 
 ## Part 3  
 Structure and reorganisation of local government
@@ -2010,7 +2027,7 @@ Structure and reorganisation of local government
     
     (2) Every part of New Zealand (other than the Chatham Islands) that is within the district of a territorial authority must also be within the region of 1 or more regional councils.
     
-    (3) [Part 3][579] of Schedule 2 applies to the boundaries of regions and districts.
+    (3) [Part 3][587] of Schedule 2 applies to the boundaries of regions and districts.
 
 ##### 22 Minister is territorial authority in certain cases
     
@@ -2028,19 +2045,19 @@ Structure and reorganisation of local government
         
         
     
-    *   (b) does not apply in relation to the Three Kings Islands (which include Great Island, South West Island, West Island, North East Island, and several islets and rock stacks) for the purposes of the [Building Act 2004][580].
+    *   (b) does not apply in relation to the Three Kings Islands (which include Great Island, South West Island, West Island, North East Island, and several islets and rock stacks) for the purposes of the [Building Act 2004][588].
     
-    (3) For the purposes of the [Building Act 2004][580],---
+    (3) For the purposes of the [Building Act 2004][588],---
         
     *   (a) the Minister of Local Government is the territorial authority for any part of New Zealand referred to in subsection (1); and
     
     *   (b) the Minister of Conservation is the territorial authority for the islands referred to in subsection (2).
     
-    Compare: 1974 No 66 [s 37R][581]
+    Compare: 1974 No 66 [s 37R][589]
     
-    Section 22(2): replaced, on 13 March 2012, by [section 91(2)][582] of the Building Amendment Act 2012 (2012 No 23).
+    Section 22(2): replaced, on 13 March 2012, by [section 91(2)][590] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 22(3): inserted, on 13 March 2012, by [section 91(2)][582] of the Building Amendment Act 2012 (2012 No 23).
+    Section 22(3): inserted, on 13 March 2012, by [section 91(2)][590] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 23 Description of local government
     
@@ -2056,11 +2073,11 @@ Structure and reorganisation of local government
     
     (5) Despite subsection (1), the Auckland Council and the Chatham Islands Council are territorial authorities.
     
-    Compare: 1974 No 66 [s 37L(2), (3)][583]
+    Compare: 1974 No 66 [s 37L(2), (3)][591]
     
-    Section 23(3A): inserted, on 5 December 2012, by [section 10][584] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 23(3A): inserted, on 5 December 2012, by [section 10][592] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 23(5): substituted, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 23(5): substituted, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ### Subpart 2---Reorganisation of local authorities
 
@@ -2072,7 +2089,7 @@ Structure and reorganisation of local government
     
     *   (b) requiring the Commission, in consultation with communities, to identify, develop, and implement in a timely manner the option that best promotes good local government.
     
-    Section 24AA: inserted, on 5 December 2012, by [section 11][585] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24AA: inserted, on 5 December 2012, by [section 11][593] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 24 Scope of local government reorganisation
     
@@ -2090,13 +2107,13 @@ Structure and reorganisation of local government
     
     *   (f) the assumption by a territorial authority of the powers of a regional council.
     
-    (2) [Schedule 3][518] applies in relation to local government reorganisation.
+    (2) [Schedule 3][525] applies in relation to local government reorganisation.
     
-    Section 24: replaced, on 5 December 2012, by [section 12][586] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24: replaced, on 5 December 2012, by [section 12][594] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 24A Transitional modification or suspension of certain statutory requirements after issue of final proposal for reorganisation
     
-*   (1) The purpose of this section is to authorise the extension or postponement of certain statutory requirements after public notice of a final proposal relating to local government reorganisation is given under [clause 22][587] of Schedule 3, but before the fate of the final proposal is known.
+*   (1) The purpose of this section is to authorise the extension or postponement of certain statutory requirements after public notice of a final proposal relating to local government reorganisation is given under [clause 22][595] of Schedule 3, but before the fate of the final proposal is known.
     
     (2) This section applies to a final reorganisation proposal only if the proposal provides for any of the matters specified in [section 24(1)(a), (b), (c), or (f)][35].
     
@@ -2136,11 +2153,11 @@ Structure and reorganisation of local government
     
     _specified period_ means the period---
         
-    *   (a) beginning on the date on which public notice is given of the final proposal under [clause 22][587] of Schedule 3; and
+    *   (a) beginning on the date on which public notice is given of the final proposal under [clause 22][595] of Schedule 3; and
     
-    *   (b) ending on the close of the date that is 9 months after the day on which public notice is given under [clause 22][587] of Schedule 3\.
+    *   (b) ending on the close of the date that is 9 months after the day on which public notice is given under [clause 22][595] of Schedule 3\.
     
-    Section 24A: inserted, on 5 December 2012, by [section 13][588] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24A: inserted, on 5 December 2012, by [section 13][596] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 25 Order in Council to give effect to final proposals and reorganisation schemes
     
@@ -2154,7 +2171,7 @@ Structure and reorganisation of local government
         
     *   (a) must establish and provide for 1 or more transition bodies in accordance with---
             
-        *   (i) [clauses 33 to 40][589] of Schedule 3; and
+        *   (i) [clauses 33 to 40][597] of Schedule 3; and
         
         *   (ii) the provisions in the final proposal relating to transitional matters; and
         
@@ -2162,7 +2179,7 @@ Structure and reorganisation of local government
     
     *   (b) may, with the agreement of the Commission, suspend any statutory requirement that an affected local authority would otherwise be subject to before a final proposal comes into effect, but only if the coming into effect of the final proposal would make compliance with the statutory requirement unnecessary or inappropriate.
     
-    (3) An Order in Council made under subsection (1) may, if appropriate, amend [Part 1][545] or [2][549] of Schedule 2\.
+    (3) An Order in Council made under subsection (1) may, if appropriate, amend [Part 1][553] or [2][557] of Schedule 2\.
     
     (4) A reorganisation scheme---
         
@@ -2182,21 +2199,21 @@ Structure and reorganisation of local government
     
     *   (b) the matter may be included in the Order in Council if considered appropriate by the Governor-General in Council.
     
-    (7) [Clauses 45][590] and [46][591] of Schedule 3 apply in respect of each reorganisation scheme that is given effect to by Order in Council, except to the extent that the reorganisation scheme provides that the clauses are---
+    (7) [Clauses 45][598] and [46][599] of Schedule 3 apply in respect of each reorganisation scheme that is given effect to by Order in Council, except to the extent that the reorganisation scheme provides that the clauses are---
         
     *   (a) amended in their application by the reorganisation scheme; or
     
     *   (b) declared not to apply.
     
-    (8) [Clauses 47 to 54][592] of Schedule 3 apply to each reorganisation scheme that is given effect to by Order in Council.
+    (8) [Clauses 47 to 54][600] of Schedule 3 apply to each reorganisation scheme that is given effect to by Order in Council.
     
     (9) In this section,---
     
-    _final proposal_ means a final proposal to which [clause 33][589] of Schedule 3 applies
+    _final proposal_ means a final proposal to which [clause 33][597] of Schedule 3 applies
     
-    _reorganisation scheme_ means a reorganisation scheme prepared and issued under [clause 41(2)][593] of Schedule 3\.
+    _reorganisation scheme_ means a reorganisation scheme prepared and issued under [clause 41(2)][601] of Schedule 3\.
     
-    Section 25: replaced, on 5 December 2012, by [section 14][594] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 25: replaced, on 5 December 2012, by [section 14][602] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 26 Power to amend reorganisation schemes
     
@@ -2210,11 +2227,11 @@ Structure and reorganisation of local government
     
     (3) In this section, _reorganisation scheme_ means---
         
-    *   (a) a reorganisation scheme prepared under [Schedule 3][518] and given effect to by Order in Council:
+    *   (a) a reorganisation scheme prepared under [Schedule 3][525] and given effect to by Order in Council:
     
-    *   (b) a reorganisation scheme prepared and given effect to under the [Local Government Act 1974][595].
+    *   (b) a reorganisation scheme prepared and given effect to under the [Local Government Act 1974][603].
     
-    Compare: 1974 No 66 [s 37ZZZO][596]
+    Compare: 1974 No 66 [s 37ZZZO][604]
 
 ##### 26A Duties of local authorities in relation to local government reorganisation
     
@@ -2232,23 +2249,23 @@ Structure and reorganisation of local government
     
     *   (c) have a significant negative impact on the assets or liabilities that may be transferred to any local authority in the implementation of the final proposal.
     
-    Section 26A: inserted, on 5 December 2012, by [section 15][597] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 26A: inserted, on 5 December 2012, by [section 15][605] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 27 Application to be called city council or district council
     
-*   (1) A territorial authority that wishes to be called a city council or a district council may, instead of making a reorganisation application under [Schedule 3][518], apply to the Local Government Commission.
+*   (1) A territorial authority that wishes to be called a city council or a district council may, instead of making a reorganisation application under [Schedule 3][525], apply to the Local Government Commission.
     
     (2) The Commission may refer the application to the Minister for the preparation of an Order in Council to give effect to it, if the Commission considers that---
         
     *   (a) the application should be approved; and
     
-    *   (b) in the case of a territorial authority wishing to be called a city council, the district of the territorial authority meets the criteria specified in [clause 7][598] of Schedule 3\.
+    *   (b) in the case of a territorial authority wishing to be called a city council, the district of the territorial authority meets the criteria specified in [clause 7][606] of Schedule 3\.
     
     (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, give effect to the application.
     
-    (4) The Order in Council may consequentially amend [Part 2][549] of Schedule 2\.
+    (4) The Order in Council may consequentially amend [Part 2][557] of Schedule 2\.
     
-    Section 27(1): amended, on 5 December 2012, by [section 16][599] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 27(1): amended, on 5 December 2012, by [section 16][607] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 27A Change of name of unitary authorities
     
@@ -2256,15 +2273,15 @@ Structure and reorganisation of local government
     
     (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, give effect to the application.
     
-    (3) The Order in Council may consequentially amend [Part 2][549] of Schedule 2\.
+    (3) The Order in Council may consequentially amend [Part 2][557] of Schedule 2\.
     
-    Section 27A: inserted, on 5 December 2012, by [section 17][600] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 27A: inserted, on 5 December 2012, by [section 17][608] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 27B Orders in Council to be published in _Gazette_
     
 *   An Order in Council made under any of [sections 24A to 27A][36] must be published in the _Gazette_.
     
-    Section 27B: inserted, on 5 December 2012, by [section 17][600] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 27B: inserted, on 5 December 2012, by [section 17][608] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 3---Local Government Commission
 
@@ -2272,7 +2289,7 @@ Structure and reorganisation of local government
     
 *   There continues to be a Local Government Commission.
     
-    Compare: 1974 No 66 [s 37V][601]
+    Compare: 1974 No 66 [s 37V][609]
 
 ##### 29 Commission is body corporate with full powers
     
@@ -2296,13 +2313,13 @@ Structure and reorganisation of local government
     
     *   (b) promote good practice relating to a local authority or to local government generally.
     
-    Compare: 1974 No 66 [s 37W][602]
+    Compare: 1974 No 66 [s 37W][610]
 
 ##### 31 Report to Minister on matters relating to local government
     
 *   (1) The Commission may consider, report on, and make recommendations to the Minister and any relevant local authority on matters relating to a local authority or local government considered appropriate by the Commission.
     
-    (1A) The Commission may consider, report on, and make recommendations to the Minister or any relevant local authority, or both, on any matter arising in the performance of its functions and exercise of its powers under [Schedule 3][518].
+    (1A) The Commission may consider, report on, and make recommendations to the Minister or any relevant local authority, or both, on any matter arising in the performance of its functions and exercise of its powers under [Schedule 3][525].
     
     (2) The Commission must consider, report on, and make recommendations to the Minister and any relevant local authority on matters relating to a local authority or local government that are referred to the Commission by the Minister.
     
@@ -2316,13 +2333,13 @@ Structure and reorganisation of local government
     
     *   (b) if the Commission does not specify a date, within 20 working days after receiving a report or recommendation.
     
-    Compare: 1974 No 66 [s 37X][603]
+    Compare: 1974 No 66 [s 37X][611]
     
-    Section 31(1A): inserted, on 5 December 2012, by [section 18][604] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 31(1A): inserted, on 5 December 2012, by [section 18][612] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 31A Minister's expectations of Commission in relation to local government reorganisation
     
-*   (1) The Minister may, by notice in writing to the Commission, specify measures and expectations relating to the Commission's performance of its functions and exercise of its powers under [Schedule 3][518].
+*   (1) The Minister may, by notice in writing to the Commission, specify measures and expectations relating to the Commission's performance of its functions and exercise of its powers under [Schedule 3][525].
     
     (2) Without limiting subsection (1), the Minister may specify---
         
@@ -2340,17 +2357,17 @@ Structure and reorganisation of local government
         
     *   (a) any measures and expectations given to it by the Minister under subsection (1); and
     
-    *   (b) a statement of the impact that meeting those measures and expectations will have on the performance of its functions and exercise of its powers under [Schedule 3][518].
+    *   (b) a statement of the impact that meeting those measures and expectations will have on the performance of its functions and exercise of its powers under [Schedule 3][525].
     
-    (5) The Commission must, in its report to the Minister under [clause 31][605] of Schedule 4, describe how and the extent to which it has met the measures and expectations specified under subsection (1).
+    (5) The Commission must, in its report to the Minister under [clause 31][613] of Schedule 4, describe how and the extent to which it has met the measures and expectations specified under subsection (1).
     
-    Section 31A: inserted, on 5 December 2012, by [section 19][606] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 31A: inserted, on 5 December 2012, by [section 19][614] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 32 Review of operation of Act and Local Electoral Act 2001
     
 *   (1) The Commission must---
         
-    *   (a) review the operation of this Act and the [Local Electoral Act 2001][543]; and
+    *   (a) review the operation of this Act and the [Local Electoral Act 2001][551]; and
     
     *   (b) present a report on the review to the Minister.
     
@@ -2364,7 +2381,7 @@ Structure and reorganisation of local government
     
     *   (c) the impact of increasing participation in local government and improving representation on local authorities.
     
-    (4) The Commission must, no later than 1 July 2005, present a report to the Minister if it considers that amendments should be made to this Act or the [Local Electoral Act 2001][543] before the triennial general election of members of local authorities in 2007\.
+    (4) The Commission must, no later than 1 July 2005, present a report to the Minister if it considers that amendments should be made to this Act or the [Local Electoral Act 2001][551] before the triennial general election of members of local authorities in 2007\.
 
 ##### 33 Membership of Commission
     
@@ -2378,15 +2395,15 @@ Structure and reorganisation of local government
     
     (3) The powers of the Commission are not affected by any vacancy in its membership.
     
-    (4) No person is to be treated as employed in the service of the Crown for the purposes of the [Government Superannuation Fund Act 1956][607] or the [State Sector Act 1988][608] because the person is a member of the Commission.
+    (4) No person is to be treated as employed in the service of the Crown for the purposes of the [Government Superannuation Fund Act 1956][615] or the [State Sector Act 1988][616] because the person is a member of the Commission.
     
     (5) In this section, _tikanga Māori_ means Māori custom and practice.
     
-    Compare: 1974 No 66 [s 37Y][609]
+    Compare: 1974 No 66 [s 37Y][617]
 
 ##### 34 Commission is Commission of Inquiry
     
-*   (1) The Commission is to be treated as a Commission of Inquiry under the [Commissions of Inquiry Act 1908][610] and, subject to this Act, the provisions of that Act (except [sections 2][611], [4A][612], and [11 to 15][613]), as far as they are applicable, apply accordingly.
+*   (1) The Commission is to be treated as a Commission of Inquiry under the [Commissions of Inquiry Act 1908][618] and, subject to this Act, the provisions of that Act (except [sections 2][619], [4A][620], and [11 to 15][621]), as far as they are applicable, apply accordingly.
     
     (2) The chairperson of the Commission, or any other person (being a member of the Commission or an officer of the Public Service) purporting to act by direction or with the authority of the chairperson, may---
         
@@ -2394,25 +2411,25 @@ Structure and reorganisation of local government
     
     *   (b) do any other act preliminary or incidental to the investigation or consideration of any matter by the Commission.
     
-    Compare: 1974 No 66 [Schedule 3A cl 8][614]
+    Compare: 1974 No 66 [Schedule 3A cl 8][622]
 
 ##### 35 Evidence before Commission
     
-*   (1) The [Evidence Act 2006][615] applies to the Commission and its members, and to all proceedings before the Commission, in the same manner as if the Commission were a court within the meaning of that Act.
+*   (1) The [Evidence Act 2006][623] applies to the Commission and its members, and to all proceedings before the Commission, in the same manner as if the Commission were a court within the meaning of that Act.
     
     (2) However, the Commission may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matter being dealt with, whether or not the same would be admissible in a court of law.
     
-    Compare: 1974 No 66 [Schedule 3A cl 9][614]
+    Compare: 1974 No 66 [Schedule 3A cl 9][622]
     
-    Section 35(1): amended, on 1 August 2007, by [section 216][616] of the Evidence Act 2006 (2006 No 69).
+    Section 35(1): amended, on 1 August 2007, by [section 216][624] of the Evidence Act 2006 (2006 No 69).
 
 ##### 36 Further provisions relating to Commission and its proceedings
     
-*   [Schedule 4][519] applies in respect of the Commission and its proceedings.
+*   [Schedule 4][526] applies in respect of the Commission and its proceedings.
 
 ##### 37 Appeals against decisions of Commission
     
-*   [Schedule 5][520] applies in respect of appeals against decisions of the Commission.
+*   [Schedule 5][527] applies in respect of appeals against decisions of the Commission.
 
 ## Part 4  
 Governance and management of local authorities and community boards
@@ -2465,7 +2482,7 @@ Governance and management of local authorities and community boards
     
     *   (f) governance structures and processes, membership, and delegations; and
     
-    *   (g) meeting processes (with specific reference to the applicable provisions of the [Local Government Official Information and Meetings Act 1987][617] and standing orders); and
+    *   (g) meeting processes (with specific reference to the applicable provisions of the [Local Government Official Information and Meetings Act 1987][625] and standing orders); and
     
     *   (h) consultation policies; and
     
@@ -2487,9 +2504,9 @@ Governance and management of local authorities and community boards
     
     (3) A local authority must update its governance statement as it considers appropriate.
     
-    Section 40(1)(ba): inserted, on 14 October 2007, by [section 7][618] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 40(1)(ba): inserted, on 14 October 2007, by [section 7][626] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 40(1)(ja): inserted, on 5 December 2012, by [section 20][619] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 40(1)(ja): inserted, on 5 December 2012, by [section 20][627] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Governing bodies and chief executives
 
@@ -2497,11 +2514,11 @@ Governance and management of local authorities and community boards
     
 *   (1) A regional council must have a governing body consisting of---
         
-    *   (a) members elected in accordance with the [Local Electoral Act 2001][543]; and
+    *   (a) members elected in accordance with the [Local Electoral Act 2001][551]; and
     
-    *   (b) a chairperson elected by members of the regional council in accordance with [clause 25][620] of Schedule 7\.
+    *   (b) a chairperson elected by members of the regional council in accordance with [clause 25][628] of Schedule 7\.
     
-    (2) A territorial authority must have a governing body consisting of members and a mayor elected in accordance with the [Local Electoral Act 2001][543].
+    (2) A territorial authority must have a governing body consisting of members and a mayor elected in accordance with the [Local Electoral Act 2001][551].
     
     (3) A governing body of a local authority is responsible and democratically accountable for the decision-making of the local authority.
     
@@ -2509,7 +2526,7 @@ Governance and management of local authorities and community boards
     
     (5) An employee of a local authority who is elected to be a member of the local authority's governing body must resign from his or her position as an employee of the local authority before taking up his or her position as a member of the local authority.
     
-    Compare: 1974 No 66 [ss 101C][621], [101CA][622], [101N][623], [101T][624]
+    Compare: 1974 No 66 [ss 101C][629], [101CA][630], [101N][631], [101T][632]
 
 ##### 41A Role and powers of mayors
     
@@ -2537,13 +2554,13 @@ Governance and management of local authorities and community boards
     
     (4) However, nothing in subsection (3) limits or prevents a territorial authority from---
         
-    *   (a) removing, in accordance with [clause 18][625] of Schedule 7, a deputy mayor appointed by the mayor under subsection (3)(a); or
+    *   (a) removing, in accordance with [clause 18][633] of Schedule 7, a deputy mayor appointed by the mayor under subsection (3)(a); or
     
-    *   (b) discharging or reconstituting, in accordance with [clause 30][540] of Schedule 7, a committee established by the mayor under subsection (3)(b); or
+    *   (b) discharging or reconstituting, in accordance with [clause 30][548] of Schedule 7, a committee established by the mayor under subsection (3)(b); or
     
-    *   (c) appointing, in accordance with [clause 30][540] of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)(b); or
+    *   (c) appointing, in accordance with [clause 30][548] of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)(b); or
     
-    *   (d) discharging, in accordance with[clause 31][626] of Schedule 7, a chairperson appointed by the mayor under subsection (3)(c).
+    *   (d) discharging, in accordance with[clause 31][634] of Schedule 7, a chairperson appointed by the mayor under subsection (3)(c).
     
     (5) A mayor is a member of each committee of a territorial authority.
     
@@ -2551,15 +2568,15 @@ Governance and management of local authorities and community boards
     
     (7) To avoid doubt,---
         
-    *   (a) [clause 17(1)][627] of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)(a):
+    *   (a) [clause 17(1)][635] of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)(a):
     
-    *   (b) [clauses 25][620] and [26(3)][628] of Schedule 7 do not apply to the appointment of the chairperson of a committee of a territorial authority established under subsection (3)(b) unless the mayor of the territorial authority declines to exercise the power in subsection (3)(c) in respect of that committee.
+    *   (b) [clauses 25][628] and [26(3)][636] of Schedule 7 do not apply to the appointment of the chairperson of a committee of a territorial authority established under subsection (3)(b) unless the mayor of the territorial authority declines to exercise the power in subsection (3)(c) in respect of that committee.
     
-    Section 41A: inserted, on 12 October 2013, by [section 21][629] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 41A: inserted, on 12 October 2013, by [section 21][637] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 42 Chief executive
     
-*   (1) A local authority must, in accordance with [clauses 33][630] and [34][631] of Schedule 7, appoint a chief executive.
+*   (1) A local authority must, in accordance with [clauses 33][638] and [34][639] of Schedule 7, appoint a chief executive.
     
     (2) A chief executive appointed under subsection (1) is responsible to his or her local authority for---
         
@@ -2587,17 +2604,17 @@ Governance and management of local authorities and community boards
     
     (4) For the purposes of any other Act, a chief executive appointed under this section is the principal administrative officer of the local authority.
     
-    Compare: 1974 No 66 [ss 119C][632], [119D][633]
+    Compare: 1974 No 66 [ss 119C][640], [119D][641]
     
-    Section 42(2)(g): amended, on 5 December 2012, by [section 22(1)][634] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 42(2)(g): amended, on 5 December 2012, by [section 22(1)][642] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 42(2)(h): amended, on 5 December 2012, by [section 22(2)][634] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 42(2)(h): amended, on 5 December 2012, by [section 22(2)][642] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Other governance matters
 
 ##### 43 Certain members indemnified
     
-*   (1) A member of a local authority (or a committee, community board, or other subordinate decision-making body of that local authority) is indemnified by that local authority, whether or not that member was elected to that local authority or community board under the [Local Electoral Act 2001][543] or appointed by the local authority, for---
+*   (1) A member of a local authority (or a committee, community board, or other subordinate decision-making body of that local authority) is indemnified by that local authority, whether or not that member was elected to that local authority or community board under the [Local Electoral Act 2001][551] or appointed by the local authority, for---
         
     *   (a) costs and damages for any civil liability arising from any action brought by a third party if the member was acting in good faith and in pursuance (or intended pursuance) of the responsibilities or powers of the local authority (or committee, community board, or other subordinate decision-making body of that local authority); and
     
@@ -2623,7 +2640,7 @@ Governance and management of local authorities and community boards
     
     (3) The Auditor-General must send copies of the report to the Minister and every member of the local authority.
     
-    Compare: 1974 No 66 [s 706A][635]
+    Compare: 1974 No 66 [s 706A][643]
 
 ##### 45 Local authority to respond to Auditor-General
     
@@ -2645,7 +2662,7 @@ Governance and management of local authorities and community boards
     
     (5) The local authority must, as soon as practicable after the expiry of the time for forwarding its response, table in a meeting of the local authority that is open to the public a copy of the Auditor-General's report, the local authority's response, and any response of an individual member of the local authority not incorporated in the local authority's response.
     
-    Compare: 1974 No 66 [s 706B][636]
+    Compare: 1974 No 66 [s 706B][644]
 
 ##### 46 Members of local authority liable for loss
     
@@ -2671,7 +2688,7 @@ Governance and management of local authorities and community boards
         
         
     
-    Compare: 1974 No 66 [s 706C][637]
+    Compare: 1974 No 66 [s 706C][645]
 
 ##### 47 Members may be required to pay costs of proceeding in certain cases
     
@@ -2701,11 +2718,11 @@ Governance and management of local authorities and community boards
     
     *   (b) the member acted honestly and reasonably and, having regard to all the circumstances of the case, the member ought fairly to be excused.
     
-    Compare: 1974 No 66 [s 706][638]
+    Compare: 1974 No 66 [s 706][646]
 
 ##### 48 Further provisions of Schedule 7
     
-*   The following activities of local authorities must be carried out in accordance with [Part 1][639] of Schedule 7:
+*   The following activities of local authorities must be carried out in accordance with [Part 1][647] of Schedule 7:
         
     *   (a) vacation of office by members:
     
@@ -2729,13 +2746,13 @@ Governance and management of local authorities and community boards
     
     *   (k) adoption of a remuneration and employment policy.
     
-    Section 48(k): inserted, on 5 December 2012, by [section 23][640] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 48(k): inserted, on 5 December 2012, by [section 23][648] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 2---Community boards
 
 ##### 49 Establishment of community boards
     
-*   (1) A community board must be established for each community constituted, in accordance with [Schedule 6][521], by---
+*   (1) A community board must be established for each community constituted, in accordance with [Schedule 6][528], by---
         
     *   (a) an Order in Council made under [section 25][37]; or
     
@@ -2745,17 +2762,17 @@ Governance and management of local authorities and community boards
     
     (2) The community board must be described as the ""\[_name of community_\] Community Board"".
     
-    Compare: 1974 No 66 [s 101ZG][641]
+    Compare: 1974 No 66 [s 101ZG][649]
     
-    Section 49(1)(a): amended, on 5 December 2012, by [section 24][642] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 49(1)(a): amended, on 5 December 2012, by [section 24][650] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 50 Membership of community boards
     
 *   The membership of a community board consists of---
         
-    *   (a) members elected under the [Local Electoral Act 2001][543]; and
+    *   (a) members elected under the [Local Electoral Act 2001][551]; and
     
-    *   (b) members (if any) of, and appointed in accordance with the [Local Electoral Act 2001][543] by, the territorial authority in whose district the relevant community is situated.
+    *   (b) members (if any) of, and appointed in accordance with the [Local Electoral Act 2001][551] by, the territorial authority in whose district the relevant community is situated.
     
     
 
@@ -2769,7 +2786,7 @@ Governance and management of local authorities and community boards
     
     *   (c) is not a committee of the relevant territorial authority.
     
-    Compare: 1974 No 66 [s 101ZP][643]
+    Compare: 1974 No 66 [s 101ZP][651]
 
 ##### 52 Role of community boards
     
@@ -2787,13 +2804,13 @@ Governance and management of local authorities and community boards
     
     *   (f) undertake any other responsibilities that are delegated to it by the territorial authority.
     
-    Compare: 1974 No 66 [s 101ZY][644]
+    Compare: 1974 No 66 [s 101ZY][652]
 
 ##### 53 Powers of community boards
     
 *   (1) A community board has the powers that are---
         
-    *   (a) delegated to it by the relevant territorial authority in accordance with [clause 32][645] of Schedule 7; or
+    *   (a) delegated to it by the relevant territorial authority in accordance with [clause 32][653] of Schedule 7; or
     
     *   (b) prescribed by the Order in Council constituting its community.
     
@@ -2805,13 +2822,13 @@ Governance and management of local authorities and community boards
     
     *   (b) appoint, suspend, or remove staff.
     
-    Compare: 1974 No 66 [ss 101ZZ][646], [101ZZA][647]
+    Compare: 1974 No 66 [ss 101ZZ][654], [101ZZA][655]
 
 ##### 54 Application of other provisions to community boards
     
-*   (1) [Part 2][648] of Schedule 7 applies to community boards.
+*   (1) [Part 2][656] of Schedule 7 applies to community boards.
     
-    (2) [Part 1][639] of Schedule 7 (excluding [clauses 15][649] and [33 to 36][630]) applies to community boards, with all necessary modifications, as if they were local authorities.
+    (2) [Part 1][647] of Schedule 7 (excluding [clauses 15][657] and [33 to 36][638]) applies to community boards, with all necessary modifications, as if they were local authorities.
 
 ## Part 5  
 Council-controlled organisations and council organisations
@@ -2834,7 +2851,7 @@ Council-controlled organisations and council organisations
     
     (2) The consultation required in subsection (1) may be undertaken as part of another proposal or as part of a long-term plan.
     
-    Section 56(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 56(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Directors
 
@@ -2874,7 +2891,7 @@ Council-controlled organisations and council organisations
     
     *   (d) if the council-controlled organisation is a council-controlled trading organisation, conduct its affairs in accordance with sound business practice.
     
-    (2) In subsection (1)(b), _good employer_ has the same meaning as in [clause 36][650] of Schedule 7\.
+    (2) In subsection (1)(b), _good employer_ has the same meaning as in [clause 36][658] of Schedule 7\.
 
 ##### 60 Decisions relating to operation of council-controlled organisations
     
@@ -2884,7 +2901,7 @@ Council-controlled organisations and council organisations
     
     *   (b) its constitution.
     
-    Compare: 1974 No 66 [s 594R][651]
+    Compare: 1974 No 66 [s 594R][659]
 
 ##### 61 Certain goods and services to be supplied under purchase contracts
     
@@ -2894,25 +2911,25 @@ Council-controlled organisations and council organisations
     
 *   A local authority must not give any guarantee, indemnity, or security in respect of the performance of any obligation by a council-controlled trading organisation.
     
-    Compare: 1974 No 66 [s 594ZP][652]
+    Compare: 1974 No 66 [s 594ZP][660]
 
 ##### 63 Restriction on lending to council-controlled trading organisation
     
 *   A local authority must not lend money, or provide any other financial accommodation, to a council-controlled trading organisation on terms and conditions that are more favourable to the council-controlled trading organisation than those that would apply if the local authority were (without charging any rate or rate revenue as security) borrowing the money or obtaining the financial accommodation.
     
-    Compare: 1974 No 66 [s 594ZPA][653]
+    Compare: 1974 No 66 [s 594ZPA][661]
 
 #### Statements of intent
 
 ##### 64 Statements of intent for council-controlled organisations
     
-*   (1) A council-controlled organisation must have a statement of intent that complies with [clauses 9][654] and [10][655] of Schedule 8\.
+*   (1) A council-controlled organisation must have a statement of intent that complies with [clauses 9][662] and [10][663] of Schedule 8\.
     
     (2) \[Repealed\]
     
     (3) \[Repealed\]
     
-    (4) [Schedule 8][523] applies to statements of intent of council-controlled organisations.
+    (4) [Schedule 8][530] applies to statements of intent of council-controlled organisations.
     
     (5) A statement of intent---
         
@@ -2922,13 +2939,13 @@ Council-controlled organisations and council organisations
     
     (6) Despite this section, an organisation that becomes a council-controlled organisation not more than 6 months before the end of a financial year is not required to prepare a statement of intent for that financial year.
     
-    Section 64(1): amended, on 27 November 2010, by [section 7][656] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 64(1): amended, on 27 November 2010, by [section 7][664] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 64(2): repealed, on 7 July 2004, by [section 4][657] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 64(2): repealed, on 7 July 2004, by [section 4][665] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 64(3): repealed, on 7 July 2004, by [section 4][657] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 64(3): repealed, on 7 July 2004, by [section 4][665] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 64(6): added, on 28 June 2006, by [section 8][658] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 64(6): added, on 28 June 2006, by [section 8][666] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 #### Monitoring and reporting
 
@@ -2946,13 +2963,13 @@ Council-controlled organisations and council organisations
         
     *   (a) agree to the statement of intent; or
     
-    *   (b) if it does not agree, take all practicable steps under [clause 5][659] of Schedule 8 to require the statement of intent to be modified.
+    *   (b) if it does not agree, take all practicable steps under [clause 5][667] of Schedule 8 to require the statement of intent to be modified.
     
-    Section 65(1)(b): amended, on 7 July 2004, by [section 5(1)][660] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 65(1)(b): amended, on 7 July 2004, by [section 5(1)][668] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 65(2): amended, on 7 July 2004, by [section 5(2)][660] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 65(2): amended, on 7 July 2004, by [section 5(2)][668] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 65(2)(a): amended, on 7 July 2004, by [section 5(3)][660] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 65(2)(a): amended, on 7 July 2004, by [section 5(3)][668] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 66 Half-yearly report
     
@@ -2960,7 +2977,7 @@ Council-controlled organisations and council organisations
     
     (2) The report must include the information required to be included by its statement of intent.
     
-    Compare: 1974 No 66 [s 594Z][661]
+    Compare: 1974 No 66 [s 594Z][669]
 
 ##### 67 Annual report
     
@@ -2974,7 +2991,7 @@ Council-controlled organisations and council organisations
     
     (3) \[Repealed\]
     
-    Section 67(3): repealed, on 7 July 2004, by [section 6][662] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 67(3): repealed, on 7 July 2004, by [section 6][670] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 68 Content of reports on operations of council-controlled organisations
     
@@ -2990,7 +3007,7 @@ Council-controlled organisations and council organisations
     
     *   (b) state the dividend, if any, authorised to be paid or the maximum dividend proposed to be paid by that organisation for its equity securities (other than fixed interest securities) for the financial year to which the report relates.
     
-    Compare: 1974 No 66 [s 594Z][661]
+    Compare: 1974 No 66 [s 594Z][669]
 
 ##### 69 Financial statements and auditor's report
     
@@ -3008,21 +3025,21 @@ Council-controlled organisations and council organisations
     
     (2) The audited financial statements under subsection (1)(a) must be prepared in accordance with generally accepted accounting practice.
     
-    Compare: 1974 No 66 [s 594Z][661]
+    Compare: 1974 No 66 [s 594Z][669]
 
 ##### 70 Auditor-General is auditor of council-controlled organisations
     
-*   Despite [sections 207P to 207V][663] of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in [section 4][664] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   Despite [sections 207P to 207V][671] of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in [section 4][672] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Compare: 1974 No 66 [s 594ZC][665]
+    Compare: 1974 No 66 [s 594ZC][673]
     
-    Section 70: amended, on 1 April 2014, by [section 126][554] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 70: amended, on 1 April 2014, by [section 126][562] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 71 Protection from disclosure of sensitive information
     
-*   Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, or half-yearly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the [Local Government Official Information and Meetings Act 1987][617].
+*   Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, or half-yearly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the [Local Government Official Information and Meetings Act 1987][625].
     
-    Compare: 1974 No 66 [s 594ZA][666]
+    Compare: 1974 No 66 [s 594ZA][674]
 
 ##### 71A Application of Part to listed companies
     
@@ -3046,29 +3063,29 @@ Council-controlled organisations and council organisations
     
     _controlling companies_ means 2 or more companies whose degree of control over a council-controlled organisation, if exercisable by one notional company, would make the notional company a holding company of the council-controlled organisation
     
-    _holding company_ has the same meaning as in [section 5][667] of the Companies Act 1993\.
+    _holding company_ has the same meaning as in [section 5][675] of the Companies Act 1993\.
     
-    Section 71A: inserted, on 7 July 2004, by [section 7][668] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 71A: inserted, on 7 July 2004, by [section 7][676] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 72 Application of Act to related companies
     
-*   [Sections 57 to 71][84] apply to a company as if it were a council-controlled organisation if the company is a related company (within the meaning of [section 2(3) and (4)][669] of the Companies Act 1993) of a council-controlled organisation.
+*   [Sections 57 to 71][84] apply to a company as if it were a council-controlled organisation if the company is a related company (within the meaning of [section 2(3) and (4)][677] of the Companies Act 1993) of a council-controlled organisation.
     
-    Section 72: substituted, on 7 July 2004, by [section 8][670] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 72: substituted, on 7 July 2004, by [section 8][678] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 #### Transfer of undertakings
 
 ##### 73 Transfer of undertakings to council-controlled organisations
     
-*   [Schedule 9][524] applies to the transfer of an existing undertaking to a council-controlled organisation.
+*   [Schedule 9][531] applies to the transfer of an existing undertaking to a council-controlled organisation.
 
 #### Application of Local Government Official Information and Meetings Act 1987 and Ombudsmen Act 1975 to council-controlled organisations
 
 ##### 74 Official information
     
-*   (1) [Parts 1 to 6][671] of the Local Government Official Information and Meetings Act 1987 apply to a council-controlled organisation as if that organisation were a local authority.
+*   (1) [Parts 1 to 6][679] of the Local Government Official Information and Meetings Act 1987 apply to a council-controlled organisation as if that organisation were a local authority.
     
-    (2) The [Ombudsmen Act 1975][672] applies to a council-controlled organisation as if that organisation were listed in [Part 3][673] of Schedule 1 of that Act.
+    (2) The [Ombudsmen Act 1975][680] applies to a council-controlled organisation as if that organisation were listed in [Part 3][681] of Schedule 1 of that Act.
 
 ## Part 6  
 Planning, decision-making, and accountability
@@ -3087,15 +3104,15 @@ Planning, decision-making, and accountability
     
     *   (e) \[Repealed\]
     
-    *   (f) prescribes the processes and general content of the long-term plan, the annual plan, and the annual report (all of which are prescribed in more detail in [Schedule 10][525]):
+    *   (f) prescribes the processes and general content of the long-term plan, the annual plan, and the annual report (all of which are prescribed in more detail in [Schedule 10][532]):
     
     *   (g) prescribes the obligations of local authorities in relation to financial management:
     
     *   (h) provides for borrowing by local authorities.
     
-    Section 75(e): repealed, on 27 November 2010, by [section 8][674] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 75(e): repealed, on 27 November 2010, by [section 8][682] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 75(f): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 75(f): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 1---Planning and decision-making
 
@@ -3141,7 +3158,7 @@ Planning, decision-making, and accountability
     
     (2) This section is subject to [section 79][114].
     
-    Section 77(1)(b)(i): amended, on 5 December 2012, by [section 25][675] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 77(1)(b)(i): amended, on 5 December 2012, by [section 25][683] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 78 Community views in relation to decisions
     
@@ -3153,7 +3170,7 @@ Planning, decision-making, and accountability
     
     (4) This section is subject to [section 79][114].
     
-    Section 78(2): repealed, on 27 November 2010, by [section 9][676] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 78(2): repealed, on 27 November 2010, by [section 9][684] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 79 Compliance with procedures in relation to decisions
     
@@ -3181,13 +3198,13 @@ Planning, decision-making, and accountability
     
     *   (c) the extent to which the nature of a decision, or the circumstances in which a decision is taken, allow the local authority scope and opportunity to consider a range of options or the views and preferences of other persons.
     
-    (3) The nature and circumstances of a decision referred to in subsection (2)(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the [Resource Management Act 1991][677]).
+    (3) The nature and circumstances of a decision referred to in subsection (2)(c) include the extent to which the requirements for such decision-making are prescribed in or under any other enactment (for example, the [Resource Management Act 1991][685]).
     
     (4) Subsection (3) is for the avoidance of doubt.
     
-    Section 79(3): added, on 7 July 2004, by [section 9][678] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 79(3): added, on 7 July 2004, by [section 9][686] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 79(4): added, on 7 July 2004, by [section 9][678] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 79(4): added, on 7 July 2004, by [section 9][686] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 80 Identification of inconsistent decisions
     
@@ -3249,7 +3266,7 @@ Planning, decision-making, and accountability
     
     *   (c) the nature and significance of the decision or matter, including its likely impact from the perspective of the persons who will or may be affected by, or have an interest in, the decision or matter; and
     
-    *   (d) the provisions of [Part 1][671] of the Local Government Official Information and Meetings Act 1987 (which Part, among other things, sets out the circumstances in which there is good reason for withholding local authority information); and
+    *   (d) the provisions of [Part 1][679] of the Local Government Official Information and Meetings Act 1987 (which Part, among other things, sets out the circumstances in which there is good reason for withholding local authority information); and
     
     *   (e) the costs and benefits of any consultation process or procedure.
     
@@ -3307,15 +3324,15 @@ Planning, decision-making, and accountability
         
         
     
-    *   (j) ensure that, except as otherwise provided by [Part 7][679] of the Local Government Official Information and Meetings Act 1987, every meeting at which submissions are heard or at which the local authority, community board, or committee deliberates on the proposal is open to the public; and
+    *   (j) ensure that, except as otherwise provided by [Part 7][687] of the Local Government Official Information and Meetings Act 1987, every meeting at which submissions are heard or at which the local authority, community board, or committee deliberates on the proposal is open to the public; and
     
-    *   (k) subject to the [Local Government Official Information and Meetings Act 1987][617], make all written submissions on the proposal available to the public.
+    *   (k) subject to the [Local Government Official Information and Meetings Act 1987][625], make all written submissions on the proposal available to the public.
     
     (2) The period specified in the statement included under subsection (1)(g) must be a period of not less than 1 month beginning with the date of the first publication of the public notice.
     
     (3) This section does not prevent a local authority from requesting or considering, before making a decision, comment or advice from an officer of the local authority or any other person in respect of the proposal or any submission or both.
     
-    Compare: 1974 No 66 [s 716A][680]
+    Compare: 1974 No 66 [s 716A][688]
 
 ##### 83A Combined or concurrent consultation
     
@@ -3327,7 +3344,7 @@ Planning, decision-making, and accountability
     
     *   (b) is for the avoidance of doubt.
     
-    Section 83A: inserted, on 7 July 2004, by [section 10][681] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 83A: inserted, on 7 July 2004, by [section 10][689] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 84 Special consultative procedure in relation to long-term plan
     
@@ -3373,23 +3390,23 @@ Planning, decision-making, and accountability
     
     (5) For the avoidance of doubt, the report under subsection (4) must not comment on the merits of any policy content of the statement.
     
-    Section 84 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(1): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(1): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(2)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(2)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(3): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(3): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(4): amended, on 5 December 2012, by [section 26][682] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 84(4): amended, on 5 December 2012, by [section 26][690] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 84(4)(b): amended, on 27 November 2010, by [section 10(1)][683] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(4)(b): amended, on 27 November 2010, by [section 10(1)][691] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 84(4)(c): repealed, on 27 November 2010, by [section 10(2)][683] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 84(4)(c): repealed, on 27 November 2010, by [section 10(2)][691] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 85 Use of special consultative procedure in relation to annual plan
     
@@ -3397,21 +3414,21 @@ Planning, decision-making, and accountability
     
     (2) A statement of proposal to which subsection (1) applies must also include---
         
-    *   (a) the information that, under [clauses 3 to 5][684] of Schedule 10, is specified, in relation to the year to which the draft annual plan relates, in the long-term plan in relation to each group of activities; and
+    *   (a) the information that, under [clauses 3 to 5][692] of Schedule 10, is specified, in relation to the year to which the draft annual plan relates, in the long-term plan in relation to each group of activities; and
     
     *   (b) the reasons why any information included in the draft annual plan departs from information specified, in relation to the year to which the draft annual plan relates, in the long-term plan; and
     
     *   (c) if it is proposed that the making of an amendment to the long-term plan and the adoption of the annual plan should take place concurrently, the summary under [section 89][126] in relation to the amendment.
     
-    Section 85(2)(a): amended, on 27 November 2010, by [section 11][685] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 85(2)(a): amended, on 27 November 2010, by [section 11][693] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 85(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 85(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 85(2)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 85(2)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 85(2)(c): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 85(2)(c): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 85(2)(c): amended, on 7 July 2004, by [section 11][686] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 85(2)(c): amended, on 7 July 2004, by [section 11][694] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 86 Use of special consultative procedure in relation to making, amending, or revoking bylaws
     
@@ -3437,7 +3454,7 @@ Planning, decision-making, and accountability
     
     *   (c) a report on any relevant determinations by the local authority under [section 155][224].
     
-    Section 86: substituted, on 28 June 2006, by [section 9][687] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 86: substituted, on 28 June 2006, by [section 9][695] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 87 Other use of special consultative procedure
     
@@ -3467,7 +3484,7 @@ Planning, decision-making, and accountability
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 27 November 2010, by [section 12][688] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 88: repealed, on 27 November 2010, by [section 12][696] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 89 Summary of information
     
@@ -3509,19 +3526,19 @@ Planning, decision-making, and accountability
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 November 2010, by [section 13][689] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Heading: repealed, on 27 November 2010, by [section 13][697] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 91 Process for identifying community outcomes
     
 *   \[Repealed\]
     
-    Section 91: repealed, on 27 November 2010, by [section 13][689] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 91: repealed, on 27 November 2010, by [section 13][697] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 92 Obligation to report against community outcomes
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 27 November 2010, by [section 13][689] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 92: repealed, on 27 November 2010, by [section 13][697] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Planning
 
@@ -3555,7 +3572,7 @@ Planning, decision-making, and accountability
         
     *   (a) cover a period of not less than 10 consecutive financial years; and
     
-    *   (b) include the information required by [Part 1][690] of Schedule 10\.
+    *   (b) include the information required by [Part 1][698] of Schedule 10\.
     
     (8) A local authority must, in complying with the requirements of this Act in relation to the preparation and adoption of a long-term plan, act in such manner, and include in that plan such detail, as the local authority considers on reasonable grounds to be appropriate.
     
@@ -3581,29 +3598,29 @@ Planning, decision-making, and accountability
         
         
     
-    Section 93 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(1): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(1): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(3): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(3): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(4): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(4): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(5): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(5): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(6): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(6): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(7): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(7): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(8): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(8): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(9): amended, on 7 July 2004, by [section 12][691] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 93(9): amended, on 7 July 2004, by [section 12][699] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 93(10): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(10): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 93(10)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 93(10)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 94 Audit of long-term plan
     
@@ -3619,17 +3636,17 @@ Planning, decision-making, and accountability
     
     (3) For the avoidance of doubt, a report under subsection (1) must not comment on the merits of any policy content of the plan.
     
-    Section 94 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 94 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 94(1): amended, on 5 December 2012, by [section 27(1)][692] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 94(1): amended, on 5 December 2012, by [section 27(1)][700] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 94(1): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 94(1): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 94(1)(b): amended, on 27 November 2010, by [section 14(1)][693] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 94(1)(b): amended, on 27 November 2010, by [section 14(1)][701] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 94(1)(c): repealed, on 27 November 2010, by [section 14(2)][693] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 94(1)(c): repealed, on 27 November 2010, by [section 14(2)][701] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 94(2): amended, on 5 December 2012, by [section 27(2)][692] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 94(2): amended, on 5 December 2012, by [section 27(2)][700] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 95 Annual plan
     
@@ -3659,7 +3676,7 @@ Planning, decision-making, and accountability
     
     *   (b) contain appropriate references to the long-term plan in which the local authority's activities for the financial year covered by the annual plan are set out; and
     
-    *   (c) include the information required by [Part 2][694] of Schedule 10\.
+    *   (c) include the information required by [Part 2][702] of Schedule 10\.
     
     (7) A local authority must, within 1 month after the adoption of its annual plan,---
         
@@ -3675,17 +3692,17 @@ Planning, decision-making, and accountability
         
         
     
-    Compare: 1974 No 66 [s 223D(1), (3)--(5), (7)--(8)][572]
+    Compare: 1974 No 66 [s 223D(1), (3)--(5), (7)--(8)][580]
     
-    Section 95(4): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 95(4): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 95(5)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 95(5)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 95(5)(c): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 95(5)(c): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 95(6)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 95(6)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 95(6)(b): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 95(6)(b): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 96 Effect of resolution adopting long-term plan or annual plan
     
@@ -3697,19 +3714,19 @@ Planning, decision-making, and accountability
     
     (4) No person is entitled to require a local authority to implement the provisions of a long-term plan or an annual plan.
     
-    (5) This section applies subject to [Part 4A][695] of the Local Government (Rating) Act 2002\.
+    (5) This section applies subject to [Part 4A][703] of the Local Government (Rating) Act 2002\.
     
-    Section 96 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 96 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 96(1): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 96(1): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 96(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 96(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 96(3): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 96(3): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 96(4): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 96(4): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 96(5): added, on 28 June 2006, by [section 15(2)][552] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 96(5): added, on 28 June 2006, by [section 15(2)][560] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ##### 97 Certain decisions to be taken only if provided for in long-term plan
     
@@ -3729,25 +3746,25 @@ Planning, decision-making, and accountability
     
     *   (b) the proposal to provide for the decision was included in a statement of proposal prepared under [section 84][121].
     
-    (3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with [section 117B(3)(c)(i)][696] of the Local Government (Rating) Act 2002\.
+    (3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with [section 117B(3)(c)(i)][704] of the Local Government (Rating) Act 2002\.
     
-    Section 97 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 97 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 97(1)(c): repealed, on 27 November 2010, by [section 15][697] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 97(1)(c): repealed, on 27 November 2010, by [section 15][705] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 97(1)(d): repealed, on 27 November 2010, by [section 15][697] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 97(1)(d): repealed, on 27 November 2010, by [section 15][705] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 97(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 97(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 97(2)(a): amended, on 28 June 2006, by [section 10][698] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 97(2)(a): amended, on 28 June 2006, by [section 10][706] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 97(3): added, on 28 June 2006, by [section 15(3)][552] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 97(3): added, on 28 June 2006, by [section 15(3)][560] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
 
 ### Subpart 2---Reporting
 
 ##### 98 Annual report
     
-*   (1) A local authority must prepare and adopt in respect of each financial year an annual report containing in respect of that year the information required by [Part 3][699] of Schedule 10\.
+*   (1) A local authority must prepare and adopt in respect of each financial year an annual report containing in respect of that year the information required by [Part 3][707] of Schedule 10\.
     
     (2) The purposes of an annual report are---
         
@@ -3773,47 +3790,47 @@ Planning, decision-making, and accountability
     
     *   (c) the Parliamentary Library.
     
-    Compare: 1974 No 66 [s 223E(1), (2), (14), (15)(c)][700]
+    Compare: 1974 No 66 [s 223E(1), (2), (14), (15)(c)][708]
     
-    Section 98(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 98(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 99 Audit of information in annual report and summary
     
-*   (1) In addition to the information required by [Part 3 of Schedule 10][699], the annual report must contain the Auditor-General's report on---
+*   (1) In addition to the information required by [Part 3 of Schedule 10][707], the annual report must contain the Auditor-General's report on---
         
-    *   (a) the financial statements referred to in [clause 29][701] of Schedule 10; and
+    *   (a) the financial statements referred to in [clause 29][709] of Schedule 10; and
     
-    *   (b) the statement about budgeted and actual capital expenditure referred to in [clause 24 ][702]of Schedule 10; and
+    *   (b) the statement about budgeted and actual capital expenditure referred to in [clause 24 ][710]of Schedule 10; and
     
-    *   (c) the funding impact statement referred to in [clause 30][703] of Schedule 10; and
+    *   (c) the funding impact statement referred to in [clause 30][711] of Schedule 10; and
     
-    *   (d) the local authority's compliance with the requirements of [Schedule 10][525] that are applicable to the annual report.
+    *   (d) the local authority's compliance with the requirements of [Schedule 10][532] that are applicable to the annual report.
     
     (2) In addition to the information required by [section 98(5)][138], the summary required by section 98(4)(b) must contain the Auditor-General's report on whether the summary represents, fairly and consistently, the information regarding the major matters dealt with in the annual report.
     
-    Compare: 1974 No 66 [s 223E(8)(a)][700]
+    Compare: 1974 No 66 [s 223E(8)(a)][708]
     
-    Section 99(1): substituted, on 27 November 2010, by [section 16][704] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 99(1): substituted, on 27 November 2010, by [section 16][712] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 99(1): amended, on 5 December 2012, by [section 28][705] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 99(1): amended, on 5 December 2012, by [section 28][713] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 99(2): amended, on 5 December 2012, by [section 28][705] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 99(2): amended, on 5 December 2012, by [section 28][713] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 99A Pre-election report
     
-*   (1) The chief executive of a local authority must prepare a pre-election report containing the information required by [clause 36][706] of Schedule 10\.
+*   (1) The chief executive of a local authority must prepare a pre-election report containing the information required by [clause 36][714] of Schedule 10\.
     
-    (2) However, the chief executive of a local authority that has an ordinarily resident population of fewer than 20 000 people need not comply with [clause 36(1)(a) and (2)][706] of Schedule 10 for the financial year ending in the same year as the election.
+    (2) However, the chief executive of a local authority that has an ordinarily resident population of fewer than 20 000 people need not comply with [clause 36(1)(a) and (2)][714] of Schedule 10 for the financial year ending in the same year as the election.
     
-    (3) Instead of complying with [clause 36(1)(a) and (2)][706] of Schedule 10, the chief executive of the local authority referred to in subsection (2) may include in a pre-election report the information set out in [clause 37][707] of Schedule 10\.
+    (3) Instead of complying with [clause 36(1)(a) and (2)][714] of Schedule 10, the chief executive of the local authority referred to in subsection (2) may include in a pre-election report the information set out in [clause 37][715] of Schedule 10\.
     
     (4) The purpose of a pre-election report is to provide information to promote public discussion about the issues facing the local authority.
     
-    (5) A pre-election report must be completed and published no later than the day that is 2 weeks before the nomination day for a triennial general election of members of a local authority under the [Local Electoral Act 2001][543].
+    (5) A pre-election report must be completed and published no later than the day that is 2 weeks before the nomination day for a triennial general election of members of a local authority under the [Local Electoral Act 2001][551].
     
     (6) A pre-election report must not contain a statement by, or a photograph of, an elected member of the local authority.
     
-    Section 99A: inserted, on 1 July 2011, by [section 17][708] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 99A: inserted, on 1 July 2011, by [section 17][716] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 3---Financial management
 
@@ -3831,7 +3848,7 @@ Planning, decision-making, and accountability
     
     *   (d) the funding and financial policies adopted under [section 102][145].
     
-    Section 100(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 100(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 101 Financial management
     
@@ -3857,11 +3874,11 @@ Planning, decision-making, and accountability
     
     *   (b) the overall impact of any allocation of liability for revenue needs on the community.
     
-    Compare: 1974 No 66 [s 122C(1)(a)--(c), (f)][709]
+    Compare: 1974 No 66 [s 122C(1)(a)--(c), (f)][717]
     
-    Section 101(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 101(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 101(3)(b): amended, on 5 December 2012, by [section 29][710] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 101(3)(b): amended, on 5 December 2012, by [section 29][718] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 101A Financial strategy
     
@@ -3897,7 +3914,7 @@ Planning, decision-making, and accountability
     
     *   (d) specify the local authority's objectives for holding and managing financial investments and equity securities and its quantified targets for returns on those investments and equity securities.
     
-    Section 101A: inserted, on 27 November 2010, by [section 18][711] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 101A: inserted, on 27 November 2010, by [section 18][719] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 102 Funding and financial policies
     
@@ -3933,7 +3950,7 @@ Planning, decision-making, and accountability
     
     *   (b) an investment policy.
     
-    Section 102: substituted, on 27 November 2010, by [section 19][712] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 102: substituted, on 27 November 2010, by [section 19][720] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 103 Revenue and financing policy
     
@@ -3969,7 +3986,7 @@ Planning, decision-making, and accountability
     
     *   (g) development contributions:
     
-    *   (h) financial contributions under the [Resource Management Act 1991][677]:
+    *   (h) financial contributions under the [Resource Management Act 1991][685]:
     
     *   (i) grants and subsidies:
     
@@ -3979,15 +3996,15 @@ Planning, decision-making, and accountability
     
     (4) If a local authority amends its revenue and financing policy under [section 93(4)][132], only a significant amendment to the policy is required to be audited in accordance with [sections 84(4)][121] and [94(1)][133].
     
-    Compare: 1974 No 66 [s 122O][713]
+    Compare: 1974 No 66 [s 122O][721]
     
-    Section 103(1): amended, on 27 November 2010, by [section 20(1)][714] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 103(1): amended, on 27 November 2010, by [section 20(1)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 103(2)(ba): inserted, on 28 June 2006, by [section 15(4)][552] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
+    Section 103(2)(ba): inserted, on 28 June 2006, by [section 15(4)][560] of the Local Government (Rating) Amendment Act 2006 (2006 No 28).
     
-    Section 103(3): amended, on 27 November 2010, by [section 20(2)][714] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 103(3): amended, on 27 November 2010, by [section 20(2)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 103(4): added, on 27 November 2010, by [section 20(3)][714] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 103(4): added, on 27 November 2010, by [section 20(3)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 104 Liability management policy
     
@@ -4005,15 +4022,15 @@ Planning, decision-making, and accountability
     
     *   (f) \[Repealed\]
     
-    Compare: 1974 No 66 [s 122S][715]
+    Compare: 1974 No 66 [s 122S][723]
     
-    Section 104: amended, on 27 November 2010, by [section 21(1)][716] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 104: amended, on 27 November 2010, by [section 21(1)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 104(d): amended, on 27 November 2010, by [section 21(2)][716] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 104(d): amended, on 27 November 2010, by [section 21(2)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 104(e): repealed, on 27 November 2010, by [section 21(3)][716] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 104(e): repealed, on 27 November 2010, by [section 21(3)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 104(f): repealed, on 27 November 2010, by [section 21(3)][716] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 104(f): repealed, on 27 November 2010, by [section 21(3)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 105 Investment policy
     
@@ -4029,15 +4046,15 @@ Planning, decision-making, and accountability
     
     *   (e) an outline of how risks associated with investments are assessed and managed.
     
-    Compare: 1974 No 66 [s 122Q][717]
+    Compare: 1974 No 66 [s 122Q][725]
     
-    Section 105: amended, on 27 November 2010, by [section 22(1)][718] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 105: amended, on 27 November 2010, by [section 22(1)][726] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 105(a): repealed, on 27 November 2010, by [section 22(2)][718] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 105(a): repealed, on 27 November 2010, by [section 22(2)][726] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 106 Policy on development contributions or financial contributions
     
-*   (1) In this section, _financial contributions_ has the meaning given to it by [section 108(9)][719] of the Resource Management Act 1991\.
+*   (1) In this section, _financial contributions_ has the meaning given to it by [section 108(9)][727] of the Resource Management Act 1991\.
     
     (2) A policy adopted under [section 102(1)][145] must, in relation to the purposes for which development contributions or financial contributions may be required,---
         
@@ -4057,13 +4074,13 @@ Planning, decision-making, and accountability
     
     *   (d) identify separately each activity or group of activities for which a development contribution or a financial contribution will be required and, in relation to each activity or group of activities, specify the total amount of funding to be sought by development contributions or financial contributions; and
     
-    *   (e) if development contributions will be required, comply with the requirements set out in [sections 201][301] and [202][302]; and
+    *   (e) if development contributions will be required, comply with the requirements set out in [sections 201][308] and [202][309]; and
     
-    *   (f) if financial contributions will be required, summarise the provisions that relate to financial contributions in the district plan or regional plan prepared under the [Resource Management Act 1991][677].
+    *   (f) if financial contributions will be required, summarise the provisions that relate to financial contributions in the district plan or regional plan prepared under the [Resource Management Act 1991][685].
     
     (3) If development contributions are required, the local authority must keep available for public inspection the full methodology that demonstrates how the calculations for those contributions were made.
     
-    (4) If financial contributions are required, the local authority must keep available for public inspection the provisions of the district plan or regional plan prepared under the [Resource Management Act 1991][677] that relate to financial contributions.
+    (4) If financial contributions are required, the local authority must keep available for public inspection the provisions of the district plan or regional plan prepared under the [Resource Management Act 1991][685] that relate to financial contributions.
     
     (5) The places within its district or region at which the local authority must keep the information specified in subsections (3) and (4) available for public inspection are---
         
@@ -4073,17 +4090,17 @@ Planning, decision-making, and accountability
     
     (6) A policy adopted under section 102(1) must be reviewed at least once every 3 years using the special consultative procedure.
     
-    Section 106(2): amended, on 27 November 2010, by [section 23(1)][720] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 106(2): amended, on 27 November 2010, by [section 23(1)][728] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 106(2)(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 106(2)(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 106(6): added, on 27 November 2010, by [section 23(2)][720] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 106(6): added, on 27 November 2010, by [section 23(2)][728] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 107 Policy on partnerships with private sector
     
 *   \[Repealed\]
     
-    Section 107: repealed, on 27 November 2010, by [section 24][721] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 107: repealed, on 27 November 2010, by [section 24][729] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 108 Policy on remission and postponement of rates on Māori freehold land
     
@@ -4101,21 +4118,21 @@ Planning, decision-making, and accountability
     
     (3) For the avoidance of doubt, a policy adopted under [section 102(1)][145] is not required to provide for the remission of, or postponement of the requirement to pay, rates on Māori freehold land.
     
-    (4) In determining a policy under [section 102(1)][145], the local authority must consider the matters set out in [Schedule 11][526].
+    (4) In determining a policy under [section 102(1)][145], the local authority must consider the matters set out in [Schedule 11][533].
     
     (4A) A policy adopted under [section 102(1)][145] must be reviewed at least once every 6 years using the special consultative procedure.
     
     (5) For the purposes of this section, the term _rates_ includes penalties payable on unpaid rates.
     
-    Section 108(1): amended, on 27 November 2010, by [section 25(1)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 108(1): amended, on 27 November 2010, by [section 25(1)][730] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 108(2): amended, on 27 November 2010, by [section 25(1)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 108(2): amended, on 27 November 2010, by [section 25(1)][730] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 108(3): amended, on 27 November 2010, by [section 25(1)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 108(3): amended, on 27 November 2010, by [section 25(1)][730] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 108(4): amended, on 27 November 2010, by [section 25(1)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 108(4): amended, on 27 November 2010, by [section 25(1)][730] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 108(4A): inserted, on 27 November 2010, by [section 25(2)][722] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 108(4A): inserted, on 27 November 2010, by [section 25(2)][730] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 109 Rates remission policy
     
@@ -4125,7 +4142,7 @@ Planning, decision-making, and accountability
     
     *   (b) the conditions and criteria to be met in order for rates to be remitted.
     
-    (2) In determining a policy under [section 102(3)(a)][145], the local authority may consider the matters set out in [Schedule 11][526].
+    (2) In determining a policy under [section 102(3)(a)][145], the local authority may consider the matters set out in [Schedule 11][533].
     
     (2A) If a policy is adopted under [section 102(3)(a)][145], the policy---
         
@@ -4135,11 +4152,11 @@ Planning, decision-making, and accountability
     
     (3) For the purposes of this section, the term _rates_ includes penalties payable on unpaid rates.
     
-    Section 109(1): amended, on 27 November 2010, by [section 26(1)][723] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 109(1): amended, on 27 November 2010, by [section 26(1)][731] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 109(2): amended, on 27 November 2010, by [section 26(1)][723] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 109(2): amended, on 27 November 2010, by [section 26(1)][731] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 109(2A): inserted, on 27 November 2010, by [section 26(2)][723] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 109(2A): inserted, on 27 November 2010, by [section 26(2)][731] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 110 Rates postponement policy
     
@@ -4149,7 +4166,7 @@ Planning, decision-making, and accountability
     
     *   (b) the conditions and criteria to be met in order for the requirement to pay rates to be postponed.
     
-    (2) In determining a policy under [section 102(3)(b)][145], the local authority may consider the matters set out in [Schedule 11][526].
+    (2) In determining a policy under [section 102(3)(b)][145], the local authority may consider the matters set out in [Schedule 11][533].
     
     (2A) If a policy is adopted under [section 102(3)(b)][145], the policy---
         
@@ -4159,19 +4176,19 @@ Planning, decision-making, and accountability
     
     (3) For the purposes of this section, the term _rates_ includes penalties payable on unpaid rates.
     
-    Section 110(1): amended, on 27 November 2010, by [section 27(1)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 110(1): amended, on 27 November 2010, by [section 27(1)][732] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 110(2): amended, on 27 November 2010, by [section 27(1)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 110(2): amended, on 27 November 2010, by [section 27(1)][732] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 110(2A): inserted, on 27 November 2010, by [section 27(2)][724] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 110(2A): inserted, on 27 November 2010, by [section 27(2)][732] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 111 Information to be prepared in accordance with generally accepted accounting practice
     
-*   (1) All information that is required by any provision of this Part or of [Schedule 10][525] to be included in any plan, report, or other document must be prepared in accordance with generally accepted accounting practice if that information is of a form or nature for which generally accepted accounting practice has developed standards.
+*   (1) All information that is required by any provision of this Part or of [Schedule 10][532] to be included in any plan, report, or other document must be prepared in accordance with generally accepted accounting practice if that information is of a form or nature for which generally accepted accounting practice has developed standards.
     
     (2) Subsection (1) does not apply to the preparation of a funding impact statement.
     
-    Section 111(2): added, on 27 November 2010, by [section 28][725] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 111(2): added, on 27 November 2010, by [section 28][733] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 4---Borrowing and security
 
@@ -4243,7 +4260,7 @@ Planning, decision-making, and accountability
         
         
     
-    Compare: 1974 No 66 [ss 122Z][726], [122ZB][727], [122ZG(1)][728]
+    Compare: 1974 No 66 [ss 122Z][734], [122ZB][735], [122ZG(1)][736]
 
 #### Borrowing
 
@@ -4253,15 +4270,15 @@ Planning, decision-making, and accountability
     
     (2) Subsection (1) does not apply to an incidental arrangement in relation to an investment in currency other than New Zealand currency.
     
-    Compare: 1974 No 66 [s 122ZC][729]
+    Compare: 1974 No 66 [s 122ZC][737]
     
-    Section 113(2): added, on 28 June 2006, by [section 12][730] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 113(2): added, on 28 June 2006, by [section 12][738] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 114 Constraints on receiver
     
-*   Every charge given by a local authority over any 1 or more of the assets of the local authority as security for any loan, or the performance of obligations under any incidental arrangement, is subject to subsections (5) and (6) of [section 40D][731] of the Receiverships Act 1993\.
+*   Every charge given by a local authority over any 1 or more of the assets of the local authority as security for any loan, or the performance of obligations under any incidental arrangement, is subject to subsections (5) and (6) of [section 40D][739] of the Receiverships Act 1993\.
     
-    Compare: 1974 No 66 [s 122ZE(1), (4), (5)][732]
+    Compare: 1974 No 66 [s 122ZE(1), (4), (5)][740]
 
 ##### 115 Rates as security
     
@@ -4269,7 +4286,7 @@ Planning, decision-making, and accountability
         
     *   (a) a local authority has charged a rate or rates revenue as security for any loan or the performance of any obligations under an incidental arrangement; and
     
-    *   (b) a receiver has been appointed under [section 40A][733] or [section 40B][734] of the Receiverships Act 1993 in respect of that loan or arrangement.
+    *   (b) a receiver has been appointed under [section 40A][741] or [section 40B][742] of the Receiverships Act 1993 in respect of that loan or arrangement.
     
     (2) The receiver may, without further authority than this section, assess and collect in each financial year a rate under this section to recover sufficient funds to meet---
         
@@ -4287,7 +4304,7 @@ Planning, decision-making, and accountability
     
     (5) A rate under this section may not be assessed and collected on rateable property in respect of which an election under section 65 or section 77 of the Rating Powers Act 1988 has been exercised in respect of any repayment loan or the works for which any loan was borrowed.
     
-    Compare: 1974 No 66 [ss 122ZE(2), (3)][732], [122ZF][735]
+    Compare: 1974 No 66 [ss 122ZE(2), (3)][740], [122ZF][743]
 
 ##### 116 Register of charges maintained by local authority
     
@@ -4299,7 +4316,7 @@ Planning, decision-making, and accountability
     
     (4) A local authority may charge for supplying any person with copies of, or any particulars from, the register.
     
-    Compare: 1974 No 66 [s 122ZJ][736]
+    Compare: 1974 No 66 [s 122ZJ][744]
 
 #### Protected transactions
 
@@ -4321,13 +4338,13 @@ Planning, decision-making, and accountability
     
     *   (d) a document issued, or purporting to be issued, on behalf of the local authority by a person with actual or customary authority, or held out as having such authority, to issue the document not being valid or not being genuine.
     
-    Compare: 1974 No 66 [s 122ZG(2)][728]
+    Compare: 1974 No 66 [s 122ZG(2)][736]
 
 ##### 118 Certificate of compliance
     
 *   A certificate signed, or purporting to be signed, by the chief executive of a local authority to the effect that the local authority has complied with this Act in connection with a protected transaction is conclusive proof for all purposes that the local authority has so complied.
     
-    Compare: 1974 No 66 [s 122ZG(3)][728]
+    Compare: 1974 No 66 [s 122ZG(3)][736]
 
 ##### 119 Good faith in relation to protected transactions
     
@@ -4345,7 +4362,7 @@ Planning, decision-making, and accountability
     
     *   (b) a person must be presumed to have acted in good faith unless the contrary is proved.
     
-    Compare: 1974 No 66 [s 122ZG(4)--(6)][728]
+    Compare: 1974 No 66 [s 122ZG(4)--(6)][736]
 
 ##### 120 Saving provision in respect of power of court
     
@@ -4357,23 +4374,23 @@ Planning, decision-making, and accountability
     
 *   (1) The Crown is not liable to contribute to the payment of any debts or liabilities of any local authority.
     
-    (2) Subsection (1) does not apply in relation to liability for any sum of a kind described in [section 49][737] of the Public Finance Act 1989\.
+    (2) Subsection (1) does not apply in relation to liability for any sum of a kind described in [section 49][745] of the Public Finance Act 1989\.
     
-    Compare: 1974 No 66 [s 122ZP(1)][738]
+    Compare: 1974 No 66 [s 122ZP(1)][746]
     
-    Section 121(2): amended, on 25 January 2005, by [section 37(1)][739] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 121(2): amended, on 25 January 2005, by [section 37(1)][747] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 122 Prospectuses and loan documents to contain statement that the Crown does not guarantee securities or loan
     
-*   (1) If a local authority is named as the issuer or a promoter in any registered prospectus within the meaning of the [Securities Act 1978][740], that prospectus must, unless the securities being offered pursuant to the prospectus are expressly guaranteed by the Crown under the [Public Finance Act 1989][741], contain a statement that the securities being offered pursuant to the prospectus are not guaranteed by the Crown.
+*   (1) If a local authority is named as the issuer or a promoter in any registered prospectus within the meaning of the [Securities Act 1978][748], that prospectus must, unless the securities being offered pursuant to the prospectus are expressly guaranteed by the Crown under the [Public Finance Act 1989][749], contain a statement that the securities being offered pursuant to the prospectus are not guaranteed by the Crown.
     
     (2) If a local authority enters into any loan agreement or incidental arrangement, that agreement or arrangement must include a statement that the loan or other liability under the incidental arrangement is not guaranteed by the Crown.
     
-    (3) Subsection (2) does not apply in relation to liability for any sum of a kind described in [section 49][737] of the Public Finance Act 1989\.
+    (3) Subsection (2) does not apply in relation to liability for any sum of a kind described in [section 49][745] of the Public Finance Act 1989\.
     
-    Compare: 1974 No 66 [s 122ZP][738]
+    Compare: 1974 No 66 [s 122ZP][746]
     
-    Section 122(3): amended, on 25 January 2005, by [section 37(1)][739] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 122(3): amended, on 25 January 2005, by [section 37(1)][747] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 7  
 Specific obligations and restrictions on local authorities and other persons
@@ -4406,7 +4423,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     _local government organisation_ means a local authority, council-controlled organisation, or a subsidiary of a council-controlled organisation, that provides water services
     
-    _sanitary services_ has the same meaning as sanitary works in [section 25(1)(a), (b), (d), (h), and (i)][742] of the Health Act 1956
+    _sanitary services_ has the same meaning as sanitary works in [section 25(1)(a), (b), (d), (h), and (i)][750] of the Health Act 1956
     
     _wastewater services_ means sewerage, treatment and disposal of sewage, and stormwater drainage
     
@@ -4414,7 +4431,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     _water supply_ means the provision of drinking water to communities by network reticulation to the point of supply of each dwellinghouse and commercial premise to which drinking water is supplied.
     
-    Section 124 **sanitary services**: amended, on 1 July 2009, by [section 62(1)][743] of the Waste Minimisation Act 2008 (2008 No 89).
+    Section 124 **sanitary services**: amended, on 1 July 2009, by [section 62(1)][751] of the Waste Minimisation Act 2008 (2008 No 89).
 
 ##### 125 Requirement to assess water and other sanitary services
     
@@ -4428,33 +4445,33 @@ Specific obligations and restrictions on local authorities and other persons
     
     (3) An assessment may be included in the territorial authority's long-term plan, but, if it is not, the territorial authority must adopt the assessment using the special consultative procedure.
     
-    Section 125(1): amended, on 27 November 2010, by [section 29][744] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 125(1): amended, on 27 November 2010, by [section 29][752] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 125(3): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 125(3): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 126 Information required in assessment of water services
     
 *   \[Repealed\]
     
-    Section 126: repealed, on 27 November 2010, by [section 30][745] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 126: repealed, on 27 November 2010, by [section 30][753] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 127 Information required in assessment of sanitary services
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 27 November 2010, by [section 30][745] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 127: repealed, on 27 November 2010, by [section 30][753] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 128 Process for making assessments
     
 *   \[Repealed\]
     
-    Section 128: repealed, on 27 November 2010, by [section 30][745] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 128: repealed, on 27 November 2010, by [section 30][753] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 129 Extent of information in assessments
     
 *   \[Repealed\]
     
-    Section 129: repealed, on 27 November 2010, by [section 30][745] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 129: repealed, on 27 November 2010, by [section 30][753] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 2---Obligations and restrictions relating to provision of water services
 
@@ -4480,7 +4497,7 @@ Specific obligations and restrictions on local authorities and other persons
             
         *   (i) restrict the water supply unless [section 193][288] applies; or
         
-        *   (ii) stop the water supply unless [section 69S][746] of the Health Act 1956 applies.
+        *   (ii) stop the water supply unless [section 69S][754] of the Health Act 1956 applies.
         
         
     
@@ -4490,7 +4507,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     *   (b) does not override [sections 131 to 137][182].
     
-    Section 130(3)(d)(ii): amended, on 27 November 2010, by [section 31][747] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 130(3)(d)(ii): amended, on 27 November 2010, by [section 31][755] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Closure or transfer of small water services
 
@@ -4522,7 +4539,7 @@ Specific obligations and restrictions on local authorities and other persons
         
         
     
-    *   (d) the proposal is supported, in a binding referendum conducted under [section 9][748] of the Local Electoral Act 2001 using the First Past the Post electoral system,---
+    *   (d) the proposal is supported, in a binding referendum conducted under [section 9][756] of the Local Electoral Act 2001 using the First Past the Post electoral system,---
             
         *   (i) in the case of a proposal to close down a water service, by 75% or more of the votes cast in accordance with subsection (3); and
         
@@ -4536,9 +4553,9 @@ Specific obligations and restrictions on local authorities and other persons
     
 *   A person is eligible to vote in a referendum conducted under [section 131(2)(d)][182] if the person is qualified as either---
         
-    *   (a) a residential elector under [section 23][749] of the Local Electoral Act 2001 and the address in respect of which the person is registered as a parliamentary elector is a property serviced by the water service that is the subject of the referendum; or
+    *   (a) a residential elector under [section 23][757] of the Local Electoral Act 2001 and the address in respect of which the person is registered as a parliamentary elector is a property serviced by the water service that is the subject of the referendum; or
     
-    *   (b) a ratepayer elector under [section 24][750] of the Local Electoral Act 2001 and the property, for the purposes of section 24(1)(a) or (b) of that Act, is a property serviced by the water service that is the subject of the referendum.
+    *   (b) a ratepayer elector under [section 24][758] of the Local Electoral Act 2001 and the property, for the purposes of section 24(1)(a) or (b) of that Act, is a property serviced by the water service that is the subject of the referendum.
     
     
 
@@ -4548,7 +4565,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     (2) The electoral officer of a territorial authority responsible for conducting a referendum under subsection (1) must prepare a special roll of the persons eligible to vote under [section 132][183].
     
-    (3) The provisions of the [Local Electoral Act 2001][543] apply, with any necessary modifications, to the conduct of a referendum under [section 131(2)(d)][182].
+    (3) The provisions of the [Local Electoral Act 2001][551] apply, with any necessary modifications, to the conduct of a referendum under [section 131(2)(d)][182].
 
 ##### 134 Criteria for closure of water service
     
@@ -4600,11 +4617,11 @@ Specific obligations and restrictions on local authorities and other persons
     
     (3) This section does not limit contracts in relation to water services that are entered into solely between local government organisations.
     
-    Section 136: substituted, on 27 November 2010, by [section 32][751] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 136: substituted, on 27 November 2010, by [section 32][759] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Joint local government arrangements and joint arrangements with other entities
     
-*   Heading: substituted, on 7 July 2004, by [section 13][752] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+*   Heading: substituted, on 7 July 2004, by [section 13][760] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 137 Joint local government arrangements and joint arrangements with other entities
     
@@ -4658,25 +4675,25 @@ Specific obligations and restrictions on local authorities and other persons
     
     (5) In this section, _concession or other franchise agreement_ means an agreement under which a person other than the local government organisation is entitled to receive a payment from any person other than the local government organisation for the supply of the water service.
     
-    Section 137 heading: substituted, on 7 July 2004, by [section 14(1)][753] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 137 heading: substituted, on 7 July 2004, by [section 14(1)][761] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 137(1): substituted, on 7 July 2004, by [section 14(2)][753] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 137(1): substituted, on 7 July 2004, by [section 14(2)][761] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 137(2)(a): substituted, on 27 November 2010, by [section 33(1)][754] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 137(2)(a): substituted, on 27 November 2010, by [section 33(1)][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 137(2)(b): amended, on 7 July 2004, by [section 14(3)][753] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 137(2)(b): amended, on 7 July 2004, by [section 14(3)][761] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 137(3): amended, on 7 July 2004, by [section 14(3)][753] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 137(3): amended, on 7 July 2004, by [section 14(3)][761] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 137(3): amended, on 7 July 2004, by [section 14(4)][753] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 137(3): amended, on 7 July 2004, by [section 14(4)][761] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 137(3)(b): amended, on 27 November 2010, by [section 33(2)][754] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 137(3)(b): amended, on 27 November 2010, by [section 33(2)][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 137(3)(c): repealed, on 27 November 2010, by [section 33(3)][754] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 137(3)(c): repealed, on 27 November 2010, by [section 33(3)][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 137(4): substituted, on 27 November 2010, by [section 33(4)][754] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 137(4): substituted, on 27 November 2010, by [section 33(4)][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 137(5): added, on 27 November 2010, by [section 33(4)][754] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 137(5): added, on 27 November 2010, by [section 33(4)][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 3---Restrictions on disposal of parks, reserves, and endowment properties
 
@@ -4694,9 +4711,9 @@ Specific obligations and restrictions on local authorities and other persons
         
     *   (a) means land acquired or used principally for community, recreational, environmental, cultural, or spiritual purposes; but
     
-    *   (b) does not include land that is held as a reserve, or part of a reserve, under the [Reserves Act 1977][755].
+    *   (b) does not include land that is held as a reserve, or part of a reserve, under the [Reserves Act 1977][763].
     
-    Section 138: substituted, on 28 June 2006, by [section 13][756] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 138: substituted, on 28 June 2006, by [section 13][764] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 139 Protection of regional parks
     
@@ -4712,9 +4729,9 @@ Specific obligations and restrictions on local authorities and other persons
     
     *   (b) includes land within the meaning of paragraph (a) that is---
             
-        *   (i) reserve within the meaning of [section 2(1)][757] of the Reserves Act 1977; or
+        *   (i) reserve within the meaning of [section 2(1)][765] of the Reserves Act 1977; or
         
-        *   (ii) otherwise held or administered under the [Reserves Act 1977][755] or any earlier corresponding enactment.
+        *   (ii) otherwise held or administered under the [Reserves Act 1977][763] or any earlier corresponding enactment.
         
         
     
@@ -4736,11 +4753,11 @@ Specific obligations and restrictions on local authorities and other persons
     
     (6) Any land within the meaning of subsection (1)(b) that is included in an Order in Council---
         
-    *   (a) retains its classification under the [Reserves Act 1977][755]; and
+    *   (a) retains its classification under the [Reserves Act 1977][763]; and
     
     *   (b) remains subject to that Act; and
     
-    *   (c) if the land is to be sold or disposed of under subsection (4) of this section, must first be dealt with under [sections 24][758] and [25][759] of that Act.
+    *   (c) if the land is to be sold or disposed of under subsection (4) of this section, must first be dealt with under [sections 24][766] and [25][767] of that Act.
     
     (7) An Order in Council must specify the regional park or the part of the regional park to which the order applies---
         
@@ -4748,7 +4765,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     *   (b) by name and a detailed description of the location of the land, in any other case.
     
-    Section 139: substituted, on 28 June 2006, by [section 14][760] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 139: substituted, on 28 June 2006, by [section 14][768] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 139A Further provision in relation to regional parks
     
@@ -4756,7 +4773,7 @@ Specific obligations and restrictions on local authorities and other persons
     
     (2) The provisions of [section 139][194] apply, with all necessary modifications, to an Order in Council varied under subsection (1).
     
-    Section 139A: inserted, on 28 June 2006, by [section 14][760] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 139A: inserted, on 28 June 2006, by [section 14][768] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 #### Endowment property
 
@@ -4808,9 +4825,9 @@ Specific obligations and restrictions on local authorities and other persons
     
     (3) If the local authority is subject to reorganisation, the proceeds of a sale or exchange of property must be applied to the district or districts of the new local authority or authorities arising from the reorganisation of which the local authority formed part.
     
-    Compare: 1974 No 66 [s 230][761]
+    Compare: 1974 No 66 [s 230][769]
     
-    Section 141(1)(b): repealed, on 27 November 2010, by [section 34][762] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 141(1)(b): repealed, on 27 November 2010, by [section 34][770] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ### Subpart 4---Public libraries
 
@@ -4818,7 +4835,7 @@ Specific obligations and restrictions on local authorities and other persons
     
 *   If a local authority or a council-controlled organisation provides a library for public use, the residents in the district or region are entitled to join the library free of charge.
     
-    Compare: 1974 No 66 [s 601(4)][763]
+    Compare: 1974 No 66 [s 601(4)][771]
 
 ## Part 8  
 Regulatory, enforcement, and coercive powers of local authorities
@@ -4851,9 +4868,9 @@ Regulatory, enforcement, and coercive powers of local authorities
 
 ##### 144 Bylaws Act 1910
     
-*   The [Bylaws Act 1910][764] prevails over this Part and [Part 9][335].
+*   The [Bylaws Act 1910][772] prevails over this Part and [Part 9][342].
     
-    Compare: 1974 No 66 [s 679][765]
+    Compare: 1974 No 66 [s 679][773]
 
 #### Powers of territorial authorities to make bylaws
 
@@ -4905,7 +4922,7 @@ Regulatory, enforcement, and coercive powers of local authorities
         
         
     
-    *   (c) subject to [sections 20 to 22][766] of the Forest and Rural Fires Act 1977, of preventing the spread of fires involving vegetation.
+    *   (c) subject to [sections 20 to 22][774] of the Forest and Rural Fires Act 1977, of preventing the spread of fires involving vegetation.
     
     
 
@@ -4913,9 +4930,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   (1) In this section,---
     
-    _alcohol_ has the meaning given by [section 5(1)][767] of the Sale and Supply of Alcohol Act 2012
+    _alcohol_ has the meaning given by [section 5(1)][775] of the Sale and Supply of Alcohol Act 2012
     
-    _licensed premises_ has the meaning given by [section 5(1)][767] of the Sale and Supply of Alcohol Act 2012
+    _licensed premises_ has the meaning given by [section 5(1)][775] of the Sale and Supply of Alcohol Act 2012
     
     _public place_---
         
@@ -4957,7 +4974,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (5) Subsections (2) and (3) do not limit [section 145][206].
     
-    Section 147: replaced, on 18 December 2013, by [section 4][768] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 147: replaced, on 18 December 2013, by [section 4][776] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 147A Criteria for making or continuing bylaws
     
@@ -4985,7 +5002,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (4) Subsection (1) does not apply to a bylaw of a kind described in subsection (3).
     
-    Section 147A: inserted, on 18 December 2013, by [section 4][768] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 147A: inserted, on 18 December 2013, by [section 4][776] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 147B Criteria for making resolutions relating to bylaws
     
@@ -5001,11 +5018,11 @@ Regulatory, enforcement, and coercive powers of local authorities
         
         
     
-    Section 147B: inserted, on 18 December 2013, by [section 4][768] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 147B: inserted, on 18 December 2013, by [section 4][776] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 147C Signage for areas in which bylaws for alcohol control purposes apply
     
-*   Regulations under [section 259][434] may do any or all of the following:
+*   Regulations under [section 259][441] may do any or all of the following:
         
     *   (a) require territorial authorities to erect and maintain signs indicating the existence or boundaries of areas in their districts in which a bylaw under [section 147][208] applies:
     
@@ -5013,7 +5030,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) prescribe particular forms for particular kinds of sign required to be erected and maintained (including, without limitation, content, size, lettering, symbols, and colouring).
     
-    Section 147C: inserted, on 18 December 2013, by [section 4][768] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 147C: inserted, on 18 December 2013, by [section 4][776] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 148 Special requirements for bylaws relating to trade wastes
     
@@ -5043,13 +5060,13 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) may remove from the register the name of a person who has ceased to be the owner or occupier of trade premises within its district, or who has requested the local authority in writing to remove his or her name from the register.
     
-    (6) Nothing in this section limits the provisions of the [Health Act 1956][769] or the [Resource Management Act 1991][677].
+    (6) Nothing in this section limits the provisions of the [Health Act 1956][777] or the [Resource Management Act 1991][685].
     
     (7) The requirements in this section are in addition to the requirements in [section 156][225], but a territorial authority may comply with both sections by using a single process.
     
-    Compare: 1974 No 66 [s 492][770]
+    Compare: 1974 No 66 [s 492][778]
     
-    Section 148(7): substituted, on 20 September 2007, by [section 5][771] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
+    Section 148(7): substituted, on 20 September 2007, by [section 5][779] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
 
 #### Power of regional councils to make bylaws
 
@@ -5071,7 +5088,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) sites or places on land of the regional council that have cultural, historical, recreational, scientific, or other community or amenity values.
     
-    Compare: 1974 No 66 [s 586][772]
+    Compare: 1974 No 66 [s 586][780]
 
 #### Power of local authorities to prescribe fees
 
@@ -5103,13 +5120,13 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (6) This section does not apply to charges for goods, services, or amenities provided by the local authority in reliance on the general power under [section 12][17].
     
-    Compare: 1974 No 66 [s 690A][773]
+    Compare: 1974 No 66 [s 690A][781]
 
 #### General provisions applying to bylaws made by a local authority
 
 ##### 151 General provisions applying to bylaws made under this Act
     
-*   (1AA) This section applies to a bylaw only if it is made under this Act or the [Maritime Transport Act 1994][774].
+*   (1AA) This section applies to a bylaw only if it is made under this Act or the [Maritime Transport Act 1994][782].
     
     (1) A bylaw may require anything to be done in any manner, or within any time, that is required by the local authority or by a person referred to in the bylaw.
     
@@ -5123,27 +5140,27 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) recovery of costs incurred by the local authority in relation to an activity licensed under a bylaw.
     
-    Compare: 1974 No 66 [s 682(a)--(c)][775]
+    Compare: 1974 No 66 [s 682(a)--(c)][783]
     
-    Section 151 heading: amended, on 28 June 2006, by [section 15(1)][776] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 151 heading: amended, on 28 June 2006, by [section 15(1)][784] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 151(1AA): inserted, on 28 June 2006, by [section 15(2)][776] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 151(1AA): inserted, on 28 June 2006, by [section 15(2)][784] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 151(1AA): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 151(1AA): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 152 Effect of Building Act 2004 on bylaws
     
-*   (1) A council may not make a bylaw under this Act that purports to have the effect of requiring a building to achieve performance criteria additional to, or more restrictive than, those specified in the [Building Act 2004][580] or the [building code][778].
+*   (1) A council may not make a bylaw under this Act that purports to have the effect of requiring a building to achieve performance criteria additional to, or more restrictive than, those specified in the [Building Act 2004][588] or the [building code][786].
     
-    (2) For the purposes of this section, _building_, _building code_, and _performance criteria_ have the meanings given to them by the [Building Act 2004][580].
+    (2) For the purposes of this section, _building_, _building code_, and _performance criteria_ have the meanings given to them by the [Building Act 2004][588].
     
-    Compare: 1974 No 66 [s 684A][779]
+    Compare: 1974 No 66 [s 684A][787]
     
-    Section 152 heading: amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 152 heading: amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
     
-    Section 152(1): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 152(1): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
     
-    Section 152(2): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 152(2): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 #### The Crown bound by certain bylaws
 
@@ -5175,7 +5192,7 @@ Regulatory, enforcement, and coercive powers of local authorities
 
 ##### 155 Determination whether bylaw made under this Act is appropriate
     
-*   (1AA) This section applies to a bylaw only if it is made under this Act or the [Maritime Transport Act 1994][774].
+*   (1AA) This section applies to a bylaw only if it is made under this Act or the [Maritime Transport Act 1994][782].
     
     (1) A local authority must, before commencing the process for making a bylaw, determine whether a bylaw is the most appropriate way of addressing the perceived problem.
     
@@ -5183,25 +5200,25 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) is the most appropriate form of bylaw; and
     
-    *   (b) gives rise to any implications under the [New Zealand Bill of Rights Act 1990][781].
+    *   (b) gives rise to any implications under the [New Zealand Bill of Rights Act 1990][789].
     
-    (3) No bylaw may be made which is inconsistent with the [New Zealand Bill of Rights Act 1990][781], notwithstanding [section 4][782] of that Act.
+    (3) No bylaw may be made which is inconsistent with the [New Zealand Bill of Rights Act 1990][789], notwithstanding [section 4][790] of that Act.
     
-    Section 155 heading: amended, on 28 June 2006, by [section 16(1)][776] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 155 heading: amended, on 28 June 2006, by [section 16(1)][784] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 155(1AA): inserted, on 28 June 2006, by [section 16(2)][776] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 155(1AA): inserted, on 28 June 2006, by [section 16(2)][784] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 155(1AA): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 155(1AA): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 156 Special consultative procedure must be used in making, amending, or revoking bylaw made under this Act
     
 *   (1) A local authority must use the special consultative procedure (as modified by [section 86][123]) in---
         
-    *   (a) making a bylaw under this Act or the [Maritime Transport Act 1994][774]:
+    *   (a) making a bylaw under this Act or the [Maritime Transport Act 1994][782]:
     
-    *   (b) amending a bylaw made under this Act or the [Maritime Transport Act 1994][774]:
+    *   (b) amending a bylaw made under this Act or the [Maritime Transport Act 1994][782]:
     
-    *   (c) revoking a bylaw made under this Act or the [Maritime Transport Act 1994][774].
+    *   (c) revoking a bylaw made under this Act or the [Maritime Transport Act 1994][782].
     
     (2) Despite subsection (1)(b), a local authority may, by resolution publicly notified,---
         
@@ -5215,13 +5232,13 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) convert an imperial weight or measure specified in a bylaw into its metric equivalent or near metric equivalent.
     
-    Section 156: substituted, on 28 June 2006, by [section 17][783] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 156: substituted, on 28 June 2006, by [section 17][791] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 156(1)(a): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 156(1)(a): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 156(1)(b): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 156(1)(b): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
     
-    Section 156(1)(c): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 156(1)(c): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 157 Public notice of bylaws and availability of copies
     
@@ -5239,33 +5256,33 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) supply to any person, on request and on payment of a reasonable charge, a copy of any of its bylaws.
     
-    Compare: 1974 No 66 [s 689][784]
+    Compare: 1974 No 66 [s 689][792]
 
 #### Review of bylaws made under this Act or the Local Government Act 1974
     
-*   Heading: amended, on 28 June 2006, by [section 18][785] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+*   Heading: amended, on 28 June 2006, by [section 18][793] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 158 Review of bylaws made under this Act or the Local Government Act 1974
     
-*   (1) A local authority must review a bylaw made by it under this Act or the [Maritime Transport Act 1994][774] (other than a bylaw deemed to be made under this Act by [section 293][493]) no later than 5 years after the date on which the bylaw was made.
+*   (1) A local authority must review a bylaw made by it under this Act or the [Maritime Transport Act 1994][782] (other than a bylaw deemed to be made under this Act by [section 293][500]) no later than 5 years after the date on which the bylaw was made.
     
-    (2) A local authority must review a bylaw made by it under the [Local Government Act 1974][595] (other than a bylaw deemed to be made under this Act by [section 293][493])---
+    (2) A local authority must review a bylaw made by it under the [Local Government Act 1974][603] (other than a bylaw deemed to be made under this Act by [section 293][500])---
         
     *   (a) no later than 1 July 2008, if the bylaw was made before 1 July 2003; and
     
     *   (b) no later than 5 years after the bylaw was made, if the bylaw was made after 1 July 2003\.
     
-    Section 158: substituted, on 28 June 2006, by [section 19][786] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 158: substituted, on 28 June 2006, by [section 19][794] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 158(1): amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 158(1): amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 159 Further reviews of bylaws every 10 years
     
-*   A local authority must review a bylaw made by it under this Act, the [Maritime Transport Act 1994][774], or the [Local Government Act 1974][595] no later than 10 years after it was last reviewed as required by [section 158][228] or this section.
+*   A local authority must review a bylaw made by it under this Act, the [Maritime Transport Act 1994][782], or the [Local Government Act 1974][603] no later than 10 years after it was last reviewed as required by [section 158][228] or this section.
     
-    Section 159: substituted, on 28 June 2006, by [section 19][786] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 159: substituted, on 28 June 2006, by [section 19][794] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 159: amended, on 23 October 2013, by [section 90][777] of the Maritime Transport Amendment Act 2013 (2013 No 84).
+    Section 159: amended, on 23 October 2013, by [section 90][785] of the Maritime Transport Amendment Act 2013 (2013 No 84).
 
 ##### 160 Procedure for and nature of review
     
@@ -5287,15 +5304,15 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) a report of any relevant determinations by the local authority under [section 155][224].
     
-    (5) This section does not apply to any bylaw to which [section 10AA][787] of the Dog Control Act 1996 applies.
+    (5) This section does not apply to any bylaw to which [section 10AA][795] of the Dog Control Act 1996 applies.
     
-    Section 160: substituted, on 28 June 2006, by [section 19][786] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 160: substituted, on 28 June 2006, by [section 19][794] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 160A Bylaw not reviewed within specified time frame revoked
     
 *   A bylaw that is not reviewed as required under [section 158][228] or [159][229], if not earlier revoked by the local authority concerned, is revoked on the date that is 2 years after the last date on which the bylaw should have been reviewed under that section.
     
-    Section 160A: inserted, on 28 June 2006, by [section 19][786] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 160A: inserted, on 28 June 2006, by [section 19][794] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 #### Transfer of bylaw-making power
 
@@ -5335,7 +5352,7 @@ Regulatory, enforcement, and coercive powers of local authorities
         
         
     
-    Compare: 1974 No 66 [ss 683][788], [698][789]
+    Compare: 1974 No 66 [ss 683][796], [698][797]
 
 #### Removal of works
 
@@ -5349,7 +5366,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (2) Nothing done under subsection (1) or in a bylaw referred to in that subsection relieves the person who committed the breach from any other liability for the breach of the bylaw.
     
-    Compare: 1974 No 66 [s 692][790]
+    Compare: 1974 No 66 [s 692][798]
 
 #### Seizure of property
 
@@ -5389,11 +5406,11 @@ Regulatory, enforcement, and coercive powers of local authorities
 
 ##### 165 Seizure of property from private land
     
-*   (1) An issuing officer (within the meaning of [section 3][791] of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private property involved in the commission of an offence, and seize and impound property.
+*   (1) An issuing officer (within the meaning of [section 3][799] of the Search and Surveillance Act 2012) may issue a warrant authorising an enforcement officer to enter private property involved in the commission of an offence, and seize and impound property.
     
     (2) A warrant may be issued only if---
         
-    *   (a) the application for it is made in the manner provided for an application for a search warrant in [subpart 3][792] of Part 4 of the Search and Surveillance Act 2012; and
+    *   (a) the application for it is made in the manner provided for an application for a search warrant in [subpart 3][800] of Part 4 of the Search and Surveillance Act 2012; and
     
     *   (b) the issuing officer is satisfied that---
             
@@ -5413,17 +5430,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) any employee of the local authority.
     
-    (4) The provisions of [Part 4][793] of the Search and Surveillance Act 2012 (except [sections 118][794] and [119][795]) apply as if a warrant issued under subsection (1) were a search warrant.
+    (4) The provisions of [Part 4][801] of the Search and Surveillance Act 2012 (except [sections 118][802] and [119][803]) apply as if a warrant issued under subsection (1) were a search warrant.
     
-    Section 165(1): amended, on 1 October 2012, by [section 270(1)][796] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(1): amended, on 1 October 2012, by [section 270(1)][804] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 165(2)(a): amended, on 1 October 2012, by [section 270(2)][796] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(2)(a): amended, on 1 October 2012, by [section 270(2)][804] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 165(2)(b): amended, on 1 October 2012, by [section 270(3)][796] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(2)(b): amended, on 1 October 2012, by [section 270(3)][804] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 165(3): replaced, on 1 October 2012, by [section 270(4)][796] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(3): replaced, on 1 October 2012, by [section 270(4)][804] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 165(4): replaced, on 1 October 2012, by [section 270(4)][796] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 165(4): replaced, on 1 October 2012, by [section 270(4)][804] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 166 Conditions for exercise of warrant to seize property on private land
     
@@ -5431,9 +5448,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (2) Subsection (1) overrides [section 165(4)][241].
     
-    Section 166(1): replaced, on 1 October 2012, by [section 271(1)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 166(1): replaced, on 1 October 2012, by [section 271(1)][805] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 166(2): replaced, on 1 October 2012, by [section 271(1)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 166(2): replaced, on 1 October 2012, by [section 271(1)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 167 Return of property seized and impounded
     
@@ -5453,7 +5470,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) order that the property be returned.
     
-    Section 167(1): amended, on 1 October 2012, by [section 271(2)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 167(1): amended, on 1 October 2012, by [section 271(2)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 168 Power to dispose of property seized and impounded
     
@@ -5471,7 +5488,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) third, any surplus to the owner of the property or the person from whom it was seized.
     
-    Section 168(1): amended, on 1 October 2012, by [section 271(3)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 168(1): amended, on 1 October 2012, by [section 271(3)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Powers of arrest, search, and seizure in relation to liquor
 
@@ -5479,7 +5496,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   (1) In this section and in [sections 169A][248] and [170][249],---
     
-    _alcohol_ has the meaning given by [section 5(1)][767] of the Sale and Supply of Alcohol Act 2012
+    _alcohol_ has the meaning given by [section 5(1)][775] of the Sale and Supply of Alcohol Act 2012
     
     _alcohol ban_ means a bylaw made under [section 147][208]
     
@@ -5511,11 +5528,11 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) Alcohol or a container seized under subsection (2)(b) is forfeited to the Crown if the person from whom the alcohol or container is seized pays the infringement fee.
     
-    Section 169: replaced, on 18 December 2013, by [section 5][798] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 169: replaced, on 18 December 2013, by [section 5][806] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 #### Matters of proof in relation to bylaws prohibiting alcohol in public place
     
-*   Heading: inserted, on 18 December 2013, by [section 5][798] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+*   Heading: inserted, on 18 December 2013, by [section 5][806] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 169A Proving substance is alcohol in relation to alleged breach of alcohol ban
     
@@ -5535,7 +5552,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) has given notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
     
-    Section 169A: inserted, on 18 December 2013, by [section 5][798] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 169A: inserted, on 18 December 2013, by [section 5][806] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 170 Conditions relating to power of search
     
@@ -5555,17 +5572,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (4) Subsection (2) only applies if the constable is authorised to exercise that power by a bylaw made under [section 147][208].
     
-    Compare: 1974 No 66 [s 709H][799]
+    Compare: 1974 No 66 [s 709H][807]
     
-    Section 170(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 170(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 170(1)(b): amended, on 7 July 2004, by [section 17][801] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 170(1)(b): amended, on 7 July 2004, by [section 17][809] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 170(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 170(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 170(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 170(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 170(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 170(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
 
 #### Powers of entry
 
@@ -5585,9 +5602,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (5) This section does not limit [section 172][252] or [section 173][253].
     
-    Section 171(2): repealed, on 1 October 2012, by [section 271(4)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 171(2): repealed, on 1 October 2012, by [section 271(4)][805] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 171(3): repealed, on 1 October 2012, by [section 271(4)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 171(3): repealed, on 1 October 2012, by [section 271(4)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 172 Power of entry for enforcement purposes
     
@@ -5597,21 +5614,21 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) The power in subsection (1) to enter a dwellinghouse must not be exercised unless---
         
-    *   (a) the entry is authorised by a warrant given by an issuing officer (within the meaning of [section 3][791] of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in [subpart 3][792] of Part 4 of that Act; and
+    *   (a) the entry is authorised by a warrant given by an issuing officer (within the meaning of [section 3][799] of the Search and Surveillance Act 2012) on application made in the manner provided for an application for a search warrant in [subpart 3][800] of Part 4 of that Act; and
     
     *   (b) when exercising the power, the enforcement officer is accompanied by a constable.
     
-    (4) Subject to subsections (3)(b) and (5), the provisions of [Part 4][793] of the Search and Surveillance Act 2012 apply.
+    (4) Subject to subsections (3)(b) and (5), the provisions of [Part 4][801] of the Search and Surveillance Act 2012 apply.
     
-    (5) Despite subsection (4), [sections 118][794] and [119][795] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (5) Despite subsection (4), [sections 118][802] and [119][803] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 172(3)(a): amended, on 1 October 2012, by [section 271(5)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(3)(a): amended, on 1 October 2012, by [section 271(5)][805] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 172(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 172(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 172(4): replaced, on 1 October 2012, by [section 271(6)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(4): replaced, on 1 October 2012, by [section 271(6)][805] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 172(5): inserted, on 1 October 2012, by [section 271(6)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 172(5): inserted, on 1 October 2012, by [section 271(6)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 173 Power of entry in cases of emergency
     
@@ -5629,11 +5646,11 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) there is danger to any works or adjoining property.
     
-    (2) The provisions of [Part 4][793] of the Search and Surveillance Act 2012 (except [subparts 2][802] and [3][792], and [sections 118][794] and [119][795]) apply.
+    (2) The provisions of [Part 4][801] of the Search and Surveillance Act 2012 (except [subparts 2][810] and [3][800], and [sections 118][802] and [119][803]) apply.
     
-    Compare: 1974 No 66 [s 708A(3)][803]
+    Compare: 1974 No 66 [s 708A(3)][811]
     
-    Section 173(2): replaced, on 1 October 2012, by [section 271(7)][797] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 173(2): replaced, on 1 October 2012, by [section 271(7)][805] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 174 Authority to act
     
@@ -5651,13 +5668,13 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (5) This section does not apply to---
         
-    *   (a) a dog control officer or dog ranger acting under a power of entry conferred by the [Dog Control Act 1996][804]; or
+    *   (a) a dog control officer or dog ranger acting under a power of entry conferred by the [Dog Control Act 1996][812]; or
     
-    *   (b) an enforcement officer acting under a power conferred by the [Resource Management Act 1991][677]; or
+    *   (b) an enforcement officer acting under a power conferred by the [Resource Management Act 1991][685]; or
     
-    *   (c) an inspector or authorised person acting under a power conferred by the [Biosecurity Act 1993][805].
+    *   (c) an inspector or authorised person acting under a power conferred by the [Biosecurity Act 1993][813].
     
-    Compare: 1974 No 66 [s 710][806]
+    Compare: 1974 No 66 [s 710][814]
 
 #### Recovery for damage
 
@@ -5671,7 +5688,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) any loss or expenses incurred by the local authority by the stoppage or obstruction or interference.
     
-    Compare: 1974 No 66 [s 695][807]
+    Compare: 1974 No 66 [s 695][815]
 
 ##### 176 Costs of remedying damage arising from breach of bylaw
     
@@ -5681,9 +5698,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) Costs recoverable under this section are in addition to any penalty for which the person who committed the offence is liable.
     
-    Compare: 1974 No 66 [s 493(2)--(4)][808]
+    Compare: 1974 No 66 [s 493(2)--(4)][816]
     
-    Section 176(2): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 176(2): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Administration of enforcement functions
 
@@ -5693,7 +5710,7 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) offences against bylaws made under this Act:
     
-    *   (b) infringement offences provided for by regulations made under [section 259][434].
+    *   (b) infringement offences provided for by regulations made under [section 259][441].
     
     (2) A local authority must issue warrants in writing to enforcement officers appointed under this section, specifying---
         
@@ -5735,9 +5752,9 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) be dealt with by the territorial authority as if they were fines imposed for breaches of a bylaw of that territorial authority; and
     
-    *   (b) subject to [section 73][810] of the Public Finance Act 1989, be paid to the relevant territorial authority.
+    *   (b) subject to [section 73][818] of the Public Finance Act 1989, be paid to the relevant territorial authority.
     
-    Compare: 1974 No 66 [s 687][811]
+    Compare: 1974 No 66 [s 687][819]
 
 ### Subpart 3---Powers in relation to private land
 
@@ -5761,17 +5778,17 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) the prior written consent of the owner of the land to the construction of the work; or
     
-    *   (b) complied with the requirements of [Schedule 12][527].
+    *   (b) complied with the requirements of [Schedule 12][534].
     
     (4) A local authority may enter the land to inspect, alter, renew, repair, or clean any work constructed under this section or under the corresponding provision of a former Act.
     
     (5) The power in subsection (4) must not be exercised without first giving reasonable notice of the intention to enter the land to the owner and occupier (if any).
     
-    (6) This section applies subject to the [Public Works Act 1981][812] as to compensation for injurious affection to land.
+    (6) This section applies subject to the [Public Works Act 1981][820] as to compensation for injurious affection to land.
     
-    Compare: 1974 No 66 [s 708][813]
+    Compare: 1974 No 66 [s 708][821]
     
-    Section 181(1)(a): substituted, on 7 July 2004, by [section 18][814] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 181(1)(a): substituted, on 7 July 2004, by [section 18][822] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 #### Powers of entry
 
@@ -5793,7 +5810,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) If an enforcement officer is refused entry or obstructed when exercising the power in subsection (1), the local authority may restrict the water supply to the land or building, as provided for in [section 193][288].
     
-    Compare: 1974 No 66 [s 709][815]
+    Compare: 1974 No 66 [s 709][823]
 
 #### Powers relating to owners and occupiers of land
 
@@ -5805,7 +5822,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the Chief Fire Officer of the New Zealand Fire Service; or
     
-    *   (c) if the land is in a rural fire district under the [Forest and Rural Fires Act 1977][816], a rural fire officer.
+    *   (c) if the land is in a rural fire district under the [Forest and Rural Fires Act 1977][824], a rural fire officer.
     
     (2) A resident of the district may, by notice in writing to a territorial authority, request the territorial authority to issue a notice under this section.
     
@@ -5821,7 +5838,7 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) are in addition to any powers a territorial authority has under any other enactment; and
     
-    *   (b) may be exercised in accordance with any agreement or arrangement under [section 14(2)][817] of the Forest and Rural Fires Act 1977\.
+    *   (b) may be exercised in accordance with any agreement or arrangement under [section 14(2)][825] of the Forest and Rural Fires Act 1977\.
     
     (8) In this section,---
     
@@ -5831,7 +5848,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     _matter_ means accumulated refuse or flammable waste.
     
-    Compare: 1974 No 66 [s 650][818]
+    Compare: 1974 No 66 [s 650][826]
 
 ##### 184 Rights and obligations if notice given under section 183(1)
     
@@ -5865,7 +5882,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the occupier may deduct the amount of the expense or the money paid from any rent due from the occupier to the owner.
     
-    Compare: 1974 No 66 [s 672][819]
+    Compare: 1974 No 66 [s 672][827]
 
 ##### 186 Local authority may execute works if owner or occupier defaults
     
@@ -5895,13 +5912,13 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (6) The exercise of powers under this section by the local authority does not relieve any person from any penalty for failing to comply with the requirements of a notice under this Act.
     
-    (7) Any work done or to be done by the local authority under this section is a public work for the purposes of the [Public Works Act 1981][812].
+    (7) Any work done or to be done by the local authority under this section is a public work for the purposes of the [Public Works Act 1981][820].
     
-    Compare: 1974 No 66 [s 676][820]
+    Compare: 1974 No 66 [s 676][828]
     
-    Section 186(1)(b): amended, on 27 November 2010, by [section 35(1)][821] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 186(1)(b): amended, on 27 November 2010, by [section 35(1)][829] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 186(5)(b): amended, on 27 November 2010, by [section 35(2)][821] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 186(5)(b): amended, on 27 November 2010, by [section 35(2)][829] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Recovery of costs
 
@@ -5909,7 +5926,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   If the default of a person in doing an act is an offence under this Act and the local authority or any officer of the local authority is authorised to do the act in default, the local authority may recover from the person in default the cost of doing the work, together with reasonable administrative and supervision charges.
     
-    Compare: 1974 No 66 [s 677][822]
+    Compare: 1974 No 66 [s 677][830]
 
 ##### 188 Liability for payments in respect of private land
     
@@ -5919,17 +5936,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the rights of the local authority under the charge as against the person.
     
-    Compare: 1974 No 66 [s 678][823]
+    Compare: 1974 No 66 [s 678][831]
 
 #### Compulsory acquisition of land
 
 ##### 189 Power to acquire land
     
-*   (1) A local authority may purchase, or take in the manner provided in the [Public Works Act 1981][812], any land or interest in land, whether within or outside its district, that may be necessary or convenient for the purposes of, or in connection with, any public work that the local authority was empowered to undertake, construct, or provide immediately before 1 July 2003\.
+*   (1) A local authority may purchase, or take in the manner provided in the [Public Works Act 1981][820], any land or interest in land, whether within or outside its district, that may be necessary or convenient for the purposes of, or in connection with, any public work that the local authority was empowered to undertake, construct, or provide immediately before 1 July 2003\.
     
-    (2) All land taken, purchased, or acquired under the [Public Works Act 1981][812] is vested in the local authority for the purpose for which it was acquired and is subject to the provisions of that Act as to a change of the purpose or its disposal.
+    (2) All land taken, purchased, or acquired under the [Public Works Act 1981][820] is vested in the local authority for the purpose for which it was acquired and is subject to the provisions of that Act as to a change of the purpose or its disposal.
     
-    Compare: 1974 No 66 [s 247F][824]
+    Compare: 1974 No 66 [s 247F][832]
 
 ##### 190 Compensation payable by local authority for land taken or injuriously affected
     
@@ -5941,11 +5958,11 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) suffering any damage from the exercise of any of the powers given by this Act.
     
-    (2) A person is entitled to full compensation from the local authority for the matters referred to in subsection (1)(a), (b), or (c) to the extent provided in the [Public Works Act 1981][812].
+    (2) A person is entitled to full compensation from the local authority for the matters referred to in subsection (1)(a), (b), or (c) to the extent provided in the [Public Works Act 1981][820].
     
-    (3) The compensation may be claimed and must be determined in the manner provided by the [Public Works Act 1981][812].
+    (3) The compensation may be claimed and must be determined in the manner provided by the [Public Works Act 1981][820].
     
-    Compare: 1974 No 66 [s 247G][825]
+    Compare: 1974 No 66 [s 247G][833]
 
 #### Nuisance
 
@@ -5957,7 +5974,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) to deprive the Crown or any person of any right or remedy the Crown or the person would otherwise have against the local authority or any other person in respect of any nuisance.
     
-    Compare: 1974 No 66 [s 247H][826]
+    Compare: 1974 No 66 [s 247H][834]
 
 ### Subpart 4---Powers in relation to water services and trade wastes
 
@@ -5967,7 +5984,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   A person who is supplied with reticulated water by, or on behalf of, a local authority must not waste the water or allow it to be wasted.
     
-    Compare: 1974 No 66 [s 382][827]
+    Compare: 1974 No 66 [s 382][835]
 
 ##### 193 Power to restrict water supply
     
@@ -5991,17 +6008,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (2) Restriction of the water supply under subsection (1) must not create unsanitary conditions in, or associated with, the land or building.
     
-    (3) Restriction of the water supply under subsection (1) is subject to [section 69S][746] of the Health Act 1956\.
+    (3) Restriction of the water supply under subsection (1) is subject to [section 69S][754] of the Health Act 1956\.
     
-    Section 193(1)(ba): substituted, on 28 June 2006, by [section 21][828] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 193(1)(ba): substituted, on 28 June 2006, by [section 21][836] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 193(3): added, on 1 July 2008, by [section 16][829] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 193(3): added, on 1 July 2008, by [section 16][837] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 ##### 194 Power to stop water services
     
 *   \[Repealed\]
     
-    Section 194: repealed, on 1 July 2008, by [section 17][830] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
+    Section 194: repealed, on 1 July 2008, by [section 17][838] of the Health (Drinking Water) Amendment Act 2007 (2007 No 92).
 
 #### Discharge of sewage and trade wastes
 
@@ -6011,17 +6028,17 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) this Act; or
     
-    *   (b) the [Resource Management Act 1991][677] or regulations made under that Act; or
+    *   (b) the [Resource Management Act 1991][685] or regulations made under that Act; or
     
-    *   (c) the [Building Act 2004][580] or regulations made under that Act.
+    *   (c) the [Building Act 2004][588] or regulations made under that Act.
     
-    (2) However, this section does not absolve a local authority from liability for the discharge, in contravention of this Part or of the [Resource Management Act 1991][677], of a contaminant from a sewerage drain under the control of the local authority.
+    (2) However, this section does not absolve a local authority from liability for the discharge, in contravention of this Part or of the [Resource Management Act 1991][685], of a contaminant from a sewerage drain under the control of the local authority.
     
     (3) The Minister of Health may, by notice in the _Gazette_, declare that a bylaw made by a local authority and specified in the notice is a trade wastes bylaw for the purposes of this section.
     
-    Compare: 1974 No 66 [s 498][831]
+    Compare: 1974 No 66 [s 498][839]
     
-    Section 195(1)(c): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 195(1)(c): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 196 Discharge of trade wastes
     
@@ -6031,17 +6048,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) without consent if, and to the extent that, the discharge is permitted by trade wastes bylaws.
     
-    (2) This section does not override any trade wastes bylaws, or the [Resource Management Act 1991][677].
+    (2) This section does not override any trade wastes bylaws, or the [Resource Management Act 1991][685].
     
-    Compare: 1974 No 66 [s 499][832]
+    Compare: 1974 No 66 [s 499][840]
 
 ### Subpart 5---Development contributions
 
 ##### 197 Interpretation
     
-*   (1) In this subpart and [Schedule 13][528],---
+*   (1) In this subpart and [Schedule 13][535],---
     
-    _allotment_ has the meaning given to it in [section 218(2)][833] of the Resource Management Act 1991
+    _allotment_ has the meaning given to it in [section 218(2)][841] of the Resource Management Act 1991
     
     _development_ means---
         
@@ -6049,9 +6066,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) does not include the pipes or lines of a network utility operator
     
-    _methodology_ means the methodology for calculating development contributions set out in [Schedule 13][528]
+    _methodology_ means the methodology for calculating development contributions set out in [Schedule 13][535]
     
-    _network utility operator_ has the meaning given to it by [section 166][834] of the Resource Management Act 1991\.
+    _network utility operator_ has the meaning given to it by [section 166][842] of the Resource Management Act 1991\.
     
     (2) In this Act, unless the context otherwise requires,---
     
@@ -6073,7 +6090,7 @@ Regulatory, enforcement, and coercive powers of local authorities
             
         *   (i) money; or
         
-        *   (ii) land, including a reserve or esplanade reserve (other than in relation to a subdivision consent), but excluding Māori land within the meaning of [Te Ture Whenua Maori Act 1993][835], unless that Act provides otherwise; or
+        *   (ii) land, including a reserve or esplanade reserve (other than in relation to a subdivision consent), but excluding Māori land within the meaning of [Te Ture Whenua Maori Act 1993][843], unless that Act provides otherwise; or
         
         *   (iii) both
         
@@ -6085,21 +6102,21 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     _service connection_ means a physical connection to a service provided by, or on behalf of, a territorial authority.
     
-    Section 197(1): amended, on 28 June 2006, by [section 22(1)][836] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 197(1): amended, on 28 June 2006, by [section 22(1)][844] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 197(1) **community facilities**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **community facilities**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(1) **community infrastructure**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **community infrastructure**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(1) **development contribution**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **development contribution**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(1) **development contribution policy**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **development contribution policy**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(1) **network infrastructure**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **network infrastructure**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(1) **service connection**: repealed, on 5 December 2012, by [section 30(1)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(1) **service connection**: repealed, on 5 December 2012, by [section 30(1)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 197(2): inserted, on 5 December 2012, by [section 30(2)][837] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 197(2): inserted, on 5 December 2012, by [section 30(2)][845] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Contributions may be required by territorial authorities
 
@@ -6107,41 +6124,41 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   (1) A territorial authority may require a development contribution to be made to the territorial authority when---
         
-    *   (a) a resource consent is granted under the [Resource Management Act 1991][677] for a development within its district:
+    *   (a) a resource consent is granted under the [Resource Management Act 1991][685] for a development within its district:
     
-    *   (b) a building consent is granted under the [Building Act 2004][580] for building work situated in its district (whether by the territorial authority or a building consent authority):
+    *   (b) a building consent is granted under the [Building Act 2004][588] for building work situated in its district (whether by the territorial authority or a building consent authority):
     
     *   (c) an authorisation for a service connection is granted.
     
-    (2) A territorial authority may only require a development contribution as provided for in a policy adopted under [section 102(1)][145] that is consistent with [section 201][301].
+    (2) A territorial authority may only require a development contribution as provided for in a policy adopted under [section 102(1)][145] that is consistent with [section 201][308].
     
     (3) A requirement for a development contribution under subsection (1)(a) or (1)(b) is not---
         
     *   (a) a condition of a resource consent that gives rise to any right of objection or appeal; or
     
-    *   (b) as the case may be, a matter that gives rise to any right to apply to the chief executive for a determination under the [Building Act 2004][580].
+    *   (b) as the case may be, a matter that gives rise to any right to apply to the chief executive for a determination under the [Building Act 2004][588].
     
     (4) Subsection (3) is for the avoidance of doubt.
     
     (5) In this section,---
     
-    _building consent authority_ means a person whose name is entered in the register referred to in [section 273(1)(a)][838] of the Building Act 2004
+    _building consent authority_ means a person whose name is entered in the register referred to in [section 273(1)(a)][846] of the Building Act 2004
     
-    _chief executive_ has the meaning given to it in [section 7][839] of the Building Act 2004\.
+    _chief executive_ has the meaning given to it in [section 7][847] of the Building Act 2004\.
     
-    Section 198(1): substituted, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 198(1): substituted, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
     
-    Section 198(1): amended, on 28 June 2006, by [section 23(1)][840] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 198(1): amended, on 28 June 2006, by [section 23(1)][848] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 198(1)(b): amended, on 28 June 2006, by [section 23(2)][840] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 198(1)(b): amended, on 28 June 2006, by [section 23(2)][848] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 198(2): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 198(2): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 198(3): substituted, on 28 June 2006, by [section 23(3)][840] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 198(3): substituted, on 28 June 2006, by [section 23(3)][848] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 198(4): added, on 28 June 2006, by [section 23(3)][840] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 198(4): added, on 28 June 2006, by [section 23(3)][848] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 198(5): added, on 28 June 2006, by [section 23(3)][840] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 198(5): added, on 28 June 2006, by [section 23(3)][848] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 199 Basis on which development contributions may be required
     
@@ -6157,13 +6174,79 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) In subsection (1), _effect_ includes the cumulative effects that a development may have in combination with another development.
 
+##### 199C Right to object to assessed amount of development contribution
+    
+*   (1) A person may, on any ground set out in [section 199D][299], object to the assessed amount of the development contribution that a territorial authority has required from the person under [section 198][296], advised in---
+        
+    *   (a) a notice given to the person for that purpose by the territorial authority; or
+    
+    *   (b) if notice has not been given, such other formal advice of the requirement that the territorial authority has given to the person.
+    
+    (2) The right of objection conferred by subsection (1) applies irrespective of whether a reconsideration of the requirement for a development contribution under section 199A has been requested.
+    
+    (3) The right of objection conferred by this section does not apply to challenges to the content of a development contributions policy prepared in accordance with [section 102][145].
+    
+    Section 199C: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199D Scope of development contribution objections
+    
+*   An objection under [section 199C][298] may be made only on the ground that a territorial authority has---
+        
+    *   (a) failed to properly take into account features of the objector's development that, on their own or cumulatively with those of other developments, would substantially reduce the impact of the development on requirements for community facilities in the territorial authority's district or parts of that district; or
+    
+    *   (b) required a development contribution for community facilities not required by, or related to, the objector's development, whether on its own or cumulatively with other developments; or
+    
+    *   (c) required a development contribution in breach of [section 200][306]; or
+    
+    *   (d) incorrectly applied its development contributions policy to the objector's development.
+    
+    Section 199D: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199E Procedure for development contribution objections
+    
+*   [Schedule 13A][536] applies in relation to objections under [section 199C][298].
+    
+    Section 199E: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199M Residual powers of territorial authority relating to development contribution objection decision
+    
+*   (1) This section applies to a decision of a development contributions commissioner.
+    
+    (2) The territorial authority affected by the decision retains all the functions, duties, responsibilities, and powers of a territorial authority in relation to the requirement for the development contribution that is the subject of the decision as if the decision had been made by the territorial authority.
+    
+    (3) Subsection (2) does not confer on a territorial authority the power to change, amend, or overturn a decision made by a development contributions commissioner.
+    
+    (4) However, nothing in subsection (3) affects a territorial authority's right to apply for judicial review of a decision made by a development contributions commissioner.
+    
+    Section 199M: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199N Objector's right to apply for judicial review unaffected
+    
+*   Nothing in this subpart affects the right of an objector to a development contribution to apply for judicial review of a decision made by a development contributions commissioner.
+    
+    Section 199N: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199O Territorial authority to provide administrative support for development contributions commissioners
+    
+*   A territorial authority must supply all secretarial and administrative services necessary to enable development contributions commissioners to perform their functions under this Act.
+    
+    Section 199O: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 199P Interim effect of development contribution objection
+    
+*   (1) If a development contribution objection is lodged, the territorial authority may still require the development contribution to be made, but must not use it until the objection has been determined.
+    
+    (2) If a territorial authority does not require a development contribution to be made pending the determination of an objection, the territorial authority may withhold certificates or permissions in accordance with [section 208][317] until the objection has been determined.
+    
+    Section 199P: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 55][849] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
 #### Conditions relevant to requirement for contributions
 
 ##### 200 Limitations applying to requirement for development contribution
     
 *   (1) A territorial authority must not require a development contribution for a reserve, network infrastructure, or community infrastructure if, and to the extent that---
         
-    *   (a) it has, under [section 108(2)(a)][719] of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
+    *   (a) it has, under [section 108(2)(a)][727] of the Resource Management Act 1991, imposed a condition on a resource consent in relation to the same development for the same purpose; or
     
     *   (b) the developer will fund or otherwise provide for the same reserve, network infrastructure, or community infrastructure; or
     
@@ -6183,15 +6266,15 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) the conditions and criteria (if any) that will apply in relation to the remission, postponement, or refund of development contributions, or the return of land; and
     
-    *   (d) the basis on which the value of additional allotments or land is assessed for the purposes of [section 203(1)][303].
+    *   (d) the basis on which the value of additional allotments or land is assessed for the purposes of [section 203(1)][310].
     
-    (2) A development contributions policy must contain a schedule in accordance with [section 202][302].
+    (2) A development contributions policy must contain a schedule in accordance with [section 202][309].
     
-    Section 201(1): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 201(1): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 202 Contents of schedule to development contributions policy
     
-*   (1) The schedule of development contributions required by [section 201(2)][301] must specify---
+*   (1) The schedule of development contributions required by [section 201(2)][308] must specify---
         
     *   (a) the development contributions payable in each district, calculated, in each case, in accordance with the methodology in respect of---
             
@@ -6205,9 +6288,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the event that will give rise to a requirement for a development contribution under [section 198][296], whether upon granting---
             
-        *   (i) a resource consent under the [Resource Management Act 1991][677]; or
+        *   (i) a resource consent under the [Resource Management Act 1991][685]; or
         
-        *   (ii) a building consent under the [Building Act 2004][580]; or
+        *   (ii) a building consent under the [Building Act 2004][588]; or
         
         *   (iii) an authorisation for a service connection.
         
@@ -6217,7 +6300,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (3) The specifications required under subsection (1) or subsection (2) must be given separately in relation to each activity or group of activities for which separate development contributions are required.
     
-    Section 202(1)(b)(ii): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 202(1)(b)(ii): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 203 Maximum development contributions not to be exceeded
     
@@ -6227,7 +6310,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the value equivalent of 20 square metres of land for each additional household unit created by the development.
     
-    (2) Development contributions for network infrastructure or community infrastructure must not exceed the amount calculated by multiplying the cost of the relevant unit of demand calculated under [clause 1][841] of Schedule 13 by the number of units of demand assessed for a development or type of development, as provided for in [clause 2][842] of Schedule 13\.
+    (2) Development contributions for network infrastructure or community infrastructure must not exceed the amount calculated by multiplying the cost of the relevant unit of demand calculated under [clause 1][850] of Schedule 13 by the number of units of demand assessed for a development or type of development, as provided for in [clause 2][851] of Schedule 13\.
 
 #### Use of development contributions
 
@@ -6239,7 +6322,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) must not be used for the maintenance of the reserve, network infrastructure, or community infrastructure.
     
-    (2) Subsection (1) is subject to [section 205][306].
+    (2) Subsection (1) is subject to [section 205][313].
 
 ##### 205 Use of development contributions for reserves
     
@@ -6247,9 +6330,9 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) the development of community or recreational facilities associated with the use of a reserve:
     
-    *   (b) the provision or improvement of recreational facilities at a school established or about to be established under [Part 12][843] of the Education Act 1989, if---
+    *   (b) the provision or improvement of recreational facilities at a school established or about to be established under [Part 12][852] of the Education Act 1989, if---
             
-        *   (i) a licence has been granted under [section 6A][844] of the Education Lands Act 1949 or [section 70B][845] of the Education Act 1989 in relation to the use or occupation of the community recreational facilities; and
+        *   (i) a licence has been granted under [section 6A][853] of the Education Lands Act 1949 or [section 70B][854] of the Education Act 1989 in relation to the use or occupation of the community recreational facilities; and
         
         *   (ii) the Minister for Sport and Recreation has notified the local authority in writing that he or she is satisfied that the licence provides for the reasonable use of the community recreational facilities by members of the public:
         
@@ -6257,9 +6340,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) the purchase of land or an interest in land---
             
-        *   (i) to be held for conservation purposes under the [Reserves Act 1977][755]:
+        *   (i) to be held for conservation purposes under the [Reserves Act 1977][763]:
         
-        *   (ii) that is, or will be, subject to a conservation covenant under [section 77][846] of the Reserves Act 1977:
+        *   (ii) that is, or will be, subject to a conservation covenant under [section 77][855] of the Reserves Act 1977:
         
         
     
@@ -6267,25 +6350,25 @@ Regulatory, enforcement, and coercive powers of local authorities
             
         *   (i) another local authority or public body in which land in the district is vested to enlarge, enhance, or develop the land for public recreation purposes:
         
-        *   (ii) the administering body of a reserve held under the [Reserves Act 1977][755] to enlarge, enhance, or develop the reserve:
+        *   (ii) the administering body of a reserve held under the [Reserves Act 1977][763] to enlarge, enhance, or develop the reserve:
         
-        *   (iii) the trustees or body corporate in whom is vested a Māori reservation to which [section 340][847] of Te Ture Whenua Maori Act 1993 applies, to enhance the reservation for cultural or other purposes:
+        *   (iii) the trustees or body corporate in whom is vested a Māori reservation to which [section 340][856] of Te Ture Whenua Maori Act 1993 applies, to enhance the reservation for cultural or other purposes:
         
         *   (iv) any person, to secure an appropriate interest in perpetuity in land for conservation purposes.
         
         
     
-    Section 205(b)(i): amended, on 17 May 2006, by [section 8(4)][848] of the Education Amendment Act 2006 (2006 No 19).
+    Section 205(b)(i): amended, on 17 May 2006, by [section 8(4)][857] of the Education Amendment Act 2006 (2006 No 19).
 
 ##### 206 Alternative uses of development contributions for reserves
     
-*   Despite [section 205][306], if the territorial authority considers that the district in which the development is situated has adequate reserves, or that it is impracticable to purchase or develop reserves in that locality, it may, if it considers it will benefit the residents in the district in which the development is situated, use the development contributions---
+*   Despite [section 205][313], if the territorial authority considers that the district in which the development is situated has adequate reserves, or that it is impracticable to purchase or develop reserves in that locality, it may, if it considers it will benefit the residents in the district in which the development is situated, use the development contributions---
         
     *   (a) to add to, improve, or develop land outside the district that is vested in, or controlled by, the territorial authority for public recreation purposes:
     
     *   (b) with the consent of the Minister and subject to the terms and conditions the Minister thinks fit, to make payments or advance money to a local authority or public body to add to, improve, or develop land outside the district that is vested in, or controlled by, the local authority or public body for public recreation purposes:
     
-    *   (c) if the territorial authority has control of the foreshore or the bed of a lake or a harbour under a coastal permit by virtue of [section 384(1)(b)][849] or [section 425(3)(a)][850] of the Resource Management Act 1991,---
+    *   (c) if the territorial authority has control of the foreshore or the bed of a lake or a harbour under a coastal permit by virtue of [section 384(1)(b)][858] or [section 425(3)(a)][859] of the Resource Management Act 1991,---
             
         *   (i) to improve or develop the foreshore (whether within or outside the district) for public recreational purposes:
         
@@ -6305,15 +6388,15 @@ Regulatory, enforcement, and coercive powers of local authorities
     
 *   (1) This section applies to money collected---
         
-    *   (a) as contributions under [Part 20][851] of the Local Government Act 1974:
+    *   (a) as contributions under [Part 20][860] of the Local Government Act 1974:
     
-    *   (b) as contributions under [sections 407][852] or [409][853] of the Resource Management Act 1991\.
+    *   (b) as contributions under [sections 407][861] or [409][862] of the Resource Management Act 1991\.
     
     (2) If, at the commencement of this subpart, a territorial authority holds money to which this section applies, the territorial authority may, with the written approval of the Minister, use the money as if it had been collected in accordance with this subpart,---
         
-    *   (a) in the case of money collected under [Part 20][851] of the Local Government Act 1974, in accordance with this subpart; and
+    *   (a) in the case of money collected under [Part 20][860] of the Local Government Act 1974, in accordance with this subpart; and
     
-    *   (b) in the case of money collected under [sections 407][852] or [409][853] of the Resource Management Act 1991, in accordance with the conditions imposed under those sections.
+    *   (b) in the case of money collected under [sections 407][861] or [409][862] of the Resource Management Act 1991, in accordance with the conditions imposed under those sections.
     
     
 
@@ -6325,19 +6408,19 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) in the case of a development contribution required under [section 198(1)(a)][296],---
             
-        *   (i) withhold a certificate under [section 224(c)][854] of the Resource Management Act 1991:
+        *   (i) withhold a certificate under [section 224(c)][863] of the Resource Management Act 1991:
         
-        *   (ii) prevent the commencement of a resource consent under the [Resource Management Act 1991][677]:
+        *   (ii) prevent the commencement of a resource consent under the [Resource Management Act 1991][685]:
         
         
     
-    *   (b) in the case of a development contribution required under [section 198(1)(b)][296], withhold a code compliance certificate under [section 95][855] of the Building Act 2004:
+    *   (b) in the case of a development contribution required under [section 198(1)(b)][296], withhold a code compliance certificate under [section 95][864] of the Building Act 2004:
     
     *   (c) in the case of a development contribution required under [section 198(1)(c)][296], withhold a service connection to the development:
     
-    *   (d) in each case, register the development contribution under the [Statutory Land Charges Registration Act 1928][856], as a charge on the title of the land in respect of which the development contribution was required.
+    *   (d) in each case, register the development contribution under the [Statutory Land Charges Registration Act 1928][865], as a charge on the title of the land in respect of which the development contribution was required.
     
-    Section 208(b): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 208(b): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 #### Refund of development contributions
 
@@ -6347,13 +6430,13 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) the resource consent---
             
-        *   (i) lapses under [section 125][857] of the Resource Management Act 1991; or
+        *   (i) lapses under [section 125][866] of the Resource Management Act 1991; or
         
-        *   (ii) is surrendered under [section 138][858] of that Act; or
+        *   (ii) is surrendered under [section 138][867] of that Act; or
         
         
     
-    *   (b) the building consent lapses under [section 52][859] of the Building Act 2004; or
+    *   (b) the building consent lapses under [section 52][868] of the Building Act 2004; or
     
     *   (c) the development or building in respect of which the resource consent or building consent was granted does not proceed; or
     
@@ -6361,7 +6444,7 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     (2) A territorial authority may retain any portion of a development contribution or land referred to in subsection (1) of a value equivalent to the costs incurred by the territorial authority in relation to the development or building and its discontinuance.
     
-    Section 209(1)(b): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 209(1)(b): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 210 Refund of money or return of land if not applied to specified reserve purposes
     
@@ -6375,33 +6458,33 @@ Regulatory, enforcement, and coercive powers of local authorities
 
 ##### 211 Application of other Acts
     
-*   This subpart is in addition to the [Building Act 2004][580] and the [Resource Management Act 1991][677].
+*   This subpart is in addition to the [Building Act 2004][588] and the [Resource Management Act 1991][685].
     
-    Section 211: amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 211: amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ### Subpart 6---Removal orders
 
 ##### 212 Interpretation
     
-*   In [sections 215 to 221][321] and [Schedule 14][529], unless the context otherwise requires,---
+*   In [sections 215 to 221][328] and [Schedule 14][537], unless the context otherwise requires,---
     
     _alter_, in relation to a fence, structure, or vegetation, includes the removal of all or part of the fence, structure, or vegetation if that removal is associated with its rebuilding or re-erection or replanting in a form specified in the removal order
     
-    _applicant_ means a territorial authority or constable who applies for a removal order under [section 215][321]
+    _applicant_ means a territorial authority or constable who applies for a removal order under [section 215][328]
     
-    _controlled drug_ has the meaning given to it by [section 2(1)][860] of the Misuse of Drugs Act 1975
+    _controlled drug_ has the meaning given to it by [section 2(1)][869] of the Misuse of Drugs Act 1975
     
     _court_ means a District Court; and includes a District Court Judge
     
-    _crime involving dishonesty_ has the meaning given to it by [section 2(1)][861] of the Crimes Act 1961
+    _crime involving dishonesty_ has the meaning given to it by [section 2(1)][870] of the Crimes Act 1961
     
-    _plan_ has the meaning given to it by [section 2(1)][544] of the Resource Management Act 1991
+    _plan_ has the meaning given to it by [section 2(1)][552] of the Resource Management Act 1991
     
     _proceeds_ means property that is derived or realised, directly or indirectly, by a person from the commission of a serious offence
     
-    _proposed plan_ has the meaning given to it by [section 2(1)][544] of the Resource Management Act 1991
+    _proposed plan_ has the meaning given to it by [section 2(1)][552] of the Resource Management Act 1991
     
-    _removal order_ or _order_ means an order made under [section 216][323] to remove or alter any fence, structure, or vegetation
+    _removal order_ or _order_ means an order made under [section 216][330] to remove or alter any fence, structure, or vegetation
     
     _respondent_ means the person against whom an application for a removal order has been made; and includes a person against whom a removal order is made
     
@@ -6417,49 +6500,49 @@ Regulatory, enforcement, and coercive powers of local authorities
         
     *   (a) means an article made or altered for use, or capable of being used, for causing bodily injury; and
     
-    *   (b) includes, in respect of an offence against the [Arms Act 1983][862] or an imprisonable offence committed or about to be committed,---
+    *   (b) includes, in respect of an offence against the [Arms Act 1983][871] or an imprisonable offence committed or about to be committed,---
             
-        *   (i) a firearm, airgun, pistol, restricted weapon, or explosive, as those terms are defined in [section 2][863] of the Arms Act 1983:
+        *   (i) a firearm, airgun, pistol, restricted weapon, or explosive, as those terms are defined in [section 2][872] of the Arms Act 1983:
         
         *   (ii) any ammunition.
         
         
     
-    Compare: 1974 No 66 [s 692ZC][864]
+    Compare: 1974 No 66 [s 692ZC][873]
     
-    Section 212 **applicant**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 212 **applicant**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 212 **unauthorised weapon** paragraph (b): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 212 **unauthorised weapon** paragraph (b): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Application of rules of court
 
 ##### 213 Application of District Courts Rules to removal orders
     
-*   (1) Despite [section 247][379], an application made under [section 215][321] must be made in accordance with [Part 8][865] of the District Courts Rules 2009 and any rules made under subsection (2) or [section 214][319].
+*   (1) Despite [section 247][386], an application made under [section 215][328] must be made in accordance with [Part 8][874] of the District Courts Rules 2009 and any rules made under subsection (2) or [section 214][326].
     
-    (2) In addition to all the powers conferred by the [District Courts Act 1947][866], the Governor-General may, from time to time, by Order in Council, make rules under that Act---
+    (2) In addition to all the powers conferred by the [District Courts Act 1947][875], the Governor-General may, from time to time, by Order in Council, make rules under that Act---
         
     *   (a) regulating the practice and procedure of the District Court in proceedings relating to an application for a removal order; and
     
-    *   (b) providing for the matters contemplated by, or necessary for giving full effect to, [sections 215 to 221][321] and [Schedule 14][529].
+    *   (b) providing for the matters contemplated by, or necessary for giving full effect to, [sections 215 to 221][328] and [Schedule 14][537].
     
-    (3) Rules made under the [District Courts Act 1947][866] in accordance with this section are part of the [District Courts Rules 2009][867].
+    (3) Rules made under the [District Courts Act 1947][875] in accordance with this section are part of the [District Courts Rules 2009][876].
     
-    (4) In the absence of rules made under the [District Courts Act 1947][866] in accordance with this section, or in a situation not covered by such rules, the [District Courts Rules 2009][867] apply, with all necessary modifications, to proceedings relating to [sections 215 to 221][321].
+    (4) In the absence of rules made under the [District Courts Act 1947][875] in accordance with this section, or in a situation not covered by such rules, the [District Courts Rules 2009][876] apply, with all necessary modifications, to proceedings relating to [sections 215 to 221][328].
     
-    Compare: 1974 No 66 [ss 692ZD(6)][868], [692ZN][869]
+    Compare: 1974 No 66 [ss 692ZD(6)][877], [692ZN][878]
     
-    Section 213(1): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Section 213(1): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
     
-    Section 213(3): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Section 213(3): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
     
-    Section 213(4): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Section 213(4): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
 
 ##### 214 Scope of rules made under section 213
     
-*   Without limiting [section 213(2)][318], rules made in accordance with that subsection under the [District Courts Act 1947][866] may---
+*   Without limiting [section 213(2)][325], rules made in accordance with that subsection under the [District Courts Act 1947][875] may---
         
-    *   (a) prescribe the procedure for serving a removal order, notice, and other documents for the purposes of [sections 215 to 221][321] and [Schedule 14][529] (including, without limitation, the circumstances in which service may be effected by leaving a copy of the order, notice, or document at the property to which the order relates):
+    *   (a) prescribe the procedure for serving a removal order, notice, and other documents for the purposes of [sections 215 to 221][328] and [Schedule 14][537] (including, without limitation, the circumstances in which service may be effected by leaving a copy of the order, notice, or document at the property to which the order relates):
     
     *   (b) provide for substituted service, and for service to be dispensed with, in the circumstances that are specified in the rules:
     
@@ -6479,27 +6562,27 @@ Regulatory, enforcement, and coercive powers of local authorities
         
         
     
-    *   (f) prescribe the forms necessary for the purposes of [sections 215 to 221][321] and [Schedule 14][529]:
+    *   (f) prescribe the forms necessary for the purposes of [sections 215 to 221][328] and [Schedule 14][537]:
     
-    *   (g) apply, with or without modification, provisions of the [District Courts Rules 2009][867].
+    *   (g) apply, with or without modification, provisions of the [District Courts Rules 2009][876].
     
-    Compare: 1974 No 66 [s 692ZN(2)][869]
+    Compare: 1974 No 66 [s 692ZN(2)][878]
     
-    Section 214(g): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Section 214(g): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
 
 #### Application for removal order
 
 ##### 215 Application for removal order
     
-*   (1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in [Part 8][865] of the District Courts Rules 2009 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
+*   (1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in [Part 8][874] of the District Courts Rules 2009 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
     
-    (2) [Schedule 14][529] applies to applications made under this section.
+    (2) [Schedule 14][537] applies to applications made under this section.
     
-    Compare: 1974 No 66 [s 692ZD(1)][868]
+    Compare: 1974 No 66 [s 692ZD(1)][877]
     
-    Section 215(1): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Section 215(1): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
     
-    Section 215(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 215(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
 
 #### Making of removal orders
 
@@ -6527,25 +6610,25 @@ Regulatory, enforcement, and coercive powers of local authorities
         
         
     
-    Compare: 1974 No 66 [s 692ZD(2)][868]
+    Compare: 1974 No 66 [s 692ZD(2)][877]
     
-    Section 216(b)(ii): amended, on 1 December 2009, by [section 4][871] of the Local Government Amendment Act 2009 (2009 No 48).
+    Section 216(b)(ii): amended, on 1 December 2009, by [section 4][880] of the Local Government Amendment Act 2009 (2009 No 48).
     
-    Section 216(b)(iii): added, on 1 December 2009, by [section 4][871] of the Local Government Amendment Act 2009 (2009 No 48).
+    Section 216(b)(iii): added, on 1 December 2009, by [section 4][880] of the Local Government Amendment Act 2009 (2009 No 48).
 
 #### Objection to making of removal order
 
 ##### 217 Right of objection
     
-*   (1) If the court makes a removal order under [section 216][323], the persons listed in [clause 3(a)][872] of Schedule 14 may object to the order being made.
+*   (1) If the court makes a removal order under [section 216][330], the persons listed in [clause 3(a)][881] of Schedule 14 may object to the order being made.
     
     (2) A notice of objection lodged under subsection (1) operates as a stay of the removal order, pending the court's decision on the objection.
     
-    Compare: 1974 No 66 [s 692ZG(1), (6)][873]
+    Compare: 1974 No 66 [s 692ZG(1), (6)][882]
 
 ##### 218 Consideration of objections
     
-*   (1) After considering any objection made under [section 217(1)][325] to a removal order, the court may---
+*   (1) After considering any objection made under [section 217(1)][332] to a removal order, the court may---
         
     *   (a) confirm the order; or
     
@@ -6553,23 +6636,23 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (c) discharge the order.
     
-    (2) Without limiting the powers of the court, the court may strike out an objection made under [section 217(1)][325] if it is satisfied that the objection is frivolous or vexatious or an abuse of the procedure of the court.
+    (2) Without limiting the powers of the court, the court may strike out an objection made under [section 217(1)][332] if it is satisfied that the objection is frivolous or vexatious or an abuse of the procedure of the court.
     
-    Compare: 1974 No 66 [ss 692ZH][874], [692ZI(1)][875]
+    Compare: 1974 No 66 [ss 692ZH][883], [692ZI(1)][884]
 
 #### Right of appeal
 
 ##### 219 Appeal to High Court final
     
-*   If a party to proceedings under this subpart appeals to the High Court under [Part 5][876] of the District Courts Act 1947, the decision of the High Court on that appeal is final.
+*   If a party to proceedings under this subpart appeals to the High Court under [Part 5][885] of the District Courts Act 1947, the decision of the High Court on that appeal is final.
     
-    Compare: 1974 No 66 [s 692ZJ][877]
+    Compare: 1974 No 66 [s 692ZJ][886]
 
 #### Compliance with removal order
 
 ##### 220 Compliance with removal order
     
-*   (1) If no notice of objection to a removal order is lodged under [section 217(1)][325], or if the court confirms an order under [section 218(1)][326] with or without variation, the respondent must---
+*   (1) If no notice of objection to a removal order is lodged under [section 217(1)][332], or if the court confirms an order under [section 218(1)][333] with or without variation, the respondent must---
         
     *   (a) comply with a removal order within the period specified in the order; and
     
@@ -6585,17 +6668,17 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (d) after allowing for any money received under paragraph (c), recover the costs and expenses incurred in carrying out the terms of the removal order as a debt from the respondent.
     
-    (3) Costs or expenses that remain unpaid under subsection (2)(d) may be registered under the [Statutory Land Charges Registration Act 1928][856] as a charge on a property in respect of which a removal order is made.
+    (3) Costs or expenses that remain unpaid under subsection (2)(d) may be registered under the [Statutory Land Charges Registration Act 1928][865] as a charge on a property in respect of which a removal order is made.
     
-    (4) [Section 40][878] of the Building Act 2004 does not apply to the removal or alteration of a fence, structure, or vegetation in accordance with this section.
+    (4) [Section 40][887] of the Building Act 2004 does not apply to the removal or alteration of a fence, structure, or vegetation in accordance with this section.
     
-    Compare: 1974 No 66 [s 692ZK(1), (2), (3), (6)][879]
+    Compare: 1974 No 66 [s 692ZK(1), (2), (3), (6)][888]
     
-    Section 220(4): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 220(4): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 221 Limits to power of entry to enforce compliance
     
-*   (1) If a respondent fails to comply with a removal order, and the applicant enforces compliance under [section 220(2)][330], the power conferred by that subsection to enter a place for that purpose is subject to the following conditions:
+*   (1) If a respondent fails to comply with a removal order, and the applicant enforces compliance under [section 220(2)][337], the power conferred by that subsection to enter a place for that purpose is subject to the following conditions:
         
     *   (a) entry upon the property must be made only by---
             
@@ -6613,35 +6696,35 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (d) as soon as practicable after entry is made, the applicant must give notice in writing, in the prescribed form and manner, to the owner and to the occupier of the property of the entry and the reasons for it.
     
-    (2) Compensation or damages must not be awarded in civil proceedings brought against a person referred to in subsection (1)(a) for any act done in good faith by that person under [section 220(2)][330].
+    (2) Compensation or damages must not be awarded in civil proceedings brought against a person referred to in subsection (1)(a) for any act done in good faith by that person under [section 220(2)][337].
     
-    Compare: 1974 No 66 [s 692ZK(3)--(5)][879]
+    Compare: 1974 No 66 [s 692ZK(3)--(5)][888]
     
-    Section 221(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 221(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 221(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 221(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
     
-    Section 221(1)(a)(iii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 221(1)(a)(iii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
 
 #### Application of certain other Acts
 
 ##### 222 Provisions of Resource Management Act 1991 and Building Act 2004 continue to apply
     
-*   Except as otherwise provided in this subpart or in [Schedule 14][529], [sections 215 to 221][321] and Schedule 14 apply in addition to, and not in derogation of, the provisions relating to the removal or alteration of fences, structures, or vegetation under this Act, the [Resource Management Act 1991][677], and the [Building Act 2004][580].
+*   Except as otherwise provided in this subpart or in [Schedule 14][537], [sections 215 to 221][328] and Schedule 14 apply in addition to, and not in derogation of, the provisions relating to the removal or alteration of fences, structures, or vegetation under this Act, the [Resource Management Act 1991][685], and the [Building Act 2004][588].
     
-    Compare: 1974 No 66 [s 692ZD(8)][868]
+    Compare: 1974 No 66 [s 692ZD(8)][877]
     
-    Section 222 heading: amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 222 heading: amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
     
-    Section 222: amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 222: amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 223 Relationship with Fencing Act 1978
     
-*   (1) If a fence, within the meaning of [section 2][880] of the Fencing Act 1978, or vegetation or a structure that is, or forms part of, a fence, is altered in accordance with a removal order made under this subpart, it is presumed, unless a court orders otherwise under the [Fencing Act 1978][881], to be an adequate fence within the meaning of that Act in respect of the part of the boundary of the property that it covers until the expiry of the period described in subsection (4).
+*   (1) If a fence, within the meaning of [section 2][889] of the Fencing Act 1978, or vegetation or a structure that is, or forms part of, a fence, is altered in accordance with a removal order made under this subpart, it is presumed, unless a court orders otherwise under the [Fencing Act 1978][890], to be an adequate fence within the meaning of that Act in respect of the part of the boundary of the property that it covers until the expiry of the period described in subsection (4).
     
-    (2) Until the expiry of the period described in subsection (4), if a fence, structure, or vegetation is removed under a removal order made under this subpart, the [Fencing Act 1978][881] applies in respect of any boundary on the property affected by the removal as if [section 9][882] of that Act required the occupier of the property in respect of which the order was made to pay the total cost of work on a fence.
+    (2) Until the expiry of the period described in subsection (4), if a fence, structure, or vegetation is removed under a removal order made under this subpart, the [Fencing Act 1978][890] applies in respect of any boundary on the property affected by the removal as if [section 9][891] of that Act required the occupier of the property in respect of which the order was made to pay the total cost of work on a fence.
     
-    (3) For the purposes of subsection (2), _occupier_ has the meaning given to it by [section 2][880] of the Fencing Act 1978\.
+    (3) For the purposes of subsection (2), _occupier_ has the meaning given to it by [section 2][889] of the Fencing Act 1978\.
     
     (4) The period referred to in subsections (1) and (2) is the shorter period of---
         
@@ -6649,9 +6732,9 @@ Regulatory, enforcement, and coercive powers of local authorities
     
     *   (b) the period from the date of the removal order until the date on which the respondent ceases to occupy or, if the respondent was the owner of the property, ceases to own the property in respect of which the order was made.
     
-    (5) For the purposes of subsection (4), the date of the removal order is the date on which the order was made under [section 216][323] or, if an objection was made under [section 217(1)][325], the date on which the order was confirmed or varied under [section 218(1)][326].
+    (5) For the purposes of subsection (4), the date of the removal order is the date on which the order was made under [section 216][330] or, if an objection was made under [section 217(1)][332], the date on which the order was confirmed or varied under [section 218(1)][333].
     
-    Compare: 1974 No 66 [s 692ZM][883]
+    Compare: 1974 No 66 [s 692ZM][892]
 
 ## Part 9  
 Offences, penalties, infringement offences, and legal proceedings
@@ -6662,15 +6745,15 @@ Offences, penalties, infringement offences, and legal proceedings
 
 ##### 224 Offence relating to water wastage
     
-*   Every person who contravenes [section 192][287] and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on conviction to the penalty set out in [section 242(2)][370].
+*   Every person who contravenes [section 192][287] and continues to waste water or allow it to be wasted after receiving a written warning from the local authority commits an offence and is liable on conviction to the penalty set out in [section 242(2)][377].
     
-    Compare: 1974 No 66 [s 382][827]
+    Compare: 1974 No 66 [s 382][835]
     
-    Section 224: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 224: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 225 Offences relating to waterworks
     
-*   (1) Every person commits an offence and is liable on conviction to the penalty set out in [section 242(1)][370] who, wilfully or negligently,---
+*   (1) Every person commits an offence and is liable on conviction to the penalty set out in [section 242(1)][377] who, wilfully or negligently,---
         
     *   (a) takes water from the supply provided to another person without having entered into an agreement to be supplied with water from a waterworks; or
     
@@ -6698,9 +6781,9 @@ Offences, penalties, infringement offences, and legal proceedings
         
     *   (a) is authorised by a valid consent granted under---
             
-        *   (i) the [Building Act 2004][580], regulations made under that Act, or the [Building Code][778]; or
+        *   (i) the [Building Act 2004][588], regulations made under that Act, or the [Building Code][786]; or
         
-        *   (ii) the [Resource Management Act 1991][677] or regulations made under that Act; or
+        *   (ii) the [Resource Management Act 1991][685] or regulations made under that Act; or
         
         
     
@@ -6712,47 +6795,47 @@ Offences, penalties, infringement offences, and legal proceedings
     
     *   (b) was carried out by a person appropriately registered to undertake the work.
     
-    Section 225 heading: amended, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 225 heading: amended, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 225(1): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 225(1): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 225(1)(d)(ii): amended, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 225(1)(d)(ii): amended, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 225(1)(e): repealed, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 225(1)(e): repealed, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 225(2): amended, on 20 September 2007, by [section 6(3)][884] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
+    Section 225(2): amended, on 20 September 2007, by [section 6(3)][893] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
     
-    Section 225(2)(a)(i): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Section 225(2)(a)(i): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
     
-    Section 225(3): amended, on 20 September 2007, by [section 6(3)][884] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
+    Section 225(3): amended, on 20 September 2007, by [section 6(3)][893] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
 
 ##### 226 Liability for cost of damage
     
-*   A person who commits an offence under [section 225][339] may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council in repairing the damage done to the waterworks by the offence.
+*   A person who commits an offence under [section 225][346] may, in addition to, or instead of, the penalty for the offence, be ordered to pay the cost incurred by the council in repairing the damage done to the waterworks by the offence.
     
-    Compare: 1974 No 66 [s 395][885]
+    Compare: 1974 No 66 [s 395][894]
     
-    Section 226: amended, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 226: amended, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 #### Offences relating to water meters
 
 ##### 227 Offences relating to water meters
     
-*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(1)][370] who, without the prior written authorisation of the local authority,---
+*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(1)][377] who, without the prior written authorisation of the local authority,---
         
     *   (a) alters the index of, or in any other manner tampers with, a water meter being used in association with the water services of a local government organisation; or
     
     *   (b) alters the position of such a water meter.
     
-    Compare: 1974 No 66 [s 396][886]
+    Compare: 1974 No 66 [s 396][895]
     
-    Section 227: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 227: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to water races and private drains
 
 ##### 228 Offences relating to water races
     
-*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(1)][370] who---
+*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(1)][377] who---
         
     *   (a) commits a nuisance in or near a water race; or
     
@@ -6812,25 +6895,25 @@ Offences, penalties, infringement offences, and legal proceedings
         
         
     
-    Compare: 1974 No 66 [ss 436][887], [437][888], [438][889]
+    Compare: 1974 No 66 [ss 436][896], [437][897], [438][898]
     
-    Section 228: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 228: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 228(b): substituted, on 7 July 2004, by [section 20][890] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 228(b): substituted, on 7 July 2004, by [section 20][899] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 228(c): substituted, on 7 July 2004, by [section 20][890] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 228(c): substituted, on 7 July 2004, by [section 20][899] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 #### Offence relating to obstruction of enforcement officers and others
 
 ##### 229 Obstruction of enforcement officers or agents of local authority
     
-*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(2)][370] who intentionally---
+*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(2)][377] who intentionally---
         
     *   (a) prevents the following persons from carrying out their statutory functions or duties:
             
         *   (i) an enforcement officer; or
         
-        *   (ii) a member of the Fire Service established under the [Fire Service Act 1975][891]; or
+        *   (ii) a member of the Fire Service established under the [Fire Service Act 1975][900]; or
         
         *   (iii) a person authorised or employed to carry out the provisions of this Act; or
         
@@ -6848,17 +6931,17 @@ Offences, penalties, infringement offences, and legal proceedings
     
     *   (d) incites any other person to do any act referred to in paragraph (a) or paragraph (b) or paragraph (c).
     
-    Compare: 1974 No 66 [s 693(1)][892]
+    Compare: 1974 No 66 [s 693(1)][901]
     
-    Section 229: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 229: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 229(a)(iii): amended, on 27 November 2010, by [section 36][893] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 229(a)(iii): amended, on 27 November 2010, by [section 36][902] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Offences by occupiers or owners
 
 ##### 230 Offences by occupiers
     
-*   (1) Every occupier of premises commits an offence and is liable on conviction to the penalty specified in [section 242(2)][370] who---
+*   (1) Every occupier of premises commits an offence and is liable on conviction to the penalty specified in [section 242(2)][377] who---
         
     *   (a) refuses or wilfully omits to disclose or wilfully misstates the name or address of the owner of the premises when requested to do so by an officer of the local authority or by a person acting under the authority of the local authority for the purpose of giving effect to the provisions of this Act or of any other enactment in relation to the premises; or
     
@@ -6866,15 +6949,15 @@ Offences, penalties, infringement offences, and legal proceedings
     
     (2) The owner is not liable to a fine for a default for which he or she might otherwise be liable if he or she proves that the default was due to the refusal or neglect of the occupier.
     
-    Compare: 1974 No 66 [s 671][894]
+    Compare: 1974 No 66 [s 671][903]
     
-    Section 230(1): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 230(1): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 231 Offences in relation to notices sent to occupiers or owners
     
-*   Every person who fails to comply with a notice referred to in [section 184(1)][273] commits an offence and is liable on conviction to the penalty set out in [section 242(2)][370].
+*   Every person who fails to comply with a notice referred to in [section 184(1)][273] commits an offence and is liable on conviction to the penalty set out in [section 242(2)][377].
     
-    Section 231: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 231: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to property damage
 
@@ -6892,61 +6975,61 @@ Offences, penalties, infringement offences, and legal proceedings
     
     *   (e) anything forming part of, or connected with, any works or property not referred to in paragraphs (a) to (d).
     
-    (2) Every person commits an offence who wilfully or maliciously destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in [section 242(3)][370].
+    (2) Every person commits an offence who wilfully or maliciously destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in [section 242(3)][377].
     
-    (3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in [section 242(1)][370].
+    (3) Every person commits an offence who negligently destroys, damages, stops, obstructs, or interferes with the works or property referred to in subsection (1) and is liable on conviction to the penalty set out in [section 242(1)][377].
     
-    Compare: 1974 No 66 [s 694][895]
+    Compare: 1974 No 66 [s 694][904]
     
-    Section 232(1)(d): substituted, on 28 June 2006, by [section 24][896] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 232(1)(d): substituted, on 28 June 2006, by [section 24][905] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 232(1)(e): added, on 28 June 2006, by [section 24][896] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 232(1)(e): added, on 28 June 2006, by [section 24][905] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
     
-    Section 232(2): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 232(2): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 232(3): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 232(3): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous offences
 
 ##### 233 Offence relating to advertising
     
-*   Every person who wilfully contravenes clause 58 of [Schedule 3][518] (which relates to the authorisation of advertising) commits an offence and is liable on conviction to the penalty specified in [section 242(2)][370].
+*   Every person who wilfully contravenes clause 58 of [Schedule 3][525] (which relates to the authorisation of advertising) commits an offence and is liable on conviction to the penalty specified in [section 242(2)][377].
     
-    Compare: 1974 No 66 [s 37ZZZIF(2)][897]
+    Compare: 1974 No 66 [s 37ZZZIF(2)][906]
     
-    Section 233: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 233: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 234 Unauthorised use of coat of arms
     
-*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(2)][370] who, without prior written authority of the relevant local authority,---
+*   Every person commits an offence and is liable on conviction to the penalty specified in [section 242(2)][377] who, without prior written authority of the relevant local authority,---
         
     *   (a) for the purposes of sale, applies or permits to be applied to an article the coat of arms of the local authority or an imitation of that coat of arms; or
     
     *   (b) sells or offers the article for sale, or permits it to be sold or offered for sale, knowing that the coat of arms or an imitation of it has been applied to the article.
     
-    Compare: 1974 No 66 [s 696][898]
+    Compare: 1974 No 66 [s 696][907]
     
-    Section 234: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 234: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences committed by members and officers of local authorities
 
 ##### 235 Offences by members of local authorities
     
-*   (1) Every person who contravenes [clause 1(3)][899], [clause 2(6)][900], or [clause 14(1)][901] of Schedule 7 commits an offence and is liable on conviction to the penalty set out in [section 242(2)][370].
+*   (1) Every person who contravenes [clause 1(3)][908], [clause 2(6)][909], or [clause 14(1)][910] of Schedule 7 commits an offence and is liable on conviction to the penalty set out in [section 242(2)][377].
     
-    (2) Fines recovered by the Secretary in proceedings instituted under [clause 1(3)][899], [clause 2(6)][900], or [clause 14(1)][901] of Schedule 7 must be paid into a Crown Bank Account.
+    (2) Fines recovered by the Secretary in proceedings instituted under [clause 1(3)][908], [clause 2(6)][909], or [clause 14(1)][910] of Schedule 7 must be paid into a Crown Bank Account.
     
-    (3) Despite subsection (1), a person does not commit an offence if the person contravenes [clause 1(3)][899] of Schedule 7 while detained in a hospital under the Mental Health (Compulsory Assessment Treatment) Act 1992\.
+    (3) Despite subsection (1), a person does not commit an offence if the person contravenes [clause 1(3)][908] of Schedule 7 while detained in a hospital under the Mental Health (Compulsory Assessment Treatment) Act 1992\.
     
-    Compare: 1974 No 66 [ss 101X(3)][902], [101Y(6)][903], [101Z(2)][904], [114U(3)][905]
+    Compare: 1974 No 66 [ss 101X(3)][911], [101Y(6)][912], [101Z(2)][913], [114U(3)][914]
     
-    Section 235(1): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 235(1): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 235(2): amended, on 25 January 2005, pursuant to [section 65R(3)][906] of the Public Finance Act 1989 (1989 No 44).
+    Section 235(2): amended, on 25 January 2005, pursuant to [section 65R(3)][915] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 236 Penalty for acting without warrant
     
-*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(2)][370] who---
+*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(2)][377] who---
         
     *   (a) does not have a warrant of the kind referred to in [section 174][254], but represents himself or herself to be the holder of a warrant under that section; or
     
@@ -6958,27 +7041,27 @@ Offences, penalties, infringement offences, and legal proceedings
         
         
     
-    Compare: 1974 No 66 [s 711][907]
+    Compare: 1974 No 66 [s 711][916]
     
-    Section 236: amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 236: amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences committed by members and officers of Remuneration Authority
 
 ##### 237 Offence by member or officer of Remuneration Authority
     
-*   Every person who wilfully contravenes [clause 11(2)][908] of Schedule 7---
+*   Every person who wilfully contravenes [clause 11(2)][917] of Schedule 7---
         
     *   (a) commits an offence; and
     
-    *   (b) is liable on conviction to the penalty set out in [section 242(2)][370].
+    *   (b) is liable on conviction to the penalty set out in [section 242(2)][377].
     
-    Section 237(b): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 237(b): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences against Act
 
 ##### 238 Offence of failing to comply with Act
     
-*   (1) Every person who acts contrary to, or fails to comply with, a direction or prohibition given under this Act, or under an authority given to a local authority or to a member or officer of a local authority, commits an offence and is liable on conviction to the penalty specified in [section 242(2)][370].
+*   (1) Every person who acts contrary to, or fails to comply with, a direction or prohibition given under this Act, or under an authority given to a local authority or to a member or officer of a local authority, commits an offence and is liable on conviction to the penalty specified in [section 242(2)][377].
     
     (2) An offence or penalty prescribed by this Act, or by regulations or bylaws made under this Act, must not be treated as repealing or otherwise affecting the provisions of any other Act under which the same act or default is also prescribed as an offence or for which a penalty is prescribed.
     
@@ -6992,25 +7075,25 @@ Offences, penalties, infringement offences, and legal proceedings
     
     (4) In this section _direction_ includes a request by a constable under [section 169(2)(d)][246].
     
-    Compare: 1974 No 66 [s 697][909]
+    Compare: 1974 No 66 [s 697][918]
     
-    Section 238(1): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238(1): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 238(4): added, on 7 July 2004, by [section 21][910] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 238(4): added, on 7 July 2004, by [section 21][919] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Section 238(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Section 238(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
 
 #### Offences against bylaws
 
 ##### 239 Offences in respect of breaches of bylaws (other than alcohol bans)
     
-*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(4) or (5)][370] (as the case may be), who breaches a bylaw made under [Part 8][201] (other than a bylaw made under [section 147][208]).
+*   Every person commits an offence and is liable on conviction to the penalty set out in [section 242(4) or (5)][377] (as the case may be), who breaches a bylaw made under [Part 8][201] (other than a bylaw made under [section 147][208]).
     
-    Section 239: replaced, on 18 December 2013, by [section 6][911] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 239: replaced, on 18 December 2013, by [section 6][920] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 239A Breaches of alcohol bans
     
-*   (1) [Section 21][912] of the Summary Proceedings Act 1957 applies to a breach of a bylaw made under [section 147][208] as if---
+*   (1) [Section 21][921] of the Summary Proceedings Act 1957 applies to a breach of a bylaw made under [section 147][208] as if---
         
     *   (a) the breach were an infringement offence within the meaning of that Act; and
     
@@ -7018,13 +7101,13 @@ Offences, penalties, infringement offences, and legal proceedings
     
     *   (c) the references in subsection (9) of that section to a defendant's being found guilty of, or pleading guilty to, an infringement offence for which an infringement notice has been issued were references to the person's being found to have committed, or admitting to having committed, the breach;---
     
-    and [Part 3][913] and [section 208][914] of that Act apply accordingly.
+    and [Part 3][922] and [section 208][923] of that Act apply accordingly.
     
-    (2) Proceedings in respect of a breach of a bylaw made under [section 147][208] cannot be commenced by filing a charging document under [section 14][915] of the Criminal Procedure Act 2011\.
+    (2) Proceedings in respect of a breach of a bylaw made under [section 147][208] cannot be commenced by filing a charging document under [section 14][924] of the Criminal Procedure Act 2011\.
     
-    (3) Subsection (2) overrides subsection (1) and [section 21(1)(a)][912] of the Summary Proceedings Act 1957\.
+    (3) Subsection (2) overrides subsection (1) and [section 21(1)(a)][921] of the Summary Proceedings Act 1957\.
     
-    Section 239A: inserted, on 18 December 2013, by [section 6][911] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 239A: inserted, on 18 December 2013, by [section 6][920] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 #### Defences
 
@@ -7062,33 +7145,33 @@ Offences, penalties, infringement offences, and legal proceedings
 
 #### Time for filing charging document
     
-*   Heading: replaced, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Heading: replaced, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 241 Time for filing charging document
     
-*   Despite anything to the contrary in [section 25][916] of the Criminal Procedure Act 2011, a local authority may file a charging document in respect of an offence against this Act within 6 months after the time when the matter giving rise to the charge first became known, or should have become known, to the local authority.
+*   Despite anything to the contrary in [section 25][925] of the Criminal Procedure Act 2011, a local authority may file a charging document in respect of an offence against this Act within 6 months after the time when the matter giving rise to the charge first became known, or should have become known, to the local authority.
     
-    Section 241: replaced, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 241: replaced, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Penalties
 
 ##### 242 Penalties for offences
     
-*   (1) A person who is convicted of an offence under [section 225][339], [section 227][342], [section 228][344], or [section 232(3)][351], is liable to a fine not exceeding $20,000\.
+*   (1) A person who is convicted of an offence under [section 225][346], [section 227][349], [section 228][351], or [section 232(3)][358], is liable to a fine not exceeding $20,000\.
     
-    (2) A person who is convicted of an offence under [section 224][338], [sections 229 to 231][346], or [sections 233 to 238][353] is liable to a fine not exceeding $5,000\.
+    (2) A person who is convicted of an offence under [section 224][345], [sections 229 to 231][353], or [sections 233 to 238][360] is liable to a fine not exceeding $5,000\.
     
-    (3) A person who is convicted of an offence under [section 232(2)][351] is liable to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000 or both.
+    (3) A person who is convicted of an offence under [section 232(2)][358] is liable to imprisonment for a term not exceeding 3 years or to a fine not exceeding $20,000 or both.
     
     (4) A person who is convicted of an offence against a bylaw made under [Part 8][201] (other than a bylaw made under Part 8 referred to in subsection (5)) is liable to a fine not exceeding $20,000\.
     
     (5) A person who is convicted of an offence against a bylaw made under [section 146(a)(iii)][207] (which relates to trade wastes) is liable to a fine not exceeding $200,000\.
     
-    Compare: 1974 No 66 [ss 683(1)][788], [698][789]
+    Compare: 1974 No 66 [ss 683(1)][796], [698][797]
     
-    Section 242(1): amended, on 20 September 2007, by [section 8(1)][917] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
+    Section 242(1): amended, on 20 September 2007, by [section 8(1)][926] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
     
-    Section 242(3): amended, on 20 September 2007, by [section 8(2)][917] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
+    Section 242(3): amended, on 20 September 2007, by [section 8(2)][926] of the Local Government Act 2002 Amendment Act 2007 (2007 No 69).
 
 ### Subpart 3---Infringement offences
 
@@ -7102,35 +7185,35 @@ Offences, penalties, infringement offences, and legal proceedings
     
     _infringement fee_,---
         
-    *   (a) in relation to an infringement offence specified as such by regulations under [section 259(a)][434], means the amount prescribed by regulations under section 259(b) as the infringement fee for the offence; and
+    *   (a) in relation to an infringement offence specified as such by regulations under [section 259(a)][441], means the amount prescribed by regulations under section 259(b) as the infringement fee for the offence; and
     
-    *   (b) in relation to a breach of an alcohol ban, means the amount prescribed by regulations under [section 259(b)][434] as the infringement fee for the breach
+    *   (b) in relation to a breach of an alcohol ban, means the amount prescribed by regulations under [section 259(b)][441] as the infringement fee for the breach
     
     _infringement offence_---
         
-    *   (a) means an offence specified as such by regulations under [section 259(a)][434]; and
+    *   (a) means an offence specified as such by regulations under [section 259(a)][441]; and
     
     *   (b) includes a breach of an alcohol ban.
     
     (2) The definition in subsection (1) of **enforcement officer** overrides the definition of that term in [section 5][6].
     
-    Section 243: replaced, on 18 December 2013, by [section 7][918] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 243: replaced, on 18 December 2013, by [section 7][927] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 244 Proceedings for infringement offences
     
-*   (1) A person who is alleged to have committed an infringement offence specified as such by regulations under [section 259(a)][434] may either---
+*   (1) A person who is alleged to have committed an infringement offence specified as such by regulations under [section 259(a)][441] may either---
         
-    *   (a) be proceeded against under the [Criminal Procedure Act 2011][919]; or
+    *   (a) be proceeded against under the [Criminal Procedure Act 2011][928]; or
     
-    *   (b) be served with an infringement notice under [section 245][374].
+    *   (b) be served with an infringement notice under [section 245][381].
     
     (2) A person who is alleged to have committed a breach of an alcohol ban---
         
-    *   (a) may be served with an infringement notice under [section 245][374]; and
+    *   (a) may be served with an infringement notice under [section 245][381]; and
     
-    *   (b) must not be proceeded against under the [Criminal Procedure Act 2011][919].
+    *   (b) must not be proceeded against under the [Criminal Procedure Act 2011][928].
     
-    Section 244: replaced, on 18 December 2013, by [section 7][918] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 244: replaced, on 18 December 2013, by [section 7][927] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 245 Issue of infringement notices
     
@@ -7166,7 +7249,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
     *   (d) the address of the place at which the infringement fee must be paid:
     
-    *   (e) a summary of the provisions of [section 21(10)][912] of the Summary Proceedings Act 1957:
+    *   (e) a summary of the provisions of [section 21(10)][921] of the Summary Proceedings Act 1957:
     
     *   (f) a statement that the person served with the notice has a right to request a hearing:
     
@@ -7176,29 +7259,29 @@ Offences, penalties, infringement offences, and legal proceedings
     
     (5) If an infringement notice has been issued under this section,---
         
-    *   (a) proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][912] of the Summary Proceedings Act 1957; and
+    *   (a) proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][921] of the Summary Proceedings Act 1957; and
     
     *   (b) the provisions of that section apply with all necessary modifications.
     
-    Compare: 1974 No 66 [s 699C][920]
+    Compare: 1974 No 66 [s 699C][929]
     
-    Section 245(2): replaced, on 18 December 2013, by [section 8][921] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 245(2): replaced, on 18 December 2013, by [section 8][930] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
     
-    Section 245(2A): inserted, on 18 December 2013, by [section 8][921] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 245(2A): inserted, on 18 December 2013, by [section 8][930] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
     
-    Section 245(3): amended, on 1 July 2013, by [section 413][809] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 245(3): amended, on 1 July 2013, by [section 413][817] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 245A Constables may require certain information
     
 *   A constable who believes on reasonable grounds that a person is committing or has committed an infringement offence may direct the person to give the constable his or her name, address, and date of birth.
     
-    Section 245A: inserted, on 18 December 2013, by [section 9][922] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
+    Section 245A: inserted, on 18 December 2013, by [section 9][931] of the Local Government (Alcohol Reform) Amendment Act 2012 (2012 No 121).
 
 ##### 246 Entitlement to infringement fees
     
 *   A local authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by an enforcement officer appointed by that local authority.
     
-    Compare: 1974 No 66 [s 699D][923]
+    Compare: 1974 No 66 [s 699D][932]
 
 ### Subpart 4---Legal proceedings
 
@@ -7208,7 +7291,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
 *   An application and appeal to the District Court under this Act must be made in accordance with the rules of the District Court.
     
-    Compare: 1974 No 66 [s 701(1)][924]
+    Compare: 1974 No 66 [s 701(1)][933]
 
 #### Judges not disqualified
 
@@ -7218,7 +7301,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
     (2) A Judge must not be treated as interested in a case in which he or she is acting judicially solely on the ground that he or she is a ratepayer or is normally resident in a district or region.
     
-    Compare: 1974 No 66 [s 700][925]
+    Compare: 1974 No 66 [s 700][934]
 
 #### Representation
 
@@ -7226,7 +7309,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
 *   (1) This section applies to proceedings involving a local authority---
         
-    *   (a) under the [Local Government (Rating) Act 2002][926]:
+    *   (a) under the [Local Government (Rating) Act 2002][935]:
     
     *   (b) under any enactment in relation to bankrupts:
     
@@ -7246,7 +7329,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
     (3) A member of the local authority, and any officer or other person acting on behalf of the local authority, must be reimbursed by the local authority for any damages, costs, charges, and expenses incurred by the member or person acting under subsection (2).
     
-    Compare: 1974 No 66 [s 701(2), (3)][924]
+    Compare: 1974 No 66 [s 701(2), (3)][933]
 
 #### Service
 
@@ -7254,7 +7337,7 @@ Offences, penalties, infringement offences, and legal proceedings
     
 *   A document in legal proceedings that must be served on a local authority may be served by being left at the principal public office of the local authority or given personally to the mayor, chairperson, or chief executive of the local authority.
     
-    Compare: 1974 No 66 [s 702][927]
+    Compare: 1974 No 66 [s 702][936]
 
 #### Evidence
 
@@ -7262,11 +7345,11 @@ Offences, penalties, infringement offences, and legal proceedings
     
 *   In legal proceedings commenced by, or on behalf of, a local authority to enforce a provision of this Act, or of a regulation or bylaw made under it,---
         
-    *   (a) the production of the rating information database (within the meaning of the [Local Government (Rating) Act 2002][926]) is evidence that a person entered as the ratepayer of any rating unit is the owner unless the contrary is proved; and
+    *   (a) the production of the rating information database (within the meaning of the [Local Government (Rating) Act 2002][935]) is evidence that a person entered as the ratepayer of any rating unit is the owner unless the contrary is proved; and
     
     *   (b) an affidavit by the chief executive stating that specified works or property are vested in, or under the control of, the local authority is evidence of the matter unless the contrary is proved.
     
-    Compare: 1974 No 66 [ss 703][928], [704][929]
+    Compare: 1974 No 66 [ss 703][937], [704][938]
 
 #### Recovery of debts
 
@@ -7274,12 +7357,12 @@ Offences, penalties, infringement offences, and legal proceedings
     
 *   Money payable by a person to the local authority for works, material, or things provided or done by the local authority is recoverable by the local authority as a debt.
     
-    Compare: 1974 No 66 [s 705][930]
+    Compare: 1974 No 66 [s 705][939]
 
 ## Part 10  
 Powers of Minister to act in relation to local authorities
     
-*   Part 10: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Part 10: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 253 Outline of Part
     
@@ -7289,13 +7372,13 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) intervene in the affairs of local authorities in certain situations.
     
-    Section 253: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 253: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 254 How this Part works
     
 *   (1) This section is a guide to the overall scheme and effect of this Part. It does not affect the interpretation or application of the other provisions of this Part.
     
-    (2) [Subpart 1][395] of this Part provides the Minister with a range of options in relation to a local authority that has a problem. The options are available only in relation to the local authority itself, and not to any entity that the local authority may control or have an interest in.
+    (2) [Subpart 1][402] of this Part provides the Minister with a range of options in relation to a local authority that has a problem. The options are available only in relation to the local authority itself, and not to any entity that the local authority may control or have an interest in.
     
     (3) The options vary according to the nature and scale of assistance or intervention required to address the problem.
     
@@ -7303,27 +7386,27 @@ Powers of Minister to act in relation to local authorities
     
     (5) Accordingly, the Minister may exercise an option in relation to a local authority without having previously exercised 1 or more of the other options.
     
-    (6) [Subpart 2][417] of this Part sets out general provisions applying to all the options the Minister may exercise under [subpart 1][395].
+    (6) [Subpart 2][424] of this Part sets out general provisions applying to all the options the Minister may exercise under [subpart 1][402].
     
-    (7) The provisions in [subpart 2][417] of this Part are largely procedural in nature and cover matters including notification of the assistance or intervention, reporting requirements, and payment and protection for the individuals carrying out the assistance or intervention.
+    (7) The provisions in [subpart 2][424] of this Part are largely procedural in nature and cover matters including notification of the assistance or intervention, reporting requirements, and payment and protection for the individuals carrying out the assistance or intervention.
     
-    Section 254: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 254: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 255 Application of this Part
     
-*   The Minister may appoint a Ministerial body under [subpart 1][395] of this Part only to a local authority and not to any entity that the local authority may control or have an interest in, for example, a council-controlled organisation, council-controlled trading organisation, council organisation, or other subsidiary of the local authority.
+*   The Minister may appoint a Ministerial body under [subpart 1][402] of this Part only to a local authority and not to any entity that the local authority may control or have an interest in, for example, a council-controlled organisation, council-controlled trading organisation, council organisation, or other subsidiary of the local authority.
     
-    Section 255: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 255: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 256 Interpretation
     
 *   In this Part,---
     
-    _Commission_ means a commission appointed under [section 258F][408]
+    _Commission_ means a commission appointed under [section 258F][415]
     
-    _Ministerial appointee_ means a person appointed under [subpart 1][395] of this Part as a Crown Manager or a Crown Observer, or as a member of a Crown Review Team or of a Commission
+    _Ministerial appointee_ means a person appointed under [subpart 1][402] of this Part as a Crown Manager or a Crown Observer, or as a member of a Crown Review Team or of a Commission
     
-    _Ministerial body_ means a Crown Review Team, a Crown Observer, a Crown Manager, or a Commission appointed under [subpart 1][395] of this Part
+    _Ministerial body_ means a Crown Review Team, a Crown Observer, a Crown Manager, or a Commission appointed under [subpart 1][402] of this Part
     
     _problem_, in relation to a local authority,---
         
@@ -7333,7 +7416,7 @@ Powers of Minister to act in relation to local authorities
         
         *   (ii) a significant or persistent failure by the local authority to perform 1 or more of its functions or duties under any enactment; or
         
-        *   (iii) the consequences of a state of emergency (within the meaning of [section 4][932] of the Civil Defence Emergency Management Act 2002) affecting, or recently affecting, the local authority's district or region; and
+        *   (iii) the consequences of a state of emergency (within the meaning of [section 4][941] of the Civil Defence Emergency Management Act 2002) affecting, or recently affecting, the local authority's district or region; and
         
         
     
@@ -7361,15 +7444,15 @@ Powers of Minister to act in relation to local authorities
     
     _significant_, in relation to a problem of a local authority, means that the problem will have actual or probable adverse consequences for residents and ratepayers within the district or region of the local authority.
     
-    Section 256: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 256: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 1---Ministerial powers of assistance and intervention
     
-*   Subpart 1: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Subpart 1: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may require information from local authority
     
-*   Heading: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 257 Minister may require information
     
@@ -7415,17 +7498,17 @@ Powers of Minister to act in relation to local authorities
     
     (6) The Minister may require a local authority to provide information under this section in relation to a problem on which information has already been requested and provided under the section.
     
-    Section 257: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 257: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may appoint Crown Review Team
     
-*   Heading: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258 Minister may appoint Crown Review Team
     
 *   (1) The Minister may appoint a Crown Review Team to a local authority if---
         
-    *   (a) the local authority has received a notice from the Minister under [section 257(1)][397] and, for no good reason, has not provided the information required by the notice by the stated or agreed date; or
+    *   (a) the local authority has received a notice from the Minister under [section 257(1)][404] and, for no good reason, has not provided the information required by the notice by the stated or agreed date; or
     
     *   (b) the Minister believes, on reasonable grounds, that a significant problem relating to the local authority may exist and---
             
@@ -7445,7 +7528,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) by public notice.
     
-    (3) Each notice must comply with [section 258S][423].
+    (3) Each notice must comply with [section 258S][430].
     
     (4) A Crown Review Team must, to the extent authorised by its terms of reference,---
         
@@ -7465,11 +7548,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) comply with any reasonable request of the Crown Review Team to provide any relevant information that the local authority holds.
     
-    (7) A Crown Review Team must produce a final report that complies with [section 258U][425], as soon as practicable after a review is completed.
+    (7) A Crown Review Team must produce a final report that complies with [section 258U][432], as soon as practicable after a review is completed.
     
-    (8) This section is subject to [section 258Q][421].
+    (8) This section is subject to [section 258Q][428].
     
-    Section 258: replaced, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258: replaced, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258A How Crown Review Team appointed
     
@@ -7491,11 +7574,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) the start and end dates of the review period.
     
-    Section 258A: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258A: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may appoint Crown Observer
     
-*   Heading: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258B Minister may appoint Crown Observer
     
@@ -7521,7 +7604,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) by public notice.
     
-    (3) Each notice must comply with [section 258S][423].
+    (3) Each notice must comply with [section 258S][430].
     
     (4) A Crown Observer must, to the extent authorised by his or her terms of reference,---
         
@@ -7541,11 +7624,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) comply with any reasonable request of the Crown Observer to provide any relevant information that the local authority holds.
     
-    (7) A Crown Observer must produce a final report that complies with [section 258U][425], as soon as practicable after an observation period ends.
+    (7) A Crown Observer must produce a final report that complies with [section 258U][432], as soon as practicable after an observation period ends.
     
-    (8) This section is subject to [section 258Q][421].
+    (8) This section is subject to [section 258Q][428].
     
-    Section 258B: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258B: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258C How Crown Observer appointed
     
@@ -7563,11 +7646,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) the start and end dates of the observation period.
     
-    Section 258C: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258C: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may appoint Crown Manager
     
-*   Heading: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258D Minister may appoint Crown Manager
     
@@ -7593,7 +7676,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) by public notice.
     
-    (3) Each notice must comply with [section 258S][423].
+    (3) Each notice must comply with [section 258S][430].
     
     (4) A Crown Manager must, to the extent authorised by his or her terms of reference,---
         
@@ -7613,11 +7696,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) comply with any reasonable request of a Crown Manager to provide any relevant information that the local authority holds.
     
-    (7) A Crown Manager must produce a final report that complies with [section 258U][425], as soon as practicable after a management period ends.
+    (7) A Crown Manager must produce a final report that complies with [section 258U][432], as soon as practicable after a management period ends.
     
-    (8) This section is subject to [section 258Q][421].
+    (8) This section is subject to [section 258Q][428].
     
-    Section 258D: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258D: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258E How Crown Manager appointed
     
@@ -7635,11 +7718,11 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) the start and end dates of the management period.
     
-    Section 258E: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258E: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may appoint Commission
     
-*   Heading: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258F Minister may appoint Commission
     
@@ -7661,7 +7744,7 @@ Powers of Minister to act in relation to local authorities
         
         
     
-    *   (b) the local authority refuses or is unable to comply with a direction of a Crown Manager given under [section 258D(4)][405]; or
+    *   (b) the local authority refuses or is unable to comply with a direction of a Crown Manager given under [section 258D(4)][412]; or
     
     *   (c) the Minister believes, on reasonable grounds, that a significant problem relating to the local authority exists and a Ministerial body currently or previously appointed to the local authority has recommended the appointment; or
     
@@ -7675,7 +7758,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) by public notice.
     
-    (3) Each notice must comply with [section 258S][423].
+    (3) Each notice must comply with [section 258S][430].
     
     (4) A Commission must perform the functions and duties and exercise the powers of the local authority, and its members, under this Act and any other enactment,---
         
@@ -7683,7 +7766,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) subject to---
             
-        *   (i) [section 258H][410]; and
+        *   (i) [section 258H][417]; and
         
         *   (ii) any limits on its authority set out in the terms of reference.
         
@@ -7695,7 +7778,7 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) may exercise all the powers of the local authority to set, assess, and collect rates and charges within the district or region and expend their proceeds; and
     
-    *   (c) may appoint members of the local authority to a committee or subcommittee established under [Schedule 7][522] of this Act.
+    *   (c) may appoint members of the local authority to a committee or subcommittee established under [Schedule 7][529] of this Act.
     
     (6) A Commission must also, to the extent authorised by its terms of reference,---
         
@@ -7705,11 +7788,11 @@ Powers of Minister to act in relation to local authorities
     
     (7) A Commission must ensure, as far as practicable, that the existing organisational capability of the local authority is not diminished.
     
-    (8) A Commission must produce a final report that complies with [section 258U][425], as soon as practicable after the term of the Commission ends.
+    (8) A Commission must produce a final report that complies with [section 258U][432], as soon as practicable after the term of the Commission ends.
     
-    (9) This section is subject to [section 258Q][421].
+    (9) This section is subject to [section 258Q][428].
     
-    Section 258F: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258F: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258G How Commission appointed
     
@@ -7731,31 +7814,31 @@ Powers of Minister to act in relation to local authorities
     
     *   (c) the start and end dates of the Commission's term.
     
-    Section 258G: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258G: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258H Application of this and other enactments during Commission's term of appointment
     
-*   (1) This section applies during the period in which a Commission is appointed to perform the functions and duties and exercise the powers of a local authority under [section 258F][408].
+*   (1) This section applies during the period in which a Commission is appointed to perform the functions and duties and exercise the powers of a local authority under [section 258F][415].
     
     (2) This Act and any other enactment applies, with any necessary modifications, as if the Commission were the governing body of the local authority and responsible for the decision-making of the local authority.
     
-    (3) Without limiting subsection (2), [clauses 31][626], [32][645], and [32A][933] of Schedule 7 apply as if the members of the Commission were elected members of the local authority.
+    (3) Without limiting subsection (2), [clauses 31][634], [32][653], and [32A][942] of Schedule 7 apply as if the members of the Commission were elected members of the local authority.
     
     (4) A document that is required to be executed under the seal of the local authority may be executed under the seal and verified by the signature of the chairperson of the Commission, or the Commission, if there is no chairperson.
     
     (5) All acts done by the Commission in the purported exercise of the powers of the local authority under this or any other enactment, whether the powers have been expressly limited in the terms of reference or not, are, except in the case of fraud, as valid as if the Commission had not been appointed and the acts had been done by the local authority in the ordinary course of its business.
     
-    Section 258H: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258H: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258I Minister may postpone general election when appointing Commission
     
 *   (1) The Minister may postpone the next triennial general election for members of a local authority---
         
-    *   (a) at the same time as appointing a Commission to a local authority under [section 258F][408]; or
+    *   (a) at the same time as appointing a Commission to a local authority under [section 258F][415]; or
     
     *   (b) at any time during the period in which the Commission is performing the local authority's functions and duties and exercising its powers.
     
-    (2) Subsection (1) applies only if the term of the Commission extends more than 120 days beyond the date of that election as determined under [section 10][934] of the Local Electoral Act 2001\.
+    (2) Subsection (1) applies only if the term of the Commission extends more than 120 days beyond the date of that election as determined under [section 10][943] of the Local Electoral Act 2001\.
     
     (3) If the Minister acts under subsection (1), he or she must---
         
@@ -7773,57 +7856,57 @@ Powers of Minister to act in relation to local authorities
         
     *   (a) must specify the date on which the election is to be held, which must be no later than 7 days before the date on which the term of the Commission ends; and
     
-    *   (b) if [section 258J][412] applies, must include a statement setting out the effect of the Minister's decision under that section.
+    *   (b) if [section 258J][419] applies, must include a statement setting out the effect of the Minister's decision under that section.
     
-    (5) The [Local Electoral Act 2001][543] applies, with any necessary modifications, to the conduct of an election called by the Minister under this section as if the election were a triennial general election.
+    (5) The [Local Electoral Act 2001][551] applies, with any necessary modifications, to the conduct of an election called by the Minister under this section as if the election were a triennial general election.
     
-    (6) Despite subsection (5), the electoral officer responsible for the election must give notice of the election under [section 52][935] of the Local Electoral Act 2001---
+    (6) Despite subsection (5), the electoral officer responsible for the election must give notice of the election under [section 52][944] of the Local Electoral Act 2001---
         
     *   (a) no later than 7 days after the Minister gives notice of the election under subsection (3)(b); and
     
-    *   (b) if [section 258J][412] applies, must include a statement in the notice setting out the effect of the Minister's decision under that section.
+    *   (b) if [section 258J][419] applies, must include a statement in the notice setting out the effect of the Minister's decision under that section.
     
-    Section 258I: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258I: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258J Timing of election following postponed election
     
 *   (1) This section applies if---
         
-    *   (a) the Minister postpones a triennial general election for members of a local authority under [section 258I][411]; and
+    *   (a) the Minister postpones a triennial general election for members of a local authority under [section 258I][418]; and
     
-    *   (b) the date on which the postponed election is subsequently held is less than 3 years before the date of the next triennial general election for members of the local authority as determined under [section 10][934] of the Local Electoral Act 2001 (the _next triennial election_).
+    *   (b) the date on which the postponed election is subsequently held is less than 3 years before the date of the next triennial general election for members of the local authority as determined under [section 10][943] of the Local Electoral Act 2001 (the _next triennial election_).
     
     (2) The Minister must decide whether the election for members of the local authority following the postponed election must be held on the date of---
         
     *   (a) the next triennial election; or
     
-    *   (b) the next subsequent triennial general election as determined under [section 10][934] of the Local Electoral Act 2001 (the _second triennial election_), in which case subsections (3) to (5) apply.
+    *   (b) the next subsequent triennial general election as determined under [section 10][943] of the Local Electoral Act 2001 (the _second triennial election_), in which case subsections (3) to (5) apply.
     
     (3) A general election for members of the local authority must not be held on the date of the next triennial election. Instead, the next general election for members of the local authority must be held on the date of the second triennial election.
     
-    (4) A member of the local authority elected at the postponed election holds office until he or she vacates office, in accordance with [section 116][936] of the Local Electoral Act 2001, for the second triennial election.
+    (4) A member of the local authority elected at the postponed election holds office until he or she vacates office, in accordance with [section 116][945] of the Local Electoral Act 2001, for the second triennial election.
     
-    (5) Subsection (4) applies unless the member sooner vacates his or her office under [clause 5][937] of Schedule 7 of this Act.
+    (5) Subsection (4) applies unless the member sooner vacates his or her office under [clause 5][946] of Schedule 7 of this Act.
     
-    Section 258J: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258J: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258K Local authority members remain in office but must not act during term of Commission
     
-*   (1) Subsection (2) applies to each member of a local authority, including the mayor or chairperson, from the date on which a Commission appointed to the local authority under [section 258F][408] begins its term.
+*   (1) Subsection (2) applies to each member of a local authority, including the mayor or chairperson, from the date on which a Commission appointed to the local authority under [section 258F][415] begins its term.
     
     (2) A member remains in office but must not act and is not entitled in that capacity to be paid any salary, allowances, or expenses under this Act or any other enactment, or to use any property of the local authority, until the earliest of the following events occurs:
         
     *   (a) the Commission ends its term, in which case the member resumes full power to act:
     
-    *   (b) a triennial general election is held for the local authority under [section 10][934] of the Local Electoral Act 2001, in which case the member vacates office in accordance with [section 116][936] of that Act:
+    *   (b) a triennial general election is held for the local authority under [section 10][943] of the Local Electoral Act 2001, in which case the member vacates office in accordance with [section 116][945] of that Act:
     
-    *   (c) a general election is held for the local authority under [section 258I][411], in which case the member vacates office on the date that the member would have vacated office in accordance with [section 116][936] of the Local Electoral Act 2001 had the triennial general election not been postponed:
+    *   (c) a general election is held for the local authority under [section 258I][418], in which case the member vacates office on the date that the member would have vacated office in accordance with [section 116][945] of the Local Electoral Act 2001 had the triennial general election not been postponed:
     
-    *   (d) a general election is held for the local authority under [section 258M][416], in which case the member vacates office in accordance with [section 116][936] of the Local Electoral Act 2001:
+    *   (d) a general election is held for the local authority under [section 258M][423], in which case the member vacates office in accordance with [section 116][945] of the Local Electoral Act 2001:
     
-    *   (e) the member vacates his or her office in accordance with [clause 5(1)(a), (b), (c), or (e)][937] of Schedule 7\.
+    *   (e) the member vacates his or her office in accordance with [clause 5(1)(a), (b), (c), or (e)][946] of Schedule 7\.
     
-    (3) However, if a Commission appoints a member to a committee or subcommittee in accordance with [Schedule 7][522], the person---
+    (3) However, if a Commission appoints a member to a committee or subcommittee in accordance with [Schedule 7][529], the person---
         
     *   (a) may accept the appointment, in the capacity as a person who has the skills, attributes, or knowledge that will assist the work of the committee or subcommittee; and
     
@@ -7831,35 +7914,35 @@ Powers of Minister to act in relation to local authorities
     
     (4) In subsection (2), _act_ means to exercise or purport to exercise a power, right, or entitlement, or perform or purport to perform a function or duty, conferred or imposed on the member in his or her capacity as a member of the local authority by this Act or any other enactment.
     
-    Section 258K: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258K: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258L Extraordinary vacancy when Commission appointed or during term of Commission
     
-*   (1) This section applies if an extraordinary vacancy (within the meaning of [clause 5][937] of Schedule 7)---
+*   (1) This section applies if an extraordinary vacancy (within the meaning of [clause 5][946] of Schedule 7)---
         
     *   (a) exists at the time a Commission is appointed to a local authority; or
     
     *   (b) is created during the term that a Commission is appointed to a local authority.
     
-    (2) The vacancy is not required to be filled, and any preparations made by any person towards filling the vacancy in accordance with [sections 117 to 120][938] of the Local Electoral Act 2001 must be abandoned, if the Commission's term ends after the date of---
+    (2) The vacancy is not required to be filled, and any preparations made by any person towards filling the vacancy in accordance with [sections 117 to 120][947] of the Local Electoral Act 2001 must be abandoned, if the Commission's term ends after the date of---
         
-    *   (a) a triennial general election for the local authority under [section 10][934] of the Local Electoral Act 2001; or
+    *   (a) a triennial general election for the local authority under [section 10][943] of the Local Electoral Act 2001; or
     
-    *   (b) a general election for the local authority under [section 258I][411] or [258M][416].
+    *   (b) a general election for the local authority under [section 258I][418] or [258M][423].
     
-    (3) The vacancy must be filled in accordance with [sections 117 to 120][938] of the Local Electoral Act 2001 in any other case except that if the vacancy occurs more than 90 days before the end of the term of the Commission, the vacancy must be treated as if it occurred on the 90th day before that date.
+    (3) The vacancy must be filled in accordance with [sections 117 to 120][947] of the Local Electoral Act 2001 in any other case except that if the vacancy occurs more than 90 days before the end of the term of the Commission, the vacancy must be treated as if it occurred on the 90th day before that date.
     
-    Section 258L: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258L: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Minister may call general election
     
-*   Heading: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Heading: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258M Minister may call general election
     
 *   (1) The Minister may, by notice in the _Gazette_, call a general election of a local authority if the Minister believes, on reasonable grounds, that the membership of the local authority is such that the local authority is unable or unwilling to perform its functions and duties and exercise its powers or there is a significant or persistent failure by the local authority to do so in respect of 1 or more of those functions, duties, and powers.
     
-    (2) The notice must specify the date on which the election is to be held, which, to avoid doubt, may be a date that is earlier than the date of the next triennial general election for members of the local authority as determined under [section 10][934] of the Local Electoral Act 2001\.
+    (2) The notice must specify the date on which the election is to be held, which, to avoid doubt, may be a date that is earlier than the date of the next triennial general election for members of the local authority as determined under [section 10][943] of the Local Electoral Act 2001\.
     
     (3) The Minister must---
         
@@ -7867,37 +7950,37 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) give public notice of the calling of the election and the date on which the election is to be held.
     
-    (4) The [Local Electoral Act 2001][543] applies, with any necessary modifications, to the conduct of an election called by the Minister under this section, as if the election were a triennial general election.
+    (4) The [Local Electoral Act 2001][551] applies, with any necessary modifications, to the conduct of an election called by the Minister under this section, as if the election were a triennial general election.
     
-    (5) Despite subsection (4), the electoral officer responsible for the election must give notice of the election under [section 52][935] of the Local Electoral Act 2001 no later than 7 days after the Minister gives notice of the election under subsection (1).
+    (5) Despite subsection (4), the electoral officer responsible for the election must give notice of the election under [section 52][944] of the Local Electoral Act 2001 no later than 7 days after the Minister gives notice of the election under subsection (1).
     
-    Section 258M: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258M: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ### Subpart 2---General provisions applying to Ministerial powers conferred under subpart 1
     
-*   Subpart 2: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Subpart 2: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258N Minister may consult any person
     
 *   (1) The Minister may, but is not obliged to, consult any person, organisation, or group---
         
-    *   (a) when determining what action, if any, to take under [subpart 1][395] of this Part:
+    *   (a) when determining what action, if any, to take under [subpart 1][402] of this Part:
     
-    *   (b) when appointing a Ministerial body under [subpart 1][395] of this Part:
+    *   (b) when appointing a Ministerial body under [subpart 1][402] of this Part:
     
     *   (c) when formulating the terms of reference for a Ministerial body.
     
     (2) The Minister may, but is not obliged to, consult any person, organisation, or group---
         
-    *   (a) when postponing a general election under [section 258I][411]; or
+    *   (a) when postponing a general election under [section 258I][418]; or
     
-    *   (b) when calling a general election under [section 258M][416].
+    *   (b) when calling a general election under [section 258M][423].
     
-    Section 258N: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258N: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258O Minister must publish list in _Gazette_
     
-*   (1) The Minister must publish in the _Gazette_, and on the Internet site of the department responsible for the administration of this Act, a list of matters relevant to determining what action, if any, to take under [subpart 1][395] of this Part.
+*   (1) The Minister must publish in the _Gazette_, and on the Internet site of the department responsible for the administration of this Act, a list of matters relevant to determining what action, if any, to take under [subpart 1][402] of this Part.
     
     (2) Without limiting subsection (1), the list must include the following matters:
         
@@ -7915,15 +7998,15 @@ Powers of Minister to act in relation to local authorities
     
     (6) The first list must be published no later than 31 March 2013\.
     
-    Section 258O: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258O: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258P Minister must have regard to published list
     
-*   (1) The Minister, when determining what action, if any, to take under [subpart 1][395] of this Part, must have regard to the list published under [section 258O][419].
+*   (1) The Minister, when determining what action, if any, to take under [subpart 1][402] of this Part, must have regard to the list published under [section 258O][426].
     
-    (2) To avoid doubt, the Minister may act under [subpart 1][395] of this Part and appoint a Ministerial body to a local authority even if the problem in relation to the local authority does not relate to a matter featured in the list.
+    (2) To avoid doubt, the Minister may act under [subpart 1][402] of this Part and appoint a Ministerial body to a local authority even if the problem in relation to the local authority does not relate to a matter featured in the list.
     
-    Section 258P: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258P: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258Q Notice to local authority of proposed appointment of Ministerial body
     
@@ -7949,7 +8032,7 @@ Powers of Minister to act in relation to local authorities
         
     *   (a) notify the local authority, in writing, if he or she decides not to appoint a Ministerial body; or
     
-    *   (b) act under [section 258(2)][399], [258B(2)][402], [258D(2)][405], or [258F(2)][408] in any other case.
+    *   (b) act under [section 258(2)][406], [258B(2)][409], [258D(2)][412], or [258F(2)][415] in any other case.
     
     (3) This section does not apply if---
         
@@ -7957,15 +8040,15 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) the problem in relation to which the Minister intends to make the appointment relates to the consequences of a state of emergency and the Minister believes, on reasonable grounds, that the public health or safety of the people within the local authority's district or region is, or is likely to be, endangered.
     
-    Section 258Q: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258Q: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258R Notice to local authority of proposed general election
     
-*   (1) Before calling a general election under [section 258M][416], the Minister must---
+*   (1) Before calling a general election under [section 258M][423], the Minister must---
         
     *   (a) give the local authority concerned written notice that he or she intends to call the election; and
     
-    *   (b) state in the notice the reasons for the proposed election in terms of [section 258M(1)][416]; and
+    *   (b) state in the notice the reasons for the proposed election in terms of [section 258M(1)][423]; and
     
     *   (c) give the local authority an opportunity to satisfy the Minister of the following matters, as applicable, by a date specified in the notice, being no earlier than 10 working days after the date on which notice is given to the local authority:
             
@@ -7981,13 +8064,13 @@ Powers of Minister to act in relation to local authorities
         
     *   (a) notify the local authority, in writing, if he or she decides not to call the election; or
     
-    *   (b) act under [section 258M(3)][416].
+    *   (b) act under [section 258M(3)][423].
     
-    Section 258R: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258R: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258S Notification of appointment of Ministerial body
     
-*   (1) A notice of appointment of a Ministerial body under [section 258(1)][399], [258B(1)][402], [258D(1)][405], or [258F(1)][408] must state the following:
+*   (1) A notice of appointment of a Ministerial body under [section 258(1)][406], [258B(1)][409], [258D(1)][412], or [258F(1)][415] must state the following:
         
     *   (a) that the Minister has appointed a Ministerial body; and
     
@@ -8003,17 +8086,17 @@ Powers of Minister to act in relation to local authorities
         
     *   (a) the notice of appointment relates to a Commission; and
     
-    *   (b) the Minister has, at the same time, postponed the next triennial general election for members of the local authority under [section 258I][411].
+    *   (b) the Minister has, at the same time, postponed the next triennial general election for members of the local authority under [section 258I][418].
     
     (3) The notice of appointment must also state that the Minister has postponed the next triennial general election for members of the local authority and that the Minister will call a general election, by notice in the _Gazette_, before the term of the Commission ends.
     
-    Section 258S: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258S: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258T Notification of change of membership of Ministerial body
     
 *   The Minister must notify any change in the membership of a Ministerial body by notice in the _Gazette_.
     
-    Section 258T: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258T: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258U Final report of Ministerial body
     
@@ -8033,9 +8116,9 @@ Powers of Minister to act in relation to local authorities
         
     *   (a) give a copy of the report to the local authority; and
     
-    *   (b) make the report publicly available, excluding any information that it is necessary to withhold for any of the reasons stated in [section 6][939] or [7][940] of the Local Government Official Information and Meetings Act 1987\.
+    *   (b) make the report publicly available, excluding any information that it is necessary to withhold for any of the reasons stated in [section 6][948] or [7][949] of the Local Government Official Information and Meetings Act 1987\.
     
-    Section 258U: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258U: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258V Remuneration and expenses of Ministerial appointees
     
@@ -8047,7 +8130,7 @@ Powers of Minister to act in relation to local authorities
     
     (2) In this section, _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
     
-    Section 258V: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258V: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258W Recovery of expenses from local authority
     
@@ -8061,7 +8144,7 @@ Powers of Minister to act in relation to local authorities
     
     (3) The Crown may recover expenses under subsection (2) as a debt to the Crown.
     
-    Section 258W: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258W: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258X Minister may terminate Ministerial body or Ministerial appointee
     
@@ -8077,7 +8160,7 @@ Powers of Minister to act in relation to local authorities
     
     (3) The Minister may terminate a Ministerial appointee's appointment at any time by notice in writing, and no compensation is payable to the person as a result of the termination.
     
-    Section 258X: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258X: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258Y Protection from liability for Ministerial appointees
     
@@ -8089,17 +8172,17 @@ Powers of Minister to act in relation to local authorities
     
     *   (b) acts done or omitted to be done by a Commission member when performing the functions and exercising the powers of a local authority or its members.
     
-    Section 258Y: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258Y: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258Z Disclosure of information held by local authority
     
-*   (1) For the purposes of this Part, information held by a local authority may be disclosed to the Minister or a Ministerial body despite anything to the contrary in the [Official Information Act 1982][941], the [Local Government Official Information and Meetings Act 1987][617], or the [Privacy Act 1993][942].
+*   (1) For the purposes of this Part, information held by a local authority may be disclosed to the Minister or a Ministerial body despite anything to the contrary in the [Official Information Act 1982][950], the [Local Government Official Information and Meetings Act 1987][625], or the [Privacy Act 1993][951].
     
     (2) However, the Minister, the Ministerial body, or a Ministerial appointee must not publish or disclose that information to any other person except in accordance with those Acts.
     
     (3) In this section, _Minister_ includes the Minister's officials and Cabinet.
     
-    Section 258Z: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258Z: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 258ZA Decisions and directions of Crown Manager or Commission remain in force until local authority decides otherwise
     
@@ -8113,16 +8196,16 @@ Powers of Minister to act in relation to local authorities
     
     (5) A decision of the Commission continues in force as if it were a decision made by the local authority unless and until the local authority revokes or amends the decision.
     
-    Section 258ZA: inserted, on 5 December 2012, by [section 31][931] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 258ZA: inserted, on 5 December 2012, by [section 31][940] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ## Part 11  
 Regulations, other Orders in Council, and rules
     
-*   Part 11 heading: amended, on 27 November 2010, by [section 37][943] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Part 11 heading: amended, on 27 November 2010, by [section 37][952] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 #### Regulations
     
-*   Heading: inserted, on 27 November 2010, by [section 38][944] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Heading: inserted, on 27 November 2010, by [section 38][953] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 259 Regulations
     
@@ -8136,7 +8219,7 @@ Regulations, other Orders in Council, and rules
     
     *   (d) prescribing forms to be used---
             
-        *   (i) in petitions and polls in relation to final proposals for local government reorganisation under [Schedule 3][518]:
+        *   (i) in petitions and polls in relation to final proposals for local government reorganisation under [Schedule 3][525]:
         
         *   (ii) for any other matter for which forms are required under this Act:
         
@@ -8158,7 +8241,7 @@ Regulations, other Orders in Council, and rules
     
     *   (e) providing for such matters as are contemplated by, or necessary for giving full effect to, this Act and for its due administration.
     
-    (2) Regulations made under subsection (1)(db) may specify in greater detail the information required to be included in a funding impact statement by [Schedule 10][525].
+    (2) Regulations made under subsection (1)(db) may specify in greater detail the information required to be included in a funding impact statement by [Schedule 10][532].
     
     (3) Regulations made under subsection (1)(dc) may---
         
@@ -8178,27 +8261,27 @@ Regulations, other Orders in Council, and rules
     
     (4) The Minister may recommend the making of regulations under subsection (1)(dc) only if the content of the recommendation has been developed in consultation with the New Zealand Local Government Association Incorporated.
     
-    Compare: 1974 No 66 [s 37ZZZI][945]
+    Compare: 1974 No 66 [s 37ZZZI][954]
     
-    Section 259(1)(d)(i): replaced, on 5 December 2012, by [section 32(1)][946] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259(1)(d)(i): replaced, on 5 December 2012, by [section 32(1)][955] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259(1)(da): inserted, on 27 November 2010, by [section 39(1)][947] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 259(1)(da): inserted, on 27 November 2010, by [section 39(1)][956] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 259(1)(db): inserted, on 27 November 2010, by [section 39(1)][947] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 259(1)(db): inserted, on 27 November 2010, by [section 39(1)][956] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 259(1)(dc): inserted, on 5 December 2012, by [section 32(2)][946] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259(1)(dc): inserted, on 5 December 2012, by [section 32(2)][955] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259(1)(dd): inserted, on 5 December 2012, by [section 32(2)][946] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259(1)(dd): inserted, on 5 December 2012, by [section 32(2)][955] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259(2): added, on 27 November 2010, by [section 39(2)][947] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 259(2): added, on 27 November 2010, by [section 39(2)][956] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 259(3): inserted, on 5 December 2012, by [section 32(3)][946] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259(3): inserted, on 5 December 2012, by [section 32(3)][955] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259(4): inserted, on 5 December 2012, by [section 32(3)][946] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259(4): inserted, on 5 December 2012, by [section 32(3)][955] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 259A Levy to fund rules for performance measures
     
-*   (1) Regulations may be made under [section 259][434] providing for the imposition and collection of a levy on local authorities.
+*   (1) Regulations may be made under [section 259][441] providing for the imposition and collection of a levy on local authorities.
     
     (2) The purpose of the levy is to recover all or part of the reasonable cost of making rules specifying performance measures.
     
@@ -8216,31 +8299,31 @@ Regulations, other Orders in Council, and rules
     
     (5) Any levy---
         
-    *   (a) must be reasonable having regard to the expenses incurred or to be incurred by the Secretary in relation to the making of rules under [section 261B][450]; and
+    *   (a) must be reasonable having regard to the expenses incurred or to be incurred by the Secretary in relation to the making of rules under [section 261B][457]; and
     
     *   (b) is payable to the Secretary and recoverable in a court of competent jurisdiction as a debt due to the Secretary.
     
     (6) The Minister may recommend the making of regulations that impose a levy only if the Minister has first consulted the New Zealand Local Government Association Incorporated.
     
-    Section 259A: inserted, on 27 November 2010, by [section 40][948] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 259A: inserted, on 27 November 2010, by [section 40][957] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 259B Power to refund levy
     
-*   The Secretary may refund the whole or any part of the levy if the Secretary is satisfied that the amount of levy money collected exceeds the amount necessary to fulfil the purpose of the levy stated in [section 259A(2)][435].
+*   The Secretary may refund the whole or any part of the levy if the Secretary is satisfied that the amount of levy money collected exceeds the amount necessary to fulfil the purpose of the levy stated in [section 259A(2)][442].
     
-    Section 259B: inserted, on 27 November 2010, by [section 40][948] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 259B: inserted, on 27 November 2010, by [section 40][957] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 259C Auditor-General must report on disclosures made under certain regulations
     
-*   (1) This section applies to the Auditor-General if regulations are made under [section 259(1)(dd)][434] that require disclosure of the matters set out in that paragraph in a long-term plan or an annual report.
+*   (1) This section applies to the Auditor-General if regulations are made under [section 259(1)(dd)][441] that require disclosure of the matters set out in that paragraph in a long-term plan or an annual report.
     
     (2) The Auditor-General must report on the completeness and accuracy of the disclosures made by each local authority in the report required from him or her under [section 84(4)][121], [94(1)][133], or [99(1)][139], as the case may be.
     
-    Section 259C: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259C: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 259D Regulations may incorporate financial reporting standards by reference
     
-*   (1) Regulations made under [section 259(1)(dc)][434] may incorporate financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in [section 5(1)][950] of that Act.
+*   (1) Regulations made under [section 259(1)(dc)][441] may incorporate financial reporting standards in effect under the Financial Reporting Act 2013, as those standards are defined in [section 5(1)][959] of that Act.
     
     (2) Financial reporting standards may be incorporated by reference in the regulations---
         
@@ -8248,29 +8331,29 @@ Regulations, other Orders in Council, and rules
     
     *   (b) with modifications, additions, or variations specified in the regulations.
     
-    (3) Financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][434] have legal effect as part of those regulations.
+    (3) Financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][441] have legal effect as part of those regulations.
     
-    Section 259D: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259D: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259D(1): amended, on 1 April 2014, by [section 126][554] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 259D(1): amended, on 1 April 2014, by [section 126][562] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 259E Effect of amendments to, or replacement of, standards incorporated by reference in regulations
     
-*   (1) An amendment to, or replacement of, a financial reporting standard incorporated by reference in regulations made under [section 259(1)(dc)][434] (the _initial regulations_) has legal effect, and commences to apply, as part of the initial regulations on and from the dates referred to in subsection (2) if---
+*   (1) An amendment to, or replacement of, a financial reporting standard incorporated by reference in regulations made under [section 259(1)(dc)][441] (the _initial regulations_) has legal effect, and commences to apply, as part of the initial regulations on and from the dates referred to in subsection (2) if---
         
-    *   (a) the amendment or replacement is made by the External Reporting Board in accordance with the [Financial Reporting Act 2013][951]; and
+    *   (a) the amendment or replacement is made by the External Reporting Board in accordance with the [Financial Reporting Act 2013][960]; and
     
     *   (b) the amendment or replacement is of the same general character as the standard amended or replaced; and
     
     *   (c) the initial regulations state that amendments or replacements have this effect.
     
-    (2) An amendment to, or replacement of, a financial reporting standard has legal effect as part of the initial regulations on and from the dates on which the amendment or replacement takes effect, and commences to apply, under [sections 27][952] and [28][953] of the Financial Reporting Act 2013\.
+    (2) An amendment to, or replacement of, a financial reporting standard has legal effect as part of the initial regulations on and from the dates on which the amendment or replacement takes effect, and commences to apply, under [sections 27][961] and [28][962] of the Financial Reporting Act 2013\.
     
-    Section 259E: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259E: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 259E(1)(a): amended, on 1 April 2014, by [section 126][554] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 259E(1)(a): amended, on 1 April 2014, by [section 126][562] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
     
-    Section 259E(2): amended, on 1 April 2014, by [section 126][554] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
+    Section 259E(2): amended, on 1 April 2014, by [section 126][562] of the Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102).
 
 ##### 259F Proof of standards incorporated by reference
     
@@ -8282,69 +8365,69 @@ Regulations, other Orders in Council, and rules
     
     (2) The production in proceedings of a certified copy of the financial reporting standards is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the standards.
     
-    Section 259F: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259F: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 259G Effect of expiry or revocation of standards incorporated by reference
     
-*   Financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][434] that expire or that are revoked or that cease to have effect cease to have legal effect as part of those regulations only if regulations made under that section state that the standards cease to have legal effect.
+*   Financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][441] that expire or that are revoked or that cease to have effect cease to have legal effect as part of those regulations only if regulations made under that section state that the standards cease to have legal effect.
     
-    Section 259G: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259G: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 259H Access to standards incorporated by reference
     
 *   (1) The department responsible for the administration of this Act must---
         
-    *   (a) provide electronic access to any financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][434]; and
+    *   (a) provide electronic access to any financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][441]; and
     
     *   (b) make the standards available for inspection during working hours, free of charge, at the department's head office and at any other place that the Secretary determines is appropriate.
     
-    (2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][434].
+    (2) A failure to comply with this section does not invalidate regulations that incorporate any financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][441].
     
-    Section 259H: inserted, on 5 December 2012, by [section 33][949] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 259H: inserted, on 5 December 2012, by [section 33][958] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 259I Application of Legislation Act 2012 to standards incorporated by reference
     
-*   (1) [Part 2][954] of the Legislation Act 2012 does not apply to---
+*   (1) [Part 2][963] of the Legislation Act 2012 does not apply to---
         
-    *   (a) financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][434]; or
+    *   (a) financial reporting standards incorporated by reference in regulations made under [section 259(1)(dc)][441]; or
     
     *   (b) an amendment to, or replacement of, those standards.
     
-    (2) [Subpart 1][955] of Part 3 of the Legislation Act 2012 applies to regulations made under [section 259(1)(dc)][434] that incorporate financial reporting standards by reference.
+    (2) [Subpart 1][964] of Part 3 of the Legislation Act 2012 applies to regulations made under [section 259(1)(dc)][441] that incorporate financial reporting standards by reference.
     
-    (3) However, nothing in [section 41][956] of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under [section 259(1)(dc)][434] to be presented to the House of Representatives.
+    (3) However, nothing in [section 41][965] of the Legislation Act 2012 requires material that is incorporated by reference in regulations made under [section 259(1)(dc)][441] to be presented to the House of Representatives.
     
-    Section 259I: replaced, on 5 August 2013, by [section 77(3)][957] of the Legislation Act 2012 (2012 No 119).
+    Section 259I: replaced, on 5 August 2013, by [section 77(3)][966] of the Legislation Act 2012 (2012 No 119).
 
 ##### 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
     
 *   \[Repealed\]
     
-    Section 259J: repealed, on 5 December 2013, by [section 4][958] of the Local Government Act 2002 Amendment Act 2013 (2013 No 124).
+    Section 259J: repealed, on 5 December 2013, by [section 4][967] of the Local Government Act 2002 Amendment Act 2013 (2013 No 124).
 
 #### Other Orders in Council
     
-*   Heading: inserted, on 27 November 2010, by [section 41][959] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Heading: inserted, on 27 November 2010, by [section 41][968] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 260 Amendment of Schedule 2 by Order in Council
     
 *   (1) This section applies if---
         
-    *   (a) a local authority named or specified in [Part 1][545] or [Part 2][549] of Schedule 2 is abolished, its name is altered, or a new local authority is created; or
+    *   (a) a local authority named or specified in [Part 1][553] or [Part 2][557] of Schedule 2 is abolished, its name is altered, or a new local authority is created; or
     
-    *   (b) a district or region of a local authority described in [Part 1][545] or [Part 2][549] of Schedule 2 is altered; or
+    *   (b) a district or region of a local authority described in [Part 1][553] or [Part 2][557] of Schedule 2 is altered; or
     
-    *   (c) the name of a district or region of a local authority described in [Part 1][545] or [Part 2][549] of Schedule 2 is altered under [section 11(2)][960] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
+    *   (c) the name of a district or region of a local authority described in [Part 1][553] or [Part 2][557] of Schedule 2 is altered under [section 11(2)][969] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008\.
     
-    (2) The Governor-General may, by Order in Council, make any amendments to [Schedule 2][517] that may be necessary to give effect to the abolition or alteration, or may include the name of the new local authority and a description of its district or region in Schedule 2\.
+    (2) The Governor-General may, by Order in Council, make any amendments to [Schedule 2][524] that may be necessary to give effect to the abolition or alteration, or may include the name of the new local authority and a description of its district or region in Schedule 2\.
     
     (3) Without limiting subsection (2), an Order in Council under that subsection may be combined with an Order in Council made under [section 25][37], or any other matter, under this or any other Act.
     
-    Section 260(1)(b): amended, on 1 November 2008, by [section 38][961] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 260(1)(b): amended, on 1 November 2008, by [section 38][970] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
-    Section 260(1)(c): added, on 1 November 2008, by [section 38][961] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+    Section 260(1)(c): added, on 1 November 2008, by [section 38][970] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
     
-    Section 260(3): amended, on 5 December 2012, by [section 34][962] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 260(3): amended, on 5 December 2012, by [section 34][971] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 261 Circumstances when Order in Council may extend time or validate action taken
     
@@ -8362,13 +8445,13 @@ Regulations, other Orders in Council, and rules
 
 #### Rules for performance measures
     
-*   Heading: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Heading: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261A Purpose of rules specifying performance measures
     
-*   The purpose of rules made under [section 261B][450] is to provide standard performance measures that are applicable to local authorities so that the public may compare the level of service provided in relation to a group of activities by different local authorities.
+*   The purpose of rules made under [section 261B][457] is to provide standard performance measures that are applicable to local authorities so that the public may compare the level of service provided in relation to a group of activities by different local authorities.
     
-    Section 261A: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261A: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261B Secretary must make rules specifying performance measures
     
@@ -8426,21 +8509,21 @@ Regulations, other Orders in Council, and rules
     
     (5) A rule comes into force 28 days after the date of its notification in the _Gazette_ or on such later date as may be specified in the rule.
     
-    Section 261B: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261B: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261C Status of rules
     
-*   A rule made under [section 261B][964] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][965] and must be presented to the House of Representatives under [section 41][956] of that Act.
+*   A rule made under [section 261B][973] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][974] and must be presented to the House of Representatives under [section 41][965] of that Act.
     
-    Section 261C: replaced, on 5 August 2013, by [section 77(3)][957] of the Legislation Act 2012 (2012 No 119).
+    Section 261C: replaced, on 5 August 2013, by [section 77(3)][966] of the Legislation Act 2012 (2012 No 119).
 
 #### Incorporation by reference
     
-*   Heading: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Heading: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261D Incorporation of documents by reference in rules
     
-*   (1) The following written material may be incorporated by reference in a rule made under [section 261B][450]:
+*   (1) The following written material may be incorporated by reference in a rule made under [section 261B][457]:
         
     *   (a) standards, requirements, or recommended practices of international or national organisations:
     
@@ -8456,7 +8539,7 @@ Regulations, other Orders in Council, and rules
     
     (3) Material incorporated by reference in a rule has legal effect as part of the rule.
     
-    Section 261D: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261D: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261E Proof of material incorporated by reference
     
@@ -8468,7 +8551,7 @@ Regulations, other Orders in Council, and rules
     
     (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence that the material is incorporated by reference in the rule.
     
-    Section 261E: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261E: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261F Effect of change to, or expiry of, material incorporated by reference
     
@@ -8482,11 +8565,11 @@ Regulations, other Orders in Council, and rules
     
     (3) The material described in subsection (1)(b) ceases to have legal effect as part of the rule only if the rule is varied to state that the material ceases to have effect.
     
-    Section 261F: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261F: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261G Consultation on proposal to incorporate material by reference
     
-*   (1) Before a rule is made under [section 261B][450], the Secretary---
+*   (1) Before a rule is made under [section 261B][457], the Secretary---
         
     *   (a) must make copies of any material proposed to be incorporated by reference in the rule (or the proposed amendment to, or replacement of, material incorporated by reference in the rule) (the _proposed material_) available for inspection, free of charge, during working hours at the offices of the Secretary; and
     
@@ -8514,7 +8597,7 @@ Regulations, other Orders in Council, and rules
     
     (3) A failure to comply with this section does not invalidate a rule that incorporates material by reference.
     
-    Section 261G: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261G: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 261H Access to material incorporated by reference
     
@@ -8552,7 +8635,7 @@ Regulations, other Orders in Council, and rules
     
     (3) A failure to comply with this section does not invalidate a rule that incorporates material by reference.
     
-    Section 261H: inserted, on 27 November 2010, by [section 42][963] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 261H: inserted, on 27 November 2010, by [section 42][972] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ## Part 12  
 Consequential amendments, repeals, revocations, transitional provisions, and savings
@@ -8561,45 +8644,45 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 262 Consequential amendments
     
-*   The Acts specified in [Schedule 16][531] are consequentially amended in the manner indicated in that schedule.
+*   The Acts specified in [Schedule 16][539] are consequentially amended in the manner indicated in that schedule.
 
 ##### 263 Water services
     
-*   _Amendment(s) incorporated in the [Act(s)][966]._
+*   _Amendment(s) incorporated in the [Act(s)][975]._
 
 ##### 264 Amendment to Personal Property Securities Act 1999
     
-*   _Amendment(s) incorporated in the [Act(s)][967]._
+*   _Amendment(s) incorporated in the [Act(s)][976]._
 
 ##### 265 New Schedule added to Receiverships Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][968]._
+*   _Amendment(s) incorporated in the [Act(s)][977]._
 
 ##### 266 Repeals
     
-*   The enactments specified in [Schedule 18][533] are repealed.
+*   The enactments specified in [Schedule 18][541] are repealed.
 
 ##### 267 Repeal of enactments relating to special consultative procedure
     
-*   _Amendment(s) incorporated in the [Act(s)][680]._
+*   _Amendment(s) incorporated in the [Act(s)][688]._
 
 ##### 268 Repeal of Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001
     
 *   (1) The Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001 is repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][969], it is declared that the repeal of the Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001 does not affect the amendments made to the [Local Government Act 1974][595] by sections 8 and 9 of that Act.
+    (2) Without limiting the provisions of the [Interpretation Act 1999][978], it is declared that the repeal of the Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001 does not affect the amendments made to the [Local Government Act 1974][603] by sections 8 and 9 of that Act.
 
 ##### 269 Repeal of spent local Acts
     
-*   The enactments specified in [Schedule 19][534] are repealed.
+*   The enactments specified in [Schedule 19][542] are repealed.
 
 ##### 270 Repeal of provisions relating to regional parks of Wellington Regional Council
     
-*   _Amendment(s) incorporated in the [Act(s)][970]_.
+*   _Amendment(s) incorporated in the [Act(s)][979]_.
 
 ##### 271 Lake Taupo Regulations 1976
     
-*   (1) Unless sooner revoked, the Lake Taupo Regulations 1976 (SR 1976/330) continue in force until the close of 30 June 2003, or such later date (not being later than 30 June 2004) as may be specified by Order in Council, as if the Harbours Act 1950 had not been repealed by [section 10][971] of the Local Government Amendment Act (No 2) 1999\.
+*   (1) Unless sooner revoked, the Lake Taupo Regulations 1976 (SR 1976/330) continue in force until the close of 30 June 2003, or such later date (not being later than 30 June 2004) as may be specified by Order in Council, as if the Harbours Act 1950 had not been repealed by [section 10][980] of the Local Government Amendment Act (No 2) 1999\.
     
     (2) The Governor-General may from time to time, by Order in Council, make regulations---
         
@@ -8607,13 +8690,13 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
     *   (b) revoking the regulations specified in subsection (1), in whole or in part.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][972]._
+    (3) _Amendment(s) incorporated in the [Act(s)][981]._
     
-    (4) This section has effect despite anything in [section 12][972] of the Local Government Amendment Act (No 2) 1999\.
+    (4) This section has effect despite anything in [section 12][981] of the Local Government Amendment Act (No 2) 1999\.
 
 ##### 272 Revocations
     
-*   The Orders in Council specified in [Schedule 20][535] are revoked.
+*   The Orders in Council specified in [Schedule 20][543] are revoked.
 
 #### Transitional provisions
 
@@ -8631,17 +8714,17 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 276 First statement of intent and report and accounts of existing local authority trading enterprises
     
-*   (1) Every council-controlled organisation that is, immediately before 1 July 2003, a local authority trading enterprise within the meaning of [section 594B][560] of the Local Government Act 1974---
+*   (1) Every council-controlled organisation that is, immediately before 1 July 2003, a local authority trading enterprise within the meaning of [section 594B][568] of the Local Government Act 1974---
         
     *   (a) must, subject to [section 64(2)][92] of this Act, have in respect of the financial year beginning on 1 July 2003, a statement of intent in accordance with section 64(1) of this Act; and
     
-    *   (b) must, despite the repeal of [sections 594Z to 594ZC][661] of the Local Government Act 1974, comply with those sections in respect of the financial year ending on 30 June 2003\.
+    *   (b) must, despite the repeal of [sections 594Z to 594ZC][669] of the Local Government Act 1974, comply with those sections in respect of the financial year ending on 30 June 2003\.
     
-    (2) For the purposes of subsection (1)(b), [sections 594Z to 594ZC][661] of the Local Government Act 1974 apply with all necessary modifications as if those sections were still in force.
+    (2) For the purposes of subsection (1)(b), [sections 594Z to 594ZC][669] of the Local Government Act 1974 apply with all necessary modifications as if those sections were still in force.
 
 ##### 277 First statement of intent of other council-controlled organisations
     
-*   Every council-controlled organisation (other than one to which [section 276][475] applies) that is in existence on 1 July 2003 must, subject to [section 64(2)][92], have, in respect of the financial year beginning on 1 July 2004, a statement of intent in accordance with section 64(1).
+*   Every council-controlled organisation (other than one to which [section 276][482] applies) that is in existence on 1 July 2003 must, subject to [section 64(2)][92], have, in respect of the financial year beginning on 1 July 2004, a statement of intent in accordance with section 64(1).
 
 ##### 278 First policy on significance
     
@@ -8651,33 +8734,33 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   \[Repealed\]
     
-    Section 279: repealed, on 27 November 2010, by [section 43][973] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 279: repealed, on 27 November 2010, by [section 43][982] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 280 Long-term plan for period beginning on 1 July 2006
     
 *   Every local authority must adopt under [section 93][132] a long-term plan for a period beginning on 1 July 2006\.
     
-    Section 280 heading: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 280 heading: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 280: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 280: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 281 Annual plan
     
 *   \[Repealed\]
     
-    Section 281: repealed, on 27 November 2010, by [section 44][974] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 281: repealed, on 27 November 2010, by [section 44][983] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 282 Certain decisions to be taken only if provided for in annual plan or special consultative procedure used
     
 *   \[Repealed\]
     
-    Section 282: repealed, on 27 November 2010, by [section 44][974] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 282: repealed, on 27 November 2010, by [section 44][983] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 283 Annual reports
     
-*   (1) If a local authority has prepared and adopted a report under [section 223D][572] of the Local Government Act 1974 for any year, whether before or after the commencement of this section, the local authority must prepare an annual report under [section 223E][700] of that Act in respect of that year, and that section and [Part 7A][975] of that Act apply to that annual report as if they had not been repealed.
+*   (1) If a local authority has prepared and adopted a report under [section 223D][580] of the Local Government Act 1974 for any year, whether before or after the commencement of this section, the local authority must prepare an annual report under [section 223E][708] of that Act in respect of that year, and that section and [Part 7A][984] of that Act apply to that annual report as if they had not been repealed.
     
-    (2) For the avoidance of doubt, [sections 98][138] and [99][139] do not apply to the preparation and adoption, in accordance with subsection (1), of a report under [section 223E][700] of the Local Government Act 1974\.
+    (2) For the avoidance of doubt, [sections 98][138] and [99][139] do not apply to the preparation and adoption, in accordance with subsection (1), of a report under [section 223E][708] of the Local Government Act 1974\.
     
     (3) This section applies to the Chatham Islands Council---
         
@@ -8695,7 +8778,7 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   A local authority in existence at the commencement of [section 95][134] must prepare and adopt its first annual plan under section 95 for the second financial year to which its first long-term plan under [section 93][132] relates.
     
-    Section 284: amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 284: amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 285 First assessment of water and sanitary services
     
@@ -8703,39 +8786,39 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 286 Waste management plan
     
-*   If, at the commencement of this section, a territorial authority does not have in force in respect of its district a waste management plan adopted under [section 539][976] of the Local Government Act 1974, that territorial authority must, in the period beginning with the passing of this Act and ending with the close of 30 June 2005, adopt a waste management plan under that section.
+*   If, at the commencement of this section, a territorial authority does not have in force in respect of its district a waste management plan adopted under [section 539][985] of the Local Government Act 1974, that territorial authority must, in the period beginning with the passing of this Act and ending with the close of 30 June 2005, adopt a waste management plan under that section.
 
 ##### 287 Special consultative procedure
     
 *   (1) This section applies to any requirement under any Act that a local authority use or adopt the special consultative procedure in relation to any plan or proposal.
     
-    (2) A special consultative procedure commenced by a local authority under [section 716A][680] of the Local Government Act 1974 before the commencement of [section 83][119] must be treated as complying with a requirement referred to in subsection (1) if the consultative procedure followed by the local authority was substantially in accordance with the requirements of section 83, whether or not that section was in force for any part of that procedure.
+    (2) A special consultative procedure commenced by a local authority under [section 716A][688] of the Local Government Act 1974 before the commencement of [section 83][119] must be treated as complying with a requirement referred to in subsection (1) if the consultative procedure followed by the local authority was substantially in accordance with the requirements of section 83, whether or not that section was in force for any part of that procedure.
 
 ##### 288 Decision-making processes commenced before enactment
     
 *   \[Repealed\]
     
-    Section 288: repealed, on 27 November 2010, by [section 45][977] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 288: repealed, on 27 November 2010, by [section 45][986] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 289 Special orders
     
-*   (1) This section applies in relation to any power given to a local authority by the [Local Government Act 1974][595] or any other Act to do anything by special order.
+*   (1) This section applies in relation to any power given to a local authority by the [Local Government Act 1974][603] or any other Act to do anything by special order.
     
-    (2) If, in relation to the exercise of any power to which this section applies, a local authority has, before 1 July 2003, begun proceedings under [section 716B][978] of the Local Government Act 1974, that local authority may complete those proceedings and any special order made in those proceedings in accordance with that section has effect according to its tenor.
+    (2) If, in relation to the exercise of any power to which this section applies, a local authority has, before 1 July 2003, begun proceedings under [section 716B][987] of the Local Government Act 1974, that local authority may complete those proceedings and any special order made in those proceedings in accordance with that section has effect according to its tenor.
 
 ##### 289A Special orders on or after 1 July 2003
     
 *   (1) This section applies---
         
-    *   (a) to any power that a local authority is required to exercise by special order under the [Local Government Act 1974][595]; and
+    *   (a) to any power that a local authority is required to exercise by special order under the [Local Government Act 1974][603]; and
     
-    *   (b) to an exercise of the power on or after 1 July 2003, and before the commencement of the [Local Government Act 1974 Amendment Act 2004][979].
+    *   (b) to an exercise of the power on or after 1 July 2003, and before the commencement of the [Local Government Act 1974 Amendment Act 2004][988].
     
     (2) A power is to be treated as having been exercised lawfully, and as having always been exercised lawfully, if subsection (3) or subsection (4) is complied with.
     
     (3) This subsection is complied with if---
         
-    *   (a) the power has been exercised in accordance with the special order procedure in the [Local Government Act 1974][595] as if the Local Government Act 2002 had not been passed; and
+    *   (a) the power has been exercised in accordance with the special order procedure in the [Local Government Act 1974][603] as if the Local Government Act 2002 had not been passed; and
     
     *   (b) the decision to exercise the power was made in accordance with [sections 76 to 83][111] of the Local Government Act 2002\.
     
@@ -8745,7 +8828,7 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
     *   (b) the decision to exercise the power was made in accordance with [sections 76 to 83][111] of the Local Government Act 2002\.
     
-    Section 289A: inserted, on 7 July 2004, by [section 23][980] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Section 289A: inserted, on 7 July 2004, by [section 23][989] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 290 Development contributions
     
@@ -8775,11 +8858,11 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   (1) If, at the commencement of this section, any proceedings relating to---
         
-    *   (a) a reorganisation proposal filed before the commencement of this section under [section 37ZP][981] of the Local Government Act 1974; or
+    *   (a) a reorganisation proposal filed before the commencement of this section under [section 37ZP][990] of the Local Government Act 1974; or
     
     *   (b) any draft reorganisation scheme, appeal, review, or other matter arising from the filing of a proposal of the kind described in paragraph (a),---
     
-    have not been determined or completed, those proceedings may be continued and completed and are to be dealt with under the [Local Government Act 1974][595] as if this Act had not been passed, and any reorganisation scheme that results from those proceedings may proceed under [Part 2BB][982] of that Act and be implemented under [Part 2BC][983] of that Act.
+    have not been determined or completed, those proceedings may be continued and completed and are to be dealt with under the [Local Government Act 1974][603] as if this Act had not been passed, and any reorganisation scheme that results from those proceedings may proceed under [Part 2BB][991] of that Act and be implemented under [Part 2BC][992] of that Act.
     
     (2) Any person who, if this Act had not been enacted, would have had---
         
@@ -8793,11 +8876,11 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 292 Existing charges
     
-*   (1) This section applies to any security interest that, immediately before the commencement of this section, was registered under [section 122ZH][984] of the Local Government Act 1974\.
+*   (1) This section applies to any security interest that, immediately before the commencement of this section, was registered under [section 122ZH][993] of the Local Government Act 1974\.
     
-    (2) Every security interest to which this section applies must be treated as a prior security interest for the purposes of [Part 12][985] of the Personal Property Securities Act 1999, and that Part applies, in relation to every such security interest, as if---
+    (2) Every security interest to which this section applies must be treated as a prior security interest for the purposes of [Part 12][994] of the Personal Property Securities Act 1999, and that Part applies, in relation to every such security interest, as if---
         
-    *   (a) every reference in that Part to prior registration law were a reference to [section 122ZH][984] of the Local Government Act 1974; and
+    *   (a) every reference in that Part to prior registration law were a reference to [section 122ZH][993] of the Local Government Act 1974; and
     
     *   (b) the transitional period were the period of 6 months commencing on the commencement of this section.
     
@@ -8805,43 +8888,43 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 293 Bylaws
     
-*   (1) Bylaws made or having effect under provisions of the [Local Government Act 1974][595] that are repealed by this Act, being bylaws that were in force immediately before the commencement of this section, are deemed to be validly made under this Act and continue in force accordingly if validly made under the Local Government Act 1974\.
+*   (1) Bylaws made or having effect under provisions of the [Local Government Act 1974][603] that are repealed by this Act, being bylaws that were in force immediately before the commencement of this section, are deemed to be validly made under this Act and continue in force accordingly if validly made under the Local Government Act 1974\.
     
     (2) Legal proceedings in relation to bylaws continued by subsection (1) that are pending by or against a council on the commencement of this section may be carried on, completed, enforced, or defended by or against the council as if this Act had not been passed.
     
     (3) Every bylaw to which this section applies that is not revoked or that does not expire before 1 July 2008, is revoked on that date.
     
-    Section 293(3): added, on 28 June 2006, by [section 26][986] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Section 293(3): added, on 28 June 2006, by [section 26][995] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 294 Standing orders
     
-*   (1) Local authority bylaws, and rules made by resolution of a local authority that constitute the standing orders of a local authority when [Schedule 7][522] comes into force, are standing orders of the local authority as if they had been adopted in the manner provided in [clause 27][987] of Schedule 7\.
+*   (1) Local authority bylaws, and rules made by resolution of a local authority that constitute the standing orders of a local authority when [Schedule 7][529] comes into force, are standing orders of the local authority as if they had been adopted in the manner provided in [clause 27][996] of Schedule 7\.
     
-    (2) Standing orders established under the [Local Government Act 1974][595] and in force immediately before the commencement of [Schedule 7][522] continue in existence until replaced or altered in accordance with Schedule 7\.
+    (2) Standing orders established under the [Local Government Act 1974][603] and in force immediately before the commencement of [Schedule 7][529] continue in existence until replaced or altered in accordance with Schedule 7\.
 
 ##### 295 Communities and community boards
     
-*   A community constituted under [section 101ZG][641] of the Local Government Act 1974, and in existence immediately before 1 July 2003, and the community board established for any such community, and in existence immediately before 1 July 2003, continue in existence for all purposes as fully and effectually as if they had originated under the corresponding provisions of this Act, and are, where necessary, deemed to have so originated.
+*   A community constituted under [section 101ZG][649] of the Local Government Act 1974, and in existence immediately before 1 July 2003, and the community board established for any such community, and in existence immediately before 1 July 2003, continue in existence for all purposes as fully and effectually as if they had originated under the corresponding provisions of this Act, and are, where necessary, deemed to have so originated.
 
 ##### 296 Chief executive
     
-*   (1) A person who, immediately before the commencement of this section, holds office under [section 119C(1)(a)][632] of the Local Government Act 1974 as the chief executive officer of a local authority is, without further appointment, the chief executive of that local authority and is deemed to have been appointed as chief executive under [section 42][64] for the unexpired portion of his or her term of office as the chief executive officer and on the same terms and conditions as those on which that person was employed immediately before that commencement.
+*   (1) A person who, immediately before the commencement of this section, holds office under [section 119C(1)(a)][640] of the Local Government Act 1974 as the chief executive officer of a local authority is, without further appointment, the chief executive of that local authority and is deemed to have been appointed as chief executive under [section 42][64] for the unexpired portion of his or her term of office as the chief executive officer and on the same terms and conditions as those on which that person was employed immediately before that commencement.
     
     (2) Nothing in subsection (1) prevents any terms or conditions of employment continued in force by that subsection from being varied or superseded by agreement.
 
 ##### 297 Members of Commission
     
-*   (1) A person who, immediately before the commencement of this section, holds office, under [section 37Y][609] of the Local Government Act 1974, as a member of the Commission or, under [section 37ZA][988] of that Act, as a deputy of a member of the Commission or, under [section 37ZB][989] of that Act, as a temporary member of the Commission is deemed to have been appointed, and to hold office, under the corresponding provision of [Schedule 4][519] of this Act.
+*   (1) A person who, immediately before the commencement of this section, holds office, under [section 37Y][617] of the Local Government Act 1974, as a member of the Commission or, under [section 37ZA][997] of that Act, as a deputy of a member of the Commission or, under [section 37ZB][998] of that Act, as a temporary member of the Commission is deemed to have been appointed, and to hold office, under the corresponding provision of [Schedule 4][526] of this Act.
     
-    (2) The term of office of a person deemed by subsection (1) to have been appointed under [clause 2][990] of Schedule 4 as a member of the Commission is, unless he or she sooner vacates office under [clause 3][991] of Schedule 4, to expire on the date on which, but for the passing of this Act, his or her term would have expired under the provisions of the [Local Government Act 1974][595].
+    (2) The term of office of a person deemed by subsection (1) to have been appointed under [clause 2][999] of Schedule 4 as a member of the Commission is, unless he or she sooner vacates office under [clause 3][1000] of Schedule 4, to expire on the date on which, but for the passing of this Act, his or her term would have expired under the provisions of the [Local Government Act 1974][603].
 
 ##### 298 Community trusts
     
-*   (1) This section applies to any community trust which is established under [section 225D][992] of the Local Government Act 1974 and which is in existence immediately before the commencement of this section.
+*   (1) This section applies to any community trust which is established under [section 225D][1001] of the Local Government Act 1974 and which is in existence immediately before the commencement of this section.
     
-    (2) Subject to the trust deed establishing a community trust to which this section applies, such a community trust continues in existence, and the provisions of subsections (3) and (4) of [section 225D][992] and of [sections 225E to 225M][993] of the Local Government Act 1974 continue to apply to that community trust as if they had not been repealed.
+    (2) Subject to the trust deed establishing a community trust to which this section applies, such a community trust continues in existence, and the provisions of subsections (3) and (4) of [section 225D][1001] and of [sections 225E to 225M][1002] of the Local Government Act 1974 continue to apply to that community trust as if they had not been repealed.
     
-    (3) Where any local authority or council-controlled organisation or subsidiary of a council-controlled organisation sells any shares or equity securities in any port company established under the [Port Companies Act 1988][547] or where a local authority receives from a council-controlled organisation or a subsidiary of a council-controlled organisation any part of the proceeds of the sale of any such shares or equity securities, the local authority may apply any of the proceeds of the sale (including any income or capital gain arising on those proceeds) to---
+    (3) Where any local authority or council-controlled organisation or subsidiary of a council-controlled organisation sells any shares or equity securities in any port company established under the [Port Companies Act 1988][555] or where a local authority receives from a council-controlled organisation or a subsidiary of a council-controlled organisation any part of the proceeds of the sale of any such shares or equity securities, the local authority may apply any of the proceeds of the sale (including any income or capital gain arising on those proceeds) to---
         
     *   (a) the payment of costs related to the sale; and
     
@@ -8853,7 +8936,7 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
 
 ##### 299 Borrowing from sinking fund
     
-*   (1) Despite the repeal of [section 122ZAA][994] of the Local Government Act 1974 by this Act, a local authority may---
+*   (1) Despite the repeal of [section 122ZAA][1003] of the Local Government Act 1974 by this Act, a local authority may---
         
     *   (a) borrow from the Commissioners of any sinking fund established by the local authority under the Local Authorities Loans Act 1956 or any former enactment; and
     
@@ -8865,7 +8948,7 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   If a local authority has, before the commencement of this section, established a sinking fund to provide for the repayment of any loan, and if, after the commencement of this section, it repurchases and cancels or redeems or otherwise repays in part any loan in respect of which the sinking fund is held before its stated maturity, the local authority may, with the consent in writing of the Auditor-General, require the release to the local authority of such amount of the sinking fund as will leave it (with probable accumulations of interest) sufficient to repay the balance of the loan at maturity.
     
-    Compare: 1974 No 66 [s 122ZR(1)][995]
+    Compare: 1974 No 66 [s 122ZR(1)][1004]
 
 ##### 301 Consent required for release of sinking fund
     
@@ -8893,7 +8976,7 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
     (3) Before a local authority makes a request for the release of a sinking fund under subsection (1), it must ensure that the local authority will have available, in easily realisable funds, such amounts as may be required to repay the principal or interest of the loan when the principal or interest becomes payable.
     
-    Compare: 1974 No 66 [s 122ZR(2), (2A), (3)][995]
+    Compare: 1974 No 66 [s 122ZR(2), (2A), (3)][1004]
 
 ##### 302 Provisions relating to Public Trust and Board of Trustees of National Provident Fund
     
@@ -8905,37 +8988,37 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
     *   (c) no liability will be incurred by the retiring Commissioner in respect of any sinking fund after completion of the transfer of the money or assets representing that fund.
     
-    Compare: 1974 No 66 [s 122ZR(4)][995]
+    Compare: 1974 No 66 [s 122ZR(4)][1004]
 
 ##### 303 Public Bodies Leases Act 1969
     
-*   (1) Every territorial authority and regional council ceases, as from the commencement of this section, to be a leasing authority for the purposes of the [Public Bodies Leases Act 1969][996].
+*   (1) Every territorial authority and regional council ceases, as from the commencement of this section, to be a leasing authority for the purposes of the [Public Bodies Leases Act 1969][1005].
     
-    (2) Despite subsection (1) and [section 262][460], nothing in this Act limits the application of the [Public Bodies Leases Act 1969][996] with respect to---
+    (2) Despite subsection (1) and [section 262][467], nothing in this Act limits the application of the [Public Bodies Leases Act 1969][1005] with respect to---
         
     *   (a) any lease or tenancy granted by a territorial authority or regional council before the commencement of this section and current at the commencement of this section; or
     
-    *   (b) any lease or tenancy granted after the commencement of this section in renewal of a lease or tenancy to which the [Public Bodies Leases Act 1969][996] applies.
+    *   (b) any lease or tenancy granted after the commencement of this section in renewal of a lease or tenancy to which the [Public Bodies Leases Act 1969][1005] applies.
     
     
 
 ##### 304 Sale of land purchased for commercial or industrial purposes
     
-*   Despite the repeal by this Act of [section 572][997] of the Local Government Act 1974, subsection (6) of that section continues to have effect in relation to the sale of any land to which that section applies (being land that the local authority has purchased for commercial or industrial purposes before the repeal of that section).
+*   Despite the repeal by this Act of [section 572][1006] of the Local Government Act 1974, subsection (6) of that section continues to have effect in relation to the sale of any land to which that section applies (being land that the local authority has purchased for commercial or industrial purposes before the repeal of that section).
 
 ##### 305 Local Authorities (Employment Protection) Act 1963
     
-*   [Section 55(3)][998] of the Local Government Amendment Act (No 2) 1989 continues to have effect.
+*   [Section 55(3)][1007] of the Local Government Amendment Act (No 2) 1989 continues to have effect.
 
 ##### 306 Local Authorities Loans Act 1956
     
-*   (1) [Sections 21][999] and [22][1000] of the Local Government Amendment Act (No 3) 1996 continue to have effect.
+*   (1) [Sections 21][1008] and [22][1009] of the Local Government Amendment Act (No 3) 1996 continue to have effect.
     
-    (2) Despite subsection (1) and clauses 60(1) and 61 of [Schedule 3][518], if a local authority repays, before its maturity, any loan that is secured by a rate to which clause 60(1) of Schedule 3 refers or any loan in respect of which a rate has been made and levied pursuant to clause 61 of Schedule 3, the provisions of clause 60(1) of Schedule 3 or of clause 61 of Schedule 3 or of both, as the case may require, cease to apply to the rate or the area of land upon which the rate is charged.
+    (2) Despite subsection (1) and clauses 60(1) and 61 of [Schedule 3][525], if a local authority repays, before its maturity, any loan that is secured by a rate to which clause 60(1) of Schedule 3 refers or any loan in respect of which a rate has been made and levied pursuant to clause 61 of Schedule 3, the provisions of clause 60(1) of Schedule 3 or of clause 61 of Schedule 3 or of both, as the case may require, cease to apply to the rate or the area of land upon which the rate is charged.
 
 ##### 307 Existing proceedings
     
-*   All applications, actions, appeals, proceedings, and other matters under any Act which, before the commencement of this section, have been made or referred under any provision of the [Local Government Act 1974][595] that is repealed by this Act or any provision of any other Act amended or repealed by that Act or by this Act to any court or the Commission and which have not been determined or completed at the commencement of this section are to be determined or completed by the court or the Commission, as the case may require, as if this Act had not been passed.
+*   All applications, actions, appeals, proceedings, and other matters under any Act which, before the commencement of this section, have been made or referred under any provision of the [Local Government Act 1974][603] that is repealed by this Act or any provision of any other Act amended or repealed by that Act or by this Act to any court or the Commission and which have not been determined or completed at the commencement of this section are to be determined or completed by the court or the Commission, as the case may require, as if this Act had not been passed.
 
 ##### 308 Existing causes of action
     
@@ -8949,49 +9032,49 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   (1) The repeal of any provision by this Act does not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, is to continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
-    (2) Subsection (1) does not limit the provisions of the [Interpretation Act 1999][969].
+    (2) Subsection (1) does not limit the provisions of the [Interpretation Act 1999][978].
 
 ##### 310 Saving in respect of bylaws of Transit New Zealand
     
-*   The repeal of [section 684(1)(38) to (40)][1001] and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under [section 61(3)][1002] of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989\.
+*   The repeal of [section 684(1)(38) to (40)][1010] and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under [section 61(3)][1011] of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989\.
     
-    Section 310: amended, on 1 August 2008, by [section 50(1)][1003] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 310: amended, on 1 August 2008, by [section 50(1)][1012] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 311 Savings in respect of bylaws made in respect of government roads
     
-*   The repeal of [section 684(1)(38) to (40)][1001] and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under [section 48(2)][1004] of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
+*   The repeal of [section 684(1)(38) to (40)][1010] and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under [section 48(2)][1013] of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
 
 ##### 312 Savings and validation in respect of remuneration, allowances, and expenses of elected members
     
-*   (1) Every determination, resolution, or other document which was in force under [Part 4C][1005] of the Local Government Act 1974 immediately before the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001---
+*   (1) Every determination, resolution, or other document which was in force under [Part 4C][1014] of the Local Government Act 1974 immediately before the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001---
         
     *   (a) is deemed to have continued in force until the commencement of this section; and
     
     *   (b) is to continue in force after the commencement of this section until it is superseded or revoked by a determination made by the Remuneration Authority under---
             
-        *   (i) [Part 4C][1005] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001); or
+        *   (i) [Part 4C][1014] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001); or
         
         *   (ii) this Act.
         
         
     
-    (2) In relation to the period beginning with the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001 and ending with the commencement of this section, the provisions of [Part 4C][1005] of the Local Government Act 1974 are deemed to have had effect as if that section had not been enacted.
+    (2) In relation to the period beginning with the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001 and ending with the commencement of this section, the provisions of [Part 4C][1014] of the Local Government Act 1974 are deemed to have had effect as if that section had not been enacted.
     
-    (3) The provisions of [Part 4C][1005] of the Local Government Act 1974 (in the form of which they were immediately before the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001) continue to have effect in relation to any determination, resolution, or other document to which subsection (1) of this section applies until the determination, resolution, or document is superseded or revoked by a determination made by the Remuneration Authority under---
+    (3) The provisions of [Part 4C][1014] of the Local Government Act 1974 (in the form of which they were immediately before the commencement of section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001) continue to have effect in relation to any determination, resolution, or other document to which subsection (1) of this section applies until the determination, resolution, or document is superseded or revoked by a determination made by the Remuneration Authority under---
         
-    *   (a) [Part 4C][1005] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001); or
+    *   (a) [Part 4C][1014] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001); or
     
     *   (b) this Act.
     
-    (4) A determination made by the Remuneration Authority under [Part 4C][1005] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001) or this Act may revoke any determination, resolution, or other document to which subsection (1) of this section applies.
+    (4) A determination made by the Remuneration Authority under [Part 4C][1014] of the Local Government Act 1974 (as amended by section 4 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001) or this Act may revoke any determination, resolution, or other document to which subsection (1) of this section applies.
     
-    (5) Despite subsections (1) to (4) and the provisions of sections 4 and 5 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001, the provision made by [section 14(aa)][1006] of the Greytown District Trust Lands Act 1979 for the payment of a fee to members of the trust board within the meaning of that Act---
+    (5) Despite subsections (1) to (4) and the provisions of sections 4 and 5 of the Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001, the provision made by [section 14(aa)][1015] of the Greytown District Trust Lands Act 1979 for the payment of a fee to members of the trust board within the meaning of that Act---
         
     *   (a) is deemed to have continued in force until the commencement of this section; and
     
     *   (b) continues in force after the commencement of this section until the earlier of---
             
-        *   (i) the date on which the rate of the remuneration payable to members of that trust board is first approved after the commencement of this section under the [Fees and Travelling Allowances Act 1951][1007]; or
+        *   (i) the date on which the rate of the remuneration payable to members of that trust board is first approved after the commencement of this section under the [Fees and Travelling Allowances Act 1951][1016]; or
         
         *   (ii) the close of 30 April 2003\.
         
@@ -9003,17 +9086,17 @@ Consequential amendments, repeals, revocations, transitional provisions, and sav
     
 *   \[Repealed\]
     
-    Section 313: repealed, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 313: repealed, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 314 Prohibition of vehicles and consumption or possession of intoxicating liquor in public place
     
-*   (1) Every prohibition that, on the commencement of this section, is in force under any provision of [sections 709A to 709H][1008] of the Local Government Act 1974 is, unless it is sooner revoked or sooner expires, to continue in force for the period of 12 months beginning with the date on which this section comes into force.
+*   (1) Every prohibition that, on the commencement of this section, is in force under any provision of [sections 709A to 709H][1017] of the Local Government Act 1974 is, unless it is sooner revoked or sooner expires, to continue in force for the period of 12 months beginning with the date on which this section comes into force.
     
     (2) A territorial authority may, by bylaw made under [section 146(b)][207], revoke any prohibition that is continued in force by subsection (1) and is in force within the whole or any part of the territorial authority's district.
     
     (3) Every prohibition continued in force by subsection (1) is deemed,---
         
-    *   (a) for the purposes of [sections 169][246], [239][363], and [240][366], to be a bylaw made under [Part 8][201]; and
+    *   (a) for the purposes of [sections 169][246], [239][370], and [240][373], to be a bylaw made under [Part 8][201]; and
     
     *   (b) for the purpose of [section 170][249], to be a bylaw made under [section 147][208].
     
@@ -9078,7 +9161,7 @@ Wellington Regional Council Local Government (Wellington Region) Reorganisation 
 
 West Coast Regional Council Local Government (West Coast Region) Reorganisation Order 1989, _Gazette_ 1989, p 2517
 
-*   Schedule 2 Part 1: amended, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+*   Schedule 2 Part 1: amended, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ## Part 2  
 Territorial authorities
@@ -9087,7 +9170,7 @@ Territorial authorities
 
 Ashburton District Council Local Government (Canterbury Region) Reorganisation Order 1989, _Gazette_ 1989, p 2296
 
-Auckland Council [section 6(1)][1009] of the Local Government (Auckland Council) Act 2009
+Auckland Council [section 6(1)][1018] of the Local Government (Auckland Council) Act 2009
 
 Buller District Council Local Government (West Coast Region) Reorganisation Order 1989, _Gazette_ 1989, p 2517
 
@@ -9097,7 +9180,7 @@ Central Hawke's Bay District Council Local Government (Hawke's Bay Region) Reorg
 
 Central Otago District Council Local Government (Otago Region) Reorganisation Order 1989, _Gazette_ 1989, p 2408
 
-Chatham Islands Council [Chatham Islands Council Act 1995][1010]
+Chatham Islands Council [Chatham Islands Council Act 1995][1019]
 
 Christchurch City Council Local Government (Canterbury Region) Reorganisation Order 1989, _Gazette_ 1989, p 2296
 
@@ -9219,9 +9302,9 @@ Whakatane District Council Local Government (Bay of Plenty Region) Reorganisatio
 
 Whangarei District Council Local Government (Northland Region) Reorganisation Order 1989, _Gazette_ 1989, p 2391
 
-*   Schedule 2 Part 2: amended, on 12 December 2012, by [section 4][1011] of the Local Government Act 2002 Amendment Act (No 2) 2012 (2012 No 107).
-*   Schedule 2 Part 2: amended, on 1 November 2010, by [section 113(1)][556] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
-*   Schedule 2 Part 2: amended, on 1 March 2004, by [clause 5][1012] of the Local Government (Tauranga City Council) Order 2003 (SR 2003/275).
+*   Schedule 2 Part 2: amended, on 12 December 2012, by [section 4][1020] of the Local Government Act 2002 Amendment Act (No 2) 2012 (2012 No 107).
+*   Schedule 2 Part 2: amended, on 1 November 2010, by [section 113(1)][564] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+*   Schedule 2 Part 2: amended, on 1 March 2004, by [clause 5][1021] of the Local Government (Tauranga City Council) Order 2003 (SR 2003/275).
 
 ## Part 3  
 Boundaries
@@ -9240,9 +9323,9 @@ Boundaries
     
     (4) Subclause (3) applies subject to the Order in Council made under [section 25][37].
     
-    Compare: 1974 No 66 [s 37O][1013]
+    Compare: 1974 No 66 [s 37O][1022]
     
-    Schedule 2 Part 3 clause 1(4): amended, on 5 December 2012, by [section 35][1014] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 2 Part 3 clause 1(4): amended, on 5 December 2012, by [section 35][1023] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 2 Boundaries of districts
     
@@ -9258,9 +9341,9 @@ Boundaries
     
     (4) Subclause (3) applies subject to the Order in Council made under [section 25][37].
     
-    Compare: 1974 No 66 [s 37P][1015]
+    Compare: 1974 No 66 [s 37P][1024]
     
-    Schedule 2 Part 3 clause 2(4): amended, on 5 December 2012, by [section 35][1014] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 2 Part 3 clause 2(4): amended, on 5 December 2012, by [section 35][1023] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 3 Unitary authorities
     
@@ -9274,7 +9357,7 @@ Boundaries
 
 ##### 4 Savings provisions for unitary authorities
     
-*   If, immediately before the commencement of this Act, a territorial authority has, under [section 37N][1016] of the Local Government Act 1974, the responsibilities, duties, and powers of a regional council as well as its own responsibilities, duties, and powers, then the territorial authority---
+*   If, immediately before the commencement of this Act, a territorial authority has, under [section 37N][1025] of the Local Government Act 1974, the responsibilities, duties, and powers of a regional council as well as its own responsibilities, duties, and powers, then the territorial authority---
         
     *   (a) continues to have the responsibilities, duties, and powers of the regional council; and
     
@@ -9305,145 +9388,145 @@ Reorganisation of local authorities
 
 [s 24][35]
 
-*   Schedule 3: replaced, on 5 December 2012, by [section 36][1017] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Schedule 3: replaced, on 5 December 2012, by [section 36][1026] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ## Contents
 
-[1][1018][][1018][Overview][1018]
+[1][1027][][1027][Overview][1027]
 
-[2][538][][538][Interpretation][538]
+[2][546][][546][Interpretation][546]
 
-[Part 1][1019]  
-[Reorganisation applications][1019]
+[Part 1][1028]  
+[Reorganisation applications][1028]
 
-[Subpart 1][1020][---][1020][Making reorganisation applications][1020]
+[Subpart 1][1029][---][1029][Making reorganisation applications][1029]
 
-[3][1021][][1021][Who may make reorganisation application][1021]
+[3][1030][][1030][Who may make reorganisation application][1030]
 
-[4][1022][][1022][Prohibition on making certain reorganisation applications][1022]
+[4][1031][][1031][Prohibition on making certain reorganisation applications][1031]
 
-[5][1023][][1023][Contents of reorganisation application][1023]
+[5][1032][][1032][Contents of reorganisation application][1032]
 
-[Subpart 2][1024][---][1024][Commission to decline or assess reorganisation application][1024]
+[Subpart 2][1033][---][1033][Commission to decline or assess reorganisation application][1033]
 
-[6][1025][][1025][Action on receipt of application][1025]
+[6][1034][][1034][Action on receipt of application][1034]
 
-[7][598][][598][When Commission may decline to assess reorganisation application][598]
+[7][606][][606][When Commission may decline to assess reorganisation application][606]
 
-[8][1026][][1026][Community support][1026]
+[8][1035][][1035][Community support][1035]
 
-[9][1027][][1027][Commission to seek alternative applications][1027]
+[9][1036][][1036][Commission to seek alternative applications][1036]
 
-[10][1028][][1028][Alternative applications][1028]
+[10][1037][][1037][Alternative applications][1037]
 
-[11][1029][][1029][Commission to determine preferred option][1029]
+[11][1038][][1038][Commission to determine preferred option][1038]
 
-[12][1030][][1030][Promotion of good local government][1030]
+[12][1039][][1039][Promotion of good local government][1039]
 
-[13][1031][][1031][Procedure after preferred option determined][1031]
+[13][1040][][1040][Procedure after preferred option determined][1040]
 
-[Part 2][1032]  
-[Reorganisation proposals][1032]
+[Part 2][1041]  
+[Reorganisation proposals][1041]
 
-[Subpart 1][1033][---][1033][Preparation of proposals][1033]
+[Subpart 1][1042][---][1042][Preparation of proposals][1042]
 
-[14][1034][][1034][Development of proposal][1034]
+[14][1043][][1043][Development of proposal][1043]
 
-[15][1035][][1035][Local boards][1035]
+[15][1044][][1044][Local boards][1044]
 
-[16][1036][][1036][Cities][1036]
+[16][1045][][1045][Cities][1045]
 
-[17][1037][][1037][Appropriate boundaries][1037]
+[17][1046][][1046][Appropriate boundaries][1046]
 
-[18][1038][][1038][Representation][1038]
+[18][1047][][1047][Representation][1047]
 
-[19][1039][][1039][Communities][1039]
+[19][1048][][1048][Communities][1048]
 
-[20][1040][][1040][Consultation on proposal][1040]
+[20][1049][][1049][Consultation on proposal][1049]
 
-[21][1041][][1041][Decisions on draft proposals][1041]
+[21][1050][][1050][Decisions on draft proposals][1050]
 
-[22][587][][587][Notification of final proposal][587]
+[22][595][][595][Notification of final proposal][595]
 
-[Subpart 2][1042][---][1042][Polls][1042]
+[Subpart 2][1051][---][1051][Polls][1051]
 
-[23][1043][][1043][Application of this subpart][1043]
+[23][1052][][1052][Application of this subpart][1052]
 
-[24][1044][][1044][Petition to require poll][1044]
+[24][1053][][1053][Petition to require poll][1053]
 
-[25][1045][][1045][Poll to be held][1045]
+[25][1054][][1054][Poll to be held][1054]
 
-[26][1046][][1046][Timing of poll][1046]
+[26][1055][][1055][Timing of poll][1055]
 
-[27][1047][][1047][Official result of poll][1047]
+[27][1056][][1056][Official result of poll][1056]
 
-[28][1048][][1048][Fate of proposal after poll][1048]
+[28][1057][][1057][Fate of proposal after poll][1057]
 
-[Subpart 3][1049][---][1049][Advertising][1049]
+[Subpart 3][1058][---][1058][Advertising][1058]
 
-[29][1050][][1050][Interpretation][1050]
+[29][1059][][1059][Interpretation][1059]
 
-[30][1051][][1051][Advertising in relation to polls][1051]
+[30][1060][][1060][Advertising in relation to polls][1060]
 
-[31][1052][][1052][Provision of referential information][1052]
+[31][1061][][1061][Provision of referential information][1061]
 
-[32][1053][][1053][Authorisation of advertising][1053]
+[32][1062][][1062][Authorisation of advertising][1062]
 
-[Part 3][1054]  
-[Transition bodies][1054]
+[Part 3][1063]  
+[Transition bodies][1063]
 
-[33][589][][589][Application][589]
+[33][597][][597][Application][597]
 
-[34][1055][][1055][Establishment and purpose of transition body][1055]
+[34][1064][][1064][Establishment and purpose of transition body][1064]
 
-[35][1056][][1056][Composition and membership of transition body][1056]
+[35][1065][][1065][Composition and membership of transition body][1065]
 
-[36][1057][][1057][Roles and functions of transition body][1057]
+[36][1066][][1066][Roles and functions of transition body][1066]
 
-[37][1058][][1058][Accountability arrangements for transition body][1058]
+[37][1067][][1067][Accountability arrangements for transition body][1067]
 
-[38][1059][][1059][Appointment of interim chief executive][1059]
+[38][1068][][1068][Appointment of interim chief executive][1068]
 
-[39][1060][][1060][Interim chief executive may appoint staff, enter into contracts, and call first meeting of local authority][1060]
+[39][1069][][1069][Interim chief executive may appoint staff, enter into contracts, and call first meeting of local authority][1069]
 
-[40][1061][][1061][Apportionment of transition costs][1061]
+[40][1070][][1070][Apportionment of transition costs][1070]
 
-[Part 4][1062]  
-[Reorganisation schemes][1062]
+[Part 4][1071]  
+[Reorganisation schemes][1071]
 
-[Subpart 1][1063][---][1063][Preparation of reorganisation schemes][1063]
+[Subpart 1][1072][---][1072][Preparation of reorganisation schemes][1072]
 
-[41][593][][593][Preparation of reorganisation scheme][593]
+[41][601][][601][Preparation of reorganisation scheme][601]
 
-[Subpart 2][1064][---][1064][Contents of and provisions that apply to reorganisation schemes][1064]
+[Subpart 2][1073][---][1073][Contents of and provisions that apply to reorganisation schemes][1073]
 
-[42][1065][][1065][Provisions for inclusion in reorganisation schemes][1065]
+[42][1074][][1074][Provisions for inclusion in reorganisation schemes][1074]
 
-[43][1066][][1066][Provisions to be included if necessary or desirable][1066]
+[43][1075][][1075][Provisions to be included if necessary or desirable][1075]
 
-[Subpart 3][1067][---][1067][Implementation and effect of reorganisations][1067]
+[Subpart 3][1076][---][1076][Implementation and effect of reorganisations][1076]
 
-[44][1068][][1068][Application][1068]
+[44][1077][][1077][Application][1077]
 
-[45][590][][590][Provisions that apply to reorganisation scheme unless modified or excluded][590]
+[45][598][][598][Provisions that apply to reorganisation scheme unless modified or excluded][598]
 
-[46][591][][591][Bylaws][591]
+[46][599][][599][Bylaws][599]
 
-[47][592][][592][No compensation payable if responsibility transferred][592]
+[47][600][][600][No compensation payable if responsibility transferred][600]
 
-[48][1069][][1069][Payment if trading undertaking transferred][1069]
+[48][1078][][1078][Payment if trading undertaking transferred][1078]
 
-[49][1070][][1070][Employees][1070]
+[49][1079][][1079][Employees][1079]
 
-[50][1071][][1071][KiwiSaver Act 2006 does not apply to transferred employee][1071]
+[50][1080][][1080][KiwiSaver Act 2006 does not apply to transferred employee][1080]
 
-[51][1072][][1072][Certain matters not affected by transfer of responsibilities, duties, or powers][1072]
+[51][1081][][1081][Certain matters not affected by transfer of responsibilities, duties, or powers][1081]
 
-[52][1073][][1073][Registers][1073]
+[52][1082][][1082][Registers][1082]
 
-[53][1074][][1074][Apportionment of assets and liabilities][1074]
+[53][1083][][1083][Apportionment of assets and liabilities][1083]
 
-[54][1075][][1075][Apportionment of fuel tax revenue][1075]
+[54][1084][][1084][Apportionment of fuel tax revenue][1084]
 
 ---
 
@@ -9455,11 +9538,11 @@ Reorganisation of local authorities
     
     *   (b) does not affect the interpretation or application of any provision of this schedule.
     
-    (2) [Clause 2][538] contains definitions of terms used in this schedule.
+    (2) [Clause 2][546] contains definitions of terms used in this schedule.
     
-    (3) [Part 1][1019] contains 2 subparts, as follows:
+    (3) [Part 1][1028] contains 2 subparts, as follows:
         
-    *   (a) [subpart 1][1020]---
+    *   (a) [subpart 1][1029]---
             
         *   (i) provides that any person, body, or group may make a reorganisation application to the Commission; and
         
@@ -9469,7 +9552,7 @@ Reorganisation of local authorities
         
         
     
-    *   (b) [subpart 2][1024]---
+    *   (b) [subpart 2][1033]---
             
         *   (i) requires the Commission to decide whether to assess a reorganisation application; and
         
@@ -9483,9 +9566,9 @@ Reorganisation of local authorities
         
         
     
-    (4) [Part 2][1032] contains 3 subparts, as follows:
+    (4) [Part 2][1041] contains 3 subparts, as follows:
         
-    *   (a) [subpart 1][1033]---
+    *   (a) [subpart 1][1042]---
             
         *   (i) requires the Commission to develop the preferred option into a draft proposal; and
         
@@ -9495,19 +9578,19 @@ Reorganisation of local authorities
         
         
     
-    *   (b) [subpart 2][1042] provides for petitions requiring a poll on a final proposal and for the holding of a poll if required; and
+    *   (b) [subpart 2][1051] provides for petitions requiring a poll on a final proposal and for the holding of a poll if required; and
     
-    *   (c) [subpart 3][1049] places restrictions on advertising by a local authority to promote or oppose a final proposal in the period from the issue of the final proposal to when a poll is held (if required) or the close of the day for receiving a petition. This subpart contains an exception for publication of material that is factual or referential.
+    *   (c) [subpart 3][1058] places restrictions on advertising by a local authority to promote or oppose a final proposal in the period from the issue of the final proposal to when a poll is held (if required) or the close of the day for receiving a petition. This subpart contains an exception for publication of material that is factual or referential.
     
-    (5) [Part 3][1054] provides for the establishment of transition bodies and related matters.
+    (5) [Part 3][1063] provides for the establishment of transition bodies and related matters.
     
-    (6) [Part 4][1062] contains 3 subparts, as follows:
+    (6) [Part 4][1071] contains 3 subparts, as follows:
         
-    *   (a) [subpart 1][1063] requires the Commission to prepare a reorganisation scheme if no poll is required on a final proposal or a poll has been held and has not defeated the final proposal; and
+    *   (a) [subpart 1][1072] requires the Commission to prepare a reorganisation scheme if no poll is required on a final proposal or a poll has been held and has not defeated the final proposal; and
     
-    *   (b) [subpart 2][1024] specifies the matters the Commission must and may include in a reorganisation scheme; and
+    *   (b) [subpart 2][1033] specifies the matters the Commission must and may include in a reorganisation scheme; and
     
-    *   (c) [subpart 3][1067] contains provisions that apply to a reorganisation scheme unless amended or declared not to apply by the scheme.
+    *   (c) [subpart 3][1076] contains provisions that apply to a reorganisation scheme unless amended or declared not to apply by the scheme.
     
     
 
@@ -9525,9 +9608,9 @@ Reorganisation of local authorities
     
     _affected elector_ means---
         
-    *   (a) a person who is a residential elector (within the meaning of [section 23][749] of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
+    *   (a) a person who is a residential elector (within the meaning of [section 23][757] of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
     
-    *   (b) a person who is a ratepayer elector (within the meaning of [section 24][750] of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
+    *   (b) a person who is a ratepayer elector (within the meaning of [section 24][758] of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
     
     _applicant_ means the person making a reorganisation application
     
@@ -9545,7 +9628,7 @@ Reorganisation of local authorities
     
     *   (b) includes any other notice that the Commission thinks desirable in the circumstances
     
-    _reorganisation application_ means an application under [clause 3][1021] or [10][1028] proposing local government reorganisation and dealing with 1 or more of the matters specified in [section 24][35].
+    _reorganisation application_ means an application under [clause 3][1030] or [10][1037] proposing local government reorganisation and dealing with 1 or more of the matters specified in [section 24][35].
 
 ## Part 1  
 Reorganisation applications
@@ -9568,7 +9651,7 @@ Reorganisation applications
         
     *   (a) the application relates to a local authority that has been the subject of local government reorganisation; and
     
-    *   (b) the application, if it were made, would have been made during a period specified by the Commission under [clause 21][1041].
+    *   (b) the application, if it were made, would have been made during a period specified by the Commission under [clause 21][1050].
     
     
 
@@ -9590,7 +9673,7 @@ Reorganisation applications
     
     *   (d) a full and detailed explanation of what the proposed changes are seeking to achieve and how the changes would be achieved by the approach proposed in the application; and
     
-    *   (e) a description of the potential improvements that would result from the proposed changes and how they would promote good local government as described in [clause 12][1030]; and
+    *   (e) a description of the potential improvements that would result from the proposed changes and how they would promote good local government as described in [clause 12][1039]; and
     
     *   (f) information that demonstrates that the application has community support in the district of each affected territorial authority.
     
@@ -9600,7 +9683,7 @@ Reorganisation applications
     
     *   (b) any other information that the applicant considers relevant to the Commission's consideration of the application.
     
-    (3) A reorganisation application may be accompanied by a petition of affected electors for the purposes of [clause 8(2)][1026].
+    (3) A reorganisation application may be accompanied by a petition of affected electors for the purposes of [clause 8(2)][1035].
     
     (4) If a reorganisation application is accompanied by a petition, each elector who signed the petition must state, against his or her signature, the person's name and address in sufficient detail to enable the person to be identified as an elector.
 
@@ -9614,7 +9697,7 @@ Reorganisation applications
     
     *   (b) notify the applicant of its decision; and
     
-    *   (c) if the Commission decides to decline to assess the application, in the notice to the applicant specify the ground or grounds in [clause 7][598] on which the application is declined and explain why the ground or grounds apply; and
+    *   (c) if the Commission decides to decline to assess the application, in the notice to the applicant specify the ground or grounds in [clause 7][606] on which the application is declined and explain why the ground or grounds apply; and
     
     *   (d) if the Commission decides to assess the application, notify the affected local authorities of its decision.
     
@@ -9626,9 +9709,9 @@ Reorganisation applications
         
     *   (a) the application is frivolous:
     
-    *   (b) the application does not contain the information required by [clause 5(1)][1023]:
+    *   (b) the application does not contain the information required by [clause 5(1)][1032]:
     
-    *   (c) the application does contain the information required by [clause 5(1)][1023], but not in sufficient detail for the Commission to assess the application:
+    *   (c) the application does contain the information required by [clause 5(1)][1032], but not in sufficient detail for the Commission to assess the application:
     
     *   (d) 1 or more of the aspects that would be essential if the application were implemented are inconsistent with this Act or any other enactment:
     
@@ -9686,7 +9769,7 @@ Reorganisation applications
 
 ##### 9 Commission to seek alternative applications
     
-*   (1) If the Commission is satisfied about community support, as required by [clause 8][1026], the Commission must give---
+*   (1) If the Commission is satisfied about community support, as required by [clause 8][1035], the Commission must give---
         
     *   (a) public notice; and
     
@@ -9716,9 +9799,9 @@ Reorganisation applications
 
 ##### 10 Alternative applications
     
-*   (1) An alternative application must comply with [clause 5][1023] as if it were a reorganisation application.
+*   (1) An alternative application must comply with [clause 5][1032] as if it were a reorganisation application.
     
-    (2) However, an alternative application is not required to comply with [clause 5(1)(f)][1023] in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under [clause 3][1021].
+    (2) However, an alternative application is not required to comply with [clause 5(1)(f)][1032] in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under [clause 3][1030].
 
 ##### 11 Commission to determine preferred option
     
@@ -9742,9 +9825,9 @@ Reorganisation applications
     
     *   (b) may include---
             
-        *   (i) the proposals in the application made under [clause 3][1021]; or
+        *   (i) the proposals in the application made under [clause 3][1030]; or
         
-        *   (ii) the proposals in an alternative application made under [clause 10][1028]; or
+        *   (ii) the proposals in an alternative application made under [clause 10][1037]; or
         
         *   (iii) options, other than those referred to in paragraph (a) and subparagraphs (i) and (ii), formulated by the Commission; or
         
@@ -9778,11 +9861,11 @@ Reorganisation applications
     
     *   (b) undertake any investigations and make any inquiries that the Commission considers appropriate.
     
-    (8) If the Commission identifies 2 or more reasonably practicable options, the Commission must determine, having regard to the criteria in [clause 12][1030], its preferred option, being the option that best promotes good local government.
+    (8) If the Commission identifies 2 or more reasonably practicable options, the Commission must determine, having regard to the criteria in [clause 12][1039], its preferred option, being the option that best promotes good local government.
 
 ##### 12 Promotion of good local government
     
-*   For the purposes of [clause 11(8)][1029], the Commission must be satisfied that its preferred option---
+*   For the purposes of [clause 11(8)][1038], the Commission must be satisfied that its preferred option---
         
     *   (a) will best promote, in the affected area, the purpose of local government as specified in [section 10][13]; and
     
@@ -9800,7 +9883,7 @@ Reorganisation applications
 
 ##### 13 Procedure after preferred option determined
     
-*   (1) After determining the preferred option under [clause 11][1029], the Commission must---
+*   (1) After determining the preferred option under [clause 11][1038], the Commission must---
         
     *   (a) give notice of its determination and the reasons for it to---
             
@@ -9810,9 +9893,9 @@ Reorganisation applications
         
         
     
-    *   (b) proceed under [clause 14][1034] to develop a draft reorganisation proposal to give effect to the preferred option.
+    *   (b) proceed under [clause 14][1043] to develop a draft reorganisation proposal to give effect to the preferred option.
     
-    (2) However, subclause (1)(b) does not apply if the Commission's preferred option, under [clause 11][1029], is the existing arrangements for local government.
+    (2) However, subclause (1)(b) does not apply if the Commission's preferred option, under [clause 11][1038], is the existing arrangements for local government.
 
 ## Part 2  
 Reorganisation proposals
@@ -9881,7 +9964,7 @@ Reorganisation proposals
     
 *   (1) This clause applies if---
         
-    *   (a) the Commission has determined, under [clause 11][1029], that the preferred option for local government of an area is a unitary authority; and
+    *   (a) the Commission has determined, under [clause 11][1038], that the preferred option for local government of an area is a unitary authority; and
     
     *   (b) the area---
             
@@ -9893,13 +9976,13 @@ Reorganisation proposals
     
     (2) In preparing a draft proposal in relation to the affected area, the Commission may include provisions for local boards if it considers that good local government of the district of the unitary authority would be best promoted by providing for local boards.
     
-    (3) Provisions for local boards must be consistent with [sections 7][1076], [10 to 32B][1077], [97 to 99][1078], [102][1079], and [105][1080] of the Local Government (Auckland Council) Act 2009, and those sections apply in relation to the proposed unitary authority as if---
+    (3) Provisions for local boards must be consistent with [sections 7][1085], [10 to 32B][1086], [97 to 99][1087], [102][1088], and [105][1089] of the Local Government (Auckland Council) Act 2009, and those sections apply in relation to the proposed unitary authority as if---
         
     *   (a) every reference to the Council or Auckland Council were a reference to the unitary authority; and
     
     *   (b) every reference to Auckland were a reference to the district of the unitary authority.
     
-    (4) A draft proposal must, in addition to the matters specified in [clause 14][1034], specify---
+    (4) A draft proposal must, in addition to the matters specified in [clause 14][1043], specify---
         
     *   (a) the number and names of local board areas within the district; and
     
@@ -9929,11 +10012,11 @@ Reorganisation proposals
     
     (7) However, if the Commission considers that effective representation of communities of interest so requires, subdivisions may be defined, and membership distributed between them, in a way that does not comply with subclause (6).
     
-    (8) [Clause 14(4)][1034] does not apply to a draft proposal under subclause (2).
+    (8) [Clause 14(4)][1043] does not apply to a draft proposal under subclause (2).
     
-    (9) To avoid doubt, [clauses 14(3)(f)][1034] and [19][1039] do not apply to a draft proposal under subclause (2).
+    (9) To avoid doubt, [clauses 14(3)(f)][1043] and [19][1048] do not apply to a draft proposal under subclause (2).
     
-    (10) A reorganisation scheme in respect of a final proposal to which subclause (2) applies must, in addition to the matters specified in section 30, make an initial allocation of decision-making responsibility for the non-regulatory activities of the unitary authority between the authority's governing body and its local boards in accordance with [section 17][1081] of the Local Government (Auckland Council) Act 2009 as applied by subclause (3).
+    (10) A reorganisation scheme in respect of a final proposal to which subclause (2) applies must, in addition to the matters specified in section 30, make an initial allocation of decision-making responsibility for the non-regulatory activities of the unitary authority between the authority's governing body and its local boards in accordance with [section 17][1090] of the Local Government (Auckland Council) Act 2009 as applied by subclause (3).
 
 ##### 16 Cities
     
@@ -9961,13 +10044,13 @@ Reorganisation proposals
 
 ##### 18 Representation
     
-*   In determining the representation arrangements of a local authority for a draft proposal or (if [clause 14(4)][1034] applies) a reorganisation scheme, the Commission must---
+*   In determining the representation arrangements of a local authority for a draft proposal or (if [clause 14(4)][1043] applies) a reorganisation scheme, the Commission must---
         
     *   (a) have regard to the existing electoral and representation arrangements of the affected local authorities; and
     
     *   (b) provide fair and effective representation for individuals and communities of the local authority; and
     
-    *   (c) comply with the requirements of the [Local Electoral Act 2001][543]; and
+    *   (c) comply with the requirements of the [Local Electoral Act 2001][551]; and
     
     *   (d) take into account the responsibilities, duties, and powers of the local authority.
     
@@ -9975,7 +10058,7 @@ Reorganisation proposals
 
 ##### 19 Communities
     
-*   When preparing a draft proposal or (if [clause 14(4)][1034] applies) a reorganisation scheme, the Commission may consider whether good local government of any affected district would be best promoted by---
+*   When preparing a draft proposal or (if [clause 14(4)][1043] applies) a reorganisation scheme, the Commission may consider whether good local government of any affected district would be best promoted by---
         
     *   (a) a system of communities and the responsibilities, duties, and powers of the community boards in the district; or
     
@@ -10049,23 +10132,23 @@ Reorganisation proposals
 
 ##### 21 Decisions on draft proposals
     
-*   (1) After complying with [clause 20][1040], the Commission must do 1 of the following:
+*   (1) After complying with [clause 20][1049], the Commission must do 1 of the following:
         
     *   (a) issue the draft proposal as a final proposal:
     
     *   (b) issue a modified draft proposal as a final proposal:
     
-    *   (c) identify, under [clause 11][1029], another preferred option as the basis for a new draft proposal:
+    *   (c) identify, under [clause 11][1038], another preferred option as the basis for a new draft proposal:
     
     *   (d) decide not to issue a final proposal and give public notice of the decision and the reasons for it.
     
     (2) In making a decision about how to proceed under subclause (1), the Commission must---
         
-    *   (a) consider the submissions, views, and any other information received under [clause 20][1040]; and
+    *   (a) consider the submissions, views, and any other information received under [clause 20][1049]; and
     
     *   (b) have regard to---
             
-        *   (i) the matters specified in [clause 12][1030]; and
+        *   (i) the matters specified in [clause 12][1039]; and
         
         *   (ii) the scale and scope of the changes proposed; and
         
@@ -10077,15 +10160,15 @@ Reorganisation proposals
         
         
     
-    (3) The Commission must not issue a final proposal under subclause (1)(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in [clause 20(1)(c)][1040].
+    (3) The Commission must not issue a final proposal under subclause (1)(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in [clause 20(1)(c)][1049].
     
-    (4) A final proposal must comply with [clauses 14(2), (3), (4), and (5)(a)][1034] and [16 to 19][1036] as if references in those provisions to a draft proposal were references to a final proposal.
+    (4) A final proposal must comply with [clauses 14(2), (3), (4), and (5)(a)][1043] and [16 to 19][1045] as if references in those provisions to a draft proposal were references to a final proposal.
     
-    (5) A final proposal may specify a period for the purpose of [clause 4][1022].
+    (5) A final proposal may specify a period for the purpose of [clause 4][1031].
     
     (6) Before deciding to issue a final proposal, the Commission must be satisfied that the final proposal is likely to have demonstrable community support in the district of each affected territorial authority.
     
-    (7) For the purposes of subclause (6), [clause 8(2) and (3)(b)][1026] apply in relation to a final proposal.
+    (7) For the purposes of subclause (6), [clause 8(2) and (3)(b)][1035] apply in relation to a final proposal.
 
 ##### 22 Notification of final proposal
     
@@ -10093,11 +10176,11 @@ Reorganisation proposals
         
     *   (a) give public notice of the final proposal and, in the notice, specify where copies of the proposal may be inspected; and
     
-    *   (b) take any other action that it considers necessary to inform the persons, bodies, and groups who made submissions or provided views under [clause 20][1040] of the final proposal.
+    *   (b) take any other action that it considers necessary to inform the persons, bodies, and groups who made submissions or provided views under [clause 20][1049] of the final proposal.
     
     (2) The Commission must attach to a final proposal a full and detailed statement that---
         
-    *   (a) explains how the final proposal will promote the purpose of local government and facilitate economic performance, as described in [clause 12][1030]; and
+    *   (a) explains how the final proposal will promote the purpose of local government and facilitate economic performance, as described in [clause 12][1039]; and
     
     *   (b) provides a balanced assessment of the final proposal, outlining the advantages and disadvantages of the proposal in respect of---
             
@@ -10119,19 +10202,19 @@ Reorganisation proposals
 
 ##### 24 Petition to require poll
     
-*   (1) If a final proposal has been issued under [clause 21(1)(a) or (b)][1041], affected electors may demand a poll to determine whether or not the final proposal is to proceed and become a reorganisation scheme.
+*   (1) If a final proposal has been issued under [clause 21(1)(a) or (b)][1050], affected electors may demand a poll to determine whether or not the final proposal is to proceed and become a reorganisation scheme.
     
     (2) A poll may be demanded under subclause (1) by a petition of 10% or more of affected electors enrolled in the district of a territorial authority.
     
     (3) A petition must be in the prescribed form (if any).
     
-    (4) The Commission must, in the public notice of a final proposal under [clause 22(1)(a)][587], advise electors of---
+    (4) The Commission must, in the public notice of a final proposal under [clause 22(1)(a)][595], advise electors of---
         
     *   (a) the opportunity to demand a poll under this clause; and
     
     *   (b) the requirements relating to the submission of a petition under this clause; and
     
-    *   (c) the date by which a petition must be received by the Commission, being the close of the 60th working day after the first publication of the notice under [clause 22(1)(a)][587]; and
+    *   (c) the date by which a petition must be received by the Commission, being the close of the 60th working day after the first publication of the notice under [clause 22(1)(a)][595]; and
     
     *   (d) the affected area.
     
@@ -10153,19 +10236,19 @@ Reorganisation proposals
     
 *   (1) A poll of electors must be held in the affected area if the Commission is satisfied that the petition---
         
-    *   (a) is made in accordance with [clause 24][1044]; and
+    *   (a) is made in accordance with [clause 24][1053]; and
     
     *   (b) relates to the final proposal.
     
-    (2) Except as otherwise provided in this Part, a poll under this clause must be held under the [Local Electoral Act 2001][543] and the provisions of that Act apply, with any necessary modifications, to the conduct of the poll.
+    (2) Except as otherwise provided in this Part, a poll under this clause must be held under the [Local Electoral Act 2001][551] and the provisions of that Act apply, with any necessary modifications, to the conduct of the poll.
     
-    (3) The Commission must ensure that 1 electoral officer is designated to conduct the poll and to declare the official result of the poll under [clause 27][1047].
+    (3) The Commission must ensure that 1 electoral officer is designated to conduct the poll and to declare the official result of the poll under [clause 27][1056].
     
     (4) The costs of the poll are to be apportioned among the affected local authorities on the basis of the number of affected electors on the electoral rolls of the affected local authorities.
 
 ##### 26 Timing of poll
     
-*   (1) A poll required by [clause 25][1045] must be held on a date determined by the Commission in accordance with this clause.
+*   (1) A poll required by [clause 25][1054] must be held on a date determined by the Commission in accordance with this clause.
     
     (2) In determining the date on which a poll is to be held, the Commission must consult the electoral officer required to conduct the poll.
     
@@ -10193,7 +10276,7 @@ Reorganisation proposals
     
 *   The electoral officer must,---
         
-    *   (a) when declaring the official result of the poll under [section 86][1082] of the Local Electoral Act 2001, include a statement of---
+    *   (a) when declaring the official result of the poll under [section 86][1091] of the Local Electoral Act 2001, include a statement of---
             
         *   (i) the total number of electors on the roll or rolls compiled for the purpose of the poll; and
         
@@ -10207,7 +10290,7 @@ Reorganisation proposals
 
 ##### 28 Fate of proposal after poll
     
-*   (1) If more than 50% of the valid votes cast in the poll are for a final proposal then [clause 41][593] applies.
+*   (1) If more than 50% of the valid votes cast in the poll are for a final proposal then [clause 41][601] applies.
     
     (2) In every other case, the final proposal must not proceed.
 
@@ -10251,9 +10334,9 @@ Reorganisation proposals
     
     _specified period_ means,---
         
-    *   (a) if a poll is required to be held under [clause 25][1045], the period commencing on the day after the date on which public notice of the final proposal is first given and ending with the close of the day on which the poll is held:
+    *   (a) if a poll is required to be held under [clause 25][1054], the period commencing on the day after the date on which public notice of the final proposal is first given and ending with the close of the day on which the poll is held:
     
-    *   (b) if a poll is not required to be held under [clause 25][1045], the period commencing on the day after the date on which public notice of the final proposal is given and ending with the close of the day specified by the Commission for the purposes of [clause 24(4)(c)][1044].
+    *   (b) if a poll is not required to be held under [clause 25][1054], the period commencing on the day after the date on which public notice of the final proposal is given and ending with the close of the day specified by the Commission for the purposes of [clause 24(4)(c)][1053].
     
     
 
@@ -10273,13 +10356,13 @@ Reorganisation proposals
     
     *   (c) the publication of any news or comment relating to the final proposal or the poll in any medium by any person other than the local authority; or
     
-    *   (d) anything done to comply with the requirements of [Part 7][679] of the Local Government Official Information and Meetings Act 1987\.
+    *   (d) anything done to comply with the requirements of [Part 7][687] of the Local Government Official Information and Meetings Act 1987\.
     
     
 
 ##### 31 Provision of referential information
     
-*   (1) [Clause 30][1051] does not preclude a local authority affected by a final proposal from publishing material that---
+*   (1) [Clause 30][1060] does not preclude a local authority affected by a final proposal from publishing material that---
         
     *   (a) does not expressly or impliedly promote or oppose the final proposal; but
     
@@ -10287,7 +10370,7 @@ Reorganisation proposals
             
         *   (i) in a balanced way; and
         
-        *   (ii) to assist electors considering promoting or signing a petition for the purposes of [subpart 2][1064] or voting in a poll to make a better-informed decision.
+        *   (ii) to assist electors considering promoting or signing a petition for the purposes of [subpart 2][1073] or voting in a poll to make a better-informed decision.
         
         
     
@@ -10324,15 +10407,15 @@ Transition bodies
 
 ##### 33 Application
     
-*   This subpart applies to a final proposal that is issued under [clause 21][1041] and notified under [clause 22][587] and in relation to which---
+*   This subpart applies to a final proposal that is issued under [clause 21][1050] and notified under [clause 22][595] and in relation to which---
         
-    *   (a) a poll, under [clause 25][1045],---
+    *   (a) a poll, under [clause 25][1054],---
             
         *   (i) has not been held because---
                 
             *   (A) the reorganisation proposal does not include any of the matters specified in [section 24(1)(a), (b), (c), or (f)][35]; or
             
-            *   (B) the requirements for a petition under [clause 24][1044] have not been met; or
+            *   (B) the requirements for a petition under [clause 24][1053] have not been met; or
             
             
         
@@ -10442,7 +10525,7 @@ Transition bodies
 
 ##### 37 Accountability arrangements for transition body
     
-*   (1) During phase 1, the transition body is responsible to the Commission for the performance of its role, responsibilities, and functions under [clause 36][1057].
+*   (1) During phase 1, the transition body is responsible to the Commission for the performance of its role, responsibilities, and functions under [clause 36][1066].
     
     (2) During phase 2,---
         
@@ -10470,13 +10553,13 @@ Transition bodies
     
     (3) In making an appointment under subclause (1), the transition board must have regard to---
         
-    *   (a) the matters that a local authority must consider in relation to appointing an interim chief executive under [clause 33][630] of Schedule 7; and
+    *   (a) the matters that a local authority must consider in relation to appointing an interim chief executive under [clause 33][638] of Schedule 7; and
     
     *   (b) the skills and experience required of a chief executive in order to---
             
         *   (i) prepare for the establishment of the local authority on the implementation date; and
         
-        *   (ii) exercise, to the extent authorised by Order in Council, the powers set out in [clause 39][1060]; and
+        *   (ii) exercise, to the extent authorised by Order in Council, the powers set out in [clause 39][1069]; and
         
         *   (iii) provide effective leadership of the staff and management of the systems and resources of the local authority in the early years of its existence.
         
@@ -10486,7 +10569,7 @@ Transition bodies
 
 ##### 39 Interim chief executive may appoint staff, enter into contracts, and call first meeting of local authority
     
-*   (1) A chief executive appointed under [clause 38][1059] may, if authorised by the Order in Council,---
+*   (1) A chief executive appointed under [clause 38][1068] may, if authorised by the Order in Council,---
         
     *   (a) employ, on behalf of the local authority, staff for the local authority with a start date before the implementation date; and
     
@@ -10494,9 +10577,9 @@ Transition bodies
     
     *   (c) on behalf of the local authority, enter into contracts, leases, and other agreements to enable the local authority to operate efficiently and effectively on and from the implementation date; and
     
-    *   (d) exercise the duties of a chief executive under [clause 21][1083] of Schedule 7 to call, before the implementation date, the first meeting of the local authority to be held on or after that date.
+    *   (d) exercise the duties of a chief executive under [clause 21][1092] of Schedule 7 to call, before the implementation date, the first meeting of the local authority to be held on or after that date.
     
-    (2) The chief executive must exercise the powers in subclause (1) in accordance with the change management plan developed under [clause 36(1)(b)][1057] and any other protocols or processes developed by the Commission.
+    (2) The chief executive must exercise the powers in subclause (1) in accordance with the change management plan developed under [clause 36(1)(b)][1066] and any other protocols or processes developed by the Commission.
     
     (3) For the purposes of this clause, the chief executive must exercise the powers and perform the functions described in this clause as if the local authority were established, and---
         
@@ -10516,7 +10599,7 @@ Transition bodies
         
         
     
-    (4) Despite subclause (3), all costs and other obligations associated with any appointment, contract, lease, or other agreement made by the chief executive under subclause (1) and incurred before the implementation date must be apportioned between the affected local authorities in accordance with the determination of the Commission under [clause 40][1061].
+    (4) Despite subclause (3), all costs and other obligations associated with any appointment, contract, lease, or other agreement made by the chief executive under subclause (1) and incurred before the implementation date must be apportioned between the affected local authorities in accordance with the determination of the Commission under [clause 40][1070].
 
 ##### 40 Apportionment of transition costs
     
@@ -10534,7 +10617,7 @@ Transition bodies
         
         
     
-    *   (b) the costs referred to in [clause 39(4)][1060].
+    *   (b) the costs referred to in [clause 39(4)][1069].
     
     
 
@@ -10569,11 +10652,11 @@ Reorganisation schemes
     
 *   (1) In preparing a reorganisation scheme, the Commission---
         
-    *   (a) must set out again the matters specified in [clause 14(2) and (3)][1034]; and
+    *   (a) must set out again the matters specified in [clause 14(2) and (3)][1043]; and
     
     *   (b) must include the provisions that are necessary to give effect to the scheme and, in particular, must include---
             
-        *   (i) the provisions specified in [clause 43][1066] that are considered necessary or desirable as a consequence of the scheme; and
+        *   (i) the provisions specified in [clause 43][1075] that are considered necessary or desirable as a consequence of the scheme; and
         
         *   (ii) any provisions considered necessary for---
                 
@@ -10587,7 +10670,7 @@ Reorganisation schemes
         
         
     
-    *   (c) may provide that 1 or more of the provisions of [clauses 45][590] and [46][591]---
+    *   (c) may provide that 1 or more of the provisions of [clauses 45][598] and [46][599]---
             
         *   (i) apply to the scheme with modifications; or
         
@@ -10601,7 +10684,7 @@ Reorganisation schemes
     
     *   (f) may incorporate any other matters that it considers necessary or appropriate to give effect to the proposal.
     
-    (2) If the Commission has, under [clause 14(4)][1034], deferred including representation arrangements or community board arrangements, or both, in a proposal, the Commission must include the representation arrangements or community board arrangements, or both, in the reorganisation scheme.
+    (2) If the Commission has, under [clause 14(4)][1043], deferred including representation arrangements or community board arrangements, or both, in a proposal, the Commission must include the representation arrangements or community board arrangements, or both, in the reorganisation scheme.
 
 ##### 43 Provisions to be included if necessary or desirable
     
@@ -10613,25 +10696,25 @@ Reorganisation schemes
     
     *   (c) provisions dealing with the requirements and application of long-term plans, annual plans, and annual reports as provided for under this enactment:
     
-    *   (d) provisions dealing with the requirements in any enactment that relate to plans, programmes, and strategies, including (but not limited to) regional land transport programmes and regional land transport strategies under the [Land Transport Management Act 2003][1084]:
+    *   (d) provisions dealing with the requirements in any enactment that relate to plans, programmes, and strategies, including (but not limited to) regional land transport programmes and regional land transport strategies under the [Land Transport Management Act 2003][1093]:
     
     *   (e) provisions dealing with---
             
-        *   (i) the administration of an existing, proposed, or operative district plan or regional plan under the [Resource Management Act 1991][677]:
+        *   (i) the administration of an existing, proposed, or operative district plan or regional plan under the [Resource Management Act 1991][685]:
         
-        *   (ii) the administration of any designations, resource consents, and notices of requirement under the [Resource Management Act 1991][677], but subject to [sections 81 to 180][1085] of that Act:
+        *   (ii) the administration of any designations, resource consents, and notices of requirement under the [Resource Management Act 1991][685], but subject to [sections 81 to 180][1094] of that Act:
         
         
     
     *   (f) if an area is included in the district of another territorial authority, provisions that the civil defence emergency management group plan for the district in which the area is included applies to the area so included and is the only operative local civil defence plan to apply in that area:
     
-    *   (g) if a new district or region is constituted, provisions that every civil defence emergency management group plan that is in force in respect of any area included in that district or region continues in force until a new plan is prepared and approved for the district under the [Civil Defence Emergency Management Act 2002][1086]:
+    *   (g) if a new district or region is constituted, provisions that every civil defence emergency management group plan that is in force in respect of any area included in that district or region continues in force until a new plan is prepared and approved for the district under the [Civil Defence Emergency Management Act 2002][1095]:
     
     *   (h) provisions for committees for the first term of the new local authority and membership and responsibilities of those committees:
     
     *   (i) provisions dealing with the apportionment or disposition of the assets and liabilities of all or any of the local authorities affected by the scheme, which provisions may include the date on which any of the apportionment or disposition takes place or may be treated as having taken place:
     
-    *   (j) provisions dealing with the transfer, in accordance with [clause 49][1070], of employees of the local authorities affected by the scheme:
+    *   (j) provisions dealing with the transfer, in accordance with [clause 49][1079], of employees of the local authorities affected by the scheme:
     
     *   (k) provisions concerning rating in a new district or region, or enlarged district or region, which may---
             
@@ -10693,9 +10776,9 @@ Reorganisation schemes
     
     *   (g) the rights or interests of creditors of a district or region are not affected:
     
-    *   (h) the valuation rolls, electoral rolls, and rate records in force in the district or region of an abolished local authority, or in relation to any part of the district or region of a local authority included in the district or region of another local authority, continue in force in the district or region of the new controlling local authority until those rolls or records are made by that local authority, and, until that time, the [Local Government (Rating) Act 2002][926] applies:
+    *   (h) the valuation rolls, electoral rolls, and rate records in force in the district or region of an abolished local authority, or in relation to any part of the district or region of a local authority included in the district or region of another local authority, continue in force in the district or region of the new controlling local authority until those rolls or records are made by that local authority, and, until that time, the [Local Government (Rating) Act 2002][935] applies:
     
-    *   (i) except in the circumstances specified in [clause 1][899], [2][900], [4][1087], or [5][937] of Schedule 7, if part of a district or region is excluded from that district or region and included in another district or region, the members of the local authority of the first-mentioned district or region continue to be members of that district or region as if that part had not been excluded from the district or region.
+    *   (i) except in the circumstances specified in [clause 1][908], [2][909], [4][1096], or [5][946] of Schedule 7, if part of a district or region is excluded from that district or region and included in another district or region, the members of the local authority of the first-mentioned district or region continue to be members of that district or region as if that part had not been excluded from the district or region.
     
     
 
@@ -10741,7 +10824,7 @@ Reorganisation schemes
     
 *   (1) If provision is made in a reorganisation order for a responsibility to be transferred to, or assumed by, a local authority, provision may not be made for the payment of compensation to the local authority from which that responsibility is transferred or assumed.
     
-    (2) This clause applies subject to [clauses 48][1069] and [53][1074].
+    (2) This clause applies subject to [clauses 48][1078] and [53][1083].
 
 ##### 48 Payment if trading undertaking transferred
     
@@ -10759,7 +10842,7 @@ Reorganisation schemes
         
     *   (a) a local authority (_local authority A_) ceases to exist under a reorganisation scheme and its district or region is included in the district or region of another local authority (_local authority B_); or
     
-    *   (b) a reorganisation scheme provides, under [clause 43(j)][1066] for the transfer of employees from a local authority _(local authority A)_ to another local authority (_local authority B_).
+    *   (b) a reorganisation scheme provides, under [clause 43(j)][1075] for the transfer of employees from a local authority _(local authority A)_ to another local authority (_local authority B_).
     
     (2) On and from the implementation date, a person who was, immediately before that date, an employee of local authority A becomes an employee of local authority B.
     
@@ -10779,7 +10862,7 @@ Reorganisation schemes
 
 ##### 50 KiwiSaver Act 2006 does not apply to transferred employee
     
-*   The transfer of an employee's employment under [clause 49][1070] does not constitute new employment for the purposes of the [KiwiSaver Act 2006][1088].
+*   The transfer of an employee's employment under [clause 49][1079] does not constitute new employment for the purposes of the [KiwiSaver Act 2006][1097].
 
 ##### 51 Certain matters not affected by transfer of responsibilities, duties, or powers
     
@@ -10829,13 +10912,13 @@ Reorganisation schemes
     
     (5) An order of the Commission under subclause (2) may be enforced as if it were an agreement between the local authorities concerned.
     
-    (6) For the purposes of the [Income Tax Act 2007][1089], the [Goods and Services Tax Act 1985][1090], and the [Accident Compensation Act 2001][1091], a local authority constituted under a reorganisation order is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
+    (6) For the purposes of the [Income Tax Act 2007][1098], the [Goods and Services Tax Act 1985][1099], and the [Accident Compensation Act 2001][1100], a local authority constituted under a reorganisation order is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
 
 ##### 54 Apportionment of fuel tax revenue
     
-*   (1) Despite [Part 11][1092] of the Local Government Act 1974, the local authorities established or affected by a reorganisation order may, by agreement, determine that the proceeds of fuel tax levied under that Part are to be distributed among them other than in accordance with that Part.
+*   (1) Despite [Part 11][1101] of the Local Government Act 1974, the local authorities established or affected by a reorganisation order may, by agreement, determine that the proceeds of fuel tax levied under that Part are to be distributed among them other than in accordance with that Part.
     
-    (2) If agreement under subclause (1) cannot be reached within 3 months after the date on which the reorganisation order comes into force, any of those local authorities may apply to the Commission for an order determining the matter in accordance with [clause 53(2) to (5)][1074].
+    (2) If agreement under subclause (1) cannot be reached within 3 months after the date on which the reorganisation order comes into force, any of those local authorities may apply to the Commission for an order determining the matter in accordance with [clause 53(2) to (5)][1083].
     
     (3) An agreement under subclause (1), or an order under subclause (2), applies only to the end of the first financial year that commences after the date on which the reorganisation order comes into force.
 
@@ -10852,7 +10935,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     _member_ means a member of the Commission appointed under [section 33][50]
     
-    _transaction_ means a matter referred to in [clause 17(2)][1093].
+    _transaction_ means a matter referred to in [clause 17(2)][1102].
 
 #### Members
 
@@ -10862,7 +10945,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     (2) A member is eligible for reappointment.
     
-    Compare: 1974 No 66 [s 37Z(1), (2)][1094]
+    Compare: 1974 No 66 [s 37Z(1), (2)][1103]
 
 ##### 3 Vacation of office
     
@@ -10884,7 +10967,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     (5) A person appointed to fill an extraordinary vacancy must be appointed for the residue of the term for which the vacating member was appointed.
     
-    Compare: 1974 No 66 [s 37Z(3)][1094], Schedule 3A [cl 1][1095]
+    Compare: 1974 No 66 [s 37Z(3)][1103], Schedule 3A [cl 1][1104]
 
 ##### 4 Deputies of members
     
@@ -10898,7 +10981,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     (3) A person appointed by the Minister under subclause (1) is, while acting in terms of the appointment, to be treated as a member of the Commission, and no acts done by the Commission while any person is so acting are to be questioned in any proceedings on the grounds that the occasion for the appointment of the person had not arisen or had ceased.
     
-    Compare: 1974 No 66 [s 37ZA][988]
+    Compare: 1974 No 66 [s 37ZA][997]
 
 ##### 5 Temporary members
     
@@ -10906,7 +10989,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     (2) An appointment may be made under subclause (1) even though there may already be 3 members of the Commission, and any person so appointed is, subject to the terms of his or her appointment, to be treated for all purposes as a member of the Commission, and no acts done by the Commission while a person is so acting are to be questioned in any proceedings on the grounds that the occasion for the appointment had not arisen or had ceased.
     
-    Compare: 1974 No 66 [s 37ZB][989]
+    Compare: 1974 No 66 [s 37ZB][998]
 
 ##### 6 Duties of members
     
@@ -10946,7 +11029,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     *   (c) in no case, to be fewer than 2 members.
     
-    Compare: 1974 No 66 [Schedule 3A cl 3(1), (2)][614]
+    Compare: 1974 No 66 [Schedule 3A cl 3(1), (2)][622]
 
 ##### 9 Chairperson to preside
     
@@ -10970,7 +11053,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     *   (b) a casting vote if there are more than 2 members voting and there is an equality of votes.
     
-    Compare: 1974 No 66 [Schedule 3A cl 3(5)][614]
+    Compare: 1974 No 66 [Schedule 3A cl 3(5)][622]
 
 ##### 11 Resolution assented to by all members
     
@@ -11024,13 +11107,13 @@ Provisions relating to Local Government Commission and its proceedings
     
     (3) The Commission may pay to a person engaged under subclause (2), for services rendered by the person, the fees or commissions or both that it thinks fit, and may reimburse the person for expenses reasonably incurred in rendering services for the Commission.
     
-    Compare: 1974 No 66 [Schedule 3A cls 5, 6][614]
+    Compare: 1974 No 66 [Schedule 3A cls 5, 6][622]
 
 #### Interested members
 
 ##### 17 Obligation to disclose interest
     
-*   (1) A member who (otherwise than as a member) is interested, directly or indirectly, in any of the matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the interest in accordance with [clause 19][1096].
+*   (1) A member who (otherwise than as a member) is interested, directly or indirectly, in any of the matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the interest in accordance with [clause 19][1105].
     
     (2) The matters are---
         
@@ -11068,17 +11151,17 @@ Provisions relating to Local Government Commission and its proceedings
 
 ##### 20 Consequences of disclosure
     
-*   (1) A member who discloses his or her interest under [clause 19][1096]---
+*   (1) A member who discloses his or her interest under [clause 19][1105]---
         
     *   (a) must not take part in any deliberation or decision of the Commission relating to the matter; and
     
     *   (b) is to be disregarded for the purpose of forming a quorum for that part of a meeting of the Commission during which a deliberation or decision relating to the matter occurs or is made.
     
-    (2) Subclause (1) is subject to [clause 22][1097].
+    (2) Subclause (1) is subject to [clause 22][1106].
 
 ##### 21 Matters to be delegated to committee
     
-*   (1) The Commission must delegate a deliberation or decision to a committee if the effect of [clause 19][1096] is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
+*   (1) The Commission must delegate a deliberation or decision to a committee if the effect of [clause 19][1105] is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
     
     (2) The committee must consist of a majority of persons---
         
@@ -11086,15 +11169,15 @@ Provisions relating to Local Government Commission and its proceedings
     
     *   (b) in the case of members of the committee who are not members of the Commission, who are appointed by the Commission with the agreement of the Minister.
     
-    (3) Subclause (1) is subject to [clause 22][1097].
+    (3) Subclause (1) is subject to [clause 22][1106].
 
 ##### 22 Exceptions
     
-*   (1) [Clause 20][1098] does not apply---
+*   (1) [Clause 20][1107] does not apply---
         
     *   (a) to any deliberation or decision of the Commission that is made in accordance with any existing contract that governs the way in which the deliberation or decision is to be made; or
     
-    *   (b) to any deliberation or decision of the Commission to establish a committee, and to delegate the matter to a committee of the Commission, under [clause 21][1099].
+    *   (b) to any deliberation or decision of the Commission to establish a committee, and to delegate the matter to a committee of the Commission, under [clause 21][1108].
     
     (2) In this clause, _existing contract_ means a contract---
         
@@ -11106,7 +11189,7 @@ Provisions relating to Local Government Commission and its proceedings
 
 ##### 23 Effect of non-compliance
     
-*   The validity of a transaction entered into by the Commission is not affected by the fact that a member fails to comply with the disclosure requirements in [clauses 17 to 22][1093].
+*   The validity of a transaction entered into by the Commission is not affected by the fact that a member fails to comply with the disclosure requirements in [clauses 17 to 22][1102].
 
 #### Delegations
 
@@ -11114,13 +11197,13 @@ Provisions relating to Local Government Commission and its proceedings
     
 *   (1) The Commission may, from time to time, appoint, discharge, alter, continue, or reconstitute committees comprising 2 or more members of the Commission, 1 of whom must be appointed as chairperson of the committee.
     
-    (2) The Commission may refer to a committee appointed by it under this clause any proposal or matter for investigation or inquiry, and may delegate to the committee any of the functions, responsibilities, powers, or duties conferred or imposed upon the Commission by this or any other enactment in accordance with [clauses 25 to 28][1100].
+    (2) The Commission may refer to a committee appointed by it under this clause any proposal or matter for investigation or inquiry, and may delegate to the committee any of the functions, responsibilities, powers, or duties conferred or imposed upon the Commission by this or any other enactment in accordance with [clauses 25 to 28][1109].
     
     (3) A committee may regulate its own procedure, subject to any direction from the Commission.
     
-    (4) [Clauses 8 to 23][1101] apply to a committee with all necessary modifications.
+    (4) [Clauses 8 to 23][1110] apply to a committee with all necessary modifications.
     
-    Compare: 1974 No 66 [Schedule 3A cl 2(1), (2), (3)][614]
+    Compare: 1974 No 66 [Schedule 3A cl 2(1), (2), (3)][622]
 
 ##### 25 Delegations
     
@@ -11154,11 +11237,11 @@ Provisions relating to Local Government Commission and its proceedings
 
 ##### 29 Chief Executive Officer
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][608] a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][616] a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
     
     (2) A person may hold office under this clause in conjunction with any other office in the Public Service.
     
-    Compare: 1974 No 66 [Schedule 3A cl 7][614]
+    Compare: 1974 No 66 [Schedule 3A cl 7][622]
 
 ##### 30 Liability of members
     
@@ -11180,7 +11263,7 @@ Provisions relating to Local Government Commission and its proceedings
     
     (2) A copy of the report must be presented to the House of Representatives as soon as practicable after its receipt by the Minister.
     
-    Compare: 1974 No 66 [Schedule 3A cl 10][614]
+    Compare: 1974 No 66 [Schedule 3A cl 10][622]
 
 ---
 
@@ -11197,9 +11280,9 @@ Appeals against decisions of Local Government Commission
         
     *   (a) prohibits or restricts the High Court from exercising a supervisory jurisdiction over the Commission on questions of law; or
     
-    *   (b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under [section 10][1102] of the Commissions of Inquiry Act 1908\.
+    *   (b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under [section 10][1111] of the Commissions of Inquiry Act 1908\.
     
-    Compare: 1974 No 66 [s 37ZM][1103]
+    Compare: 1974 No 66 [s 37ZM][1112]
 
 ##### 2 Appeal to High Court
     
@@ -11207,23 +11290,23 @@ Appeals against decisions of Local Government Commission
     
     (2) The decision of the High Court on the appeal is final.
     
-    (3) Subject to [clauses 4 to 9][1104], an appeal under this clause must be dealt with in accordance with rules of court.
+    (3) Subject to [clauses 4 to 9][1113], an appeal under this clause must be dealt with in accordance with rules of court.
     
-    (4) For the purposes of this clause and [clauses 4 to 9][1104], a local authority affected by the decision, and a person who has made submissions to the Commission in the proceedings, is to be treated as a party to the proceedings before the Commission.
+    (4) For the purposes of this clause and [clauses 4 to 9][1113], a local authority affected by the decision, and a person who has made submissions to the Commission in the proceedings, is to be treated as a party to the proceedings before the Commission.
     
-    Compare: 1974 No 66 [s 37ZE][1105]
+    Compare: 1974 No 66 [s 37ZE][1114]
 
 ##### 3 Appeal in respect of additional points of law
     
-*   (1) If a party to an appeal under [clause 2][1106], other than the appellant, wishes to contend at the hearing of the appeal that the decision appealed from is erroneous in point of law, other than those set out in the notice of appeal, the party may, within 1 month after the date of the service on the party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court in Wellington.
+*   (1) If a party to an appeal under [clause 2][1115], other than the appellant, wishes to contend at the hearing of the appeal that the decision appealed from is erroneous in point of law, other than those set out in the notice of appeal, the party may, within 1 month after the date of the service on the party of a copy of the notice of appeal, lodge a notice to that effect with the Registrar of the High Court in Wellington.
     
-    (2) [Clauses 2][1106], [4(2) to (4)][1104], [5][1107], [6][1108], [8][1109], and [9][1110] apply, with any modifications that may be necessary, to any notice lodged under this section as if it were a notice of appeal.
+    (2) [Clauses 2][1115], [4(2) to (4)][1113], [5][1116], [6][1117], [8][1118], and [9][1119] apply, with any modifications that may be necessary, to any notice lodged under this section as if it were a notice of appeal.
     
-    Compare: 1974 No 66 [s 37ZJ][1111]
+    Compare: 1974 No 66 [s 37ZJ][1120]
 
 ##### 4 Procedure for appeal
     
-*   (1) An appeal under [clause 2][1106] must be instituted by the appellant lodging a notice of appeal within 1 month after the date of the decision with---
+*   (1) An appeal under [clause 2][1115] must be instituted by the appellant lodging a notice of appeal within 1 month after the date of the decision with---
         
     *   (a) the Registrar of the High Court in Wellington; and
     
@@ -11245,7 +11328,7 @@ Appeals against decisions of Local Government Commission
     
     (5) The Chief Executive Officer of the Commission must, as soon as practicable after receiving a copy of the notice of appeal, send a copy of the whole of the decision appealed from to the Registrar of the High Court in Wellington.
     
-    Compare: 1974 No 66 [s 37ZF][1112]
+    Compare: 1974 No 66 [s 37ZF][1121]
 
 ##### 5 Preliminary orders
     
@@ -11269,7 +11352,7 @@ Appeals against decisions of Local Government Commission
     
     *   (b) subject to any conditions that the High Court thinks fit.
     
-    Compare: 1974 No 66 [s 37ZH][1113]
+    Compare: 1974 No 66 [s 37ZH][1122]
 
 ##### 6 Hearing
     
@@ -11279,13 +11362,13 @@ Appeals against decisions of Local Government Commission
     
     *   (b) either---
             
-        *   (i) that no application has been lodged under [clause 5][1107] and that no order has been made under that clause; or
+        *   (i) that no application has been lodged under [clause 5][1116] and that no order has been made under that clause; or
         
-        *   (ii) that any application lodged under [clause 5][1107] has been heard and that any order under that clause has been complied with.
+        *   (ii) that any application lodged under [clause 5][1116] has been heard and that any order under that clause has been complied with.
         
         
     
-    Compare: 1974 No 66 [s 37ZL][1114]
+    Compare: 1974 No 66 [s 37ZL][1123]
 
 ##### 7 Right to appear
     
@@ -11297,7 +11380,7 @@ Appeals against decisions of Local Government Commission
     
     *   (b) to receive a notice of the date set down for the hearing of the appeal.
     
-    Compare: 1974 No 66 [s 37ZG][1115]
+    Compare: 1974 No 66 [s 37ZG][1124]
 
 ##### 8 Dismissal of appeal
     
@@ -11307,13 +11390,13 @@ Appeals against decisions of Local Government Commission
     
     *   (b) if the appellant does not prosecute the appeal with all due diligence and a party applies to the court for the dismissal of the appeal.
     
-    Compare: 1974 No 66 [s 37ZI][1116]
+    Compare: 1974 No 66 [s 37ZI][1125]
 
 ##### 9 Extension of time
     
 *   The High Court or a High Court Judge may, in its or the Judge's discretion, on the application of the appellant or intending appellant or any other party, extend any time provided under this schedule for the lodging of any notice, application, or other document.
     
-    Compare: 1974 No 66 [s 37ZK][1117]
+    Compare: 1974 No 66 [s 37ZK][1126]
 
 ---
 
@@ -11342,7 +11425,7 @@ Constitution of communities
     
     (3) The community must come into existence on the day after the day on which the electoral officer declares the result of the first election of the members of the community board.
     
-    Compare: 1974 No 66 [s 101ZH][1118]
+    Compare: 1974 No 66 [s 101ZH][1127]
 
 ##### 3 Proposals to establish community
     
@@ -11350,7 +11433,7 @@ Constitution of communities
     
     (2) Not fewer than 100 electors of a continuous area having a population of fewer than 1 500 persons and being within the district of a territorial authority, being electors present at a meeting called by public notice by any elector or electors and being the majority of the electors present at that meeting, may propose that the area be constituted as a community.
     
-    Compare: 1974 No 66 [s 101ZI][1119]
+    Compare: 1974 No 66 [s 101ZI][1128]
 
 ##### 4 Requirements for proposal
     
@@ -11370,7 +11453,7 @@ Constitution of communities
     
     (6) The territorial authority must then consider the proposal and determine whether or not to constitute the community.
     
-    Compare: 1974 No 66 [s 101ZJ][1120]
+    Compare: 1974 No 66 [s 101ZJ][1129]
 
 ##### 5 Proposal seeking constitution of communities
     
@@ -11396,19 +11479,19 @@ Constitution of communities
     
     *   (b) reject the proposal.
     
-    Compare: 1974 No 66 [s 101ZK][1121]
+    Compare: 1974 No 66 [s 101ZK][1130]
     
-    Schedule 6 clause 5(1)(b): amended, on 7 July 2004, by [section 25][1122] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 6 clause 5(1)(b): amended, on 7 July 2004, by [section 25][1131] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 6 Matters to be considered when constituting community
     
-*   In deciding whether or not to constitute a community, the territorial authority or, if appropriate, the Commission must have regard to the criteria as set out in [clause 19][1039] of Schedule 3 that apply to draft proposals that the territorial authority or Commission considers appropriate in the circumstances.
+*   In deciding whether or not to constitute a community, the territorial authority or, if appropriate, the Commission must have regard to the criteria as set out in [clause 19][1048] of Schedule 3 that apply to draft proposals that the territorial authority or Commission considers appropriate in the circumstances.
     
-    Compare: 1974 No 66 [s 101ZL][1123]
+    Compare: 1974 No 66 [s 101ZL][1132]
     
-    Schedule 6 clause 6: amended, on 5 December 2012, by [section 37(1)(a)][1124] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 6 clause 6: amended, on 5 December 2012, by [section 37(1)(a)][1133] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Schedule 6 clause 6: amended, on 5 December 2012, by [section 37(1)(b)][1124] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 6 clause 6: amended, on 5 December 2012, by [section 37(1)(b)][1133] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 7 Appeal against refusal to constitute community
     
@@ -11448,7 +11531,7 @@ Constitution of communities
     
     *   (b) a copy must be kept at the principal office of the territorial authority, and must be available for inspection without fee by any person during normal office hours.
     
-    Compare: 1974 No 66 [s 101ZN][1125]
+    Compare: 1974 No 66 [s 101ZN][1134]
 
 ##### 9 Union, alteration, or abolition of communities
     
@@ -11464,9 +11547,9 @@ Constitution of communities
     
     (4) On the date on which a community is abolished under this clause, the community board is deemed to be dissolved.
     
-    Compare: 1974 No 66 [s 101ZO][1126]
+    Compare: 1974 No 66 [s 101ZO][1135]
     
-    Schedule 6 clause 9(1)(a): amended, on 5 December 2012, by [section 37(2)][1124] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 6 clause 9(1)(a): amended, on 5 December 2012, by [section 37(2)][1133] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ---
 
@@ -11484,7 +11567,7 @@ Provisions relating to local authorities and their members
     
 *   (1) A person's office as member of a local authority is vacated if the person, while holding office as a member of the local authority,---
         
-    *   (a) ceases to be an elector or becomes disqualified for registration as an elector under the [Electoral Act 1993][1127]; or
+    *   (a) ceases to be an elector or becomes disqualified for registration as an elector under the [Electoral Act 1993][1136]; or
     
     *   (b) is convicted of an offence punishable by a term of imprisonment of 2 years or more.
     
@@ -11502,7 +11585,7 @@ Provisions relating to local authorities and their members
     
     (3) A person may not do an act as a member while disqualified under subclause (1) or while on leave of absence under subclause (2).
     
-    Compare: 1974 No 66 [s 101X][902]
+    Compare: 1974 No 66 [s 101X][911]
 
 ##### 2 Ouster of office of member
     
@@ -11528,15 +11611,15 @@ Provisions relating to local authorities and their members
     
     (6) The person may not do an act as a member while on leave of absence under subclause (5).
     
-    Compare: 1974 No 66 [s 101Y][903]
+    Compare: 1974 No 66 [s 101Y][912]
 
 ##### 3 Secretary to institute proceedings
     
-*   (1) The Secretary must institute proceedings against a person who fails to comply with the requirements of [clause 1(3)][899], [clause 2(6)][900], or [clause 14(1)][901].
+*   (1) The Secretary must institute proceedings against a person who fails to comply with the requirements of [clause 1(3)][908], [clause 2(6)][909], or [clause 14(1)][910].
     
-    (2) Nothing in this clause prevents other persons from taking proceedings against a person who fails to comply with the requirements of [clause 1(3)][899], [clause 2(6)][900], or [clause 14(1)][901].
+    (2) Nothing in this clause prevents other persons from taking proceedings against a person who fails to comply with the requirements of [clause 1(3)][908], [clause 2(6)][909], or [clause 14(1)][910].
     
-    Compare: 1974 No 66 [s 101Z][904]
+    Compare: 1974 No 66 [s 101Z][913]
 
 ##### 4 Member's right to resign
     
@@ -11544,11 +11627,11 @@ Provisions relating to local authorities and their members
     
     (2) The notice takes effect on the day on which it is delivered to the chief executive of the local authority.
     
-    Compare: 1974 No 66 [s 101ZA][1128]
+    Compare: 1974 No 66 [s 101ZA][1137]
 
 ##### 4A Suspension of members
     
-*   (1) A person's office as member of a local authority is suspended while the person is subject to a property order made under [section 30][1129] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
+*   (1) A person's office as member of a local authority is suspended while the person is subject to a property order made under [section 30][1138] of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders).
     
     (2) If subclause (1) applies,---
         
@@ -11556,7 +11639,7 @@ Provisions relating to local authorities and their members
     
     *   (b) the person may not do an act as a member while on leave of absence under paragraph (a).
     
-    Schedule 7 clause 4A: inserted, on 10 September 2008, by [section 7(2)][1130] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Schedule 7 clause 4A: inserted, on 10 September 2008, by [section 7(2)][1139] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 5 Extraordinary vacancies
     
@@ -11564,21 +11647,21 @@ Provisions relating to local authorities and their members
         
     *   (a) dies; or
     
-    *   (b) becomes subject to a property order made under [section 31][1131] of the Protection of Personal and Property Rights Act 1988; or
+    *   (b) becomes subject to a property order made under [section 31][1140] of the Protection of Personal and Property Rights Act 1988; or
     
     *   (c) is disqualified from, or is ousted from, office; or
     
     *   (d) is absent without leave of the local authority from 4 consecutive meetings (other than extraordinary meetings) of the local authority; or
     
-    *   (e) resigns under [clause 4][1087].
+    *   (e) resigns under [clause 4][1096].
     
-    (2) [Sections 117 to 120][938] of the Local Electoral Act 2001 apply to extraordinary vacancies.
+    (2) [Sections 117 to 120][947] of the Local Electoral Act 2001 apply to extraordinary vacancies.
     
-    Compare: 1974 No 66 [s 101ZB][1132]
+    Compare: 1974 No 66 [s 101ZB][1141]
     
-    Schedule 7 clause 5(1)(b): substituted, on 10 September 2008, by [section 7(3)][1130] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Schedule 7 clause 5(1)(b): substituted, on 10 September 2008, by [section 7(3)][1139] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Schedule 7 clause 5(1)(d): amended, on 7 July 2004, by [section 26(1)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 5(1)(d): amended, on 7 July 2004, by [section 26(1)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 #### Remuneration of members
 
@@ -11644,21 +11727,21 @@ Provisions relating to local authorities and their members
     
     (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
     
-    (6) [Clause 7A][1134] applies to determinations made under this clause.
+    (6) [Clause 7A][1143] applies to determinations made under this clause.
     
-    (7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][965] and must be presented to the House of Representatives under [section 41][956] of that Act.
+    (7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][974] and must be presented to the House of Representatives under [section 41][965] of that Act.
     
-    (8) In this clause, _local boards_ has the meaning given in [section 4(1)][1135] of the Local Government (Auckland Council) Act 2009\.
+    (8) In this clause, _local boards_ has the meaning given in [section 4(1)][1144] of the Local Government (Auckland Council) Act 2009\.
     
-    Schedule 7 clause 6: replaced, on 5 December 2012, by [section 38(2)][1136] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 7 clause 6: replaced, on 5 December 2012, by [section 38(2)][1145] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Schedule 7 clause 6(7): replaced, on 5 August 2013, by [section 77(3)][957] of the Legislation Act 2012 (2012 No 119).
+    Schedule 7 clause 6(7): replaced, on 5 August 2013, by [section 77(3)][966] of the Legislation Act 2012 (2012 No 119).
 
 ##### 7 Mandatory criteria for Remuneration Authority
     
-*   (1) In determining remuneration under [clause 6][1137], the Remuneration Authority must have regard to the need to---
+*   (1) In determining remuneration under [clause 6][1146], the Remuneration Authority must have regard to the need to---
         
-    *   (a) minimise the potential for certain types of remuneration to distort the behaviour of the persons listed in [clause 6(1)][1137] in relation to their positions as listed in clause 6(1); and
+    *   (a) minimise the potential for certain types of remuneration to distort the behaviour of the persons listed in [clause 6(1)][1146] in relation to their positions as listed in clause 6(1); and
     
     *   (b) achieve and maintain fair relativity with the levels of remuneration received elsewhere; and
     
@@ -11688,21 +11771,21 @@ Provisions relating to local authorities and their members
     
     (6) Despite subclause (5), the Remuneration Authority may amend the expiry date of a determination only if the Authority is satisfied that in all the circumstances there are particular and special reasons that justify a period of less than the term originally set.
     
-    (7) The Remuneration Authority must review and issue a determination for each position listed in [clause 6(1)][1137] at intervals of no more than 3 years.
+    (7) The Remuneration Authority must review and issue a determination for each position listed in [clause 6(1)][1146] at intervals of no more than 3 years.
     
-    Schedule 7 clause 7A: inserted, on 5 December 2012, by [section 38(3)][1136] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 7 clause 7A: inserted, on 5 December 2012, by [section 38(3)][1145] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 8 Submissions to Remuneration Authority
     
-*   (1) Any person or organisation may make a written submission to the Remuneration Authority about a determination to be made by the Remuneration Authority under [clause 6][1137].
+*   (1) Any person or organisation may make a written submission to the Remuneration Authority about a determination to be made by the Remuneration Authority under [clause 6][1146].
     
-    (2) The Remuneration Authority may, in its discretion, invite a person or organisation to make an oral submission about a determination to be made by the Remuneration Authority under [clause 6][1137].
+    (2) The Remuneration Authority may, in its discretion, invite a person or organisation to make an oral submission about a determination to be made by the Remuneration Authority under [clause 6][1146].
 
 ##### 9 Publication of determinations
     
 *   The Remuneration Authority must---
         
-    *   (a) deliver to the Minister a copy of every determination it makes under [clause 6][1137]; and
+    *   (a) deliver to the Minister a copy of every determination it makes under [clause 6][1146]; and
     
     *   (b) publish each determination in the _Gazette_ within 14 days of delivering it to the Minister.
     
@@ -11710,7 +11793,7 @@ Provisions relating to local authorities and their members
 
 ##### 10 Levy regulations for Remuneration Authority costs
     
-*   (1) The Governor-General may, by Order in Council (made on the recommendation of the Minister), make regulations prescribing the method by which the Minister responsible for the Remuneration Authority may levy local authorities an annual amount for the purpose of recovering the costs in the previous financial year of the Remuneration Authority, in making determinations under [clause 6][1137].
+*   (1) The Governor-General may, by Order in Council (made on the recommendation of the Minister), make regulations prescribing the method by which the Minister responsible for the Remuneration Authority may levy local authorities an annual amount for the purpose of recovering the costs in the previous financial year of the Remuneration Authority, in making determinations under [clause 6][1146].
     
     (2) Regulations made under subclause (1)---
         
@@ -11734,11 +11817,11 @@ Provisions relating to local authorities and their members
         
         
     
-    Schedule 7 clause 10: substituted, on 7 July 2004, by [section 26(2)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 10: substituted, on 7 July 2004, by [section 26(2)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 10A Minister responsible for Remuneration Authority to set levy
     
-*   (1) The Minister responsible for the Remuneration Authority may, in each financial year, set a levy on local authorities in accordance with any regulations made under [clause 10][1138].
+*   (1) The Minister responsible for the Remuneration Authority may, in each financial year, set a levy on local authorities in accordance with any regulations made under [clause 10][1147].
     
     (2) The levy comes into effect on the 28th day after the date on which the Minister responsible for the Remuneration Authority notifies in the _Gazette_---
         
@@ -11750,7 +11833,7 @@ Provisions relating to local authorities and their members
     
     (4) A local authority must pay a levy set under this clause; and any amount of unpaid levy is recoverable in a court of competent jurisdiction by the Crown as a debt due.
     
-    Schedule 7 clause 10A: inserted, on 7 July 2004, by [section 26(2)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 10A: inserted, on 7 July 2004, by [section 26(2)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 11 Members and officers of Remuneration Authority to maintain secrecy
     
@@ -11772,17 +11855,17 @@ Provisions relating to local authorities and their members
         
         
     
-    (3) The Remuneration Authority is required to comply with information privacy [principles 6, 7, and 11][1139] of the Privacy Act 1993 and disclose personal information as necessary.
+    (3) The Remuneration Authority is required to comply with information privacy [principles 6, 7, and 11][1148] of the Privacy Act 1993 and disclose personal information as necessary.
 
 ##### 12 Payments
     
 *   If a determination is made, a local authority must make payment to the person concerned in accordance with the conditions of the determination.
     
-    Compare: 1974 No 66 [s 101ZZM][1140]
+    Compare: 1974 No 66 [s 101ZZM][1149]
 
 ##### 13 Meaning of remuneration
     
-*   In [clauses 6][1137], [7][1141], [8][1142], and [9][1143], _remuneration_ includes---
+*   In [clauses 6][1146], [7][1150], [8][1151], and [9][1152], _remuneration_ includes---
         
     *   (a) salary, wages, and other payments in return for services; and
     
@@ -11816,7 +11899,7 @@ Provisions relating to local authorities and their members
     
     **Declaration by mayor or chairperson or member**
     
-    "I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of \[_region or district_\], the powers, authorities, and duties vested in, or imposed upon, me as \[_mayor or chairperson or member_\] of the \[_local authority_\] by virtue of the Local Government Act 2002, the [Local Government Official Information and Meetings Act 1987][617], or any other Act
+    "I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of \[_region or district_\], the powers, authorities, and duties vested in, or imposed upon, me as \[_mayor or chairperson or member_\] of the \[_local authority_\] by virtue of the Local Government Act 2002, the [Local Government Official Information and Meetings Act 1987][625], or any other Act
     
     Dated at: \[_place, date_\]
     
@@ -11826,7 +11909,7 @@ Provisions relating to local authorities and their members
     
     CD, \[_mayor or chairperson or member or chief executive of local authority_\]".
     
-    Compare: 1974 No 66 [s 114U][905]
+    Compare: 1974 No 66 [s 114U][914]
 
 ##### 15 Code of conduct
     
@@ -11850,7 +11933,7 @@ Provisions relating to local authorities and their members
     
     *   (b) a general explanation of---
             
-        *   (i) the [Local Government Official Information and Meetings Act 1987][617]; and
+        *   (i) the [Local Government Official Information and Meetings Act 1987][625]; and
         
         *   (ii) any other enactment or rule of law applicable to members.
         
@@ -11868,7 +11951,7 @@ Provisions relating to local authorities and their members
 
 ##### 16 Members to abide by standing orders
     
-*   (1) A member of a local authority must abide by the standing orders adopted under [clause 27][987].
+*   (1) A member of a local authority must abide by the standing orders adopted under [clause 27][996].
     
     (2) A constable, or an officer or employee of a local authority, may, at the request of the chairperson, remove or exclude a member from a meeting if that member is required to leave the meeting by a ruling made under the standing orders and that member---
         
@@ -11876,17 +11959,17 @@ Provisions relating to local authorities and their members
     
     *   (b) having left the meeting, attempts to re-enter the meeting without the permission of the chairperson.
     
-    Compare: 1974 No 66 [s 114V][1144]
+    Compare: 1974 No 66 [s 114V][1153]
     
-    Schedule 7 clause 16(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][800] of the Policing Act 2008 (2008 No 72).
+    Schedule 7 clause 16(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][808] of the Policing Act 2008 (2008 No 72).
 
 #### Election and removal of chairperson, deputy chairperson, and deputy mayor
 
 ##### 17 Election of deputy mayor or deputy chairperson
     
-*   (1) A territorial authority must elect 1 of its members to be its deputy mayor in accordance with [clause 25][620].
+*   (1) A territorial authority must elect 1 of its members to be its deputy mayor in accordance with [clause 25][628].
     
-    (2) A regional council must elect 1 of its members to be its deputy chairperson in accordance with [clause 25][620].
+    (2) A regional council must elect 1 of its members to be its deputy chairperson in accordance with [clause 25][628].
     
     (3) The deputy mayor or deputy chairperson must perform all the responsibilities and duties, and may exercise all the powers, of the mayor or chairperson,---
         
@@ -11900,7 +11983,7 @@ Provisions relating to local authorities and their members
     
     (5) A deputy mayor or deputy chairperson continues to hold his or her office as deputy mayor or deputy chairperson, so long as he or she continues to be a member of the territorial authority or regional council, until the election of his or her successor.
     
-    Compare: 1974 No 66 [s 101U][1145]
+    Compare: 1974 No 66 [s 101U][1154]
 
 ##### 18 Power to remove chairperson, deputy chairperson, or deputy mayor
     
@@ -11926,7 +12009,7 @@ Provisions relating to local authorities and their members
     
     (7) A resolution removing a chairperson, deputy chairperson, or deputy mayor carries if a majority of the total membership of the territorial authority or regional council (excluding vacancies) votes in favour of the resolution.
     
-    Compare: 1974 No 66 [s 101V][1146]
+    Compare: 1974 No 66 [s 101V][1155]
 
 #### Calling of meetings
 
@@ -11940,13 +12023,13 @@ Provisions relating to local authorities and their members
         
     *   (a) this schedule; and
     
-    *   (b) [Part 7][679] of the Local Government Official Information and Meetings Act 1987; and
+    *   (b) [Part 7][687] of the Local Government Official Information and Meetings Act 1987; and
     
     *   (c) the standing orders of the local authority.
     
     (4) A local authority must hold meetings at the times and places that it appoints.
     
-    (5) Unless [clause 22][1147] applies, the chief executive must give notice in writing to each member of the time and place of a meeting---
+    (5) Unless [clause 22][1156] applies, the chief executive must give notice in writing to each member of the time and place of a meeting---
         
     *   (a) not less than 14 days before the meeting; or
     
@@ -11964,13 +12047,13 @@ Provisions relating to local authorities and their members
     
     *   (b) notification of the schedule or of any amendment to that schedule constitutes a notification of every meeting on the schedule or amendment.
     
-    Compare: 1974 No 66 [ss 114C][1148], [114E][1149]
+    Compare: 1974 No 66 [ss 114C][1157], [114E][1158]
     
-    Schedule 7 clause 19(4): amended, on 7 July 2004, by [section 26(3)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 19(4): amended, on 7 July 2004, by [section 26(3)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 19(5): amended, on 7 July 2004, by [section 26(4)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 19(5): amended, on 7 July 2004, by [section 26(4)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 19(6): amended, on 7 July 2004, by [section 26(5)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 19(6): amended, on 7 July 2004, by [section 26(5)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 20 Meetings not invalid because notice not given
     
@@ -11982,7 +12065,7 @@ Provisions relating to local authorities and their members
     
     (2) A member of a local authority may waive any requirement regarding the giving of notice of a meeting to that member.
     
-    Compare: 1974 No 66 [s 114H][1150]
+    Compare: 1974 No 66 [s 114H][1159]
 
 ##### 21 First meeting of local authority following triennial general election of members
     
@@ -11992,27 +12075,27 @@ Provisions relating to local authorities and their members
     
     (3) Despite subclause (2), if an emergency exists, the chief executive may give notice of the meeting as soon as practicable.
     
-    (4) The chief executive (or, in the absence of the chief executive, a nominee of that officer) must chair the meeting until the mayor or chairperson has made and attested the declaration required under [clause 14][901].
+    (4) The chief executive (or, in the absence of the chief executive, a nominee of that officer) must chair the meeting until the mayor or chairperson has made and attested the declaration required under [clause 14][910].
     
     (5) The business that must be conducted at the meeting must include---
         
-    *   (a) the making and attesting of the declarations required of the mayor (if any) and members under [clause 14][901]; and
+    *   (a) the making and attesting of the declarations required of the mayor (if any) and members under [clause 14][910]; and
     
-    *   (b) the election of the chairperson (if any) and the making and attesting of the declaration required of the chairperson under [clause 14][901]; and
+    *   (b) the election of the chairperson (if any) and the making and attesting of the declaration required of the chairperson under [clause 14][910]; and
     
     *   (c) a general explanation, given or arranged by the chief executive, of---
             
-        *   (i) the [Local Government Official Information and Meetings Act 1987][617]; and
+        *   (i) the [Local Government Official Information and Meetings Act 1987][625]; and
         
         *   (ii) other laws affecting members, including---
                 
-            *   (A) the appropriate provisions of the [Local Authorities (Members' Interests) Act 1968][1151]; and
+            *   (A) the appropriate provisions of the [Local Authorities (Members' Interests) Act 1968][1160]; and
             
-            *   (B) [sections 99][1152], [105][1153], and [105A][1154] of the Crimes Act 1961; and
+            *   (B) [sections 99][1161], [105][1162], and [105A][1163] of the Crimes Act 1961; and
             
-            *   (C) the [Secret Commissions Act 1910][1155]; and
+            *   (C) the [Secret Commissions Act 1910][1164]; and
             
-            *   (D) the [Securities Act 1978][740]; and
+            *   (D) the [Securities Act 1978][748]; and
             
             
         
@@ -12020,15 +12103,15 @@ Provisions relating to local authorities and their members
     
     *   (d) the fixing of the date and time of the first meeting of the local authority, or the adoption of a schedule of meetings; and
     
-    *   (e) the election of the deputy mayor or deputy chairperson in accordance with [clause 17][627].
+    *   (e) the election of the deputy mayor or deputy chairperson in accordance with [clause 17][635].
     
-    Compare: 1974 No 66 [s 114D][1156]
+    Compare: 1974 No 66 [s 114D][1165]
     
-    Schedule 7 clause 21(5)(d): amended, on 7 July 2004, by [section 26(6)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 21(5)(d): amended, on 7 July 2004, by [section 26(6)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 22 Extraordinary meetings
     
-*   (1) Despite [clause 19(4) to (6)][1157], if a resolution or requisition specifies the time and place at which the meeting is to be held and the general nature of the business to be brought before the meeting, a meeting may be called by---
+*   (1) Despite [clause 19(4) to (6)][1166], if a resolution or requisition specifies the time and place at which the meeting is to be held and the general nature of the business to be brought before the meeting, a meeting may be called by---
         
     *   (a) a resolution of the local authority; or
     
@@ -12040,7 +12123,7 @@ Provisions relating to local authorities and their members
         
         
     
-    (2) Despite [clause 19(4) to (6)][1157], if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements specified in subclause (3), a meeting may be called by---
+    (2) Despite [clause 19(4) to (6)][1166], if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements specified in subclause (3), a meeting may be called by---
         
     *   (a) the mayor or chairperson; or
     
@@ -12054,7 +12137,7 @@ Provisions relating to local authorities and their members
     
     (4) Notice of the time and place of a meeting called under subclause (2) and of the matters in respect of which the meeting is being called must be given by the person calling the meeting or by another person on that person's behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
     
-    Compare: 1974 No 66 [ss 114F][1158], [114G][1159]
+    Compare: 1974 No 66 [ss 114F][1167], [114G][1168]
 
 #### Conduct of meetings
 
@@ -12082,7 +12165,7 @@ Provisions relating to local authorities and their members
         
         
     
-    Compare: 1974 No 66 [s 114I][1160]
+    Compare: 1974 No 66 [s 114I][1169]
 
 ##### 24 Voting
     
@@ -12106,7 +12189,7 @@ Provisions relating to local authorities and their members
     
     *   (b) the standing orders of the local authority expressly provide otherwise.
     
-    Schedule 7 clause 24: substituted, on 7 July 2004, by [section 26(7)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 24: substituted, on 7 July 2004, by [section 26(7)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 25 Voting systems for certain appointments
     
@@ -12154,13 +12237,13 @@ Provisions relating to local authorities and their members
         
         
     
-    Compare: 1974 No 66 [s 114K][1161]
+    Compare: 1974 No 66 [s 114K][1170]
     
-    Schedule 7 clause 25(2): substituted, on 7 July 2004, by [section 26(8)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 25(2): substituted, on 7 July 2004, by [section 26(8)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 25(3): substituted, on 7 July 2004, by [section 26(8)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 25(3): substituted, on 7 July 2004, by [section 26(8)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 25(4): added, on 7 July 2004, by [section 26(8)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 25(4): added, on 7 July 2004, by [section 26(8)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 26 Chairperson of meetings
     
@@ -12176,11 +12259,11 @@ Provisions relating to local authorities and their members
     
     (6) However, if a deputy mayor or deputy chairperson has not been appointed, or if the deputy mayor or deputy chairperson is also absent, the members of the local authority or of the committee that are present must elect 1 of their number to preside at that meeting, and that person may exercise at that meeting the responsibilities, duties, and powers of the mayor or chairperson.
     
-    Compare: 1974 No 66 [s 114L][1162]
+    Compare: 1974 No 66 [s 114L][1171]
     
-    Schedule 7 clause 26(6): amended, on 7 July 2004, by [section 26(9)(a)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 26(6): amended, on 7 July 2004, by [section 26(9)(a)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 26(6): amended, on 7 July 2004, by [section 26(9)(b)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 26(6): amended, on 7 July 2004, by [section 26(9)(b)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 #### Procedures at meetings
 
@@ -12188,13 +12271,13 @@ Provisions relating to local authorities and their members
     
 *   (1) A local authority must adopt a set of standing orders for the conduct of its meetings and those of its committees.
     
-    (2) The standing orders of a local authority must not contravene this Act, the [Local Government Official Information and Meetings Act 1987][617], or any other Act.
+    (2) The standing orders of a local authority must not contravene this Act, the [Local Government Official Information and Meetings Act 1987][625], or any other Act.
     
     (3) After the adoption of the first standing orders of the local authority, an amendment of the standing orders or the adoption of a new set of standing orders requires, in every case, a vote of not less than 75% of the members present.
     
     (4) A local authority or committee may temporarily suspend standing orders during a meeting by a vote of not less than 75% of the members present and voting, and the reason for the suspension must be stated in the resolution of suspension.
     
-    Compare: 1974 No 66 [s 114M][1163]
+    Compare: 1974 No 66 [s 114M][1172]
 
 ##### 28 Minutes of proceedings
     
@@ -12202,7 +12285,7 @@ Provisions relating to local authorities and their members
     
     (2) Minutes of proceedings duly entered and authenticated as prescribed by a local authority are prima facie evidence of those proceedings.
     
-    Compare: 1974 No 66 [s 114N][1164]
+    Compare: 1974 No 66 [s 114N][1173]
 
 ##### 29 Proceedings not invalidated by vacancies, irregularities, etc
     
@@ -12218,7 +12301,7 @@ Provisions relating to local authorities and their members
         
         
     
-    Compare: 1974 No 66 [s 114O][1165]
+    Compare: 1974 No 66 [s 114O][1174]
 
 #### Subordinate decision-making structures
 
@@ -12264,13 +12347,13 @@ Provisions relating to local authorities and their members
     
     (10) For the purposes of a public body that is not a local authority, subclauses (8) and (9) apply to the extent that they are not inconsistent with the law applicable to committees of the public body.
     
-    Compare: 1974 No 66 [ss 114P][1166], [114R][1167], [114S(3)--(5)][1168]
+    Compare: 1974 No 66 [ss 114P][1175], [114R][1176], [114S(3)--(5)][1177]
     
-    Schedule 7 clause 30(8): amended, on 7 July 2004, by [section 26(10)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 30(8): amended, on 7 July 2004, by [section 26(10)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 30(9): substituted, on 7 July 2004, by [section 26(11)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 30(9): substituted, on 7 July 2004, by [section 26(11)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 30(10): substituted, on 7 July 2004, by [section 26(11)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 30(10): substituted, on 7 July 2004, by [section 26(11)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 31 Membership of committees and subcommittees
     
@@ -12286,7 +12369,7 @@ Provisions relating to local authorities and their members
     
     *   (b) an employee of a local authority acting in the course of his or her employment may not act as a member of any committee unless that committee is a subcommittee.
     
-    (5) If a local authority resolves that a committee, subcommittee, or other decision-making body is not to be discharged under [clause 30(7)][540], the local authority may replace the members of that committee, subcommittee, or other subordinate decision-making body after the next triennial general election of members.
+    (5) If a local authority resolves that a committee, subcommittee, or other decision-making body is not to be discharged under [clause 30(7)][548], the local authority may replace the members of that committee, subcommittee, or other subordinate decision-making body after the next triennial general election of members.
     
     (6) The minimum number of members---
         
@@ -12294,19 +12377,19 @@ Provisions relating to local authorities and their members
     
     *   (b) is 2 for a subcommittee.
     
-    Compare: 1974 No 66 [s 114R][1167]
+    Compare: 1974 No 66 [s 114R][1176]
 
 #### Delegations
 
 ##### 32AA Meaning of officer
     
-*   For the purposes of [clauses 32][645], [32A][933], and [32B][1169], _officer_ means---
+*   For the purposes of [clauses 32][653], [32A][942], and [32B][1178], _officer_ means---
         
     *   (a) a named person; or
     
     *   (b) the person who is for the time being the holder of a specified office.
     
-    Schedule 7 clause 32AA: inserted, on 28 June 2006, by [section 28(1)][1170] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Schedule 7 clause 32AA: inserted, on 28 June 2006, by [section 28(1)][1179] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 ##### 32 Delegations
     
@@ -12342,19 +12425,19 @@ Provisions relating to local authorities and their members
     
     (8) The delegation powers in this clause are in addition to any power of delegation a local authority has under any other enactment.
     
-    Compare: 1974 No 66 [s 114Q][1171]
+    Compare: 1974 No 66 [s 114Q][1180]
     
-    Schedule 7 clause 32(1)(c): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 7 clause 32(1)(c): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Schedule 7 clause 32(1)(d): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 7 clause 32(1)(d): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Schedule 7 clause 32(1)(f): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 7 clause 32(1)(f): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Schedule 7 clause 32(1)(g): repealed, on 7 July 2004, by [section 26(12)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 32(1)(g): repealed, on 7 July 2004, by [section 26(12)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 32(1)(h): inserted, on 5 December 2012, by [section 38(4)][1136] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 7 clause 32(1)(h): inserted, on 5 December 2012, by [section 38(4)][1145] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Schedule 7 clause 32(3): amended, on 7 July 2004, by [section 26(13)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 32(3): amended, on 7 July 2004, by [section 26(13)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 32A Delegation of power to issue warrants to enforcement officers
     
@@ -12370,9 +12453,9 @@ Provisions relating to local authorities and their members
     
     (3) The local authority must determine the matters in subclause (2) before acting under subclause (1).
     
-    (4) [Clause 32(2) to (8)][645], with all necessary modifications, applies to a delegation made under this clause.
+    (4) [Clause 32(2) to (8)][653], with all necessary modifications, applies to a delegation made under this clause.
     
-    Schedule 7 clause 32A: inserted, on 7 July 2004, by [section 26(14)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 32A: inserted, on 7 July 2004, by [section 26(14)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
 
 ##### 32B Delegation of powers by officer
     
@@ -12380,7 +12463,7 @@ Provisions relating to local authorities and their members
         
     *   (a) the power to delegate under this clause; or
     
-    *   (b) any power delegated to the officer under [clause 32][645] that is subject to a prohibition on delegation; or
+    *   (b) any power delegated to the officer under [clause 32][653] that is subject to a prohibition on delegation; or
     
     *   (c) any power under an enactment where the enactment expressly prohibits the delegation of the power.
     
@@ -12390,9 +12473,9 @@ Provisions relating to local authorities and their members
     
     (4) To avoid doubt, no delegation relieves the officer of the liability or legal responsibility to perform or ensure performance of any function or duty.
     
-    Schedule 7 clause 32B: inserted, on 7 July 2004, by [section 26(14)][1133] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
+    Schedule 7 clause 32B: inserted, on 7 July 2004, by [section 26(14)][1142] of the Local Government Act 2002 Amendment Act 2004 (2004 No 63).
     
-    Schedule 7 clause 32B(1)(a): amended, on 28 June 2006, by [section 28(2)][1170] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
+    Schedule 7 clause 32B(1)(a): amended, on 28 June 2006, by [section 28(2)][1179] of the Local Government Act 2002 Amendment Act 2006 (2006 No 26).
 
 #### Employment of staff
 
@@ -12414,7 +12497,7 @@ Provisions relating to local authorities and their members
     
     *   (g) promote equal employment opportunities.
     
-    Compare: 1974 No 66 [s 119C][632]
+    Compare: 1974 No 66 [s 119C][640]
 
 ##### 34 Terms of employment of chief executive
     
@@ -12424,9 +12507,9 @@ Provisions relating to local authorities and their members
     
     (3) When the term of appointment expires, a vacancy exists in the office of the chief executive, and that vacancy must be advertised.
     
-    (4) Despite subclause (3), if the local authority has completed a review under [clause 35][1172], that local authority may, without advertising the vacancy, appoint the incumbent chief executive for a second term not exceeding 2 years on the expiry of the first term of appointment.
+    (4) Despite subclause (3), if the local authority has completed a review under [clause 35][1181], that local authority may, without advertising the vacancy, appoint the incumbent chief executive for a second term not exceeding 2 years on the expiry of the first term of appointment.
     
-    (5) After completing a review under [clause 35][1172], but before the date on which the chief executive's contract of employment for the first term expires, the local authority must resolve whether or not to---
+    (5) After completing a review under [clause 35][1181], but before the date on which the chief executive's contract of employment for the first term expires, the local authority must resolve whether or not to---
         
     *   (a) appoint the chief executive for a second term under subclause (4); or
     
@@ -12456,7 +12539,7 @@ Provisions relating to local authorities and their members
     
     (4) Subclause (1) does not apply if the incumbent chief executive declares in writing to the local authority that he or she does not wish to be considered for appointment to a second term.
     
-    Compare: 1974 No 66 [s 119E][1173]
+    Compare: 1974 No 66 [s 119E][1182]
 
 ##### 36 Local authority to be good employer
     
@@ -12494,7 +12577,7 @@ Provisions relating to local authorities and their members
     
     *   (b) must ensure that all employees maintain proper standards of integrity, conduct, and concern for the public interest.
     
-    Compare: 1974 No 66 [s 119F][1174]
+    Compare: 1974 No 66 [s 119F][1183]
 
 ##### 36A Remuneration and employment policy
     
@@ -12506,7 +12589,7 @@ Provisions relating to local authorities and their members
     
     (2) A local authority must review a policy adopted under this clause at intervals of no more than 3 years.
     
-    Schedule 7 clause 36A: inserted, on 5 December 2012, by [section 38(5)][1136] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 7 clause 36A: inserted, on 5 December 2012, by [section 38(5)][1145] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ## Part 2  
 Provisions relating to community boards and their members
@@ -12515,15 +12598,15 @@ Provisions relating to community boards and their members
     
 *   (1) A community board must have a chairperson.
     
-    (2) [Clause 25][620] applies to the election of chairpersons of community boards.
+    (2) [Clause 25][628] applies to the election of chairpersons of community boards.
     
-    Compare: 1974 No 66 [s 101ZT][1175]
+    Compare: 1974 No 66 [s 101ZT][1184]
 
 ##### 38 Provision of administrative and other facilities for community boards
     
 *   A territorial authority within whose district the community of a community board is situated must provide the necessary administrative and other facilities for that community board.
     
-    Compare: 1974 No 66 [s 101ZZB][1176]
+    Compare: 1974 No 66 [s 101ZZB][1185]
 
 ##### 39 Expenses of community boards
     
@@ -12533,9 +12616,9 @@ Provisions relating to community boards and their members
     
     (3) This clause does not apply in respect of any expenditure for which any rate has been made and levied within the community.
     
-    Compare: 1974 No 66 [s 101ZZC][1177]
+    Compare: 1974 No 66 [s 101ZZC][1186]
     
-    Schedule 7 clause 39(1): amended, on 27 November 2010, by [section 46][1178] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 7 clause 39(1): amended, on 27 November 2010, by [section 46][1187] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ---
 
@@ -12560,7 +12643,7 @@ Statements of intent
     
 *   The board of a council-controlled organisation must deliver to its shareholders a draft statement of intent on or before 1 March each year.
     
-    Compare: 1974 No 66 [s 594S][1179]
+    Compare: 1974 No 66 [s 594S][1188]
 
 ##### 3 Completion of statements of intent
     
@@ -12570,7 +12653,7 @@ Statements of intent
     
     *   (b) deliver the completed statement of intent to the shareholders on or before 30 June each year.
     
-    Compare: 1974 No 66 [s 594U][1180]
+    Compare: 1974 No 66 [s 594U][1189]
 
 ##### 4 Modifications of statements of intent by board
     
@@ -12586,15 +12669,15 @@ Statements of intent
         
         
     
-    Compare: 1974 No 66 [s 594V(1)][1181]
+    Compare: 1974 No 66 [s 594V(1)][1190]
 
 ##### 5 Modifications of statements of intent by resolution of shareholders
     
-*   (1) Despite any other provision of the Act or of the constitution of any council-controlled organisation, the shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent by including or omitting any provision or provisions of the kind referred to in [clause 9(1)(a) to (i)][654], and any board to whom notice of the resolution is given must comply with the resolution.
+*   (1) Despite any other provision of the Act or of the constitution of any council-controlled organisation, the shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent by including or omitting any provision or provisions of the kind referred to in [clause 9(1)(a) to (i)][662], and any board to whom notice of the resolution is given must comply with the resolution.
     
     (2) Before giving notice of the resolution to the board, the shareholders must consult the board concerned as to the matters to be referred to in the notice.
     
-    Compare: 1974 No 66 [s 594V(2)][1181]
+    Compare: 1974 No 66 [s 594V(2)][1190]
 
 ##### 6 Statement of intent required if exemption granted under section 7 revoked
     
@@ -12610,17 +12693,17 @@ Statements of intent
     
 *   A completed statement of intent and each modification that is adopted to a statement of intent must be made available to the public by the board within 1 month after the date on which it is delivered to the shareholders or adopted, as the case may be.
     
-    Compare: 1974 No 66 [s 594W][1182]
+    Compare: 1974 No 66 [s 594W][1191]
 
 ##### 8 Savings of certain transactions
     
 *   A failure by a council-controlled organisation to comply with any provision of this schedule or with any provision in a statement of intent does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that organisation.
     
-    Compare: 1974 No 66 [s 594Y][1183]
+    Compare: 1974 No 66 [s 594Y][1192]
 
 ##### 9 Contents of statements of intent
     
-*   (1) A statement of intent must, to the extent that is appropriate given the organisational form of the council-controlled organisation, specify for the group comprising the council-controlled organisation and its subsidiaries (if any), and in respect of the financial year immediately following the financial year in which it is required by [clause 3(b)][1184] to be delivered and each of the immediately following 2 financial years, the following information:
+*   (1) A statement of intent must, to the extent that is appropriate given the organisational form of the council-controlled organisation, specify for the group comprising the council-controlled organisation and its subsidiaries (if any), and in respect of the financial year immediately following the financial year in which it is required by [clause 3(b)][1193] to be delivered and each of the immediately following 2 financial years, the following information:
         
     *   (a) the objectives of the group; and
     
@@ -12654,7 +12737,7 @@ Statements of intent
     
     (3) Any financial information, including (but not limited to) forecast financial information, must be prepared in accordance with generally accepted accounting practice.
     
-    Compare: 1974 No 66 [s 594T][1185]
+    Compare: 1974 No 66 [s 594T][1194]
 
 ##### 10 Additional content of statements of intent
     
@@ -12670,13 +12753,13 @@ Statements of intent
     
     *   (e) the provision of roads and footpaths.
     
-    (2) The council-controlled organisation's statement of intent must, in relation to each group of activities described in subclause (1), include a statement of the intended levels of service provision that complies with [clause 4(a) and (c)][1186] of Schedule 10 as if---
+    (2) The council-controlled organisation's statement of intent must, in relation to each group of activities described in subclause (1), include a statement of the intended levels of service provision that complies with [clause 4(a) and (c)][1195] of Schedule 10 as if---
         
     *   (a) the reference to a long-term plan were a reference to the statement of intent; and
     
     *   (b) the reference to a local authority were a reference to a council-controlled organisation.
     
-    Schedule 8 clause 10: added, on 27 November 2010, by [section 47][1187] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 8 clause 10: added, on 27 November 2010, by [section 47][1196] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ---
 
@@ -12691,23 +12774,23 @@ Council-controlled organisations and transfer of undertakings
     
     (2) If any such property is so transferred, the property and the land must be regarded as separate property, each capable of separate ownership.
     
-    Compare: 1974 No 66 [s 594ZE(2)][1188]
+    Compare: 1974 No 66 [s 594ZE(2)][1197]
 
 ##### 2 Modification of provisions of Public Works Act 1981
     
-*   (1) Nothing in [sections 40 to 42][1189] of the Public Works Act 1981 applies to the transfer of land to a council-controlled organisation under this Act.
+*   (1) Nothing in [sections 40 to 42][1198] of the Public Works Act 1981 applies to the transfer of land to a council-controlled organisation under this Act.
     
-    (2) However, after the transfer, [sections 40][1189] and [41][1190] of that Act apply to that land as if the council-controlled organisation were a local authority and the land had not been transferred under this Act.
+    (2) However, after the transfer, [sections 40][1198] and [41][1199] of that Act apply to that land as if the council-controlled organisation were a local authority and the land had not been transferred under this Act.
     
-    Compare: 1974 No 66 [s 594ZF][1191]
+    Compare: 1974 No 66 [s 594ZF][1200]
 
 ##### 3 Obligation to lodge caveat
     
-*   (1) The rights of persons from whom land was acquired and their successors to have land offered to them under [section 40(2)][1189] of the Public Works Act 1981 are deemed interests in land for the purposes of [section 137][1192] of the Land Transfer Act 1952, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
+*   (1) The rights of persons from whom land was acquired and their successors to have land offered to them under [section 40(2)][1198] of the Public Works Act 1981 are deemed interests in land for the purposes of [section 137][1201] of the Land Transfer Act 1952, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
     
-    (2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient, for the purposes of [section 138][1193] of the Land Transfer Act 1952, to refer to [sections 40 to 42][1189] of the Public Works Act 1981 and to this clause.
+    (2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient, for the purposes of [section 138][1202] of the Land Transfer Act 1952, to refer to [sections 40 to 42][1198] of the Public Works Act 1981 and to this clause.
     
-    Compare: 1974 No 66 [s 594ZG][1194]
+    Compare: 1974 No 66 [s 594ZG][1203]
 
 ##### 4 Transfer of liabilities in relation to undertakings
     
@@ -12723,7 +12806,7 @@ Council-controlled organisations and transfer of undertakings
     
     (3) If an agreement cannot be reached, the liabilities in relation to the undertaking remain with the local authority.
     
-    Compare: 1974 No 66 [ss 594ZI][1195], [594ZK][1196]
+    Compare: 1974 No 66 [ss 594ZI][1204], [594ZK][1205]
 
 ##### 5 Certain matters not affected by transfer of liabilities in relation to undertakings
     
@@ -12735,31 +12818,31 @@ Council-controlled organisations and transfer of undertakings
     
     *   (c) does not release any surety or guarantor from any obligation with respect to the undertaking.
     
-    Compare: 1974 No 66 [s 594ZJ][1197]
+    Compare: 1974 No 66 [s 594ZJ][1206]
 
 ##### 6 Application of Income Tax Act 2007 and Goods and Services Tax Act 1985
     
-*   (1) Nothing in [sections CB 6 to CB 23][1198] of the Income Tax Act 2007 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
+*   (1) Nothing in [sections CB 6 to CB 23][1207] of the Income Tax Act 2007 applies to any land or asset disposed of by the local authority to a council-controlled organisation under this Act.
     
-    (2) For the purposes of [sections CB 6 to CB 23][1198] of the Income Tax Act 2007, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
+    (2) For the purposes of [sections CB 6 to CB 23][1207] of the Income Tax Act 2007, if any land or asset is acquired by a council-controlled organisation from a local authority, that land or asset is deemed to have been acquired by the council-controlled organisation on the date on which it was acquired by that local authority.
     
-    (3) Nothing in [sections EE 40(1) to (3)][1199] and [EZ 12][1200] of the Income Tax Act 2007 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
+    (3) Nothing in [sections EE 40(1) to (3)][1208] and [EZ 12][1209] of the Income Tax Act 2007 applies to any property acquired by a council-controlled organisation from a local authority under this schedule.
     
-    (4) For the purposes of the [Goods and Services Tax Act 1985][1090], a transfer of an undertaking from a local authority to a council-controlled organisation under this schedule is deemed to be a transfer of a part of a taxable activity as a going concern that is capable of separate operation.
+    (4) For the purposes of the [Goods and Services Tax Act 1985][1099], a transfer of an undertaking from a local authority to a council-controlled organisation under this schedule is deemed to be a transfer of a part of a taxable activity as a going concern that is capable of separate operation.
     
-    Compare: 1974 No 66 [s 594ZM][1201]
+    Compare: 1974 No 66 [s 594ZM][1210]
     
-    Schedule 9 clause 6 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1202] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 9 clause 6 heading: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1211] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 9 clause 6(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1202] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 9 clause 6(1): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1211] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 9 clause 6(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1202] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 9 clause 6(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1211] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 9 clause 6(3): amended (with effect on 1 April 2008), on 7 September 2010 (applies for the 2008--09 and later income years), by [section 211(2)][1203] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 9 clause 6(3): amended (with effect on 1 April 2008), on 7 September 2010 (applies for the 2008--09 and later income years), by [section 211(2)][1212] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Schedule 9 clause 6(3): amended (with effect on 1 April 2005), on 7 September 2010 (applies for the 2005--06 and later income years), by [section 211(1)][1203] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
+    Schedule 9 clause 6(3): amended (with effect on 1 April 2005), on 7 September 2010 (applies for the 2005--06 and later income years), by [section 211(1)][1212] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
-    Schedule 9 clause 6(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1202] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 9 clause 6(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][1211] of the Income Tax Act 2007 (2007 No 97).
 
 ---
 
@@ -12768,97 +12851,97 @@ Long-term plans, annual plans, and annual reports
 
 [ss 5(2)][6], [75(f)][108], [85(2)][122], [93(7)(b)][132], [95(6)(c)][134], [98(1)][138], [99A(1)][140]
 
-*   Schedule 10: substituted, on 27 November 2010, by [section 48][1204] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+*   Schedule 10: substituted, on 27 November 2010, by [section 48][1213] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ## Contents
 
-[Part 1][690]  
-[Information to be included in long-term plans][690]
+[Part 1][698]  
+[Information to be included in long-term plans][698]
 
-[1][1205][][1205][Community outcomes][1205]
+[1][1214][][1214][Community outcomes][1214]
 
-[2][1206][][1206][Groups of activities][1206]
+[2][1215][][1215][Groups of activities][1215]
 
-[3][684][][684][Capital expenditure for groups of activities][684]
+[3][692][][692][Capital expenditure for groups of activities][692]
 
-[4][1186][][1186][Statement of service provision][1186]
+[4][1195][][1195][Statement of service provision][1195]
 
-[5][1207][][1207][Funding impact statement for groups of activities][1207]
+[5][1216][][1216][Funding impact statement for groups of activities][1216]
 
-[6][1208][][1208][Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans][1208]
+[6][1217][][1217][Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans][1217]
 
-[7][1209][][1209][Council-controlled organisations][1209]
+[7][1218][][1218][Council-controlled organisations][1218]
 
-[8][1210][][1210][Development of Māori capacity to contribute to decision-making processes][1210]
+[8][1219][][1219][Development of Māori capacity to contribute to decision-making processes][1219]
 
-[9][1211][][1211][Financial strategy][1211]
+[9][1220][][1220][Financial strategy][1220]
 
-[10][1212][][1212][Revenue and financing policy][1212]
+[10][1221][][1221][Revenue and financing policy][1221]
 
-[11][1213][][1213][Determining significance][1213]
+[11][1222][][1222][Determining significance][1222]
 
-[12][1214][][1214][Forecast financial statements][1214]
+[12][1223][][1223][Forecast financial statements][1223]
 
-[13][1215][][1215][Financial statements for previous year][1215]
+[13][1224][][1224][Financial statements for previous year][1224]
 
-[14][1216][][1216][Statement concerning balancing of budget][1216]
+[14][1225][][1225][Statement concerning balancing of budget][1225]
 
-[15][1217][][1217][Funding impact statement][1217]
+[15][1226][][1226][Funding impact statement][1226]
 
-[16][1218][][1218][Reserve funds][1218]
+[16][1227][][1227][Reserve funds][1227]
 
-[17][1219][][1219][Significant forecasting assumptions][1219]
+[17][1228][][1228][Significant forecasting assumptions][1228]
 
-[Part 2][694]  
-[Information to be included in annual plan][694]
+[Part 2][702]  
+[Information to be included in annual plan][702]
 
-[18][1220][][1220][Forecast financial statements][1220]
+[18][1229][][1229][Forecast financial statements][1229]
 
-[19][1221][][1221][Financial statements for previous year][1221]
+[19][1230][][1230][Financial statements for previous year][1230]
 
-[20][1222][][1222][Funding impact statement][1222]
+[20][1231][][1231][Funding impact statement][1231]
 
-[21][1223][][1223][Reserve funds][1223]
+[21][1232][][1232][Reserve funds][1232]
 
-[22][1224][][1224][Annual plan and amendment of long-term plan][1224]
+[22][1233][][1233][Annual plan and amendment of long-term plan][1233]
 
-[Part 3][699]  
-[Information to be included in annual reports][699]
+[Part 3][707]  
+[Information to be included in annual reports][707]
 
-[23][1225][][1225][Groups of activities][1225]
+[23][1234][][1234][Groups of activities][1234]
 
-[24][702][][702][Capital expenditure for groups of activities][702]
+[24][710][][710][Capital expenditure for groups of activities][710]
 
-[25][1226][][1226][Statement of service provision][1226]
+[25][1235][][1235][Statement of service provision][1235]
 
-[26][1227][][1227][Funding impact statement for groups of activities][1227]
+[26][1236][][1236][Funding impact statement for groups of activities][1236]
 
-[27][1228][][1228][Internal borrowing][1228]
+[27][1237][][1237][Internal borrowing][1237]
 
-[28][1229][][1229][Council-controlled organisations][1229]
+[28][1238][][1238][Council-controlled organisations][1238]
 
-[29][701][][701][Financial statements][701]
+[29][709][][709][Financial statements][709]
 
-[30][703][][703][Funding impact statement][703]
+[30][711][][711][Funding impact statement][711]
 
-[31][1230][][1230][Reserve funds][1230]
+[31][1239][][1239][Reserve funds][1239]
 
-[32][1231][][1231][Remuneration issues][1231]
+[32][1240][][1240][Remuneration issues][1240]
 
-[32A][1232][][1232][Employee staffing levels and remuneration][1232]
+[32A][1241][][1241][Employee staffing levels and remuneration][1241]
 
-[33][1233][][1233][Severance payments][1233]
+[33][1242][][1242][Severance payments][1242]
 
-[34][1234][][1234][Statement of compliance][1234]
+[34][1243][][1243][Statement of compliance][1243]
 
-[35][1235][][1235][General][1235]
+[35][1244][][1244][General][1244]
 
-[Part 4][1236]  
-[Information to be included in pre-election report][1236]
+[Part 4][1245]  
+[Information to be included in pre-election report][1245]
 
-[36][706][][706][Pre-election report][706]
+[36][714][][714][Pre-election report][714]
 
-[37][707][][707][Substituted information for small local authorities][707]
+[37][715][][715][Substituted information for small local authorities][715]
 
 ---
 
@@ -12879,7 +12962,7 @@ Information to be included in long-term plans
     
     *   (c) outline any significant negative effects that any activity within the group of activities may have on the local community:
     
-    *   (d) include the information specified in [clauses 4][1186] and [5][1207]---
+    *   (d) include the information specified in [clauses 4][1195] and [5][1216]---
             
         *   (i) in detail in relation to each of the first 3 financial years covered by the plan; and
         
@@ -12901,7 +12984,7 @@ Information to be included in long-term plans
     
     (3) Despite subclause (2), a local authority may treat any other activities as a group of activities.
     
-    Schedule 10 clause 2(1)(c): amended, on 5 December 2012, by [section 39(2)][1237] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 10 clause 2(1)(c): amended, on 5 December 2012, by [section 39(2)][1246] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 3 Capital expenditure for groups of activities
     
@@ -12919,7 +13002,7 @@ Information to be included in long-term plans
     
 *   A long-term plan must, in relation to each group of activities of the local authority, include a statement of the intended levels of service provision that specifies---
         
-    *   (a) any performance measures specified in a rule made under [section 261B][450] for a group of activities described in [clause 2(2)][1206]; and
+    *   (a) any performance measures specified in a rule made under [section 261B][457] for a group of activities described in [clause 2(2)][1215]; and
     
     *   (b) the performance measures that the local authority considers will enable the public to assess the level of service for major aspects of groups of activities for which performance measures have not been specified under paragraph (a); and
     
@@ -12951,7 +13034,7 @@ Information to be included in long-term plans
         
     *   (a) assessment of water and other sanitary services under [section 125][174]:
     
-    *   (b) waste management and minimisation plans adopted under [section 43][1238] of the Waste Minimisation Act 2008\.
+    *   (b) waste management and minimisation plans adopted under [section 43][1247] of the Waste Minimisation Act 2008\.
     
     
 
@@ -12997,7 +13080,7 @@ Information to be included in long-term plans
 
 ##### 13 Financial statements for previous year
     
-*   (1) A long-term plan must include the numerical information from the forecast financial statements referred to in [clause 12(1)][1214] that were prepared for the financial year that is the year before the first year covered by the plan.
+*   (1) A long-term plan must include the numerical information from the forecast financial statements referred to in [clause 12(1)][1223] that were prepared for the financial year that is the year before the first year covered by the plan.
     
     (2) The numerical information must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for each of the financial years covered by the plan.
 
@@ -13037,7 +13120,7 @@ Information to be included in long-term plans
     
     *   (c) state whether the general rate is to be set differentially and, if so,---
             
-        *   (i) the categories of rateable land, within the meaning of [section 14][1239] of the Local Government (Rating) Act 2002, to be used; and
+        *   (i) the categories of rateable land, within the meaning of [section 14][1248] of the Local Government (Rating) Act 2002, to be used; and
         
         *   (ii) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category.
         
@@ -13047,7 +13130,7 @@ Information to be included in long-term plans
         
     *   (a) specify the activities or groups of activities for which the targeted rate is to be set; and
     
-    *   (b) include particulars of the category, or categories, of rateable land, within the meaning of [section 17][1240] of the Local Government (Rating) Act 2002, to be used; and
+    *   (b) include particulars of the category, or categories, of rateable land, within the meaning of [section 17][1249] of the Local Government (Rating) Act 2002, to be used; and
     
     *   (c) for each category, state---
             
@@ -13128,7 +13211,7 @@ Information to be included in annual plan
 
 ##### 19 Financial statements for previous year
     
-*   (1) An annual plan must include the numerical information from the forecast financial statements referred to in [clause 18(1) ][1220]that were prepared for the financial year that is the year before the year covered by the plan.
+*   (1) An annual plan must include the numerical information from the forecast financial statements referred to in [clause 18(1) ][1229]that were prepared for the financial year that is the year before the year covered by the plan.
     
     (2) The numerical information described in subclause (1) must be presented in a way that allows the public to compare the information with the numerical information contained in the forecast financial statements for the financial year covered by the plan.
 
@@ -13158,7 +13241,7 @@ Information to be included in annual plan
     
     *   (c) state whether the general rate is to be set differentially and, if so,---
             
-        *   (i) the categories of rateable land, within the meaning of [section 14][1239] of the Local Government (Rating) Act 2002, to be used; and
+        *   (i) the categories of rateable land, within the meaning of [section 14][1248] of the Local Government (Rating) Act 2002, to be used; and
         
         *   (ii) the objectives of the differential rate, in terms of the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category.
         
@@ -13168,7 +13251,7 @@ Information to be included in annual plan
         
     *   (a) specify the activities or groups of activities for which the targeted rate is to be set; and
     
-    *   (b) include particulars of the category, or categories, of rateable land, within the meaning of [section 17][1240] of the Local Government (Rating) Act 2002, to be used; and
+    *   (b) include particulars of the category, or categories, of rateable land, within the meaning of [section 17][1249] of the Local Government (Rating) Act 2002, to be used; and
     
     *   (c) for each category, state---
             
@@ -13225,7 +13308,7 @@ Information to be included in annual reports
     
     *   (d) describe any identified effects that any activity within the group of activities has had on the community.
     
-    Schedule 10 clause 23(d): amended, on 5 December 2012, by [section 39(3)][1237] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 10 clause 23(d): amended, on 5 December 2012, by [section 39(3)][1246] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 24 Capital expenditure for groups of activities
     
@@ -13267,7 +13350,7 @@ Information to be included in annual reports
         
         
     
-    *   (b) compare the information in paragraph (a) with information included in the long-term plan in accordance with [clause 5(2)][1207].
+    *   (b) compare the information in paragraph (a) with information included in the long-term plan in accordance with [clause 5(2)][1216].
     
     
 
@@ -13325,7 +13408,7 @@ Information to be included in annual reports
         
         
     
-    *   (b) compare the information in paragraph (a) with information included in the annual plan in accordance with [clause 20(2)][1222].
+    *   (b) compare the information in paragraph (a) with information included in the annual plan in accordance with [clause 20(2)][1231].
     
     (3) The annual report must include the information in subclause (2) for the financial year before the year to which the report relates.
 
@@ -13387,7 +13470,7 @@ Information to be included in annual reports
     
     *   (b) each following financial year.
     
-    Schedule 10 clause 32A: inserted, on 5 December 2012, by [section 39(4)][1237] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Schedule 10 clause 32A: inserted, on 5 December 2012, by [section 39(4)][1246] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 33 Severance payments
     
@@ -13434,9 +13517,9 @@ Information to be included in pre-election report
         
     *   (a) for the 3 financial years immediately preceding the date of the election,---
             
-        *   (i) the funding impact statement referred to in [clause 30][703]; and
+        *   (i) the funding impact statement referred to in [clause 30][711]; and
         
-        *   (ii) a summary balance sheet based on the financial statements referred to in [clause 29(1)(a)][703] that discloses public debt and financial assets separately; and
+        *   (ii) a summary balance sheet based on the financial statements referred to in [clause 29(1)(a)][711] that discloses public debt and financial assets separately; and
         
         *   (iii) a statement that compares---
                 
@@ -13450,9 +13533,9 @@ Information to be included in pre-election report
     
     *   (b) for the 3 financial years immediately following the date of the election,---
             
-        *   (i) the information included in the funding impact statement in accordance with [clause 15(2)(b) and (c)][1217]; and
+        *   (i) the information included in the funding impact statement in accordance with [clause 15(2)(b) and (c)][1226]; and
         
-        *   (ii) a summary balance sheet based on the forecast financial statements referred to in [clause 12(1)][1214] that discloses public debt and financial assets separately; and
+        *   (ii) a summary balance sheet based on the forecast financial statements referred to in [clause 12(1)][1223] that discloses public debt and financial assets separately; and
         
         
     
@@ -13472,9 +13555,9 @@ Information to be included in pre-election report
     
     (2) For the financial year ending in the same year as the election, the pre-election report must include---
         
-    *   (a) the funding impact statement prepared under [clause 20(2)][1222]; and
+    *   (a) the funding impact statement prepared under [clause 20(2)][1231]; and
     
-    *   (b) a summary balance sheet based on the forecast financial statements referred to in [clause 18][1220] that discloses public debt and financial assets separately; and
+    *   (b) a summary balance sheet based on the forecast financial statements referred to in [clause 18][1229] that discloses public debt and financial assets separately; and
     
     *   (c) a statement that compares---
             
@@ -13484,7 +13567,7 @@ Information to be included in pre-election report
         
         
     
-    (3) The pre-election report must comply with this clause only if it does not comply with [clause 36(1)(a) and (2)][706].
+    (3) The pre-election report must comply with this clause only if it does not comply with [clause 36(1)(a) and (2)][714].
 
 ---
 
@@ -13495,7 +13578,7 @@ Matters relating to rates relief on Māori freehold land
 
 *   1 The matters that the local authority must consider under section 108(4) are---
         
-    *   (a) the desirability and importance within the district of each of the objectives in [clause 2][1241]; and
+    *   (a) the desirability and importance within the district of each of the objectives in [clause 2][1250]; and
     
     *   (b) whether, and to what extent, the attainment of any of those objectives could be prejudicially affected if there is no remission of rates or postponement of the requirement to pay rates on Māori freehold land; and
     
@@ -13595,22 +13678,271 @@ Methodology for calculating development contributions
     
     *   (b) identify the share of that expenditure attributable to each unit of demand, using the units of demand for the community facility or for separate activities or groups of activities, as the case may be, by which the impact of growth has been assessed.
     
-    Schedule 13 clause 1(a): amended, on 27 November 2010, by [section 49][555] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Schedule 13 clause 1(a): amended, on 27 November 2010, by [section 49][563] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 2 Attribution of units of demand to developments
     
-*   For the purpose of determining in accordance with [section 203(2)][303] the maximum development contribution that may be required for a particular development or type of development, a territorial authority must demonstrate in its methodology that it has attributed units of demand to particular developments or types of development on a consistent and equitable basis.
+*   For the purpose of determining in accordance with [section 203(2)][310] the maximum development contribution that may be required for a particular development or type of development, a territorial authority must demonstrate in its methodology that it has attributed units of demand to particular developments or types of development on a consistent and equitable basis.
+
+---
+
+## Schedule 13A  
+Procedure relating to development contribution objections
+
+[ss 199E][300], 199I
+
+*   Schedule 13A: inserted (with effect on 1 July 2014), on 7 August 2014, by [section 74][1251] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+## Part 1  
+General provisions
+
+##### 1 Lodgment of objection
+    
+*   (1) A person exercises the right under [section 199C][298] to lodge a development contribution objection by serving notice of the objection on the territorial authority within 15 working days after the date on which the person received notice from the territorial authority of the level of development contribution that the territorial authority requires.
+    
+    (2) However, if a person has received notice of the outcome of a reconsideration under section 199B, the 15-working-day period in subclause (1) begins on the day after the date on which the person receives the notice of the outcome.
+    
+    (3) The notice of objection under subclause (1) must---
+        
+    *   (a) be in writing; and
+    
+    *   (b) set out the grounds and reasons for the objection; and
+    
+    *   (c) state the relief sought; and
+    
+    *   (d) state whether the objector wishes to be heard on the objection.
+    
+    (4) A territorial authority may, in its discretion, allow an objection to be served on it after the 15-working-day period specified in subclause (1) or (2), as the case may be, if satisfied that exceptional circumstances exist.
+
+##### 2 Withdrawal of objection
+    
+*   (1) A person who has served notice of an objection in accordance with [clause 1][1252] may, at any time, withdraw the objection by serving notice of the withdrawal on the territorial authority and any development contributions commissioner appointed to decide the objection.
+    
+    (2) The withdrawal of an objection under subclause (1) does not affect the right of the territorial authority to recover any actual and reasonable costs in respect of the objection under section 150A.
+    
+    (3) The withdrawal of an objection under subclause (1) does not affect the right of the person to lodge another objection, whether on the same or different grounds, under [clause 1][1252] within the periods specified in that clause.
+
+##### 3 Selection of development contributions commissioners
+    
+*   (1) A territorial authority that has received an objection under [clause 1][1252] must, as soon as practicable after receiving the objection, select not more than 3 development contributions commissioners to decide the objection.
+    
+    (2) The development contributions commissioners must---
+        
+    *   (a) be selected from persons named in a register of commissioners appointed by the Minister under section 199F or be selected in accordance with section 199H(2); and
+    
+    *   (b) not be elected members or employees of the territorial authority whose development contribution requirement is the subject of the objection; and
+    
+    *   (c) not be board members, shareholders, owners, employees, or contractors of the objector; and
+    
+    *   (d) in the opinion of the territorial authority, individually or collectively have the skills, knowledge, and experience necessary to---
+            
+        *   (i) conduct a fair and appropriate hearing; and
+        
+        *   (ii) understand and determine the principal matters in contention.
+        
+        
+    
+    (3) If the territorial authority proposes to select more than 1 commissioner, it must appoint one of them as the chairperson.
+
+##### 4 Development contributions commissioners to set date for exchange of evidence
+    
+*   (1) Development contributions commissioners who have been selected to decide an objection must give the parties notice of the date by which briefs of evidence relating to the objection must be exchanged.
+    
+    (2) The briefs of evidence, and any additional or amended evidence, must be exchanged not later than 10 working days before---
+        
+    *   (a) the commencement of a hearing under [clause 6][1253]; or
+    
+    *   (b) if there is no hearing, a date fixed by the commissioners.
+    
+    (3) Copies of the statements of evidence referred to in a brief of evidence must be provided to---
+        
+    *   (a) each development contributions commissioner appointed to decide the objection; and
+    
+    *   (b) the territorial authority; and
+    
+    *   (c) the objector.
+    
+    
+
+##### 5 Obligation to hold hearing
+    
+*   A hearing on an objection need not be held if---
+        
+    *   (a) the objector has---
+            
+        *   (i) indicated that the objector does not wish to be heard; or
+        
+        *   (ii) otherwise agreed that no hearing is required; or
+        
+        
+    
+    *   (b) the development contributions commissioners who will hear and decide the objection are satisfied, having regard to the nature of the objection and the evidence already provided, that they are able to determine the objection without a hearing.
+    
+    
+
+##### 6 Hearing date and notice
+    
+*   (1) If a hearing on an objection is to be held, the development contributions commissioners must fix the date, time, and place of the hearing.
+    
+    (2) Notice of a hearing must be served on the territorial authority and the objector at least 10 working days before the date on which the hearing commences.
+
+##### 7 Replies to briefs of evidence where no hearing is held
+    
+*   (1) Where no hearing is to be held, a development contributions commissioner may direct that the territorial authority and the objector provide written replies to each other's evidence and provide copies of those replies to the commissioners.
+    
+    (2) A direction made under subclause (1) must specify the period within which the written replies must be served on---
+        
+    *   (a) the development contributions commissioners; and
+    
+    *   (b) the territorial authority; and
+    
+    *   (c) the objector.
+    
+    
+
+##### 8 Development contribution objection hearings
+    
+*   (1) If a hearing is required, it must be held on the date and at the time and place specified in the notice given under [clause 6][1253].
+    
+    (2) The development contributions commissioners must establish a procedure that is appropriate and fair in the circumstances and that---
+        
+    *   (a) avoids unnecessary formality; and
+    
+    *   (b) recognises tikanga Māori where appropriate.
+    
+    (3) A hearing under this clause need not be held in public.
+
+##### 9 Decisions on objections
+    
+*   (1) Development contributions commissioners must give a decision on an objection in writing, whether or not a hearing is held.
+    
+    (2) A decision on an objection must---
+        
+    *   (a) uphold all or part of the objection; or
+    
+    *   (b) dismiss all or part of the objection.
+    
+    (3) A decision may quash, or direct that amendments be made to, the requirement for a development contribution.
+    
+    (4) A decision must be given in writing and state---
+        
+    *   (a) the reasons for the decision; and
+    
+    *   (b) a summary of the issues that were in contention; and
+    
+    *   (c) the relevant provisions of the development contributions policy of the territorial authority that required the development contribution; and
+    
+    *   (d) a summary of the evidence presented.
+    
+    (5) In their decision on an objection, the development contributions commissioners must not direct the amendment of a development contributions policy, but may make observations on the policy.
+
+##### 10 Service of development contribution objection decision
+    
+*   (1) Written copies of the development contributions commissioners' decision under [clause 9][1254] must be served on---
+        
+    *   (a) the objector; and
+    
+    *   (b) the territorial authority that required the development contribution; and
+    
+    *   (c) the Secretary.
+    
+    (2) Service of the decision must be given within 15 working days after---
+        
+    *   (a) the end of the hearing; or
+    
+    *   (b) if no hearing is held, the last day of the commissioners' consideration of the evidence.
+    
+    
+
+## Part 2  
+Provisions supplementing section 199I
+
+##### 11 Development contributions commissioners' powers
+    
+*   (1) The commissioners conducting a hearing on an objection have the same powers that a District Court, in the exercise of its civil jurisdiction, has to conduct and maintain order.
+    
+    (2) [Sections 29 to 31][1255] of the Inquiries Act 2013 apply to the hearing of an objection as if the hearing was an inquiry within the meaning of [section 4][1256] of that Act.
+
+##### 12 Power to summon witness
+    
+*   (1) A written summons may be issued requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any papers, documents, records, or things in that person's possession or under that person's control that are relevant to the subject of the hearing.
+    
+    (2) A summons may be issued by a development contributions commissioner on his or her own initiative or on application.
+    
+    (3) The commissioner who issues the summons must be---
+        
+    *   (a) the chairperson; or
+    
+    *   (b) any commissioner authorised by the chairperson; or
+    
+    *   (c) if there is no chairperson, any commissioner participating in the hearing or consideration of the objection.
+    
+    (4) A commissioner who may issue a summons may do any other act preliminary or incidental to the hearing or consideration of the objection.
+
+##### 13 Service of summons
+    
+*   (1) A summons to a witness may be served---
+        
+    *   (a) by delivering it to the person summoned; or
+    
+    *   (b) by posting it by registered letter addressed to the person summoned at that person's usual place of abode.
+    
+    (2) The summons must,---
+        
+    *   (a) if served under subclause (1)(a), be served at least 24 hours before the attendance of the witness is required:
+    
+    *   (b) if served under subclause (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
+    
+    (3) If the summons is posted by registered letter, it must be treated for the purposes of subclause (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+
+##### 14 Service of notices
+    
+*   (1) Where a notice or other document is to be served on a person for the purpose of section 199I or this schedule, it may be given---
+        
+    *   (a) by delivering it personally to the person; or
+    
+    *   (b) by delivering it at the usual or last known place of residence or business of that person, including by fax or by electronic mail; or
+    
+    *   (c) by sending it by prepaid post addressed to the person at the usual or last known place of residence or business of the person.
+    
+    (2) Where a notice or document is to be served on a corporation for the purposes of section 199I or this schedule, service on an officer of the corporation, or on the registered office of the corporation, in accordance with subclause (1) is deemed to be service on the corporation.
+    
+    (3) Where a notice or document is to be served on a partnership for the purposes of section 199I or this schedule, service on any one of the partners in accordance with subclause (1) or (2) is deemed to be service on the partnership.
+    
+    (4) Where a notice or document is sent by post to a person in accordance with subclause (1)(c), the notice or document is deemed, in the absence of proof to the contrary, to have been given on the third day after the day on which it was posted.
+
+##### 15 Evidence
+    
+*   The development contributions commissioners may, for the purposes of a hearing,---
+        
+    *   (a) receive any evidence that, in their opinion, may assist them to deal effectively with the development contribution objection, whether or not the evidence would be admissible in a court of law; and
+    
+    *   (b) take evidence on oath or affirmation, and for that purpose an oath or affirmation may be administered by any commissioner; and 
+    
+    *   (c) permit a witness to give evidence by any means, including by written or electronic means, and require the witness to verify the evidence by oath or affirmation.
+    
+    
+
+##### 16 Other immunities and privileges of participants
+    
+*   (1) Witnesses and other persons participating in a hearing (other than counsel) have the same immunities and privileges as if they were appearing in civil proceedings and the provisions of [subpart 8][1257] of Part 2 of the Evidence Act 2006 apply to the inquiry, to the extent that they are relevant, as if---
+        
+    *   (a) the hearing were a civil proceeding; and
+    
+    *   (b) every reference to a Judge were a reference to a commissioner. 
+    
+    (2) Counsel appearing at a hearing have the same immunities and privileges as they would have if appearing before a court.
 
 ---
 
 ## Schedule 14  
 Procedure for making removal orders
 
-[ss 213][318], [215][321]
+[ss 213][325], [215][328]
 
 ##### 1 Scope of removal order
     
-*   If the District Court makes a removal order under [section 216][323], it may---
+*   If the District Court makes a removal order under [section 216][330], it may---
         
     *   (a) order that the fence, structure, or vegetation be removed or altered, or that part of the fence, structure, or vegetation be removed and that part of it be altered:
     
@@ -13618,27 +13950,27 @@ Procedure for making removal orders
     
     *   (c) make any consequential order that the court thinks fit:
     
-    *   (d) without limiting paragraph (c) and subject to any conditions that the court thinks fit, order that entry may be made on to any portion of land adjoining the property to which the order relates for the purposes of enforcing an order in accordance with [section 220(2)][330].
+    *   (d) without limiting paragraph (c) and subject to any conditions that the court thinks fit, order that entry may be made on to any portion of land adjoining the property to which the order relates for the purposes of enforcing an order in accordance with [section 220(2)][337].
     
-    Compare: 1974 No 66 [s 692ZD(3)][868]
+    Compare: 1974 No 66 [s 692ZD(3)][877]
 
 ##### 2 Service of removal order
     
-*   If a removal order is made under [section 216][323], the Judge may, on application or on his or her own motion, give directions---
+*   If a removal order is made under [section 216][330], the Judge may, on application or on his or her own motion, give directions---
         
-    *   (a) as to the manner in which the order must be served on any person on whom the order must be served under [clause 3(a)][872]; and
+    *   (a) as to the manner in which the order must be served on any person on whom the order must be served under [clause 3(a)][881]; and
     
-    *   (b) that the order must be served on any person not referred to in [clause 3(a)(i) to (iv)][872] who is likely to be affected by the outcome of the proceedings; and
+    *   (b) that the order must be served on any person not referred to in [clause 3(a)(i) to (iv)][881] who is likely to be affected by the outcome of the proceedings; and
     
     *   (c) as to any other matter relating to service of the order on any person.
     
-    Compare: 1974 No 66 [s 692ZD(4)][868]
+    Compare: 1974 No 66 [s 692ZD(4)][877]
 
 ##### 3 Basis for removal order taking effect
     
 *   A removal order does not take effect unless---
         
-    *   (a) a copy of the order is served in accordance with [Part 8][865] of the District Courts Rules 2009 or in accordance with any directions given under [clause 2][1242] on---
+    *   (a) a copy of the order is served in accordance with [Part 8][874] of the District Courts Rules 2009 or in accordance with any directions given under [clause 2][1258] on---
             
         *   (i) the respondent; and
         
@@ -13648,43 +13980,43 @@ Procedure for making removal orders
         
         *   (iv) the owner of any property adjoining the property to which the order relates; and
         
-        *   (v) any person directed by the court to be served under [clause 2][1242]; and
+        *   (v) any person directed by the court to be served under [clause 2][1258]; and
         
         
     
     *   (b) either---
             
-        *   (i) no objection is made in accordance with [section 217(1)][325] by the respondent or by any other person entitled to object to the order under that section; or
+        *   (i) no objection is made in accordance with [section 217(1)][332] by the respondent or by any other person entitled to object to the order under that section; or
         
-        *   (ii) if an objection is made, the court, after considering the objection, confirms the order under [section 218(1)][326] with or without variation.
+        *   (ii) if an objection is made, the court, after considering the objection, confirms the order under [section 218(1)][333] with or without variation.
         
         
     
-    Compare: 1974 No 66 [s 692ZD(5)][868]
+    Compare: 1974 No 66 [s 692ZD(5)][877]
     
-    Schedule 14 clause 3(a): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Schedule 14 clause 3(a): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
 
 ##### 4 Circumstances when certain other Acts do not apply
     
-*   A removal order may be made under [section 216][323] even if the fence, structure, or vegetation---
+*   A removal order may be made under [section 216][330] even if the fence, structure, or vegetation---
         
-    *   (a) does not contravene a rule in a plan or in a proposed plan to which [section 19][1243] of the Resource Management Act 1991 applies; or
+    *   (a) does not contravene a rule in a plan or in a proposed plan to which [section 19][1259] of the Resource Management Act 1991 applies; or
     
     *   (b) has been constructed or is otherwise in accordance with---
             
-        *   (i) a resource consent granted under the [Resource Management Act 1991][677]; or
+        *   (i) a resource consent granted under the [Resource Management Act 1991][685]; or
         
-        *   (ii) a building consent granted under the [Building Act 2004][580].
+        *   (ii) a building consent granted under the [Building Act 2004][588].
         
         
     
-    Compare: 1974 No 66 [s 692ZD(7)][868]
+    Compare: 1974 No 66 [s 692ZD(7)][877]
     
-    Schedule 14 clause 4(b)(ii): amended, on 31 March 2005, by [section 414][780] of the Building Act 2004 (2004 No 72).
+    Schedule 14 clause 4(b)(ii): amended, on 31 March 2005, by [section 414][788] of the Building Act 2004 (2004 No 72).
 
 ##### 5 Evidence of conviction
     
-*   (1) For the purposes of proceedings under [subpart 4][377] of Part 9, proof that a respondent or any other person has been convicted of an offence by any court in New Zealand is conclusive evidence that that person committed the offence, and the conviction is admissible in evidence.
+*   (1) For the purposes of proceedings under [subpart 4][384] of Part 9, proof that a respondent or any other person has been convicted of an offence by any court in New Zealand is conclusive evidence that that person committed the offence, and the conviction is admissible in evidence.
     
     (2) A certificate produced as evidence of the fact that a particular person has been convicted of an offence is sufficient evidence, unless the contrary is proved, without proof of the signature or official character of the person appearing to have signed it, if---
         
@@ -13696,23 +14028,23 @@ Procedure for making removal orders
     
     (3) The method of proving a previous conviction authorised by subclause (2) is in addition to, and not to the exclusion of, any other method of proof authorised by another enactment or rule of law.
     
-    Compare: 1974 No 66 [s 692ZE][1244]
+    Compare: 1974 No 66 [s 692ZE][1260]
 
 ##### 6 Form of removal order
     
-*   (1) Subject to subclause (2), a removal order must be in the form prescribed in [Part 8][865] of the District Courts Rules 2009\.
+*   (1) Subject to subclause (2), a removal order must be in the form prescribed in [Part 8][874] of the District Courts Rules 2009\.
     
-    (2) If an objection is lodged under [section 217(1)][325] and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with [clause 8(2)][1245] as the date by which compliance is required.
+    (2) If an objection is lodged under [section 217(1)][332] and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with [clause 8(2)][1261] as the date by which compliance is required.
     
-    Compare: 1974 No 66 [s 692ZF][1246]
+    Compare: 1974 No 66 [s 692ZF][1262]
     
-    Schedule 14 clause 6(1): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Schedule 14 clause 6(1): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
 
 ##### 7 Notice of objection to removal order
     
-*   (1) A notice of objection under [section 217(1)][325] must---
+*   (1) A notice of objection under [section 217(1)][332] must---
         
-    *   (a) be in the form prescribed in [Part 8][865] of the District Courts Rules 2009; and
+    *   (a) be in the form prescribed in [Part 8][874] of the District Courts Rules 2009; and
     
     *   (b) be lodged with the court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the court allows.
     
@@ -13722,7 +14054,7 @@ Procedure for making removal orders
     
     *   (b) notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer.
     
-    (3) If a person described in [clause 3(a)(iii), (iv), or (v)][872] objects to the making of the order and notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer, the court may,---
+    (3) If a person described in [clause 3(a)(iii), (iv), or (v)][881] objects to the making of the order and notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer, the court may,---
         
     *   (a) if the court is satisfied that there should be an oral hearing, assign a date for the hearing of the objection, which date, subject to subclause (4), must be as soon as practicable; or
     
@@ -13730,67 +14062,67 @@ Procedure for making removal orders
     
     (4) If an oral hearing is to be held in accordance with subclause (2), or if the court decides under subclause (3) that there should be an oral hearing, the court may assign a date for the objections to be heard together.
     
-    Compare: 1974 No 66 [s 692ZG(2)--(5)][873]
+    Compare: 1974 No 66 [s 692ZG(2)--(5)][882]
     
-    Schedule 14 clause 7(1)(a): amended, on 1 November 2009, pursuant to [rule 17.1][870] of the District Courts Rules 2009 (SR 2009/257).
+    Schedule 14 clause 7(1)(a): amended, on 1 November 2009, pursuant to [rule 17.1][879] of the District Courts Rules 2009 (SR 2009/257).
 
 ##### 8 Consideration of objections by court
     
-*   (1) Before the court exercises its power under [section 218(1)][326], the court must, as it thinks fit, give an opportunity to be heard, either orally or in writing, to---
+*   (1) Before the court exercises its power under [section 218(1)][333], the court must, as it thinks fit, give an opportunity to be heard, either orally or in writing, to---
         
     *   (a) the applicant; and
     
-    *   (b) any other person entitled to object under [section 217(1)][325].
+    *   (b) any other person entitled to object under [section 217(1)][332].
     
-    (2) If the court confirms or varies an order under [section 218(1)][326], the court must specify the date by which the respondent must comply with the order.
+    (2) If the court confirms or varies an order under [section 218(1)][333], the court must specify the date by which the respondent must comply with the order.
     
-    Compare: 1974 No 66 [s 692ZI(2), (3)][875]
+    Compare: 1974 No 66 [s 692ZI(2), (3)][884]
 
 ---
 
 ## Schedule 15  
 Powers of Minister
 
-[ss 254][392], [258][399]
+[ss 254][399], [258][406]
 
 \[Repealed\]
     
-*   Schedule 15: repealed, on 5 December 2012, by [section 40][1247] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+*   Schedule 15: repealed, on 5 December 2012, by [section 40][1263] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ---
 
 ## Schedule 16  
 Consequential amendments
 
-[s 262][460]
+[s 262][467]
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1248]._
+_Amendment(s) incorporated in the [Act(s)][1264]._
 
 ##### Airport Authorities Act 1966 (1966 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1249]._
+_Amendment(s) incorporated in the [Act(s)][1265]._
 
 ##### Animal Welfare Act 1999 (1992 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][1250]._
+_Amendment(s) incorporated in the [Act(s)][1266]._
 
 ##### Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][1251]._
+_Amendment(s) incorporated in the [Act(s)][1267]._
 
 ##### Auckland Airport Act 1987 (1987 No 195)
 
-_Amendment(s) incorporated in the [Act(s)][1252]._
+_Amendment(s) incorporated in the [Act(s)][1268]._
 
 ##### Auctioneers Act 1928 (1928 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][1253]._
+_Amendment(s) incorporated in the [Act(s)][1269]._
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][1254]._
+_Amendment(s) incorporated in the [Act(s)][1270]._
 
 ##### Building Act 1991 (1991 No 150)
 
@@ -13798,43 +14130,43 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Building Research Levy Act 1969 (1969 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1255]._
+_Amendment(s) incorporated in the [Act(s)][1271]._
 
 ##### Burial and Cremation Act 1964 (1964 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][1256]._
+_Amendment(s) incorporated in the [Act(s)][1272]._
 
 ##### Bylaws Act 1910 (1910 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1257]._
+_Amendment(s) incorporated in the [Act(s)][1273]._
 
 ##### Canterbury Museum Trust Board Act 1993 (1993 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1258]._
+_Amendment(s) incorporated in the [Act(s)][1274]._
 
 ##### Carter Observatory Act 1938 (1938 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1259]._
+_Amendment(s) incorporated in the [Act(s)][1275]._
 
 ##### Chatham Islands Council Act 1995 (1995 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][1260]._
+_Amendment(s) incorporated in the [Act(s)][1276]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1261]._
+_Amendment(s) incorporated in the [Act(s)][1277]._
 
 ##### Civil Defence Emergency Management Act 2002 (2002 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][932]._
+_Amendment(s) incorporated in the [Act(s)][941]._
 
 ##### Climate Change Response Act 2002 (2002 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][1262]._
+_Amendment(s) incorporated in the [Act(s)][1278]._
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1263]._
+_Amendment(s) incorporated in the [Act(s)][1279]._
 
 ##### Credit Contracts Act 1981 (1981 No 27)
 
@@ -13846,95 +14178,95 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1264]._
+_Amendment(s) incorporated in the [Act(s)][1280]._
 
 ##### Dog Control Act 1996 (1996 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][1265]._
+_Amendment(s) incorporated in the [Act(s)][1281]._
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][1266]._
+_Amendment(s) incorporated in the [Act(s)][1282]._
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1267]._
+_Amendment(s) incorporated in the [Act(s)][1283]._
 
 ##### Ellesmere Lands Drainage Act 1905 (1905 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][1268]._
+_Amendment(s) incorporated in the [Act(s)][1284]._
 
 ##### Energy Companies Act 1992 (1992 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][1269]._
+_Amendment(s) incorporated in the [Act(s)][1285]._
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][1270]._
+_Amendment(s) incorporated in the [Act(s)][1286]._
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1271]._
+_Amendment(s) incorporated in the [Act(s)][1287]._
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][1272]._
+_Amendment(s) incorporated in the [Act(s)][1288]._
 
 ##### Fencing Act 1978 (1978 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][1273]._
+_Amendment(s) incorporated in the [Act(s)][1289]._
 
 ##### Fencing of Swimming Pools Act 1987 (1987 No 178)
 
-_Amendment(s) incorporated in the [Act(s)][1274]._
+_Amendment(s) incorporated in the [Act(s)][1290]._
 
 ##### Finance Act (No 2) 1941 (1941 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][1275]._
+_Amendment(s) incorporated in the [Act(s)][1291]._
 
 ##### Finance Act (No 2) 1945 (1945 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][1276]._
+_Amendment(s) incorporated in the [Act(s)][1292]._
 
 ##### Finance Act (No 2) 1947 (1947 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][1277]._
+_Amendment(s) incorporated in the [Act(s)][1293]._
 
 ##### Finance Act (No 2) 1948 (1948 No 78)
 
-_Amendment(s) incorporated in the [Act(s)][1278]._
+_Amendment(s) incorporated in the [Act(s)][1294]._
 
 ##### Finance Act 1969 (1969 No 132)
 
-_Amendment(s) incorporated in the [Act(s)][1279]._
+_Amendment(s) incorporated in the [Act(s)][1295]._
 
 ##### Finance Act 1977 (1977 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][1280]._
+_Amendment(s) incorporated in the [Act(s)][1296]._
 
 ##### Finance Act 1978 (1978 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][1281]._
+_Amendment(s) incorporated in the [Act(s)][1297]._
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][1282]._
+_Amendment(s) incorporated in the [Act(s)][1298]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1283]._
+_Amendment(s) incorporated in the [Act(s)][1299]._
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][1284]._
+_Amendment(s) incorporated in the [Act(s)][1300]._
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1285]._
+_Amendment(s) incorporated in the [Act(s)][1301]._
 
 ##### Forestry Encouragement Act 1962 (1962 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][1286]._
+_Amendment(s) incorporated in the [Act(s)][1302]._
 
 ##### Gaming and Lotteries Act 1977 (1977 No 84)
 
@@ -13942,67 +14274,67 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][1287]._
+_Amendment(s) incorporated in the [Act(s)][1303]._
 
 ##### Geographical Indications Act 1994 (1994 No 125)
 
-_Amendment(s) incorporated in the [Act(s)][1288]._
+_Amendment(s) incorporated in the [Act(s)][1304]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][1289]._
+_Amendment(s) incorporated in the [Act(s)][1305]._
 
 ##### Greytown District Trust Lands Act 1979 (1979 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1006]._
+_Amendment(s) incorporated in the [Act(s)][1015]._
 
 ##### Harbour Boards Dry Land Endowment Revesting Act 1991 (1991 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1290]._
+_Amendment(s) incorporated in the [Act(s)][1306]._
 
 ##### Hauraki Gulf Marine Park Act 2000 (2000 No 1)
 
-_Amendment(s) incorporated in the [Act(s)][1291]._
+_Amendment(s) incorporated in the [Act(s)][1307]._
 
 ##### Hawke's Bay Endowment Land Empowering Act 2002 (2002 No 1 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1292]._
+_Amendment(s) incorporated in the [Act(s)][1308]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][1293]._
+_Amendment(s) incorporated in the [Act(s)][1309]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1294]._
+_Amendment(s) incorporated in the [Act(s)][1310]._
 
 ##### Health Research Council Act 1990 (1990 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][1295]._
+_Amendment(s) incorporated in the [Act(s)][1311]._
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][1296]._
+_Amendment(s) incorporated in the [Act(s)][1312]._
 
 ##### Housing Act 1955 (1955 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1297]._
+_Amendment(s) incorporated in the [Act(s)][1313]._
 
 ##### Housing Assets Transfer Act 1993 (1993 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][1298]._
+_Amendment(s) incorporated in the [Act(s)][1314]._
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][1299]._
+_Amendment(s) incorporated in the [Act(s)][1315]._
 
 ##### Howard Estate Act 1978 (1978 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1300]._
+_Amendment(s) incorporated in the [Act(s)][1316]._
 
 ##### Impounding Act 1955 (1955 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][1301]._
+_Amendment(s) incorporated in the [Act(s)][1317]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -14010,71 +14342,71 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][1302]._
+_Amendment(s) incorporated in the [Act(s)][1318]._
 
 ##### Insurance Companies' Deposits Act 1953 (1953 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][1303]._
+_Amendment(s) incorporated in the [Act(s)][1319]._
 
 ##### Joint Family Homes Act 1964 (1964 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][1304]._
+_Amendment(s) incorporated in the [Act(s)][1320]._
 
 ##### Land Act 1948 (1948 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][1305]._
+_Amendment(s) incorporated in the [Act(s)][1321]._
 
 ##### Land Drainage Act 1908 (1908 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][1306]._
+_Amendment(s) incorporated in the [Act(s)][1322]._
 
 ##### Land Drainage Amendment Act 1920 (1920 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][1307]._
+_Amendment(s) incorporated in the [Act(s)][1323]._
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1308]._
+_Amendment(s) incorporated in the [Act(s)][1324]._
 
 ##### Land Transfer Amendment Act 1963 (1963 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][1309]._
+_Amendment(s) incorporated in the [Act(s)][1325]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][1310]._
+_Amendment(s) incorporated in the [Act(s)][1326]._
 
 ##### Life Insurance Act 1908 (1908 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][1311]._
+_Amendment(s) incorporated in the [Act(s)][1327]._
 
 ##### Litter Act 1979 (1979 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][1312]._
+_Amendment(s) incorporated in the [Act(s)][1328]._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147)
 
-_Amendment(s) incorporated in the [Act(s)][1313]._
+_Amendment(s) incorporated in the [Act(s)][1329]._
 
 ##### Local Electoral Act 2001 (2001 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1314]._
+_Amendment(s) incorporated in the [Act(s)][1330]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][1315]._
+_Amendment(s) incorporated in the [Act(s)][1331]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][1316]._
+_Amendment(s) incorporated in the [Act(s)][1332]._
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1317]._
+_Amendment(s) incorporated in the [Act(s)][1333]._
 
 ##### Machinery Act 1950 (1950 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][1318]._
+_Amendment(s) incorporated in the [Act(s)][1334]._
 
 ##### Marine Farming Act 1971 (1971 No 29)
 
@@ -14082,15 +14414,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][1319]._
+_Amendment(s) incorporated in the [Act(s)][1335]._
 
 ##### Marine Reserves Act 1971 (1971 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][1320]._
+_Amendment(s) incorporated in the [Act(s)][1336]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1321]._
+_Amendment(s) incorporated in the [Act(s)][1337]._
 
 ##### Masterton Trust Lands Act 1966 (1966 No 27 (L))
 
@@ -14098,83 +14430,83 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Mining Tenures Registration Act 1962 (1962 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][1322]._
+_Amendment(s) incorporated in the [Act(s)][1338]._
 
 ##### Municipal Insurance Act 1960 (1960 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][1323]._
+_Amendment(s) incorporated in the [Act(s)][1339]._
 
 ##### Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][1324]._
+_Amendment(s) incorporated in the [Act(s)][1340]._
 
 ##### Mutual Insurance Act 1955 (1955 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1325]._
+_Amendment(s) incorporated in the [Act(s)][1341]._
 
 ##### Napier Borough Endowments Act 1876 (1876 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][1326]._
+_Amendment(s) incorporated in the [Act(s)][1342]._
 
 ##### National Parks Act 1980 (1980 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][1327]._
+_Amendment(s) incorporated in the [Act(s)][1343]._
 
 ##### National Provident Fund Restructuring Act 1990 (1990 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][1328]._
+_Amendment(s) incorporated in the [Act(s)][1344]._
 
 ##### New Zealand Film Commission Act 1978 (1978 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][1329]._
+_Amendment(s) incorporated in the [Act(s)][1345]._
 
 ##### New Zealand Geographic Board Act 1946 (1946 No 3)
 
-_Amendment(s) incorporated in the [Act(s)][1330]._
+_Amendment(s) incorporated in the [Act(s)][1346]._
 
 ##### New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1331]._
+_Amendment(s) incorporated in the [Act(s)][1347]._
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][1332]._
+_Amendment(s) incorporated in the [Act(s)][1348]._
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][1333]._
+_Amendment(s) incorporated in the [Act(s)][1349]._
 
 ##### New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][1334]._
+_Amendment(s) incorporated in the [Act(s)][1350]._
 
 ##### New Zealand Walkways Act 1990 (1990 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][1335]._
+_Amendment(s) incorporated in the [Act(s)][1351]._
 
 ##### Ngarimu VC and 28th (Maori) Battalion Memorial Scholarship Fund Act 1945 (1945 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][1336]._
+_Amendment(s) incorporated in the [Act(s)][1352]._
 
 ##### Oaths and Declarations Act 1957 (1957 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][1337]._
+_Amendment(s) incorporated in the [Act(s)][1353]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1338]._
+_Amendment(s) incorporated in the [Act(s)][1354]._
 
 ##### Otago Museum Trust Board Act 1996 (1996 No 1 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1339]._
+_Amendment(s) incorporated in the [Act(s)][1355]._
 
 ##### Pacific Islands Polynesian Education Foundation Act 1972 (1972 No 138)
 
-_Amendment(s) incorporated in the [Act(s)][1340]._
+_Amendment(s) incorporated in the [Act(s)][1356]._
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][1341]._
+_Amendment(s) incorporated in the [Act(s)][1357]._
 
 ##### Pawnbrokers Act 1908 (1908 No 141)
 
@@ -14182,51 +14514,51 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Personal Property Securities Act 1999 (1999 No 126)
 
-_Amendment(s) incorporated in the [Act(s)][967]._
+_Amendment(s) incorporated in the [Act(s)][976]._
 
 ##### Petroleum Demand Restraint Act 1981 (1981 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][1342]._
+_Amendment(s) incorporated in the [Act(s)][1358]._
 
 ##### Plumbers, Gasfitters, and Drainlayers Act 1976 (1976 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][1343]._
+_Amendment(s) incorporated in the [Act(s)][1359]._
 
 ##### Port Companies Act 1988 (1988 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][1344]._
+_Amendment(s) incorporated in the [Act(s)][1360]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1345]._
+_Amendment(s) incorporated in the [Act(s)][1361]._
 
 ##### Property Law Act 1952 (1952 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1346]._
+_Amendment(s) incorporated in the [Act(s)][1362]._
 
 ##### Protected Disclosures Act 2000 (2000 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][1347]._
+_Amendment(s) incorporated in the [Act(s)][1363]._
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][664]._
+_Amendment(s) incorporated in the [Act(s)][672]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][1348]._
+_Amendment(s) incorporated in the [Act(s)][1364]._
 
 ##### Public Bodies Leases Act 1969 (1969 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][1349]._
+_Amendment(s) incorporated in the [Act(s)][1365]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1350]._
+_Amendment(s) incorporated in the [Act(s)][1366]._
 
 ##### Public Trust Act 2001 (2001 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][1351]._
+_Amendment(s) incorporated in the [Act(s)][1367]._
 
 ##### Public Works Act 1928 (1928 No 21)
 
@@ -14234,148 +14566,148 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1352]._
+_Amendment(s) incorporated in the [Act(s)][1368]._
 
 ##### Queen Elizabeth the Second National Trust Act 1977 (1977 No 102)
 
-_Amendment(s) incorporated in the [Act(s)][1353]._
+_Amendment(s) incorporated in the [Act(s)][1369]._
 
 ##### Rates Rebate Act 1973 (1973 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][1354]._
+_Amendment(s) incorporated in the [Act(s)][1370]._
 
 ##### Rating Valuations Act 1998 (1998 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][1355]._
+_Amendment(s) incorporated in the [Act(s)][1371]._
 
 ##### Receiverships Act 1993 (1993 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1356]._
+_Amendment(s) incorporated in the [Act(s)][1372]._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][757]._
+_Amendment(s) incorporated in the [Act(s)][765]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][544]._
+_Amendment(s) incorporated in the [Act(s)][552]._
 
 ##### River Boards Act 1908 (1908 No 165)
 
-_Amendment(s) incorporated in the [Act(s)][1357]._
+_Amendment(s) incorporated in the [Act(s)][1373]._
 
 ##### River Boards Amendment Act 1910 (1910 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1358]._
+_Amendment(s) incorporated in the [Act(s)][1374]._
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][1359]._
+_Amendment(s) incorporated in the [Act(s)][1375]._
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][541]._
+_Amendment(s) incorporated in the [Act(s)][549]._
 
 ##### Securities Transfer Act 1991 (1991 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][1360]._
+_Amendment(s) incorporated in the [Act(s)][1376]._
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][1361]._
+_Amendment(s) incorporated in the [Act(s)][1377]._
 
 ##### Soil Conservation and Rivers Control Act 1941 (1941 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][1362]._
+_Amendment(s) incorporated in the [Act(s)][1378]._
 
 ##### Sports, Fitness, and Leisure Act 1987 (1987 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][1363]._
+_Amendment(s) incorporated in the [Act(s)][1379]._
 
 ##### State-Owned Enterprises Act 1986 (1986 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][1364]._
+_Amendment(s) incorporated in the [Act(s)][1380]._
 
 ##### Statistics Act 1975 (1975 No 1)
 
-_Amendment(s) incorporated in the [Act(s)][1365]._
+_Amendment(s) incorporated in the [Act(s)][1381]._
 
 ##### Taupiri Drainage and River District Act 1929 (1929 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1366]._
+_Amendment(s) incorporated in the [Act(s)][1382]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][1367]._
+_Amendment(s) incorporated in the [Act(s)][1383]._
 
 ##### Telecommunications Act 2001 (2001 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][1368]._
+_Amendment(s) incorporated in the [Act(s)][1384]._
 
 ##### Transit New Zealand Act 1989 (1989 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][1369]._
+_Amendment(s) incorporated in the [Act(s)][1385]._
 
 ##### Transport Act 1962 (1962 No 135)
 
-_Amendment(s) incorporated in the [Act(s)][1370]._
+_Amendment(s) incorporated in the [Act(s)][1386]._
 
 ##### Transport Services Licensing Act 1989 (1989 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][1371]._
+_Amendment(s) incorporated in the [Act(s)][1387]._
 
 ##### Unit Titles Act 1972 (1972 No 15)
 
-_Amendment(s) incorporated in the [Act(s)][1372]._
+_Amendment(s) incorporated in the [Act(s)][1388]._
 
 ##### Unit Titles Amendment Act 1979 (1979 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][1373]._
+_Amendment(s) incorporated in the [Act(s)][1389]._
 
 ##### Wages Protection Act 1983 (1983 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][1374]._
+_Amendment(s) incorporated in the [Act(s)][1390]._
 
 ##### Wellington Airport Act 1990 (1990 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][1375]._
+_Amendment(s) incorporated in the [Act(s)][1391]._
 
 ##### Wild Animal Control Act 1977 (1977 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][1376]._
+_Amendment(s) incorporated in the [Act(s)][1392]._
 
 ##### Wildlife Act 1953 (1953 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][1377]._
+_Amendment(s) incorporated in the [Act(s)][1393]._
 
 ##### Winston Churchill Memorial Trust Act 1965 (1965 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][1378]._
+_Amendment(s) incorporated in the [Act(s)][1394]._
 
 ---
 
 ## Schedule 17  
 New Schedule of Receiverships Act 1993
 
-[s 265][463]
+[s 265][470]
 
 > ## Schedule 1  
 > Modifications and exceptions that apply in relation to receivers of assets of local authorities
 > 
-> [s 40C(2)][1379]
+> [s 40C(2)][1395]
 > 
-> _Amendment(s) incorporated in the [Act(s)][1380]._
+> _Amendment(s) incorporated in the [Act(s)][1396]._
 
 ---
 
 ## Schedule 18  
 Enactments repealed
 
-[s 266][464]
+[s 266][471]
 
 ##### Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][1381]._
+_Amendment(s) incorporated in the [Act(s)][1397]._
 
 ##### Auckland Centennial Memorial Park Act 1941 (1941 No 7 (L))
 
@@ -14443,11 +14775,11 @@ _Amendment(s) incorporated in the [Act(s)][1381]._
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][1382]._
+_Amendment(s) incorporated in the [Act(s)][1398]._
 
 ##### Biosecurity Amendment Act 1997 (1997 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][1383]._
+_Amendment(s) incorporated in the [Act(s)][1399]._
 
 ##### Borough of Onehunga Water-Supply Act 1898 (1898 No 10 (L))
 
@@ -14457,7 +14789,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Chatham Islands Council Act 1995 (1995 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][1384]._
+_Amendment(s) incorporated in the [Act(s)][1400]._
 
 ##### City of Christchurch Drainage Debentures Act 1874 (1874 No 43)
 
@@ -14473,17 +14805,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][1385]._
+_Amendment(s) incorporated in the [Act(s)][1401]._
 
 ##### Conservation Law Reform Act 1990 (1990 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][1386]._
+_Amendment(s) incorporated in the [Act(s)][1402]._
 
 ##### Counties Act Amendment Act 1888 (1888 No 11)
 
 ##### Counties Insurance Empowering Act 1941 (1941 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1387]._
+_Amendment(s) incorporated in the [Act(s)][1403]._
 
 ##### Counties Insurance Empowering Amendment Act 1980 (1980 No 108)
 
@@ -14495,11 +14827,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### District Courts Amendment Act 1998 (1998 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][1388]._
+_Amendment(s) incorporated in the [Act(s)][1404]._
 
 ##### Dog Control Act 1996 (1996 No 13)
 
-_Amendment(s) incorporated in the [Act(s)][1389]._
+_Amendment(s) incorporated in the [Act(s)][1405]._
 
 ##### Dunedin Corporation Borrowing Powers Extension and Debentures Act 1875 (1875 No 58)
 
@@ -14507,17 +14839,17 @@ _Amendment(s) incorporated in the [Act(s)][1389]._
 
 ##### Energy Companies Act 1992 (1992 No 56)
 
-_Amendment(s) incorporated in the [Act(s)][1390]._
+_Amendment(s) incorporated in the [Act(s)][1406]._
 
 ##### Energy Companies Amendment Act 1992 (1992 No 123)
 
-_Amendment(s) incorporated in the [Act(s)][1391]._
+_Amendment(s) incorporated in the [Act(s)][1407]._
 
 ##### Epuni Leases Surrender Act 1905 (1905 No 51)
 
 ##### Finance Act 1964 (1964 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1392]._
+_Amendment(s) incorporated in the [Act(s)][1408]._
 
 ##### Financial Reporting Amendment Act 1996 (1996 No 86)
 
@@ -14525,33 +14857,33 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fire Service Amendment Act 1986 (1986 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][1393]._
+_Amendment(s) incorporated in the [Act(s)][1409]._
 
 ##### Forest and Rural Fires Amendment Act 1990 (1990 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][1394]._
+_Amendment(s) incorporated in the [Act(s)][1410]._
 
 ##### Grey Lynn Domain Vesting Act 1909 (1909 No 36 (L))
 
 ##### Health Amendment Act 1993 (1993 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1395]._
+_Amendment(s) incorporated in the [Act(s)][1411]._
 
 ##### Health Sector (Transfers) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1396]._
+_Amendment(s) incorporated in the [Act(s)][1412]._
 
 ##### Higher Salaries Commission Amendment Act 1989 (1989 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1397]._
+_Amendment(s) incorporated in the [Act(s)][1413]._
 
 ##### Housing Corporation Amendment Act 2001 (2001 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][1398]._
+_Amendment(s) incorporated in the [Act(s)][1414]._
 
 ##### Hutt Road Act 1939 (1939 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][1399]._
+_Amendment(s) incorporated in the [Act(s)][1415]._
 
 ##### Impounding Amendment Act 1980 (1980 No 59)
 
@@ -14565,7 +14897,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][1400]._
+_Amendment(s) incorporated in the [Act(s)][1416]._
 
 ##### Kawhia and Awakino Counties Act 1903 (1903 No 90)
 
@@ -14573,11 +14905,11 @@ _Amendment(s) incorporated in the [Act(s)][1400]._
 
 ##### Land Drainage Amendment Act 1922 (1922 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][1401]._
+_Amendment(s) incorporated in the [Act(s)][1417]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][1402]._
+_Amendment(s) incorporated in the [Act(s)][1418]._
 
 ##### Local Authorities Empowering Act 1915 (1915 No 10)
 
@@ -14591,7 +14923,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act (No 3) 1977 (1977 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1403]._
+_Amendment(s) incorporated in the [Act(s)][1419]._
 
 ##### Local Government Amendment Act 1978 (1978 No 43)
 
@@ -14599,11 +14931,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][1404]._
+_Amendment(s) incorporated in the [Act(s)][1420]._
 
 ##### Local Government Amendment Act 1980 (1980 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][1405]._
+_Amendment(s) incorporated in the [Act(s)][1421]._
 
 ##### Local Government Amendment Act 1981 (1981 No 13)
 
@@ -14629,11 +14961,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act 1986 (1986 No 21)
 
-_Amendment(s) incorporated in the [Act(s)][1406]._
+_Amendment(s) incorporated in the [Act(s)][1422]._
 
 ##### Local Government Amendment Act (No 3) 1986 (1986 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][1407]._
+_Amendment(s) incorporated in the [Act(s)][1423]._
 
 ##### Local Government Amendment Act 1987 (1987 No 149)
 
@@ -14645,7 +14977,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act (No 2) 1989 (1989 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][1408]._
+_Amendment(s) incorporated in the [Act(s)][1424]._
 
 ##### Local Government Amendment Act (No 4) 1989 (1989 No 76)
 
@@ -14653,11 +14985,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act 1991 (1991 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][1409]._
+_Amendment(s) incorporated in the [Act(s)][1425]._
 
 ##### Local Government Amendment Act 1992 (1992 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1410]._
+_Amendment(s) incorporated in the [Act(s)][1426]._
 
 ##### Local Government Amendment Act (No 2) 1992 (1992 No 71)
 
@@ -14665,21 +14997,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Amendment Act 1994 (1994 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][1411]._
+_Amendment(s) incorporated in the [Act(s)][1427]._
 
 ##### Local Government Amendment Act 1995 (1995 No 25)
 
 ##### Local Government Amendment Act (No 2) 1995 (1995 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][1412]._
+_Amendment(s) incorporated in the [Act(s)][1428]._
 
 ##### Local Government Amendment Act (No 3) 1996 (1996 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][1413]._
+_Amendment(s) incorporated in the [Act(s)][1429]._
 
 ##### Local Government Amendment Act (No 4) 1996 (1996 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][1414]._
+_Amendment(s) incorporated in the [Act(s)][1430]._
 
 ##### Local Government Amendment Act (No 5) 1996 (1996 No 96)
 
@@ -14689,33 +15021,33 @@ _Amendment(s) incorporated in the [Act(s)][1414]._
 
 ##### Local Government Amendment Act 1998 (1998 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][1415]._
+_Amendment(s) incorporated in the [Act(s)][1431]._
 
 ##### Local Government Amendment Act 1999 (1999 No 11)
 
 ##### Local Government Amendment Act (No 2) 1999 (1999 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1416]._
+_Amendment(s) incorporated in the [Act(s)][1432]._
 
 ##### Local Government Amendment Act (No 4) 1999 (1999 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][1417]._
+_Amendment(s) incorporated in the [Act(s)][1433]._
 
 ##### Local Government Amendment Act (No 5) 1999 (1999 No 125)
 
-_Amendment(s) incorporated in the [Act(s)][1418]._
+_Amendment(s) incorporated in the [Act(s)][1434]._
 
 ##### Local Government (Elected Member Remuneration and Trading Enterprises) Amendment Act 2001 (2001 No 98)
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][1419]._
+_Amendment(s) incorporated in the [Act(s)][1435]._
 
 ##### Local Government Official Information and Meetings Amendment Act 1989 (1989 No 39)
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][1420]._
+_Amendment(s) incorporated in the [Act(s)][1436]._
 
 ##### Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27)
 
@@ -14729,15 +15061,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Legislation Act 1927 (1927 No 58)
 
-_Amendment(s) incorporated in the [Act(s)][1421]._
+_Amendment(s) incorporated in the [Act(s)][1437]._
 
 ##### Local Legislation Act 1930 (1930 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][1422]._
+_Amendment(s) incorporated in the [Act(s)][1438]._
 
 ##### Local Legislation Act 1968 (1968 No 131)
 
-_Amendment(s) incorporated in the [Act(s)][1423]._
+_Amendment(s) incorporated in the [Act(s)][1439]._
 
 ##### Manawatu Gorge Road and Bridge Act 1919 (1919 No 10)
 
@@ -14745,7 +15077,7 @@ _Amendment(s) incorporated in the [Act(s)][1423]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1424]._
+_Amendment(s) incorporated in the [Act(s)][1440]._
 
 ##### Municipal Insurance Amendment Act 1981 (1981 No 80)
 
@@ -14759,11 +15091,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][1425]._
+_Amendment(s) incorporated in the [Act(s)][1441]._
 
 ##### New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105)
 
-_Amendment(s) incorporated in the [Act(s)][1334]._
+_Amendment(s) incorporated in the [Act(s)][1350]._
 
 ##### North Shore Boroughs (Auckland) Water-Supply Act 1941 (1941 No 1)
 
@@ -14797,7 +15129,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Otago Harbour Board Vesting, Reclamation, and Empowering Act 1981 (1981 No 9 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1426]._
+_Amendment(s) incorporated in the [Act(s)][1442]._
 
 ##### Port Companies Amendment Act 1990 (1990 No 120)
 
@@ -14805,21 +15137,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][1427]._
+_Amendment(s) incorporated in the [Act(s)][1443]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][1428]._
+_Amendment(s) incorporated in the [Act(s)][1444]._
 
 ##### Public Bodies Contracts Amendment Act 1976 (1976 No 115)
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1429]._
+_Amendment(s) incorporated in the [Act(s)][1445]._
 
 ##### Public Trust Act 2001 (2001 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][1430]._
+_Amendment(s) incorporated in the [Act(s)][1446]._
 
 ##### Public Works Amendment Act (No 2) 1987 (1987 No 67)
 
@@ -14837,7 +15169,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Rating Valuations Act 1998 (1998 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][1431]._
+_Amendment(s) incorporated in the [Act(s)][1447]._
 
 ##### Reserves Amendment Act 1979 (1979 No 63)
 
@@ -14845,31 +15177,31 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1922 (1922 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][1432]._
+_Amendment(s) incorporated in the [Act(s)][1448]._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1925 (1925 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][1433]._
+_Amendment(s) incorporated in the [Act(s)][1449]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][1434]._
+_Amendment(s) incorporated in the [Act(s)][1450]._
 
 ##### Resource Management Amendment Act 1993 (1993 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1435]._
+_Amendment(s) incorporated in the [Act(s)][1451]._
 
 ##### Resource Management Amendment Act 1997 (1997 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1436]._
+_Amendment(s) incorporated in the [Act(s)][1452]._
 
 ##### River Boards Amendment Act 1913 (1913 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1437]._
+_Amendment(s) incorporated in the [Act(s)][1453]._
 
 ##### Rotorua Borough Act 1922 (1922 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1438]._
+_Amendment(s) incorporated in the [Act(s)][1454]._
 
 ##### Rural Fires Amendment Act 1990 (1990 No 137)
 
@@ -14879,17 +15211,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][1439]._
+_Amendment(s) incorporated in the [Act(s)][1455]._
 
 ##### Statutes Amendment Act 1940 (1940 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][1440]._
+_Amendment(s) incorporated in the [Act(s)][1456]._
 
 ##### Statutes Amendment Act 1942 (1942 No 18)
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][1441]._
+_Amendment(s) incorporated in the [Act(s)][1457]._
 
 ##### Statutes Amendment Act 1950 (1950 No 91)
 
@@ -14905,17 +15237,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Timaru Harbour Board Act 1876 (1876 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][1442]._
+_Amendment(s) incorporated in the [Act(s)][1458]._
 
 ##### Timaru Municipal Council Waterworks Loan Act 1875 (1875 No 31)
 
 ##### Transit New Zealand Amendment Act 1995 (1995 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1443]._
+_Amendment(s) incorporated in the [Act(s)][1459]._
 
 ##### Transport Act 1962 (1962 No 135)
 
-_Amendment(s) incorporated in the [Act(s)][1444]._
+_Amendment(s) incorporated in the [Act(s)][1460]._
 
 ##### Transport Services Licensing Amendment Act (No 2) 1992 (1992 No 69)
 
@@ -14925,7 +15257,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Trustee Companies Act 1967 (1967 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][1445]._
+_Amendment(s) incorporated in the [Act(s)][1461]._
 
 ##### Waikato and King Country Counties Act 1921--22 (1921 No 64)
 
@@ -14933,24 +15265,24 @@ _Amendment(s) incorporated in the [Act(s)][1445]._
 
 ##### Waimakariri--Ashley Water Supply Act 1961 (1961 No 131)
 
-_Amendment(s) incorporated in the [Act(s)][1446]._
+_Amendment(s) incorporated in the [Act(s)][1462]._
 
 ##### Waitomo County Act 1904 (1904 No 56)
 
 ##### Wanganui Harbour and River Conservators Board Act 1876 (1876 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][1447]._
+_Amendment(s) incorporated in the [Act(s)][1463]._
 
 ##### Wellington Regional Water Board Act 1972 (1972 No 3 (L))
 
-_Amendment(s) incorporated in the [Act(s)][1448]._
+_Amendment(s) incorporated in the [Act(s)][1464]._
 
 ---
 
 ## Schedule 19  
 Local Acts repealed
 
-[s 269][467]
+[s 269][474]
 
 ##### Akaroa and Wainui Road District, Akaroa County, and Wairewa County Alteration of Boundaries Act 1912 (1912 No 8 (L))
 
@@ -16243,7 +16575,7 @@ Local Acts repealed
 ## Schedule 20  
 Orders in Council revoked
 
-[s 272][470]
+[s 272][477]
 
 ##### Bay of Plenty Catchment Commission and Regional Water Board Administrative Expenses Recovery Act Commencement Order 1978 (SR 1978/7)
 
@@ -16269,7 +16601,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Government Act 2002 Amendment Act 2006][1449].
+*   This Act is the [Local Government Act 2002 Amendment Act 2006][1465].
 
 ##### 2 Commencement
     
@@ -16299,7 +16631,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008][1450].
+*   This Act is the [Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008][1466].
 
 ##### 2 Commencement
     
@@ -16328,7 +16660,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Government Act 2002 Amendment Act 2010][1451].
+*   This Act is the [Local Government Act 2002 Amendment Act 2010][1467].
 
 ##### 2 Commencement
     
@@ -16409,7 +16741,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Government Act 2002 Amendment Act 2012][1452].
+*   This Act is the [Local Government Act 2002 Amendment Act 2012][1468].
 
 ##### 2 Commencement
     
@@ -16444,7 +16776,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Government (Alcohol Reform) Amendment Act 2012][1453].
+*   This Act is the [Local Government (Alcohol Reform) Amendment Act 2012][1469].
 
 ##### 2 Commencement
     
@@ -16486,91 +16818,93 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1454] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1455] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1470] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1471] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1456] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1457] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1472] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1473] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][554]
+*   [Local Government Act 2002 Amendment Act 2014][1474] (2014 No 55)
     
-    [Local Government Act 2002 Amendment Act 2013][1458] (2013 No 124)
+    Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 126][562]
     
-    Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][777]
+    [Local Government Act 2002 Amendment Act 2013][1475] (2013 No 124)
     
-    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][557]
+    Maritime Transport Amendment Act 2013 (2013 No 84): [section 90][785]
     
-    [Local Government (Alcohol Reform) Amendment Act 2012][1453] (2012 No 121)
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][565]
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][957]
+    [Local Government (Alcohol Reform) Amendment Act 2012][1469] (2012 No 121)
     
-    [Local Government Act 2002 Amendment Act (No 2) 2012][1459] (2012 No 107)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][966]
     
-    [Local Government Act 2002 Amendment Act 2012][1452] (2012 No 93)
+    [Local Government Act 2002 Amendment Act (No 2) 2012][1476] (2012 No 107)
     
-    Search and Surveillance Act 2012 (2012 No 24): [sections 270][796], [271][797]
+    [Local Government Act 2002 Amendment Act 2012][1468] (2012 No 93)
     
-    Building Amendment Act 2012 (2012 No 23): [section 91][582]
+    Search and Surveillance Act 2012 (2012 No 24): [sections 270][804], [271][805]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][809]
+    Building Amendment Act 2012 (2012 No 23): [section 91][590]
     
-    [Local Government Act 2002 Amendment Act 2010][1451] (2010 No 124)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][817]
     
-    Electricity Industry Act 2010 (2010 No 116): [section 166][562]
+    [Local Government Act 2002 Amendment Act 2010][1467] (2010 No 124)
     
-    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [section 211][1203]
+    Electricity Industry Act 2010 (2010 No 116): [section 166][570]
     
-    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 7][1460]
+    Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109): [section 211][1212]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1), (2)][556]
+    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 7][1477]
     
-    [Local Government Amendment Act 2009][1461] (2009 No 48)
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1), (2)][564]
     
-    Local Government (Auckland Council) Act 2009 (2009 No 32): [section 36][1462]
+    [Local Government Amendment Act 2009][1478] (2009 No 48)
     
-    District Courts Rules 2009 (SR 2009/257): [rule 17.1][870]
+    Local Government (Auckland Council) Act 2009 (2009 No 32): [section 36][1479]
     
-    Waste Minimisation Act 2008 (2008 No 89): [sections 62][743], [63][1463]
+    District Courts Rules 2009 (SR 2009/257): [rule 17.1][879]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][800]
+    Waste Minimisation Act 2008 (2008 No 89): [sections 62][751], [63][1480]
     
-    Affordable Housing: Enabling Territorial Authorities Act 2008 (2008 No 67): [section 38][1464]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][808]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 7][1130]
+    Affordable Housing: Enabling Territorial Authorities Act 2008 (2008 No 67): [section 38][1481]
     
-    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][1465]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 7][1139]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][1003]
+    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][1482]
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][961]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][1012]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][1202]
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][970]
     
-    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [sections 16][829], [17][830]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][1211]
     
-    [Local Government Act 2002 Amendment Act 2007][1466] (2007 No 69)
+    Health (Drinking Water) Amendment Act 2007 (2007 No 92): [sections 16][837], [17][838]
     
-    Evidence Act 2006 (2006 No 69): [section 216][616]
+    [Local Government Act 2002 Amendment Act 2007][1483] (2007 No 69)
     
-    Local Government (Rating) Amendment Act 2006 (2006 No 28): [section 15][552]
+    Evidence Act 2006 (2006 No 69): [section 216][624]
     
-    [Local Government Act 2002 Amendment Act 2006][1449] (2006 No 26)
+    Local Government (Rating) Amendment Act 2006 (2006 No 28): [section 15][560]
     
-    Education Amendment Act 2006 (2006 No 19): [section 8(4)][848]
+    [Local Government Act 2002 Amendment Act 2006][1465] (2006 No 26)
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][739]
+    Education Amendment Act 2006 (2006 No 19): [section 8(4)][857]
     
-    Building Act 2004 (2004 No 72): [section 414][780]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][747]
     
-    [Local Government Act 2002 Amendment Act 2004][1467] (2004 No 63)
+    Building Act 2004 (2004 No 72): [section 414][788]
     
-    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(b)][563]
+    [Local Government Act 2002 Amendment Act 2004][1484] (2004 No 63)
     
-    Local Government (Tauranga City Council) Order 2003 (SR 2003/275): [clause 5][1012]
+    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 48(1)(b)][571]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][906]
+    Local Government (Tauranga City Council) Order 2003 (SR 2003/275): [clause 5][1021]
+    
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][915]
 
 
 
@@ -16872,1173 +17206,1190 @@ Commencementsee section 2
 [295]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173822
 [296]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173823
 [297]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173834
-[298]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173836
-[299]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173837
-[300]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173838
-[301]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173839
-[302]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173840
-[303]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173842
-[304]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173843
-[305]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173844
-[306]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173845
-[307]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173847
-[308]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173848
-[309]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173849
-[310]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173850
-[311]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173852
-[312]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173853
-[313]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173855
-[314]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173856
-[315]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173858
-[316]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173859
-[317]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173887
-[318]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173888
-[319]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173889
-[320]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173890
-[321]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173891
-[322]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173892
-[323]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173893
-[324]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173894
-[325]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173895
-[326]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173896
-[327]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173897
-[328]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173898
-[329]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173899
-[330]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174000
-[331]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174002
-[332]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174003
-[333]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174004
-[334]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174006
-[335]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174008
-[336]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174009
-[337]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174010
-[338]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174011
-[339]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174012
-[340]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174014
-[341]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174015
-[342]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174016
-[343]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174017
-[344]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174018
-[345]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174020
-[346]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174021
-[347]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174022
-[348]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174023
-[349]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174024
-[350]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174025
-[351]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174026
-[352]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174029
-[353]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174030
-[354]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174031
-[355]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174032
-[356]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174033
-[357]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174034
-[358]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174035
-[359]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174036
-[360]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174037
-[361]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174038
-[362]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174041
-[363]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174042
-[364]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM5848234
-[365]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174044
-[366]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174045
-[367]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174046
-[368]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174047
-[369]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174048
-[370]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174049
-[371]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174050
-[372]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174051
-[373]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174056
-[374]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174057
-[375]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM5848270
-[376]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174058
-[377]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174059
-[378]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174060
-[379]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174061
-[380]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174062
-[381]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174063
-[382]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174065
-[383]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174066
-[384]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174067
-[385]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174068
-[386]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174069
-[387]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174070
-[388]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174071
-[389]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174072
-[390]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174073
-[391]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174074
-[392]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174076
-[393]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174077
-[394]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174078
-[395]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926103
-[396]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4931230
-[397]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925965
-[398]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925966
-[399]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925967
-[400]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925968
-[401]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925969
-[402]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925970
-[403]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925971
-[404]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925972
-[405]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925973
-[406]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925974
-[407]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925975
-[408]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925976
-[409]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925977
-[410]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925978
-[411]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925979
-[412]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925980
-[413]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925981
-[414]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925983
-[415]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925984
-[416]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925985
-[417]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925986
-[418]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925987
-[419]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925988
-[420]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925989
-[421]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925990
-[422]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925991
-[423]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925992
-[424]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925993
-[425]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925994
-[426]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925995
-[427]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925997
-[428]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925998
-[429]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925999
-[430]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926100
-[431]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926102
-[432]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174082
-[433]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415400
-[434]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174083
-[435]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415408
-[436]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415409
-[437]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926335
-[438]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926336
-[439]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926337
-[440]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926338
-[441]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926339
-[442]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926340
-[443]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926341
-[444]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926342
-[445]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415415
-[446]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174084
-[447]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174085
-[448]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415418
-[449]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415419
-[450]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415420
-[451]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415421
-[452]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415422
-[453]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415423
-[454]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415424
-[455]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415425
-[456]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415426
-[457]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415428
-[458]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174086
-[459]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174087
-[460]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174088
-[461]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174089
-[462]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174090
-[463]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174091
-[464]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174092
-[465]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174093
-[466]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174094
-[467]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174095
-[468]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174096
-[469]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174097
-[470]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174098
-[471]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174099
-[472]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174200
-[473]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174201
-[474]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174202
-[475]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174203
-[476]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174204
-[477]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174205
-[478]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174206
-[479]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174208
-[480]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174209
-[481]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174210
-[482]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174211
-[483]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174212
-[484]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174213
-[485]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174214
-[486]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174215
-[487]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174216
-[488]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174217
-[489]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174218
-[490]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174220
-[491]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174221
-[492]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174222
-[493]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174223
-[494]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174225
-[495]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174226
-[496]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174227
-[497]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174228
-[498]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174229
-[499]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174230
-[500]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174231
-[501]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174232
-[502]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174233
-[503]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174235
-[504]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174236
-[505]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174237
-[506]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174238
-[507]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174239
-[508]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174240
-[509]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174241
-[510]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174242
-[511]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174243
-[512]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174244
-[513]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174245
-[514]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174246
-[515]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174247
-[516]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174248
-[517]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174258
-[518]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174270
-[519]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175178
-[520]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175622
-[521]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175632
-[522]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175643
-[523]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176025
-[524]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176035
-[525]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3418900
-[526]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176082
-[527]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176085
-[528]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176090
-[529]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176093
-[530]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176403
-[531]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176451
-[532]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178115
-[533]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178135
-[534]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178629
-[535]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM179973
-[536]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499212
-[537]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM435834
-[538]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926378
-[539]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132004
-[540]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175699
-[541]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM26805
-[542]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632894
-[543]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93300
-[544]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230272
-[545]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174259
-[546]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929936
-[547]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131682
-[548]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM379823
-[549]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174261
-[550]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499213
-[551]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373916
-[552]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374356
-[553]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922414
-[554]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5740665
-[555]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922484
-[556]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3016880
-[557]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4929207
-[558]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM267121
-[559]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319569
-[560]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422515
-[561]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303194
-[562]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2634629
-[563]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM301338
-[564]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373921
-[565]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444655
-[566]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499222
-[567]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499223
-[568]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922424
-[569]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373922
-[570]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499225
-[571]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922426
-[572]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419605
-[573]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900710
-[574]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM232593
-[575]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416606
-[576]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416609
-[577]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416131
-[578]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416135
-[579]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174264
-[580]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306035
-[581]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416481
-[582]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4330820
-[583]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416459
-[584]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499226
-[585]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900711
-[586]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900713
-[587]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927116
-[588]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499228
-[589]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927138
-[590]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927155
-[591]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927156
-[592]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927158
-[593]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927148
-[594]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900719
-[595]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM415531
-[596]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417249
-[597]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900725
-[598]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926398
-[599]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900727
-[600]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499235
-[601]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416631
-[602]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416634
-[603]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416637
-[604]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900729
-[605]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175621
-[606]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499237
-[607]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM446000
-[608]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM129109
-[609]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416640
-[610]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139130
-[611]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139140
-[612]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139150
-[613]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139172
-[614]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425456
-[615]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM393462
-[616]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394552
-[617]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122241
-[618]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373923
-[619]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499239
-[620]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175686
-[621]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417660
-[622]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417664
-[623]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417811
-[624]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417831
-[625]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175672
-[626]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176002
-[627]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175671
-[628]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175691
-[629]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499240
-[630]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176016
-[631]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176017
-[632]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418403
-[633]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418406
-[634]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499242
-[635]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424318
-[636]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424321
-[637]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424324
-[638]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424313
-[639]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175644
-[640]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499243
-[641]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417880
-[642]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900730
-[643]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417910
-[644]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417948
-[645]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176007
-[646]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417951
-[647]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417958
-[648]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176021
-[649]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175668
-[650]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176019
-[651]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422590
-[652]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422676
-[653]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422679
-[654]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176034
-[655]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415449
-[656]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3333202
-[657]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303195
-[658]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373924
-[659]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176030
-[660]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303196
-[661]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422616
-[662]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303197
-[663]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM6041591
-[664]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM88548
-[665]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422627
-[666]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422621
-[667]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319999
-[668]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303198
-[669]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319576
-[670]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303904
-[671]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122284
-[672]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM430983
-[673]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM431685
-[674]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922427
-[675]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499244
-[676]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922428
-[677]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230264
-[678]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303906
-[679]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM123071
-[680]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425273
-[681]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303907
-[682]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900731
-[683]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922429
-[684]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419212
-[685]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922430
-[686]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303909
-[687]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373925
-[688]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922431
-[689]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922432
-[690]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419209
-[691]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303910
-[692]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900732
-[693]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922433
-[694]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419227
-[695]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133114
-[696]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133131
-[697]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922434
-[698]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373927
-[699]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419233
-[700]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419610
-[701]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419240
-[702]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419235
-[703]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419241
-[704]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922435
-[705]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900733
-[706]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419249
-[707]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419250
-[708]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922436
-[709]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418460
-[710]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499245
-[711]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922438
-[712]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922440
-[713]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418505
-[714]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922442
-[715]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418518
-[716]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922443
-[717]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418512
-[718]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922444
-[719]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM234810
-[720]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922445
-[721]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922446
-[722]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922447
-[723]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922448
-[724]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922449
-[725]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922450
-[726]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418562
-[727]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418584
-[728]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418703
-[729]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418587
-[730]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373929
-[731]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327783
-[732]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418595
-[733]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327777
-[734]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327779
-[735]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418700
-[736]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418715
-[737]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162737
-[738]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418736
-[739]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328867
-[740]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM25999
-[741]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160808
-[742]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306699
-[743]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235832
-[744]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922451
-[745]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922452
-[746]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1410277
-[747]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922453
-[748]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93440
-[749]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93948
-[750]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93949
-[751]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922454
-[752]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303911
-[753]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303913
-[754]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922456
-[755]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444304
-[756]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373930
-[757]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444310
-[758]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444632
-[759]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444648
-[760]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373936
-[761]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419734
-[762]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922457
-[763]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422910
-[764]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176981
-[765]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423688
-[766]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM443328
-[767]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3339341
-[768]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925708
-[769]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM305839
-[770]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421373
-[771]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968412
-[772]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422334
-[773]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423864
-[774]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM334659
-[775]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423698
-[776]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373939
-[777]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4698973
-[778]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162576
-[779]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423829
-[780]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM309090
-[781]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM224791
-[782]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM225500
-[783]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373941
-[784]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423858
-[785]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373943
-[786]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373944
-[787]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374803
-[788]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423801
-[789]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424270
-[790]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423873
-[791]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136542
-[792]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136781
-[793]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136770
-[794]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136813
-[795]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136815
-[796]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2137016
-[797]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2137017
-[798]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925719
-[799]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425241
-[800]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1102349
-[801]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303920
-[802]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4355336
-[803]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425087
-[804]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374409
-[805]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314622
-[806]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425245
-[807]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424258
-[808]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421376
-[809]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360714
-[810]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM163137
-[811]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423851
-[812]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45426
-[813]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425083
-[814]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303921
-[815]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425090
-[816]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM442946
-[817]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM443298
-[818]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423522
-[819]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423649
-[820]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423672
-[821]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922458
-[822]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423677
-[823]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423682
-[824]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419852
-[825]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419855
-[826]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419858
-[827]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420842
-[828]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373952
-[829]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM970053
-[830]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM970054
-[831]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421397
-[832]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421402
-[833]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM236787
-[834]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM236206
-[835]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM289881
-[836]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373953
-[837]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900734
-[838]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM308255
-[839]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306054
-[840]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373956
-[841]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176091
-[842]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176092
-[843]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM182062
-[844]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM258231
-[845]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM179552
-[846]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444912
-[847]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM292890
-[848]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM372909
-[849]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM239857
-[850]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240659
-[851]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419973
-[852]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240368
-[853]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240374
-[854]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM237221
-[855]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306852
-[856]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM204851
-[857]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235211
-[858]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235272
-[859]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306388
-[860]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM436106
-[861]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327394
-[862]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM72621
-[863]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM72627
-[864]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424080
-[865]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300576
-[866]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM242775
-[867]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300100
-[868]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424211
-[869]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424245
-[870]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300894
-[871]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2491205
-[872]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176096
-[873]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424221
-[874]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424224
-[875]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424227
-[876]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM243781
-[877]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424230
-[878]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306376
-[879]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424234
-[880]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21813
-[881]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21806
-[882]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21856
-[883]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424241
-[884]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968413
-[885]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420887
-[886]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420890
-[887]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421143
-[888]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421147
-[889]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421150
-[890]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303923
-[891]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM432647
-[892]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424251
-[893]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922459
-[894]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423646
-[895]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424254
-[896]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373961
-[897]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417205
-[898]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424264
-[899]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175646
-[900]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175647
-[901]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175666
-[902]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417844
-[903]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417847
-[904]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417850
-[905]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418269
-[906]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162942
-[907]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425252
-[908]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175661
-[909]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424267
-[910]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303924
-[911]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925732
-[912]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM311346
-[913]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM311863
-[914]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314087
-[915]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360057
-[916]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360067
-[917]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968415
-[918]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925735
-[919]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3359902
-[920]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424283
-[921]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925746
-[922]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925747
-[923]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424285
-[924]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424293
-[925]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424288
-[926]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131393
-[927]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424299
-[928]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424303
-[929]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424307
-[930]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424310
-[931]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499246
-[932]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM149796
-[933]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176010
-[934]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93441
-[935]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94326
-[936]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94770
-[937]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175650
-[938]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94773
-[939]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122286
-[940]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122287
-[941]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM64784
-[942]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM296638
-[943]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922460
-[944]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922461
-[945]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417168
-[946]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499292
-[947]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922463
-[948]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922464
-[949]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4838012
-[950]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632837
-[951]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632802
-[952]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632930
-[953]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632932
-[954]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2997693
-[955]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998558
-[956]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998573
-[957]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998633
-[958]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5623508
-[959]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922466
-[960]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1065479
-[961]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1065526
-[962]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900770
-[963]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922468
-[964]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3415420
-[965]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2997643
-[966]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425024
-[967]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46208
-[968]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327640
-[969]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM31458
-[970]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422994
-[971]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23547
-[972]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23549
-[973]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922478
-[974]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922479
-[975]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418439
-[976]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421923
-[977]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922480
-[978]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425277
-[979]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303967
-[980]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303927
-[981]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416703
-[982]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416854
-[983]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417217
-[984]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418708
-[985]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM47641
-[986]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373963
-[987]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175695
-[988]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416647
-[989]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416650
-[990]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175185
-[991]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175186
-[992]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419681
-[993]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419685
-[994]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418580
-[995]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418742
-[996]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394841
-[997]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422173
-[998]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM159287
-[999]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394158
-[1000]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394159
-[1001]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423807
-[1002]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM175419
-[1003]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1313622
-[1004]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM175274
-[1005]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417969
-[1006]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM73592
-[1007]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM264952
-[1008]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425094
-[1009]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044934
-[1010]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367665
-[1011]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4990310
-[1012]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM216811
-[1013]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416469
-[1014]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900771
-[1015]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416473
-[1016]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416465
-[1017]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499293
-[1018]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926377
-[1019]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926391
-[1020]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926392
-[1021]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926393
-[1022]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926394
-[1023]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926395
-[1024]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926396
-[1025]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926397
-[1026]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926399
-[1027]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927100
-[1028]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927101
-[1029]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927102
-[1030]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927103
-[1031]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927104
-[1032]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927105
-[1033]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927106
-[1034]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927107
-[1035]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927109
-[1036]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927110
-[1037]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927111
-[1038]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927112
-[1039]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927113
-[1040]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927114
-[1041]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927115
-[1042]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927117
-[1043]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927118
-[1044]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927119
-[1045]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927121
-[1046]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927122
-[1047]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927123
-[1048]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927124
-[1049]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927125
-[1050]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927126
-[1051]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927133
-[1052]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927134
-[1053]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927135
-[1054]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927137
-[1055]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927139
-[1056]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927140
-[1057]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927141
-[1058]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927142
-[1059]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927143
-[1060]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927144
-[1061]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927145
-[1062]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927146
-[1063]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927147
-[1064]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927149
-[1065]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927150
-[1066]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927151
-[1067]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927152
-[1068]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927153
-[1069]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927159
-[1070]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927160
-[1071]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927161
-[1072]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927162
-[1073]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927163
-[1074]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927164
-[1075]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927165
-[1076]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2322315
-[1077]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044938
-[1078]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338683
-[1079]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338690
-[1080]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338696
-[1081]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2322323
-[1082]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94704
-[1083]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175679
-[1084]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM226229
-[1085]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM233822
-[1086]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM149788
-[1087]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175649
-[1088]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM378371
-[1089]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1512300
-[1090]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81034
-[1091]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM99493
-[1092]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419245
-[1093]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175603
-[1094]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416643
-[1095]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425740
-[1096]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175606
-[1097]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175609
-[1098]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175607
-[1099]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175608
-[1100]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175614
-[1101]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175192
-[1102]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139170
-[1103]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416687
-[1104]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175626
-[1105]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416662
-[1106]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175624
-[1107]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175627
-[1108]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175628
-[1109]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175630
-[1110]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175631
-[1111]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416678
-[1112]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416666
-[1113]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416672
-[1114]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416684
-[1115]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416669
-[1116]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416675
-[1117]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416681
-[1118]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417883
-[1119]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417887
-[1120]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417890
-[1121]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417893
-[1122]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303930
-[1123]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417896
-[1124]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900772
-[1125]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417902
-[1126]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417906
-[1127]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM307518
-[1128]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417854
-[1129]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM127009
-[1130]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1404037
-[1131]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM127010
-[1132]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417857
-[1133]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303931
-[1134]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929927
-[1135]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044916
-[1136]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499294
-[1137]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175653
-[1138]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175657
-[1139]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM297038
-[1140]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418116
-[1141]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175654
-[1142]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175655
-[1143]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175656
-[1144]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418272
-[1145]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417834
-[1146]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417837
-[1147]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175681
-[1148]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418207
-[1149]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418214
-[1150]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418225
-[1151]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM390002
-[1152]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328730
-[1153]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328753
-[1154]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328755
-[1155]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM177642
-[1156]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418210
-[1157]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175674
-[1158]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418217
-[1159]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418221
-[1160]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418229
-[1161]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418235
-[1162]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418238
-[1163]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418242
-[1164]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418245
-[1165]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418248
-[1166]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418252
-[1167]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418259
-[1168]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418262
-[1169]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176012
-[1170]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373965
-[1171]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418255
-[1172]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176018
-[1173]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418409
-[1174]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418412
-[1175]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417931
-[1176]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417962
-[1177]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417965
-[1178]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922481
-[1179]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422594
-[1180]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422600
-[1181]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422603
-[1182]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422606
-[1183]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422613
-[1184]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176028
-[1185]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422597
-[1186]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419213
-[1187]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3333207
-[1188]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422638
-[1189]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46055
-[1190]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46068
-[1191]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422641
-[1192]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM271228
-[1193]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM271231
-[1194]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422644
-[1195]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422650
-[1196]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422656
-[1197]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422653
-[1198]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1512414
-[1199]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1514638
-[1200]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1514526
-[1201]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422662
-[1202]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1523176
-[1203]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2546460
-[1204]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922482
-[1205]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419210
-[1206]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419211
-[1207]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419214
-[1208]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419215
-[1209]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419216
-[1210]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419217
-[1211]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419218
-[1212]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419219
-[1213]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419220
-[1214]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419221
-[1215]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419222
-[1216]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419223
-[1217]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419224
-[1218]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419225
-[1219]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419226
-[1220]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419228
-[1221]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419229
-[1222]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419230
-[1223]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419231
-[1224]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419232
-[1225]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419234
-[1226]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419236
-[1227]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419237
-[1228]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419238
-[1229]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM2922826
-[1230]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419242
-[1231]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419243
-[1232]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929940
-[1233]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419244
-[1234]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419246
-[1235]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419247
-[1236]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419248
-[1237]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499299
-[1238]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235822
-[1239]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132221
-[1240]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132227
-[1241]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176084
-[1242]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176095
-[1243]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM232517
-[1244]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424214
-[1245]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176402
-[1246]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424217
-[1247]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499302
-[1248]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM393014
-[1249]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM379829
-[1250]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM49669
-[1251]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM330629
-[1252]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM125621
-[1253]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM205311
-[1254]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314629
-[1255]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM391236
-[1256]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM355084
-[1257]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176987
-[1258]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81384
-[1259]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM224161
-[1260]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367671
-[1261]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM152901
-[1262]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM158592
-[1263]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM104294
-[1264]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM436795
-[1265]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374415
-[1266]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM184664
-[1267]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM281866
-[1268]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM135822
-[1269]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM267128
-[1270]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM98980
-[1271]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM387126
-[1272]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM264958
-[1273]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21842
-[1274]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124447
-[1275]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235134
-[1276]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM239792
-[1277]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM244667
-[1278]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM255606
-[1279]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394052
-[1280]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM445227
-[1281]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM22155
-[1282]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324804
-[1283]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM432653
-[1284]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM48692
-[1285]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM442952
-[1286]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339629
-[1287]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM285420
-[1288]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM344683
-[1289]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81045
-[1290]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM248783
-[1291]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM52567
-[1292]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM86604
-[1293]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM381228
-[1294]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM305845
-[1295]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM213323
-[1296]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM300516
-[1297]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM291045
-[1298]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM302569
-[1299]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM412213
-[1300]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM24555
-[1301]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM293869
-[1302]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM382339
-[1303]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM278726
-[1304]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM353002
-[1305]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM250592
-[1306]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM166811
-[1307]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM192044
-[1308]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM270638
-[1309]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM349460
-[1310]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM433619
-[1311]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM169574
-[1312]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM33087
-[1313]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM390021
-[1314]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93310
-[1315]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422858
-[1316]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122247
-[1317]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132001
-[1318]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM261268
-[1319]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM25199
-[1320]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM398131
-[1321]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM336955
-[1322]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339694
-[1323]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324693
-[1324]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM260258
-[1325]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM288729
-[1326]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131528
-[1327]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM36968
-[1328]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM225569
-[1329]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23031
-[1330]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240110
-[1331]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM349440
-[1332]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM80844
-[1333]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM57011
-[1334]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM222683
-[1335]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM209483
-[1336]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM238756
-[1337]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314584
-[1338]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM431144
-[1339]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM83353
-[1340]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM409269
-[1341]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM247289
-[1342]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM44004
-[1343]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM439144
-[1344]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131688
-[1345]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM298477
-[1346]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM268221
-[1347]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM53471
-[1348]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324224
-[1349]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394847
-[1350]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160819
-[1351]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124034
-[1352]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45433
-[1353]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM9025
-[1354]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM409601
-[1355]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427402
-[1356]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327646
-[1357]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM172777
-[1358]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176950
-[1359]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM165121
-[1360]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM250601
-[1361]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM223954
-[1362]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230370
-[1363]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM101984
-[1364]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM98652
-[1365]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM430711
-[1366]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM207668
-[1367]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM289897
-[1368]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124974
-[1369]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM173374
-[1370]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM341197
-[1371]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM170948
-[1372]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM406048
-[1373]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM32474
-[1374]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM74813
-[1375]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM212334
-[1376]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM16628
-[1377]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM277868
-[1378]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373190
-[1379]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327781
-[1380]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327790
-[1381]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM37546
-[1382]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM317130
-[1383]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416517
-[1384]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM368045
-[1385]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328991
-[1386]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM209464
-[1387]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230360
-[1388]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427921
-[1389]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM375491
-[1390]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM268383
-[1391]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM285408
-[1392]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM350949
-[1393]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM92826
-[1394]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM227859
-[1395]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM295792
-[1396]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM295712
-[1397]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160806
-[1398]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM97027
-[1399]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM226923
-[1400]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230225
-[1401]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM195347
-[1402]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM435692
-[1403]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM18570
-[1404]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM34662
-[1405]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM39440
-[1406]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM92849
-[1407]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93862
-[1408]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM159212
-[1409]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM229848
-[1410]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM261879
-[1411]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM332803
-[1412]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367658
-[1413]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394129
-[1414]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394188
-[1415]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM428820
-[1416]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23535
-[1417]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM42748
-[1418]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45514
-[1419]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM123012
-[1420]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133593
-[1421]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM203691
-[1422]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM208583
-[1423]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM388782
-[1424]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339217
-[1425]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM83147
-[1426]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM75523
-[1427]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM88942
-[1428]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324284
-[1429]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM163182
-[1430]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124535
-[1431]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427730
-[1432]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM196131
-[1433]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM201421
-[1434]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM242024
-[1435]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303759
-[1436]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421791
-[1437]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM180319
-[1438]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM195372
-[1439]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM400679
-[1440]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM229676
-[1441]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM246288
-[1442]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132380
-[1443]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM368506
-[1444]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM344885
-[1445]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM381446
-[1446]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339462
-[1447]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131907
-[1448]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM70940
-[1449]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373909
-[1450]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1404000
-[1451]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922402
-[1452]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499201
-[1453]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925704
-[1454]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998516
-[1455]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998515
-[1456]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998532
-[1457]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1458]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5623500
-[1459]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4990305
-[1460]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2925111
-[1461]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2491200
-[1462]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044958
-[1463]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235834
-[1464]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1076031
-[1465]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1382846
-[1466]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968402
-[1467]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303188
+[298]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235402
+[299]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235403
+[300]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235404
+[301]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235405
+[302]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235406
+[303]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235407
+[304]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235408
+[305]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173836
+[306]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173837
+[307]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173838
+[308]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173839
+[309]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173840
+[310]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173842
+[311]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173843
+[312]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173844
+[313]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173845
+[314]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173847
+[315]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173848
+[316]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173849
+[317]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173850
+[318]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173852
+[319]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173853
+[320]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173855
+[321]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173856
+[322]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173858
+[323]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173859
+[324]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173887
+[325]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173888
+[326]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173889
+[327]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173890
+[328]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173891
+[329]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173892
+[330]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173893
+[331]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173894
+[332]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173895
+[333]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173896
+[334]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173897
+[335]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173898
+[336]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM173899
+[337]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174000
+[338]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174002
+[339]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174003
+[340]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174004
+[341]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174006
+[342]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174008
+[343]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174009
+[344]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174010
+[345]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174011
+[346]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174012
+[347]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174014
+[348]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174015
+[349]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174016
+[350]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174017
+[351]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174018
+[352]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174020
+[353]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174021
+[354]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174022
+[355]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174023
+[356]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174024
+[357]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174025
+[358]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174026
+[359]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174029
+[360]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174030
+[361]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174031
+[362]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174032
+[363]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174033
+[364]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174034
+[365]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174035
+[366]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174036
+[367]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174037
+[368]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174038
+[369]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174041
+[370]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174042
+[371]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM5848234
+[372]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174044
+[373]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174045
+[374]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174046
+[375]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174047
+[376]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174048
+[377]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174049
+[378]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174050
+[379]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174051
+[380]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174056
+[381]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174057
+[382]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM5848270
+[383]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174058
+[384]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174059
+[385]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174060
+[386]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174061
+[387]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174062
+[388]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174063
+[389]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174065
+[390]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174066
+[391]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174067
+[392]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174068
+[393]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174069
+[394]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174070
+[395]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174071
+[396]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174072
+[397]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174073
+[398]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174074
+[399]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174076
+[400]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174077
+[401]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174078
+[402]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926103
+[403]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4931230
+[404]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925965
+[405]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925966
+[406]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925967
+[407]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925968
+[408]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925969
+[409]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925970
+[410]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925971
+[411]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925972
+[412]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925973
+[413]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925974
+[414]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925975
+[415]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925976
+[416]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925977
+[417]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925978
+[418]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925979
+[419]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925980
+[420]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925981
+[421]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925983
+[422]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925984
+[423]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925985
+[424]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925986
+[425]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925987
+[426]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925988
+[427]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925989
+[428]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925990
+[429]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925991
+[430]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925992
+[431]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925993
+[432]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925994
+[433]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925995
+[434]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925997
+[435]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925998
+[436]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4925999
+[437]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926100
+[438]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926102
+[439]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174082
+[440]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415400
+[441]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174083
+[442]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415408
+[443]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415409
+[444]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926335
+[445]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926336
+[446]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926337
+[447]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926338
+[448]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926339
+[449]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926340
+[450]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926341
+[451]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926342
+[452]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415415
+[453]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174084
+[454]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174085
+[455]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415418
+[456]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415419
+[457]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415420
+[458]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415421
+[459]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415422
+[460]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415423
+[461]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415424
+[462]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415425
+[463]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415426
+[464]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415428
+[465]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174086
+[466]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174087
+[467]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174088
+[468]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174089
+[469]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174090
+[470]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174091
+[471]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174092
+[472]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174093
+[473]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174094
+[474]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174095
+[475]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174096
+[476]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174097
+[477]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174098
+[478]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174099
+[479]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174200
+[480]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174201
+[481]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174202
+[482]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174203
+[483]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174204
+[484]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174205
+[485]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174206
+[486]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174208
+[487]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174209
+[488]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174210
+[489]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174211
+[490]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174212
+[491]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174213
+[492]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174214
+[493]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174215
+[494]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174216
+[495]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174217
+[496]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174218
+[497]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174220
+[498]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174221
+[499]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174222
+[500]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174223
+[501]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174225
+[502]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174226
+[503]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174227
+[504]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174228
+[505]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174229
+[506]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174230
+[507]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174231
+[508]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174232
+[509]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174233
+[510]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174235
+[511]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174236
+[512]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174237
+[513]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174238
+[514]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174239
+[515]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174240
+[516]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174241
+[517]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174242
+[518]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174243
+[519]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174244
+[520]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174245
+[521]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174246
+[522]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174247
+[523]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174248
+[524]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174258
+[525]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174270
+[526]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175178
+[527]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175622
+[528]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175632
+[529]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175643
+[530]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176025
+[531]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176035
+[532]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3418900
+[533]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176082
+[534]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176085
+[535]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176090
+[536]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235506
+[537]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176093
+[538]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176403
+[539]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176451
+[540]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178115
+[541]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178135
+[542]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM178629
+[543]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM179973
+[544]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499212
+[545]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM435834
+[546]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926378
+[547]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132004
+[548]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175699
+[549]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM26805
+[550]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632894
+[551]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93300
+[552]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230272
+[553]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174259
+[554]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929936
+[555]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131682
+[556]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM379823
+[557]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174261
+[558]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499213
+[559]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373916
+[560]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374356
+[561]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922414
+[562]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5740665
+[563]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922484
+[564]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3016880
+[565]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4929207
+[566]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM267121
+[567]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319569
+[568]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422515
+[569]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303194
+[570]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2634629
+[571]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM301338
+[572]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373921
+[573]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444655
+[574]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499222
+[575]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499223
+[576]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922424
+[577]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373922
+[578]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499225
+[579]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922426
+[580]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419605
+[581]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900710
+[582]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM232593
+[583]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416606
+[584]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416609
+[585]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416131
+[586]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416135
+[587]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM174264
+[588]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306035
+[589]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416481
+[590]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4330820
+[591]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416459
+[592]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499226
+[593]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900711
+[594]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900713
+[595]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927116
+[596]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499228
+[597]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927138
+[598]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927155
+[599]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927156
+[600]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927158
+[601]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927148
+[602]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900719
+[603]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM415531
+[604]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417249
+[605]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900725
+[606]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926398
+[607]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900727
+[608]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499235
+[609]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416631
+[610]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416634
+[611]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416637
+[612]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900729
+[613]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175621
+[614]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499237
+[615]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM446000
+[616]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM129109
+[617]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416640
+[618]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139130
+[619]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139140
+[620]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139150
+[621]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139172
+[622]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425456
+[623]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM393462
+[624]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394552
+[625]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122241
+[626]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373923
+[627]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499239
+[628]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175686
+[629]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417660
+[630]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417664
+[631]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417811
+[632]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417831
+[633]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175672
+[634]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176002
+[635]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175671
+[636]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175691
+[637]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499240
+[638]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176016
+[639]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176017
+[640]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418403
+[641]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418406
+[642]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499242
+[643]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424318
+[644]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424321
+[645]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424324
+[646]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424313
+[647]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175644
+[648]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499243
+[649]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417880
+[650]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900730
+[651]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417910
+[652]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417948
+[653]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176007
+[654]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417951
+[655]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417958
+[656]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176021
+[657]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175668
+[658]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176019
+[659]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422590
+[660]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422676
+[661]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422679
+[662]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176034
+[663]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3415449
+[664]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3333202
+[665]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303195
+[666]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373924
+[667]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176030
+[668]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303196
+[669]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422616
+[670]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303197
+[671]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM6041591
+[672]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM88548
+[673]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422627
+[674]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422621
+[675]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319999
+[676]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303198
+[677]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM319576
+[678]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303904
+[679]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122284
+[680]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM430983
+[681]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM431685
+[682]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922427
+[683]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499244
+[684]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922428
+[685]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230264
+[686]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303906
+[687]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM123071
+[688]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425273
+[689]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303907
+[690]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900731
+[691]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922429
+[692]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419212
+[693]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922430
+[694]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303909
+[695]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373925
+[696]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922431
+[697]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922432
+[698]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419209
+[699]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303910
+[700]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900732
+[701]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922433
+[702]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419227
+[703]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133114
+[704]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133131
+[705]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922434
+[706]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373927
+[707]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419233
+[708]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419610
+[709]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419240
+[710]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419235
+[711]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419241
+[712]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922435
+[713]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900733
+[714]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419249
+[715]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419250
+[716]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922436
+[717]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418460
+[718]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499245
+[719]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922438
+[720]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922440
+[721]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418505
+[722]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922442
+[723]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418518
+[724]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922443
+[725]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418512
+[726]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922444
+[727]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM234810
+[728]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922445
+[729]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922446
+[730]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922447
+[731]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922448
+[732]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922449
+[733]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922450
+[734]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418562
+[735]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418584
+[736]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418703
+[737]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418587
+[738]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373929
+[739]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327783
+[740]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418595
+[741]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327777
+[742]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327779
+[743]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418700
+[744]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418715
+[745]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162737
+[746]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418736
+[747]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328867
+[748]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM25999
+[749]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160808
+[750]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306699
+[751]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235832
+[752]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922451
+[753]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922452
+[754]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1410277
+[755]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922453
+[756]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93440
+[757]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93948
+[758]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93949
+[759]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922454
+[760]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303911
+[761]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303913
+[762]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922456
+[763]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444304
+[764]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373930
+[765]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444310
+[766]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444632
+[767]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444648
+[768]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373936
+[769]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419734
+[770]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922457
+[771]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422910
+[772]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176981
+[773]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423688
+[774]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM443328
+[775]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3339341
+[776]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925708
+[777]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM305839
+[778]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421373
+[779]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968412
+[780]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422334
+[781]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423864
+[782]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM334659
+[783]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423698
+[784]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373939
+[785]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4698973
+[786]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162576
+[787]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423829
+[788]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM309090
+[789]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM224791
+[790]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM225500
+[791]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373941
+[792]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423858
+[793]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373943
+[794]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373944
+[795]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374803
+[796]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423801
+[797]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424270
+[798]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423873
+[799]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136542
+[800]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136781
+[801]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136770
+[802]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136813
+[803]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2136815
+[804]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2137016
+[805]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2137017
+[806]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925719
+[807]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425241
+[808]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1102349
+[809]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303920
+[810]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4355336
+[811]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425087
+[812]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374409
+[813]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314622
+[814]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425245
+[815]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424258
+[816]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421376
+[817]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360714
+[818]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM163137
+[819]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423851
+[820]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45426
+[821]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425083
+[822]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303921
+[823]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425090
+[824]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM442946
+[825]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM443298
+[826]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423522
+[827]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423649
+[828]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423672
+[829]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922458
+[830]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423677
+[831]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423682
+[832]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419852
+[833]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419855
+[834]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419858
+[835]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420842
+[836]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373952
+[837]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM970053
+[838]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM970054
+[839]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421397
+[840]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421402
+[841]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM236787
+[842]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM236206
+[843]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM289881
+[844]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373953
+[845]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900734
+[846]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM308255
+[847]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306054
+[848]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373956
+[849]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5707266
+[850]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176091
+[851]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176092
+[852]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM182062
+[853]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM258231
+[854]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM179552
+[855]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM444912
+[856]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM292890
+[857]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM372909
+[858]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM239857
+[859]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240659
+[860]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419973
+[861]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240368
+[862]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240374
+[863]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM237221
+[864]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306852
+[865]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM204851
+[866]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235211
+[867]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235272
+[868]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306388
+[869]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM436106
+[870]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327394
+[871]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM72621
+[872]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM72627
+[873]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424080
+[874]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300576
+[875]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM242775
+[876]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300100
+[877]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424211
+[878]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424245
+[879]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2300894
+[880]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2491205
+[881]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176096
+[882]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424221
+[883]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424224
+[884]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424227
+[885]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM243781
+[886]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424230
+[887]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM306376
+[888]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424234
+[889]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21813
+[890]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21806
+[891]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21856
+[892]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424241
+[893]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968413
+[894]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420887
+[895]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM420890
+[896]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421143
+[897]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421147
+[898]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421150
+[899]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303923
+[900]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM432647
+[901]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424251
+[902]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922459
+[903]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423646
+[904]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424254
+[905]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373961
+[906]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417205
+[907]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424264
+[908]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175646
+[909]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175647
+[910]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175666
+[911]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417844
+[912]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417847
+[913]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417850
+[914]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418269
+[915]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM162942
+[916]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425252
+[917]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175661
+[918]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424267
+[919]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303924
+[920]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925732
+[921]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM311346
+[922]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM311863
+[923]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314087
+[924]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360057
+[925]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3360067
+[926]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968415
+[927]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925735
+[928]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3359902
+[929]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424283
+[930]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925746
+[931]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925747
+[932]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424285
+[933]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424293
+[934]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424288
+[935]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131393
+[936]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424299
+[937]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424303
+[938]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424307
+[939]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424310
+[940]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499246
+[941]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM149796
+[942]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176010
+[943]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93441
+[944]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94326
+[945]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94770
+[946]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175650
+[947]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94773
+[948]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122286
+[949]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122287
+[950]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM64784
+[951]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM296638
+[952]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922460
+[953]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922461
+[954]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417168
+[955]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499292
+[956]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922463
+[957]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922464
+[958]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4838012
+[959]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632837
+[960]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632802
+[961]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632930
+[962]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4632932
+[963]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2997693
+[964]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998558
+[965]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998573
+[966]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998633
+[967]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5623508
+[968]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922466
+[969]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1065479
+[970]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1065526
+[971]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900770
+[972]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922468
+[973]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3415420
+[974]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2997643
+[975]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425024
+[976]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46208
+[977]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327640
+[978]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM31458
+[979]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422994
+[980]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23547
+[981]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23549
+[982]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922478
+[983]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922479
+[984]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418439
+[985]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421923
+[986]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922480
+[987]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425277
+[988]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303967
+[989]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303927
+[990]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416703
+[991]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416854
+[992]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417217
+[993]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418708
+[994]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM47641
+[995]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373963
+[996]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175695
+[997]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416647
+[998]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416650
+[999]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175185
+[1000]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175186
+[1001]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419681
+[1002]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419685
+[1003]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418580
+[1004]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418742
+[1005]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394841
+[1006]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422173
+[1007]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM159287
+[1008]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394158
+[1009]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394159
+[1010]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM423807
+[1011]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM175419
+[1012]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1313622
+[1013]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM175274
+[1014]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417969
+[1015]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM73592
+[1016]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM264952
+[1017]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425094
+[1018]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044934
+[1019]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367665
+[1020]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4990310
+[1021]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM216811
+[1022]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416469
+[1023]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900771
+[1024]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416473
+[1025]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416465
+[1026]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499293
+[1027]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926377
+[1028]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926391
+[1029]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926392
+[1030]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926393
+[1031]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926394
+[1032]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926395
+[1033]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926396
+[1034]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926397
+[1035]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4926399
+[1036]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927100
+[1037]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927101
+[1038]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927102
+[1039]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927103
+[1040]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927104
+[1041]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927105
+[1042]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927106
+[1043]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927107
+[1044]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927109
+[1045]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927110
+[1046]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927111
+[1047]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927112
+[1048]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927113
+[1049]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927114
+[1050]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927115
+[1051]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927117
+[1052]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927118
+[1053]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927119
+[1054]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927121
+[1055]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927122
+[1056]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927123
+[1057]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927124
+[1058]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927125
+[1059]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927126
+[1060]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927133
+[1061]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927134
+[1062]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927135
+[1063]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927137
+[1064]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927139
+[1065]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927140
+[1066]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927141
+[1067]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927142
+[1068]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927143
+[1069]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927144
+[1070]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927145
+[1071]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927146
+[1072]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927147
+[1073]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927149
+[1074]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927150
+[1075]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927151
+[1076]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927152
+[1077]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927153
+[1078]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927159
+[1079]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927160
+[1080]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927161
+[1081]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927162
+[1082]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927163
+[1083]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927164
+[1084]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4927165
+[1085]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2322315
+[1086]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044938
+[1087]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338683
+[1088]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338690
+[1089]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3338696
+[1090]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2322323
+[1091]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM94704
+[1092]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175679
+[1093]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM226229
+[1094]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM233822
+[1095]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM149788
+[1096]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175649
+[1097]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM378371
+[1098]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1512300
+[1099]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81034
+[1100]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM99493
+[1101]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM419245
+[1102]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175603
+[1103]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416643
+[1104]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM425740
+[1105]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175606
+[1106]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175609
+[1107]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175607
+[1108]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175608
+[1109]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175614
+[1110]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175192
+[1111]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM139170
+[1112]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416687
+[1113]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175626
+[1114]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416662
+[1115]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175624
+[1116]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175627
+[1117]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175628
+[1118]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175630
+[1119]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175631
+[1120]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416678
+[1121]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416666
+[1122]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416672
+[1123]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416684
+[1124]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416669
+[1125]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416675
+[1126]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416681
+[1127]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417883
+[1128]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417887
+[1129]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417890
+[1130]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417893
+[1131]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303930
+[1132]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417896
+[1133]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4900772
+[1134]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417902
+[1135]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417906
+[1136]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM307518
+[1137]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417854
+[1138]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM127009
+[1139]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1404037
+[1140]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM127010
+[1141]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417857
+[1142]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303931
+[1143]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929927
+[1144]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044916
+[1145]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499294
+[1146]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175653
+[1147]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175657
+[1148]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM297038
+[1149]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418116
+[1150]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175654
+[1151]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175655
+[1152]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175656
+[1153]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418272
+[1154]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417834
+[1155]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417837
+[1156]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175681
+[1157]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418207
+[1158]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418214
+[1159]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418225
+[1160]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM390002
+[1161]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328730
+[1162]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328753
+[1163]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328755
+[1164]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM177642
+[1165]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418210
+[1166]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM175674
+[1167]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418217
+[1168]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418221
+[1169]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418229
+[1170]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418235
+[1171]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418238
+[1172]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418242
+[1173]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418245
+[1174]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418248
+[1175]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418252
+[1176]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418259
+[1177]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418262
+[1178]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176012
+[1179]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373965
+[1180]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418255
+[1181]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176018
+[1182]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418409
+[1183]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM418412
+[1184]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417931
+[1185]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417962
+[1186]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM417965
+[1187]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922481
+[1188]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422594
+[1189]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422600
+[1190]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422603
+[1191]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422606
+[1192]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422613
+[1193]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176028
+[1194]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422597
+[1195]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419213
+[1196]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM3333207
+[1197]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422638
+[1198]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46055
+[1199]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM46068
+[1200]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422641
+[1201]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM271228
+[1202]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM271231
+[1203]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422644
+[1204]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422650
+[1205]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422656
+[1206]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422653
+[1207]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1512414
+[1208]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1514638
+[1209]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1514526
+[1210]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422662
+[1211]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1523176
+[1212]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2546460
+[1213]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922482
+[1214]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419210
+[1215]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419211
+[1216]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419214
+[1217]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419215
+[1218]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419216
+[1219]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419217
+[1220]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419218
+[1221]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419219
+[1222]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419220
+[1223]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419221
+[1224]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419222
+[1225]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419223
+[1226]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419224
+[1227]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419225
+[1228]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419226
+[1229]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419228
+[1230]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419229
+[1231]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419230
+[1232]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419231
+[1233]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419232
+[1234]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419234
+[1235]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419236
+[1236]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419237
+[1237]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419238
+[1238]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM2922826
+[1239]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419242
+[1240]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419243
+[1241]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM4929940
+[1242]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419244
+[1243]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419246
+[1244]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419247
+[1245]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM3419248
+[1246]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499299
+[1247]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235822
+[1248]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132221
+[1249]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132227
+[1250]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176084
+[1251]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5707311
+[1252]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235508
+[1253]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235513
+[1254]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM6235516
+[1255]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1566174
+[1256]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1566113
+[1257]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM393646
+[1258]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176095
+[1259]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM232517
+[1260]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424214
+[1261]: http://www.legislation.govt.nz/act/public/2002/0084/latest/whole.html#DLM176402
+[1262]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM424217
+[1263]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499302
+[1264]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM393014
+[1265]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM379829
+[1266]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM49669
+[1267]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM330629
+[1268]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM125621
+[1269]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM205311
+[1270]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314629
+[1271]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM391236
+[1272]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM355084
+[1273]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176987
+[1274]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81384
+[1275]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM224161
+[1276]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367671
+[1277]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM152901
+[1278]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM158592
+[1279]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM104294
+[1280]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM436795
+[1281]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM374415
+[1282]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM184664
+[1283]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM281866
+[1284]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM135822
+[1285]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM267128
+[1286]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM98980
+[1287]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM387126
+[1288]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM264958
+[1289]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM21842
+[1290]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124447
+[1291]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM235134
+[1292]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM239792
+[1293]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM244667
+[1294]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM255606
+[1295]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394052
+[1296]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM445227
+[1297]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM22155
+[1298]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324804
+[1299]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM432653
+[1300]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM48692
+[1301]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM442952
+[1302]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339629
+[1303]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM285420
+[1304]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM344683
+[1305]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM81045
+[1306]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM248783
+[1307]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM52567
+[1308]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM86604
+[1309]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM381228
+[1310]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM305845
+[1311]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM213323
+[1312]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM300516
+[1313]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM291045
+[1314]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM302569
+[1315]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM412213
+[1316]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM24555
+[1317]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM293869
+[1318]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM382339
+[1319]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM278726
+[1320]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM353002
+[1321]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM250592
+[1322]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM166811
+[1323]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM192044
+[1324]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM270638
+[1325]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM349460
+[1326]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM433619
+[1327]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM169574
+[1328]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM33087
+[1329]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM390021
+[1330]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93310
+[1331]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM422858
+[1332]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM122247
+[1333]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132001
+[1334]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM261268
+[1335]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM25199
+[1336]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM398131
+[1337]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM336955
+[1338]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339694
+[1339]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324693
+[1340]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM260258
+[1341]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM288729
+[1342]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131528
+[1343]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM36968
+[1344]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM225569
+[1345]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23031
+[1346]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM240110
+[1347]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM349440
+[1348]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM80844
+[1349]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM57011
+[1350]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM222683
+[1351]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM209483
+[1352]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM238756
+[1353]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM314584
+[1354]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM431144
+[1355]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM83353
+[1356]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM409269
+[1357]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM247289
+[1358]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM44004
+[1359]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM439144
+[1360]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131688
+[1361]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM298477
+[1362]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM268221
+[1363]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM53471
+[1364]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324224
+[1365]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394847
+[1366]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160819
+[1367]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124034
+[1368]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45433
+[1369]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM9025
+[1370]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM409601
+[1371]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427402
+[1372]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327646
+[1373]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM172777
+[1374]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM176950
+[1375]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM165121
+[1376]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM250601
+[1377]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM223954
+[1378]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230370
+[1379]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM101984
+[1380]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM98652
+[1381]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM430711
+[1382]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM207668
+[1383]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM289897
+[1384]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124974
+[1385]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM173374
+[1386]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM341197
+[1387]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM170948
+[1388]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM406048
+[1389]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM32474
+[1390]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM74813
+[1391]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM212334
+[1392]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM16628
+[1393]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM277868
+[1394]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373190
+[1395]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327781
+[1396]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM327790
+[1397]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM37546
+[1398]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM317130
+[1399]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM416517
+[1400]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM368045
+[1401]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM328991
+[1402]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM209464
+[1403]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230360
+[1404]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427921
+[1405]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM375491
+[1406]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM268383
+[1407]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM285408
+[1408]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM350949
+[1409]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM92826
+[1410]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM227859
+[1411]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM295792
+[1412]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM295712
+[1413]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM160806
+[1414]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM97027
+[1415]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM226923
+[1416]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM230225
+[1417]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM195347
+[1418]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM435692
+[1419]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM18570
+[1420]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM34662
+[1421]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM39440
+[1422]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM92849
+[1423]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM93862
+[1424]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM159212
+[1425]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM229848
+[1426]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM261879
+[1427]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM332803
+[1428]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM367658
+[1429]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394129
+[1430]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM394188
+[1431]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM428820
+[1432]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM23535
+[1433]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM42748
+[1434]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM45514
+[1435]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM123012
+[1436]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM133593
+[1437]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM203691
+[1438]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM208583
+[1439]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM388782
+[1440]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339217
+[1441]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM83147
+[1442]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM75523
+[1443]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM88942
+[1444]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM324284
+[1445]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM163182
+[1446]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM124535
+[1447]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM427730
+[1448]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM196131
+[1449]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM201421
+[1450]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM242024
+[1451]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303759
+[1452]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM421791
+[1453]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM180319
+[1454]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM195372
+[1455]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM400679
+[1456]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM229676
+[1457]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM246288
+[1458]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM132380
+[1459]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM368506
+[1460]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM344885
+[1461]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM381446
+[1462]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM339462
+[1463]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM131907
+[1464]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM70940
+[1465]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM373909
+[1466]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1404000
+[1467]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2922402
+[1468]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4499201
+[1469]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4925704
+[1470]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998516
+[1471]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998515
+[1472]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2998532
+[1473]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1474]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5706802
+[1475]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM5623500
+[1476]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM4990305
+[1477]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2925111
+[1478]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2491200
+[1479]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM2044958
+[1480]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1235834
+[1481]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1076031
+[1482]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM1382846
+[1483]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM968402
+[1484]: http://www.legislation.govt.nz/act/public/2002/0084/latest/link.aspx?id=DLM303188
