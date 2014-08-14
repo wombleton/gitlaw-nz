@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -345,1026 +345,1028 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [99][160][][160][Issue of certificate of acceptance][160]
 
-[99A][161][][161][Refusal of application for certificate of acceptance][161]
+[99AA][161][][161][Withholding certificate of acceptance][161]
 
-[Compliance schedules][162]
+[99A][162][][162][Refusal of application for certificate of acceptance][162]
 
-[100][163][][163][Requirement for compliance schedule][163]
+[Compliance schedules][163]
 
-[101][164][][164][Owner must comply with requirement for compliance schedule][164]
+[100][164][][164][Requirement for compliance schedule][164]
 
-[102][165][][165][When compliance schedule must be issued][165]
+[101][165][][165][Owner must comply with requirement for compliance schedule][165]
 
-[102A][166][][166][Procedure for obtaining compliance schedule where building consent not required][166]
+[102][166][][166][When compliance schedule must be issued][166]
 
-[103][167][][167][Content of compliance schedule][167]
+[102A][167][][167][Procedure for obtaining compliance schedule where building consent not required][167]
 
-[104][168][][168][Building consent authority must notify territorial authority of issue of compliance schedule][168]
+[103][168][][168][Content of compliance schedule][168]
 
-[104A][169][][169][Territorial authority must issue statement in relation to compliance schedule][169]
+[104][169][][169][Building consent authority must notify territorial authority of issue of compliance schedule][169]
 
-[105][170][][170][Obligations of owner if compliance schedule is issued][170]
+[104A][170][][170][Territorial authority must issue statement in relation to compliance schedule][170]
 
-[106][171][][171][Application by owner for amendment to compliance schedule][171]
+[105][171][][171][Obligations of owner if compliance schedule is issued][171]
 
-[107][172][][172][Territorial authority may amend compliance schedule on own initiative][172]
+[106][172][][172][Application by owner for amendment to compliance schedule][172]
 
-[Annual building warrant of fitness][173]
+[107][173][][173][Territorial authority may amend compliance schedule on own initiative][173]
 
-[108][174][][174][Annual building warrant of fitness][174]
+[Annual building warrant of fitness][174]
 
-[109][175][][175][Territorial authority must consider recommendation to amend compliance schedule][175]
+[108][175][][175][Annual building warrant of fitness][175]
 
-[110][176][][176][Owner must obtain reports on compliance schedule][176]
+[109][176][][176][Territorial authority must consider recommendation to amend compliance schedule][176]
 
-[111][177][][177][Inspections by territorial authority][177]
+[110][177][][177][Owner must obtain reports on compliance schedule][177]
 
-[Alterations to existing buildings][178]
+[111][178][][178][Inspections by territorial authority][178]
 
-[112][179][][179][Alterations to existing buildings][179]
+[Alterations to existing buildings][179]
 
-[113][180][][180][Buildings with specified intended lives][180]
+[112][180][][180][Alterations to existing buildings][180]
 
-[Change of use, extension of life, and subdivision of buildings][181]
+[113][181][][181][Buildings with specified intended lives][181]
 
-[114][182][][182][Owner must give notice of change of use, extension of life, or subdivision of buildings][182]
+[Change of use, extension of life, and subdivision of buildings][182]
 
-[115][183][][183][Code compliance requirements: change of use][183]
+[114][183][][183][Owner must give notice of change of use, extension of life, or subdivision of buildings][183]
 
-[116][184][][184][Code compliance requirements: extension of life][184]
+[115][184][][184][Code compliance requirements: change of use][184]
 
-[116A][185][][185][Code compliance requirements: subdivision][185]
+[116][185][][185][Code compliance requirements: extension of life][185]
 
-[116B][186][][186][Offence to use building for use for which it is not safe or not sanitary, or if it has inadequate means of escape from fire][186]
+[116A][186][][186][Code compliance requirements: subdivision][186]
 
-[Access to buildings by persons with disabilities][187]
+[116B][187][][187][Offence to use building for use for which it is not safe or not sanitary, or if it has inadequate means of escape from fire][187]
 
-[117][188][][188][Definition for sections 118 to 120][188]
+[Access to buildings by persons with disabilities][188]
 
-[118][189][][189][Access and facilities for persons with disabilities to and within buildings][189]
+[117][189][][189][Definition for sections 118 to 120][189]
 
-[119][190][][190][Acceptable solution for requirements of persons with disabilities][190]
+[118][190][][190][Access and facilities for persons with disabilities to and within buildings][190]
 
-[120][191][][191][Symbols of access must be displayed][191]
+[119][191][][191][Acceptable solution for requirements of persons with disabilities][191]
 
-[Subpart 6][192][---][192][Special provisions for certain categories of buildings][192]
+[120][192][][192][Symbols of access must be displayed][192]
 
-[Definitions of dangerous, affected, earthquake-prone, and insanitary buildings][193]
+[Subpart 6][193][---][193][Special provisions for certain categories of buildings][193]
 
-[121][194][][194][Meaning of dangerous building][194]
+[Definitions of dangerous, affected, earthquake-prone, and insanitary buildings][194]
 
-[121A][195][][195][Meaning of affected building][195]
+[121][195][][195][Meaning of dangerous building][195]
 
-[122][196][][196][Meaning of earthquake-prone building][196]
+[121A][196][][196][Meaning of affected building][196]
 
-[123][197][][197][Meaning of insanitary building][197]
+[122][197][][197][Meaning of earthquake-prone building][197]
 
-[Powers of territorial authorities in respect of dangerous, affected, earthquake-prone, or insanitary buildings][198]
+[123][198][][198][Meaning of insanitary building][198]
 
-[124][199][][199][Dangerous, affected, earthquake-prone, or insanitary buildings: powers of territorial authority][199]
+[Powers of territorial authorities in respect of dangerous, affected, earthquake-prone, or insanitary buildings][199]
 
-[125][200][][200][Requirements for notice requiring building work or restricting entry][200]
+[124][200][][200][Dangerous, affected, earthquake-prone, or insanitary buildings: powers of territorial authority][200]
 
-[126][201][][201][Territorial authority may carry out work][201]
+[125][201][][201][Requirements for notice requiring building work or restricting entry][201]
 
-[127][202][][202][Building work includes demolition of building][202]
+[126][202][][202][Territorial authority may carry out work][202]
 
-[128][203][][203][Prohibition on using dangerous, affected, earthquake-prone, or insanitary building][203]
+[127][203][][203][Building work includes demolition of building][203]
 
-[128A][204][][204][Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings][204]
+[128][204][][204][Prohibition on using dangerous, affected, earthquake-prone, or insanitary building][204]
 
-[129][205][][205][Measures to avoid immediate danger or to fix insanitary conditions][205]
+[128A][205][][205][Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings][205]
 
-[130][206][][206][Territorial authority must apply to District Court for confirmation of warrant][206]
+[129][206][][206][Measures to avoid immediate danger or to fix insanitary conditions][206]
 
-[Policy on dangerous, earthquake-prone, and insanitary buildings][207]
+[130][207][][207][Territorial authority must apply to District Court for confirmation of warrant][207]
 
-[131][208][][208][Territorial authority must adopt policy on dangerous, earthquake-prone, and insanitary buildings][208]
+[Policy on dangerous, earthquake-prone, and insanitary buildings][208]
 
-[132][209][][209][Adoption and review of policy][209]
+[131][209][][209][Territorial authority must adopt policy on dangerous, earthquake-prone, and insanitary buildings][209]
 
-[132A][210][][210][Policy must take into account affected buildings][210]
+[132][210][][210][Adoption and review of policy][210]
 
-[Application of subpart to dams][211]
+[132A][211][][211][Policy must take into account affected buildings][211]
 
-[133][212][][212][Application of this subpart to dams][212]
+[Application of subpart to dams][212]
 
-[Subpart 7][213][---][213][Safety of dams][213]
+[133][213][][213][Application of this subpart to dams][213]
 
-[Dams to which provisions of this subpart apply][214]
+[Subpart 7][214][---][214][Safety of dams][214]
 
-[133A][215][][215][Dams to which subpart 7 provisions apply][215]
+[Dams to which provisions of this subpart apply][215]
 
-[133B][216][][216][Measurement of dams][216]
+[133A][216][][216][Dams to which subpart 7 provisions apply][216]
 
-[Notification of classifiable or referable dam][217]
+[133B][217][][217][Measurement of dams][217]
 
-[133C][218][][218][Obligation to notify regional authority of classifiable or referable dam and change of ownership][218]
+[Notification of classifiable or referable dam][218]
 
-[Classification of dams][219]
+[133C][219][][219][Obligation to notify regional authority of classifiable or referable dam and change of ownership][219]
 
-[134][220][][220][When owner must classify dam][220]
+[Classification of dams][220]
 
-[134A][221][][221][Regional authority may require owner to classify referable dam][221]
+[134][221][][221][When owner must classify dam][221]
 
-[134B][222][][222][Method of classification][222]
+[134A][222][][222][Regional authority may require owner to classify referable dam][222]
 
-[134BA][223][][223][Classification of dams that are canals][223]
+[134B][223][][223][Method of classification][223]
 
-[134C][224][][224][Offence of failing to classify dam][224]
+[134BA][224][][224][Classification of dams that are canals][224]
 
-[135][225][][225][Owner must provide classification of, and certificate for, dam to regional authority][225]
+[134C][225][][225][Offence of failing to classify dam][225]
 
-[135A][226][][226][Certifying engineer must notify regional authority and owner if dam dangerous][226]
+[135][226][][226][Owner must provide classification of, and certificate for, dam to regional authority][226]
 
-[136][227][][227][Regional authority must decide whether to approve or refuse dam classification][227]
+[135A][227][][227][Certifying engineer must notify regional authority and owner if dam dangerous][227]
 
-[137][228][][228][Dam classification provided to regional authority by accredited dam owner deemed to have been approved][228]
+[136][228][][228][Regional authority must decide whether to approve or refuse dam classification][228]
 
-[138][229][][229][Regional authority must require re-audit of dam classification that it refuses to approve][229]
+[137][229][][229][Dam classification provided to regional authority by accredited dam owner deemed to have been approved][229]
 
-[139][230][][230][Owner must review dam classification][230]
+[138][230][][230][Regional authority must require re-audit of dam classification that it refuses to approve][230]
 
-[Dam safety assurance programmes][231]
+[139][231][][231][Owner must review dam classification][231]
 
-[140][232][][232][Requirement for dam safety assurance programme][232]
+[Dam safety assurance programmes][232]
 
-[141][233][][233][Content of dam safety assurance programme][233]
+[140][233][][233][Requirement for dam safety assurance programme][233]
 
-[142][234][][234][Owner must provide dam safety assurance programme to regional authority][234]
+[141][234][][234][Content of dam safety assurance programme][234]
 
-[143][235][][235][Regional authority must decide whether to approve or refuse dam safety assurance programme][235]
+[142][235][][235][Owner must provide dam safety assurance programme to regional authority][235]
 
-[144][236][][236][Dam safety assurance programme provided to regional authority by accredited dam owner deemed to have been approved][236]
+[143][236][][236][Regional authority must decide whether to approve or refuse dam safety assurance programme][236]
 
-[145][237][][237][Regional authority must require re-audit of dam safety assurance programme that it refuses to approve][237]
+[144][237][][237][Dam safety assurance programme provided to regional authority by accredited dam owner deemed to have been approved][237]
 
-[146][238][][238][Review of dam safety assurance programme][238]
+[145][238][][238][Regional authority must require re-audit of dam safety assurance programme that it refuses to approve][238]
 
-[147][239][][239][Requirements of sections 140 to 142 relate to amendments to dam safety assurance programme][239]
+[146][239][][239][Review of dam safety assurance programme][239]
 
-[148][240][][240][Obligations of owner in relation to dam safety assurance programme][240]
+[147][240][][240][Requirements of sections 140 to 142 relate to amendments to dam safety assurance programme][240]
 
-[148A][241][][241][Dam safety assurance programme for dams that are canals][241]
+[148][241][][241][Obligations of owner in relation to dam safety assurance programme][241]
 
-[148B][242][][242][Dam safety assurance programme for 2 or more dams forming single reservoir][242]
+[148A][242][][242][Dam safety assurance programme for dams that are canals][242]
 
-[Who is recognised engineer][243]
+[148B][243][][243][Dam safety assurance programme for 2 or more dams forming single reservoir][243]
 
-[149][244][][244][Who is recognised engineer][244]
+[Who is recognised engineer][244]
 
-[Dam compliance certificate][245]
+[149][245][][245][Who is recognised engineer][245]
 
-[150][246][][246][Owner of dam must supply annual dam compliance certificate][246]
+[Dam compliance certificate][246]
 
-[150A][247][][247][Annual dam compliance certificate requirements not to apply to accredited dam owner][247]
+[150][247][][247][Owner of dam must supply annual dam compliance certificate][247]
 
-[151][248][][248][Register of dams][248]
+[150A][248][][248][Annual dam compliance certificate requirements not to apply to accredited dam owner][248]
 
-[152][249][][249][Information to be provided to chief executive][249]
+[151][249][][249][Register of dams][249]
 
-[Dangerous dams][250]
+[152][250][][250][Information to be provided to chief executive][250]
 
-[153][251][][251][Meaning of dangerous dam][251]
+[Dangerous dams][251]
 
-[153A][252][][252][Meaning of earthquake-prone dam and flood-prone dam][252]
+[153][252][][252][Meaning of dangerous dam][252]
 
-[153B][253][][253][Owner must notify regional authority of dangerous dam][253]
+[153A][253][][253][Meaning of earthquake-prone dam and flood-prone dam][253]
 
-[154][254][][254][Powers of regional authorities in respect of dangerous dams][254]
+[153B][254][][254][Owner must notify regional authority of dangerous dam][254]
 
-[155][255][][255][Requirements for notice given under section 154][255]
+[154][255][][255][Powers of regional authorities in respect of dangerous dams][255]
 
-[156][256][][256][Regional authority may carry out work][256]
+[155][256][][256][Requirements for notice given under section 154][256]
 
-[157][257][][257][Measures to avoid immediate danger][257]
+[156][257][][257][Regional authority may carry out work][257]
 
-[158][258][][258][Regional authority must apply to District Court for confirmation of warrant][258]
+[157][258][][258][Measures to avoid immediate danger][258]
 
-[159][259][][259][Building work includes decommissioning and demolition of dam][259]
+[158][259][][259][Regional authority must apply to District Court for confirmation of warrant][259]
 
-[160][260][][260][Power of regional authority not limited][260]
+[159][260][][260][Building work includes decommissioning and demolition of dam][260]
 
-[Policy on dangerous dams][261]
+[160][261][][261][Power of regional authority not limited][261]
 
-[161][262][][262][Regional authority must adopt policy on dangerous dams, earthquake-prone dams, and flood-prone dams][262]
+[Policy on dangerous dams][262]
 
-[162][263][][263][Adoption and review of policy][263]
+[161][263][][263][Regional authority must adopt policy on dangerous dams, earthquake-prone dams, and flood-prone dams][263]
 
-[Subpart 8][264][---][264][Notices to fix][264]
+[162][264][][264][Adoption and review of policy][264]
 
-[163][265][][265][Definitions for this subpart][265]
+[Subpart 8][265][---][265][Notices to fix][265]
 
-[164][266][][266][Issue of notice to fix][266]
+[163][266][][266][Definitions for this subpart][266]
 
-[165][267][][267][Form and content of notice to fix][267]
+[164][267][][267][Issue of notice to fix][267]
 
-[166][268][][268][Special provisions for notices to fix from building consent authority][268]
+[165][268][][268][Form and content of notice to fix][268]
 
-[167][269][][269][Inspection of building work under notice to fix][269]
+[166][269][][269][Special provisions for notices to fix from building consent authority][269]
 
-[168][270][][270][Offence not to comply with notice to fix][270]
+[167][270][][270][Inspection of building work under notice to fix][270]
 
-[Part 3][271]  
-[Regulatory responsibilities and accreditation][271]
+[168][271][][271][Offence not to comply with notice to fix][271]
 
-[Subpart 1][272][---][272][Responsibilities of chief executive][272]
+[Part 3][272]  
+[Regulatory responsibilities and accreditation][272]
 
-[Functions, duties, and powers of chief executive generally][273]
+[Subpart 1][273][---][273][Responsibilities of chief executive][273]
 
-[168A][274][][274][Chief executive's functions in relation to this Act][274]
+[Functions, duties, and powers of chief executive generally][274]
 
-[169][275][][275][Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister][275]
+[168A][275][][275][Chief executive's functions in relation to this Act][275]
 
-[170][276][][276][Chief executive must consult in performing certain functions][276]
+[169][276][][276][Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister][276]
 
-[171][277][][277][Chief executive may seek advice from building advisory panel][277]
+[170][277][][277][Chief executive must consult in performing certain functions][277]
 
-[172][278][][278][Appointment of building advisory panel][278]
+[171][278][][278][Chief executive may seek advice from building advisory panel][278]
 
-[173][279][][279][Function of panel][279]
+[172][279][][279][Appointment of building advisory panel][279]
 
-[174][280][][280][Chief executive must report on panel's operation][280]
+[173][280][][280][Function of panel][280]
 
-[175][281][][281][Chief executive may publish guidance information][281]
+[174][281][][281][Chief executive must report on panel's operation][281]
 
-[Power of chief executive to make determinations][282]
+[175][282][][282][Chief executive may publish guidance information][282]
 
-[176][283][][283][Meaning of party][283]
+[Power of chief executive to make determinations][283]
 
-[177][284][][284][Application for determination][284]
+[176][284][][284][Meaning of party][284]
 
-[178][285][][285][Requirements for application for determination][285]
+[177][285][][285][Application for determination][285]
 
-[179][286][][286][Chief executive may refuse application for determination][286]
+[178][286][][286][Requirements for application for determination][286]
 
-[180][287][][287][Application for determination may be withdrawn][287]
+[179][287][][287][Chief executive may refuse application for determination][287]
 
-[181][288][][288][Chief executive may make determination on own initiative][288]
+[180][288][][288][Application for determination may be withdrawn][288]
 
-[182][289][][289][No proceedings until determination made][289]
+[181][289][][289][Chief executive may make determination on own initiative][289]
 
-[183][290][][290][Decision or exercise of power suspended until determination made][290]
+[182][290][][290][No proceedings until determination made][290]
 
-[184][291][][291][Chief executive must decide whether to make determination][291]
+[183][291][][291][Decision or exercise of power suspended until determination made][291]
 
-[185][292][][292][When determination must be completed][292]
+[184][292][][292][Chief executive must decide whether to make determination][292]
 
-[186][293][][293][Procedure for determination][293]
+[185][293][][293][When determination must be completed][293]
 
-[187][294][][294][Chief executive may engage persons to assist with determination][294]
+[186][294][][294][Procedure for determination][294]
 
-[188][295][][295][Determination by chief executive][295]
+[187][295][][295][Chief executive may engage persons to assist with determination][295]
 
-[189][296][][296][Clarification of determination][296]
+[188][296][][296][Determination by chief executive][296]
 
-[190][297][][297][Parties' costs][297]
+[189][297][][297][Clarification of determination][297]
 
-[Power of chief executive to register persons as building consent authorities for purposes of this Act][298]
+[190][298][][298][Parties' costs][298]
 
-[191][299][][299][Chief executive may enter person's name in register of building consent authorities][299]
+[Power of chief executive to register persons as building consent authorities for purposes of this Act][299]
 
-[192][300][][300][Criteria for registration][300]
+[191][300][][300][Chief executive may enter person's name in register of building consent authorities][300]
 
-[193][301][][301][Effect of registration][301]
+[192][301][][301][Criteria for registration][301]
 
-[194][302][][302][Application for registration][302]
+[193][302][][302][Effect of registration][302]
 
-[195][303][][303][Chief executive must decide application for registration][303]
+[194][303][][303][Application for registration][303]
 
-[196][304][][304][Registration continuous so long as person meets criteria for registration][304]
+[195][304][][304][Chief executive must decide application for registration][304]
 
-[197][305][][305][Consequences of failure to meet criteria for registration][305]
+[196][305][][305][Registration continuous so long as person meets criteria for registration][305]
 
-[198][306][][306][Effect of suspension][306]
+[197][306][][306][Consequences of failure to meet criteria for registration][306]
 
-[199][307][][307][Offence for person to perform functions of building consent authority or regional authority if person not registered, etc][307]
+[198][307][][307][Effect of suspension][307]
 
-[200][308][][308][Complaints about building consent authorities][308]
+[199][308][][308][Offence for person to perform functions of building consent authority or regional authority if person not registered, etc][308]
 
-[201][309][][309][Chief executive may conduct investigation on own initiative][309]
+[200][309][][309][Complaints about building consent authorities][309]
 
-[202][310][][310][Procedure if chief executive proceeds to investigate complaint or matter][310]
+[201][310][][310][Chief executive may conduct investigation on own initiative][310]
 
-[203][311][][311][Disciplinary powers of chief executive][311]
+[202][311][][311][Procedure if chief executive proceeds to investigate complaint or matter][311]
 
-[Further powers of chief executive][312]
+[203][312][][312][Disciplinary powers of chief executive][312]
 
-[204][313][][313][Special powers of chief executive for monitoring performance of functions under this Act][313]
+[Further powers of chief executive][313]
 
-[205][314][][314][Limits on power to enter land or building][314]
+[204][314][][314][Special powers of chief executive for monitoring performance of functions under this Act][314]
 
-[206][315][][315][Chief executive must supply warrant][315]
+[205][315][][315][Limits on power to enter land or building][315]
 
-[207][316][][316][Duties of person supplied with warrant][316]
+[206][316][][316][Chief executive must supply warrant][316]
 
-[207A][317][][317][Chief executive may require person to provide information or produce documents][317]
+[207][317][][317][Duties of person supplied with warrant][317]
 
-[207B][318][][318][Offence of failing to comply with chief executive's notice for provision of information][318]
+[207A][318][][318][Chief executive may require person to provide information or produce documents][318]
 
-[Appeal from chief executive's decisions][319]
+[207B][319][][319][Offence of failing to comply with chief executive's notice for provision of information][319]
 
-[208][320][][320][Appeals to District Court][320]
+[Appeal from chief executive's decisions][320]
 
-[209][321][][321][Procedure for commencing appeal][321]
+[208][321][][321][Appeals to District Court][321]
 
-[210][322][][322][Steps after appeal is commenced][322]
+[209][322][][322][Procedure for commencing appeal][322]
 
-[211][323][][323][Powers of District Court on appeal][323]
+[210][323][][323][Steps after appeal is commenced][323]
 
-[Subpart 2][324][---][324][Responsibilities of territorial authorities][324]
+[211][324][][324][Powers of District Court on appeal][324]
 
-[Functions, duties, and powers of territorial authorities generally][325]
+[Subpart 2][325][---][325][Responsibilities of territorial authorities][325]
 
-[212][326][][326][Territorial authority must act as building consent authority for its district][326]
+[Functions, duties, and powers of territorial authorities generally][326]
 
-[213][327][][327][Territorial authority may make arrangements relating to functions of building consent authority][327]
+[212][327][][327][Territorial authority must act as building consent authority for its district][327]
 
-[214][328][][328][How liability apportioned if territorial authority makes arrangements relating to functions of building consent authority][328]
+[213][328][][328][Territorial authority may make arrangements relating to functions of building consent authority][328]
 
-[215][329][][329][Territorial authority must gain accreditation and be registered][329]
+[214][329][][329][How liability apportioned if territorial authority makes arrangements relating to functions of building consent authority][329]
 
-[216][330][][330][Territorial authority must keep information about buildings][330]
+[215][330][][330][Territorial authority must gain accreditation and be registered][330]
 
-[217][331][][331][Access to certain information kept by territorial authority][331]
+[216][331][][331][Territorial authority must keep information about buildings][331]
 
-[218][332][][332][Territorial authority must provide information to chief executive for purpose of facilitating performance of chief executive's function under section 169][332]
+[217][332][][332][Access to certain information kept by territorial authority][332]
 
-[219][333][][333][Territorial authority may impose fee or charge and must collect levy][333]
+[218][333][][333][Territorial authority must provide information to chief executive for purpose of facilitating performance of chief executive's function under section 169][333]
 
-[Power of territorial authority to carry out building work on default][334]
+[219][334][][334][Territorial authority may impose fee or charge and must collect levy][334]
 
-[220][335][][335][Territorial authority may carry out building work on default][335]
+[Power of territorial authority to carry out building work on default][335]
 
-[221][336][][336][Recovery of costs when territorial authority carries out work on default][336]
+[220][336][][336][Territorial authority may carry out building work on default][336]
 
-[Powers of territorial authority to carry out inspections and enter land][337]
+[221][337][][337][Recovery of costs when territorial authority carries out work on default][337]
 
-[222][338][][338][Inspections by territorial authority][338]
+[Powers of territorial authority to carry out inspections and enter land][338]
 
-[223][339][][339][Duty to assist inspections][339]
+[222][339][][339][Inspections by territorial authority][339]
 
-[224][340][][340][Warrant must be produced][340]
+[223][340][][340][Duty to assist inspections][340]
 
-[225][341][][341][Offence to impersonate authorised officer][341]
+[224][341][][341][Warrant must be produced][341]
 
-[226][342][][342][Restriction on entry to household unit][342]
+[225][342][][342][Offence to impersonate authorised officer][342]
 
-[227][343][][343][District Court may authorise entry to household unit][343]
+[226][343][][343][Restriction on entry to household unit][343]
 
-[228][344][][344][Authorised officer must give notice to occupier of household unit][344]
+[227][344][][344][District Court may authorise entry to household unit][344]
 
-[Enforcement powers of territorial authority][345]
+[228][345][][345][Authorised officer must give notice to occupier of household unit][345]
+
+[Enforcement powers of territorial authority][346]
 
 \[Repealed\]
 
-[229][346][][346][Authorisation of enforcement officers][346] \[Repealed\]
+[229][347][][347][Authorisation of enforcement officers][347] \[Repealed\]
 
-[230][347][][347][Conditions of authorisation][347] \[Repealed\]
+[230][348][][348][Conditions of authorisation][348] \[Repealed\]
 
-[231][348][][348][Offence to impersonate enforcement officer][348] \[Repealed\]
+[231][349][][349][Offence to impersonate enforcement officer][349] \[Repealed\]
 
-[Delegation of power][349]
+[Delegation of power][350]
 
-[232][350][][350][Delegation of powers by territorial authority and its officers][350]
+[232][351][][351][Delegation of powers by territorial authority and its officers][351]
 
-[Transfer of functions, duties, or powers of territorial authority][351]
+[Transfer of functions, duties, or powers of territorial authority][352]
 
-[233][352][][352][Transfer of functions, duties, or powers of territorial authority][352]
+[233][353][][353][Transfer of functions, duties, or powers of territorial authority][353]
 
-[234][353][][353][Procedure for transfer][353]
+[234][354][][354][Procedure for transfer][354]
 
-[235][354][][354][Territorial authorities may agree on terms of transfer][354]
+[235][355][][355][Territorial authorities may agree on terms of transfer][355]
 
-[236][355][][355][Effect of transfer][355]
+[236][356][][356][Effect of transfer][356]
 
-[Subpart 3][356][---][356][Responsibilities of building consent authority that is not territorial authority or regional authority][356]
+[Subpart 3][357][---][357][Responsibilities of building consent authority that is not territorial authority or regional authority][357]
 
-[237][357][][357][Application of subpart][357]
+[237][358][][358][Application of subpart][358]
 
-[238][358][][358][Duties of building consent authority][358]
+[238][359][][359][Duties of building consent authority][359]
 
-[239][359][][359][Building consent authority must provide information to chief executive][359]
+[239][360][][360][Building consent authority must provide information to chief executive][360]
 
-[240][360][][360][Building consent authority may impose fee or charge and must collect levy][360]
+[240][361][][361][Building consent authority may impose fee or charge and must collect levy][361]
 
-[Subpart 4][361][---][361][Responsibilities of regional authorities][361]
+[Subpart 4][362][---][362][Responsibilities of regional authorities][362]
 
-[Functions, duties, and powers of regional authorities generally][362]
+[Functions, duties, and powers of regional authorities generally][363]
 
-[241][363][][363][Regional authority must gain accreditation and be registered][363]
+[241][364][][364][Regional authority must gain accreditation and be registered][364]
 
-[242][364][][364][Regional authority must provide information to chief executive][364]
+[242][365][][365][Regional authority must provide information to chief executive][365]
 
-[243][365][][365][Regional authorities may impose fee or charge and recover costs, and must collect levy][365]
+[243][366][][366][Regional authorities may impose fee or charge and recover costs, and must collect levy][366]
 
-[Transfer of functions, duties, and powers of regional authority][366]
+[Transfer of functions, duties, and powers of regional authority][367]
 
-[244][367][][367][Transfer of functions, duties, and powers of regional authority][367]
+[244][368][][368][Transfer of functions, duties, and powers of regional authority][368]
 
-[245][368][][368][Procedure for transfer][368]
+[245][369][][369][Procedure for transfer][369]
 
-[246][369][][369][Regional authorities may agree on terms of transfer][369]
+[246][370][][370][Regional authorities may agree on terms of transfer][370]
 
-[247][370][][370][Effect of transfer][370]
+[247][371][][371][Effect of transfer][371]
 
-[Subpart 5][371][---][371][Responsibilities of building consent accreditation body][371]
+[Subpart 5][372][---][372][Responsibilities of building consent accreditation body][372]
 
-[Appointment of building consent accreditation body][372]
+[Appointment of building consent accreditation body][373]
 
-[248][373][][373][Chief executive may appoint building consent accreditation body][373]
+[248][374][][374][Chief executive may appoint building consent accreditation body][374]
 
-[Requirements for building consent accreditation body][374]
+[Requirements for building consent accreditation body][375]
 
-[249][375][][375][Requirements for building consent accreditation body][375]
+[249][376][][376][Requirements for building consent accreditation body][376]
 
-[Audit fees][376]
+[Audit fees][377]
 
-[249A][377][][377][Fees for audits][377]
+[249A][378][][378][Fees for audits][378]
 
-[Accreditation of building consent authorities or regional authorities][378]
+[Accreditation of building consent authorities or regional authorities][379]
 
-[250][379][][379][Accreditation][379]
+[250][380][][380][Accreditation][380]
 
-[251][380][][380][Criteria for accreditation][380]
+[251][381][][381][Criteria for accreditation][381]
 
-[252][381][][381][Scope of accreditation of building consent authority that is not territorial authority][381]
+[252][382][][382][Scope of accreditation of building consent authority that is not territorial authority][382]
 
-[253][382][][382][Application for accreditation][382]
+[253][383][][383][Application for accreditation][383]
 
-[254][383][][383][Revocation of accreditation][383]
+[254][384][][384][Revocation of accreditation][384]
 
-[255][384][][384][Building consent accreditation body must notify chief executive of grant and revocation of accreditation][384]
+[255][385][][385][Building consent accreditation body must notify chief executive of grant and revocation of accreditation][385]
 
-[Subpart 6][385][---][385][Responsibilities of dam owner accreditation body][385]
+[Subpart 6][386][---][386][Responsibilities of dam owner accreditation body][386]
 
-[Appointment of dam owner accreditation body][386]
+[Appointment of dam owner accreditation body][387]
 
-[256][387][][387][Chief executive may appoint dam owner accreditation body][387]
+[256][388][][388][Chief executive may appoint dam owner accreditation body][388]
 
-[Requirements for dam owner accreditation body][388]
+[Requirements for dam owner accreditation body][389]
 
-[257][389][][389][Requirements for dam owner accreditation body][389]
+[257][390][][390][Requirements for dam owner accreditation body][390]
 
-[Audit fees][390]
+[Audit fees][391]
 
-[257A][391][][391][Fees for audits][391]
+[257A][392][][392][Fees for audits][392]
 
-[Accreditation of dam owners][392]
+[Accreditation of dam owners][393]
 
-[258][393][][393][Accreditation][393]
+[258][394][][394][Accreditation][394]
 
-[259][394][][394][Revocation of accreditation][394]
+[259][395][][395][Revocation of accreditation][395]
 
-[260][395][][395][Dam owner accreditation body must notify chief executive of grant and revocation of accreditation][395]
+[260][396][][396][Dam owner accreditation body must notify chief executive of grant and revocation of accreditation][396]
 
-[Subpart 7][396][---][396][Responsibilities of product certification accreditation body][396]
+[Subpart 7][397][---][397][Responsibilities of product certification accreditation body][397]
 
-[Appointment of product certification accreditation body][397]
+[Appointment of product certification accreditation body][398]
 
-[261][398][][398][Chief executive may appoint product certification accreditation body][398]
+[261][399][][399][Chief executive may appoint product certification accreditation body][399]
 
-[Requirements for product certification accreditation body][399]
+[Requirements for product certification accreditation body][400]
 
-[262][400][][400][Requirements for product certification accreditation body][400]
+[262][401][][401][Requirements for product certification accreditation body][401]
 
-[Audit fees][401]
+[Audit fees][402]
 
-[262A][402][][402][Fees for audits][402]
+[262A][403][][403][Fees for audits][403]
 
-[Accreditation of product certification bodies][403]
+[Accreditation of product certification bodies][404]
 
-[263][404][][404][Accreditation][404]
+[263][405][][405][Accreditation][405]
 
-[264][405][][405][Criteria for accreditation][405]
+[264][406][][406][Criteria for accreditation][406]
 
-[265][406][][406][Application for accreditation][406]
+[265][407][][407][Application for accreditation][407]
 
-[266][407][][407][Suspension or revocation of accreditation][407]
+[266][408][][408][Suspension or revocation of accreditation][408]
 
-[267][408][][408][Product certification accreditation body must notify chief executive of grant, suspension, lifting of suspension, or revocation of accreditation][408]
+[267][409][][409][Product certification accreditation body must notify chief executive of grant, suspension, lifting of suspension, or revocation of accreditation][409]
 
-[Certification of building methods or products][409]
+[Certification of building methods or products][410]
 
-[268][410][][410][Application for product certificate][410]
+[268][411][][411][Application for product certificate][411]
 
-[269][411][][411][Issue of product certificate][411]
+[269][412][][412][Issue of product certificate][412]
 
-[270][412][][412][Annual review of product certificate][412]
+[270][413][][413][Annual review of product certificate][413]
 
-[271][413][][413][Suspension or revocation of product certificate][413]
+[271][414][][414][Suspension or revocation of product certificate][414]
 
-[272][414][][414][Product certification body must notify chief executive of issue, suspension, lifting of suspension, and revocation of certificate][414]
+[272][415][][415][Product certification body must notify chief executive of issue, suspension, lifting of suspension, and revocation of certificate][415]
 
-[Subpart 8][415][---][415][Miscellaneous responsibilities][415]
+[Subpart 8][416][---][416][Miscellaneous responsibilities][416]
 
-[Chief executive must keep registers][416]
+[Chief executive must keep registers][417]
 
-[273][417][][417][Chief executive must keep registers][417]
+[273][418][][418][Chief executive must keep registers][418]
 
-[274][418][][418][Purpose of registers][418]
+[274][419][][419][Purpose of registers][419]
 
-[275][419][][419][Content of register of building consent authorities][419]
+[275][420][][420][Content of register of building consent authorities][420]
 
-[Chief executive may review territorial authorities][420]
+[Chief executive may review territorial authorities][421]
 
-[276][421][][421][Review of territorial authorities][421]
+[276][422][][422][Review of territorial authorities][422]
 
-[Power of Minister to appoint person to perform functions and duties, or exercise powers, of territorial authority][422]
+[Power of Minister to appoint person to perform functions and duties, or exercise powers, of territorial authority][423]
 
-[277][423][][423][Non-performance by territorial authority][423]
+[277][424][][424][Non-performance by territorial authority][424]
 
-[278][424][][424][Criteria for appointment or renewal of appointment][424]
+[278][425][][425][Criteria for appointment or renewal of appointment][425]
 
-[279][425][][425][Effect of appointment][425]
+[279][426][][426][Effect of appointment][426]
 
-[280][426][][426][Costs may be recovered from territorial authority][426]
+[280][427][][427][Costs may be recovered from territorial authority][427]
 
-[281][427][][427][Requirements for appointment][427]
+[281][428][][428][Requirements for appointment][428]
 
-[Subpart 9][428][---][428][Fees, charges, and additional costs][428]
+[Subpart 9][429][---][429][Fees, charges, and additional costs][429]
 
-[281A][429][][429][What fees and charges may be imposed][429]
+[281A][430][][430][What fees and charges may be imposed][430]
 
-[281B][430][][430][Authority may increase fee or charge to meet additional cost][430]
+[281B][431][][431][Authority may increase fee or charge to meet additional cost][431]
 
-[281C][431][][431][Authority may waive or refund fee or charge][431]
+[281C][432][][432][Authority may waive or refund fee or charge][432]
 
-[281D][432][][432][Validity of previous fees, charges, and additional costs][432]
+[281D][433][][433][Validity of previous fees, charges, and additional costs][433]
 
-[Part 4][433]  
-[Regulation of building practitioners][433]
+[Part 4][434]  
+[Regulation of building practitioners][434]
 
-[Subpart 1][434][---][434][Preliminary][434]
+[Subpart 1][435][---][435][Preliminary][435]
 
-[Definitions][435]
+[Definitions][436]
 
-[282][436][][436][Definitions for this Part][436]
+[282][437][][437][Definitions for this Part][437]
 
-[Purposes of licensing][437]
+[Purposes of licensing][438]
 
-[282A][438][][438][Purposes of licensing building practitioners][438]
+[282A][439][][439][Purposes of licensing building practitioners][439]
 
-[General procedure of Board and Registrar under this Part][439]
+[General procedure of Board and Registrar under this Part][440]
 
-[283][440][][440][Specified procedure for making decisions][440]
+[283][441][][441][Specified procedure for making decisions][441]
 
-[284][441][][441][Other procedure for making decisions][441]
+[284][442][][442][Other procedure for making decisions][442]
 
-[Subpart 2][442][---][442][Licensing and disciplining of building practitioners][442]
+[Subpart 2][443][---][443][Licensing and disciplining of building practitioners][443]
 
-[Licensing classes][443]
+[Licensing classes][444]
 
-[285][444][][444][Licensing classes may be designated by regulations][444]
+[285][445][][445][Licensing classes may be designated by regulations][445]
 
-[How to become licensed][445]
+[How to become licensed][446]
 
-[286][446][][446][Entitlement to be licensed][446]
+[286][447][][447][Entitlement to be licensed][447]
 
-[287][447][][447][Applications to become licensed][447]
+[287][448][][448][Applications to become licensed][448]
 
-[288][448][][448][Registrar to license applicant or decline application][448]
+[288][449][][449][Registrar to license applicant or decline application][449]
 
-[Provisions relating to licences][449]
+[Provisions relating to licences][450]
 
-[289][450][][450][Duty to produce evidence of being licensed][450]
+[289][451][][451][Duty to produce evidence of being licensed][451]
 
-[290][451][][451][Term of being licensed][451]
+[290][452][][452][Term of being licensed][452]
 
-[Automatic licensing of certain professions][452]
+[Automatic licensing of certain professions][453]
 
-[291][453][][453][Automatic licensing of people registered under other enactments][453]
+[291][454][][454][Automatic licensing of people registered under other enactments][454]
 
-[Continuation of licensing][454]
+[Continuation of licensing][455]
 
-[292][455][][455][Licensed building practitioner must meet applicable minimum standards for licensing to continue][455]
+[292][456][][456][Licensed building practitioner must meet applicable minimum standards for licensing to continue][456]
 
-[293][456][][456][Consequences of failure to meet applicable minimum standards for licensing][456]
+[293][457][][457][Consequences of failure to meet applicable minimum standards for licensing][457]
 
-[Licensing cancellation and suspension][457]
+[Licensing cancellation and suspension][458]
 
-[294][458][][458][Cancellation of licensing][458]
+[294][459][][459][Cancellation of licensing][459]
 
-[295][459][][459][Mandatory licensing suspension][459]
+[295][460][][460][Mandatory licensing suspension][460]
 
-[296][460][][460][Voluntary licensing suspension][460]
+[296][461][][461][Voluntary licensing suspension][461]
 
-[297][461][][461][Effect of licensing suspension][461]
+[297][462][][462][Effect of licensing suspension][462]
 
-[Register of licensed building practitioners][462]
+[Register of licensed building practitioners][463]
 
-[298][463][][463][Register of licensed building practitioners][463]
+[298][464][][464][Register of licensed building practitioners][464]
 
-[299][464][][464][Purpose of register][464]
+[299][465][][465][Purpose of register][465]
 
-[300][465][][465][Form of register][465]
+[300][466][][466][Form of register][466]
 
-[301][466][][466][Matters to be contained in register][466]
+[301][467][][467][Matters to be contained in register][467]
 
-[Updates of register][467]
+[Updates of register][468]
 
-[302][468][][468][Obligation to notify Registrar of change in circumstances][468]
+[302][469][][469][Obligation to notify Registrar of change in circumstances][469]
 
-[303][469][][469][Registrar must contact licensed building practitioners on annual basis][469]
+[303][470][][470][Registrar must contact licensed building practitioners on annual basis][470]
 
-[304][470][][470][Alterations to register][470]
+[304][471][][471][Alterations to register][471]
 
-[Searches of register][471]
+[Searches of register][472]
 
-[305][472][][472][Search of register][472]
+[305][473][][473][Search of register][473]
 
-[306][473][][473][Search criteria][473]
+[306][474][][474][Search criteria][474]
 
-[307][474][][474][Search purposes][474]
+[307][475][][475][Search purposes][475]
 
-[308][475][][475][When search constitutes interference with privacy of individual][475]
+[308][476][][476][When search constitutes interference with privacy of individual][476]
 
-[309][476][][476][Search fees][476]
+[309][477][][477][Search fees][477]
 
-[Registrar of Licensed Building Practitioners][477]
+[Registrar of Licensed Building Practitioners][478]
 
-[310][478][][478][Appointment of Registrar of Licensed Building Practitioners][478]
+[310][479][][479][Appointment of Registrar of Licensed Building Practitioners][479]
 
-[311][479][][479][Functions of Registrar][479]
+[311][480][][480][Functions of Registrar][480]
 
-[312][480][][480][Power of Registrar to delegate][480]
+[312][481][][481][Power of Registrar to delegate][481]
 
-[313][481][][481][Certificate of Registrar to be conclusive evidence][481]
+[313][482][][482][Certificate of Registrar to be conclusive evidence][482]
 
-[Offences relating to licensing][482]
+[Offences relating to licensing][483]
 
-[314][483][][483][Offences relating to licensing][483]
+[314][484][][484][Offences relating to licensing][484]
 
-[Code of ethics and competence][484]
+[Code of ethics and competence][485]
 
-[314A][485][][485][Code of ethics for licensed building practitioners][485]
+[314A][486][][486][Code of ethics for licensed building practitioners][486]
 
-[314B][486][][486][Licensed building practitioner must work within competence][486]
+[314B][487][][487][Licensed building practitioner must work within competence][487]
 
-[Discipline][487]
+[Discipline][488]
 
-[315][488][][488][Complaints about licensed building practitioners][488]
+[315][489][][489][Complaints about licensed building practitioners][489]
 
-[316][489][][489][Board must investigate complaints][489]
+[316][490][][490][Board must investigate complaints][490]
 
-[317][490][][490][Grounds for discipline of licensed building practitioners][490]
+[317][491][][491][Grounds for discipline of licensed building practitioners][491]
 
-[318][491][][491][Disciplinary penalties][491]
+[318][492][][492][Disciplinary penalties][492]
 
-[319][492][][492][Non-payment of fines or costs][492]
+[319][493][][493][Non-payment of fines or costs][493]
 
-[320][493][][493][Payment and application of charges, fines, and other money][493]
+[320][494][][494][Payment and application of charges, fines, and other money][494]
 
-[Powers and procedure of Board on disciplinary matters][494]
+[Powers and procedure of Board on disciplinary matters][495]
 
-[321][495][][495][Board must act independently][495]
+[321][496][][496][Board must act independently][496]
 
-[322][496][][496][Board may hear evidence for disciplinary matters][496]
+[322][497][][497][Board may hear evidence for disciplinary matters][497]
 
-[323][497][][497][Issuing of summons by Board][497]
+[323][498][][498][Issuing of summons by Board][498]
 
-[324][498][][498][Service of summons][498]
+[324][499][][499][Service of summons][499]
 
-[325][499][][499][Witnesses' fees, allowances, and expenses][499]
+[325][500][][500][Witnesses' fees, allowances, and expenses][500]
 
-[326][500][][500][Failure to comply with summons][500]
+[326][501][][501][Failure to comply with summons][501]
 
-[327][501][][501][Witness and counsel privileges][501]
+[327][502][][502][Witness and counsel privileges][502]
 
-[328][502][][502][Enforcement of actions][502]
+[328][503][][503][Enforcement of actions][503]
 
-[329][503][][503][Certificate of Board to be conclusive evidence][503]
+[329][504][][504][Certificate of Board to be conclusive evidence][504]
 
-[Appeal from decisions][504]
+[Appeal from decisions][505]
 
-[330][505][][505][Right of appeal][505]
+[330][506][][506][Right of appeal][506]
 
-[331][506][][506][Time in which appeal must be brought][506]
+[331][507][][507][Time in which appeal must be brought][507]
 
-[332][507][][507][Method of bringing appeal][507]
+[332][508][][508][Method of bringing appeal][508]
 
-[333][508][][508][Notice of right of appeal][508]
+[333][509][][509][Notice of right of appeal][509]
 
-[334][509][][509][Actions to have effect pending determination of appeal][509]
+[334][510][][510][Actions to have effect pending determination of appeal][510]
 
-[335][510][][510][Procedure on appeal][510]
+[335][511][][511][Procedure on appeal][511]
 
-[336][511][][511][Appeal authority's decision final][511]
+[336][512][][512][Appeal authority's decision final][512]
 
-[337][512][][512][Appeal authority may refer matter back for reconsideration][512]
+[337][513][][513][Appeal authority may refer matter back for reconsideration][513]
 
-[338][513][][513][Orders as to costs][513]
+[338][514][][514][Orders as to costs][514]
 
-[339][514][][514][Orders as to publication of names][514]
+[339][515][][515][Orders as to publication of names][515]
 
-[340][515][][515][Appeal on question of law][515]
+[340][516][][516][Appeal on question of law][516]
 
-[Subpart 3][516][---][516][Building Practitioners Board][516]
+[Subpart 3][517][---][517][Building Practitioners Board][517]
 
-[Establishment of Board][517]
+[Establishment of Board][518]
 
-[341][518][][518][Establishment of Board][518]
+[341][519][][519][Establishment of Board][519]
 
-[342][519][][519][Capacity and powers][519]
+[342][520][][520][Capacity and powers][520]
 
-[343][520][][520][Board's functions][520]
+[343][521][][521][Board's functions][521]
 
-[344][521][][521][Composition of Board][521]
+[344][522][][522][Composition of Board][522]
 
-[345][522][][522][Criteria for appointment][522]
+[345][523][][523][Criteria for appointment][523]
 
-[346][523][][523][Further provisions relating to Board and its members][523]
+[346][524][][524][Further provisions relating to Board and its members][524]
 
-[Reporting by Board][524]
+[Reporting by Board][525]
 
-[347][525][][525][Obligation to prepare annual report][525]
+[347][526][][526][Obligation to prepare annual report][526]
 
-[348][526][][526][Form and content of annual report][526]
+[348][527][][527][Form and content of annual report][527]
 
-[349][527][][527][Obligation for Board to provide annual report to Minister][527]
+[349][528][][528][Obligation for Board to provide annual report to Minister][528]
 
-[350][528][][528][Board to publish reports][528]
+[350][529][][529][Board to publish reports][529]
 
-[351][529][][529][Annual reports to be presented to House of Representatives][529]
+[351][530][][530][Annual reports to be presented to House of Representatives][530]
 
-[352][530][][530][Power of Minister to require information relating to affairs of Board][530]
+[352][531][][531][Power of Minister to require information relating to affairs of Board][531]
 
-[Rules][531]
+[Rules][532]
 
-[353][532][][532][Rules relating to licensed building practitioners][532]
+[353][533][][533][Rules relating to licensed building practitioners][533]
 
-[354][533][][533][Chief executive to prepare proposed rules][533]
+[354][534][][534][Chief executive to prepare proposed rules][534]
 
-[355][534][][534][Particular requirements for preparation of rules containing LBP standards][534]
+[355][535][][535][Particular requirements for preparation of rules containing LBP standards][535]
 
-[356][535][][535][Rules to be approved by Board][535]
+[356][536][][536][Rules to be approved by Board][536]
 
-[357][536][][536][Revision of rules][536]
+[357][537][][537][Revision of rules][537]
 
-[358][537][][537][Approval of revised rule][537]
+[358][538][][538][Approval of revised rule][538]
 
-[359][538][][538][Requirements of sections 355 to 358 relate to amendments and revocations by Board][538]
+[359][539][][539][Requirements of sections 355 to 358 relate to amendments and revocations by Board][539]
 
-[360][539][][539][Rules to be approved by Minister][539]
+[360][540][][540][Rules to be approved by Minister][540]
 
-[361][540][][540][Rules made when approved by Minister][540]
+[361][541][][541][Rules made when approved by Minister][541]
 
-[362][541][][541][Status of rules][541]
+[362][542][][542][Status of rules][542]
 
-[Part 5][542]  
-[Miscellaneous provisions][542]
+[Part 5][543]  
+[Miscellaneous provisions][543]
 
-[Subpart 1][543][---][543][Other offences and criminal proceedings][543]
+[Subpart 1][544][---][544][Other offences and criminal proceedings][544]
 
-[Offence relating to building control][544]
+[Offence relating to building control][545]
 
-[362A][545][][545][Premises in respect of which duty arises under section 363][545]
+[362A][546][][546][Premises in respect of which duty arises under section 363][546]
 
-[363][546][][546][Protecting safety of members of public using premises open to public or intended for public use][546]
+[363][547][][547][Protecting safety of members of public using premises open to public or intended for public use][547]
 
-[363A][547][][547][Public use of premises may be allowed before issue of code compliance certificate in some circumstances][547]
+[363A][548][][548][Public use of premises may be allowed before issue of code compliance certificate in some circumstances][548]
 
-[363B][548][][548][Application of section 363 to building work where consent granted, or work begun, before 31 March 2005][548] \[Repealed\]
+[363B][549][][549][Application of section 363 to building work where consent granted, or work begun, before 31 March 2005][549] \[Repealed\]
 
-[363C][549][][549][Section 363 does not apply to building work commenced before 31 March 2005][549]
+[363C][550][][550][Section 363 does not apply to building work commenced before 31 March 2005][550]
 
-[364][550][][550][Offence for residential property developer to transfer household unit without code compliance certificate][550]
+[364][551][][551][Offence for residential property developer to transfer household unit without code compliance certificate][551]
 
-[Offences relating to administration of Act][551]
+[Offences relating to administration of Act][552]
 
-[365][552][][552][Offence to fail to comply with direction of authorised person][552]
+[365][553][][553][Offence to fail to comply with direction of authorised person][553]
 
-[366][553][][553][Offence to impersonate building consent authority or regional authority, etc][553]
+[366][554][][554][Offence to impersonate building consent authority or regional authority, etc][554]
 
-[367][554][][554][Offence to obstruct execution of powers under this Act][554]
+[367][555][][555][Offence to obstruct execution of powers under this Act][555]
 
-[Miscellaneous offences][555]
+[Miscellaneous offences][556]
 
-[368][556][][556][Offence to remove or deface notices][556]
+[368][557][][557][Offence to remove or deface notices][557]
 
-[369][557][][557][Offence to make false or misleading statement][557]
+[369][558][][558][Offence to make false or misleading statement][558]
 
-[Proceedings for infringement offences][558]
+[Proceedings for infringement offences][559]
 
-[370][559][][559][Interpretation][559]
+[370][560][][560][Interpretation][560]
 
-[371][560][][560][Proceedings for infringement offences][560]
+[371][561][][561][Proceedings for infringement offences][561]
 
-[371A][561][][561][Who may issue infringement notices][561]
+[371A][562][][562][Who may issue infringement notices][562]
 
-[371B][562][][562][Authorisation to issue infringement notice][562]
+[371B][563][][563][Authorisation to issue infringement notice][563]
 
-[371C][563][][563][Conditions of authorisation][563]
+[371C][564][][564][Conditions of authorisation][564]
 
-[371D][564][][564][Offence to impersonate enforcement officer][564]
+[371D][565][][565][Offence to impersonate enforcement officer][565]
 
-[372][565][][565][Issue of infringement notices][565]
+[372][566][][566][Issue of infringement notices][566]
 
-[373][566][][566][Form of infringement notices][566]
+[373][567][][567][Form of infringement notices][567]
 
-[374][567][][567][Payment of infringement fees][567]
+[374][568][][568][Payment of infringement fees][568]
 
-[Proceedings for offences generally][568]
+[Proceedings for offences generally][569]
 
-[375][569][][569][Prosecution of offences][569]
+[375][570][][570][Prosecution of offences][570]
 
-[376][570][][570][Offences punishable on summary conviction][570] \[Repealed\]
+[376][571][][571][Offences punishable on summary conviction][571] \[Repealed\]
 
-[377][571][][571][Filing charging document][571]
+[377][572][][572][Filing charging document][572]
 
-[378][572][][572][Time limit for filing charging document][572]
+[378][573][][573][Time limit for filing charging document][573]
 
-[379][573][][573][Offence under more than 1 enactment][573]
+[379][574][][574][Offence under more than 1 enactment][574]
 
-[380][574][][574][What constitutes continuing offence][574]
+[380][575][][575][What constitutes continuing offence][575]
 
-[381][575][][575][District Court may grant injunctions for certain continuing breaches][575]
+[381][576][][576][District Court may grant injunctions for certain continuing breaches][576]
 
-[382][576][][576][Terms of injunction or order][576]
+[382][577][][577][Terms of injunction or order][577]
 
-[383][577][][577][District Court may direct chief executive to make determination][577]
+[383][578][][578][District Court may direct chief executive to make determination][578]
 
-[384][578][][578][District Court may grant interim injunctions][578]
+[384][579][][579][District Court may grant interim injunctions][579]
 
-[385][579][][579][Application of section 381 to Crown organisation][579]
+[385][580][][580][Application of section 381 to Crown organisation][580]
 
-[386][580][][580][Liability of principal for acts of agents][580]
+[386][581][][581][Liability of principal for acts of agents][581]
 
-[387][581][][581][Liability for acts of employees or agents of Crown organisations][581]
+[387][582][][582][Liability for acts of employees or agents of Crown organisations][582]
 
-[388][582][][582][Strict liability and defences][582]
+[388][583][][583][Strict liability and defences][583]
 
-[389][583][][583][Fines to be paid to territorial authority or regional authority instituting prosecution][583]
+[389][584][][584][Fines to be paid to territorial authority or regional authority instituting prosecution][584]
 
-[Subpart 2][584][---][584][Civil proceedings and defences][584]
+[Subpart 2][585][---][585][Civil proceedings and defences][585]
 
-[390][585][][585][Civil proceedings may not be brought against chief executive, employees, etc][585]
+[390][586][][586][Civil proceedings may not be brought against chief executive, employees, etc][586]
 
-[391][586][][586][Civil proceedings against building consent authorities][586]
+[391][587][][587][Civil proceedings against building consent authorities][587]
 
-[392][587][][587][Building consent authority not liable][587]
+[392][588][][588][Building consent authority not liable][588]
 
-[393][588][][588][Limitation defences][588]
+[393][589][][589][Limitation defences][589]
 
-[Subpart 3][589][---][589][Miscellaneous][589]
+[Subpart 3][590][---][590][Miscellaneous][590]
 
-[Service of notices][590]
+[Service of notices][591]
 
-[394][591][][591][Service of notices][591]
+[394][592][][592][Service of notices][592]
 
-[395][592][][592][Notices in relation to Māori land][592]
+[395][593][][593][Notices in relation to Māori land][593]
 
-[Implied terms of contracts][593]
+[Implied terms of contracts][594]
 
-[396][594][][594][Application of sections 397 to 399][594]
+[396][595][][595][Application of sections 397 to 399][595]
 
-[397][595][][595][Implied warranties for building work in relation to household units][595]
+[397][596][][596][Implied warranties for building work in relation to household units][596]
 
-[398][596][][596][Proceedings for breach of warranties may be taken by person who was not party to contract for building work][596]
+[398][597][][597][Proceedings for breach of warranties may be taken by person who was not party to contract for building work][597]
 
-[399][597][][597][Person may not give away benefit of warranties][597]
+[399][598][][598][Person may not give away benefit of warranties][598]
 
-[Regulations][598]
+[Regulations][599]
 
-[400][599][][599][Regulations: building code][599]
+[400][600][][600][Regulations: building code][600]
 
-[401][600][][600][Regulations: acceptable solutions, verifications, etc, that must be complied with in order to comply with building code][600]
+[401][601][][601][Regulations: acceptable solutions, verifications, etc, that must be complied with in order to comply with building code][601]
 
-[401A][601][][601][Regulations: building consents and consent completion certificates][601]
+[401A][602][][602][Regulations: building consents and consent completion certificates][602]
 
-[401B][602][][602][Order in Council declaring work to be restricted building work][602]
+[401B][603][][603][Order in Council declaring work to be restricted building work][603]
 
-[402][603][][603][Regulations: general][603]
+[402][604][][604][Regulations: general][604]
 
-[402A][604][][604][Chief executive must review regulations made under section 402(1)(kb)][604]
+[402A][605][][605][Chief executive must review regulations made under section 402(1)(kb)][605]
 
-[403][605][][605][Consultation requirements for making regulations][605]
+[403][606][][606][Consultation requirements for making regulations][606]
 
-[404][606][][606][Certain regulations must not come into force earlier than specified date][606]
+[404][607][][607][Certain regulations must not come into force earlier than specified date][607]
 
-[Incorporation of material by reference][607]
+[Incorporation of material by reference][608]
 
-[405][608][][608][Incorporation of material by reference into regulations, certain Orders in Council, acceptable solutions, and verification methods][608]
+[405][609][][609][Incorporation of material by reference into regulations, certain Orders in Council, acceptable solutions, and verification methods][609]
 
-[406][609][][609][Effect of amendments to, or replacement of, material incorporated by reference][609]
+[406][610][][610][Effect of amendments to, or replacement of, material incorporated by reference][610]
 
-[407][610][][610][Proof of material incorporated by reference][610]
+[407][611][][611][Proof of material incorporated by reference][611]
 
-[408][611][][611][Effect of expiry of material incorporated by reference][611]
+[408][612][][612][Effect of expiry of material incorporated by reference][612]
 
-[409][612][][612][Requirement to consult][612]
+[409][613][][613][Requirement to consult][613]
 
-[410][613][][613][Access to material incorporated by reference][613]
+[410][614][][614][Access to material incorporated by reference][614]
 
-[411][614][][614][Application of Legislation Act 2012 to provisions incorporated by reference][614]
+[411][615][][615][Application of Legislation Act 2012 to provisions incorporated by reference][615]
 
-[412][615][][615][Application of Regulations (Disallowance) Act 1989 to material incorporated by reference][615] \[Repealed\]
+[412][616][][616][Application of Regulations (Disallowance) Act 1989 to material incorporated by reference][616] \[Repealed\]
 
-[413][616][][616][Application of Standards Act 1988 not affected][616]
+[413][617][][617][Application of Standards Act 1988 not affected][617]
 
-[Amendments and repeal][617]
+[Amendments and repeal][618]
 
-[414][618][][618][Amendments to other enactments][618]
+[414][619][][619][Amendments to other enactments][619]
 
-[415][619][][619][Repeal][619]
+[415][620][][620][Repeal][620]
 
-[Subpart 4][620][---][620][Transitional provisions][620]
+[Subpart 4][621][---][621][Transitional provisions][621]
 
-[Outline of transitional provisions][621]
+[Outline of transitional provisions][622]
 
-[416][622][][622][Outline of transitional provisions][622]
+[416][623][][623][Outline of transitional provisions][623]
 
-[No compensation for loss of office][623]
+[No compensation for loss of office][624]
 
-[417][624][][624][No compensation for loss of office][624]
+[417][625][][625][No compensation for loss of office][625]
 
-[Dissolution of Authority][625]
+[Dissolution of Authority][626]
 
-[418][626][][626][Authority dissolved][626]
+[418][627][][627][Authority dissolved][627]
 
-[419][627][][627][Assets and liabilities vest in Crown][627]
+[419][628][][628][Assets and liabilities vest in Crown][628]
 
-[420][628][][628][Protection from civil liability for members, building referees, and employees of Authority continued][628]
+[420][629][][629][Protection from civil liability for members, building referees, and employees of Authority continued][629]
 
-[421][629][][629][Restriction of compensation for technical redundancy][629]
+[421][630][][630][Restriction of compensation for technical redundancy][630]
 
-[422][630][][630][Reappointment of employee of Authority to Ministry][630]
+[422][631][][631][Reappointment of employee of Authority to Ministry][631]
 
-[423][631][][631][Final reports and accounts][631]
+[423][632][][632][Final reports and accounts][632]
 
-[424][632][][632][References to Authority][632]
+[424][633][][633][References to Authority][633]
 
-[425][633][][633][Proceedings of Authority][633]
+[425][634][][634][Proceedings of Authority][634]
 
-[Validations][634]
+[Validations][635]
 
-[426][635][][635][Validation of levy][635]
+[426][636][][636][Validation of levy][636]
 
-[427][636][][636][Validation of past expenditure of levy][636]
+[427][637][][637][Validation of past expenditure of levy][637]
 
-[428][637][][637][Validation of accumulation of levy][637]
+[428][638][][638][Validation of accumulation of levy][638]
 
-[Other transitional provisions][638]
+[Other transitional provisions][639]
 
-[429][639][][639][Transitional provision for matters of doubt or dispute relating to building control under former Act][639]
+[429][640][][640][Transitional provision for matters of doubt or dispute relating to building control under former Act][640]
 
-[430][640][][640][Transitional provision for building levy under former Act][640]
+[430][641][][641][Transitional provision for building levy under former Act][641]
 
-[431][641][][641][Transitional provision for rate of building levy under this Act][641]
+[431][642][][642][Transitional provision for rate of building levy under this Act][642]
 
-[432][642][][642][Transitional provision for certain applications][642]
+[432][643][][643][Transitional provision for certain applications][643]
 
-[433][643][][643][Transitional provision for building consents granted under former Act][643]
+[433][644][][644][Transitional provision for building consents granted under former Act][644]
 
-[434][644][][644][Transitional provision for certain entries on certificates of title made under former Act][644]
+[434][645][][645][Transitional provision for certain entries on certificates of title made under former Act][645]
 
-[435][645][][645][Transitional provision for notices issued under former Act][645]
+[435][646][][646][Transitional provision for notices issued under former Act][646]
 
-[436][646][][646][Transitional provision for code compliance certificates in respect of building work carried out under building consent granted under former Act][646]
+[436][647][][647][Transitional provision for code compliance certificates in respect of building work carried out under building consent granted under former Act][647]
 
-[437][647][][647][Transitional provision for issue of certificate of acceptance][647]
+[437][648][][648][Transitional provision for issue of certificate of acceptance][648]
 
-[438][648][][648][Transitional provision for code compliance certificates and compliance schedules issued under former Act][648]
+[438][649][][649][Transitional provision for code compliance certificates and compliance schedules issued under former Act][649]
 
-[439][649][][649][Transitional provision for document used in establishing compliance with building code][649]
+[439][650][][650][Transitional provision for document used in establishing compliance with building code][650]
 
-[440][650][][650][Transitional provision for applications for approval as building certifier under former Act][650]
+[440][651][][651][Transitional provision for applications for approval as building certifier under former Act][651]
 
-[441][651][][651][Transitional provision for applications for continuation or renewal of approval as building certifier under former Act][651]
+[441][652][][652][Transitional provision for applications for continuation or renewal of approval as building certifier under former Act][652]
 
-[442][652][][652][Meaning of approved building certifier][652]
+[442][653][][653][Meaning of approved building certifier][653]
 
-[443][653][][653][Approved building certifiers have until 31 May 2006 to apply to be registered as building consent authority][653]
+[443][654][][654][Approved building certifiers have until 31 May 2006 to apply to be registered as building consent authority][654]
 
-[444][654][][654][What happens if approved building certifier applies to be registered as building consent authority by 31 May 2006][654]
+[444][655][][655][What happens if approved building certifier applies to be registered as building consent authority by 31 May 2006][655]
 
-[445][655][][655][What happens if approved building certifier does not apply to be registered as building consent authority by 31 May 2006][655]
+[445][656][][656][What happens if approved building certifier does not apply to be registered as building consent authority by 31 May 2006][656]
 
-[446][656][][656][Certain provisions of former Act apply for purposes of sections 444 and 445][656]
+[446][657][][657][Certain provisions of former Act apply for purposes of sections 444 and 445][657]
 
-[447][657][][657][Transitional provision for certificate of accreditation issued under former Act][657]
+[447][658][][658][Transitional provision for certificate of accreditation issued under former Act][658]
 
-[448][658][][658][Transitional provision for proceedings under former Act][658]
+[448][659][][659][Transitional provision for proceedings under former Act][659]
 
-[449][659][][659][Territorial authorities and regional authorities must apply to be registered by 31 May 2006][659]
+[449][660][][660][Territorial authorities and regional authorities must apply to be registered by 31 May 2006][660]
 
-[450][660][][660][When territorial authority may and must act as building consent authority during transition to this Act][660]
+[450][661][][661][When territorial authority may and must act as building consent authority during transition to this Act][661]
 
-[Review of building code][661]
+[Review of building code][662]
 
-[451][662][][662][Chief executive must review building code][662]
+[451][663][][663][Chief executive must review building code][663]
 
-[Schedule 1][663]  
-[Building work for which building consent not required][663]
+[Schedule 1][664]  
+[Building work for which building consent not required][664]
 
-[Schedule 2][664]  
-[Buildings in respect of which requirement for provision of access and facilities for persons with disabilities applies][664]
+[Schedule 2][665]  
+[Buildings in respect of which requirement for provision of access and facilities for persons with disabilities applies][665]
 
-[Schedule 3][665]  
-[Further provisions applying to Board][665]
+[Schedule 3][666]  
+[Further provisions applying to Board][666]
 
-[Schedule 4][666]  
-[Enactments amended][666]
+[Schedule 4][667]  
+[Enactments amended][667]
 
 ---
 
@@ -1387,21 +1389,21 @@ Preliminary provisions
     
     *   (b) [Part 1][2] (except [sections 12 to 14][23]):
     
-    *   (c) [sections 131][208] and [132][209]:
+    *   (c) [sections 131][209] and [132][210]:
     
-    *   (d) [subpart 1][272] of Part 3:
+    *   (d) [subpart 1][273] of Part 3:
     
-    *   (e) [Part 4][433]:
+    *   (e) [Part 4][434]:
     
-    *   (f) [Part 5][542] (except [sections 414][618] and [415][619], [429 to 448][639], and [450][660]):
+    *   (f) [Part 5][543] (except [sections 414][619] and [415][620], [429 to 448][640], and [450][661]):
     
-    *   (g) [Schedule 3][665].
+    *   (g) [Schedule 3][666].
     
     (2) The rest of this Act comes into force on 31 March 2005 (except [sections 45(1)(e)][87] and [45(2) to 45(4)][87] and [84 to 89][134]).
     
     (3) [Sections 45(1)(e)][87] and [45(2) to 45(4)][87] and [84 to 89][134] come into force on 30 November 2010\.
     
-    Section 2(3): amended, on 15 March 2008, by [section 4][667] of the Building Amendment Act 2008 (2008 No 4).
+    Section 2(3): amended, on 15 March 2008, by [section 4][668] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Purpose and principles
 
@@ -1421,9 +1423,9 @@ Preliminary provisions
         
         
     
-    *   (b) to promote the accountability of owners, designers, builders, and building consent authorities who have responsibilities for ensuring that building work complies with the [building code][668].
+    *   (b) to promote the accountability of owners, designers, builders, and building consent authorities who have responsibilities for ensuring that building work complies with the [building code][669].
     
-    Section 3: replaced, on 13 March 2012, by [section 4][669] of the Building Amendment Act 2012 (2012 No 23).
+    Section 3: replaced, on 13 March 2012, by [section 4][670] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 4 Principles to be applied in performing functions or duties, or exercising powers, under this Act
     
@@ -1433,7 +1435,7 @@ Preliminary provisions
     
     *   (b) the chief executive; and
     
-    *   (c) a territorial authority or regional authority (but only to the extent that the territorial authority or regional authority is performing functions or duties, or exercising powers, in relation to the grant of waivers or modifications of the [building code][668] and the adoption and review of policy on dangerous, earthquake-prone, and insanitary buildings or, as the case may be, dangerous dams).
+    *   (c) a territorial authority or regional authority (but only to the extent that the territorial authority or regional authority is performing functions or duties, or exercising powers, in relation to the grant of waivers or modifications of the [building code][669] and the adoption and review of policy on dangerous, earthquake-prone, and insanitary buildings or, as the case may be, dangerous dams).
     
     (2) In achieving the purpose of this Act, a person to whom this section applies must take into account the following principles that are relevant to the performance of functions or duties imposed, or the exercise of powers conferred, on that person by this Act:
         
@@ -1441,9 +1443,9 @@ Preliminary provisions
             
         *   (i) the role that household units play in the lives of the people who use them, and the importance of---
                 
-            *   (A) the [building code][668] as it relates to household units; and
+            *   (A) the [building code][669] as it relates to household units; and
             
-            *   (B) the need to ensure that household units comply with the [building code][668]:
+            *   (B) the need to ensure that household units comply with the [building code][669]:
             
             
         
@@ -1461,7 +1463,7 @@ Preliminary provisions
     
     *   (e) the costs of a building (including maintenance) over the whole of its life:
     
-    *   (f) the importance of standards of building design and construction in achieving compliance with the [building code][668]:
+    *   (f) the importance of standards of building design and construction in achieving compliance with the [building code][669]:
     
     *   (g) the importance of allowing for continuing innovation in methods of building design and construction:
     
@@ -1477,7 +1479,7 @@ Preliminary provisions
     
     *   (j) the need to provide for the protection of other property from physical damage resulting from the construction, use, and demolition of a building:
     
-    *   (k) the need to provide, both to and within buildings to which [section 118][189] applies, facilities that ensure that reasonable and adequate provision is made for persons with disabilities to enter and carry out normal activities and processes in a building:
+    *   (k) the need to provide, both to and within buildings to which [section 118][190] applies, facilities that ensure that reasonable and adequate provision is made for persons with disabilities to enter and carry out normal activities and processes in a building:
     
     *   (l) the need to facilitate the preservation of buildings of significant cultural, historical, or heritage value:
     
@@ -1499,19 +1501,19 @@ Preliminary provisions
             
         *   (i) the necessary building consents and other approvals are obtained for proposed building work; and
         
-        *   (ii) plans and specifications are sufficient to result in building work that (if built to those plans and specifications) complies with the [building code][668]; and
+        *   (ii) plans and specifications are sufficient to result in building work that (if built to those plans and specifications) complies with the [building code][669]; and
         
         *   (iii) building work for which a building consent is issued complies with that building consent; and
         
-        *   (iv) building work for which a building consent is not required complies with the [building code][668].
+        *   (iv) building work for which a building consent is not required complies with the [building code][669].
         
         
     
     Compare: 1991 No 150 s 6(2)
     
-    Section 4(2)(k): amended, on 15 March 2008, by [section 5][670] of the Building Amendment Act 2008 (2008 No 4).
+    Section 4(2)(k): amended, on 15 March 2008, by [section 5][671] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 4(2)(q): inserted, on 13 March 2012, by [section 5][671] of the Building Amendment Act 2012 (2012 No 23).
+    Section 4(2)(q): inserted, on 13 March 2012, by [section 5][672] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Overview
 
@@ -1531,7 +1533,7 @@ Preliminary provisions
         
         
     
-    *   (b) [Part 2][34] and [Schedules 1][663] and [2][664] deal with matters relating to the [building code][668] and building control, including---
+    *   (b) [Part 2][34] and [Schedules 1][664] and [2][665] deal with matters relating to the [building code][669] and building control, including---
             
         *   (i) the requirements relating to building work (for example, the requirement for a building consent):
         
@@ -1543,11 +1545,11 @@ Preliminary provisions
         
         
     
-    *   (c) [Part 3][271]---
+    *   (c) [Part 3][272]---
             
         *   (i) sets out the main functions, duties, and powers of the chief executive, territorial authorities, building consent authorities, and regional authorities under this Act:
         
-        *   (ii) empowers the chief executive to register building consent authorities that have been accredited to allow them to perform functions under [Parts 2][34] and [3][271]:
+        *   (ii) empowers the chief executive to register building consent authorities that have been accredited to allow them to perform functions under [Parts 2][34] and [3][272]:
         
         *   (iii) provides for the appointment of a building consent accreditation body and the accreditation of building consent authorities:
         
@@ -1559,9 +1561,9 @@ Preliminary provisions
         
         
     
-    *   (d) [Part 4][433] and [Schedule 3][665] deal with matters relating to the licensing and disciplining of building practitioners, the establishment of the Building Practitioners Board, and the making of rules relating to licensed building practitioners:
+    *   (d) [Part 4][434] and [Schedule 3][666] deal with matters relating to the licensing and disciplining of building practitioners, the establishment of the Building Practitioners Board, and the making of rules relating to licensed building practitioners:
     
-    *   (e) [Part 5][542] and [Schedule 4][666] deal with miscellaneous matters that underpin the substantive provisions of this Act, including---
+    *   (e) [Part 5][543] and [Schedule 4][667] deal with miscellaneous matters that underpin the substantive provisions of this Act, including---
             
         *   (i) offences and criminal proceedings:
         
@@ -1577,7 +1579,7 @@ Preliminary provisions
     
     (3) This section is intended only as a guide to the general scheme and effect of this Act.
     
-    Section 5(2)(c)(ii): amended, on 14 April 2005, by [section 16(2)(a)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 5(2)(c)(ii): amended, on 14 April 2005, by [section 16(2)(a)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 #### Application of Act to the Crown
 
@@ -1597,7 +1599,7 @@ Preliminary provisions
             
         *   (i) against the Crown organisation in its own name and the proceedings do not cite the Crown as a defendant; and
         
-        *   (ii) in accordance with the [Crown Organisations (Criminal Liability) Act 2002][673].
+        *   (ii) in accordance with the [Crown Organisations (Criminal Liability) Act 2002][674].
         
         
     
@@ -1615,7 +1617,7 @@ Preliminary provisions
     
     _acceptable solution_ means an acceptable solution issued under [section 22(1)][48]
     
-    _accredited dam owner_ means an owner of a dam who is accredited under [section 258][393]
+    _accredited dam owner_ means an owner of a dam who is accredited under [section 258][394]
     
     _allotment_ has the meaning given to it by [section 10][20]
     
@@ -1625,17 +1627,17 @@ Preliminary provisions
     
     _Authority_ means the Building Industry Authority established under section 10(1) of the former Act
     
-    _Board_ has the meaning given to it by [section 282][436]
+    _Board_ has the meaning given to it by [section 282][437]
     
     _building_ has the meaning given to it by [sections 8][17] and [9][18]
     
-    _building code_ means the regulations made under [section 400][599]
+    _building code_ means the regulations made under [section 400][600]
     
     _building consent_ means a consent to carry out building work granted by a building consent authority under [section 49][93]
     
-    _building consent accreditation body_ means the person referred to in [section 248(2)][373]
+    _building consent accreditation body_ means the person referred to in [section 248(2)][374]
     
-    _building consent authority_ means a person whose name is entered in the register referred to in [section 273(1)(a)][417]
+    _building consent authority_ means a person whose name is entered in the register referred to in [section 273(1)(a)][418]
     
     _building levy_ means a levy payable under [section 53][98]
     
@@ -1647,7 +1649,7 @@ Preliminary provisions
             
         *   (i) for, or in connection with, the construction, alteration, demolition, or removal of a building; and
         
-        *   (ii) on an allotment that is likely to affect the extent to which an existing building on that allotment complies with the [building code][668]; and
+        *   (ii) on an allotment that is likely to affect the extent to which an existing building on that allotment complies with the [building code][669]; and
         
         
     
@@ -1655,7 +1657,7 @@ Preliminary provisions
     
     *   (c) includes design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act; and
     
-    *   (d) in [Part 4][433], and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of [Part 4][433]
+    *   (d) in [Part 4][434], and the definition in this section of supervise, also includes design work (relating to building work) of a kind declared by the Governor-General by Order in Council to be building work for the purposes of [Part 4][434]
     
     _cable car_---
         
@@ -1679,15 +1681,15 @@ Preliminary provisions
     
     _code compliance certificate_ means a certificate issued by a building consent authority under [section 95][154]
     
-    _compliance schedule_ means a compliance schedule required under [section 100][163]
+    _compliance schedule_ means a compliance schedule required under [section 100][164]
     
-    _consideration_, in relation to estimated value, has the meaning given to it in [section 2(1)][674] of the Goods and Services Tax Act 1985
+    _consideration_, in relation to estimated value, has the meaning given to it in [section 2(1)][675] of the Goods and Services Tax Act 1985
     
     _construct_, in relation to a building, includes to design, build, erect, prefabricate, and relocate the building
     
     _crest_, in relation to a dam, means the uppermost surface of a dam, not taking into account any camber allowed for settlement, or any curbs, parapets, guard rails, or other structures that are not part of the water-retaining structure; and for the avoidance of doubt, any freeboard is part of the water-retaining structure for the purposes of this definition
     
-    _Crown organisation_ has the meaning given to it by [section 4][675] of the Crown Organisations (Criminal Liability) Act 2002
+    _Crown organisation_ has the meaning given to it by [section 4][676] of the Crown Organisations (Criminal Liability) Act 2002
     
     _dam_---
         
@@ -1713,17 +1715,17 @@ Preliminary provisions
     
     *   (c) does not include a stopbank designed to control floodwaters
     
-    _dam owner accreditation body_ means the person referred to in [section 256][387]
+    _dam owner accreditation body_ means the person referred to in [section 256][388]
     
-    _dam safety assurance programme_ means a dam safety assurance programme prepared by an owner of a dam under [section 140][232]
+    _dam safety assurance programme_ means a dam safety assurance programme prepared by an owner of a dam under [section 140][233]
     
-    _determination_ means a determination made by the chief executive under [subpart 1][272] of Part 3
+    _determination_ means a determination made by the chief executive under [subpart 1][273] of Part 3
     
     _employee_ includes,---
         
     *   (a) in relation to a Crown organisation, the chief executive or principal officer (however described) of that organisation; and
     
-    *   (b) in relation to the New Zealand Defence Force, a member of the Armed Forces (as that term is defined in [section 2(1)][676] of the Defence Act 1990)
+    *   (b) in relation to the New Zealand Defence Force, a member of the Armed Forces (as that term is defined in [section 2(1)][677] of the Defence Act 1990)
     
     _energy work_ means---
         
@@ -1733,7 +1735,7 @@ Preliminary provisions
     
     _energy work certificate_ means a certificate of the kind referred to in [section 19(1)(e)][43]
     
-    _estimated value_, in relation to building work, means the estimated aggregate of the consideration, determined in accordance with [section 10][677] of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
+    _estimated value_, in relation to building work, means the estimated aggregate of the consideration, determined in accordance with [section 10][678] of the Goods and Services Tax Act 1985, of all goods and services to be supplied for the building work
     
     _falsework_, in relation to building work or the maintenance of a building,---
         
@@ -1753,9 +1755,9 @@ Preliminary provisions
     
     _functional requirements_, in relation to a building, means those functions that the building is required to perform for the purposes of this Act
     
-    _gasfitting_ has the meaning given to it by [section 4][678] of the Plumbers, Gasfitters, and Drainlayers Act 2006
+    _gasfitting_ has the meaning given to it by [section 4][679] of the Plumbers, Gasfitters, and Drainlayers Act 2006
     
-    _high potential impact dam_ means a dam that has been classified under [section 134B][222] as having high potential impact
+    _high potential impact dam_ means a dam that has been classified under [section 134B][223] as having high potential impact
     
     _household unit_---
         
@@ -1797,9 +1799,9 @@ Preliminary provisions
     
     _large dam_ means a dam that has a height of 4 or more metres and holds 20 000 or more cubic metres volume of water or other fluid
     
-    _licensed building practitioner_ means a building practitioner whose name is, for the time being, entered in the register established and maintained under [section 298(1)][463]
+    _licensed building practitioner_ means a building practitioner whose name is, for the time being, entered in the register established and maintained under [section 298(1)][464]
     
-    _low potential impact dam_ means a dam that has been classified under [section 134B][222] as having low potential impact
+    _low potential impact dam_ means a dam that has been classified under [section 134B][223] as having low potential impact
     
     _means of escape from fire_, in relation to a building that has a floor area,---
         
@@ -1807,15 +1809,15 @@ Preliminary provisions
     
     *   (b) includes all active and passive protection features required to warn people of fire and to assist in protecting people from the effects of fire in the course of their escape from the fire
     
-    _medium potential impact dam_ means a dam that has been classified under [section 134B][222] as having medium potential impact
+    _medium potential impact dam_ means a dam that has been classified under [section 134B][223] as having medium potential impact
     
     _Minister_ means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
     
     _Ministry_ means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
     
-    _minor customisation_, in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under [section 402(1)(kc)][603]
+    _minor customisation_, in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under [section 402(1)(kc)][604]
     
-    _minor variation_ means a minor modification, addition, or variation to a building consent that is permitted by regulations made under [section 402(1)(kd)][603]
+    _minor variation_ means a minor modification, addition, or variation to a building consent that is permitted by regulations made under [section 402(1)(kd)][604]
     
     _national multiple-use approval_ means an approval issued by the chief executive under [section 30F][66]
     
@@ -1827,19 +1829,19 @@ Preliminary provisions
     
     *   (b) operates or proposes to operate a network for the purpose of---
             
-        *   (i) telecommunication as defined in [section 5][679] of the Telecommunications Act 2001; or
+        *   (i) telecommunication as defined in [section 5][680] of the Telecommunications Act 2001; or
         
-        *   (ii) radiocommunications as defined in [section 2(1)][680] of the Radiocommunications Act 1989; or
+        *   (ii) radiocommunications as defined in [section 2(1)][681] of the Radiocommunications Act 1989; or
         
         
     
-    *   (c) is an electricity operator or electricity distributor as defined in [section 2][681] of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
+    *   (c) is an electricity operator or electricity distributor as defined in [section 2][682] of the Electricity Act 1992 for the purpose of line function services as defined in that section; or
     
     *   (d) undertakes or proposes to undertake the distribution of water for supply (including irrigation); or
     
     *   (e) undertakes or proposes to undertake a drainage or sewerage system
     
-    _notice to fix_ has the meaning given to it by [section 164(2)][266]
+    _notice to fix_ has the meaning given to it by [section 164(2)][267]
     
     _NUO system_ means a system owned or controlled by a network utility operator
     
@@ -1855,7 +1857,7 @@ Preliminary provisions
     
     *   (b) includes a road
     
-    _outbuilding_ has the same meaning as in the [building code][668]
+    _outbuilding_ has the same meaning as in the [building code][669]
     
     _owner_, in relation to land and any buildings on the land,---
         
@@ -1871,7 +1873,7 @@ Preliminary provisions
             
         *   (i) the owner of the fee simple of the land; and
         
-        *   (ii) for the purposes of [sections 32][72], [44][86], [92][151], [96][157], [97][158], and [176(c)][283], any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land, or to take a lease of the land, and who is bound by the agreement because the agreement is still in force
+        *   (ii) for the purposes of [sections 32][72], [44][86], [92][151], [96][157], [97][158], and [176(c)][284], any person who has agreed in writing, whether conditionally or unconditionally, to purchase the land or any leasehold estate or interest in the land, or to take a lease of the land, and who is bound by the agreement because the agreement is still in force
         
         
     
@@ -1907,7 +1909,7 @@ Preliminary provisions
             
         *   (i) the intended use of the building; and
         
-        *   (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under [section 100][163]; and
+        *   (ii) the specified systems that the applicant for building consent considers will be required to be included in a compliance schedule required under [section 100][164]; and
         
         *   (iii) the proposed inspection, maintenance, and reporting procedures for the purposes of the compliance schedule for those specified systems
         
@@ -1915,11 +1917,11 @@ Preliminary provisions
     
     _prescribed_ means prescribed by regulations made under this Act
     
-    _prescribed electrical work_ has the meaning given to it by [section 2(1)][681] of the Electricity Act 1992
+    _prescribed electrical work_ has the meaning given to it by [section 2(1)][682] of the Electricity Act 1992
     
     _prescribed fee_ includes a fee calculated in accordance with a rate or method prescribed for this purpose in regulations made under this Act
     
-    _product certification accreditation body_ means the person referred to in [section 261(2)][398]
+    _product certification accreditation body_ means the person referred to in [section 261(2)][399]
     
     _property_---
         
@@ -1935,7 +1937,7 @@ Preliminary provisions
     
     *   (c) on the Internet in an electronic form that is publicly accessible at all reasonable times
     
-    _recognised engineer_, in relation to a dam, means an engineer who meets the requirements in [section 149][244]
+    _recognised engineer_, in relation to a dam, means an engineer who meets the requirements in [section 149][245]
     
     _referable dam_ has the meaning given to it by regulations made under this Act
     
@@ -1945,9 +1947,9 @@ Preliminary provisions
     
     *   (b) a unitary authority
     
-    _regional council_ has the meaning given to it by [section 5(1)][682] of the Local Government Act 2002
+    _regional council_ has the meaning given to it by [section 5(1)][683] of the Local Government Act 2002
     
-    _Registrar_ has the meaning given to it by [section 282][436]
+    _Registrar_ has the meaning given to it by [section 282][437]
     
     _regulations_ means regulations in force under this Act
     
@@ -1965,7 +1967,7 @@ Preliminary provisions
     
     *   (b) design work of a kind declared by the Governor-General by Order in Council to be restricted building work
     
-    _rules_ means any rules made under [section 353][532]
+    _rules_ means any rules made under [section 353][533]
     
     _scaffolding used in the course of the construction process_---
         
@@ -1979,13 +1981,13 @@ Preliminary provisions
     
     *   (b) includes any plank, coupling, fastening, fitting, or device used in connection with the construction, erection, or use of scaffolding
     
-    _scope of accreditation_, in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with [section 252][381]
+    _scope of accreditation_, in relation to a building consent authority that is not a territorial authority, means the scope of technical competence for which the building consent authority is accredited by a building consent accreditation body in accordance with [section 252][382]
     
     _sitework_ means work on a building site, including earthworks, preparatory to, or associated with, the construction, alteration, demolition, or removal of a building
     
     _specialised accommodation_ means a building that is declared by the Governor-General, by Order in Council, to be specialised accommodation for the purposes of this Act
     
-    _specified intended life_ has the meaning given to it by [section 113(3)][180]
+    _specified intended life_ has the meaning given to it by [section 113(3)][181]
     
     _specified system_---
         
@@ -2011,15 +2013,15 @@ Preliminary provisions
     
     _territorial authority_---
         
-    *   (a) means a city council or district council named in [Part 2][683] of Schedule 2 of the Local Government Act 2002; and,---
+    *   (a) means a city council or district council named in [Part 2][684] of Schedule 2 of the Local Government Act 2002; and,---
             
         *   (i) in relation to land within the district of a territorial authority, or a building on or proposed to be built on any such land, means that territorial authority; and
         
-        *   (ii) in relation to any part of a coastal marine area (within the meaning of the [Resource Management Act 1991][684]) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
+        *   (ii) in relation to any part of a coastal marine area (within the meaning of the [Resource Management Act 1991][685]) that is not within the district of a territorial authority, or a building on or proposed to be built on any such part, means the territorial authority whose district is adjacent to that part; and
         
         
     
-    *   (b) includes the Minister of Conservation or the Minister of Local Government, as the case may be, in any case in which the Minister of Conservation or the Minister of Local Government is the territorial authority under [section 22][685] of the Local Government Act 2002
+    *   (b) includes the Minister of Conservation or the Minister of Local Government, as the case may be, in any case in which the Minister of Conservation or the Minister of Local Government is the territorial authority under [section 22][686] of the Local Government Act 2002
     
     _trade_ means any trade, business, industry, profession, occupation, activity of commerce, or undertaking relating to---
         
@@ -2027,7 +2029,7 @@ Preliminary provisions
     
     *   (b) the acquisition of household units or any interest in land
     
-    _unitary authority_ has the meaning given to it by [section 5(1)][682] of the Local Government Act 2002
+    _unitary authority_ has the meaning given to it by [section 5(1)][683] of the Local Government Act 2002
     
     _verification method_ means a verification method issued under [section 22(1)][48]
     
@@ -2043,81 +2045,81 @@ Preliminary provisions
     
     Compare: 1991 No 150 s 2
     
-    Section 7 **acceptable solution**: replaced, on 28 November 2013, by [section 4(1)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **acceptable solution**: replaced, on 28 November 2013, by [section 4(1)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **appurtenant structure**: amended, on 28 November 2013, by [section 4(2)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **appurtenant structure**: amended, on 28 November 2013, by [section 4(2)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **building work** paragraph (b): replaced, on 14 April 2005, by [section 3(1)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 7 **building work** paragraph (b): replaced, on 14 April 2005, by [section 3(1)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 7 **building work** paragraph (c): inserted, on 14 April 2005, by [section 3(1)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 7 **building work** paragraph (c): inserted, on 14 April 2005, by [section 3(1)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 7 **building work** paragraph (d): inserted, on 14 April 2005, by [section 3(1)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 7 **building work** paragraph (d): inserted, on 14 April 2005, by [section 3(1)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 7 **classifiable dam**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **classifiable dam**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **compliance document**: repealed, on 28 November 2013 (but any compliance document so defined and in force immediately before this date continues in force according to its terms as an acceptable solution or a verification method or both, as the case may be), by [section 4(3)(a)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **compliance document**: repealed, on 28 November 2013 (but any compliance document so defined and in force immediately before this date continues in force according to its terms as an acceptable solution or a verification method or both, as the case may be), by [section 4(3)(a)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **consideration**: inserted, on 15 March 2008, by [section 6(5)][688] of the Building Amendment Act 2008 (2008 No 4).
+    Section 7 **consideration**: inserted, on 15 March 2008, by [section 6(5)][689] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 7 **crest**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **crest**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **dam** paragraph (a)(iii): repealed, on 15 March 2008, by [section 6(1)][688] of the Building Amendment Act 2008 (2008 No 4).
+    Section 7 **dam** paragraph (a)(iii): repealed, on 15 March 2008, by [section 6(1)][689] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 7 **employee** paragraph (a): amended, on 25 January 2005, by [section 19(1)][689] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 7 **employee** paragraph (a): amended, on 25 January 2005, by [section 19(1)][690] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
-    Section 7 **enforcement officer**: repealed, on 28 November 2013, by [section 4(3)(b)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **enforcement officer**: repealed, on 28 November 2013, by [section 4(3)(b)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **estimated value**: amended, on 15 March 2008, by [section 6(2)][688] of the Building Amendment Act 2008 (2008 No 4).
+    Section 7 **estimated value**: amended, on 15 March 2008, by [section 6(2)][689] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 7 **gasfitting**: amended, on 1 April 2010, by [section 185][690] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
+    Section 7 **gasfitting**: amended, on 1 April 2010, by [section 185][691] of the Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74).
     
-    Section 7 **high potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **high potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **independently qualified person**: inserted, on 13 March 2012, by [section 6(4)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **independently qualified person**: inserted, on 13 March 2012, by [section 6(4)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **large dam**: replaced, on 28 November 2013, by [section 4(7)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **large dam**: replaced, on 28 November 2013, by [section 4(7)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **low potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **low potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **medium potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **medium potential impact dam**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **minor customisation**: inserted, on 1 February 2010, by [section 5][692] of the Building Amendment Act 2009 (2009 No 25).
+    Section 7 **minor customisation**: inserted, on 1 February 2010, by [section 5][693] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 7 **minor variation**: inserted, on 1 February 2010, by [section 5][692] of the Building Amendment Act 2009 (2009 No 25).
+    Section 7 **minor variation**: inserted, on 1 February 2010, by [section 5][693] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 7 **national multiple-use approval**: inserted, on 1 February 2010, by [section 5][692] of the Building Amendment Act 2009 (2009 No 25).
+    Section 7 **national multiple-use approval**: inserted, on 1 February 2010, by [section 5][693] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 7 **network utility operator** paragraph (a): amended, on 1 October 2008, by [section 17][693] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
+    Section 7 **network utility operator** paragraph (a): amended, on 1 October 2008, by [section 17][694] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 7 **outbuilding**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **outbuilding**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **owner** paragraph (b)(ii): replaced, on 15 March 2008, by [section 6(3)][688] of the Building Amendment Act 2008 (2008 No 4).
+    Section 7 **owner** paragraph (b)(ii): replaced, on 15 March 2008, by [section 6(3)][689] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 7 **owner** paragraph (b)(ii): amended, on 13 March 2012, by [section 6(9)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **owner** paragraph (b)(ii): amended, on 13 March 2012, by [section 6(9)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **owner-builder**: inserted, on 13 March 2012, by [section 6(4)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **owner-builder**: inserted, on 13 March 2012, by [section 6(4)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **owner-builder exemption**: inserted, on 13 March 2012, by [section 6(4)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **owner-builder exemption**: inserted, on 13 March 2012, by [section 6(4)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **owner-builder status**: inserted, on 13 March 2012, by [section 6(4)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **owner-builder status**: inserted, on 13 March 2012, by [section 6(4)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **plans and specifications** paragraph (c)(iii): amended, on 13 March 2012, by [section 6(10)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **plans and specifications** paragraph (c)(iii): amended, on 13 March 2012, by [section 6(10)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **prescribed**: inserted, on 13 March 2012, by [section 6(4)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **prescribed**: inserted, on 13 March 2012, by [section 6(4)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **prescribed fee**: inserted, on 15 March 2008, by [section 6(5)][688] of the Building Amendment Act 2008 (2008 No 4).
+    Section 7 **prescribed fee**: inserted, on 15 March 2008, by [section 6(5)][689] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 7 **referable dam**: inserted, on 28 November 2013, by [section 4(6)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **referable dam**: inserted, on 28 November 2013, by [section 4(6)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **restricted building work**: replaced, on 13 March 2012, by [section 6(5)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **restricted building work**: replaced, on 13 March 2012, by [section 6(5)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **specified system** paragraph (a)(i): replaced, on 13 March 2012, by [section 6(11)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **specified system** paragraph (a)(i): replaced, on 13 March 2012, by [section 6(11)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **territorial authority**: replaced, on 13 March 2012, by [section 6(6)][691] of the Building Amendment Act 2012 (2012 No 23).
+    Section 7 **territorial authority**: replaced, on 13 March 2012, by [section 6(6)][692] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 7 **verification method**: replaced, on 28 November 2013, by [section 4(5)][686] of the Building Amendment Act 2013 (2013 No 100).
+    Section 7 **verification method**: replaced, on 28 November 2013, by [section 4(5)][687] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 7 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][694] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
+    Section 7 **working day** paragraph (ab): inserted, on 1 January 2014, by [section 8][695] of the Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19).
 
 #### Meaning of building
 
@@ -2131,9 +2133,9 @@ Preliminary provisions
             
         *   (i) a mechanical, electrical, or other system; and
         
-        *   (ii) a fence as defined in [section 2][695] of the Fencing of Swimming Pools Act 1987; and
+        *   (ii) a fence as defined in [section 2][696] of the Fencing of Swimming Pools Act 1987; and
         
-        *   (iii) a vehicle or motor vehicle (including a vehicle or motor vehicle as defined in [section 2(1)][696] of the Land Transport Act 1998) that is immovable and is occupied by people on a permanent or long-term basis; and
+        *   (iii) a vehicle or motor vehicle (including a vehicle or motor vehicle as defined in [section 2(1)][697] of the Land Transport Act 1998) that is immovable and is occupied by people on a permanent or long-term basis; and
         
         *   (iv) a mast pole or a telecommunication aerial that is on, or forms part of, a building and that is more than 7 m in height above the point of its attachment or base support (except a dish aerial that is less than 2 m wide); and
         
@@ -2151,9 +2153,9 @@ Preliminary provisions
     
     *   (b) the system---
             
-        *   (i) is required by the [building code][668]; or
+        *   (i) is required by the [building code][669]; or
         
-        *   (ii) if installed, is required to comply with the [building code][668].
+        *   (ii) if installed, is required to comply with the [building code][669].
         
         
     
@@ -2171,11 +2173,11 @@ Preliminary provisions
     
     Compare: 1991 No 150 s 3
     
-    Section 8(1)(c): replaced, on 14 April 2005, by [section 4][697] of the Building Amendment Act 2005 (2005 No 31).
+    Section 8(1)(c): replaced, on 14 April 2005, by [section 4][698] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 8(1)(d): inserted, on 14 April 2005, by [section 4][697] of the Building Amendment Act 2005 (2005 No 31).
+    Section 8(1)(d): inserted, on 14 April 2005, by [section 4][698] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 8(1)(e): inserted, on 14 April 2005, by [section 4][697] of the Building Amendment Act 2005 (2005 No 31).
+    Section 8(1)(e): inserted, on 14 April 2005, by [section 4][698] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 9 Building: what it does not include
     
@@ -2195,7 +2197,7 @@ Preliminary provisions
     
     *   (ac) security fences, oil interception and containment systems, wind turbines, gantries, and similar machinery and other structures (excluding dams) not intended to be occupied that are part of, or related to, a NUO system; or
     
-    *   (b) cranes (including any cranes as defined in regulations made under the [Health and Safety in Employment Act 1992][698]); or
+    *   (b) cranes (including any cranes as defined in regulations made under the [Health and Safety in Employment Act 1992][699]); or
     
     *   (c) any of the following, whether or not incorporated within another structure:
             
@@ -2215,11 +2217,11 @@ Preliminary provisions
     
     *   (e) aircraft (including any machine that can derive support in the atmosphere from the reactions of the air otherwise than by the reactions of the air against the surface of the earth); or
     
-    *   (f) any offshore installation (as defined in [section 222][699] of the Maritime Transport Act 1994) to be used for petroleum mining; or
+    *   (f) any offshore installation (as defined in [section 222][700] of the Maritime Transport Act 1994) to be used for petroleum mining; or
     
-    *   (g) containers as defined in [section 2(1)][700] of the Hazardous Substances and New Organisms Act 1996; or
+    *   (g) containers as defined in [section 2(1)][701] of the Hazardous Substances and New Organisms Act 1996; or
     
-    *   (h) magazines as defined in [section 222][701] of the Hazardous Substances and New Organisms Act 1996; or
+    *   (h) magazines as defined in [section 222][702] of the Hazardous Substances and New Organisms Act 1996; or
     
     *   (i) scaffolding used in the course of the construction process; or
     
@@ -2227,9 +2229,9 @@ Preliminary provisions
     
     Compare: 1991 No 150 s 3
     
-    Section 9(ab): inserted, on 15 March 2008, by [section 7][702] of the Building Amendment Act 2008 (2008 No 4).
+    Section 9(ab): inserted, on 15 March 2008, by [section 7][703] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 9(ac): inserted, on 13 March 2012, by [section 8][703] of the Building Amendment Act 2012 (2012 No 23).
+    Section 9(ac): inserted, on 13 March 2012, by [section 8][704] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Meaning of allotment
 
@@ -2241,7 +2243,7 @@ Preliminary provisions
     
     *   (b) whose boundaries are shown on a survey plan, whether or not as a subdivision---
             
-        *   (i) approved by way of a subdivision consent granted under the [Resource Management Act 1991][684]; or
+        *   (i) approved by way of a subdivision consent granted under the [Resource Management Act 1991][685]; or
         
         *   (ii) allowed or granted under any other Act; and
         
@@ -2249,7 +2251,7 @@ Preliminary provisions
     
     *   (c) that is---
             
-        *   (i) subject to the [Land Transfer Act 1952][704] and comprised in 1 certificate of title or for which 1 certificate of title could be issued under that Act; or
+        *   (i) subject to the [Land Transfer Act 1952][705] and comprised in 1 certificate of title or for which 1 certificate of title could be issued under that Act; or
         
         *   (ii) not subject to that Act and was acquired by its owner under 1 instrument of conveyance.
         
@@ -2257,7 +2259,7 @@ Preliminary provisions
     
     (2) For the purposes of subsection (1), an allotment is taken---
         
-    *   (a) to be a continuous area of land even if part of it is physically separated from any other part by a road or in any other manner, unless the division of the allotment into those parts has been allowed by a subdivision consent granted under the [Resource Management Act 1991][684] or a subdivision approval under any former enactment relating to the subdivision of land:
+    *   (a) to be a continuous area of land even if part of it is physically separated from any other part by a road or in any other manner, unless the division of the allotment into those parts has been allowed by a subdivision consent granted under the [Resource Management Act 1991][685] or a subdivision approval under any former enactment relating to the subdivision of land:
     
     *   (b) to include the balance of any land from which any allotment is being or has been subdivided.
     
@@ -2277,15 +2279,15 @@ Preliminary provisions
     
     *   (c) specifies the kinds of applications for a building consent that must be copied to the New Zealand Fire Service Commission under [section 46][90]; and
     
-    *   (ca) has the functions set out in [section 168A][274] in relation to the implementation, administration, and review of this Act; and
+    *   (ca) has the functions set out in [section 168A][275] in relation to the implementation, administration, and review of this Act; and
     
-    *   (d) monitors and reports annually to the Minister in accordance with [section 169][275]; and
+    *   (d) monitors and reports annually to the Minister in accordance with [section 169][276]; and
     
-    *   (e) publishes guidance information on the requirements of this Act and the [building code][668]; and
+    *   (e) publishes guidance information on the requirements of this Act and the [building code][669]; and
     
-    *   (f) registers building consent authorities that have been accredited to allow them to perform functions under [Parts 2][34] and [3][271]; and
+    *   (f) registers building consent authorities that have been accredited to allow them to perform functions under [Parts 2][34] and [3][272]; and
     
-    *   (g) makes determinations under [subpart 1][272] of Part 3; and
+    *   (g) makes determinations under [subpart 1][273] of Part 3; and
     
     *   (h) reviews the operation of territorial authorities, regional authorities, and building consent authorities in relation to their functions under this Act; and
     
@@ -2293,7 +2295,7 @@ Preliminary provisions
     
     *   (j) grants and revokes accreditation of dam owners or appoints a dam owner accreditation body to do so; and
     
-    *   (k) appoints a product certification accreditation body under [section 261][398]; and
+    *   (k) appoints a product certification accreditation body under [section 261][399]; and
     
     *   (l) disseminates information and provides educational programmes on matters relating to building control; and
     
@@ -2307,13 +2309,13 @@ Preliminary provisions
         
         
     
-    *   (n) establishes and maintains the registers referred to in [section 273][417]; and
+    *   (n) establishes and maintains the registers referred to in [section 273][418]; and
     
-    *   (o) appoints the Registrar under [section 310][478]; and
+    *   (o) appoints the Registrar under [section 310][479]; and
     
-    *   (p) prepares proposed rules under [section 354][533]; and
+    *   (p) prepares proposed rules under [section 354][534]; and
     
-    *   (pa) issues infringement notices under [section 372][565] and under [section 371B][562] authorises persons to issue infringement notices; and
+    *   (pa) issues infringement notices under [section 372][566] and under [section 371B][563] authorises persons to issue infringement notices; and
     
     *   (q) carries out any other functions and duties specified in this Act; and
     
@@ -2321,27 +2323,27 @@ Preliminary provisions
     
     Compare: 1991 No 150 s 12(1)
     
-    Section 11(a): amended, on 28 November 2013, by [section 75(1)][705] of the Building Amendment Act 2013 (2013 No 100).
+    Section 11(a): amended, on 28 November 2013, by [section 75(1)][706] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 11(ba): inserted, on 1 February 2010, by [section 6][706] of the Building Amendment Act 2009 (2009 No 25).
+    Section 11(ba): inserted, on 1 February 2010, by [section 6][707] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 11(ca): inserted, on 13 March 2012, by [section 9][707] of the Building Amendment Act 2012 (2012 No 23).
+    Section 11(ca): inserted, on 13 March 2012, by [section 9][708] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 11(f): amended, on 14 April 2005, by [section 16(2)(a)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 11(f): amended, on 14 April 2005, by [section 16(2)(a)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 11(h): amended, on 14 April 2005, by [section 3(4)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 11(h): amended, on 14 April 2005, by [section 3(4)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 11(m)(ii): replaced, on 28 November 2013, by [section 5(1)][708] of the Building Amendment Act 2013 (2013 No 100).
+    Section 11(m)(ii): replaced, on 28 November 2013, by [section 5(1)][709] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 11(m)(iii): inserted, on 28 November 2013, by [section 5(1)][708] of the Building Amendment Act 2013 (2013 No 100).
+    Section 11(m)(iii): inserted, on 28 November 2013, by [section 5(1)][709] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 11(pa): inserted, on 28 November 2013, by [section 5(2)][708] of the Building Amendment Act 2013 (2013 No 100).
+    Section 11(pa): inserted, on 28 November 2013, by [section 5(2)][709] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 12 Role of building consent authority and territorial authority
     
 *   (1) Under this Act, a building consent authority---
         
-    *   (a) issues building consents, but not if a building consent is required to be subject to a waiver or modification of the [building code][668]; and
+    *   (a) issues building consents, but not if a building consent is required to be subject to a waiver or modification of the [building code][669]; and
     
     *   (b) inspects building work for which it has granted a building consent; and
     
@@ -2353,7 +2355,7 @@ Preliminary provisions
     
     (2) Under this Act, a territorial authority---
         
-    *   (a) performs the functions of a building consent authority set out in subsection (1)(a) (including the issue of building consents subject to a waiver or modification of the [building code][668]) if---
+    *   (a) performs the functions of a building consent authority set out in subsection (1)(a) (including the issue of building consents subject to a waiver or modification of the [building code][669]) if---
             
         *   (i) the territorial authority is also a building consent authority; and
         
@@ -2363,9 +2365,9 @@ Preliminary provisions
     
     *   (b) issues project information memoranda; and
     
-    *   (c) grants exemptions under [Schedule 1][663]; and
+    *   (c) grants exemptions under [Schedule 1][664]; and
     
-    *   (d) grants waivers and modifications of the [building code][668]; and
+    *   (d) grants waivers and modifications of the [building code][669]; and
     
     *   (e) issues certificates of acceptance; and
     
@@ -2375,7 +2377,7 @@ Preliminary provisions
     
     *   (h) enforces the provisions relating to annual building warrants of fitness; and
     
-    *   (i) decides the extent to which buildings must comply with the [building code][668] when---
+    *   (i) decides the extent to which buildings must comply with the [building code][669] when---
             
         *   (i) they are altered; or
         
@@ -2397,7 +2399,7 @@ Preliminary provisions
     
 *   Under this Act, a regional authority---
         
-    *   (a) performs the functions of a building consent authority set out in [section 12][23] to the extent that those functions relate to dams (including the issue of building consents subject to a waiver or modification of the [building code][668]); and
+    *   (a) performs the functions of a building consent authority set out in [section 12][23] to the extent that those functions relate to dams (including the issue of building consents subject to a waiver or modification of the [building code][669]); and
     
     *   (b) considers and approves dam classifications; and
     
@@ -2413,7 +2415,7 @@ Preliminary provisions
         
         
     
-    *   (e) enforces the provisions of the [building code][668] and this Act and regulations that relate to dams; and
+    *   (e) enforces the provisions of the [building code][669] and this Act and regulations that relate to dams; and
     
     *   (f) adopts a policy on dangerous dams; and
     
@@ -2437,21 +2439,21 @@ Preliminary provisions
         
     *   (a) [sections 31 to 39][71] apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority; and
     
-    *   (b) [sections 40 to 116][81] (except [section 114(2)(c)][182]), [216 to 218][330], [220 to 228][335], [232][350], [276 to 281][421], [363A][547], [371A to 371C][561], and [374][567] apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
+    *   (b) [sections 40 to 116][81] (except [section 114(2)(c)][183]), [216 to 218][331], [220 to 228][336], [232][351], [276 to 281][422], [363A][548], [371A to 371C][562], and [374][568] apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority were a reference to a regional authority.
     
-    (4) For the purposes of subsection (2), [sections 31 to 116][71] (except [section 114(2)(c)][182]), [216 to 218][330], [220 to 232][335], [276 to 281][421], [363A][547], and [374][567] apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
+    (4) For the purposes of subsection (2), [sections 31 to 116][71] (except [section 114(2)(c)][183]), [216 to 218][331], [220 to 232][336], [276 to 281][422], [363A][548], and [374][568] apply (with all necessary modifications) as if every reference in them to a building consent authority or territorial authority included a reference to a regional authority.
     
     (5) The building consent authority and territorial authority must do everything reasonably practicable to liaise with the regional authority in performing functions or duties, or exercising powers, in relation to a building that includes a dam.
     
-    Section 14: replaced, on 14 April 2005, by [section 5][709] of the Building Amendment Act 2005 (2005 No 31).
+    Section 14: replaced, on 14 April 2005, by [section 5][710] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 14(3)(b): amended, on 15 March 2008, by [section 8(1)][710] of the Building Amendment Act 2008 (2008 No 4).
+    Section 14(3)(b): amended, on 15 March 2008, by [section 8(1)][711] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 14(4): amended, on 15 March 2008, by [section 8(2)][710] of the Building Amendment Act 2008 (2008 No 4).
+    Section 14(4): amended, on 15 March 2008, by [section 8(2)][711] of the Building Amendment Act 2008 (2008 No 4).
 
 ### Subpart 4---Outline of responsibilities under this Act
     
-*   Subpart 4: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+*   Subpart 4: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14A Outline of responsibilities under this Act
     
@@ -2463,11 +2465,11 @@ Preliminary provisions
     
     *   (c) do not reflect the responsibilities of the parties under any other law or enactment or any contract that may be entered into between them and are not intended to add to the existing responsibilities of the parties.
     
-    Section 14A: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14A: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 14A: amended, on 28 November 2013, by [section 6(1)][712] of the Building Amendment Act 2013 (2013 No 100).
+    Section 14A: amended, on 28 November 2013, by [section 6(1)][713] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 14A(c): amended, on 28 November 2013, by [section 6(2)][712] of the Building Amendment Act 2013 (2013 No 100).
+    Section 14A(c): amended, on 28 November 2013, by [section 6(2)][713] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 14B Responsibilities of owner
     
@@ -2475,25 +2477,25 @@ Preliminary provisions
         
     *   (a) obtaining any necessary consents, approvals, and certificates:
     
-    *   (b) ensuring that building work carried out by the owner complies with the building consent or, if there is no building consent, with the [building code][668]:
+    *   (b) ensuring that building work carried out by the owner complies with the building consent or, if there is no building consent, with the [building code][669]:
     
     *   (c) ensuring compliance with any notices to fix.
     
-    Section 14B: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14B: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14C Responsibilities of owner-builder
     
 *   An owner-builder is responsible for ensuring that restricted building work carried out under the owner-builder exemption complies with the building consent and the plans and specifications to which the building consent relates.
     
-    Section 14C: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14C: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14D Responsibilities of designer
     
-*   (1) In subsection (2), _designer_ means a person who prepares plans and specifications for building work or who gives advice on the compliance of building work with the [building code][668].
+*   (1) In subsection (2), _designer_ means a person who prepares plans and specifications for building work or who gives advice on the compliance of building work with the [building code][669].
     
-    (2) A designer is responsible for ensuring that the plans and specifications or the advice in question are sufficient to result in the building work complying with the [building code][668], if the building work were properly completed in accordance with those plans and specifications or that advice.
+    (2) A designer is responsible for ensuring that the plans and specifications or the advice in question are sufficient to result in the building work complying with the [building code][669], if the building work were properly completed in accordance with those plans and specifications or that advice.
     
-    Section 14D: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14D: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14E Responsibilities of builder
     
@@ -2503,7 +2505,7 @@ Preliminary provisions
         
     *   (a) ensuring that the building work complies with the building consent and the plans and specifications to which the building consent relates:
     
-    *   (b) ensuring that building work not covered by a building consent complies with the [building code][668].
+    *   (b) ensuring that building work not covered by a building consent complies with the [building code][669].
     
     (3) A licensed building practitioner who carries out or supervises restricted building work is responsible for---
         
@@ -2511,7 +2513,7 @@ Preliminary provisions
     
     *   (b) ensuring that he or she is licensed in a class for carrying out or supervising that restricted building work.
     
-    Section 14E: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14E: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14F Responsibilities of building consent authority
     
@@ -2519,7 +2521,7 @@ Preliminary provisions
         
     *   (a) checking, in accordance with the requirements of this Act for each type of building consent, to ensure that---
             
-        *   (i) an application for a building consent complies with the [building code][668]:
+        *   (i) an application for a building consent complies with the [building code][669]:
         
         *   (ii) building work has been carried out in accordance with the building consent for that work:
         
@@ -2527,15 +2529,15 @@ Preliminary provisions
     
     *   (b) issuing building consents and certificates in accordance with the requirements of this Act.
     
-    Section 14F: inserted, on 13 March 2012, by [section 10][711] of the Building Amendment Act 2012 (2012 No 23).
+    Section 14F: inserted, on 13 March 2012, by [section 10][712] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 14G Responsibilities of product manufacturer or supplier
     
-*   (1) In subsection (2), _product manufacturer or supplier_ means a person who manufactures or supplies a building product and who states that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the [building code][668].
+*   (1) In subsection (2), _product manufacturer or supplier_ means a person who manufactures or supplies a building product and who states that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the [building code][669].
     
-    (2) A product manufacturer or supplier is responsible for ensuring that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the [building code][668].
+    (2) A product manufacturer or supplier is responsible for ensuring that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the [building code][669].
     
-    Section 14G: inserted, on 28 November 2013, by [section 7][713] of the Building Amendment Act 2013 (2013 No 100).
+    Section 14G: inserted, on 28 November 2013, by [section 7][714] of the Building Amendment Act 2013 (2013 No 100).
 
 ## Part 2  
 Building
@@ -2546,9 +2548,9 @@ Building
     
 *   (1) In general terms, this Part provides---
         
-    *   (a) that all building work must comply with the [building code][668] to the extent required by this Act:
+    *   (a) that all building work must comply with the [building code][669] to the extent required by this Act:
     
-    *   (b) how compliance with the [building code][668] is to be established:
+    *   (b) how compliance with the [building code][669] is to be established:
     
     *   (ba) the effect of a national multiple-use approval and how to apply for one:
     
@@ -2568,7 +2570,7 @@ Building
     
     *   (j) that a compliance schedule and annual building warrant of fitness is required for buildings with specified systems:
     
-    *   (k) that when a building undergoes alterations it may have to be upgraded to comply with the [building code][668]:
+    *   (k) that when a building undergoes alterations it may have to be upgraded to comply with the [building code][669]:
     
     *   (l) for requirements that must be met when the use or intended life of a building changes:
     
@@ -2580,9 +2582,9 @@ Building
     
     (2) This section is intended only as a guide to the general scheme and effect of this Part.
     
-    Section 15(1)(ba): inserted, on 1 February 2010, by [section 7(1)][714] of the Building Amendment Act 2009 (2009 No 25).
+    Section 15(1)(ba): inserted, on 1 February 2010, by [section 7(1)][715] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 15(1)(c): replaced, on 1 February 2010, by [section 7(2)][714] of the Building Amendment Act 2009 (2009 No 25).
+    Section 15(1)(c): replaced, on 1 February 2010, by [section 7(2)][715] of the Building Amendment Act 2009 (2009 No 25).
 
 ### Subpart 2---Building code
 
@@ -2590,11 +2592,11 @@ Building
 
 ##### 16 Building code: purpose
     
-*   The [building code][668] prescribes functional requirements for buildings and the performance criteria with which buildings must comply in their intended use.
+*   The [building code][669] prescribes functional requirements for buildings and the performance criteria with which buildings must comply in their intended use.
 
 ##### 17 All building work must comply with building code
     
-*   All building work must comply with the [building code][668] to the extent required by this Act, whether or not a building consent is required in respect of that building work.
+*   All building work must comply with the [building code][669] to the extent required by this Act, whether or not a building consent is required in respect of that building work.
     
     Compare: 1991 No 150 s 7(1)
 
@@ -2602,9 +2604,9 @@ Building
     
 *   (1) A person who carries out any building work is not required by this Act to---
         
-    *   (a) achieve performance criteria that are additional to, or more restrictive than, the performance criteria prescribed in the [building code][668] in relation to that building work; or
+    *   (a) achieve performance criteria that are additional to, or more restrictive than, the performance criteria prescribed in the [building code][669] in relation to that building work; or
     
-    *   (b) take any action in respect of that building work if it complies with the [building code][668].
+    *   (b) take any action in respect of that building work if it complies with the [building code][669].
     
     (2) Subsection (1) is subject to any express provision to the contrary in any Act.
     
@@ -2614,7 +2616,7 @@ Building
 
 ##### 19 How compliance with building code is established
     
-*   (1) A building consent authority must accept any or all of the following as establishing compliance with the [building code][668]:
+*   (1) A building consent authority must accept any or all of the following as establishing compliance with the [building code][669]:
         
     *   (a) compliance with regulations referred to in [section 20][45]:
     
@@ -2622,75 +2624,75 @@ Building
     
     *   (ba) compliance with a verification method:
     
-    *   (c) a determination to that effect made by the chief executive under [subpart 1][272] of Part 3:
+    *   (c) a determination to that effect made by the chief executive under [subpart 1][273] of Part 3:
     
     *   (ca) a current national multiple-use approval issued under [section 30F][66], if every relevant condition in that national multiple-use approval is met:
     
-    *   (d) a current product certificate issued under [section 269][411], if every relevant condition in that product certificate is met:
+    *   (d) a current product certificate issued under [section 269][412], if every relevant condition in that product certificate is met:
     
-    *   (e) to the extent that compliance with a requirement imposed by regulations made under the [Electricity Act 1992][715] or the [Gas Act 1992][716] is compliance with any particular provisions of the [building code][668], a certificate issued under any of those regulations to the effect that any energy work complies with those requirements.
+    *   (e) to the extent that compliance with a requirement imposed by regulations made under the [Electricity Act 1992][716] or the [Gas Act 1992][717] is compliance with any particular provisions of the [building code][669], a certificate issued under any of those regulations to the effect that any energy work complies with those requirements.
     
-    (2) In considering whether something complies with the [building code][668], a building consent authority or, as the case may be, a regional authority---
+    (2) In considering whether something complies with the [building code][669], a building consent authority or, as the case may be, a regional authority---
         
     *   (a) must have regard to any relevant warning issued, and ban declared, under [section 26(2)][54]; and
     
-    *   (b) may have regard to any guidance information published by the chief executive under [section 175][281].
+    *   (b) may have regard to any guidance information published by the chief executive under [section 175][282].
     
     Compare: 1991 No 150 s 50
     
-    Section 19(1): amended, on 14 April 2005, by [section 16(2)(b)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 19(1): amended, on 14 April 2005, by [section 16(2)(b)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 19(1)(b): replaced, on 28 November 2013, by [section 8][717] of the Building Amendment Act 2013 (2013 No 100).
+    Section 19(1)(b): replaced, on 28 November 2013, by [section 8][718] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 19(1)(ba): inserted, on 28 November 2013, by [section 8][717] of the Building Amendment Act 2013 (2013 No 100).
+    Section 19(1)(ba): inserted, on 28 November 2013, by [section 8][718] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 19(1)(ca): inserted, on 1 February 2010, by [section 8(1)][718] of the Building Amendment Act 2009 (2009 No 25).
+    Section 19(1)(ca): inserted, on 1 February 2010, by [section 8(1)][719] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 19(1)(d): amended, on 1 February 2010, by [section 8(2)][718] of the Building Amendment Act 2009 (2009 No 25).
+    Section 19(1)(d): amended, on 1 February 2010, by [section 8(2)][719] of the Building Amendment Act 2009 (2009 No 25).
 
 #### Regulations may specify only 1 means of complying with building code
 
 ##### 20 Regulations may specify that there is only 1 means of complying with building code
     
-*   (1) Regulations may be made under [section 401][600] that specify that there is only 1 means of complying with all or any of the provisions of the [building code][668].
+*   (1) Regulations may be made under [section 401][601] that specify that there is only 1 means of complying with all or any of the provisions of the [building code][669].
     
-    (2) Without limiting subsection (1), the regulations may specify the means of compliance with the [building code][668] by requiring the use in the prescribed circumstances (if any) of all or any of the following:
+    (2) Without limiting subsection (1), the regulations may specify the means of compliance with the [building code][669] by requiring the use in the prescribed circumstances (if any) of all or any of the following:
         
     *   (a) prescribed acceptable solutions:
     
     *   (b) prescribed verification methods:
     
-    *   (c) building methods, methods of construction, building design, or building materials (_building methods or products_) that have a current product certificate issued under [section 269][411].
+    *   (c) building methods, methods of construction, building design, or building materials (_building methods or products_) that have a current product certificate issued under [section 269][412].
     
     
 
 ##### 21 What happens if regulations specifying that there is only 1 means of complying with building code are made or not made
     
-*   (1) If regulations referred to in [section 20][45] are made, a person who carries out any building work must, in order to comply with the [building code][668], comply with those regulations to the extent that they are relevant to the building work.
+*   (1) If regulations referred to in [section 20][45] are made, a person who carries out any building work must, in order to comply with the [building code][669], comply with those regulations to the extent that they are relevant to the building work.
     
-    (2) If the regulations are not made, a person may comply with the [building code][668] by any means, including by complying with an acceptable solution or a verification method.
+    (2) If the regulations are not made, a person may comply with the [building code][669] by any means, including by complying with an acceptable solution or a verification method.
     
-    Section 21(2): amended, on 28 November 2013, by [section 9][719] of the Building Amendment Act 2013 (2013 No 100).
+    Section 21(2): amended, on 28 November 2013, by [section 9][720] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Acceptable solution or verification method
     
-*   Heading: replaced, on 28 November 2013, by [section 10][720] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: replaced, on 28 November 2013, by [section 10][721] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 22 Acceptable solution or verification method for use in establishing compliance with building code
     
-*   (1) The chief executive may, by notice in the _Gazette_, issue an acceptable solution or a verification method for use in establishing compliance with the [building code][668].
+*   (1) The chief executive may, by notice in the _Gazette_, issue an acceptable solution or a verification method for use in establishing compliance with the [building code][669].
     
-    (2) A person who complies with an acceptable solution or a verification method must, for the purposes of this Act, be treated as having complied with the provisions of the [building code][668] to which that acceptable solution or verification method relates.
+    (2) A person who complies with an acceptable solution or a verification method must, for the purposes of this Act, be treated as having complied with the provisions of the [building code][669] to which that acceptable solution or verification method relates.
     
     (3) Subsection (2) is subject to any regulations referred to in [section 20][45].
     
-    Section 22: replaced, on 28 November 2013, by [section 11][721] of the Building Amendment Act 2013 (2013 No 100).
+    Section 22: replaced, on 28 November 2013, by [section 11][722] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 23 Effect of acceptable solution or verification method
     
-*   A person may comply with an acceptable solution or a verification method in order to comply with the provisions of the [building code][668] to which that acceptable solution or verification method relates, but doing so is not the only means of complying with those provisions.
+*   A person may comply with an acceptable solution or a verification method in order to comply with the provisions of the [building code][669] to which that acceptable solution or verification method relates, but doing so is not the only means of complying with those provisions.
     
-    Section 23: replaced, on 28 November 2013, by [section 11][721] of the Building Amendment Act 2013 (2013 No 100).
+    Section 23: replaced, on 28 November 2013, by [section 11][722] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 24 Chief executive may amend or revoke acceptable solution or verification method
     
@@ -2698,7 +2700,7 @@ Building
     
     (2) An amendment or a revocation under subsection (1) does not have retrospective effect.
     
-    Section 24: replaced, on 28 November 2013, by [section 11][721] of the Building Amendment Act 2013 (2013 No 100).
+    Section 24: replaced, on 28 November 2013, by [section 11][722] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 25 Content of acceptable solution or verification method
     
@@ -2716,9 +2718,9 @@ Building
     
     *   (c) is inconsistent with this Act or the regulations.
     
-    (3) Material may be incorporated by reference in an acceptable solution or a verification method in accordance with [sections 405 to 413][608].
+    (3) Material may be incorporated by reference in an acceptable solution or a verification method in accordance with [sections 405 to 413][609].
     
-    Section 25: replaced, on 28 November 2013, by [section 11][721] of the Building Amendment Act 2013 (2013 No 100).
+    Section 25: replaced, on 28 November 2013, by [section 11][722] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 25A Acceptable solutions and verification methods to be available on Ministry's Internet site
     
@@ -2736,13 +2738,13 @@ Building
         
         
     
-    Section 25A: replaced, on 28 November 2013, by [section 11][721] of the Building Amendment Act 2013 (2013 No 100).
+    Section 25A: replaced, on 28 November 2013, by [section 11][722] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Warnings and bans
 
 ##### 26 Chief executive may issue warning about, or ban use of, building methods or products
     
-*   (1) This section applies if the chief executive considers on reasonable grounds that the use of a building method or product has resulted, or is likely to result, in a building or building work failing to comply with the [building code][668].
+*   (1) This section applies if the chief executive considers on reasonable grounds that the use of a building method or product has resulted, or is likely to result, in a building or building work failing to comply with the [building code][669].
     
     (2) The chief executive may---
         
@@ -2782,7 +2784,7 @@ Building
     
     (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000\.
     
-    Section 27(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 27(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Limits on certain powers of building consent authority in cases involving bans under section 26
     
@@ -2798,7 +2800,7 @@ Building
 
 #### Procedural requirements for acceptable solutions, verification methods, warnings, and bans
     
-*   Heading: replaced, on 28 November 2013, by [section 12][723] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: replaced, on 28 November 2013, by [section 12][724] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 29 Procedural requirements for acceptable solutions, verification methods, warnings, and bans
     
@@ -2866,29 +2868,29 @@ Building
     
     Compare: 1991 No 150 s 49(9)
     
-    Section 29 heading: amended, on 28 November 2013, by [section 13(1)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29 heading: amended, on 28 November 2013, by [section 13(1)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(1)(a): amended, on 28 November 2013, by [section 13(2)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(1)(a): amended, on 28 November 2013, by [section 13(2)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(1)(b): amended, on 28 November 2013, by [section 13(3)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(1)(b): amended, on 28 November 2013, by [section 13(3)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(2)(a): amended, on 28 November 2013, by [section 13(4)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(2)(a): amended, on 28 November 2013, by [section 13(4)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(4)(a): amended, on 28 November 2013, by [section 13(5)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(4)(a): amended, on 28 November 2013, by [section 13(5)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(4)(d): amended, on 28 November 2013, by [section 13(5)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(4)(d): amended, on 28 November 2013, by [section 13(5)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(4)(e): amended, on 28 November 2013, by [section 13(5)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(4)(e): amended, on 28 November 2013, by [section 13(5)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(4)(f): amended, on 28 November 2013, by [section 13(5)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(4)(f): amended, on 28 November 2013, by [section 13(5)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(5)(a): amended, on 28 November 2013, by [section 13(6)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(5)(a): amended, on 28 November 2013, by [section 13(6)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(5)(b): amended, on 28 November 2013, by [section 13(7)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(5)(b): amended, on 28 November 2013, by [section 13(7)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(5)(c): amended, on 28 November 2013, by [section 13(7)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(5)(c): amended, on 28 November 2013, by [section 13(7)][725] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 29(5)(d): amended, on 28 November 2013, by [section 13(7)][724] of the Building Amendment Act 2013 (2013 No 100).
+    Section 29(5)(d): amended, on 28 November 2013, by [section 13(7)][725] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 30 Procedural requirements for urgent acceptable solutions, verification methods, warnings, and bans
     
@@ -2906,25 +2908,25 @@ Building
     
     *   (b) state where copies of that explanation may be obtained.
     
-    Section 30 heading: amended, on 28 November 2013, by [section 14(1)][725] of the Building Amendment Act 2013 (2013 No 100).
+    Section 30 heading: amended, on 28 November 2013, by [section 14(1)][726] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 30(1)(a): amended, on 28 November 2013, by [section 14(2)][725] of the Building Amendment Act 2013 (2013 No 100).
+    Section 30(1)(a): amended, on 28 November 2013, by [section 14(2)][726] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 30(1)(b): amended, on 28 November 2013, by [section 14(2)][725] of the Building Amendment Act 2013 (2013 No 100).
+    Section 30(1)(b): amended, on 28 November 2013, by [section 14(2)][726] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 30(2): amended, on 28 November 2013, by [section 14(2)][725] of the Building Amendment Act 2013 (2013 No 100).
+    Section 30(2): amended, on 28 November 2013, by [section 14(2)][726] of the Building Amendment Act 2013 (2013 No 100).
 
 #### National multiple-use approvals
     
-*   Heading: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+*   Heading: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30A National multiple-use approval establishes compliance with building code
     
-*   (1) A national multiple-use approval establishes that the plans and specifications to which it relates comply with the [building code][668].
+*   (1) A national multiple-use approval establishes that the plans and specifications to which it relates comply with the [building code][669].
     
     (2) To avoid doubt, a national multiple-use approval does not confer the right to carry out building work that requires a building consent.
     
-    Section 30A: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30A: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30B How to apply for national multiple-use approval
     
@@ -2938,7 +2940,7 @@ Building
     
     *   (d) be accompanied by plans and specifications that are---
             
-        *   (i) required by regulations made under [section 402][603]; or
+        *   (i) required by regulations made under [section 402][604]; or
         
         *   (ii) if the regulations do not so require, required by the chief executive; and
         
@@ -2950,7 +2952,7 @@ Building
     
     (2) An application for an amendment to a national multiple-use approval must be made as if it were an application for a national multiple-use approval, and [sections 30A to 30H][61] apply with any necessary modifications.
     
-    Section 30B: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30B: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30C Applications for national multiple-use approval relating to design work that is restricted building work
     
@@ -2966,17 +2968,17 @@ Building
     
     *   (c) that states---
             
-        *   (i) that the design work complies with the [building code][668]; or
+        *   (i) that the design work complies with the [building code][669]; or
         
-        *   (ii) whether waivers or modifications of the [building code][668] are required and, if so, what those waivers or modifications are.
+        *   (ii) whether waivers or modifications of the [building code][669] are required and, if so, what those waivers or modifications are.
         
         
     
-    Section 30C: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30C: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 30C(1): replaced, on 28 November 2013, by [section 15][727] of the Building Amendment Act 2013 (2013 No 100).
+    Section 30C(1): replaced, on 28 November 2013, by [section 15][728] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 30C(3): amended, on 13 March 2012, by [section 13][728] of the Building Amendment Act 2012 (2012 No 23).
+    Section 30C(3): amended, on 13 March 2012, by [section 13][729] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 30D Chief executive must decide whether to accept, for processing, application for national multiple-use approval
     
@@ -2998,7 +3000,7 @@ Building
     
     *   (c) does not meet the prescribed eligibility criteria (if any) for a national multiple-use approval.
     
-    Section 30D: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30D: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30E Processing application for national multiple-use approval
     
@@ -3008,11 +3010,11 @@ Building
     
     *   (b) refuse to issue the national multiple-use approval.
     
-    (2) If regulations made under [section 402(1)(kb)][603] are in force, the chief executive must make the decision referred to in subsection (1) within the period of time prescribed in those regulations.
+    (2) If regulations made under [section 402(1)(kb)][604] are in force, the chief executive must make the decision referred to in subsection (1) within the period of time prescribed in those regulations.
     
     (3) The chief executive may require further reasonable information in respect of an application for a national multiple-use approval before making the decision referred to in subsection (1), and any prescribed period of time within which that decision must be made is suspended until the chief executive receives that information.
     
-    Section 30E: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30E: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30F Issue of national multiple-use approval
     
@@ -3026,11 +3028,11 @@ Building
     
     *   (d) the application does not involve the use of a building method or product in relation to which the chief executive has publicly notified a ban under [section 26][54]; and
     
-    *   (e) if building work were properly completed in accordance with the plans and specifications that accompanied the application, that building work would comply with the [building code][668].
+    *   (e) if building work were properly completed in accordance with the plans and specifications that accompanied the application, that building work would comply with the [building code][669].
     
     (2) A national multiple-use approval may be issued subject to---
         
-    *   (a) a waiver or modification of the [building code][668]; and
+    *   (a) a waiver or modification of the [building code][669]; and
     
     *   (b) 1 or more conditions, including, but not limited to, conditions that the approval applies only---
             
@@ -3044,7 +3046,7 @@ Building
         
         
     
-    Section 30F: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30F: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30G Refusal to issue national multiple-use approval
     
@@ -3054,7 +3056,7 @@ Building
     
     *   (b) the reasons for the refusal.
     
-    Section 30G: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30G: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 30H Suspension or revocation of national multiple-use approval
     
@@ -3064,7 +3066,7 @@ Building
     
     *   (b) the approval no longer meets the prescribed eligibility criteria for a national multiple-use approval; or
     
-    *   (c) building work properly completed in accordance with the approval will no longer comply with the [building code][668] because of an amendment to the code.
+    *   (c) building work properly completed in accordance with the approval will no longer comply with the [building code][669] because of an amendment to the code.
     
     (2) Before revoking or suspending a national multiple-use approval the chief executive must give the holder of the approval a reasonable opportunity to be heard.
     
@@ -3080,17 +3082,17 @@ Building
             
         *   (i) the prescribed eligibility criteria for a national multiple-use approval; or
         
-        *   (ii) the [building code][668]; and
+        *   (ii) the [building code][669]; and
         
         
     
-    *   (b) the national multiple-use approval no longer meets the eligibility criteria, or complies with the [building code][668], solely as a result of those amendments.
+    *   (b) the national multiple-use approval no longer meets the eligibility criteria, or complies with the [building code][669], solely as a result of those amendments.
     
     (5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments referred to in that subsection come into force.
     
     (6) The chief executive must record the suspension or revocation of a national multiple-use approval in the register of national multiple-use approvals.
     
-    Section 30H: inserted, on 1 February 2010, by [section 9][726] of the Building Amendment Act 2009 (2009 No 25).
+    Section 30H: inserted, on 1 February 2010, by [section 9][727] of the Building Amendment Act 2009 (2009 No 25).
 
 ### Subpart 3---Building work---Project information memoranda and building consents
 
@@ -3110,7 +3112,7 @@ Building
     
     *   (b) a project information memorandum has been issued before the application for a building consent is made.
     
-    Section 31(2)(a): amended, on 1 February 2010, by [section 10][729] of the Building Amendment Act 2009 (2009 No 25).
+    Section 31(2)(a): amended, on 1 February 2010, by [section 10][730] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 32 Owner may apply for project information memorandum
     
@@ -3126,7 +3128,7 @@ Building
     
 *   (1) An application for a project information memorandum must be in the prescribed form and be accompanied by---
         
-    *   (a) any fees and charges imposed by the territorial authority under [section 219][333]; and
+    *   (a) any fees and charges imposed by the territorial authority under [section 219][334]; and
     
     *   (b) any information that the territorial authority reasonably requires in relation to authorisations or requirements (if any) that---
             
@@ -3160,7 +3162,7 @@ Building
     
     Compare: 1991 No 150 s 30(3)
     
-    Section 33(1)(a): replaced, on 13 March 2012, by [section 14][730] of the Building Amendment Act 2012 (2012 No 23).
+    Section 33(1)(a): replaced, on 13 March 2012, by [section 14][731] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 34 Issue of project information memorandum
     
@@ -3210,7 +3212,7 @@ Building
         
         
     
-    *   (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under [section 21A][731] of the Fire Service Act 1975, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
+    *   (e) if the territorial authority considers that the owner of the building or proposed building to which the project information memorandum relates is likely to be required, under [section 21A][732] of the Fire Service Act 1975, to make provision for a scheme that provides for evacuation from the scene of a fire, a statement to that effect; and
     
     *   (f) if the territorial authority considers that notification to Heritage New Zealand Pouhere Taonga is likely to be required under [section 39][79], a statement to that effect; and
     
@@ -3224,11 +3226,11 @@ Building
     
     *   (h) if [section 75][123] applies, the statement referred to in [section 75(2)][123]; and
     
-    *   (i) if the building is one that is intended to be used for, or associated with, 1 or more of the purposes specified in [Schedule 2][664], a statement that the building must comply with---
+    *   (i) if the building is one that is intended to be used for, or associated with, 1 or more of the purposes specified in [Schedule 2][665], a statement that the building must comply with---
             
-        *   (i) [section 118][189] (relating to access and facilities for persons with disabilities to and within buildings); and
+        *   (i) [section 118][190] (relating to access and facilities for persons with disabilities to and within buildings); and
         
-        *   (ii) the provisions of the [building code][668] that relate to providing for persons with disabilities to have access to buildings and to facilities within buildings.
+        *   (ii) the provisions of the [building code][669] that relate to providing for persons with disabilities to have access to buildings and to facilities within buildings.
         
         
     
@@ -3246,21 +3248,21 @@ Building
     
     *   (b) is known to the territorial authority; and
     
-    *   (c) is not apparent from the district plan under the [Resource Management Act 1991][684].
+    *   (c) is not apparent from the district plan under the [Resource Management Act 1991][685].
     
     Compare: 1991 No 150 s 31(2)--(4)
     
-    Section 35(1AA): inserted, on 1 February 2010, by [section 11][732] of the Building Amendment Act 2009 (2009 No 25).
+    Section 35(1AA): inserted, on 1 February 2010, by [section 11][733] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 35(1)(f): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 35(1)(f): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 35(1)(h): amended, on 15 March 2008, by [section 10][734] of the Building Amendment Act 2008 (2008 No 4).
+    Section 35(1)(h): amended, on 15 March 2008, by [section 10][735] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 35(1)(i): inserted, on 15 March 2008, by [section 10][734] of the Building Amendment Act 2008 (2008 No 4).
+    Section 35(1)(i): inserted, on 15 March 2008, by [section 10][735] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 36 Territorial authority may issue development contribution notice
     
-*   (1) This section applies if a territorial authority considers that a development contribution under the [Local Government Act 2002][735] is payable by the owner.
+*   (1) This section applies if a territorial authority considers that a development contribution under the [Local Government Act 2002][736] is payable by the owner.
     
     (2) The territorial authority must issue a notice, in the prescribed form, to the effect that a code compliance certificate for the building work will not be issued unless the development contribution is paid (_development contribution notice_).
     
@@ -3270,13 +3272,13 @@ Building
     
     *   (b) if no project information memorandum has been applied for, provided to the building consent authority.
     
-    Section 36: replaced, on 1 February 2010, by [section 12][736] of the Building Amendment Act 2009 (2009 No 25).
+    Section 36: replaced, on 1 February 2010, by [section 12][737] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 37 Territorial authority must issue certificate if resource consent required
     
 *   (1) This section applies if a territorial authority considers that---
         
-    *   (a) a resource consent under the [Resource Management Act 1991][684] has not yet been obtained; and
+    *   (a) a resource consent under the [Resource Management Act 1991][685] has not yet been obtained; and
     
     *   (b) the resource consent will or may materially affect building work to which a project information memorandum or an application for a building consent relates.
     
@@ -3294,13 +3296,13 @@ Building
     
     Compare: 1991 No 150 s 35(1A)
     
-    Section 37 heading: replaced, on 1 February 2010, by [section 13(1)][737] of the Building Amendment Act 2009 (2009 No 25).
+    Section 37 heading: replaced, on 1 February 2010, by [section 13(1)][738] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 37(1)(b): amended, on 1 February 2010, by [section 13(2)][737] of the Building Amendment Act 2009 (2009 No 25).
+    Section 37(1)(b): amended, on 1 February 2010, by [section 13(2)][738] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 37(2): amended, on 1 February 2010, by [section 13(3)][737] of the Building Amendment Act 2009 (2009 No 25).
+    Section 37(2): amended, on 1 February 2010, by [section 13(3)][738] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 37(3): inserted, on 1 February 2010, by [section 13(4)][737] of the Building Amendment Act 2009 (2009 No 25).
+    Section 37(3): inserted, on 1 February 2010, by [section 13(4)][738] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 38 Territorial authority must give copy of project information memorandum in certain circumstances
     
@@ -3320,15 +3322,15 @@ Building
     
     Compare: 1991 No 150 s 30(4)
     
-    Section 39: replaced, on 1 February 2010, by [section 14][738] of the Building Amendment Act 2009 (2009 No 25).
+    Section 39: replaced, on 1 February 2010, by [section 14][739] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 39 heading: amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 39 heading: amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 39(1)(a): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 39(1)(a): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 39(1)(b): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 39(1)(b): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 39(2): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 39(2): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 #### Building consents
 
@@ -3342,9 +3344,9 @@ Building
     
     Compare: 1991 No 150 s 32(1)
     
-    Section 40(3): amended, on 28 November 2013, by [section 16][739] of the Building Amendment Act 2013 (2013 No 100).
+    Section 40(3): amended, on 28 November 2013, by [section 16][740] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 40(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Building consent not required in certain cases
     
@@ -3352,7 +3354,7 @@ Building
         
     *   (a) a Crown building or Crown building work to which, under [section 6][12], this Act does not apply; or
     
-    *   (b) any building work described in [Schedule 1][663] for which a building consent is not required (_see_ [section 42A][84]); or
+    *   (b) any building work described in [Schedule 1][664] for which a building consent is not required (_see_ [section 42A][84]); or
     
     *   (c) any building work in respect of which a building consent cannot practicably be obtained in advance because the building work has to be carried out urgently---
             
@@ -3366,19 +3368,19 @@ Building
     
     *   (e) any building work that a territorial authority is authorised to carry out under this Act.
     
-    (2) The Governor-General may, by Order in Council, amend [Schedule 1][663] by---
+    (2) The Governor-General may, by Order in Council, amend [Schedule 1][664] by---
         
-    *   (a) adding any building work or class of building work to [Schedule 1][663] as being building work for which a building consent is not required:
+    *   (a) adding any building work or class of building work to [Schedule 1][664] as being building work for which a building consent is not required:
     
-    *   (b) extending or clarifying the scope of any building work or class of building work listed in [Schedule 1][663] as building work for which a building consent is not required:
+    *   (b) extending or clarifying the scope of any building work or class of building work listed in [Schedule 1][664] as building work for which a building consent is not required:
     
-    *   (c) restating, for the purpose of clarity, any building work or class of building work listed in [Schedule 1][663].
+    *   (c) restating, for the purpose of clarity, any building work or class of building work listed in [Schedule 1][664].
     
     Compare: 1991 No 150 s 32(2), (3)
     
-    Section 41(1)(b): replaced, on 28 November 2013, by [section 17(1)][740] of the Building Amendment Act 2013 (2013 No 100).
+    Section 41(1)(b): replaced, on 28 November 2013, by [section 17(1)][741] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 41(2): replaced, on 28 November 2013, by [section 17(2)][740] of the Building Amendment Act 2013 (2013 No 100).
+    Section 41(2): replaced, on 28 November 2013, by [section 17(2)][741] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 42 Owner must apply for certificate of acceptance if building work carried out urgently
     
@@ -3388,37 +3390,37 @@ Building
     
     (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 42(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42A Building work for which building consent is not required under Schedule 1
     
 *   (1) Despite [section 40][81], subject to the conditions set out in subsection (2) and whether or not a building consent would otherwise have been required, a building consent is not required for building work in the following categories:
         
-    *   (a) building work described in [Part 1][741] of Schedule 1; or
+    *   (a) building work described in [Part 1][742] of Schedule 1; or
     
-    *   (b) building work described in [Part 2][742] of Schedule 1 that is carried out by an authorised person (_see_ subsection (3)); or
+    *   (b) building work described in [Part 2][743] of Schedule 1 that is carried out by an authorised person (_see_ subsection (3)); or
     
-    *   (c) building work described in [Part 3][743] of Schedule 1 if the design of the building work has been carried out or reviewed by a chartered professional engineer and the building work has been carried out in accordance with that design.
+    *   (c) building work described in [Part 3][744] of Schedule 1 if the design of the building work has been carried out or reviewed by a chartered professional engineer and the building work has been carried out in accordance with that design.
     
     (2) Subsection (1) is subject to the following conditions:
         
-    *   (a) the building work complies with the [building code][668] to the extent required by this Act:
+    *   (a) the building work complies with the [building code][669] to the extent required by this Act:
     
     *   (b) after the building work is completed, the building,---
             
-        *   (i) if it complied with the [building code][668] immediately before the building work began, continues to comply with the [building code][668]; or
+        *   (i) if it complied with the [building code][669] immediately before the building work began, continues to comply with the [building code][669]; or
         
-        *   (ii) if it did not comply with the [building code][668] immediately before the building work began, continues to comply at least to the same extent as it did then comply:
+        *   (ii) if it did not comply with the [building code][669] immediately before the building work began, continues to comply at least to the same extent as it did then comply:
         
         
     
     *   (c) the building work does not breach any other enactment:
     
-    *   (d) the building to which the building work relates is not a building that is required to be licensed under the [Hazardous Substances and New Organisms Act 1996][744].
+    *   (d) the building to which the building work relates is not a building that is required to be licensed under the [Hazardous Substances and New Organisms Act 1996][745].
     
-    (3) In subsection (1)(b), _authorised person_ means a person who is authorised under the [Plumbers, Gasfitters, and Drainlayers Act 2006][745] to do the work, except for a person who is authorised under [section 15][746], [16][747], [19][748], or [25][749] of that Act.
+    (3) In subsection (1)(b), _authorised person_ means a person who is authorised under the [Plumbers, Gasfitters, and Drainlayers Act 2006][746] to do the work, except for a person who is authorised under [section 15][747], [16][748], [19][749], or [25][750] of that Act.
     
-    Section 42A: inserted, on 28 November 2013, by [section 18][750] of the Building Amendment Act 2013 (2013 No 100).
+    Section 42A: inserted, on 28 November 2013, by [section 18][751] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 43 Building consent not required for energy work
     
@@ -3434,7 +3436,7 @@ Building
         
         
     
-    *   (b) energy work in any case where, if that work required a building consent, a consent could not be granted unless it was granted subject to a waiver or modification of the [building code][668].
+    *   (b) energy work in any case where, if that work required a building consent, a consent could not be granted unless it was granted subject to a waiver or modification of the [building code][669].
     
     (3) An owner who wishes to obtain a building consent for energy work that does not require a building consent may apply for a building consent for that work (whether or not the application also relates to any other building work), and in that case this Act applies as if the energy work required a building consent.
     
@@ -3456,7 +3458,7 @@ Building
     
     *   (b) be accompanied by plans and specifications that are---
             
-        *   (i) required by regulations made under [section 402][603]; or
+        *   (i) required by regulations made under [section 402][604]; or
         
         *   (ii) if the regulations do not so require, required by a building consent authority; and
         
@@ -3472,7 +3474,7 @@ Building
     
     *   (c) contain or be accompanied by any other information that the building consent authority reasonably requires; and
     
-    *   (d) be accompanied by any fees and charges imposed by the building consent authority under [section 240][360]; and
+    *   (d) be accompanied by any fees and charges imposed by the building consent authority under [section 240][361]; and
     
     *   (e) in the case of an application for a building consent that relates to restricted building work, state the name of each licensed building practitioner who, as far as the applicant is aware at the time the application is made, will be involved in carrying out or supervising the restricted building work that is the subject of the application; and
     
@@ -3512,9 +3514,9 @@ Building
     
     *   (c) that states---
             
-        *   (i) that the design work complies with the [building code][668]; or
+        *   (i) that the design work complies with the [building code][669]; or
         
-        *   (ii) whether waivers or modifications of the [building code][668] are required and, if so, what those waivers or modifications are.
+        *   (ii) whether waivers or modifications of the [building code][669] are required and, if so, what those waivers or modifications are.
         
         
     
@@ -3538,23 +3540,23 @@ Building
     
     Compare: 1991 No 150 s 33(2), (4)
     
-    Section 45(1)(ba): inserted, on 1 February 2010, by [section 15(1)][751] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45(1)(ba): inserted, on 1 February 2010, by [section 15(1)][752] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 45(1)(d): replaced, on 13 March 2012, by [section 18(2)][752] of the Building Amendment Act 2012 (2012 No 23).
+    Section 45(1)(d): replaced, on 13 March 2012, by [section 18(2)][753] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 45(2): replaced, on 1 February 2010, by [section 15(2)][751] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45(2): replaced, on 1 February 2010, by [section 15(2)][752] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 45(2): amended, on 28 November 2013, by [section 19(1)][753] of the Building Amendment Act 2013 (2013 No 100).
+    Section 45(2): amended, on 28 November 2013, by [section 19(1)][754] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 45(3): replaced, on 1 February 2010, by [section 15(2)][751] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45(3): replaced, on 1 February 2010, by [section 15(2)][752] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 45(3): amended, on 28 November 2013, by [section 19(2)][753] of the Building Amendment Act 2013 (2013 No 100).
+    Section 45(3): amended, on 28 November 2013, by [section 19(2)][754] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 45(3A): inserted, on 28 November 2013, by [section 19(3)][753] of the Building Amendment Act 2013 (2013 No 100).
+    Section 45(3A): inserted, on 28 November 2013, by [section 19(3)][754] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 45(4): replaced, on 1 February 2010, by [section 15(2)][751] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45(4): replaced, on 1 February 2010, by [section 15(2)][752] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 45(5): replaced, on 13 March 2012, by [section 18(1)][752] of the Building Amendment Act 2012 (2012 No 23).
+    Section 45(5): replaced, on 13 March 2012, by [section 18(1)][753] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 45A Minor variations to building consents
     
@@ -3572,7 +3574,7 @@ Building
     
     *   (b) is not required to issue an amended building consent.
     
-    Section 45A: inserted, on 1 February 2010, by [section 16][754] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45A: inserted, on 1 February 2010, by [section 16][755] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 45B Changes to plans and specifications that have national multiple-use approval
     
@@ -3580,11 +3582,11 @@ Building
         
     *   (a) the changes are permitted under the terms of the national multiple-use approval; or
     
-    *   (b) the changes are minor customisations permitted by regulations made under [section 402(1)(kc)][603].
+    *   (b) the changes are minor customisations permitted by regulations made under [section 402(1)(kc)][604].
     
     (2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
     
-    Section 45B: inserted, on 1 February 2010, by [section 16][754] of the Building Amendment Act 2009 (2009 No 25).
+    Section 45B: inserted, on 1 February 2010, by [section 16][755] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 46 Copy of certain applications for building consent must be provided to New Zealand Fire Service Commission
     
@@ -3602,7 +3604,7 @@ Building
     
     *   (b) the needs of persons who are authorised by law to enter the building to undertake fire-fighting.
     
-    (2) The New Zealand Fire Service Commission must not, in the memorandum referred to in subsection (1), set out advice that provides for the building to meet performance criteria that exceed the requirements of the [building code][668].
+    (2) The New Zealand Fire Service Commission must not, in the memorandum referred to in subsection (1), set out advice that provides for the building to meet performance criteria that exceed the requirements of the [building code][669].
     
     (3) If the New Zealand Fire Service Commission does not provide a memorandum within the period specified in subsection (1), the building consent authority may proceed to determine the application without the memorandum.
 
@@ -3632,15 +3634,15 @@ Building
     
     Compare: 1991 No 150 s 34(1), (2)
     
-    Section 48(1): replaced, on 1 February 2010, by [section 17(1)][755] of the Building Amendment Act 2009 (2009 No 25).
+    Section 48(1): replaced, on 1 February 2010, by [section 17(1)][756] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 48(1A): inserted, on 1 February 2010, by [section 17(1)][755] of the Building Amendment Act 2009 (2009 No 25).
+    Section 48(1A): inserted, on 1 February 2010, by [section 17(1)][756] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 48(2): amended, on 1 February 2010, by [section 17(2)][755] of the Building Amendment Act 2009 (2009 No 25).
+    Section 48(2): amended, on 1 February 2010, by [section 17(2)][756] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 49 Grant of building consent
     
-*   (1) A building consent authority must grant a building consent if it is satisfied on reasonable grounds that the provisions of the [building code][668] would be met if the building work were properly completed in accordance with the plans and specifications that accompanied the application.
+*   (1) A building consent authority must grant a building consent if it is satisfied on reasonable grounds that the provisions of the [building code][669] would be met if the building work were properly completed in accordance with the plans and specifications that accompanied the application.
     
     (2) However, a building consent authority is not required to grant a building consent until it receives---
         
@@ -3652,11 +3654,11 @@ Building
     
     Compare: 1991 No 150 s 34(3)
     
-    Section 49(2)(a): amended, on 13 March 2012, by [section 19][756] of the Building Amendment Act 2012 (2012 No 23).
+    Section 49(2)(a): amended, on 13 March 2012, by [section 19][757] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 49(2)(b): amended, on 6 August 2010, by [section 4(2)(a)][757] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 49(2)(b): amended, on 6 August 2010, by [section 4(2)(a)][758] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
     
-    Section 49(2)(c): repealed, on 6 August 2010, by [section 4(2)(b)][757] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
+    Section 49(2)(c): repealed, on 6 August 2010, by [section 4(2)(b)][758] of the Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101).
 
 ##### 50 Refusal of application for building consent
     
@@ -3690,7 +3692,7 @@ Building
             
         *   (i) the specified systems that must be covered by the compliance schedule; and
         
-        *   (ii) the performance standards for the specified systems that are required by the [building code][668]; and
+        *   (ii) the performance standards for the specified systems that are required by the [building code][669]; and
         
         
     
@@ -3698,7 +3700,7 @@ Building
             
         *   (i) the specified systems that must be covered by the compliance schedule; and
         
-        *   (ii) the performance standards for the specified systems that are required by the [building code][668].
+        *   (ii) the performance standards for the specified systems that are required by the [building code][669].
         
         
     
@@ -3714,15 +3716,15 @@ Building
     
     Compare: 1991 No 150 s 35(1), (3)
     
-    Section 51(1)(b)(i): amended, on 1 February 2010, by [section 18(1)][758] of the Building Amendment Act 2009 (2009 No 25).
+    Section 51(1)(b)(i): amended, on 1 February 2010, by [section 18(1)][759] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 51(1)(ba): inserted, on 1 February 2010, by [section 18(2)][758] of the Building Amendment Act 2009 (2009 No 25).
+    Section 51(1)(ba): inserted, on 1 February 2010, by [section 18(2)][759] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 51(1)(ba): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 51(1)(ba): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
-    Section 51(3): replaced, on 1 February 2010, by [section 18(3)][758] of the Building Amendment Act 2009 (2009 No 25).
+    Section 51(3): replaced, on 1 February 2010, by [section 18(3)][759] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 51(4): replaced, on 1 February 2010, by [section 18(3)][758] of the Building Amendment Act 2009 (2009 No 25).
+    Section 51(4): replaced, on 1 February 2010, by [section 18(3)][759] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 52 Lapse of building consent
     
@@ -3758,17 +3760,17 @@ Building
         
         
     
-    (3) Subsection (2)(a)(ii) is subject to [section 431][641].
+    (3) Subsection (2)(a)(ii) is subject to [section 431][642].
     
     (4) The chief executive may, in his or her discretion, refund all or part of the levy if the building consent lapses by paying the refund to the applicant or to the relevant building consent authority.
     
     Compare: 1991 No 150 s 23B(1), (2)
     
-    Section 53(1): replaced, on 14 April 2005, by [section 7(1)][759] Building Amendment Act 2005 (2005 No 31).
+    Section 53(1): replaced, on 14 April 2005, by [section 7(1)][760] Building Amendment Act 2005 (2005 No 31).
     
-    Section 53(2)(b)(ii): amended, on 14 April 2005, by [section 7(2)(a)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 53(2)(b)(ii): amended, on 14 April 2005, by [section 7(2)(a)][760] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 53(4): inserted, on 13 March 2012, by [section 20][760] of the Building Amendment Act 2012 (2012 No 23).
+    Section 53(4): inserted, on 13 March 2012, by [section 20][761] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 54 Building consent authority must advise applicant of amount of levy payable
     
@@ -3784,7 +3786,7 @@ Building
     
 *   If a levy has already been paid for building work for which a building consent is granted, no further levy is payable for that building work unless its estimated value changes.
     
-    Section 56: amended, on 14 April 2005, by [section 7(2)(a)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 56: amended, on 14 April 2005, by [section 7(2)(a)][760] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 57 Payment of levy if building work completed in stages
     
@@ -3802,7 +3804,7 @@ Building
     
 *   (1) A building consent authority, on the grant of a building consent, becomes liable to the territorial authority for the levy payable under [section 53][98] in relation to the building work to which the building consent relates.
     
-    (2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under [section 238(2)(d)][358], copies of information about the collection of that levy.
+    (2) A building consent authority must pay the levy to the territorial authority at the same time that it provides, under [section 238(2)(d)][359], copies of information about the collection of that levy.
     
     (3) A person commits an offence if the person fails to pay the levy in accordance with this section.
     
@@ -3810,13 +3812,13 @@ Building
     
     Compare: 1991 No 150 s 23C(1)
     
-    Section 58(1): amended, on 14 April 2005, by [section 7(2)(b)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 58(1): amended, on 14 April 2005, by [section 7(2)(b)][760] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 58(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 58(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Liability to pay levy: territorial authority
     
-*   (1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in [section 238(1)(c)][358], becomes liable to the chief executive for the levy payable under [section 53][98] in relation to the building work to which the building consent relates.
+*   (1) A territorial authority, on granting a building consent or on receiving all or any of the information specified in [section 238(1)(c)][359], becomes liable to the chief executive for the levy payable under [section 53][98] in relation to the building work to which the building consent relates.
     
     (2) The total amount of the levy for which a territorial authority becomes liable is due and payable to the chief executive by the 20th day of the month following the month in which the relevant building consent was granted.
     
@@ -3828,9 +3830,9 @@ Building
     
     Compare: 1991 No 150 s 23C(1), (2), (3)
     
-    Section 59(1): amended, on 14 April 2005, by [section 7(2)(c)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 59(1): amended, on 14 April 2005, by [section 7(2)(c)][760] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 59(2): amended, on 14 April 2005, by [section 7(2)(a)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 59(2): amended, on 14 April 2005, by [section 7(2)(a)][760] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 60 Territorial authority may retain part of levy
     
@@ -3890,7 +3892,7 @@ Building
     
     Compare: 1991 No 150 s 23F
     
-    Section 63(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 63(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Audit of issue of building consents for purpose of ascertaining payment of levy
     
@@ -3922,7 +3924,7 @@ Building
     
     Compare: 1991 No 150 s 23E
     
-    Section 64(1): amended, on 14 April 2005, by [section 7(2)(a)][759] of the Building Amendment Act 2005 (2005 No 31).
+    Section 64(1): amended, on 14 April 2005, by [section 7(2)(a)][760] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 65 Chief executive may enter into agreements for auditing certain information
     
@@ -3946,33 +3948,33 @@ Building
 
 ##### 67 Territorial authority may grant building consent subject to waivers or modifications of building code
     
-*   (1) A building consent authority that is a territorial authority may grant an application for a building consent subject to a waiver or modification of the [building code][668].
+*   (1) A building consent authority that is a territorial authority may grant an application for a building consent subject to a waiver or modification of the [building code][669].
     
-    (2) A waiver or modification of the [building code][668] under subsection (1) may be subject to any conditions that the territorial authority considers appropriate.
+    (2) A waiver or modification of the [building code][669] under subsection (1) may be subject to any conditions that the territorial authority considers appropriate.
     
-    (3) The territorial authority cannot grant an application for a building consent subject to a waiver or modification of the [building code][668] relating to access and facilities for people with disabilities.
+    (3) The territorial authority cannot grant an application for a building consent subject to a waiver or modification of the [building code][669] relating to access and facilities for people with disabilities.
     
-    Section 67(3): replaced, on 14 April 2005, by [section 8][761] of the Building Amendment Act 2005 (2005 No 31).
+    Section 67(3): replaced, on 14 April 2005, by [section 8][762] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 68 Territorial authority must notify chief executive if waiver or modification granted
     
-*   If a territorial authority grants a building consent subject to a waiver or modification of the [building code][668], the territorial authority must notify the chief executive of the waiver or modification.
+*   If a territorial authority grants a building consent subject to a waiver or modification of the [building code][669], the territorial authority must notify the chief executive of the waiver or modification.
 
 ##### 69 Waiver or modification may only be granted by chief executive in certain cases
     
-*   (1) This section applies to a waiver or modification of the [building code][668] that relates to---
+*   (1) This section applies to a waiver or modification of the [building code][669] that relates to---
         
-    *   (a) an existing building to which [section 118][189] applies; and
+    *   (a) an existing building to which [section 118][190] applies; and
     
     *   (b) access and facilities for use by persons with disabilities.
     
-    (2) If this section applies, the chief executive may grant a waiver or modification only in a determination issued under [subpart 1][272] of Part 3\.
+    (2) If this section applies, the chief executive may grant a waiver or modification only in a determination issued under [subpart 1][273] of Part 3\.
     
-    (3) This section does not apply to a waiver or modification of the [building code][668] that relates to a new building or that is contained in a national multiple-use approval.
+    (3) This section does not apply to a waiver or modification of the [building code][669] that relates to a new building or that is contained in a national multiple-use approval.
     
-    Section 69(1)(b): amended, on 15 March 2008, by [section 12][762] of the Building Amendment Act 2008 (2008 No 4).
+    Section 69(1)(b): amended, on 15 March 2008, by [section 12][763] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 69(3): amended, on 1 February 2010, by [section 19][763] of the Building Amendment Act 2009 (2009 No 25).
+    Section 69(3): amended, on 1 February 2010, by [section 19][764] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 70 Applications relating to energy work
     
@@ -3980,7 +3982,7 @@ Building
         
     *   (a) relates to energy work; and
     
-    *   (b) involves the grant or refusal of a waiver or modification of the [building code][668] in relation to that energy work.
+    *   (b) involves the grant or refusal of a waiver or modification of the [building code][669] in relation to that energy work.
     
     (2) If this section applies,---
         
@@ -3990,7 +3992,7 @@ Building
     
     (3) If any part of the application is referred to the chief executive under subsection (2)(b), the chief executive must---
         
-    *   (a) consult with the chief executive of the department of State responsible for the administration of the [Gas Act 1992][716] and the [Electricity Act 1992][715]; and
+    *   (a) consult with the chief executive of the department of State responsible for the administration of the [Gas Act 1992][717] and the [Electricity Act 1992][716]; and
     
     *   (b) decide---
             
@@ -4002,7 +4004,7 @@ Building
         
         
     
-    (4) An application referred to in subsection (1) must be treated, for the purposes of [section 177][284], as an application by the applicant for the building consent to which the referral relates, and, accordingly, [subpart 1][272] of Part 3 applies to the application---
+    (4) An application referred to in subsection (1) must be treated, for the purposes of [section 177][285], as an application by the applicant for the building consent to which the referral relates, and, accordingly, [subpart 1][273] of Part 3 applies to the application---
         
     *   (a) to the extent that it is applicable; and
     
@@ -4048,11 +4050,11 @@ Building
     
     *   (b) the land is subject or is likely to be subject to 1 or more natural hazards; and
     
-    *   (c) it is reasonable to grant a waiver or modification of the [building code][668] in respect of the natural hazard concerned.
+    *   (c) it is reasonable to grant a waiver or modification of the [building code][669] in respect of the natural hazard concerned.
     
     Compare: 1991 No 150 s 36(2)
     
-    Section 72: amended, on 15 March 2008, by [section 13][764] of the Building Amendment Act 2008 (2008 No 4).
+    Section 72: amended, on 15 March 2008, by [section 13][765] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 73 Conditions on building consents granted under section 72
     
@@ -4070,9 +4072,9 @@ Building
     
     Compare: 1991 No 150 s 36(2), (3)
     
-    Section 73(1): amended, on 15 March 2008, by [section 14][765] of the Building Amendment Act 2008 (2008 No 4).
+    Section 73(1): amended, on 15 March 2008, by [section 14][766] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 73(2): amended, on 1 February 2010, by [section 20][766] of the Building Amendment Act 2009 (2009 No 25).
+    Section 73(2): amended, on 1 February 2010, by [section 20][767] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 74 Steps after notification
     
@@ -4088,13 +4090,13 @@ Building
         
         
     
-    (2) If an entry has been recorded on a duplicate of the certificate of title referred to in subsection (1)(b) under [section 641A][767] of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
+    (2) If an entry has been recorded on a duplicate of the certificate of title referred to in subsection (1)(b) under [section 641A][768] of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
     
     (3) Subsection (4) applies if a building consent authority determines that any of the following entries is no longer required:
         
     *   (a) an entry referred to in subsection (1)(b):
     
-    *   (b) an entry under [section 641A][767] of the Local Government Act 1974:
+    *   (b) an entry under [section 641A][768] of the Local Government Act 1974:
     
     *   (c) an entry under section 36 of the former Act.
     
@@ -4102,7 +4104,7 @@ Building
     
     Compare: 1991 No 150 s 36(5), (6), (7)
     
-    Section 74(1)(a): amended, on 1 February 2010, by [section 21][768] of the Building Amendment Act 2009 (2009 No 25).
+    Section 74(1)(a): amended, on 1 February 2010, by [section 21][769] of the Building Amendment Act 2009 (2009 No 25).
 
 #### Limitations and restrictions on building consents: Construction of building on 2 or more allotments
 
@@ -4118,9 +4120,9 @@ Building
     
     Compare: 1991 No 150 s 37(1), (2)
     
-    Section 75(1)(a): amended, on 1 February 2010, by [section 22(1)][769] of the Building Amendment Act 2009 (2009 No 25).
+    Section 75(1)(a): amended, on 1 February 2010, by [section 22(1)][770] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 75(2): replaced, on 1 February 2010, by [section 22(2)][769] of the Building Amendment Act 2009 (2009 No 25).
+    Section 75(2): replaced, on 1 February 2010, by [section 22(2)][770] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 76 Exemption from section 75
     
@@ -4150,9 +4152,9 @@ Building
     
     (5) The building consent authority must note, on the building consent, the condition imposed in the certificate.
     
-    Section 77(1): amended, on 1 February 2010, by [section 23(1)][770] of the Building Amendment Act 2009 (2009 No 25).
+    Section 77(1): amended, on 1 February 2010, by [section 23(1)][771] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 77(5): inserted, on 1 February 2010, by [section 23(2)][770] of the Building Amendment Act 2009 (2009 No 25).
+    Section 77(5): inserted, on 1 February 2010, by [section 23(2)][771] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 78 Registrar-General of Land must record entry on certificate of title when certificate is lodged under section 77
     
@@ -4164,7 +4166,7 @@ Building
     
     Compare: 1991 No 150 s 37(2)
     
-    Section 78(1): amended, on 1 February 2010, by [section 24][771] of the Building Amendment Act 2009 (2009 No 25).
+    Section 78(1): amended, on 1 February 2010, by [section 24][772] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 79 Effect of entry recorded on certificate of title
     
@@ -4204,11 +4206,11 @@ Building
     
 *   (1) If a certificate referred to in [section 77][125] is lodged with the Registrar-General of Land, but the Registrar-General is satisfied that it is not practicable or desirable to record the entry on the certificates of title specified in [section 78][126], the Registrar-General may require that---
         
-    *   (a) a plan be deposited under the [Land Transfer Act 1952][704]; and
+    *   (a) a plan be deposited under the [Land Transfer Act 1952][705]; and
     
     *   (b) 1 or more certificates of title under that Act be issued for the land in terms of the plan.
     
-    (2) In subsection (1), _plan_ means a plan prepared in accordance with [section 167][772] of the Land Transfer Act 1952 that amalgamates all the allotments---
+    (2) In subsection (1), _plan_ means a plan prepared in accordance with [section 167][773] of the Land Transfer Act 1952 that amalgamates all the allotments---
         
     *   (a) into 1 allotment; or
     
@@ -4220,7 +4222,7 @@ Building
     
 *   (1) This section applies if---
         
-    *   (a) the requirements of [sections 75 to 81][123] or the requirements of [section 643(1)][773] to (6) of the Local Government Act 1974 or any previous enactments were met to enable a building to be built on 2 or more allotments; and
+    *   (a) the requirements of [sections 75 to 81][123] or the requirements of [section 643(1)][774] to (6) of the Local Government Act 1974 or any previous enactments were met to enable a building to be built on 2 or more allotments; and
     
     *   (b) any of the following applies:
             
@@ -4258,11 +4260,11 @@ Building
         
     *   (a) [section 78][126]; or
     
-    *   (b) [section 643][773] of the Local Government Act 1974; or
+    *   (b) [section 643][774] of the Local Government Act 1974; or
     
     *   (c) the corresponding provisions of any previous enactment.
     
-    (7) Subsections (2) and (3) apply, with any necessary modifications, to any request by an owner of land if the requirements of [section 643(1)][773] to (6) of the Local Government Act 1974 or any previous enactment or [sections 75 to 81][123] were applied in error.
+    (7) Subsections (2) and (3) apply, with any necessary modifications, to any request by an owner of land if the requirements of [section 643(1)][774] to (6) of the Local Government Act 1974 or any previous enactment or [sections 75 to 81][123] were applied in error.
     
     Compare: 1991 No 150 s 37(8), (9), (10)
 
@@ -4274,7 +4276,7 @@ Building
     
 *   All restricted building work must be carried out or supervised by a licensed building practitioner who is licensed to carry out or supervise the work.
     
-    Section 84: amended, on 15 March 2008, by [section 15][774] of the Building Amendment Act 2008 (2008 No 4).
+    Section 84: amended, on 15 March 2008, by [section 15][775] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 85 Offences relating to carrying out or supervising restricted building work
     
@@ -4290,7 +4292,7 @@ Building
     
     (4) A person who commits an offence under this section is liable to a fine not exceeding $20,000\.
     
-    Section 85: replaced, on 13 March 2012, by [section 23][775] of the Building Amendment Act 2012 (2012 No 23).
+    Section 85: replaced, on 13 March 2012, by [section 23][776] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 86 Offence to engage another person to carry out or supervise restricted building work if person is not licensed building practitioner
     
@@ -4322,13 +4324,13 @@ Building
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 86(1): replaced, on 13 March 2012, by [section 24][776] of the Building Amendment Act 2012 (2012 No 23).
+    Section 86(1): replaced, on 13 March 2012, by [section 24][777] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 86(1A): inserted, on 13 March 2012, by [section 24][776] of the Building Amendment Act 2012 (2012 No 23).
+    Section 86(1A): inserted, on 13 March 2012, by [section 24][777] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 86(1B): inserted, on 13 March 2012, by [section 24][776] of the Building Amendment Act 2012 (2012 No 23).
+    Section 86(1B): inserted, on 13 March 2012, by [section 24][777] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 86(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 86(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 87 Owner must notify names of licensed building practitioners engaged in restricted building work
     
@@ -4354,7 +4356,7 @@ Building
     
     (4) This section does not apply in the case of a licensed building practitioner who, as an unpaid friend or family member of an owner-builder, is engaged to assist the owner-builder in carrying out restricted building work.
     
-    Section 87(4): inserted, on 13 March 2012, by [section 25][777] of the Building Amendment Act 2012 (2012 No 23).
+    Section 87(4): inserted, on 13 March 2012, by [section 25][778] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 87A Notices to building consent authority when owner-builder carries out restricted building work
     
@@ -4384,7 +4386,7 @@ Building
     
     (5) A person who contravenes this section commits an offence and is liable to a fine not exceeding $20,000\.
     
-    Section 87A: inserted, on 13 March 2012, by [section 26][778] of the Building Amendment Act 2012 (2012 No 23).
+    Section 87A: inserted, on 13 March 2012, by [section 26][779] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 88 Licensed building practitioner to provide record of work in respect of restricted building work
     
@@ -4404,15 +4406,15 @@ Building
     
     *   (b) give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the record of work.
     
-    (5) Subsection (4) does not limit [section 397(c)][595].
+    (5) Subsection (4) does not limit [section 397(c)][596].
     
-    Section 88 heading: amended, on 13 March 2012, by [section 27(1)][779] of the Building Amendment Act 2012 (2012 No 23).
+    Section 88 heading: amended, on 13 March 2012, by [section 27(1)][780] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 88(1): replaced, on 13 March 2012, by [section 27(2)][779] of the Building Amendment Act 2012 (2012 No 23).
+    Section 88(1): replaced, on 13 March 2012, by [section 27(2)][780] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 88(3): repealed, on 13 March 2012, by [section 27(3)][779] of the Building Amendment Act 2012 (2012 No 23).
+    Section 88(3): repealed, on 13 March 2012, by [section 27(3)][780] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 88(4): replaced, on 13 March 2012, by [section 27(4)][779] of the Building Amendment Act 2012 (2012 No 23).
+    Section 88(4): replaced, on 13 March 2012, by [section 27(4)][780] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Other provisions relating to building work generally
 
@@ -4452,13 +4454,13 @@ Building
 
 ### Subpart 4A---Restricted building work carried out by owner-builders
     
-*   Subpart 4A: inserted, on 13 March 2012, by [section 29][780] of the Building Amendment Act 2012 (2012 No 23).
+*   Subpart 4A: inserted, on 13 March 2012, by [section 29][781] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 90A Purpose of this subpart
     
 *   The purpose of this subpart is to enable homeowners to build and alter their own homes.
     
-    Section 90A: inserted, on 13 March 2012, by [section 29][780] of the Building Amendment Act 2012 (2012 No 23).
+    Section 90A: inserted, on 13 March 2012, by [section 29][781] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 90B Meaning of owner-builder
     
@@ -4474,7 +4476,7 @@ Building
     
     (2) For the purposes of subsection (1)(b), _reside_ includes temporarily reside.
     
-    Section 90B: inserted, on 13 March 2012, by [section 29][780] of the Building Amendment Act 2012 (2012 No 23).
+    Section 90B: inserted, on 13 March 2012, by [section 29][781] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 90C Meaning of relevant interest
     
@@ -4484,7 +4486,7 @@ Building
     
     *   (b) a right, power, or privilege over, or in connection with, the land or building.
     
-    Section 90C: inserted, on 13 March 2012, by [section 29][780] of the Building Amendment Act 2012 (2012 No 23).
+    Section 90C: inserted, on 13 March 2012, by [section 29][781] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 90D Owner-builder exemption
     
@@ -4492,7 +4494,7 @@ Building
     
     (2) Subsection (1) does not apply if the restricted building work in question is low-risk building work under a low-risk building consent, simple residential building work under a simple residential building consent, or commercial building work under a commercial building consent.
     
-    Section 90D: inserted, on 13 March 2012, by [section 29][780] of the Building Amendment Act 2012 (2012 No 23).
+    Section 90D: inserted, on 13 March 2012, by [section 29][781] of the Building Amendment Act 2012 (2012 No 23).
 
 ### Subpart 5---Code compliance certificates, certificates of acceptance, and compliance schedules
 
@@ -4516,7 +4518,7 @@ Building
     
     (4) The owner of the building to which the building work relates must apply for a certificate of acceptance under [section 96][157].
     
-    Section 91(3)(a): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 91(3)(a): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 92 Application for code compliance certificate
     
@@ -4544,9 +4546,9 @@ Building
     
     Compare: 1991 No 150 s 43(1), (2), (2A)
     
-    Section 92(2A): replaced, on 28 November 2013, by [section 21(1)][781] of the Building Amendment Act 2013 (2013 No 100).
+    Section 92(2A): replaced, on 28 November 2013, by [section 21(1)][782] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 92(3): repealed, on 28 November 2013, by [section 21(2)][781] of the Building Amendment Act 2013 (2013 No 100).
+    Section 92(3): repealed, on 28 November 2013, by [section 21(2)][782] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 93 Time in which building consent authority must decide whether to issue code compliance certificate
     
@@ -4590,7 +4592,7 @@ Building
     
     (3) If the owner fails to provide to a building consent authority an energy work certificate in relation to energy work in respect of which a building consent has been granted, the failure is a sufficient reason for the building consent authority to refuse to issue a code compliance certificate in respect of the energy work.
     
-    (4) If a development contribution has been required to be paid or made under [section 198][782] of the Local Government Act 2002, a building consent authority that is other than the territorial authority that made the requirement must refuse to issue a code compliance certificate in respect of the relevant building work until the building consent authority has received---
+    (4) If a development contribution has been required to be paid or made under [section 198][783] of the Local Government Act 2002, a building consent authority that is other than the territorial authority that made the requirement must refuse to issue a code compliance certificate in respect of the relevant building work until the building consent authority has received---
         
     *   (a) evidence that the development contribution has been paid or made by the owner concerned to the territorial authority; or
     
@@ -4608,11 +4610,11 @@ Building
     
     *   (b) in the prescribed form; and
     
-    *   (c) on payment of any fees and charges imposed by the building consent authority under [section 240][360].
+    *   (c) on payment of any fees and charges imposed by the building consent authority under [section 240][361].
     
     Compare: 1991 No 150 s 43(3)
     
-    Section 95(c): replaced, on 13 March 2012, by [section 36(3)][783] of the Building Amendment Act 2012 (2012 No 23).
+    Section 95(c): replaced, on 13 March 2012, by [section 36(3)][784] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 95A Refusal to issue code compliance certificate
     
@@ -4622,7 +4624,7 @@ Building
     
     *   (b) the reasons for the refusal.
     
-    Section 95A: inserted, on 15 March 2008, by [section 20][784] of the Building Amendment Act 2008 (2008 No 4).
+    Section 95A: inserted, on 15 March 2008, by [section 20][785] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Certificates of acceptance
 
@@ -4644,7 +4646,7 @@ Building
     
     *   (d) if---
             
-        *   (i) the work affects premises to which [section 362A][545] applies; and
+        *   (i) the work affects premises to which [section 362A][546] applies; and
         
         *   (ii) a building consent for the work was obtained before 31 March 2005; and
         
@@ -4654,7 +4656,7 @@ Building
         
         
     
-    (2) A territorial authority may issue a certificate of acceptance only if it is satisfied, to the best of its knowledge and belief and on reasonable grounds, that, insofar as it could ascertain, the building work complies with the [building code][668].
+    (2) A territorial authority may issue a certificate of acceptance only if it is satisfied, to the best of its knowledge and belief and on reasonable grounds, that, insofar as it could ascertain, the building work complies with the [building code][669].
     
     (3) This section---
         
@@ -4662,7 +4664,7 @@ Building
     
     *   (b) accordingly, does not relieve a person from the requirement to obtain a building consent for building work.
     
-    Section 96(1): replaced, on 14 April 2005, by [section 10][785] of the Building Amendment Act 2005 (2005 No 31).
+    Section 96(1): replaced, on 14 April 2005, by [section 10][786] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 97 How to apply for certificate of acceptance
     
@@ -4672,7 +4674,7 @@ Building
     
     *   (b) if available, be accompanied by plans and specifications that are---
             
-        *   (i) required by regulations made under [section 402][603]; or
+        *   (i) required by regulations made under [section 402][604]; or
         
         *   (ii) if the regulations do not so require, required by the territorial authority; and
         
@@ -4680,7 +4682,7 @@ Building
     
     *   (c) contain or be accompanied by any other information that the territorial authority reasonably requires; and
     
-    *   (d) be accompanied by any fees and charges imposed by the territorial authority under [section 219][333]; and
+    *   (d) be accompanied by any fees and charges imposed by the territorial authority under [section 219][334]; and
     
     *   (e) in the case of an application under [section 96(1)(a)][157], be accompanied by any fees, charges, or levies that would have been payable had the owner, or the owner's predecessor in title, applied for a building consent before carrying out the building work; and
     
@@ -4698,7 +4700,7 @@ Building
         
         
     
-    Section 97(d): replaced, on 13 March 2012, by [section 39][786] of the Building Amendment Act 2012 (2012 No 23).
+    Section 97(d): replaced, on 13 March 2012, by [section 39][787] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 98 Processing application for certificate of acceptance
     
@@ -4728,6 +4730,18 @@ Building
     
     (3) A territorial authority's liability for the issue of a certificate of acceptance is limited to the same extent that the territorial authority was able to inspect the building work in question.
 
+##### 99AA Withholding certificate of acceptance
+    
+*   If a territorial authority grants an application for a certificate of acceptance but withholds the certificate under [section 208][788] of the Local Government Act 2002, the territorial authority must give the applicant written notice of---
+        
+    *   (a) the grant of the application; and
+    
+    *   (b) the withholding of the certificate; and
+    
+    *   (c) the development contribution required to be paid or made before the certificate will be issued.
+    
+    Section 99AA: inserted, on 8 August 2014, by [section 78][789] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
 ##### 99A Refusal of application for certificate of acceptance
     
 *   If a territorial authority refuses to grant an application for a certificate of acceptance, the territorial authority must give the applicant written notice of---
@@ -4736,7 +4750,7 @@ Building
     
     *   (b) the reasons for the refusal.
     
-    Section 99A: inserted, on 15 March 2008, by [section 21][787] of the Building Amendment Act 2008 (2008 No 4).
+    Section 99A: inserted, on 15 March 2008, by [section 21][790] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Compliance schedules
 
@@ -4774,23 +4788,23 @@ Building
     
     (4) The requirement in subsections (1) and (2) that a building have a compliance schedule if it has a cable car attached to it or servicing it is satisfied, in the case of a cable car that is attached to or services more than 1 building, if any of the buildings in question have a compliance schedule for the cable car.
     
-    (5) Except to the extent that it provides, subsection (4) does not relieve an owner of any of the obligations under [sections 105 to 110][170].
+    (5) Except to the extent that it provides, subsection (4) does not relieve an owner of any of the obligations under [sections 105 to 110][171].
     
-    Section 100: replaced, on 14 April 2005, by [section 11][788] of the Building Amendment Act 2005 (2005 No 31).
+    Section 100: replaced, on 14 April 2005, by [section 11][791] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 100(4): inserted, on 13 March 2012, by [section 40][789] of the Building Amendment Act 2012 (2012 No 23).
+    Section 100(4): inserted, on 13 March 2012, by [section 40][792] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 100(5): inserted, on 13 March 2012, by [section 40][789] of the Building Amendment Act 2012 (2012 No 23).
+    Section 100(5): inserted, on 13 March 2012, by [section 40][792] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 101 Owner must comply with requirement for compliance schedule
     
-*   (1) An owner of a building for which a compliance schedule is required under [section 100][163] must obtain the compliance schedule.
+*   (1) An owner of a building for which a compliance schedule is required under [section 100][164] must obtain the compliance schedule.
     
     (2) A person commits an offence if the person fails to comply with subsection (1).
     
     (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part of a day during which the offence has continued.
     
-    Section 101(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 101(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 When compliance schedule must be issued
     
@@ -4802,13 +4816,13 @@ Building
     
     (2) A compliance schedule that is issued under subsection (1) must be issued with the relevant code compliance certificate or consent completion certificate.
     
-    (3) A territorial authority must issue a compliance schedule on an application under [section 102A][166] if the territorial authority is satisfied, on reasonable grounds, that the specified systems for the building are capable of performing to the performance standards for those systems.
+    (3) A territorial authority must issue a compliance schedule on an application under [section 102A][167] if the territorial authority is satisfied, on reasonable grounds, that the specified systems for the building are capable of performing to the performance standards for those systems.
     
-    Section 102: replaced, on 13 March 2012, by [section 41][790] of the Building Amendment Act 2012 (2012 No 23).
+    Section 102: replaced, on 13 March 2012, by [section 41][793] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 102A Procedure for obtaining compliance schedule where building consent not required
     
-*   (1) This section applies when an owner of a building for which a compliance schedule is required under [section 100][163] must obtain a compliance schedule but is not required to apply for a building consent in relation to the building because, for example, no building work is being carried out.
+*   (1) This section applies when an owner of a building for which a compliance schedule is required under [section 100][164] must obtain a compliance schedule but is not required to apply for a building consent in relation to the building because, for example, no building work is being carried out.
     
     (2) The owner must apply in the prescribed form (if any) to the appropriate territorial authority for the issue of a compliance schedule by providing the authority with---
         
@@ -4816,7 +4830,7 @@ Building
     
     *   (b) the proposed inspection, maintenance, and reporting procedures for the specified systems.
     
-    Section 102A: inserted, on 13 March 2012, by [section 42][791] of the Building Amendment Act 2012 (2012 No 23).
+    Section 102A: inserted, on 13 March 2012, by [section 42][794] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 103 Content of compliance schedule
     
@@ -4844,19 +4858,19 @@ Building
     
     Compare: 1991 No 150 s 44(2), (3), (5)
     
-    Section 103(1): replaced, on 13 March 2012, by [section 43][792] of the Building Amendment Act 2012 (2012 No 23).
+    Section 103(1): replaced, on 13 March 2012, by [section 43][795] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 103(2)(b)(ii): amended, on 28 November 2013, by [section 22][793] of the Building Amendment Act 2013 (2013 No 100).
+    Section 103(2)(b)(ii): amended, on 28 November 2013, by [section 22][796] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 104 Building consent authority must notify territorial authority of issue of compliance schedule
     
-*   If a building consent authority issues a compliance schedule under [section 102][165], the building consent authority must, within 5 working days after issuing the compliance schedule, provide a copy of it to the territorial authority in whose district the building is situated.
+*   If a building consent authority issues a compliance schedule under [section 102][166], the building consent authority must, within 5 working days after issuing the compliance schedule, provide a copy of it to the territorial authority in whose district the building is situated.
 
 ##### 104A Territorial authority must issue statement in relation to compliance schedule
     
-*   A territorial authority that receives a copy under [section 104][168] of a compliance schedule must, within 5 working days after receiving the compliance schedule, provide the owner of the building for which the compliance schedule was issued with the statement in relation to the compliance schedule described in [section 105(e)][170].
+*   A territorial authority that receives a copy under [section 104][169] of a compliance schedule must, within 5 working days after receiving the compliance schedule, provide the owner of the building for which the compliance schedule was issued with the statement in relation to the compliance schedule described in [section 105(e)][171].
     
-    Section 104A: inserted, on 15 March 2008, by [section 23][794] of the Building Amendment Act 2008 (2008 No 4).
+    Section 104A: inserted, on 15 March 2008, by [section 23][797] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 105 Obligations of owner if compliance schedule is issued
     
@@ -4864,7 +4878,7 @@ Building
         
     *   (a) that each of the specified systems stated in the compliance schedule is performing, and will continue to perform, to the performance standards for that system; and
     
-    *   (b) that the owner provides to the territorial authority an annual building warrant of fitness in accordance with [section 108][174]; and
+    *   (b) that the owner provides to the territorial authority an annual building warrant of fitness in accordance with [section 108][175]; and
     
     *   (c) that the compliance schedule is kept---
             
@@ -4890,7 +4904,7 @@ Building
     
     Compare: 1991 No 150 s 44(4)
     
-    Section 105(e): replaced, on 13 March 2012, by [section 44][795] of the Building Amendment Act 2012 (2012 No 23).
+    Section 105(e): replaced, on 13 March 2012, by [section 44][798] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 106 Application by owner for amendment to compliance schedule
     
@@ -4916,7 +4930,7 @@ Building
     
     *   (b) provide any information that the territorial authority reasonably requires in relation to the application; and
     
-    *   (c) pay any fees and charges imposed by the territorial authority under [section 219][333].
+    *   (c) pay any fees and charges imposed by the territorial authority under [section 219][334].
     
     (4) The territorial authority must, as soon as practicable after receiving the application, decide whether to amend the compliance schedule.
     
@@ -4928,11 +4942,11 @@ Building
     
     (6) If the territorial authority refuses to amend the compliance schedule, the territorial authority must give written notice of, and the reasons for, the refusal to the owner.
     
-    Section 106(2): replaced, on 13 March 2012, by [section 45(1)][796] of the Building Amendment Act 2012 (2012 No 23).
+    Section 106(2): replaced, on 13 March 2012, by [section 45(1)][799] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 106(2A): inserted, on 13 March 2012, by [section 45(1)][796] of the Building Amendment Act 2012 (2012 No 23).
+    Section 106(2A): inserted, on 13 March 2012, by [section 45(1)][799] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 106(3)(c): replaced, on 13 March 2012, by [section 45(2)][796] of the Building Amendment Act 2012 (2012 No 23).
+    Section 106(3)(c): replaced, on 13 March 2012, by [section 45(2)][799] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 107 Territorial authority may amend compliance schedule on own initiative
     
@@ -4942,7 +4956,7 @@ Building
         
     *   (a) on its own initiative; and
     
-    *   (b) without an application for an amendment to the compliance schedule being made under [section 106][171].
+    *   (b) without an application for an amendment to the compliance schedule being made under [section 106][172].
     
     (3) However, before making an amendment to a compliance schedule under this section, the territorial authority must---
         
@@ -4960,7 +4974,7 @@ Building
     
     (5) \[Repealed\]
     
-    Section 107(5): repealed, on 13 March 2012, by [section 46][797] of the Building Amendment Act 2012 (2012 No 23).
+    Section 107(5): repealed, on 13 March 2012, by [section 46][800] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Annual building warrant of fitness
 
@@ -5002,21 +5016,21 @@ Building
     
     Compare: 1991 No 150 s 45(1), (2)
     
-    Section 108(3)(c): amended, on 13 March 2012, by [section 47(1)][798] of the Building Amendment Act 2012 (2012 No 23).
+    Section 108(3)(c): amended, on 13 March 2012, by [section 47(1)][801] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 108(3)(d): amended, on 13 March 2012, by [section 47(1)][798] of the Building Amendment Act 2012 (2012 No 23).
+    Section 108(3)(d): amended, on 13 March 2012, by [section 47(1)][801] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 108(4): amended, on 13 March 2012, by [section 47(2)][798] of the Building Amendment Act 2012 (2012 No 23).
+    Section 108(4): amended, on 13 March 2012, by [section 47(2)][801] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 108(5)(aa): inserted, on 15 March 2008, by [section 24][799] of the Building Amendment Act 2008 (2008 No 4).
+    Section 108(5)(aa): inserted, on 15 March 2008, by [section 24][802] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 108(6): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 108(6): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 108(7): replaced, on 13 March 2012, by [section 47(3)][798] of the Building Amendment Act 2012 (2012 No 23).
+    Section 108(7): replaced, on 13 March 2012, by [section 47(3)][801] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 109 Territorial authority must consider recommendation to amend compliance schedule
     
-*   A territorial authority must, in relation to a recommendation made by an independently qualified person under [section 108(3)(d)][174] for a compliance schedule to be amended,---
+*   A territorial authority must, in relation to a recommendation made by an independently qualified person under [section 108(3)(d)][175] for a compliance schedule to be amended,---
         
     *   (a) give the owner of the building concerned a reasonable opportunity to make written submissions on the recommendation; and
     
@@ -5032,7 +5046,7 @@ Building
     
     *   (d) if it decides to accept the recommendation, amend the compliance schedule and give written notice to the owner accordingly.
     
-    Section 109: amended, on 13 March 2012, by [section 48][800] of the Building Amendment Act 2012 (2012 No 23).
+    Section 109: amended, on 13 March 2012, by [section 48][803] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 110 Owner must obtain reports on compliance schedule
     
@@ -5050,13 +5064,13 @@ Building
         
         
     
-    *   (d) show the location of those reports and the compliance schedule on the building warrant of fitness displayed in accordance with [section 108(4)][174].
+    *   (d) show the location of those reports and the compliance schedule on the building warrant of fitness displayed in accordance with [section 108(4)][175].
     
     Compare: 1991 No 150 s 45(3)
     
-    Section 110(a): amended, on 13 March 2012, by [section 49][801] of the Building Amendment Act 2012 (2012 No 23).
+    Section 110(a): amended, on 13 March 2012, by [section 49][804] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 110(a): amended, on 15 March 2008, by [section 25][802] of the Building Amendment Act 2008 (2008 No 4).
+    Section 110(a): amended, on 15 March 2008, by [section 25][805] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 111 Inspections by territorial authority
     
@@ -5070,11 +5084,11 @@ Building
     
     (3) In this section, _inspection_ means the taking of all reasonable steps to ensure that---
         
-    *   (a) an annual building warrant of fitness supplied under [section 108][174] is correct; and
+    *   (a) an annual building warrant of fitness supplied under [section 108][175] is correct; and
     
-    *   (b) every report under [section 110][176] is correct.
+    *   (b) every report under [section 110][177] is correct.
     
-    Section 111(2): repealed, on 13 March 2012, by [section 50][803] of the Building Amendment Act 2012 (2012 No 23).
+    Section 111(2): repealed, on 13 March 2012, by [section 50][806] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Alterations to existing buildings
 
@@ -5082,25 +5096,25 @@ Building
     
 *   (1) A building consent authority must not grant a building consent for the alteration of an existing building, or part of an existing building, unless the building consent authority is satisfied that, after the alteration,---
         
-    *   (a) the building will comply, as nearly as is reasonably practicable, with the provisions of the [building code][668] that relate to---
+    *   (a) the building will comply, as nearly as is reasonably practicable, with the provisions of the [building code][669] that relate to---
             
         *   (i) means of escape from fire; and
         
-        *   (ii) access and facilities for persons with disabilities (if this is a requirement in terms of [section 118][189]); and
+        *   (ii) access and facilities for persons with disabilities (if this is a requirement in terms of [section 118][190]); and
         
         
     
     *   (b) the building will,---
             
-        *   (i) if it complied with the other provisions of the [building code][668] immediately before the building work began, continue to comply with those provisions; or
+        *   (i) if it complied with the other provisions of the [building code][669] immediately before the building work began, continue to comply with those provisions; or
         
-        *   (ii) if it did not comply with the other provisions of the [building code][668] immediately before the building work began, continue to comply at least to the same extent as it did then comply.
+        *   (ii) if it did not comply with the other provisions of the [building code][669] immediately before the building work began, continue to comply at least to the same extent as it did then comply.
         
         
     
-    (2) Despite subsection (1), a territorial authority may, by written notice to the owner of a building, allow the alteration of an existing building, or part of an existing building, without the building complying with provisions of the [building code][668] specified by the territorial authority if the territorial authority is satisfied that,---
+    (2) Despite subsection (1), a territorial authority may, by written notice to the owner of a building, allow the alteration of an existing building, or part of an existing building, without the building complying with provisions of the [building code][669] specified by the territorial authority if the territorial authority is satisfied that,---
         
-    *   (a) if the building were required to comply with the relevant provisions of the [building code][668], the alteration would not take place; and
+    *   (a) if the building were required to comply with the relevant provisions of the [building code][669], the alteration would not take place; and
     
     *   (b) the alteration will result in improvements to attributes of the building that relate to---
             
@@ -5110,11 +5124,11 @@ Building
         
         
     
-    *   (c) the improvements referred to in paragraph (b) outweigh any detriment that is likely to arise as a result of the building not complying with the relevant provisions of the [building code][668].
+    *   (c) the improvements referred to in paragraph (b) outweigh any detriment that is likely to arise as a result of the building not complying with the relevant provisions of the [building code][669].
     
     Compare: 1991 No 150 s 38
     
-    Section 112(1): replaced, on 28 November 2013, by [section 23][804] of the Building Amendment Act 2013 (2013 No 100).
+    Section 112(1): replaced, on 28 November 2013, by [section 23][807] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 113 Buildings with specified intended lives
     
@@ -5130,13 +5144,13 @@ Building
     
     Compare: 1991 No 150 s 39
     
-    Section 113(1): amended, on 15 March 2008, by [section 26][805] of the Building Amendment Act 2008 (2008 No 4).
+    Section 113(1): amended, on 15 March 2008, by [section 26][808] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Change of use, extension of life, and subdivision of buildings
 
 ##### 114 Owner must give notice of change of use, extension of life, or subdivision of buildings
     
-*   (1) In this section and [section 115][183], _change the use_, in relation to a building, means to change the use of the building in a manner described in the regulations.
+*   (1) In this section and [section 115][184], _change the use_, in relation to a building, means to change the use of the building in a manner described in the regulations.
     
     (2) An owner of a building must give written notice to the territorial authority if the owner proposes---
         
@@ -5152,29 +5166,29 @@ Building
     
     Compare: 1991 No 150 s 46(1)
     
-    Section 114(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 114(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 115 Code compliance requirements: change of use
     
 *   An owner of a building must not change the use of the building,---
         
-    *   (a) in a case where the change involves the incorporation in the building of 1 or more household units where household units did not exist before, unless the territorial authority gives the owner written notice that the territorial authority is satisfied, on reasonable grounds, that the building, in its new use, will comply, as nearly as is reasonably practicable, with the [building code][668] in all respects; and
+    *   (a) in a case where the change involves the incorporation in the building of 1 or more household units where household units did not exist before, unless the territorial authority gives the owner written notice that the territorial authority is satisfied, on reasonable grounds, that the building, in its new use, will comply, as nearly as is reasonably practicable, with the [building code][669] in all respects; and
     
     *   (b) in any other case, unless the territorial authority gives the owner written notice that the territorial authority is satisfied, on reasonable grounds, that the building, in its new use,---
             
-        *   (i) will comply, as nearly as is reasonably practicable, with every provision of the [building code][668] that relates to the following:
+        *   (i) will comply, as nearly as is reasonably practicable, with every provision of the [building code][669] that relates to the following:
                 
             *   (A) means of escape from fire, protection of other property, sanitary facilities, structural performance, and fire-rating performance:
             
-            *   (B) access and facilities for people with disabilities (if this is a requirement under [section 118][189]); and
+            *   (B) access and facilities for people with disabilities (if this is a requirement under [section 118][190]); and
             
             
         
         *   (ii) will,---
                 
-            *   (A) if it complied with the other provisions of the [building code][668] immediately before the change of use, continue to comply with those provisions; or
+            *   (A) if it complied with the other provisions of the [building code][669] immediately before the change of use, continue to comply with those provisions; or
             
-            *   (B) if it did not comply with the other provisions of the [building code][668] immediately before the change of use, continue to comply at least to the same extent as it did then comply.
+            *   (B) if it did not comply with the other provisions of the [building code][669] immediately before the change of use, continue to comply at least to the same extent as it did then comply.
             
             
         
@@ -5182,7 +5196,7 @@ Building
     
     Compare: 1991 No 150 s 46(2)
     
-    Section 115(b): replaced, on 28 November 2013, by [section 24][806] of the Building Amendment Act 2013 (2013 No 100).
+    Section 115(b): replaced, on 28 November 2013, by [section 24][809] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 116 Code compliance requirements: extension of life
     
@@ -5190,7 +5204,7 @@ Building
     
     (2) This subsection applies to a building with a specified intended life if---
         
-    *   (a) under [section 113(2)][180], a building consent for its building or alteration was issued subject to the condition that it must be altered on or before the end of the specified intended life; or
+    *   (a) under [section 113(2)][181], a building consent for its building or alteration was issued subject to the condition that it must be altered on or before the end of the specified intended life; or
     
     *   (b) under section 39(1) of the Building Act 1991, a building consent for its building or alteration was issued subject to the condition that it shall be altered on or before the end of the specified intended life.
     
@@ -5198,19 +5212,19 @@ Building
         
     *   (a) has been altered in accordance with the condition; and
     
-    *   (b) complies with [section 112][179].
+    *   (b) complies with [section 112][180].
     
-    Section 116: replaced, on 14 April 2005, by [section 14(1)][807] of the Building Amendment Act 2005 (2005 No 31).
+    Section 116: replaced, on 14 April 2005, by [section 14(1)][810] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 116A Code compliance requirements: subdivision
     
-*   A territorial authority must not issue a certificate under [section 224(f)][808] of the Resource Management Act 1991 for the purpose of giving effect to a subdivision affecting a building or part of a building unless satisfied, on reasonable grounds, that the building---
+*   A territorial authority must not issue a certificate under [section 224(f)][811] of the Resource Management Act 1991 for the purpose of giving effect to a subdivision affecting a building or part of a building unless satisfied, on reasonable grounds, that the building---
         
-    *   (a) will comply, as nearly as is reasonably practicable, with every provision of the [building code][668] that relates to the following matters:
+    *   (a) will comply, as nearly as is reasonably practicable, with every provision of the [building code][669] that relates to the following matters:
             
         *   (i) means of escape from fire:
         
-        *   (ii) access and facilities for persons with disabilities (if this is a requirement under [section 118][189]):
+        *   (ii) access and facilities for persons with disabilities (if this is a requirement under [section 118][190]):
         
         *   (iii) protection of other property; and
         
@@ -5218,17 +5232,17 @@ Building
     
     *   (b) will,---
             
-        *   (i) if it complied with the other provisions of the [building code][668] immediately before the application for a subdivision was made, continue to comply with those provisions; or
+        *   (i) if it complied with the other provisions of the [building code][669] immediately before the application for a subdivision was made, continue to comply with those provisions; or
         
-        *   (ii) if it did not comply with the other provisions of the [building code][668] immediately before the application for a subdivision was made, continue to comply at least to the same extent as it did then comply.
+        *   (ii) if it did not comply with the other provisions of the [building code][669] immediately before the application for a subdivision was made, continue to comply at least to the same extent as it did then comply.
         
         
     
-    Section 116A: inserted, on 14 April 2005, by [section 14(1)][807] of the Building Amendment Act 2005 (2005 No 31).
+    Section 116A: inserted, on 14 April 2005, by [section 14(1)][810] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 116A(a): amended, on 28 November 2013, by [section 25(1)][809] of the Building Amendment Act 2013 (2013 No 100).
+    Section 116A(a): amended, on 28 November 2013, by [section 25(1)][812] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 116A(b): replaced, on 28 November 2013, by [section 25(2)][809] of the Building Amendment Act 2013 (2013 No 100).
+    Section 116A(b): replaced, on 28 November 2013, by [section 25(2)][812] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 116B Offence to use building for use for which it is not safe or not sanitary, or if it has inadequate means of escape from fire
     
@@ -5242,15 +5256,15 @@ Building
     
     (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence has continued.
     
-    Section 116B: inserted, on 14 April 2005, by [section 14(1)][807] of the Building Amendment Act 2005 (2005 No 31).
+    Section 116B: inserted, on 14 April 2005, by [section 14(1)][810] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 116B(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 116B(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Access to buildings by persons with disabilities
 
 ##### 117 Definition for sections 118 to 120
     
-*   In [sections 118 to 120][189], unless the context otherwise requires, _building_ includes---
+*   In [sections 118 to 120][190], unless the context otherwise requires, _building_ includes---
         
     *   (a) parts of a building (including driveways, access ways, passages within and between complexes and developments, and associated landscaping (if any)); and
     
@@ -5266,7 +5280,7 @@ Building
     
     *   (b) carry out normal activities and processes in that building.
     
-    (2) This section applies, but is not limited, to buildings that are intended to be used for, or associated with, 1 or more of the purposes specified in [Schedule 2][664].
+    (2) This section applies, but is not limited, to buildings that are intended to be used for, or associated with, 1 or more of the purposes specified in [Schedule 2][665].
     
     Compare: 1991 No 150 s 47A(1)
 
@@ -5298,29 +5312,29 @@ Building
     
     *   (b) decide not to make a recommendation.
     
-    (5) In this section, _Standards Council_ means the Standards Council continued in existence under [section 3][810] of the Standards Act 1988\.
+    (5) In this section, _Standards Council_ means the Standards Council continued in existence under [section 3][813] of the Standards Act 1988\.
     
     Compare: 1991 No 150 s 47A(3)
     
-    Section 119 heading: amended, on 28 November 2013, by [section 26(1)][811] of the Building Amendment Act 2013 (2013 No 100).
+    Section 119 heading: amended, on 28 November 2013, by [section 26(1)][814] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 119(2): amended, on 28 November 2013, by [section 26(2)][811] of the Building Amendment Act 2013 (2013 No 100).
+    Section 119(2): amended, on 28 November 2013, by [section 26(2)][814] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 120 Symbols of access must be displayed
     
-*   If any provision required by [section 118][189] is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
+*   If any provision required by [section 118][190] is made at a building in compliance with that section, a notice or sign that indicates in accordance with the international symbols of access that provision is made for the needs of persons with disabilities must be displayed outside the building or so as to be visible from outside it.
     
     Compare: 1991 No 150 s 47A(5)
     
-    Section 120 heading: amended, on 15 March 2008, by [section 27(1)][812] of the Building Amendment Act 2008 (2008 No 4).
+    Section 120 heading: amended, on 15 March 2008, by [section 27(1)][815] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 120: amended, on 15 March 2008, by [section 27(2)][812] of the Building Amendment Act 2008 (2008 No 4).
+    Section 120: amended, on 15 March 2008, by [section 27(2)][815] of the Building Amendment Act 2008 (2008 No 4).
 
 ### Subpart 6---Special provisions for certain categories of buildings
 
 #### Definitions of dangerous, affected, earthquake-prone, and insanitary buildings
     
-*   Heading: amended, on 28 November 2013, by [section 27][813] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: amended, on 28 November 2013, by [section 27][816] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 121 Meaning of dangerous building
     
@@ -5344,17 +5358,17 @@ Building
     
     Compare: 1991 No 150 s 64(1), (2), (3)
     
-    Section 121(1)(b): amended, on 13 March 2012, by [section 51][814] of the Building Amendment Act 2012 (2012 No 23).
+    Section 121(1)(b): amended, on 13 March 2012, by [section 51][817] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 121A Meaning of affected building
     
 *   A building is an affected building for the purposes of this Act if it is adjacent to, adjoining, or nearby---
         
-    *   (a) a dangerous building as defined in [section 121][194]; or
+    *   (a) a dangerous building as defined in [section 121][195]; or
     
-    *   (b) a dangerous dam within the meaning of [section 153][251].
+    *   (b) a dangerous dam within the meaning of [section 153][252].
     
-    Section 121A: inserted, on 28 November 2013, by [section 28][815] of the Building Amendment Act 2013 (2013 No 100).
+    Section 121A: inserted, on 28 November 2013, by [section 28][818] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 122 Meaning of earthquake-prone building
     
@@ -5400,7 +5414,7 @@ Building
 
 #### Powers of territorial authorities in respect of dangerous, affected, earthquake-prone, or insanitary buildings
     
-*   Heading: amended, on 28 November 2013, by [section 29][816] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: amended, on 28 November 2013, by [section 29][819] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 124 Dangerous, affected, earthquake-prone, or insanitary buildings: powers of territorial authority
     
@@ -5412,7 +5426,7 @@ Building
     
     *   (b) attach in a prominent place on, or adjacent to, the building a notice that warns people not to approach the building:
     
-    *   (c) except in the case of an affected building, issue a notice that complies with [section 125(1)][200] requiring work to be carried out on the building to---
+    *   (c) except in the case of an affected building, issue a notice that complies with [section 125(1)][201] requiring work to be carried out on the building to---
             
         *   (i) reduce or remove the danger; or
         
@@ -5420,15 +5434,15 @@ Building
         
         
     
-    *   (d) issue a notice that complies with [section 125(1A)][200] restricting entry to the building for particular purposes or restricting entry to particular persons or groups of persons.
+    *   (d) issue a notice that complies with [section 125(1A)][201] restricting entry to the building for particular purposes or restricting entry to particular persons or groups of persons.
     
     (3) This section does not limit the powers of a territorial authority.
     
-    Section 124: replaced, on 28 November 2013, by [section 30][817] of the Building Amendment Act 2013 (2013 No 100).
+    Section 124: replaced, on 28 November 2013, by [section 30][820] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 125 Requirements for notice requiring building work or restricting entry
     
-*   (1) A notice issued under [section 124(2)(c)][199] must---
+*   (1) A notice issued under [section 124(2)(c)][200] must---
         
     *   (a) be in writing; and
     
@@ -5440,7 +5454,7 @@ Building
     
     *   (e) state whether the owner of the building must obtain a building consent in order to carry out the work required by the notice.
     
-    (1A) A notice issued under [section 124(2)(d)][199]---
+    (1A) A notice issued under [section 124(2)(d)][200]---
         
     *   (a) must be in writing; and
     
@@ -5458,9 +5472,9 @@ Building
     
     *   (b) an occupier of the building; and
     
-    *   (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the [Land Transfer Act 1952][704]; and
+    *   (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the [Land Transfer Act 1952][705]; and
     
-    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][818] of the Land Transfer Act 1952; and
+    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][821] of the Land Transfer Act 1952; and
     
     *   (e) any statutory authority, if the land or building has been classified; and
     
@@ -5470,17 +5484,17 @@ Building
     
     Compare: 1991 No 150 s 71
     
-    Section 125 heading: replaced, on 28 November 2013, by [section 31][819] of the Building Amendment Act 2013 (2013 No 100).
+    Section 125 heading: replaced, on 28 November 2013, by [section 31][822] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 125(1): replaced, on 28 November 2013, by [section 31][819] of the Building Amendment Act 2013 (2013 No 100).
+    Section 125(1): replaced, on 28 November 2013, by [section 31][822] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 125(1A): inserted, on 28 November 2013, by [section 31][819] of the Building Amendment Act 2013 (2013 No 100).
+    Section 125(1A): inserted, on 28 November 2013, by [section 31][822] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 125(2)(f): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 125(2)(f): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 126 Territorial authority may carry out work
     
-*   (1) A territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under [section 124(2)(c)][199] is not completed, or not proceeding with reasonable speed, within---
+*   (1) A territorial authority may apply to a District Court for an order authorising the territorial authority to carry out building work if any work required under a notice issued by the territorial authority under [section 124(2)(c)][200] is not completed, or not proceeding with reasonable speed, within---
         
     *   (a) the time stated in the notice; or
     
@@ -5498,55 +5512,55 @@ Building
     
     Compare: 1991 No 150 s 65(4), (5)
     
-    Section 126(1): amended, on 28 November 2013, by [section 32][820] of the Building Amendment Act 2013 (2013 No 100).
+    Section 126(1): amended, on 28 November 2013, by [section 32][823] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 127 Building work includes demolition of building
     
-*   Any work required or authorised to be done under [section 124(2)(c)][199] or [section 126][201] may include the demolition of all or part of a building.
+*   Any work required or authorised to be done under [section 124(2)(c)][200] or [section 126][202] may include the demolition of all or part of a building.
     
     Compare: 1991 No 150 s 65(6)
     
-    Section 127: amended, on 28 November 2013, by [section 33][821] of the Building Amendment Act 2013 (2013 No 100).
+    Section 127: amended, on 28 November 2013, by [section 33][824] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 128 Prohibition on using dangerous, affected, earthquake-prone, or insanitary building
     
 *   (1) This section applies if a territorial authority has done any of the following:
         
-    *   (a) put up a hoarding or fence in relation to a building under [section 124(2)(a)][199]:
+    *   (a) put up a hoarding or fence in relation to a building under [section 124(2)(a)][200]:
     
-    *   (b) attached a notice warning people not to approach a building under [section 124(2)(b)][199]:
+    *   (b) attached a notice warning people not to approach a building under [section 124(2)(b)][200]:
     
-    *   (c) issued a notice restricting entry to a building under [section 124(2)(d)][199].
+    *   (c) issued a notice restricting entry to a building under [section 124(2)(d)][200].
     
-    (2) In any case to which this section applies, and except as permitted by [section 124(2)(d)][199], no person may---
+    (2) In any case to which this section applies, and except as permitted by [section 124(2)(d)][200], no person may---
         
     *   (a) use or occupy the building; or
     
     *   (b) permit another person to use or occupy the building.
     
-    Section 128: replaced, on 28 November 2013, by [section 34][822] of the Building Amendment Act 2013 (2013 No 100).
+    Section 128: replaced, on 28 November 2013, by [section 34][825] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 128A Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings
     
-*   (1) A person who fails to comply with a notice issued under [section 124(2)(c)][199] that is given to that person under [section 125(2)][200]---
+*   (1) A person who fails to comply with a notice issued under [section 124(2)(c)][200] that is given to that person under [section 125(2)][201]---
         
     *   (a) commits an offence; and
     
     *   (b) is liable to a fine not exceeding $200,000\.
     
-    (2) A person who fails to comply with [section 128(2)][203]---
+    (2) A person who fails to comply with [section 128(2)][204]---
         
     *   (a) commits an offence; and
     
     *   (b) is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
     
-    Section 128A: inserted, on 28 November 2013, by [section 35][823] of the Building Amendment Act 2013 (2013 No 100).
+    Section 128A: inserted, on 28 November 2013, by [section 35][826] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 129 Measures to avoid immediate danger or to fix insanitary conditions
     
 *   (1) This section applies if, because of the state of a building,---
         
-    *   (a) immediate danger to the safety of people is likely in terms of [section 121][194] or [section 122][196] or [section 123][197]; or
+    *   (a) immediate danger to the safety of people is likely in terms of [section 121][195] or [section 122][197] or [section 123][198]; or
     
     *   (b) immediate action is necessary to fix insanitary conditions.
     
@@ -5570,7 +5584,7 @@ Building
 
 ##### 130 Territorial authority must apply to District Court for confirmation of warrant
     
-*   (1) If the chief executive of a territorial authority issues a warrant under [section 129(2)][205], the territorial authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
+*   (1) If the chief executive of a territorial authority issues a warrant under [section 129(2)][206], the territorial authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
     
     (2) On hearing the application, the District Court may---
         
@@ -5590,7 +5604,7 @@ Building
         
         
     
-    *   (b) the owner pays the costs referred to in [section 129(3)(a)][205].
+    *   (b) the owner pays the costs referred to in [section 129(3)(a)][206].
     
     Compare: 1991 No 150 s 70(2), (3)
 
@@ -5612,7 +5626,7 @@ Building
 
 ##### 132 Adoption and review of policy
     
-*   (1) A policy under [section 131][208] must be adopted in accordance with the special consultative procedure in [section 83][824] of the Local Government Act 2002\.
+*   (1) A policy under [section 131][209] must be adopted in accordance with the special consultative procedure in [section 83][827] of the Local Government Act 2002\.
     
     (2) A policy may be amended or replaced only in accordance with the special consultative procedure, and this section applies to that amendment or replacement.
     
@@ -5624,13 +5638,13 @@ Building
 
 ##### 132A Policy must take into account affected buildings
     
-*   (1) A policy under [section 131][208] must take into account affected buildings.
+*   (1) A policy under [section 131][209] must take into account affected buildings.
     
-    (2) A territorial authority must amend an existing policy to take into account affected buildings at the latest within a reasonable period following the next review of its policy required under [section 132(4)][209].
+    (2) A territorial authority must amend an existing policy to take into account affected buildings at the latest within a reasonable period following the next review of its policy required under [section 132(4)][210].
     
     (3) In subsection (2), _existing policy_ means a policy existing at the date of this section coming into force.
     
-    Section 132A: inserted, on 28 November 2013, by [section 36][825] of the Building Amendment Act 2013 (2013 No 100).
+    Section 132A: inserted, on 28 November 2013, by [section 36][828] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Application of subpart to dams
 
@@ -5648,19 +5662,19 @@ Building
 
 #### Dams to which provisions of this subpart apply
     
-*   Heading: inserted, on 15 March 2008, by [section 28][826] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: inserted, on 15 March 2008, by [section 28][829] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 133A Dams to which subpart 7 provisions apply
     
-*   (1) [Sections 133B][216] and [157 to 159][257] apply to all dams.
+*   (1) [Sections 133B][217] and [157 to 159][258] apply to all dams.
     
     (2) The other provisions in this subpart apply only to classifiable and referable dams.
     
-    Section 133A: inserted, on 15 March 2008, by [section 28][826] of the Building Amendment Act 2008 (2008 No 4).
+    Section 133A: inserted, on 15 March 2008, by [section 28][829] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 133A(1): replaced, on 28 November 2013, by [section 37(1)][827] of the Building Amendment Act 2013 (2013 No 100).
+    Section 133A(1): replaced, on 28 November 2013, by [section 37(1)][830] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 133A(2): replaced, on 28 November 2013, by [section 37(2)][827] of the Building Amendment Act 2013 (2013 No 100).
+    Section 133A(2): replaced, on 28 November 2013, by [section 37(2)][830] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 133B Measurement of dams
     
@@ -5672,11 +5686,11 @@ Building
     
     *   (c) in the case of a canal, from the invert of the canal.
     
-    Section 133B: inserted, on 28 November 2013, by [section 38][828] of the Building Amendment Act 2013 (2013 No 100).
+    Section 133B: inserted, on 28 November 2013, by [section 38][831] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Notification of classifiable or referable dam
     
-*   Heading: inserted, on 28 November 2013, by [section 38][828] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: inserted, on 28 November 2013, by [section 38][831] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 133C Obligation to notify regional authority of classifiable or referable dam and change of ownership
     
@@ -5684,37 +5698,37 @@ Building
     
     (2) The owner must notify the regional authority,---
         
-    *   (a) in the case of a dam commissioned before the commencement of the regulations referred to in [section 135(2)(a)][225], within 3 months after the commencement of those regulations; or
+    *   (a) in the case of a dam commissioned before the commencement of the regulations referred to in [section 135(2)(a)][226], within 3 months after the commencement of those regulations; or
     
-    *   (b) in the case of a dam commissioned after the commencement of the regulations referred to in [section 135(2)(a)][225], within 3 months after the dam is commissioned.
+    *   (b) in the case of a dam commissioned after the commencement of the regulations referred to in [section 135(2)(a)][226], within 3 months after the dam is commissioned.
     
     (3) If the ownership of a classifiable or referable dam that must be notified under subsection (1) changes, the transferring owner must notify the regional authority of the change of ownership within 3 months of the change.
     
-    Section 133C: inserted, on 28 November 2013, by [section 38][828] of the Building Amendment Act 2013 (2013 No 100).
+    Section 133C: inserted, on 28 November 2013, by [section 38][831] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Classification of dams
 
 ##### 134 When owner must classify dam
     
-*   The owner of a dam must classify the dam in accordance with [section 134B][222] if---
+*   The owner of a dam must classify the dam in accordance with [section 134B][223] if---
         
     *   (a) the dam is a classifiable dam; or
     
     *   (b) the dam is a referable dam and the regional authority in whose region the dam is situated has required the owner to classify it.
     
-    Section 134: replaced, on 28 November 2013, by [section 39][829] of the Building Amendment Act 2013 (2013 No 100).
+    Section 134: replaced, on 28 November 2013, by [section 39][832] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 134A Regional authority may require owner to classify referable dam
     
-*   (1) A regional authority may by written notice require the owner of a referable dam to classify it in accordance with [section 134B][222] if the dam is located within a designated area.
+*   (1) A regional authority may by written notice require the owner of a referable dam to classify it in accordance with [section 134B][223] if the dam is located within a designated area.
     
     (2) In subsection (1), _designated area_ means an area, or a proximity to an area or feature, designated or described by regulations made under this Act.
     
-    Section 134A: inserted, on 28 November 2013, by [section 39][829] of the Building Amendment Act 2013 (2013 No 100).
+    Section 134A: inserted, on 28 November 2013, by [section 39][832] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 134B Method of classification
     
-*   (1) The owner of a dam to whom [section 134][220] applies must classify the dam according to the potential impact of a failure of the dam on persons, property, and the environment.
+*   (1) The owner of a dam to whom [section 134][221] applies must classify the dam according to the potential impact of a failure of the dam on persons, property, and the environment.
     
     (2) In classifying a dam, the owner must---
         
@@ -5732,21 +5746,21 @@ Building
     
     *   (c) submit the classification of the dam to a recognised engineer for audit.
     
-    (3) For the purposes of this section, the prescribed criteria and standards for dam safety may incorporate, in accordance with [sections 405 to 413][608], the standards, requirements, or recommended practices of national or international organisations that are concerned with the operation and safety of dams.
+    (3) For the purposes of this section, the prescribed criteria and standards for dam safety may incorporate, in accordance with [sections 405 to 413][609], the standards, requirements, or recommended practices of national or international organisations that are concerned with the operation and safety of dams.
     
-    Section 134B: inserted, on 28 November 2013, by [section 39][829] of the Building Amendment Act 2013 (2013 No 100).
+    Section 134B: inserted, on 28 November 2013, by [section 39][832] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 134BA Classification of dams that are canals
     
-*   A dam that is a canal that must be classified under [section 134B][222] may have different classifications for different sections of the canal and in that case each of those sections must be treated as a separate dam for the purposes of [sections 134 to 139][220].
+*   A dam that is a canal that must be classified under [section 134B][223] may have different classifications for different sections of the canal and in that case each of those sections must be treated as a separate dam for the purposes of [sections 134 to 139][221].
     
-    Section 134BA: inserted, on 28 November 2013, by [section 39][829] of the Building Amendment Act 2013 (2013 No 100).
+    Section 134BA: inserted, on 28 November 2013, by [section 39][832] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 134C Offence of failing to classify dam
     
-*   A person to whom [section 134][220] applies who fails to classify the dam in accordance with [section 134B][222] commits an offence and is liable on conviction to a fine not exceeding $20,000\.
+*   A person to whom [section 134][221] applies who fails to classify the dam in accordance with [section 134B][223] commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 134C: inserted, on 28 November 2013, by [section 39][829] of the Building Amendment Act 2013 (2013 No 100).
+    Section 134C: inserted, on 28 November 2013, by [section 39][832] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 135 Owner must provide classification of, and certificate for, dam to regional authority
     
@@ -5774,7 +5788,7 @@ Building
 
 ##### 135A Certifying engineer must notify regional authority and owner if dam dangerous
     
-*   (1) An engineer engaged to provide a certificate for the purposes of [section 135(1)(b)][225], [142(1)(b)][234], or [150(2)(f)][246] must notify the regional authority and the owner of the dam if he or she believes that the dam is dangerous.
+*   (1) An engineer engaged to provide a certificate for the purposes of [section 135(1)(b)][226], [142(1)(b)][235], or [150(2)(f)][247] must notify the regional authority and the owner of the dam if he or she believes that the dam is dangerous.
     
     (2) The notice must be---
         
@@ -5784,31 +5798,31 @@ Building
     
     (3) Nothing in subsection (1) requires an engineer to act outside the terms of his or her engagement by investigating whether the dam is dangerous or not and a breach of the duty in subsection (1) does not give rise to any civil liability in damages.
     
-    Section 135A: inserted, on 28 November 2013, by [section 40][830] of the Building Amendment Act 2013 (2013 No 100).
+    Section 135A: inserted, on 28 November 2013, by [section 40][833] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 136 Regional authority must decide whether to approve or refuse dam classification
     
-*   (1) A regional authority must, as soon as practicable after receiving a classification given by an owner to a dam under [section 135][225], give written notice to the owner as to whether the regional authority---
+*   (1) A regional authority must, as soon as practicable after receiving a classification given by an owner to a dam under [section 135][226], give written notice to the owner as to whether the regional authority---
         
     *   (a) approves the classification; or
     
     *   (b) refuses to approve the classification.
     
-    (2) A regional authority may refuse to approve a classification only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in [section 135(1)(b)][225] is not a recognised engineer.
+    (2) A regional authority may refuse to approve a classification only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in [section 135(1)(b)][226] is not a recognised engineer.
 
 ##### 137 Dam classification provided to regional authority by accredited dam owner deemed to have been approved
     
-*   Despite [sections 134 to 136][220],---
+*   Despite [sections 134 to 136][221],---
         
     *   (a) an accredited dam owner is not required to---
             
         *   (i) submit a classification given to a dam by the accredited dam owner for audit; and
         
-        *   (ii) provide the regional authority with the certificate referred to in [section 135(1)(b)][225]; and
+        *   (ii) provide the regional authority with the certificate referred to in [section 135(1)(b)][226]; and
         
         
     
-    *   (b) the classification given to a dam by the accredited dam owner is deemed, on receipt of the classification by the regional authority, to have been approved by that regional authority under [section 136][227].
+    *   (b) the classification given to a dam by the accredited dam owner is deemed, on receipt of the classification by the regional authority, to have been approved by that regional authority under [section 136][228].
     
     
 
@@ -5822,7 +5836,7 @@ Building
             
         *   (i) a re-audited classification; and
         
-        *   (ii) a certificate from the recognised engineer that meets the requirements in [section 135(1)(b)][225].
+        *   (ii) a certificate from the recognised engineer that meets the requirements in [section 135(1)(b)][226].
         
         
     
@@ -5832,13 +5846,13 @@ Building
     
     *   (b) any later date that the regional authority in any particular case may allow.
     
-    (3) Subsection (1) and [section 136][227] apply, with all necessary modifications, to a re-audited classification.
+    (3) Subsection (1) and [section 136][228] apply, with all necessary modifications, to a re-audited classification.
     
     (4) A person commits an offence if the person fails to comply with a regional authority's direction under subsection (1)(a).
     
     (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 138(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 138(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 139 Owner must review dam classification
     
@@ -5854,13 +5868,13 @@ Building
     
     *   (b) the building work results, or could result, in a change to the potential impact of a failure of the dam on persons, property, or the environment.
     
-    (3) [Sections 135 to 138][225] apply, with all necessary modifications, to a classification that is given to a dam following a review under this section.
+    (3) [Sections 135 to 138][226] apply, with all necessary modifications, to a classification that is given to a dam following a review under this section.
 
 #### Dam safety assurance programmes
 
 ##### 140 Requirement for dam safety assurance programme
     
-*   (1) This section applies to an owner of a dam that has been classified under [section 134B][222], or reclassified under [section 139][230], as---
+*   (1) This section applies to an owner of a dam that has been classified under [section 134B][223], or reclassified under [section 139][231], as---
         
     *   (a) a medium potential impact dam; or
     
@@ -5882,9 +5896,9 @@ Building
     
     *   (b) audit the dam safety assurance programme for that dam.
     
-    Section 140(1): amended, on 28 November 2013, by [section 41][831] of the Building Amendment Act 2013 (2013 No 100).
+    Section 140(1): amended, on 28 November 2013, by [section 41][834] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 140(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 140(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 141 Content of dam safety assurance programme
     
@@ -5898,7 +5912,7 @@ Building
 
 ##### 142 Owner must provide dam safety assurance programme to regional authority
     
-*   (1) An owner of a dam to whom [section 140][232] applies must provide the regional authority in whose region the dam is situated with---
+*   (1) An owner of a dam to whom [section 140][233] applies must provide the regional authority in whose region the dam is situated with---
         
     *   (a) the owner's dam safety assurance programme; and
     
@@ -5920,7 +5934,7 @@ Building
     
     *   (b) if the dam has been classified as a medium potential impact dam, 2 years after the date on which the regional authority approves, or is deemed to approve, that classification.
     
-    Section 142(1)(b)(ia): inserted, on 28 November 2013, by [section 42][832] of the Building Amendment Act 2013 (2013 No 100).
+    Section 142(1)(b)(ia): inserted, on 28 November 2013, by [section 42][835] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 143 Regional authority must decide whether to approve or refuse dam safety assurance programme
     
@@ -5930,21 +5944,21 @@ Building
     
     *   (b) refuses to approve the dam safety assurance programme.
     
-    (2) A regional authority may refuse to approve a dam safety assurance programme only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in [section 142(1)(b)][234] is not a recognised engineer.
+    (2) A regional authority may refuse to approve a dam safety assurance programme only if the regional authority is satisfied, on reasonable grounds, that the engineer who provided the certificate referred to in [section 142(1)(b)][235] is not a recognised engineer.
 
 ##### 144 Dam safety assurance programme provided to regional authority by accredited dam owner deemed to have been approved
     
-*   Despite [sections 140 to 143][232],---
+*   Despite [sections 140 to 143][233],---
         
     *   (a) an accredited dam owner is not required to---
             
         *   (i) submit the owner's dam safety assurance programme for audit; and
         
-        *   (ii) provide the regional authority with the certificate referred to in [section 142(1)(b)][234]; and
+        *   (ii) provide the regional authority with the certificate referred to in [section 142(1)(b)][235]; and
         
         
     
-    *   (b) the dam safety assurance programme provided to the regional authority by the accredited dam owner is deemed, on its receipt by the regional authority, to have been approved by that regional authority under [section 143][235].
+    *   (b) the dam safety assurance programme provided to the regional authority by the accredited dam owner is deemed, on its receipt by the regional authority, to have been approved by that regional authority under [section 143][236].
     
     
 
@@ -5958,7 +5972,7 @@ Building
             
         *   (i) a re-audited dam safety assurance programme; and
         
-        *   (ii) a certificate from the recognised engineer that meets the requirements of [section 142(1)(b)][234].
+        *   (ii) a certificate from the recognised engineer that meets the requirements of [section 142(1)(b)][235].
         
         
     
@@ -5968,17 +5982,17 @@ Building
     
     *   (b) any later date that the regional authority in any particular case may allow.
     
-    (3) Subsection (1) and [section 143][235] apply, with all necessary modifications, to a re-audited dam safety assurance programme.
+    (3) Subsection (1) and [section 143][236] apply, with all necessary modifications, to a re-audited dam safety assurance programme.
     
     (4) A person commits an offence if the person fails to comply with a direction under subsection (1)(a).
     
     (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 145(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 145(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 146 Review of dam safety assurance programme
     
-*   (1) An owner of a dam to whom [section 140][232] applies must review the dam safety assurance programme of a dam,---
+*   (1) An owner of a dam to whom [section 140][233] applies must review the dam safety assurance programme of a dam,---
         
     *   (a) in the case of a dam that has been classified as a high potential impact dam,---
             
@@ -6008,15 +6022,15 @@ Building
     
     *   (b) when requested by the regional authority to do so, if the dam is an earthquake-prone dam or a flood-prone dam.
     
-    (3) [Sections 142][234] and [143][235] apply, with all necessary modifications, to a reviewed dam safety assurance programme.
+    (3) [Sections 142][235] and [143][236] apply, with all necessary modifications, to a reviewed dam safety assurance programme.
     
-    Section 146(1)(b)(ii): amended, on 28 November 2013, by [section 43][833] of the Building Amendment Act 2013 (2013 No 100).
+    Section 146(1)(b)(ii): amended, on 28 November 2013, by [section 43][836] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 146(2): replaced, on 15 March 2008, by [section 29][834] of the Building Amendment Act 2008 (2008 No 4).
+    Section 146(2): replaced, on 15 March 2008, by [section 29][837] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 147 Requirements of sections 140 to 142 relate to amendments to dam safety assurance programme
     
-*   The requirements of [sections 140 to 142][232] that apply to preparing a dam safety assurance programme apply also to an amendment to that programme.
+*   The requirements of [sections 140 to 142][233] that apply to preparing a dam safety assurance programme apply also to an amendment to that programme.
 
 ##### 148 Obligations of owner in relation to dam safety assurance programme
     
@@ -6044,25 +6058,25 @@ Building
 
 ##### 148A Dam safety assurance programme for dams that are canals
     
-*   (1) This section applies to a dam that is a canal and has different classifications for different sections of the canal in accordance with [section 134B][222].
+*   (1) This section applies to a dam that is a canal and has different classifications for different sections of the canal in accordance with [section 134B][223].
     
-    (2) If the whole canal is owned by a single owner, then for the purposes of [sections 140 to 145][232], [147][239], [148][240], [150][246], and [150A][247] a single dam safety assurance programme suffices for the whole canal.
+    (2) If the whole canal is owned by a single owner, then for the purposes of [sections 140 to 145][233], [147][240], [148][241], [150][247], and [150A][248] a single dam safety assurance programme suffices for the whole canal.
     
-    (3) If the whole canal is not owned by a single owner, then for the purposes of [sections 140 to 145][232], [147][239], [148][240], [150][246], and [150A][247] a single dam safety assurance programme suffices for the sections of the canal in the separate ownership of each owner.
+    (3) If the whole canal is not owned by a single owner, then for the purposes of [sections 140 to 145][233], [147][240], [148][241], [150][247], and [150A][248] a single dam safety assurance programme suffices for the sections of the canal in the separate ownership of each owner.
     
-    (4) For the purposes of [section 146][238], the potential impact classification that applies to the owner's canal or section of the canal is the highest potential impact classification that applies to any section of the canal.
+    (4) For the purposes of [section 146][239], the potential impact classification that applies to the owner's canal or section of the canal is the highest potential impact classification that applies to any section of the canal.
     
-    Section 148A: inserted, on 28 November 2013, by [section 44][835] of the Building Amendment Act 2013 (2013 No 100).
+    Section 148A: inserted, on 28 November 2013, by [section 44][838] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 148B Dam safety assurance programme for 2 or more dams forming single reservoir
     
 *   (1) This section applies if 2 or more dams owned by the same owner form a single reservoir.
     
-    (2) For the purposes of [sections 140 to 145][232], [147][239], [148][240], [150][246], and [150A][247] a single dam safety assurance programme suffices for all the dams.
+    (2) For the purposes of [sections 140 to 145][233], [147][240], [148][241], [150][247], and [150A][248] a single dam safety assurance programme suffices for all the dams.
     
-    (3) For the purposes of [section 146][238], the potential impact classification that applies is the highest potential impact classification that applies to any of the dams.
+    (3) For the purposes of [section 146][239], the potential impact classification that applies is the highest potential impact classification that applies to any of the dams.
     
-    Section 148B: inserted, on 28 November 2013, by [section 44][835] of the Building Amendment Act 2013 (2013 No 100).
+    Section 148B: inserted, on 28 November 2013, by [section 44][838] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Who is recognised engineer
 
@@ -6072,7 +6086,7 @@ Building
         
     *   (a) has no financial interest in the dam concerned; and
     
-    *   (b) is registered under the [Chartered Professional Engineers of New Zealand Act 2002][836]; and
+    *   (b) is registered under the [Chartered Professional Engineers of New Zealand Act 2002][839]; and
     
     *   (c) has---
             
@@ -6090,9 +6104,9 @@ Building
     
     *   (c) employment or engagement as an engineer by the owner of the dam concerned.
     
-    Section 149(2)(b): replaced, on 28 November 2013, by [section 45][837] of the Building Amendment Act 2013 (2013 No 100).
+    Section 149(2)(b): replaced, on 28 November 2013, by [section 45][840] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 149(2)(c): inserted, on 28 November 2013, by [section 45][837] of the Building Amendment Act 2013 (2013 No 100).
+    Section 149(2)(c): inserted, on 28 November 2013, by [section 45][840] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Dam compliance certificate
 
@@ -6148,17 +6162,17 @@ Building
     
     Compare: 1991 No 150 s 45(1), (2)
     
-    Section 150(2)(b): replaced, on 28 November 2013, by [section 46(1)][838] of the Building Amendment Act 2013 (2013 No 100).
+    Section 150(2)(b): replaced, on 28 November 2013, by [section 46(1)][841] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 150(2)(f)(i)(B): replaced, on 28 November 2013, by [section 46(2)][838] of the Building Amendment Act 2013 (2013 No 100).
+    Section 150(2)(f)(i)(B): replaced, on 28 November 2013, by [section 46(2)][841] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 150(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 150(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 150A Annual dam compliance certificate requirements not to apply to accredited dam owner
     
-*   [Section 150][246] does not apply to an accredited dam owner.
+*   [Section 150][247] does not apply to an accredited dam owner.
     
-    Section 150A: inserted, on 15 March 2008, by [section 30][839] of the Building Amendment Act 2008 (2008 No 4).
+    Section 150A: inserted, on 15 March 2008, by [section 30][842] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 151 Register of dams
     
@@ -6188,9 +6202,9 @@ Building
     
     *   (c) \[Repealed\]
     
-    Section 153(b): replaced, on 15 March 2008, by [section 31(1)][840] of the Building Amendment Act 2008 (2008 No 4).
+    Section 153(b): replaced, on 15 March 2008, by [section 31(1)][843] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 153(c): repealed, on 15 March 2008, by [section 31(2)][840] of the Building Amendment Act 2008 (2008 No 4).
+    Section 153(c): repealed, on 15 March 2008, by [section 31(2)][843] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 153A Meaning of earthquake-prone dam and flood-prone dam
     
@@ -6206,13 +6220,13 @@ Building
     
     *   (b) is likely to fail in a flood threshold event (as defined in the regulations).
     
-    Section 153A: inserted, on 15 March 2008, by [section 32][841] of the Building Amendment Act 2008 (2008 No 4).
+    Section 153A: inserted, on 15 March 2008, by [section 32][844] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 153B Owner must notify regional authority of dangerous dam
     
 *   The owner of a dam who has reasonable grounds for believing that the dam is, or has become, dangerous must immediately notify the regional authority in whose region the dam is situated.
     
-    Section 153B: inserted, on 28 November 2013, by [section 47][842] of the Building Amendment Act 2013 (2013 No 100).
+    Section 153B: inserted, on 28 November 2013, by [section 47][845] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 154 Powers of regional authorities in respect of dangerous dams
     
@@ -6222,7 +6236,7 @@ Building
     
     *   (b) attach in a prominent place on, or adjacent to, the dam a notice that warns people not to approach the dam:
     
-    *   (c) give written notice requiring work to be carried out on the dam, within a time stated in the notice (which must not be less than 10 days after the notice is given under [section 155][255]), to reduce or remove the danger.
+    *   (c) give written notice requiring work to be carried out on the dam, within a time stated in the notice (which must not be less than 10 days after the notice is given under [section 155][256]), to reduce or remove the danger.
     
     (2) This section does not limit the powers of a regional authority under this Part.
     
@@ -6230,11 +6244,11 @@ Building
     
     (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000\.
     
-    Section 154(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 154(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 155 Requirements for notice given under section 154
     
-*   (1) A notice given under [section 154(1)(c)][254] must---
+*   (1) A notice given under [section 154(1)(c)][255] must---
         
     *   (a) be fixed to the dam concerned; and
     
@@ -6246,9 +6260,9 @@ Building
     
     *   (b) an occupier of the dam; and
     
-    *   (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the [Land Transfer Act 1952][704]; and
+    *   (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the [Land Transfer Act 1952][705]; and
     
-    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][818] of the Land Transfer Act 1952; and
+    *   (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under [section 137][821] of the Land Transfer Act 1952; and
     
     *   (e) any statutory authority, if the land or dam has been classified; and
     
@@ -6256,11 +6270,11 @@ Building
     
     (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
     
-    Section 155(2)(f): amended, on 20 May 2014, by [section 107][733] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
+    Section 155(2)(f): amended, on 20 May 2014, by [section 107][734] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
 
 ##### 156 Regional authority may carry out work
     
-*   (1) A regional authority may apply to a District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under [section 154(1)(c)][254] is not completed, or not proceeding with reasonable speed, within---
+*   (1) A regional authority may apply to a District Court for an order authorising the regional authority to carry out building work if any work required under a notice given by the regional authority under [section 154(1)(c)][255] is not completed, or not proceeding with reasonable speed, within---
         
     *   (a) the time stated in the notice; or
     
@@ -6298,7 +6312,7 @@ Building
 
 ##### 158 Regional authority must apply to District Court for confirmation of warrant
     
-*   (1) If the chief executive of a regional authority issues a warrant under [section 157(2)][257], the regional authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
+*   (1) If the chief executive of a regional authority issues a warrant under [section 157(2)][258], the regional authority, on completion of the action stated in the warrant, must apply to a District Court for confirmation of the warrant.
     
     (2) On hearing the application, the District Court may---
         
@@ -6318,17 +6332,17 @@ Building
         
         
     
-    *   (b) the owner pays the costs referred to in [section 157(3)(a)][257].
+    *   (b) the owner pays the costs referred to in [section 157(3)(a)][258].
     
     Compare: 1991 No 150 s 70(3)
 
 ##### 159 Building work includes decommissioning and demolition of dam
     
-*   Any work required or authorised to be carried out under [section 154(1)(c)][254], or action taken under [section 157][257], may include the decommissioning and demolition of a dam.
+*   Any work required or authorised to be carried out under [section 154(1)(c)][255], or action taken under [section 157][258], may include the decommissioning and demolition of a dam.
 
 ##### 160 Power of regional authority not limited
     
-*   The provisions of [sections 154 to 159][254] are in addition to, and do not limit, the powers of a regional authority under [section 157][257].
+*   The provisions of [sections 154 to 159][255] are in addition to, and do not limit, the powers of a regional authority under [section 157][258].
 
 #### Policy on dangerous dams
 
@@ -6344,13 +6358,13 @@ Building
     
     *   (c) how the policy will apply to heritage dams.
     
-    Section 161 heading: amended, on 15 March 2008, by [section 33(1)][843] of the Building Amendment Act 2008 (2008 No 4).
+    Section 161 heading: amended, on 15 March 2008, by [section 33(1)][846] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 161(1): amended, on 15 March 2008, by [section 33(2)][843] of the Building Amendment Act 2008 (2008 No 4).
+    Section 161(1): amended, on 15 March 2008, by [section 33(2)][846] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 162 Adoption and review of policy
     
-*   (1) A policy under [section 161][262] must be adopted in accordance with the special consultative procedure in [section 83][824] of the Local Government Act 2002\.
+*   (1) A policy under [section 161][263] must be adopted in accordance with the special consultative procedure in [section 83][827] of the Local Government Act 2002\.
     
     (2) A policy may be amended or replaced only in accordance with the special consultative procedure, and this section applies to that amendment or replacement.
     
@@ -6432,37 +6446,37 @@ Building
     
     *   (f) if it relates to building work, it may direct that the site be made safe immediately and that all or any building work cease immediately (except any building work necessary to make the site safe) until the responsible authority is satisfied that the person carrying out the work is able and willing to resume operations in compliance with this Act and the regulations.
     
-    (2) Nothing in subsection (1) limits or affects the generality of [section 164][266].
+    (2) Nothing in subsection (1) limits or affects the generality of [section 164][267].
     
-    Section 165: replaced, on 14 April 2005, by [section 15(1)][844] of the Building Amendment Act 2005 (2005 No 31).
+    Section 165: replaced, on 14 April 2005, by [section 15(1)][847] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 165(1)(f): replaced, on 15 March 2008, by [section 34][845] of the Building Amendment Act 2008 (2008 No 4).
+    Section 165(1)(f): replaced, on 15 March 2008, by [section 34][848] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 166 Special provisions for notices to fix from building consent authority
     
-*   (1) If [section 164][266] applies because a building consent authority that granted a building consent for building work considers that the building work has not been, or is not being, carried out in accordance with this Act or the building consent, a notice to fix applies only---
+*   (1) If [section 164][267] applies because a building consent authority that granted a building consent for building work considers that the building work has not been, or is not being, carried out in accordance with this Act or the building consent, a notice to fix applies only---
         
     *   (a) to building work required during the period in which a building consent is operative; or
     
     *   (b) in respect of building work for which a building consent should have been obtained; or
     
-    *   (c) in respect of building work for which a building consent was not required but where there was a requirement that the work meet the [building code][668].
+    *   (c) in respect of building work for which a building consent was not required but where there was a requirement that the work meet the [building code][669].
     
     (2) A building consent authority that is not a territorial authority or a regional authority that issues a notice to fix must, within 5 working days after issuing it, give a copy of it to---
         
     *   (a) the territorial authority; or
     
-    *   (b) if the territorial authority has transferred, under [section 233][352], any of its functions, duties, or powers under this Act to another territorial authority, the territorial authority to whom the functions, duties, or powers have been transferred.
+    *   (b) if the territorial authority has transferred, under [section 233][353], any of its functions, duties, or powers under this Act to another territorial authority, the territorial authority to whom the functions, duties, or powers have been transferred.
     
     Compare: 1991 No 150 s 42(3)
     
-    Section 166(1): amended, on 15 March 2008, by [section 35(1)][846] of the Building Amendment Act 2008 (2008 No 4).
+    Section 166(1): amended, on 15 March 2008, by [section 35(1)][849] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 166(2): amended, on 15 March 2008, by [section 35(2)][846] of the Building Amendment Act 2008 (2008 No 4).
+    Section 166(2): amended, on 15 March 2008, by [section 35(2)][849] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 166(2): amended, on 14 April 2005, by [section 3(6)(b)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 166(2): amended, on 14 April 2005, by [section 3(6)(b)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 166(2)(a): amended, on 14 April 2005, by [section 3(6)(c)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 166(2)(a): amended, on 14 April 2005, by [section 3(6)(c)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 167 Inspection of building work under notice to fix
     
@@ -6488,7 +6502,7 @@ Building
     
     *   (b) issue a further notice to fix in respect of the building work.
     
-    (5) [Section 164][266] applies to a notice to fix issued under subsection (4)(b).
+    (5) [Section 164][267] applies to a notice to fix issued under subsection (4)(b).
 
 ##### 168 Offence not to comply with notice to fix
     
@@ -6496,7 +6510,7 @@ Building
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
     
-    Section 168(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 168(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Regulatory responsibilities and accreditation
@@ -6513,23 +6527,23 @@ Regulatory responsibilities and accreditation
     
     *   (b) review the Act as necessary.
     
-    Section 168A: inserted, on 13 March 2012, by [section 53][847] of the Building Amendment Act 2012 (2012 No 23).
+    Section 168A: inserted, on 13 March 2012, by [section 53][850] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 169 Chief executive must monitor current and emerging trends in building design, etc, and must report annually to Minister
     
 *   (1) The chief executive must monitor current and emerging trends in building design, building technologies, and other factors that may affect---
         
-    *   (a) the [building code][668] and acceptable solutions and verification methods:
+    *   (a) the [building code][669] and acceptable solutions and verification methods:
     
     *   (b) any warnings issued, and bans declared, under [section 26][54] in relation to any building method or product:
     
-    *   (c) any guidance information published by the chief executive under [section 175][281]:
+    *   (c) any guidance information published by the chief executive under [section 175][282]:
     
     *   (d) any other functions and duties of the chief executive under this Act.
     
     (2) The chief executive must, in each year, make a report to the Minister on the performance of his or her functions under subsection (1).
     
-    Section 169(1)(a): amended, on 28 November 2013, by [section 75(2)][705] of the Building Amendment Act 2013 (2013 No 100).
+    Section 169(1)(a): amended, on 28 November 2013, by [section 75(2)][706] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 170 Chief executive must consult in performing certain functions
     
@@ -6543,15 +6557,15 @@ Regulatory responsibilities and accreditation
 
 ##### 171 Chief executive may seek advice from building advisory panel
     
-*   (1) The chief executive may, at any time, seek advice from a building advisory panel appointed under [section 172][278] on---
+*   (1) The chief executive may, at any time, seek advice from a building advisory panel appointed under [section 172][279] on---
         
     *   (a) current and emerging trends in building design, building technologies, and other factors that may affect---
             
-        *   (i) the [building code][668] and acceptable solutions and verification methods:
+        *   (i) the [building code][669] and acceptable solutions and verification methods:
         
         *   (ii) any warnings issued, or bans declared, under [section 26][54] in relation to any building method or product:
         
-        *   (iii) any guidance information published by the chief executive under [section 175][281]:
+        *   (iii) any guidance information published by the chief executive under [section 175][282]:
         
         
     
@@ -6563,7 +6577,7 @@ Regulatory responsibilities and accreditation
     
     (2) The chief executive must consider, but is not bound by, any advice given by the panel.
     
-    Section 171(1)(a)(i): amended, on 28 November 2013, by [section 75(3)][705] of the Building Amendment Act 2013 (2013 No 100).
+    Section 171(1)(a)(i): amended, on 28 November 2013, by [section 75(3)][706] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 172 Appointment of building advisory panel
     
@@ -6601,13 +6615,13 @@ Regulatory responsibilities and accreditation
     
     (6) A member of the panel may resign by written notice to the chief executive.
     
-    (7) The panel is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][848].
+    (7) The panel is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][851].
     
-    (8) There may be paid, out of public money to the members of the panel, remuneration by way of fees, salaries, or allowances, and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][848], and the provisions of that Act apply accordingly.
+    (8) There may be paid, out of public money to the members of the panel, remuneration by way of fees, salaries, or allowances, and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][851], and the provisions of that Act apply accordingly.
 
 ##### 173 Function of panel
     
-*   (1) The function of the panel is to provide independent and specialist advice to the chief executive on any of the matters referred to in [section 171(1)][277].
+*   (1) The function of the panel is to provide independent and specialist advice to the chief executive on any of the matters referred to in [section 171(1)][278].
     
     (2) It is not the panel's function to advise the chief executive on the performance of the chief executive's functions or duties, or the exercise of the chief executive's powers, under this Act.
     
@@ -6667,7 +6681,7 @@ Regulatory responsibilities and accreditation
 
 ##### 176 Meaning of party
     
-*   In [sections 177 to 190][284], _party_, in relation to a determination, means any or all of the following persons affected by the determination:
+*   In [sections 177 to 190][285], _party_, in relation to a determination, means any or all of the following persons affected by the determination:
         
     *   (a) the territorial authority:
     
@@ -6677,11 +6691,11 @@ Regulatory responsibilities and accreditation
     
     *   (d) the licensed building practitioner concerned with the relevant building work:
     
-    *   (da) any person to whom a notice to fix relating to the relevant building work has been issued under [section 164][266]:
+    *   (da) any person to whom a notice to fix relating to the relevant building work has been issued under [section 164][267]:
     
     *   (e) if the matter for determination relates to---
             
-        *   (i) a provision in the [building code][668] that has the purpose of protecting other property, the owner of the other property:
+        *   (i) a provision in the [building code][669] that has the purpose of protecting other property, the owner of the other property:
         
         *   (ii) a dam, the regional authority:
         
@@ -6691,7 +6705,7 @@ Regulatory responsibilities and accreditation
             
         *   (i) has a direct interest in the matter; and
         
-        *   (ii) applies to the chief executive for a determination under [section 177][284]:
+        *   (ii) applies to the chief executive for a determination under [section 177][285]:
         
         
     
@@ -6699,15 +6713,15 @@ Regulatory responsibilities and accreditation
     
     Compare: 1991 No 150 s 16
     
-    Section 176(c): replaced, on 13 March 2012, by [section 54(1)][849] of the Building Amendment Act 2012 (2012 No 23).
+    Section 176(c): replaced, on 13 March 2012, by [section 54(1)][852] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 176(da): inserted, on 13 March 2012, by [section 54(2)][849] of the Building Amendment Act 2012 (2012 No 23).
+    Section 176(da): inserted, on 13 March 2012, by [section 54(2)][852] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 177 Application for determination
     
 *   (1) A party may apply to the chief executive for a determination in relation to either or both of the following:
         
-    *   (a) whether particular matters comply with the [building code][668]:
+    *   (a) whether particular matters comply with the [building code][669]:
     
     *   (b) the exercise, failure or refusal to exercise, or proposed or purported exercise by an authority in subsection (2), (3), or (4) of a power of decision to which this paragraph applies by virtue of that subsection.
     
@@ -6727,27 +6741,27 @@ Regulatory responsibilities and accreditation
     
     (3) Subsection (1)(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
         
-    *   (a) any waiver or modification of the [building code][668] under [section 67][113]:
+    *   (a) any waiver or modification of the [building code][669] under [section 67][113]:
     
     *   (b) a certificate of acceptance under [section 96][157]:
     
-    *   (c) an exemption from building consent requirements under paragraph (k) of [Schedule 1][663]:
+    *   (c) an exemption from building consent requirements under paragraph (k) of [Schedule 1][664]:
     
-    *   (d) an amendment to a compliance schedule under [section 106][171], [107][172], or [109][175]:
+    *   (d) an amendment to a compliance schedule under [section 106][172], [107][173], or [109][176]:
     
     *   (e) a notice to fix:
     
-    *   (f) [sections 112][179], [113][180], [115][183], and [116][184] (which relate to alterations to, or changes in the use of, a building) and [124][199] and [129][205] (which relate to dangerous, earthquake-prone, and insanitary buildings):
+    *   (f) [sections 112][180], [113][181], [115][184], and [116][185] (which relate to alterations to, or changes in the use of, a building) and [124][200] and [129][206] (which relate to dangerous, earthquake-prone, and insanitary buildings):
     
-    *   (g) a certificate for public use under [section 363A][547]:
+    *   (g) a certificate for public use under [section 363A][548]:
     
-    *   (h) a certificate under [section 224(f)][808] of the Resource Management Act 1991\.
+    *   (h) a certificate under [section 224(f)][811] of the Resource Management Act 1991\.
     
     (4) Subsection (1)(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
     
-    (5) Nothing in this section limits or affects [section 70(4)][116] or [446(1)(c)][656].
+    (5) Nothing in this section limits or affects [section 70(4)][116] or [446(1)(c)][657].
     
-    Section 177: replaced, on 7 July 2010, by [section 4][850] of the Building Amendment Act 2010 (2010 No 50).
+    Section 177: replaced, on 7 July 2010, by [section 4][853] of the Building Amendment Act 2010 (2010 No 50).
 
 ##### 178 Requirements for application for determination
     
@@ -6789,7 +6803,7 @@ Regulatory responsibilities and accreditation
         
     *   (a) must notify the parties in relation to the application about the withdrawal of the application; and
     
-    *   (b) may apportion costs under [section 190][297]; and
+    *   (b) may apportion costs under [section 190][298]; and
     
     *   (c) must do no more in relation to the application.
     
@@ -6797,7 +6811,7 @@ Regulatory responsibilities and accreditation
 
 ##### 181 Chief executive may make determination on own initiative
     
-*   (1) The chief executive may, if he or she considers it necessary for achieving the purposes of this Act, direct that he or she will make a determination on a matter referred to in [section 177][284]---
+*   (1) The chief executive may, if he or she considers it necessary for achieving the purposes of this Act, direct that he or she will make a determination on a matter referred to in [section 177][285]---
         
     *   (a) on his or her own initiative; and
     
@@ -6805,7 +6819,7 @@ Regulatory responsibilities and accreditation
     
     (2) The chief executive---
         
-    *   (a) may give a direction under subsection (1) either before or after a decision or a power that relates to the matter is made or, as the case may be, is exercised by any person referred to in [section 177][284]; and
+    *   (a) may give a direction under subsection (1) either before or after a decision or a power that relates to the matter is made or, as the case may be, is exercised by any person referred to in [section 177][285]; and
     
     *   (b) must,---
             
@@ -6837,15 +6851,15 @@ Regulatory responsibilities and accreditation
         
     *   (a) does not affect injunctive proceedings; and
     
-    *   (b) is subject to [section 381][575].
+    *   (b) is subject to [section 381][576].
     
     Compare: 1991 No 150 s 17(3)
 
 ##### 183 Decision or exercise of power suspended until determination made
     
-*   (1) Until the chief executive makes a determination on a matter, any decision or exercise of a power by any person referred to in [section 177][284] that relates to that matter is suspended unless and to the extent that the chief executive directs otherwise.
+*   (1) Until the chief executive makes a determination on a matter, any decision or exercise of a power by any person referred to in [section 177][285] that relates to that matter is suspended unless and to the extent that the chief executive directs otherwise.
     
-    (2) However, a requirement in a notice to fix issued under [section 164][266] to cease building work for safety reasons remains in force until the determination is made.
+    (2) However, a requirement in a notice to fix issued under [section 164][267] to cease building work for safety reasons remains in force until the determination is made.
     
     Compare: 1991 No 150 s 17(4)
 
@@ -6873,7 +6887,7 @@ Regulatory responsibilities and accreditation
     
     *   (b) any further time that the chief executive and the parties may agree.
     
-    (3) If the chief executive requires a party to provide documents under [section 186(3)(a)][293], the period specified in subsection (2)(a) does not include the period that---
+    (3) If the chief executive requires a party to provide documents under [section 186(3)(a)][294], the period specified in subsection (2)(a) does not include the period that---
         
     *   (a) starts on the day on which the chief executive makes that requirement; and
     
@@ -6925,9 +6939,9 @@ Regulatory responsibilities and accreditation
         
     *   (a) any application for a determination; and
     
-    *   (b) matters to which a direction under [section 181][288] relates.
+    *   (b) matters to which a direction under [section 181][289] relates.
     
-    (2) The person may do anything the chief executive may do under [sections 177][284], [179][286], [180][287], [183 to 186][290], and [188 to 190][295], but the chief executive alone makes a determination.
+    (2) The person may do anything the chief executive may do under [sections 177][285], [179][287], [180][288], [183 to 186][291], and [188 to 190][296], but the chief executive alone makes a determination.
     
     (3) The chief executive may, in making a determination, rely on a report from the person.
     
@@ -6947,11 +6961,11 @@ Regulatory responsibilities and accreditation
     
     (3) A determination may incorporate---
         
-    *   (a) waivers or modifications of the [building code][668]; and
+    *   (a) waivers or modifications of the [building code][669]; and
     
     *   (b) conditions that a territorial authority or regional authority, as the case may be, is able to grant or impose.
     
-    (4) Subsection (1) is subject to [section 181(2)(b)][288].
+    (4) Subsection (1) is subject to [section 181(2)(b)][289].
     
     Compare: 1991 No 150 s 20
 
@@ -6985,19 +6999,19 @@ Regulatory responsibilities and accreditation
 
 #### Power of chief executive to register persons as building consent authorities for purposes of this Act
     
-*   Heading: amended, on 15 March 2008, by [section 37][851] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: amended, on 15 March 2008, by [section 37][854] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 191 Chief executive may enter person's name in register of building consent authorities
     
-*   The chief executive may, on the application of a person made in accordance with [section 194][302], enter the person's name in the register of building consent authorities kept under [section 273(1)(a)][417].
+*   The chief executive may, on the application of a person made in accordance with [section 194][303], enter the person's name in the register of building consent authorities kept under [section 273(1)(a)][418].
     
-    Section 191: replaced, on 14 April 2005, by [section 16(1)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 191: replaced, on 14 April 2005, by [section 16(1)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 192 Criteria for registration
     
 *   (1) Before entering a person's name in the register of building consent authorities, the chief executive must be satisfied that---
         
-    *   (a) the person holds a current accreditation from a building consent accreditation body appointed under [section 248][373]; and
+    *   (a) the person holds a current accreditation from a building consent accreditation body appointed under [section 248][374]; and
     
     *   (b) the person meets the prescribed criteria and standards for registration; and
     
@@ -7005,15 +7019,15 @@ Regulatory responsibilities and accreditation
     
     (2) In considering whether a person has adequate means to cover any civil liabilities under subsection (1)(c), the chief executive may have regard to whether the person---
         
-    *   (a) holds an insurance policy that meets the minimum terms and conditions prescribed by regulations made under [section 402][603]; or
+    *   (a) holds an insurance policy that meets the minimum terms and conditions prescribed by regulations made under [section 402][604]; or
     
-    *   (b) holds an insurance policy under a scheme of insurance approved by regulations made under [section 402][603]; or
+    *   (b) holds an insurance policy under a scheme of insurance approved by regulations made under [section 402][604]; or
     
     *   (c) has put in place any arrangements that provide for effective consumer protection (for example, by giving a bond or having a guarantor).
     
-    Section 192(1): amended, on 14 April 2005, by [section 16(2)(c)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 192(1): amended, on 14 April 2005, by [section 16(2)(c)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 192(1)(c): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 192(1)(c): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 193 Effect of registration
     
@@ -7021,13 +7035,13 @@ Regulatory responsibilities and accreditation
     
     (2) However, a person whose name is entered in the register of building consent authorities but who is not a territorial authority or a regional authority may perform only those functions that correspond with, or are within, the person's scope of accreditation.
     
-    Section 193(1): amended, on 14 April 2005, by [section 16(2)(d)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 193(1): amended, on 14 April 2005, by [section 16(2)(d)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 193(2): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 193(2): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 194 Application for registration
     
-*   An application for registration under [section 191][299] must---
+*   An application for registration under [section 191][300] must---
         
     *   (a) be made in writing to the chief executive; and
     
@@ -7041,7 +7055,7 @@ Regulatory responsibilities and accreditation
 
 ##### 195 Chief executive must decide application for registration
     
-*   The chief executive must, as soon as practicable after receiving an application for registration that complies with [section 194][302],---
+*   The chief executive must, as soon as practicable after receiving an application for registration that complies with [section 194][303],---
         
     *   (a) decide whether to register the applicant; and
     
@@ -7053,17 +7067,17 @@ Regulatory responsibilities and accreditation
 
 ##### 196 Registration continuous so long as person meets criteria for registration
     
-*   (1) The chief executive must assess at least once every 3 years, and may assess at any other time, whether a building consent authority whose name is entered in the register of building consent authorities continues to meet the criteria for registration specified in [section 192][300].
+*   (1) The chief executive must assess at least once every 3 years, and may assess at any other time, whether a building consent authority whose name is entered in the register of building consent authorities continues to meet the criteria for registration specified in [section 192][301].
     
-    (2) A building consent authority that continues to meet those criteria is entitled to the continuation of its registration, subject to [section 203][311].
+    (2) A building consent authority that continues to meet those criteria is entitled to the continuation of its registration, subject to [section 203][312].
     
-    Section 196(1): amended, on 14 April 2005, by [section 16(2)(e)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 196(1): amended, on 14 April 2005, by [section 16(2)(e)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 196(2): amended, on 14 April 2005, by [section 16(2)(f)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 196(2): amended, on 14 April 2005, by [section 16(2)(f)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 197 Consequences of failure to meet criteria for registration
     
-*   (1) Subsection (2) or subsection (3) applies if, after making an assessment under [section 196][304], the chief executive determines that a building consent authority no longer meets the criteria for registration.
+*   (1) Subsection (2) or subsection (3) applies if, after making an assessment under [section 196][305], the chief executive determines that a building consent authority no longer meets the criteria for registration.
     
     (2) In the case of a building consent authority that is not a territorial authority or a regional authority,---
         
@@ -7085,29 +7099,29 @@ Regulatory responsibilities and accreditation
     
     (3) In the case of a territorial authority or a regional authority, the chief executive must recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the territorial authority or, as the case may be, the regional authority in relation to all or any of its functions.
     
-    (4) If subsection (3) applies, [sections 277 to 281][423] apply with all necessary modifications.
+    (4) If subsection (3) applies, [sections 277 to 281][424] apply with all necessary modifications.
     
-    Section 197(1): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(1): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(a)(i): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(a)(i): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(a)(i): amended, on 14 April 2005, by [section 16(2)(k)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(a)(i): amended, on 14 April 2005, by [section 16(2)(k)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(a)(ii): amended, on 14 April 2005, by [section 16(2)(c)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(a)(ii): amended, on 14 April 2005, by [section 16(2)(c)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(b): amended, on 14 April 2005, by [section 16(2)(k)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(b): amended, on 14 April 2005, by [section 16(2)(k)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(b)(i): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(b)(i): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(b)(ii): amended, on 14 April 2005, by [section 16(2)(c)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(b)(ii): amended, on 14 April 2005, by [section 16(2)(c)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 197(2)(b)(ii): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 197(2)(b)(ii): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 198 Effect of suspension
     
-*   (1) A building consent authority is not registered, for the purposes of this Part and [Part 2][34], for the period for which the authority's registration is suspended under [section 197(2)][305].
+*   (1) A building consent authority is not registered, for the purposes of this Part and [Part 2][34], for the period for which the authority's registration is suspended under [section 197(2)][306].
     
     (2) At the end of the period of suspension, the authority's registration is immediately revived (unless there is some other ground to suspend or revoke that authority's registration).
     
@@ -7119,19 +7133,19 @@ Regulatory responsibilities and accreditation
     
     *   (b) be revoked by the chief executive at any time.
     
-    Section 198(1): amended, on 15 March 2008, by [section 38(1)][852] of the Building Amendment Act 2008 (2008 No 4).
+    Section 198(1): amended, on 15 March 2008, by [section 38(1)][855] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 198(1): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 198(1): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 198(2): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 198(2): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 198(3): amended, on 15 March 2008, by [section 38(2)(a)][852] of the Building Amendment Act 2008 (2008 No 4).
+    Section 198(3): amended, on 15 March 2008, by [section 38(2)(a)][855] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 198(3): amended, on 15 March 2008, by [section 38(2)(b)][852] of the Building Amendment Act 2008 (2008 No 4).
+    Section 198(3): amended, on 15 March 2008, by [section 38(2)(b)][855] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 199 Offence for person to perform functions of building consent authority or regional authority if person not registered, etc
     
-*   (1) A person commits an offence if the person performs any of the functions of a building consent authority without being registered under [section 191][299].
+*   (1) A person commits an offence if the person performs any of the functions of a building consent authority without being registered under [section 191][300].
     
     (2) A person commits an offence if the person---
         
@@ -7141,11 +7155,11 @@ Regulatory responsibilities and accreditation
     
     (3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000\.
     
-    Section 199(1): amended, on 14 April 2005, by [section 16(2)(h)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 199(1): amended, on 14 April 2005, by [section 16(2)(h)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 199(2)(a): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 199(2)(a): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 199(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 199(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 200 Complaints about building consent authorities
     
@@ -7171,25 +7185,25 @@ Regulatory responsibilities and accreditation
     
     (4) The chief executive may decline to accept, and is not required to investigate, a complaint that he or she considers vexatious or frivolous.
     
-    Section 200 heading: amended, on 14 April 2005, by [section 16(2)(i)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 200 heading: amended, on 14 April 2005, by [section 16(2)(i)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 200(1): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 200(1): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 200(1)(a): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 200(1)(a): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 200(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 200(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 200(2A): inserted, on 28 November 2013, by [section 49][853] of the Building Amendment Act 2013 (2013 No 100).
+    Section 200(2A): inserted, on 28 November 2013, by [section 49][856] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 200(3)(a): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 200(3)(a): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 201 Chief executive may conduct investigation on own initiative
     
-*   (1) If the chief executive considers that there are reasonable grounds for believing that any of the matters specified in [section 200(1)][308] applies, the chief executive may decide to investigate the matter---
+*   (1) If the chief executive considers that there are reasonable grounds for believing that any of the matters specified in [section 200(1)][309] applies, the chief executive may decide to investigate the matter---
         
     *   (a) on his or her own initiative; and
     
-    *   (b) without a complaint under [section 200][308] being made.
+    *   (b) without a complaint under [section 200][309] being made.
     
     (2) The chief executive must, immediately after making a decision under subsection (1),---
         
@@ -7197,21 +7211,21 @@ Regulatory responsibilities and accreditation
     
     *   (b) proceed to investigate the matter.
     
-    (3) To avoid doubt, this section does not affect the chief executive's power to conduct a review of a territorial authority or regional authority under [section 276][421].
+    (3) To avoid doubt, this section does not affect the chief executive's power to conduct a review of a territorial authority or regional authority under [section 276][422].
     
-    Section 201(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 201(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 202 Procedure if chief executive proceeds to investigate complaint or matter
     
 *   (1) This section applies if the chief executive proceeds to investigate---
         
-    *   (a) a complaint under [section 200][308]; or
+    *   (a) a complaint under [section 200][309]; or
     
-    *   (b) a matter on his or her own initiative under [section 201][309].
+    *   (b) a matter on his or her own initiative under [section 201][310].
     
-    (2) The chief executive must, in the notice to the building consent authority concerned given under [section 200(3)][308] or, as the case may be, [section 201(2)][309],---
+    (2) The chief executive must, in the notice to the building consent authority concerned given under [section 200(3)][309] or, as the case may be, [section 201(2)][310],---
         
-    *   (a) state that the chief executive has reason to believe that 1 or more grounds exist entitling him or her to exercise the disciplinary powers under [section 203][311]; and
+    *   (a) state that the chief executive has reason to believe that 1 or more grounds exist entitling him or her to exercise the disciplinary powers under [section 203][312]; and
     
     *   (b) provide particulars that will clearly inform the building consent authority of the ground or grounds; and
     
@@ -7221,13 +7235,13 @@ Regulatory responsibilities and accreditation
     
     (3) For the avoidance of doubt, a building consent authority's failure to make written submissions after being given a reasonable opportunity to do so does not limit the chief executive in investigating the complaint or determining it.
     
-    Section 202(2): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 202(2): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 202(2)(b): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 202(2)(b): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 202(2)(c): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 202(2)(c): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 202(3): inserted, on 28 November 2013, by [section 50][854] of the Building Amendment Act 2013 (2013 No 100).
+    Section 202(3): inserted, on 28 November 2013, by [section 50][857] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 203 Disciplinary powers of chief executive
     
@@ -7263,31 +7277,31 @@ Regulatory responsibilities and accreditation
     
     *   (e) in the case of a territorial authority or regional authority, recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the territorial authority or, as the case may be, the regional authority in relation to all or any of its functions.
     
-    (3) If subsection (2)(e) applies, [sections 277 to 281][423] apply with all necessary modifications.
+    (3) If subsection (2)(e) applies, [sections 277 to 281][424] apply with all necessary modifications.
     
     (4) If the chief executive takes any action referred to in subsection (2), he or she must give written notice of the action to the building consent authority and the reasons for the action.
     
-    Section 203(1): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(1): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(1)(a): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(1)(a): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(a): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(b): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(b): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(ba): inserted, on 28 November 2013, by [section 51][855] of the Building Amendment Act 2013 (2013 No 100).
+    Section 203(2)(ba): inserted, on 28 November 2013, by [section 51][858] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 203(2)(c): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(c): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(d): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(d): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(d)(i): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(d)(i): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(d)(ii): amended, on 14 April 2005, by [section 16(2)(c)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(d)(ii): amended, on 14 April 2005, by [section 16(2)(c)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(2)(d)(ii): amended, on 14 April 2005, by [section 16(2)(j)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(2)(d)(ii): amended, on 14 April 2005, by [section 16(2)(j)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 203(4): amended, on 14 April 2005, by [section 16(2)(g)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 203(4): amended, on 14 April 2005, by [section 16(2)(g)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 #### Further powers of chief executive
 
@@ -7297,13 +7311,13 @@ Regulatory responsibilities and accreditation
         
     *   (a) monitor the performance by territorial authorities, building consent authorities, or regional authorities of their functions under this Act; and
     
-    *   (aa) decide whether to accept or decline a complaint received under [section 200(1)][308]; and
+    *   (aa) decide whether to accept or decline a complaint received under [section 200(1)][309]; and
     
-    *   (ab) investigate a complaint under [section 200][308] or investigate a matter on his or her own initiative under [section 201][309]; and
+    *   (ab) investigate a complaint under [section 200][309] or investigate a matter on his or her own initiative under [section 201][310]; and
     
-    *   (b) carry out the review of territorial authorities under [section 276][421]; and
+    *   (b) carry out the review of territorial authorities under [section 276][422]; and
     
-    *   (c) assist the Minister in determining whether to exercise the Minister's power under [section 277][423] (which relates to the non-performance of functions by a territorial authority).
+    *   (c) assist the Minister in determining whether to exercise the Minister's power under [section 277][424] (which relates to the non-performance of functions by a territorial authority).
     
     (2) For the purpose of this section, the chief executive---
         
@@ -7321,7 +7335,7 @@ Regulatory responsibilities and accreditation
         
         *   (ii) answer any question that relates to the performance of functions under this Act:
         
-        *   (iii) answer any question that relates to a complaint received under [section 200(1)][308] or to a complaint investigated under section 200 or to a matter investigated under [section 201][309]:
+        *   (iii) answer any question that relates to a complaint received under [section 200(1)][309] or to a complaint investigated under section 200 or to a matter investigated under [section 201][310]:
         
         
     
@@ -7347,9 +7361,9 @@ Regulatory responsibilities and accreditation
             
         *   (i) the performance by a territorial authority, building consent authority, or regional authority of its functions under this Act; or
         
-        *   (ii) a complaint received under [section 200(1)][308]; or
+        *   (ii) a complaint received under [section 200(1)][309]; or
         
-        *   (iii) a complaint investigated under [section 200][308] or a matter investigated under [section 201][309]; and
+        *   (iii) a complaint investigated under [section 200][309] or a matter investigated under [section 201][310]; and
         
         
     
@@ -7357,23 +7371,23 @@ Regulatory responsibilities and accreditation
     
     Compare: 1991 No 150 s 79(1), (2)
     
-    Section 204(1)(aa): inserted, on 28 November 2013, by [section 52(1)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(1)(aa): inserted, on 28 November 2013, by [section 52(1)][859] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 204(1)(ab): inserted, on 28 November 2013, by [section 52(1)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(1)(ab): inserted, on 28 November 2013, by [section 52(1)][859] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 204(2)(b): replaced, on 28 November 2013, by [section 52(2)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(2)(b): replaced, on 28 November 2013, by [section 52(2)][859] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 204(2)(c): replaced, on 28 November 2013, by [section 52(2)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(2)(c): replaced, on 28 November 2013, by [section 52(2)][859] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 204(2)(d): replaced, on 28 November 2013, by [section 52(2)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(2)(d): replaced, on 28 November 2013, by [section 52(2)][859] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 204(4): replaced, on 28 November 2013, by [section 52(3)][856] of the Building Amendment Act 2013 (2013 No 100).
+    Section 204(4): replaced, on 28 November 2013, by [section 52(3)][859] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 205 Limits on power to enter land or building
     
-*   The power to enter land or buildings under [section 204(2)][313] is subject to the following conditions:
+*   The power to enter land or buildings under [section 204(2)][314] is subject to the following conditions:
         
-    *   (a) the person entering must, if requested on entry or at any subsequent time, produce to the owner or occupier of that land or building the written warrant referred to in [section 206][315]:
+    *   (a) the person entering must, if requested on entry or at any subsequent time, produce to the owner or occupier of that land or building the written warrant referred to in [section 206][316]:
     
     *   (b) entry may be made only at reasonable times.
     
@@ -7401,11 +7415,11 @@ Regulatory responsibilities and accreditation
     
     Compare: 1991 No 150 s 79(4), (6)
     
-    Section 206(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 206(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 207 Duties of person supplied with warrant
     
-*   An authorised person supplied with a warrant under [section 206][315]---
+*   An authorised person supplied with a warrant under [section 206][316]---
         
     *   (a) must, on the termination of his or her authority, surrender the warrant to the chief executive; and
     
@@ -7431,13 +7445,13 @@ Regulatory responsibilities and accreditation
     
     *   (b) take copies of the document or of extracts from the document.
     
-    Section 207A: inserted, on 28 November 2013, by [section 53][857] of the Building Amendment Act 2013 (2013 No 100).
+    Section 207A: inserted, on 28 November 2013, by [section 53][860] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 207B Offence of failing to comply with chief executive's notice for provision of information
     
-*   A person who fails to comply with a notice served on that person under [section 207A][317] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+*   A person who fails to comply with a notice served on that person under [section 207A][318] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 207B: inserted, on 28 November 2013, by [section 53][857] of the Building Amendment Act 2013 (2013 No 100).
+    Section 207B: inserted, on 28 November 2013, by [section 53][860] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Appeal from chief executive's decisions
 
@@ -7445,15 +7459,15 @@ Regulatory responsibilities and accreditation
     
 *   (1) The persons referred to in subsection (2) may appeal to a District Court against---
         
-    *   (a) a determination by the chief executive under [section 188][295]; or
+    *   (a) a determination by the chief executive under [section 188][296]; or
     
-    *   (aa) a direction as to costs given under [section 190(2)][297]; or
+    *   (aa) a direction as to costs given under [section 190(2)][298]; or
     
     *   (b) the chief executive's decision to---
             
         *   (i) decline to register the person as a building consent authority; or
         
-        *   (ii) take any action referred to in [section 203][311]; or
+        *   (ii) take any action referred to in [section 203][312]; or
         
         *   (iii) refuse to issue a national multiple-use approval.
         
@@ -7475,49 +7489,49 @@ Regulatory responsibilities and accreditation
     
     *   (d) in the case of an appeal under subsection (1)(b)(iii), the applicant for the national multiple-use approval.
     
-    Section 208(1)(aa): replaced, on 13 March 2012, by [section 56][858] of the Building Amendment Act 2012 (2012 No 23).
+    Section 208(1)(aa): replaced, on 13 March 2012, by [section 56][861] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 208(1)(b)(i): amended, on 15 March 2008, by [section 39(1)][859] of the Building Amendment Act 2008 (2008 No 4).
+    Section 208(1)(b)(i): amended, on 15 March 2008, by [section 39(1)][862] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 208(1)(b)(ii): amended, on 1 February 2010, by [section 25(1)][860] of the Building Amendment Act 2009 (2009 No 25).
+    Section 208(1)(b)(ii): amended, on 1 February 2010, by [section 25(1)][863] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 208(1)(b)(iii): inserted, on 1 February 2010, by [section 25(1)][860] of the Building Amendment Act 2009 (2009 No 25).
+    Section 208(1)(b)(iii): inserted, on 1 February 2010, by [section 25(1)][863] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 208(2)(a): amended, on 7 July 2010, by [section 5(2)][861] of the Building Amendment Act 2010 (2010 No 50).
+    Section 208(2)(a): amended, on 7 July 2010, by [section 5(2)][864] of the Building Amendment Act 2010 (2010 No 50).
     
-    Section 208(2)(c): amended, on 1 February 2010, by [section 25(2)][860] of the Building Amendment Act 2009 (2009 No 25).
+    Section 208(2)(c): amended, on 1 February 2010, by [section 25(2)][863] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 208(2)(c): amended, on 15 March 2008, by [section 39(2)][859] of the Building Amendment Act 2008 (2008 No 4).
+    Section 208(2)(c): amended, on 15 March 2008, by [section 39(2)][862] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 208(2)(d): inserted, on 1 February 2010, by [section 25(2)][860] of the Building Amendment Act 2009 (2009 No 25).
+    Section 208(2)(d): inserted, on 1 February 2010, by [section 25(2)][863] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 209 Procedure for commencing appeal
     
-*   (1) An appeal under [section 208][320] must be made---
+*   (1) An appeal under [section 208][321] must be made---
         
     *   (a) by the appellant filing a notice of appeal with the Registrar of the District Court within 15 working days after,---
             
-        *   (i) in the case of an appeal under [section 208(1)(a)][320], the date of the determination or the date on which the chief executive amends the determination by way of clarification under [section 189][296]; or
+        *   (i) in the case of an appeal under [section 208(1)(a)][321], the date of the determination or the date on which the chief executive amends the determination by way of clarification under [section 189][297]; or
         
-        *   (ia) in the case of an appeal under [section 208(1)(aa)][320], the date of the written direction given by the chief executive under [section 190][297]; or
+        *   (ia) in the case of an appeal under [section 208(1)(aa)][321], the date of the written direction given by the chief executive under [section 190][298]; or
         
-        *   (ii) in the case of an appeal under [section 208(1)(b)][320], the date of the relevant decision of the chief executive; and
+        *   (ii) in the case of an appeal under [section 208(1)(b)][321], the date of the relevant decision of the chief executive; and
         
         
     
     *   (b) otherwise in accordance with the District Courts Rules (except to any extent that those rules are inconsistent with this section).
     
-    (2) The Registrar of the District Court may extend the time for making an appeal under [section 208(1)(a)][320] if the chief executive amends the determination by way of clarification under [section 189][296].
+    (2) The Registrar of the District Court may extend the time for making an appeal under [section 208(1)(a)][321] if the chief executive amends the determination by way of clarification under [section 189][297].
     
-    Section 209(1)(a)(ia): inserted, on 7 July 2010, by [section 6][862] of the Building Amendment Act 2010 (2010 No 50).
+    Section 209(1)(a)(ia): inserted, on 7 July 2010, by [section 6][865] of the Building Amendment Act 2010 (2010 No 50).
 
 ##### 210 Steps after appeal is commenced
     
-*   (1) Either before or immediately after an appeal under [section 208][320] is made, the appellant must serve a copy of the notice of appeal on---
+*   (1) Either before or immediately after an appeal under [section 208][321] is made, the appellant must serve a copy of the notice of appeal on---
         
     *   (a) the chief executive; and
     
-    *   (b) in the case of an appeal under [section 208(1)(a)][320] or (aa), any other party.
+    *   (b) in the case of an appeal under [section 208(1)(a)][321] or (aa), any other party.
     
     (2) A person served with the notice under subsection (1) who wishes to appear on the appeal must give notice of the person's intention to appear to---
         
@@ -7529,11 +7543,11 @@ Regulatory responsibilities and accreditation
     
     (3) The notice to appear under subsection (2) must be served within 10 working days after the party was served with the notice of appeal.
     
-    Section 210(1)(b): amended, on 7 July 2010, by [section 7][863] of the Building Amendment Act 2010 (2010 No 50).
+    Section 210(1)(b): amended, on 7 July 2010, by [section 7][866] of the Building Amendment Act 2010 (2010 No 50).
 
 ##### 211 Powers of District Court on appeal
     
-*   (1) On the hearing of an appeal under [section 208][320], a District Court may---
+*   (1) On the hearing of an appeal under [section 208][321], a District Court may---
         
     *   (a) confirm, reverse, or modify the determination, direction, or decision of the chief executive; or
     
@@ -7547,13 +7561,13 @@ Regulatory responsibilities and accreditation
     
     (4) The decision of the District Court on an appeal is final.
     
-    Section 211(1)(a): amended, on 7 July 2010, by [section 8(1)][864] of the Building Amendment Act 2010 (2010 No 50).
+    Section 211(1)(a): amended, on 7 July 2010, by [section 8(1)][867] of the Building Amendment Act 2010 (2010 No 50).
     
-    Section 211(1)(c): amended, on 7 July 2010, by [section 8(2)][864] of the Building Amendment Act 2010 (2010 No 50).
+    Section 211(1)(c): amended, on 7 July 2010, by [section 8(2)][867] of the Building Amendment Act 2010 (2010 No 50).
     
-    Section 211(2): amended, on 7 July 2010, by [section 8(3)][864] of the Building Amendment Act 2010 (2010 No 50).
+    Section 211(2): amended, on 7 July 2010, by [section 8(3)][867] of the Building Amendment Act 2010 (2010 No 50).
     
-    Section 211(3): amended, on 7 July 2010, by [section 8(4)][864] of the Building Amendment Act 2010 (2010 No 50).
+    Section 211(3): amended, on 7 July 2010, by [section 8(4)][867] of the Building Amendment Act 2010 (2010 No 50).
 
 ### Subpart 2---Responsibilities of territorial authorities
 
@@ -7561,7 +7575,7 @@ Regulatory responsibilities and accreditation
 
 ##### 212 Territorial authority must act as building consent authority for its district
     
-*   (1) A territorial authority must perform the functions of a building consent authority within its district, and for any coastal marine area (within the meaning of the [Resource Management Act 1991][684]) adjacent to its district that is not within the district of another territorial authority, in relation to---
+*   (1) A territorial authority must perform the functions of a building consent authority within its district, and for any coastal marine area (within the meaning of the [Resource Management Act 1991][685]) adjacent to its district that is not within the district of another territorial authority, in relation to---
         
     *   (a) any application for a building consent made to the territorial authority; and
     
@@ -7573,19 +7587,19 @@ Regulatory responsibilities and accreditation
     
     (4) Subsection (1)---
         
-    *   (a) is subject to the territorial authority's power to transfer, under [section 233][352], any or all of its functions, duties, or powers under this Act to another territorial authority; and
+    *   (a) is subject to the territorial authority's power to transfer, under [section 233][353], any or all of its functions, duties, or powers under this Act to another territorial authority; and
     
     *   (b) does not apply to any function so transferred by the territorial authority.
     
-    Section 212 heading: amended, on 14 April 2005, by [section 17(1)][865] of the Building Amendment Act 2005 (2005 No 31).
+    Section 212 heading: amended, on 14 April 2005, by [section 17(1)][868] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 212(1): amended, on 14 April 2005, by [section 17(2)][865] of the Building Amendment Act 2005 (2005 No 31).
+    Section 212(1): amended, on 14 April 2005, by [section 17(2)][868] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 212(3): replaced, on 1 February 2010, by [section 26][866] of the Building Amendment Act 2009 (2009 No 25).
+    Section 212(3): replaced, on 1 February 2010, by [section 26][869] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 213 Territorial authority may make arrangements relating to functions of building consent authority
     
-*   (1) A territorial authority may comply with [section 212(1)][326] by---
+*   (1) A territorial authority may comply with [section 212(1)][327] by---
         
     *   (a) performing the functions of a building consent authority itself; or
     
@@ -7603,7 +7617,7 @@ Regulatory responsibilities and accreditation
 
 ##### 214 How liability apportioned if territorial authority makes arrangements relating to functions of building consent authority
     
-*   If a territorial authority makes an arrangement under [section 213(1)][327] for another building consent authority to perform all or any of the territorial authority's functions on its behalf,---
+*   If a territorial authority makes an arrangement under [section 213(1)][328] for another building consent authority to perform all or any of the territorial authority's functions on its behalf,---
         
     *   (a) the territorial authority is liable for the acts and omissions of the other building consent authority when the other building consent authority is acting in that capacity; but
     
@@ -7619,7 +7633,7 @@ Regulatory responsibilities and accreditation
 
 ##### 215 Territorial authority must gain accreditation and be registered
     
-*   A territorial authority must, for the purpose of ensuring that it complies with [section 212(1)][326],---
+*   A territorial authority must, for the purpose of ensuring that it complies with [section 212(1)][327],---
         
     *   (a) apply for, and gain, accreditation under this Part; and
     
@@ -7667,7 +7681,7 @@ Regulatory responsibilities and accreditation
         
         
     
-    *   (c) any orders issued by the District Court under [section 126][201] in respect of a building; and
+    *   (c) any orders issued by the District Court under [section 126][202] in respect of a building; and
     
     *   (d) any records of any information on any land or building received by the territorial authority from a statutory authority; and
     
@@ -7675,7 +7689,7 @@ Regulatory responsibilities and accreditation
     
     *   (f) information on how the territorial authority dealt with each of the complaints referred to in paragraph (e); and
     
-    *   (g) all information provided to the territorial authority by a building consent authority under [section 238][358].
+    *   (g) all information provided to the territorial authority by a building consent authority under [section 238][359].
     
     (3) A territorial authority must keep the information referred to in---
         
@@ -7685,25 +7699,25 @@ Regulatory responsibilities and accreditation
     
     Compare: 1991 No 150 s 27(1), (2)
     
-    Section 216(2)(b)(iva): inserted, on 15 March 2008, by [section 40][867] of the Building Amendment Act 2008 (2008 No 4).
+    Section 216(2)(b)(iva): inserted, on 15 March 2008, by [section 40][870] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 216(2)(b)(iva): amended, on 13 March 2012, by [section 57(1)][868] of the Building Amendment Act 2012 (2012 No 23).
+    Section 216(2)(b)(iva): amended, on 13 March 2012, by [section 57(1)][871] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 216(2)(b)(ivb): inserted, on 13 March 2012, by [section 57(2)][868] of the Building Amendment Act 2012 (2012 No 23).
+    Section 216(2)(b)(ivb): inserted, on 13 March 2012, by [section 57(2)][871] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 216(2)(b)(ivc): inserted, on 13 March 2012, by [section 57(2)][868] of the Building Amendment Act 2012 (2012 No 23).
+    Section 216(2)(b)(ivc): inserted, on 13 March 2012, by [section 57(2)][871] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 217 Access to certain information kept by territorial authority
     
 *   (1) A person---
         
-    *   (a) has a right to access the information referred to in [section 216(1) and (2)][330]; and
+    *   (a) has a right to access the information referred to in [section 216(1) and (2)][331]; and
     
     *   (b) must, on request, be given access to that information by the territorial authority during ordinary office hours.
     
     (2) The right conferred by subsection (1)---
         
-    *   (a) is subject to the power of a territorial authority to withhold information under the provisions of the [Local Government Official Information and Meetings Act 1987][869]; and
+    *   (a) is subject to the power of a territorial authority to withhold information under the provisions of the [Local Government Official Information and Meetings Act 1987][872]; and
     
     *   (b) does not extend to a plan or specification that is marked confidential by any or all of the following persons for the reason set out in subsection (3):
             
@@ -7725,15 +7739,15 @@ Regulatory responsibilities and accreditation
     
     *   (b) may charge a reasonable fee for the use of those facilities.
     
-    (5) Subsection (4) is subject to [section 44A][870] of the Local Government Official Information and Meetings Act 1987\.
+    (5) Subsection (4) is subject to [section 44A][873] of the Local Government Official Information and Meetings Act 1987\.
     
     Compare: 1991 No 150 s 27(3), (4)
     
-    Section 217(2)(a): replaced, on 28 November 2013, by [section 54][871] of the Building Amendment Act 2013 (2013 No 100).
+    Section 217(2)(a): replaced, on 28 November 2013, by [section 54][874] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 218 Territorial authority must provide information to chief executive for purpose of facilitating performance of chief executive's function under section 169
     
-*   (1) For the purpose of facilitating the performance of the chief executive's function under [section 169][275] (which relates to monitoring current and emerging trends in building design, etc), a territorial authority must provide information to the chief executive in accordance with the regulations.
+*   (1) For the purpose of facilitating the performance of the chief executive's function under [section 169][276] (which relates to monitoring current and emerging trends in building design, etc), a territorial authority must provide information to the chief executive in accordance with the regulations.
     
     (2) However, a territorial authority is only required to provide information under subsection (1) about its functions, duties, and powers under this Act.
 
@@ -7753,7 +7767,7 @@ Regulatory responsibilities and accreditation
     
     (2) If a fee, charge, or levy is payable to a territorial authority for the performance of a function or service under this Act, the territorial authority may refuse to perform the function or service, unless the fee, charge, or levy is paid.
     
-    Section 219(1)(a): amended, on 13 March 2012, by [section 59][872] of the Building Amendment Act 2012 (2012 No 23).
+    Section 219(1)(a): amended, on 13 March 2012, by [section 59][875] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Power of territorial authority to carry out building work on default
 
@@ -7795,7 +7809,7 @@ Regulatory responsibilities and accreditation
         
     *   (a) the money payable becomes a charge on the land; and
     
-    *   (b) the provisions of the [Local Government (Rating) Act 2002][873] and the [Local Government Act 2002][735] apply accordingly.
+    *   (b) the provisions of the [Local Government (Rating) Act 2002][876] and the [Local Government Act 2002][736] apply accordingly.
     
     (2) The territorial authority---
         
@@ -7811,7 +7825,7 @@ Regulatory responsibilities and accreditation
     
     (3) If the territorial authority exercises the powers conferred by this section, the exercise of those powers does not relieve a person from any penalty for failure to comply with the requirements of a notice under this Act.
     
-    (4) Any building work that is carried out, or is to be carried out, by a territorial authority under this section is declared to be a public work for the purposes of the [Public Works Act 1981][874].
+    (4) Any building work that is carried out, or is to be carried out, by a territorial authority under this section is declared to be a public work for the purposes of the [Public Works Act 1981][877].
     
     Compare: 1991 No 150 s 75
 
@@ -7841,9 +7855,9 @@ Regulatory responsibilities and accreditation
     
     (2) An authorised officer must, on entering private land under subsection (1), and when requested at any subsequent time, produce to the occupier of the land written evidence of the authorised officer's identity.
     
-    (3) The powers conferred by this section are in addition to, and do not limit, the powers conferred by [section 173][875] of the Local Government Act 2002\.
+    (3) The powers conferred by this section are in addition to, and do not limit, the powers conferred by [section 173][878] of the Local Government Act 2002\.
     
-    (4) In this section and [sections 223 to 228][339],---
+    (4) In this section and [sections 223 to 228][340],---
     
     _authorised officer_ means an officer of a territorial authority to whom either or both of the following applies:
         
@@ -7853,7 +7867,7 @@ Regulatory responsibilities and accreditation
             
         *   (i) by this Act; or
         
-        *   (ii) by an order of the District Court made under [section 227][343]
+        *   (ii) by an order of the District Court made under [section 227][344]
         
         
     
@@ -7903,33 +7917,33 @@ Regulatory responsibilities and accreditation
     
     Compare: 1991 No 150 s 76(4)
     
-    Section 223(2)(c): replaced, on 13 March 2012, by [section 61][876] of the Building Amendment Act 2012 (2012 No 23).
+    Section 223(2)(c): replaced, on 13 March 2012, by [section 61][879] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 224 Warrant must be produced
     
-*   An authorised officer must, on entering private land and when requested at any subsequent time, produce to the occupier of the building a written warrant issued under [section 174][877] of the Local Government Act 2002\.
+*   An authorised officer must, on entering private land and when requested at any subsequent time, produce to the occupier of the building a written warrant issued under [section 174][880] of the Local Government Act 2002\.
     
     Compare: 1991 No 150 s 76(5)
 
 ##### 225 Offence to impersonate authorised officer
     
-*   (1) A person commits an offence if the person impersonates or falsely pretends to be an authorised officer named in a warrant referred to in [section 224][340].
+*   (1) A person commits an offence if the person impersonates or falsely pretends to be an authorised officer named in a warrant referred to in [section 224][341].
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
     Compare: 1991 No 150 s 80(h)
     
-    Section 225(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 225(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 226 Restriction on entry to household unit
     
-*   (1) Despite [section 222][338], an authorised officer may not enter a household unit that is being used as a household unit without---
+*   (1) Despite [section 222][339], an authorised officer may not enter a household unit that is being used as a household unit without---
         
     *   (a) the consent of the occupier of the household unit; or
     
-    *   (b) an order of a District Court made under [section 227][343].
+    *   (b) an order of a District Court made under [section 227][344].
     
-    (2) Subsection (1) does not limit the power conferred by [section 173][875] of the Local Government Act 2002 (which allows a local authority entry into occupied land or buildings without prior notice in cases of emergency).
+    (2) Subsection (1) does not limit the power conferred by [section 173][878] of the Local Government Act 2002 (which allows a local authority entry into occupied land or buildings without prior notice in cases of emergency).
     
     Compare: 1991 No 150 s 76(7)
 
@@ -7941,7 +7955,7 @@ Regulatory responsibilities and accreditation
         
     *   (a) only if it is satisfied that---
             
-        *   (i) the proposed entry is necessary for the purposes of [section 222][338]; and
+        *   (i) the proposed entry is necessary for the purposes of [section 222][339]; and
         
         *   (ii) the authorised officer has taken all reasonable steps to obtain the consent of the occupier to the proposed entry; and
         
@@ -7955,9 +7969,9 @@ Regulatory responsibilities and accreditation
     
 *   An authorised officer must,---
         
-    *   (a) if he or she intends to apply for an order under [section 227][343], give the occupier of the household unit to which that application relates not less than 10 days' written notice of his or her intention to do so; and
+    *   (a) if he or she intends to apply for an order under [section 227][344], give the occupier of the household unit to which that application relates not less than 10 days' written notice of his or her intention to do so; and
     
-    *   (b) before he or she enters a household unit under the authority of an order under [section 227][343], serve the order on the occupier of the household unit to which that order relates.
+    *   (b) before he or she enters a household unit under the authority of an order under [section 227][344], serve the order on the occupier of the household unit to which that order relates.
     
     Compare: 1991 No 150 s 76(10)
 
@@ -7965,31 +7979,31 @@ Regulatory responsibilities and accreditation
 
 \[Repealed\]
     
-*   Heading: repealed, on 28 November 2013, by [section 55][878] of the Building Amendment Act 2013 (2013 No 100).
+*   Heading: repealed, on 28 November 2013, by [section 55][881] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 229 Authorisation of enforcement officers
-
-\[Repealed\]
     
-*   Section 229: repealed, on 28 November 2013, by [section 55][878] of the Building Amendment Act 2013 (2013 No 100).
+*   \[Repealed\]
+    
+    Section 229: repealed, on 28 November 2013, by [section 55][881] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 230 Conditions of authorisation
     
 *   \[Repealed\]
     
-    Section 230: repealed, on 28 November 2013, by [section 55][878] of the Building Amendment Act 2013 (2013 No 100).
+    Section 230: repealed, on 28 November 2013, by [section 55][881] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 231 Offence to impersonate enforcement officer
     
 *   \[Repealed\]
     
-    Section 231: repealed, on 28 November 2013, by [section 55][878] of the Building Amendment Act 2013 (2013 No 100).
+    Section 231: repealed, on 28 November 2013, by [section 55][881] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Delegation of power
 
 ##### 232 Delegation of powers by territorial authority and its officers
     
-*   [Clause 32][879] of Schedule 7 of the Local Government Act 2002 applies, with all necessary modifications, in respect of powers conferred by this Act on a territorial authority and its officers.
+*   [Clause 32][882] of Schedule 7 of the Local Government Act 2002 applies, with all necessary modifications, in respect of powers conferred by this Act on a territorial authority and its officers.
     
     Compare: 1991 No 150 s 78
 
@@ -8003,9 +8017,9 @@ Regulatory responsibilities and accreditation
 
 ##### 234 Procedure for transfer
     
-*   If a territorial authority proposes to transfer any of its functions, duties, or powers under [section 233][352], the territorial authority must---
+*   If a territorial authority proposes to transfer any of its functions, duties, or powers under [section 233][353], the territorial authority must---
         
-    *   (a) use the special consultative procedure in [section 83][824] of the Local Government Act 2002; and
+    *   (a) use the special consultative procedure in [section 83][827] of the Local Government Act 2002; and
     
     *   (b) serve notice on the Minister of its proposal to transfer the function, duty, or power; and
     
@@ -8021,7 +8035,7 @@ Regulatory responsibilities and accreditation
 
 ##### 235 Territorial authorities may agree on terms of transfer
     
-*   A territorial authority from whom functions, duties, or powers are to be transferred under [section 233][352] and a territorial authority to whom those functions, duties, or powers are to be transferred---
+*   A territorial authority from whom functions, duties, or powers are to be transferred under [section 233][353] and a territorial authority to whom those functions, duties, or powers are to be transferred---
         
     *   (a) must enter into an agreement in respect of the transfer; and
     
@@ -8031,7 +8045,7 @@ Regulatory responsibilities and accreditation
 
 ##### 236 Effect of transfer
     
-*   (1) A territorial authority to whom a function, duty, or power is transferred under [section 233][352]---
+*   (1) A territorial authority to whom a function, duty, or power is transferred under [section 233][353]---
         
     *   (a) may perform the function or duty, or exercise the power, as if the function or duty were imposed, or the power were conferred, on that territorial authority under this Act; and
     
@@ -8043,25 +8057,25 @@ Regulatory responsibilities and accreditation
 
 ### Subpart 3---Responsibilities of building consent authority that is not territorial authority or regional authority
     
-*   Subpart 3 heading: amended, on 15 March 2008, by [section 41][880] of the Building Amendment Act 2008 (2008 No 4).
+*   Subpart 3 heading: amended, on 15 March 2008, by [section 41][883] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 237 Application of subpart
     
 *   This subpart applies to a building consent authority that---
         
-    *   (a) is registered under [section 273][417]; and
+    *   (a) is registered under [section 273][418]; and
     
     *   (b) provides services as a building consent authority in a district; but
     
     *   (c) is not---
             
-        *   (i) the territorial authority for the district, or another territorial authority to which a function, duty, or power is transferred under [section 233][352]; or
+        *   (i) the territorial authority for the district, or another territorial authority to which a function, duty, or power is transferred under [section 233][353]; or
         
-        *   (ii) the regional authority for the region, or another regional authority to which a function, duty, or power is transferred under [section 244][367].
+        *   (ii) the regional authority for the region, or another regional authority to which a function, duty, or power is transferred under [section 244][368].
         
         
     
-    Section 237(c): replaced, on 14 April 2005, by [section 3(7)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 237(c): replaced, on 14 April 2005, by [section 3(7)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 238 Duties of building consent authority
     
@@ -8123,13 +8137,13 @@ Regulatory responsibilities and accreditation
     
     (5) A building consent authority that commits an offence under this section is liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence has continued.
     
-    Section 238(2)(b)(iva): inserted, on 13 March 2012, by [section 62(2)][881] of the Building Amendment Act 2012 (2012 No 23).
+    Section 238(2)(b)(iva): inserted, on 13 March 2012, by [section 62(2)][884] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 238(2)(b)(ivb): inserted, on 13 March 2012, by [section 62(2)][881] of the Building Amendment Act 2012 (2012 No 23).
+    Section 238(2)(b)(ivb): inserted, on 13 March 2012, by [section 62(2)][884] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 238(2)(b)(ivc): inserted, on 13 March 2012, by [section 62(2)][881] of the Building Amendment Act 2012 (2012 No 23).
+    Section 238(2)(b)(ivc): inserted, on 13 March 2012, by [section 62(2)][884] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 238(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 238(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 239 Building consent authority must provide information to chief executive
     
@@ -8151,9 +8165,9 @@ Regulatory responsibilities and accreditation
     
     (2) If a fee, charge, or levy is payable to a building consent authority for the performance of a function or service under this Act, the building consent authority may refuse to perform the function or service, unless the fee, charge, or levy is paid.
     
-    (3) A failure by a person to pay a fee, charge, or levy does not affect the duty of a building consent authority under [section 238][358] to provide copies of certain information to the territorial authority.
+    (3) A failure by a person to pay a fee, charge, or levy does not affect the duty of a building consent authority under [section 238][359] to provide copies of certain information to the territorial authority.
     
-    Section 240(1)(a): amended, on 13 March 2012, by [section 63][882] of the Building Amendment Act 2012 (2012 No 23).
+    Section 240(1)(a): amended, on 13 March 2012, by [section 63][885] of the Building Amendment Act 2012 (2012 No 23).
 
 ### Subpart 4---Responsibilities of regional authorities
 
@@ -8171,11 +8185,11 @@ Regulatory responsibilities and accreditation
     
     (2) Subsection (1)---
         
-    *   (a) is subject to the regional authority's power under [section 244][367] to transfer any of its functions under this Act to another regional authority; and
+    *   (a) is subject to the regional authority's power under [section 244][368] to transfer any of its functions under this Act to another regional authority; and
     
     *   (b) does not apply to any function it transfers to another regional authority.
     
-    Section 241(2): inserted, on 14 April 2005, by [section 18][883] of the Building Amendment Act 2005 (2005 No 31).
+    Section 241(2): inserted, on 14 April 2005, by [section 18][886] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 242 Regional authority must provide information to chief executive
     
@@ -8193,17 +8207,17 @@ Regulatory responsibilities and accreditation
         
         
     
-    *   (b) may recover its costs from the owner if it carries out building work under [section 156][256]; and
+    *   (b) may recover its costs from the owner if it carries out building work under [section 156][257]; and
     
     *   (c) must collect the levy an applicant is liable to pay to the chief executive under [section 53][98].
     
     (2) If a fee or charge is payable to a regional authority for the performance of a function or service under this Act, the regional authority may decline to perform the function or service, unless the fee or charge is paid.
     
-    Section 243 heading: amended, on 14 April 2005, by [section 19(1)][884] of the Building Amendment Act 2005 (2005 No 31).
+    Section 243 heading: amended, on 14 April 2005, by [section 19(1)][887] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 243(1): replaced, on 14 April 2005, by [section 19(2)][884] of the Building Amendment Act 2005 (2005 No 31).
+    Section 243(1): replaced, on 14 April 2005, by [section 19(2)][887] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 243(1)(a): amended, on 13 March 2012, by [section 64][885] of the Building Amendment Act 2012 (2012 No 23).
+    Section 243(1)(a): amended, on 13 March 2012, by [section 64][888] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Transfer of functions, duties, and powers of regional authority
 
@@ -8213,9 +8227,9 @@ Regulatory responsibilities and accreditation
 
 ##### 245 Procedure for transfer
     
-*   If a regional authority proposes to transfer any of its functions, duties, or powers under [section 244][367], the regional authority must---
+*   If a regional authority proposes to transfer any of its functions, duties, or powers under [section 244][368], the regional authority must---
         
-    *   (a) use the special consultative procedure in [section 83][824] of the Local Government Act 2002; and
+    *   (a) use the special consultative procedure in [section 83][827] of the Local Government Act 2002; and
     
     *   (b) serve notice on the Minister of its proposal to transfer the function, duty, or power; and
     
@@ -8231,7 +8245,7 @@ Regulatory responsibilities and accreditation
 
 ##### 246 Regional authorities may agree on terms of transfer
     
-*   A regional authority from whom functions, duties, or powers are to be transferred under [section 244][367] and a regional authority to whom those functions, duties, or powers are to be transferred---
+*   A regional authority from whom functions, duties, or powers are to be transferred under [section 244][368] and a regional authority to whom those functions, duties, or powers are to be transferred---
         
     *   (a) must enter into an agreement in respect of the transfer; and
     
@@ -8241,7 +8255,7 @@ Regulatory responsibilities and accreditation
 
 ##### 247 Effect of transfer
     
-*   (1) A regional authority to whom a function, duty, or power is transferred under [section 244][367]---
+*   (1) A regional authority to whom a function, duty, or power is transferred under [section 244][368]---
         
     *   (a) may perform the function or duty, or exercise the power, as if the function or duty were imposed, or the power were conferred, on that regional authority under this Act; and
     
@@ -8279,29 +8293,29 @@ Regulatory responsibilities and accreditation
     
     *   (b) any other matters the chief executive considers necessary or appropriate.
     
-    Section 249(a): amended, on 14 April 2005, by [section 16(2)(n)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 249(a): amended, on 14 April 2005, by [section 16(2)(n)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 #### Audit fees
     
-*   Heading: inserted, on 15 March 2008, by [section 42][886] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: inserted, on 15 March 2008, by [section 42][889] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 249A Fees for audits
     
-*   A building consent accreditation body may charge an accredited building consent authority the prescribed fee (if any) for an audit conducted under [section 249(a)][375] by the building consent accreditation body on the building consent authority.
+*   A building consent accreditation body may charge an accredited building consent authority the prescribed fee (if any) for an audit conducted under [section 249(a)][376] by the building consent accreditation body on the building consent authority.
     
-    Section 249A: inserted, on 15 March 2008, by [section 42][886] of the Building Amendment Act 2008 (2008 No 4).
+    Section 249A: inserted, on 15 March 2008, by [section 42][889] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Accreditation of building consent authorities or regional authorities
 
 ##### 250 Accreditation
     
-*   The building consent accreditation body may, on the application of a person made in accordance with [section 253][382], and on payment by the person of the prescribed fee (if any), accredit that person to perform the functions of a building consent authority under this Part and [Part 2][34].
+*   The building consent accreditation body may, on the application of a person made in accordance with [section 253][383], and on payment by the person of the prescribed fee (if any), accredit that person to perform the functions of a building consent authority under this Part and [Part 2][34].
     
     Compare: 1991 No 150 s 51
     
-    Section 250: amended, on 15 March 2008, by [section 43][887] of the Building Amendment Act 2008 (2008 No 4).
+    Section 250: amended, on 15 March 2008, by [section 43][890] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 250: amended, on 14 April 2005, by [section 16(2)(o)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 250: amended, on 14 April 2005, by [section 16(2)(o)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 251 Criteria for accreditation
     
@@ -8317,11 +8331,11 @@ Regulatory responsibilities and accreditation
     
     (4) An accredited building consent authority may, at any time, request the building consent accreditation body to change the scope of its accreditation.
     
-    Section 252(1): amended, on 14 April 2005, by [section 3(5)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 252(1): amended, on 14 April 2005, by [section 3(5)][688] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 253 Application for accreditation
     
-*   An application for accreditation under [section 250][379] must---
+*   An application for accreditation under [section 250][380] must---
         
     *   (a) be made in writing; and
     
@@ -8331,13 +8345,13 @@ Regulatory responsibilities and accreditation
     
     *   (d) \[Repealed\]
     
-    Section 253(c): amended, on 15 March 2008, by [section 44(1)][888] of the Building Amendment Act 2008 (2008 No 4).
+    Section 253(c): amended, on 15 March 2008, by [section 44(1)][891] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 253(d): repealed, on 15 March 2008, by [section 44(2)][888] of the Building Amendment Act 2008 (2008 No 4).
+    Section 253(d): repealed, on 15 March 2008, by [section 44(2)][891] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 254 Revocation of accreditation
     
-*   (1) An accreditation under [section 250][379] may be revoked, or the scope of accreditation may be amended, by---
+*   (1) An accreditation under [section 250][380] may be revoked, or the scope of accreditation may be amended, by---
         
     *   (a) the building consent accreditation body; or
     
@@ -8357,15 +8371,15 @@ Regulatory responsibilities and accreditation
     
     (4) The limit in subsection (3) applies only during the period of 3 months after the date on which the amendments come into force.
     
-    Section 254(2)(a): amended, on 14 April 2005, by [section 16(2)(p)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 254(2)(a): amended, on 14 April 2005, by [section 16(2)(p)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 254(2)(b): amended, on 14 April 2005, by [section 16(2)(p)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 254(2)(b): amended, on 14 April 2005, by [section 16(2)(p)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 254(2)(b): amended, on 14 April 2005, by [section 16(2)(q)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 254(2)(b): amended, on 14 April 2005, by [section 16(2)(q)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 254(3): amended, on 14 April 2005, by [section 16(2)(o)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 254(3): amended, on 14 April 2005, by [section 16(2)(o)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 254(3)(b): amended, on 14 April 2005, by [section 16(2)(q)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 254(3)(b): amended, on 14 April 2005, by [section 16(2)(q)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 255 Building consent accreditation body must notify chief executive of grant and revocation of accreditation
     
@@ -8377,7 +8391,7 @@ Regulatory responsibilities and accreditation
     
     *   (b) within 7 days after the grant or revocation to which it relates.
     
-    Section 255(1): amended, on 14 April 2005, by [section 16(2)(o)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 255(1): amended, on 14 April 2005, by [section 16(2)(o)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ### Subpart 6---Responsibilities of dam owner accreditation body
 
@@ -8413,13 +8427,13 @@ Regulatory responsibilities and accreditation
 
 #### Audit fees
     
-*   Heading: inserted, on 15 March 2008, by [section 45][889] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: inserted, on 15 March 2008, by [section 45][892] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 257A Fees for audits
     
-*   A dam owner accreditation body may charge an accredited dam owner the prescribed fee (if any) for an audit conducted under [section 257(a)][389] by the dam owner accreditation body on the accredited dam owner.
+*   A dam owner accreditation body may charge an accredited dam owner the prescribed fee (if any) for an audit conducted under [section 257(a)][390] by the dam owner accreditation body on the accredited dam owner.
     
-    Section 257A: inserted, on 15 March 2008, by [section 45][889] of the Building Amendment Act 2008 (2008 No 4).
+    Section 257A: inserted, on 15 March 2008, by [section 45][892] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Accreditation of dam owners
 
@@ -8439,15 +8453,15 @@ Regulatory responsibilities and accreditation
     
     *   (d) \[Repealed\]
     
-    Section 258(1): amended, on 15 March 2008, by [section 46(1)][890] of the Building Amendment Act 2008 (2008 No 4).
+    Section 258(1): amended, on 15 March 2008, by [section 46(1)][893] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 258(3)(c): amended, on 15 March 2008, by [section 46(2)][890] of the Building Amendment Act 2008 (2008 No 4).
+    Section 258(3)(c): amended, on 15 March 2008, by [section 46(2)][893] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 258(3)(d): repealed, on 15 March 2008, by [section 46(3)][890] of the Building Amendment Act 2008 (2008 No 4).
+    Section 258(3)(d): repealed, on 15 March 2008, by [section 46(3)][893] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 259 Revocation of accreditation
     
-*   (1) An accreditation under [section 258(1)][393] may be revoked by---
+*   (1) An accreditation under [section 258(1)][394] may be revoked by---
         
     *   (a) the dam owner accreditation body; or
     
@@ -8479,7 +8493,7 @@ Regulatory responsibilities and accreditation
     
     (3) The chief executive must, on receiving notification under subsection (1),---
         
-    *   (a) in the case of a notice that accreditation has been granted, enter the name of the dam owner on the register kept under [section 273(1)(c)][417]; or
+    *   (a) in the case of a notice that accreditation has been granted, enter the name of the dam owner on the register kept under [section 273(1)(c)][418]; or
     
     *   (b) in the case of a notice that accreditation has been revoked, remove the name of the dam owner from that register.
     
@@ -8521,21 +8535,21 @@ Regulatory responsibilities and accreditation
 
 #### Audit fees
     
-*   Heading: inserted, on 15 March 2008, by [section 47][891] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: inserted, on 15 March 2008, by [section 47][894] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 262A Fees for audits
     
-*   A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under [section 262(1)(a)][400] by the product certification accreditation body on the accredited product certification body.
+*   A product certification accreditation body may charge an accredited product certification body the prescribed fee (if any) for an audit conducted under [section 262(1)(a)][401] by the product certification accreditation body on the accredited product certification body.
     
-    Section 262A: inserted, on 15 March 2008, by [section 47][891] of the Building Amendment Act 2008 (2008 No 4).
+    Section 262A: inserted, on 15 March 2008, by [section 47][894] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Accreditation of product certification bodies
 
 ##### 263 Accreditation
     
-*   The product certification accreditation body may, on the application of a person or body made in accordance with [section 265][406], and on payment by the person or body of the prescribed fee (if any), accredit that person or body to perform the functions of a product certification body under this subpart.
+*   The product certification accreditation body may, on the application of a person or body made in accordance with [section 265][407], and on payment by the person or body of the prescribed fee (if any), accredit that person or body to perform the functions of a product certification body under this subpart.
     
-    Section 263: amended, on 15 March 2008, by [section 48][892] of the Building Amendment Act 2008 (2008 No 4).
+    Section 263: amended, on 15 March 2008, by [section 48][895] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 264 Criteria for accreditation
     
@@ -8555,7 +8569,7 @@ Regulatory responsibilities and accreditation
 
 ##### 265 Application for accreditation
     
-*   An application for accreditation under [section 263][404] must---
+*   An application for accreditation under [section 263][405] must---
         
     *   (a) be made in writing; and
     
@@ -8565,13 +8579,13 @@ Regulatory responsibilities and accreditation
     
     *   (d) \[Repealed\]
     
-    Section 265(c): amended, on 15 March 2008, by [section 49(1)][893] of the Building Amendment Act 2008 (2008 No 4).
+    Section 265(c): amended, on 15 March 2008, by [section 49(1)][896] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 265(d): repealed, on 15 March 2008, by [section 49(2)][893] of the Building Amendment Act 2008 (2008 No 4).
+    Section 265(d): repealed, on 15 March 2008, by [section 49(2)][896] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 266 Suspension or revocation of accreditation
     
-*   (1) A product certification accreditation body or the chief executive may, at any time, suspend or revoke the accreditation under [section 263][404] of a product certification body, if the product certification accreditation body or chief executive---
+*   (1) A product certification accreditation body or the chief executive may, at any time, suspend or revoke the accreditation under [section 263][405] of a product certification body, if the product certification accreditation body or chief executive---
         
     *   (a) is satisfied that the product certification body no longer meets the prescribed criteria and standards for accreditation; and
     
@@ -8593,7 +8607,7 @@ Regulatory responsibilities and accreditation
     
     (5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
     
-    Section 266: replaced, on 15 March 2008, by [section 50][894] of the Building Amendment Act 2008 (2008 No 4).
+    Section 266: replaced, on 15 March 2008, by [section 50][897] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 267 Product certification accreditation body must notify chief executive of grant, suspension, lifting of suspension, or revocation of accreditation
     
@@ -8605,11 +8619,11 @@ Regulatory responsibilities and accreditation
     
     *   (b) within 7 days after the grant, suspension, lifting of suspension, or revocation to which it relates.
     
-    Section 267 heading: amended, on 15 March 2008, by [section 51(1)][895] of the Building Amendment Act 2008 (2008 No 4).
+    Section 267 heading: amended, on 15 March 2008, by [section 51(1)][898] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 267(1): amended, on 15 March 2008, by [section 51(2)][895] of the Building Amendment Act 2008 (2008 No 4).
+    Section 267(1): amended, on 15 March 2008, by [section 51(2)][898] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 267(2)(b): amended, on 15 March 2008, by [section 51(3)][895] of the Building Amendment Act 2008 (2008 No 4).
+    Section 267(2)(b): amended, on 15 March 2008, by [section 51(3)][898] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Certification of building methods or products
 
@@ -8623,7 +8637,7 @@ Regulatory responsibilities and accreditation
 
 ##### 269 Issue of product certificate
     
-*   (1) A product certification body must issue a product certificate if it is satisfied that a building method or product that is the subject of an application under [section 268][410] meets the prescribed criteria and standards for certification.
+*   (1) A product certification body must issue a product certificate if it is satisfied that a building method or product that is the subject of an application under [section 268][411] meets the prescribed criteria and standards for certification.
     
     (2) A product certificate must state whether there are any matters that should be taken into account in the use or application of the building method or product, and if so, what those matters are.
 
@@ -8639,7 +8653,7 @@ Regulatory responsibilities and accreditation
     
     (5) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 270(5): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 270(5): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 271 Suspension or revocation of product certificate
     
@@ -8647,11 +8661,11 @@ Regulatory responsibilities and accreditation
         
     *   (a) the certificate has been obtained by fraud, misrepresentation, or concealment of facts; or
     
-    *   (b) the building method or product no longer meets the prescribed criteria and standards for certification (whether this becomes apparent as a result of an annual review of a product certificate under [section 270][412] or otherwise); or
+    *   (b) the building method or product no longer meets the prescribed criteria and standards for certification (whether this becomes apparent as a result of an annual review of a product certificate under [section 270][413] or otherwise); or
     
     *   (c) any certification, or similar authorisation issued or granted in respect of that building method or product, has been revoked or cancelled for any reason; or
     
-    *   (d) the [building code][668] no longer applies to the building method or product because of an amendment to the code.
+    *   (d) the [building code][669] no longer applies to the building method or product because of an amendment to the code.
     
     (2) A product certification body that, or chief executive who, suspends a product certificate must---
         
@@ -8669,9 +8683,9 @@ Regulatory responsibilities and accreditation
     
     (5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments come into force.
     
-    Section 271: replaced, on 15 March 2008, by [section 52][896] of the Building Amendment Act 2008 (2008 No 4).
+    Section 271: replaced, on 15 March 2008, by [section 52][899] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 271(2)(b): amended, on 7 July 2010, by [section 9][897] of the Building Amendment Act 2010 (2010 No 50).
+    Section 271(2)(b): amended, on 7 July 2010, by [section 9][900] of the Building Amendment Act 2010 (2010 No 50).
 
 ##### 272 Product certification body must notify chief executive of issue, suspension, lifting of suspension, and revocation of certificate
     
@@ -8683,11 +8697,11 @@ Regulatory responsibilities and accreditation
     
     *   (b) within 7 days after the issue, suspension, lifting of suspension, or revocation to which it relates.
     
-    Section 272 heading: amended, on 15 March 2008, by [section 53(1)][898] of the Building Amendment Act 2008 (2008 No 4).
+    Section 272 heading: amended, on 15 March 2008, by [section 53(1)][901] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 272(1): amended, on 15 March 2008, by [section 53(2)][898] of the Building Amendment Act 2008 (2008 No 4).
+    Section 272(1): amended, on 15 March 2008, by [section 53(2)][901] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 272(2)(b): amended, on 15 March 2008, by [section 53(3)][898] of the Building Amendment Act 2008 (2008 No 4).
+    Section 272(2)(b): amended, on 15 March 2008, by [section 53(3)][901] of the Building Amendment Act 2008 (2008 No 4).
 
 ### Subpart 8---Miscellaneous responsibilities
 
@@ -8699,15 +8713,15 @@ Regulatory responsibilities and accreditation
         
     *   (aaa) a register of national multiple-use approvals:
     
-    *   (a) a register of building consent authorities for the purposes of [section 191][299]:
+    *   (a) a register of building consent authorities for the purposes of [section 191][300]:
     
     *   (b) \[Repealed\]
     
-    *   (c) a register of accredited dam owners notified to the chief executive under [section 260][395]:
+    *   (c) a register of accredited dam owners notified to the chief executive under [section 260][396]:
     
-    *   (d) a register of accredited product certification bodies notified to the chief executive under [section 267][408]:
+    *   (d) a register of accredited product certification bodies notified to the chief executive under [section 267][409]:
     
-    *   (e) a register of certified building methods or products notified to the chief executive under [section 272][414].
+    *   (e) a register of certified building methods or products notified to the chief executive under [section 272][415].
     
     (2) The chief executive must---
         
@@ -8725,15 +8739,15 @@ Regulatory responsibilities and accreditation
         
     *   (a) the chief executive suspends the operation of the register, in whole or in part, in accordance with subsection (5); or
     
-    *   (b) otherwise provided in regulations made under [section 402][603].
+    *   (b) otherwise provided in regulations made under [section 402][604].
     
     (5) The chief executive may refuse access to a register or otherwise suspend the operation of the register, in whole or in part, if the chief executive considers that it is not practical to provide access to the register.
     
     Compare: 1991 No 150 s 53(1)
     
-    Section 273(1)(aaa): inserted, on 1 February 2010, by [section 27][899] of the Building Amendment Act 2009 (2009 No 25).
+    Section 273(1)(aaa): inserted, on 1 February 2010, by [section 27][902] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 273(1)(b): repealed, on 14 April 2005, by [section 20(1)][900] of the Building Amendment Act 2005 (2005 No 31).
+    Section 273(1)(b): repealed, on 14 April 2005, by [section 20(1)][903] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 274 Purpose of registers
     
@@ -8757,15 +8771,15 @@ Regulatory responsibilities and accreditation
     
     *   (b) to facilitate the compliance, audit, and other supporting and administrative functions of the chief executive under this Act.
     
-    Section 274(a)(iaa): inserted, on 1 February 2010, by [section 28][901] of the Building Amendment Act 2009 (2009 No 25).
+    Section 274(a)(iaa): inserted, on 1 February 2010, by [section 28][904] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 274(a)(ii): repealed, on 14 April 2005, by [section 20(2)][900] of the Building Amendment Act 2005 (2005 No 31).
+    Section 274(a)(ii): repealed, on 14 April 2005, by [section 20(2)][903] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 275 Content of register of building consent authorities
     
-*   The register of building consent authorities referred to in [section 273(1)(a)][417] must, in addition to the names of the building consent authorities, contain the following information:
+*   The register of building consent authorities referred to in [section 273(1)(a)][418] must, in addition to the names of the building consent authorities, contain the following information:
         
-    *   (a) details of any limits imposed by the chief executive, under [section 203(2)(c)][311], on the functions that those authorities may perform:
+    *   (a) details of any limits imposed by the chief executive, under [section 203(2)(c)][312], on the functions that those authorities may perform:
     
     *   (b) any prescribed information:
     
@@ -8807,7 +8821,7 @@ Regulatory responsibilities and accreditation
 
 ##### 277 Non-performance by territorial authority
     
-*   (1) This section applies if the Minister considers, in accordance with [section 278][424], that a territorial authority is not properly performing its functions or duties, or exercising its powers, under this Act.
+*   (1) This section applies if the Minister considers, in accordance with [section 278][425], that a territorial authority is not properly performing its functions or duties, or exercising its powers, under this Act.
     
     (2) The Minister may, in consultation with the Minister of Local Government, appoint 1 or more persons to act in place of the territorial authority by---
         
@@ -8819,7 +8833,7 @@ Regulatory responsibilities and accreditation
 
 ##### 278 Criteria for appointment or renewal of appointment
     
-*   (1) In determining whether an appointment under [section 277][423] should be made, the Minister must consider whether the territorial authority is capable of performing its functions or duties, or exercising its powers, under this Act to the extent that the Minister considers necessary to achieve the purposes of this Act.
+*   (1) In determining whether an appointment under [section 277][424] should be made, the Minister must consider whether the territorial authority is capable of performing its functions or duties, or exercising its powers, under this Act to the extent that the Minister considers necessary to achieve the purposes of this Act.
     
     (2) If the Minister makes an appointment under that section, he or she must, in determining whether the appointment should be renewed,---
         
@@ -8827,13 +8841,13 @@ Regulatory responsibilities and accreditation
     
     *   (b) revoke the appointment and direct the territorial authority to resume the performance of its functions or duties, or the exercise of its powers, under this Act if he or she considers that the territorial authority is capable of doing so.
     
-    (3) If subsection (2)(b) applies, the Minister must give the person appointed under [section 277][423] notice of the revocation of that person's appointment.
+    (3) If subsection (2)(b) applies, the Minister must give the person appointed under [section 277][424] notice of the revocation of that person's appointment.
     
     Compare: 1991 No 150 s 29(7)
 
 ##### 279 Effect of appointment
     
-*   If a person is appointed under [section 277][423],---
+*   If a person is appointed under [section 277][424],---
         
     *   (a) that person has all the functions, duties, and powers of a territorial authority as if they had been imposed or conferred on that person directly by this Act and not by the appointment; and
     
@@ -8845,7 +8859,7 @@ Regulatory responsibilities and accreditation
     
 *   (1) This section applies to all costs, charges, and expenses incurred by---
         
-    *   (a) the Minister for the purposes of [section 277][423]; or
+    *   (a) the Minister for the purposes of [section 277][424]; or
     
     *   (b) a person appointed under that section in performing any functions or duties, or exercising any powers, of a territorial authority.
     
@@ -8861,7 +8875,7 @@ Regulatory responsibilities and accreditation
     
 *   (1) The Minister---
         
-    *   (a) may make an appointment under [section 277][423] only if he or she has given the territorial authority not less than 15 working days' written notice of his or her intention to do so; and
+    *   (a) may make an appointment under [section 277][424] only if he or she has given the territorial authority not less than 15 working days' written notice of his or her intention to do so; and
     
     *   (b) must specify the period for which the appointment is made.
     
@@ -8869,19 +8883,19 @@ Regulatory responsibilities and accreditation
         
     *   (a) be on any terms and conditions that the Minister thinks fit; and
     
-    *   (b) be renewed in accordance with [section 278][424].
+    *   (b) be renewed in accordance with [section 278][425].
     
-    (3) A person appointed under [section 277][423] may resign from his or her appointment by giving not less than 20 working days' written notice of his or her intention to resign to the Minister.
+    (3) A person appointed under [section 277][424] may resign from his or her appointment by giving not less than 20 working days' written notice of his or her intention to resign to the Minister.
     
     Compare: 1991 No 150 s 29(2), (5), (6)
 
 ### Subpart 9---Fees, charges, and additional costs
     
-*   Subpart 9: inserted, on 13 March 2012, by [section 65][902] of the Building Amendment Act 2012 (2012 No 23).
+*   Subpart 9: inserted, on 13 March 2012, by [section 65][905] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 281A What fees and charges may be imposed
     
-*   (1) This section applies when a territorial authority, building consent authority, or a regional authority (in this section and in [sections 281B to 281D][430] called the _authority_) imposes a fee or charge (or both) under [section 219][333], [240][360], or [243][365] for a function or service performed by the authority under this Act.
+*   (1) This section applies when a territorial authority, building consent authority, or a regional authority (in this section and in [sections 281B to 281D][431] called the _authority_) imposes a fee or charge (or both) under [section 219][334], [240][361], or [243][366] for a function or service performed by the authority under this Act.
     
     (2) Each authority has a discretion as to how the fee or charge is charged or set and how it may be paid or collected, and may (by way of example and without limiting an authority's discretion)---
         
@@ -8895,7 +8909,7 @@ Regulatory responsibilities and accreditation
     
     (3) An authority may impose a fee or charge whether or not the function or service in question is performed on the application of another person or on the initiative of the authority itself.
     
-    Section 281A: inserted, on 13 March 2012, by [section 65][902] of the Building Amendment Act 2012 (2012 No 23).
+    Section 281A: inserted, on 13 March 2012, by [section 65][905] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 281B Authority may increase fee or charge to meet additional cost
     
@@ -8903,23 +8917,23 @@ Regulatory responsibilities and accreditation
     
     (2) The authority must, on request by the person liable to pay the increased fee or charge, provide an estimate of the increase in the fee or charge.
     
-    Section 281B: inserted, on 13 March 2012, by [section 65][902] of the Building Amendment Act 2012 (2012 No 23).
+    Section 281B: inserted, on 13 March 2012, by [section 65][905] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 281C Authority may waive or refund fee or charge
     
 *   An authority may, in its discretion, waive or refund, in whole or in part, any fee or charge imposed by it for a function or service performed by it under this Act.
     
-    Section 281C: inserted, on 13 March 2012, by [section 65][902] of the Building Amendment Act 2012 (2012 No 23).
+    Section 281C: inserted, on 13 March 2012, by [section 65][905] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 281D Validity of previous fees, charges, and additional costs
     
 *   (1) This section applies to a fee, charge, or additional cost that was imposed by, paid to, or collected by an authority before the commencement of this section.
     
-    (2) Any question relating to the validity of the fee, charge, or additional cost must be determined as if [sections 281A][429] and [281B][430] were in force at the time of the imposition, payment, or collection of the fee, charge, or additional cost.
+    (2) Any question relating to the validity of the fee, charge, or additional cost must be determined as if [sections 281A][430] and [281B][431] were in force at the time of the imposition, payment, or collection of the fee, charge, or additional cost.
     
     (3) Nothing in this section affects the validity of a fee, charge, or additional cost that is the subject of a proceeding that was commenced before the commencement of this section.
     
-    Section 281D: inserted, on 13 March 2012, by [section 65][902] of the Building Amendment Act 2012 (2012 No 23).
+    Section 281D: inserted, on 13 March 2012, by [section 65][905] of the Building Amendment Act 2012 (2012 No 23).
 
 ## Part 4  
 Regulation of building practitioners
@@ -8934,9 +8948,9 @@ Regulation of building practitioners
     
     _appeal authority_---
         
-    *   (a) in relation to an appeal against a decision of the Registrar under [section 330(1)][505], means the Board; and
+    *   (a) in relation to an appeal against a decision of the Registrar under [section 330(1)][506], means the Board; and
     
-    *   (b) in relation to an appeal against a decision of the Board under [section 330(2)][505], means the District Court
+    *   (b) in relation to an appeal against a decision of the Board under [section 330(2)][506], means the District Court
     
     _applicable minimum standards for licensing_ means the minimum standards for licensing that---
         
@@ -8944,7 +8958,7 @@ Regulation of building practitioners
     
     *   (b) are contained in the rules
     
-    _Board_ means the Building Practitioners Board established by [section 341][518]
+    _Board_ means the Building Practitioners Board established by [section 341][519]
     
     _building inspection work_ means any of the following:
         
@@ -8960,7 +8974,7 @@ Regulation of building practitioners
     
     _decision_ includes---
         
-    *   (a) any action taken under [section 318][491]; and
+    *   (a) any action taken under [section 318][492]; and
     
     *   (b) an order
     
@@ -8968,19 +8982,19 @@ Regulation of building practitioners
     
     _disciplinary matter_ means an inquiry into, or complaint about, the conduct of a licensed building practitioner or a decision on that inquiry or complaint
     
-    _LBP standards_ has the meaning set out in [section 353][532]
+    _LBP standards_ has the meaning set out in [section 353][533]
     
-    _register_ means the register of building practitioners established and maintained under [section 298][463]
+    _register_ means the register of building practitioners established and maintained under [section 298][464]
     
-    _Registrar_ means the officer appointed under [section 310][478].
+    _Registrar_ means the officer appointed under [section 310][479].
     
-    Section 282 **applicable minimum standards for licensing** paragraph (a): amended, on 15 March 2008, by [section 54(1)][903] of the Building Amendment Act 2008 (2008 No 4).
+    Section 282 **applicable minimum standards for licensing** paragraph (a): amended, on 15 March 2008, by [section 54(1)][906] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 282 **building inspection work** paragraph (e): replaced, on 15 March 2008, by [section 54(2)][903] of the Building Amendment Act 2008 (2008 No 4).
+    Section 282 **building inspection work** paragraph (e): replaced, on 15 March 2008, by [section 54(2)][906] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Purposes of licensing
     
-*   Heading: inserted, on 15 March 2008, by [section 55][904] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: inserted, on 15 March 2008, by [section 55][907] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 282A Purposes of licensing building practitioners
     
@@ -8990,7 +9004,7 @@ Regulation of building practitioners
     
     *   (b) to license building practitioners so that, in regard to restricted building work, licensed building practitioners can carry it out or supervise it.
     
-    Section 282A: inserted, on 15 March 2008, by [section 55][904] of the Building Amendment Act 2008 (2008 No 4).
+    Section 282A: inserted, on 15 March 2008, by [section 55][907] of the Building Amendment Act 2008 (2008 No 4).
 
 #### General procedure of Board and Registrar under this Part
 
@@ -9006,19 +9020,19 @@ Regulation of building practitioners
     
     *   (d) comply with the regulations.
     
-    Compare: 2002 No 17 [s 25][905]
+    Compare: 2002 No 17 [s 25][908]
 
 ##### 284 Other procedure for making decisions
     
 *   Except as otherwise provided in this Act, the Board and the Registrar may regulate their own procedure for making decisions under this Part.
     
-    Compare: 2002 No 17 [s 26][906]
+    Compare: 2002 No 17 [s 26][909]
 
 ### Subpart 2---Licensing and disciplining of building practitioners
 
 #### Licensing classes
     
-*   Heading: replaced, on 15 March 2008, by [section 56][907] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: replaced, on 15 March 2008, by [section 56][910] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 285 Licensing classes may be designated by regulations
     
@@ -9030,9 +9044,9 @@ Regulation of building practitioners
     
     (2) An order made under subsection (1) may designate a licensing class or classes for carrying out the work, or for supervising the work, or for carrying out or supervising the work.
     
-    Section 285: replaced, on 15 March 2008, by [section 56][907] of the Building Amendment Act 2008 (2008 No 4).
+    Section 285: replaced, on 15 March 2008, by [section 56][910] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 285(2): inserted, on 13 March 2012, by [section 67][908] of the Building Amendment Act 2012 (2012 No 23).
+    Section 285(2): inserted, on 13 March 2012, by [section 67][911] of the Building Amendment Act 2012 (2012 No 23).
 
 #### How to become licensed
 
@@ -9042,27 +9056,27 @@ Regulation of building practitioners
         
     *   (a) that he or she meets the applicable minimum standards for licensing; and
     
-    *   (b) that he or she is not precluded from being licensed because of any action taken by the Board under [section 318][491]; and
+    *   (b) that he or she is not precluded from being licensed because of any action taken by the Board under [section 318][492]; and
     
     *   (c) that his or her registration, licence, or other recognition under another enactment in respect of any substantially equivalent occupation has not been suspended or cancelled in respect of a disciplinary matter at any time within the last 5 years; and
     
     *   (d) that he or she has paid the prescribed fee.
     
-    Section 286 heading: amended, on 15 March 2008, by [section 57(1)][909] of the Building Amendment Act 2008 (2008 No 4).
+    Section 286 heading: amended, on 15 March 2008, by [section 57(1)][912] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 286(b): amended, on 15 March 2008, by [section 57(2)][909] of the Building Amendment Act 2008 (2008 No 4).
+    Section 286(b): amended, on 15 March 2008, by [section 57(2)][912] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 287 Applications to become licensed
     
 *   An application to become licensed under this subpart must be made to the Registrar in accordance with the rules.
     
-    Section 287 heading: amended, on 15 March 2008, by [section 58(1)][910] of the Building Amendment Act 2008 (2008 No 4).
+    Section 287 heading: amended, on 15 March 2008, by [section 58(1)][913] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 287: amended, on 15 March 2008, by [section 58(2)][910] of the Building Amendment Act 2008 (2008 No 4).
+    Section 287: amended, on 15 March 2008, by [section 58(2)][913] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 288 Registrar to license applicant or decline application
     
-*   (1) If the Registrar is satisfied that the applicant is entitled, under [section 286][446], to be licensed as a building practitioner, the Registrar must---
+*   (1) If the Registrar is satisfied that the applicant is entitled, under [section 286][447], to be licensed as a building practitioner, the Registrar must---
         
     *   (a) license the applicant; and
     
@@ -9078,11 +9092,11 @@ Regulation of building practitioners
     
     *   (b) the applicant's right of appeal against the decision.
     
-    (3) Subsection (2) does not limit [section 283][440].
+    (3) Subsection (2) does not limit [section 283][441].
     
-    Section 288(1)(a): replaced, on 15 March 2008, by [section 59(1)][911] of the Building Amendment Act 2008 (2008 No 4).
+    Section 288(1)(a): replaced, on 15 March 2008, by [section 59(1)][914] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 288(1)(b): amended, on 15 March 2008, by [section 59(2)][911] of the Building Amendment Act 2008 (2008 No 4).
+    Section 288(1)(b): amended, on 15 March 2008, by [section 59(2)][914] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Provisions relating to licences
 
@@ -9090,19 +9104,19 @@ Regulation of building practitioners
     
 *   A licensed building practitioner must, if asked by any person, produce for inspection by the person either---
         
-    *   (a) the evidence of being licensed sent to the licensed building practitioner under [section 288(1)(b)][448]; or
+    *   (a) the evidence of being licensed sent to the licensed building practitioner under [section 288(1)(b)][449]; or
     
     *   (b) a copy of that evidence.
     
-    Section 289 heading: amended, on 15 March 2008, by [section 60(1)][912] of the Building Amendment Act 2008 (2008 No 4).
+    Section 289 heading: amended, on 15 March 2008, by [section 60(1)][915] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 289(a): amended, on 15 March 2008, by [section 60(2)][912] of the Building Amendment Act 2008 (2008 No 4).
+    Section 289(a): amended, on 15 March 2008, by [section 60(2)][915] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 290 Term of being licensed
     
 *   Licensing continues in force until it is cancelled or suspended under this subpart.
     
-    Section 290: replaced, on 15 March 2008, by [section 61][913] of the Building Amendment Act 2008 (2008 No 4).
+    Section 290: replaced, on 15 March 2008, by [section 61][916] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Automatic licensing of certain professions
 
@@ -9110,17 +9124,17 @@ Regulation of building practitioners
     
 *   (1) This section applies to a person who is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect), but does not apply at any time when that registration, licence, or other recognition is suspended or cancelled.
     
-    (2) An order made under [section 285][444] may treat the person as if they were licensed in a class or classes specified in the order.
+    (2) An order made under [section 285][445] may treat the person as if they were licensed in a class or classes specified in the order.
     
     (3) A person who is treated as being licensed in a particular class or classes under subsection (2) may not apply under this Act to be licensed in another class that is substantially equivalent to the class of licensing in which he or she is treated as being licensed.
     
     (4) The licensing provisions of this subpart do not apply to a person who is treated under this section and the rules as if he or she were licensed (for example, he or she need not apply to become licensed or pay any fees under this subpart).
     
-    Section 291(2): amended, on 15 March 2008, by [section 62(1)][914] of the Building Amendment Act 2008 (2008 No 4).
+    Section 291(2): amended, on 15 March 2008, by [section 62(1)][917] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 291(3): replaced, on 15 March 2008, by [section 62(2)][914] of the Building Amendment Act 2008 (2008 No 4).
+    Section 291(3): replaced, on 15 March 2008, by [section 62(2)][917] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 291(4): replaced, on 15 March 2008, by [section 62(2)][914] of the Building Amendment Act 2008 (2008 No 4).
+    Section 291(4): replaced, on 15 March 2008, by [section 62(2)][917] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Continuation of licensing
 
@@ -9130,15 +9144,15 @@ Regulation of building practitioners
     
     (2) That assessment must be made in the manner required by the rules.
     
-    (3) A licensed building practitioner who continues to meet those standards is entitled to the continuation of his or her licensing, subject to [section 303][469].
+    (3) A licensed building practitioner who continues to meet those standards is entitled to the continuation of his or her licensing, subject to [section 303][470].
     
-    Section 292 heading: amended, on 15 March 2008, by [section 63(1)][915] of the Building Amendment Act 2008 (2008 No 4).
+    Section 292 heading: amended, on 15 March 2008, by [section 63(1)][918] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 292(3): amended, on 15 March 2008, by [section 63(2)][915] of the Building Amendment Act 2008 (2008 No 4).
+    Section 292(3): amended, on 15 March 2008, by [section 63(2)][918] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 293 Consequences of failure to meet applicable minimum standards for licensing
     
-*   (1) If, after making an assessment under [section 292][455], the Registrar determines that the licensed building practitioner no longer meets the applicable minimum standards for licensing, the Registrar must---
+*   (1) If, after making an assessment under [section 292][456], the Registrar determines that the licensed building practitioner no longer meets the applicable minimum standards for licensing, the Registrar must---
         
     *   (a) suspend the person's licensing until the person satisfies the Registrar that he or she meets those standards; and
     
@@ -9150,13 +9164,13 @@ Regulation of building practitioners
     
     *   (b) remove the person's name from the register.
     
-    Section 293(1)(a): amended, on 15 March 2008, by [section 64][916] of the Building Amendment Act 2008 (2008 No 4).
+    Section 293(1)(a): amended, on 15 March 2008, by [section 64][919] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 293(2)(a): amended, on 15 March 2008, by [section 64][916] of the Building Amendment Act 2008 (2008 No 4).
+    Section 293(2)(a): amended, on 15 March 2008, by [section 64][919] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Licensing cancellation and suspension
     
-*   Heading: replaced, on 15 March 2008, by [section 65][917] of the Building Amendment Act 2008 (2008 No 4).
+*   Heading: replaced, on 15 March 2008, by [section 65][920] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 294 Cancellation of licensing
     
@@ -9164,41 +9178,41 @@ Regulation of building practitioners
         
     *   (a) if the person, by written notice, requests the Registrar to cancel his or her licensing; or
     
-    *   (b) in accordance with [section 293(2)][456] (consequences of failure to meet applicable minimum standards for licensing); or
+    *   (b) in accordance with [section 293(2)][457] (consequences of failure to meet applicable minimum standards for licensing); or
     
-    *   (c) in accordance with [section 318][491] (disciplinary penalties); or
+    *   (c) in accordance with [section 318][492] (disciplinary penalties); or
     
-    *   (d) in accordance with [section 319][492] (non-payment of fines or costs).
+    *   (d) in accordance with [section 319][493] (non-payment of fines or costs).
     
-    Section 294 heading: amended, on 15 March 2008, by [section 66(1)][918] of the Building Amendment Act 2008 (2008 No 4).
+    Section 294 heading: amended, on 15 March 2008, by [section 66(1)][921] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 294: amended, on 15 March 2008, by [section 66(2)][918] of the Building Amendment Act 2008 (2008 No 4).
+    Section 294: amended, on 15 March 2008, by [section 66(2)][921] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 294(a): amended, on 15 March 2008, by [section 66(2)][918] of the Building Amendment Act 2008 (2008 No 4).
+    Section 294(a): amended, on 15 March 2008, by [section 66(2)][921] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 295 Mandatory licensing suspension
     
-*   (1) The Registrar must suspend a person's licensing and record the suspension in the register in accordance with [section 293(1)][456] (consequences of failure to meet applicable minimum standards for licensing).
+*   (1) The Registrar must suspend a person's licensing and record the suspension in the register in accordance with [section 293(1)][457] (consequences of failure to meet applicable minimum standards for licensing).
     
     (2) The Registrar must, in the case of a person who is the subject of disciplinary proceedings under this subpart,---
         
-    *   (a) suspend the person's licensing until an order is made under [section 318][491] or until those disciplinary proceedings are otherwise finished if, in the opinion of the Registrar, suspension of the person's licensing is necessary for the purpose of protecting the public; and
+    *   (a) suspend the person's licensing until an order is made under [section 318][492] or until those disciplinary proceedings are otherwise finished if, in the opinion of the Registrar, suspension of the person's licensing is necessary for the purpose of protecting the public; and
     
     *   (b) record that suspension in the register.
     
     (3) The Board must suspend a person's licensing and direct the Registrar to record the suspension in the register in accordance with---
         
-    *   (a) [section 318][491] (disciplinary penalties); or
+    *   (a) [section 318][492] (disciplinary penalties); or
     
-    *   (b) [section 319][492] (non-payment of fines or costs).
+    *   (b) [section 319][493] (non-payment of fines or costs).
     
-    Section 295 heading: replaced, on 15 March 2008, by [section 67(1)][919] of the Building Amendment Act 2008 (2008 No 4).
+    Section 295 heading: replaced, on 15 March 2008, by [section 67(1)][922] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 295(1): amended, on 15 March 2008, by [section 67(2)][919] of the Building Amendment Act 2008 (2008 No 4).
+    Section 295(1): amended, on 15 March 2008, by [section 67(2)][922] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 295(2)(a): amended, on 15 March 2008, by [section 67(2)][919] of the Building Amendment Act 2008 (2008 No 4).
+    Section 295(2)(a): amended, on 15 March 2008, by [section 67(2)][922] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 295(3): amended, on 15 March 2008, by [section 67(2)][919] of the Building Amendment Act 2008 (2008 No 4).
+    Section 295(3): amended, on 15 March 2008, by [section 67(2)][922] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 296 Voluntary licensing suspension
     
@@ -9210,15 +9224,15 @@ Regulation of building practitioners
     
     (4) The Registrar must then revive that person's licensing (unless there is some other ground to suspend or cancel that person's licensing under this subpart).
     
-    Section 296 heading: replaced, on 15 March 2008, by [section 68(1)][920] of the Building Amendment Act 2008 (2008 No 4).
+    Section 296 heading: replaced, on 15 March 2008, by [section 68(1)][923] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 296(1): amended, on 15 March 2008, by [section 68(2)][920] of the Building Amendment Act 2008 (2008 No 4).
+    Section 296(1): amended, on 15 March 2008, by [section 68(2)][923] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 296(2): amended, on 15 March 2008, by [section 68(2)][920] of the Building Amendment Act 2008 (2008 No 4).
+    Section 296(2): amended, on 15 March 2008, by [section 68(2)][923] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 296(3): amended, on 15 March 2008, by [section 68(2)][920] of the Building Amendment Act 2008 (2008 No 4).
+    Section 296(3): amended, on 15 March 2008, by [section 68(2)][923] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 296(4): amended, on 15 March 2008, by [section 68(2)][920] of the Building Amendment Act 2008 (2008 No 4).
+    Section 296(4): amended, on 15 March 2008, by [section 68(2)][923] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 297 Effect of licensing suspension
     
@@ -9226,11 +9240,11 @@ Regulation of building practitioners
     
     (2) At the end of the period of suspension, the person's licensing is immediately revived (unless there is some other ground to suspend or cancel that person's licensing under this subpart).
     
-    Section 297 heading: replaced, on 15 March 2008, by [section 69(1)][921] of the Building Amendment Act 2008 (2008 No 4).
+    Section 297 heading: replaced, on 15 March 2008, by [section 69(1)][924] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 297(1): amended, on 15 March 2008, by [section 69(2)][921] of the Building Amendment Act 2008 (2008 No 4).
+    Section 297(1): amended, on 15 March 2008, by [section 69(2)][924] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 297(2): amended, on 15 March 2008, by [section 69(2)][921] of the Building Amendment Act 2008 (2008 No 4).
+    Section 297(2): amended, on 15 March 2008, by [section 69(2)][924] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Register of licensed building practitioners
 
@@ -9242,11 +9256,11 @@ Regulation of building practitioners
         
     *   (a) the name of every licensed building practitioner; and
     
-    *   (b) the information about that person that is specified in [section 301][466] to the extent that the information is relevant to that person.
+    *   (b) the information about that person that is specified in [section 301][467] to the extent that the information is relevant to that person.
     
     (3) The Registrar must make any other entries in the register that may be required, permitted, or directed to be entered by or under this subpart or the regulations.
     
-    Section 298(1): amended, on 15 March 2008, by [section 70][922] of the Building Amendment Act 2008 (2008 No 4).
+    Section 298(1): amended, on 15 March 2008, by [section 70][925] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 299 Purpose of register
     
@@ -9266,7 +9280,7 @@ Regulation of building practitioners
     
     *   (b) to facilitate the administrative, disciplinary, and other functions of the Board and the Registrar under this Act.
     
-    Section 299(a)(i): amended, on 15 March 2008, by [section 71][923] of the Building Amendment Act 2008 (2008 No 4).
+    Section 299(a)(i): amended, on 15 March 2008, by [section 71][926] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 300 Form of register
     
@@ -9284,7 +9298,7 @@ Regulation of building practitioners
     
     (3) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not necessary or practical or appropriate to provide access to the register.
     
-    Section 300(3): amended, on 15 March 2008, by [section 72][924] of the Building Amendment Act 2008 (2008 No 4).
+    Section 300(3): amended, on 15 March 2008, by [section 72][927] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 301 Matters to be contained in register
     
@@ -9318,7 +9332,7 @@ Regulation of building practitioners
         
         *   (ii) the date on which the person's name was entered in the register; and
         
-        *   (iii) any action taken under [section 318][491] on a disciplinary matter in respect of the person in the last 3 years:
+        *   (iii) any action taken under [section 318][492] on a disciplinary matter in respect of the person in the last 3 years:
         
         
     
@@ -9338,11 +9352,11 @@ Regulation of building practitioners
         
         
     
-    Section 301(1)(l): amended, on 15 March 2008, by [section 73(1)][925] of the Building Amendment Act 2008 (2008 No 4).
+    Section 301(1)(l): amended, on 15 March 2008, by [section 73(1)][928] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 301(1)(l)(i): amended, on 15 March 2008, by [section 73(2)][925] of the Building Amendment Act 2008 (2008 No 4).
+    Section 301(1)(l)(i): amended, on 15 March 2008, by [section 73(2)][928] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 301(2)(a): amended, on 15 March 2008, by [section 73(3)][925] of the Building Amendment Act 2008 (2008 No 4).
+    Section 301(2)(a): amended, on 15 March 2008, by [section 73(3)][928] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Updates of register
 
@@ -9356,7 +9370,7 @@ Regulation of building practitioners
     
     *   (b) includes any change that may be prescribed (if any).
     
-    Section 302(1): amended, on 15 March 2008, by [section 74][926] of the Building Amendment Act 2008 (2008 No 4).
+    Section 302(1): amended, on 15 March 2008, by [section 74][929] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 303 Registrar must contact licensed building practitioners on annual basis
     
@@ -9390,19 +9404,19 @@ Regulation of building practitioners
     
     (6) The levy may be applied to costs and other expenses incurred in the licensing and disciplining of building practitioners under this Act, including the costs of the operation and administration of the Board.
     
-    Section 303(3): amended, on 15 March 2008, by [section 75(1)][927] of the Building Amendment Act 2008 (2008 No 4).
+    Section 303(3): amended, on 15 March 2008, by [section 75(1)][930] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 303(4)(a): amended, on 15 March 2008, by [section 75(2)][927] of the Building Amendment Act 2008 (2008 No 4).
+    Section 303(4)(a): amended, on 15 March 2008, by [section 75(2)][930] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 303(5)(a): amended, on 15 March 2008, by [section 75(3)][927] of the Building Amendment Act 2008 (2008 No 4).
+    Section 303(5)(a): amended, on 15 March 2008, by [section 75(3)][930] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 303(6): inserted, on 13 March 2012, by [section 68][928] of the Building Amendment Act 2012 (2012 No 23).
+    Section 303(6): inserted, on 13 March 2012, by [section 68][931] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 304 Alterations to register
     
 *   The Registrar may, at any time, make any amendments to the register that are necessary to---
         
-    *   (a) reflect any changes in the name of a licensed building practitioner or the information specified in [section 301][466]; or
+    *   (a) reflect any changes in the name of a licensed building practitioner or the information specified in [section 301][467]; or
     
     *   (b) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers.
     
@@ -9420,11 +9434,11 @@ Regulation of building practitioners
 
 ##### 307 Search purposes
     
-*   A search of the register may be carried out only for a purpose referred to in [section 299][464].
+*   A search of the register may be carried out only for a purpose referred to in [section 299][465].
 
 ##### 308 When search constitutes interference with privacy of individual
     
-*   A search of the register for personal information that has not been carried out in accordance with [sections 305 to 307][472] constitutes an action that is an interference with the privacy of an individual under [section 66][929] of the Privacy Act 1993\.
+*   A search of the register for personal information that has not been carried out in accordance with [sections 305 to 307][473] constitutes an action that is an interference with the privacy of an individual under [section 66][932] of the Privacy Act 1993\.
 
 ##### 309 Search fees
     
@@ -9436,7 +9450,7 @@ Regulation of building practitioners
 
 ##### 310 Appointment of Registrar of Licensed Building Practitioners
     
-*   The chief executive must appoint, under the [State Sector Act 1988][930], a Registrar of Licensed Building Practitioners.
+*   The chief executive must appoint, under the [State Sector Act 1988][933], a Registrar of Licensed Building Practitioners.
 
 ##### 311 Functions of Registrar
     
@@ -9446,19 +9460,19 @@ Regulation of building practitioners
     
     *   (b) to make decisions about whether persons meet the requirements for licensing or continued licensing, to issue, cancel, and suspend persons' licensing as part of the licensing system, and to perform the other functions relating to licensing under this subpart; and
     
-    *   (c) to help the Board to receive and investigate complaints under [sections 315][488] and [316][489]; and
+    *   (c) to help the Board to receive and investigate complaints under [sections 315][489] and [316][490]; and
     
     *   (d) to provide other administrative support for the Board sufficient to enable the Board to perform its functions efficiently and effectively; and
     
     *   (e) to perform any other function conferred on the Registrar by this Act or any other enactment.
     
-    Section 311(b): amended, on 15 March 2008, by [section 76][931] of the Building Amendment Act 2008 (2008 No 4).
+    Section 311(b): amended, on 15 March 2008, by [section 76][934] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 311(c): replaced, on 14 April 2005, by [section 21][932] of the Building Amendment Act 2005 (2005 No 31).
+    Section 311(c): replaced, on 14 April 2005, by [section 21][935] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 311(d): replaced, on 14 April 2005, by [section 21][932] of the Building Amendment Act 2005 (2005 No 31).
+    Section 311(d): replaced, on 14 April 2005, by [section 21][935] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 311(e): inserted, on 14 April 2005, by [section 21][932] of the Building Amendment Act 2005 (2005 No 31).
+    Section 311(e): inserted, on 14 April 2005, by [section 21][935] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 312 Power of Registrar to delegate
     
@@ -9492,7 +9506,7 @@ Regulation of building practitioners
     
     (3) The certificate must be dated.
     
-    Section 313(2)(c): amended, on 15 March 2008, by [section 77][933] of the Building Amendment Act 2008 (2008 No 4).
+    Section 313(2)(c): amended, on 15 March 2008, by [section 77][936] of the Building Amendment Act 2008 (2008 No 4).
 
 #### Offences relating to licensing
 
@@ -9504,27 +9518,27 @@ Regulation of building practitioners
     
     (3) A person commits an offence if the person---
         
-    *   (a) fails to produce evidence of being licensed as required by [section 289][450]; or
+    *   (a) fails to produce evidence of being licensed as required by [section 289][451]; or
     
-    *   (b) fails to give written notice of a change in circumstances in accordance with [section 302][468].
+    *   (b) fails to give written notice of a change in circumstances in accordance with [section 302][469].
     
     (4) A person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 314(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 314(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 314(3)(a): amended, on 15 March 2008, by [section 78][934] of the Building Amendment Act 2008 (2008 No 4).
+    Section 314(3)(a): amended, on 15 March 2008, by [section 78][937] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 314(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 314(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Code of ethics and competence
     
-*   Heading: inserted, on 13 March 2012, by [section 69][935] of the Building Amendment Act 2012 (2012 No 23).
+*   Heading: inserted, on 13 March 2012, by [section 69][938] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 314A Code of ethics for licensed building practitioners
     
 *   The Governor-General may, by Order in Council made on the recommendation of the Minister, prescribe a code or codes of minimum standards of ethical conduct for licensed building practitioners or classes of licensed building practitioners.
     
-    Section 314A: inserted, on 13 March 2012, by [section 69][935] of the Building Amendment Act 2012 (2012 No 23).
+    Section 314A: inserted, on 13 March 2012, by [section 69][938] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 314B Licensed building practitioner must work within competence
     
@@ -9534,7 +9548,7 @@ Regulation of building practitioners
     
     *   (b) carry out or supervise building work only within his or her competence.
     
-    Section 314B: inserted, on 13 March 2012, by [section 69][935] of the Building Amendment Act 2012 (2012 No 23).
+    Section 314B: inserted, on 13 March 2012, by [section 69][938] of the Building Amendment Act 2012 (2012 No 23).
 
 #### Discipline
 
@@ -9544,7 +9558,7 @@ Regulation of building practitioners
     
     (2) A complaint or inquiry, and any decision on the complaint or inquiry, may relate to a person who is no longer a licensed building practitioner but who was a licensed building practitioner at the time of the relevant conduct.
     
-    Compare: 2002 No 17 [s 20][936]
+    Compare: 2002 No 17 [s 20][939]
 
 ##### 316 Board must investigate complaints
     
@@ -9552,17 +9566,17 @@ Regulation of building practitioners
     
     (2) However, subsection (3) applies if the Board receives a complaint about a licensed building practitioner---
         
-    *   (a) who is a licensed building practitioner only because he or she is treated under [section 291][453] and the rules as if he or she is licensed because he or she is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect); and
+    *   (a) who is a licensed building practitioner only because he or she is treated under [section 291][454] and the rules as if he or she is licensed because he or she is registered, licensed, or otherwise recognised under any other enactment (for example, a registered architect); and
     
     *   (b) who is, in the opinion of the Board, subject to a substantially similar or more stringent disciplinary regime by or under that other enactment.
     
     (3) The Board may not investigate or proceed with the complaint, but must refer it to the body that is responsible for dealing with complaints under that other enactment.
     
-    Section 316(2)(a): amended, on 15 March 2008, by [section 79][937] of the Building Amendment Act 2008 (2008 No 4).
+    Section 316(2)(a): amended, on 15 March 2008, by [section 79][940] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 317 Grounds for discipline of licensed building practitioners
     
-*   (1) The Board may (in relation to a matter raised by a complaint or by its own inquiries) take any of the actions referred to in [section 318][491] if it is satisfied that---
+*   (1) The Board may (in relation to a matter raised by a complaint or by its own inquiries) take any of the actions referred to in [section 318][492] if it is satisfied that---
         
     *   (a) both of the following matters apply:
             
@@ -9600,47 +9614,47 @@ Regulation of building practitioners
     
     *   (f) a licensed building practitioner has failed, without good reason, to provide to the owner the record of work referred to in clause 1(b) of Schedule 1E or clause 1(b) of Schedule 1F; or
     
-    *   (g) a licensed building practitioner has breached the code of ethics prescribed under [section 314A][485]; or
+    *   (g) a licensed building practitioner has breached the code of ethics prescribed under [section 314A][486]; or
     
-    *   (h) a licensed building practitioner has breached [section 314B][486]; or
+    *   (h) a licensed building practitioner has breached [section 314B][487]; or
     
     *   (i) a licensed building practitioner has conducted himself or herself in a manner that brings, or is likely to bring, the regime under this Act for licensed building practitioners into disrepute.
     
     (2) The Board may take the action whether or not the person is still a licensed building practitioner.
     
-    Compare: 2002 No 17 [s 21][938]
+    Compare: 2002 No 17 [s 21][941]
     
-    Section 317(1)(c): replaced, on 15 March 2008, by [section 80(1)][939] of the Building Amendment Act 2008 (2008 No 4).
+    Section 317(1)(c): replaced, on 15 March 2008, by [section 80(1)][942] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 317(1)(c): amended, on 13 March 2012, by [section 70(1)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(c): amended, on 13 March 2012, by [section 70(1)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(da): inserted, on 15 March 2008, by [section 80(2)][939] of the Building Amendment Act 2008 (2008 No 4).
+    Section 317(1)(da): inserted, on 15 March 2008, by [section 80(2)][942] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 317(1)(da): amended, on 13 March 2012, by [section 70(2)(a)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(da): amended, on 13 March 2012, by [section 70(2)(a)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(da): amended, on 13 March 2012, by [section 70(2)(b)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(da): amended, on 13 March 2012, by [section 70(2)(b)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(da)(i): amended, on 13 March 2012, by [section 70(3)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(da)(i): amended, on 13 March 2012, by [section 70(3)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(da)(ii): amended, on 13 March 2012, by [section 70(4)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(da)(ii): amended, on 13 March 2012, by [section 70(4)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(db): inserted, on 15 March 2008, by [section 80(2)][939] of the Building Amendment Act 2008 (2008 No 4).
+    Section 317(1)(db): inserted, on 15 March 2008, by [section 80(2)][942] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 317(1)(e): amended, on 15 March 2008, by [section 80(3)][939] of the Building Amendment Act 2008 (2008 No 4).
+    Section 317(1)(e): amended, on 15 March 2008, by [section 80(3)][942] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 317(1)(e)(iii): amended, on 13 March 2012, by [section 70(5)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(e)(iii): amended, on 13 March 2012, by [section 70(5)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(f): inserted, on 13 March 2012, by [section 70(6)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(f): inserted, on 13 March 2012, by [section 70(6)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(g): inserted, on 13 March 2012, by [section 70(6)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(g): inserted, on 13 March 2012, by [section 70(6)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(h): inserted, on 13 March 2012, by [section 70(6)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(h): inserted, on 13 March 2012, by [section 70(6)][943] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 317(1)(i): inserted, on 13 March 2012, by [section 70(6)][940] of the Building Amendment Act 2012 (2012 No 23).
+    Section 317(1)(i): inserted, on 13 March 2012, by [section 70(6)][943] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 318 Disciplinary penalties
     
-*   (1) In any case to which [section 317][490] applies, the Board may---
+*   (1) In any case to which [section 317][491] applies, the Board may---
         
     *   (a) do both of the following things:
             
@@ -9664,29 +9678,29 @@ Regulation of building practitioners
     
     (3) No fine may be imposed under subsection (1)(f) in relation to an act or omission that constitutes an offence for which the person has been convicted by a court.
     
-    (4) In any case to which [section 317][490] applies, the Board may order that the person must pay the costs and expenses of, and incidental to, the inquiry by the Board.
+    (4) In any case to which [section 317][491] applies, the Board may order that the person must pay the costs and expenses of, and incidental to, the inquiry by the Board.
     
     (5) In addition to requiring the Registrar to notify in the register an action taken by the Board under this section, the Board may publicly notify the action in any other way it thinks fit.
     
-    Compare: 2002 No 17 [s 23][941]
+    Compare: 2002 No 17 [s 23][944]
     
-    Section 318(1)(a)(i): amended, on 15 March 2008, by [section 81(1)][942] of the Building Amendment Act 2008 (2008 No 4).
+    Section 318(1)(a)(i): amended, on 15 March 2008, by [section 81(1)][945] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 318(1)(b): amended, on 15 March 2008, by [section 81(2)][942] of the Building Amendment Act 2008 (2008 No 4).
+    Section 318(1)(b): amended, on 15 March 2008, by [section 81(2)][945] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 318(1)(c): amended, on 15 March 2008, by [section 81(3)][942] of the Building Amendment Act 2008 (2008 No 4).
+    Section 318(1)(c): amended, on 15 March 2008, by [section 81(3)][945] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 319 Non-payment of fines or costs
     
-*   If money payable by a person under [section 318(1)(f) or (4)][491] remains unpaid for 60 days or more after the date of the order, the Board may---
+*   If money payable by a person under [section 318(1)(f) or (4)][492] remains unpaid for 60 days or more after the date of the order, the Board may---
         
     *   (a) cancel the person's licensing and direct the Registrar to remove the person's name from the register; or
     
     *   (b) suspend the person's licensing until the person pays the money and, if he or she does not do so within 12 months, cancel his or her licensing and direct the Registrar to remove his or her name from the register.
     
-    Section 319(a): amended, on 15 March 2008, by [section 82][943] of the Building Amendment Act 2008 (2008 No 4).
+    Section 319(a): amended, on 15 March 2008, by [section 82][946] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 319(b): amended, on 15 March 2008, by [section 82][943] of the Building Amendment Act 2008 (2008 No 4).
+    Section 319(b): amended, on 15 March 2008, by [section 82][946] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 320 Payment and application of charges, fines, and other money
     
@@ -9718,9 +9732,9 @@ Regulation of building practitioners
     
     *   (d) appoint any persons as special advisers to assist the Board (for example, to advise on technical evidence).
     
-    (2) A hearing before the Board on a disciplinary matter is a judicial proceeding for the purposes of [sections 108][944] and [109][945] of the Crimes Act 1961\.
+    (2) A hearing before the Board on a disciplinary matter is a judicial proceeding for the purposes of [sections 108][947] and [109][948] of the Crimes Act 1961\.
     
-    Compare: 2002 No 17 [s 27][946]
+    Compare: 2002 No 17 [s 27][949]
 
 ##### 323 Issuing of summons by Board
     
@@ -9744,7 +9758,7 @@ Regulation of building practitioners
     
     (3) The Board may require that any documents, things, or information produced under this section be verified by oath, statutory declaration, or otherwise.
     
-    Compare: 2002 No 17 [s 29][947]
+    Compare: 2002 No 17 [s 29][950]
 
 ##### 324 Service of summons
     
@@ -9762,21 +9776,21 @@ Regulation of building practitioners
     
     (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
     
-    Compare: 2002 No 17 [s 30][948]
+    Compare: 2002 No 17 [s 30][951]
 
 ##### 325 Witnesses' fees, allowances, and expenses
     
-*   (1) A witness appearing before the Board under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Criminal Procedure Act 2011][949].
+*   (1) A witness appearing before the Board under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Criminal Procedure Act 2011][952].
     
     (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
     
-    Compare: 2002 No 17 [s 31][950]
+    Compare: 2002 No 17 [s 31][953]
     
-    Section 325(1): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 325(1): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 326 Failure to comply with summons
     
-*   (1) A person summoned under [section 323][497] commits an offence if he or she, without sufficient cause,---
+*   (1) A person summoned under [section 323][498] commits an offence if he or she, without sufficient cause,---
         
     *   (a) fails to attend in accordance with the summons; or
     
@@ -9790,11 +9804,11 @@ Regulation of building practitioners
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $2,000\.
     
-    (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under [section 325][499] have not been paid or tendered to him or her.
+    (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under [section 325][500] have not been paid or tendered to him or her.
     
-    Compare: 2002 No 17 [s 32][951]
+    Compare: 2002 No 17 [s 32][954]
     
-    Section 326(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 326(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 327 Witness and counsel privileges
     
@@ -9806,13 +9820,13 @@ Regulation of building practitioners
     
     (2) Every counsel appearing before the Board in relation to a disciplinary matter has the same privileges and immunities as counsel in a court.
     
-    Compare: 2002 No 17 [s 33][952]
+    Compare: 2002 No 17 [s 33][955]
 
 ##### 328 Enforcement of actions
     
 *   If the Board, acting in accordance with this Act and the rules in relation to a disciplinary matter, takes an action or otherwise exercises any power in respect of a person who is or was a licensed building practitioner, that action or other exercise of any power has effect whether or not that person remains a licensed building practitioner.
     
-    Compare: 2002 No 17 [s 34][953]
+    Compare: 2002 No 17 [s 34][956]
 
 ##### 329 Certificate of Board to be conclusive evidence
     
@@ -9832,11 +9846,11 @@ Regulation of building practitioners
         
     *   (a) made by it on an appeal brought under subsection (1); or
     
-    *   (b) to take any action referred to in [section 318][491].
+    *   (b) to take any action referred to in [section 318][492].
     
-    Section 330(1)(b): amended, on 15 March 2008, by [section 83(1)][954] of the Building Amendment Act 2008 (2008 No 4).
+    Section 330(1)(b): amended, on 15 March 2008, by [section 83(1)][957] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 330(2): replaced, on 15 March 2008, by [section 83(2)][954] of the Building Amendment Act 2008 (2008 No 4).
+    Section 330(2): replaced, on 15 March 2008, by [section 83(2)][957] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 331 Time in which appeal must be brought
     
@@ -9860,13 +9874,13 @@ Regulation of building practitioners
 
 ##### 333 Notice of right of appeal
     
-*   When notifying a person under this Part of any decision or action against which [section 330][505] gives him or her a right of appeal, the decision-maker must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
+*   When notifying a person under this Part of any decision or action against which [section 330][506] gives him or her a right of appeal, the decision-maker must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
 
 ##### 334 Actions to have effect pending determination of appeal
     
 *   A decision or action against which an appeal is lodged under this subpart continues in force unless the appeal authority to which the appeal is brought orders otherwise.
     
-    Compare: 2002 No 17 [s 36][955]
+    Compare: 2002 No 17 [s 36][958]
 
 ##### 335 Procedure on appeal
     
@@ -9886,11 +9900,11 @@ Regulation of building practitioners
     
     *   (b) any decision or action not appealed against at all.
     
-    Compare: 2002 No 17 [s 37][956]
+    Compare: 2002 No 17 [s 37][959]
 
 ##### 336 Appeal authority's decision final
     
-*   Except as provided in [section 340][515], the decision of the appeal authority on an appeal under this subpart is final.
+*   Except as provided in [section 340][516], the decision of the appeal authority on an appeal under this subpart is final.
 
 ##### 337 Appeal authority may refer matter back for reconsideration
     
@@ -9938,11 +9952,11 @@ Regulation of building practitioners
     
     (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
     
-    (3) [Subpart 8][957] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    (3) [Subpart 8][960] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
     (4) Subsection (3) overrides subsection (2).
     
-    Section 340(3): replaced, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 340(3): replaced, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Building Practitioners Board
 
@@ -9964,15 +9978,15 @@ Regulation of building practitioners
         
     *   (a) to approve rules relating to licensed building practitioners that are prepared in accordance with this subpart; and
     
-    *   (b) to receive, investigate, and hear complaints about, and to inquire into the conduct of, and discipline, licensed building practitioners in accordance with [subpart 2][442]; and
+    *   (b) to receive, investigate, and hear complaints about, and to inquire into the conduct of, and discipline, licensed building practitioners in accordance with [subpart 2][443]; and
     
-    *   (c) to hear appeals against certain decisions of the Registrar in accordance with [subpart 2][442]; and
+    *   (c) to hear appeals against certain decisions of the Registrar in accordance with [subpart 2][443]; and
     
     *   (d) to review and report to the Minister on the performance of the functions and duties, and the exercise of the powers, of the Board under this Act in accordance with this subpart.
     
-    (2) The Board may, in accordance with [clause 34][958] of Schedule 3, delegate any or all of its functions under subsection (1)(b) or (c) to a subcommittee of the Board appointed under that clause.
+    (2) The Board may, in accordance with [clause 34][961] of Schedule 3, delegate any or all of its functions under subsection (1)(b) or (c) to a subcommittee of the Board appointed under that clause.
     
-    Section 343(2): inserted, on 13 March 2012, by [section 71][959] of the Building Amendment Act 2012 (2012 No 23).
+    Section 343(2): inserted, on 13 March 2012, by [section 71][962] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 344 Composition of Board
     
@@ -9994,7 +10008,7 @@ Regulation of building practitioners
 
 ##### 346 Further provisions relating to Board and its members
     
-*   [Schedule 3][665] applies to the Board and its members.
+*   [Schedule 3][666] applies to the Board and its members.
 
 #### Reporting by Board
 
@@ -10012,7 +10026,7 @@ Regulation of building practitioners
     
     (2) An annual report must be in writing, dated, and signed on behalf of the Board by 2 members.
     
-    Section 348(1)(b): amended, on 15 March 2008, by [section 84][960] of the Building Amendment Act 2008 (2008 No 4).
+    Section 348(1)(b): amended, on 15 March 2008, by [section 84][963] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 349 Obligation for Board to provide annual report to Minister
     
@@ -10020,7 +10034,7 @@ Regulation of building practitioners
 
 ##### 350 Board to publish reports
     
-*   As soon as practicable after giving the annual report to the Minister under [section 349][527], the Board must---
+*   As soon as practicable after giving the annual report to the Minister under [section 349][528], the Board must---
         
     *   (a) publicly notify that the report has been given to the Minister and where copies of the report may be inspected and purchased; and
     
@@ -10030,7 +10044,7 @@ Regulation of building practitioners
 
 ##### 351 Annual reports to be presented to House of Representatives
     
-*   The Minister must present a copy of the annual report given to him or her under [section 349][527] to the House of Representatives no later than 10 parliamentary working days after the date on which the Minister receives that report.
+*   The Minister must present a copy of the annual report given to him or her under [section 349][528] to the House of Representatives no later than 10 parliamentary working days after the date on which the Minister receives that report.
 
 ##### 352 Power of Minister to require information relating to affairs of Board
     
@@ -10040,9 +10054,9 @@ Regulation of building practitioners
         
     *   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); and
     
-    *   (b) there would, under the [Official Information Act 1982][961], be good reason for withholding the information if---
+    *   (b) there would, under the [Official Information Act 1982][964], be good reason for withholding the information if---
             
-        *   (i) the request had been made under [section 12][962] of that Act and [section 9(2)(a)][963] of that Act applied; and
+        *   (i) the request had been made under [section 12][965] of that Act and [section 9(2)(a)][966] of that Act applied; and
         
         *   (ii) the need to protect the privacy of any person were not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; and
         
@@ -10072,19 +10086,19 @@ Regulation of building practitioners
     
     (3) The rules must be consistent with this Act.
     
-    Compare: 2002 No 17 [s 40][964]
+    Compare: 2002 No 17 [s 40][967]
     
-    Section 353(1)(a): amended, on 15 March 2008, by [section 85(1)][965] of the Building Amendment Act 2008 (2008 No 4).
+    Section 353(1)(a): amended, on 15 March 2008, by [section 85(1)][968] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 353(1)(b): amended, on 15 March 2008, by [section 85(1)][965] of the Building Amendment Act 2008 (2008 No 4).
+    Section 353(1)(b): amended, on 15 March 2008, by [section 85(1)][968] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 353(2)(a): amended, on 15 March 2008, by [section 85(2)][965] of the Building Amendment Act 2008 (2008 No 4).
+    Section 353(2)(a): amended, on 15 March 2008, by [section 85(2)][968] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 353(2)(c): amended, on 15 March 2008, by [section 85(2)][965] of the Building Amendment Act 2008 (2008 No 4).
+    Section 353(2)(c): amended, on 15 March 2008, by [section 85(2)][968] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 354 Chief executive to prepare proposed rules
     
-*   The chief executive must prepare proposed rules under [section 353][532].
+*   The chief executive must prepare proposed rules under [section 353][533].
 
 ##### 355 Particular requirements for preparation of rules containing LBP standards
     
@@ -10096,7 +10110,7 @@ Regulation of building practitioners
     
     *   (c) take into account international best practice and New Zealand's international obligations.
     
-    Compare: 2002 No 17 [s 41][966]
+    Compare: 2002 No 17 [s 41][969]
 
 ##### 356 Rules to be approved by Board
     
@@ -10148,7 +10162,7 @@ Regulation of building practitioners
 
 ##### 359 Requirements of sections 355 to 358 relate to amendments and revocations by Board
     
-*   The requirements of [sections 355 to 358][534] that apply to making a rule apply also to an amendment or revocation of that rule.
+*   The requirements of [sections 355 to 358][535] that apply to making a rule apply also to an amendment or revocation of that rule.
 
 ##### 360 Rules to be approved by Minister
     
@@ -10168,9 +10182,9 @@ Regulation of building practitioners
 
 ##### 362 Status of rules
     
-*   The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][967] and must be presented to the House of Representatives under [section 41][968] of that Act.
+*   The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][970] and must be presented to the House of Representatives under [section 41][971] of that Act.
     
-    Section 362: replaced, on 5 August 2013, by [section 77(3)][969] of the Legislation Act 2012 (2012 No 119).
+    Section 362: replaced, on 5 August 2013, by [section 77(3)][972] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 5  
 Miscellaneous provisions
@@ -10193,11 +10207,11 @@ Miscellaneous provisions
     
     *   (b) whether or not members of the public will, regularly or from time to time, be excluded from them.
     
-    Section 362A: inserted, on 14 April 2005, by [section 22(1)][970] of the Building Amendment Act 2005 (2005 No 31).
+    Section 362A: inserted, on 14 April 2005, by [section 22(1)][973] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 363 Protecting safety of members of public using premises open to public or intended for public use
     
-*   (1) A person who owns, occupies, or controls premises to which [section 362A][545] applies must not use, or permit the use of, any part of the premises that is affected by building work---
+*   (1) A person who owns, occupies, or controls premises to which [section 362A][546] applies must not use, or permit the use of, any part of the premises that is affected by building work---
         
     *   (a) if---
             
@@ -10211,11 +10225,11 @@ Miscellaneous provisions
             
         *   (i) no code compliance certificate has been issued for the work; and
         
-        *   (ii) no certificate for public use has been issued under [section 363A][547] for the part; or
+        *   (ii) no certificate for public use has been issued under [section 363A][548] for the part; or
         
         
     
-    *   (c) if a building consent has been granted for the work, and a certificate for public use has been issued under [section 363A][547] for the part, but---
+    *   (c) if a building consent has been granted for the work, and a certificate for public use has been issued under [section 363A][548] for the part, but---
             
         *   (i) no code compliance certificate has been issued for the work; and
         
@@ -10239,13 +10253,13 @@ Miscellaneous provisions
     
     (4) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part of a day during which the offence has continued.
     
-    Section 363: replaced, on 14 April 2005, by [section 22(1)][970] of the Building Amendment Act 2005 (2005 No 31).
+    Section 363: replaced, on 14 April 2005, by [section 22(1)][973] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 363(4): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 363(4): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 363A Public use of premises may be allowed before issue of code compliance certificate in some circumstances
     
-*   (1) A person who owns, occupies, or controls premises to which [section 362A][545] applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if---
+*   (1) A person who owns, occupies, or controls premises to which [section 362A][546] applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if---
         
     *   (a) a building consent has been granted for building work affecting the premises or part; and
     
@@ -10269,7 +10283,7 @@ Miscellaneous provisions
     
     (6) Nothing in this section relieves the owner of a building from the obligation imposed by [section 92(1)][151] to apply to a building consent authority for a code compliance certificate after all building work to be carried out under a building consent granted to the owner is completed.
     
-    Section 363A: inserted, on 14 April 2005, by [section 22(1)][970] of the Building Amendment Act 2005 (2005 No 31).
+    Section 363A: inserted, on 14 April 2005, by [section 22(1)][973] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 363B Application of section 363 to building work where consent granted, or work begun, before 31 March 2005
     
@@ -10279,11 +10293,11 @@ Miscellaneous provisions
 
 ##### 363C Section 363 does not apply to building work commenced before 31 March 2005
     
-*   (1) [Section 363(1)][546] does not apply to building work commenced before 31 March 2005\.
+*   (1) [Section 363(1)][547] does not apply to building work commenced before 31 March 2005\.
     
     (2) Subsection (1) applies whether or not the work was completed before, on, or after 31 March 2005\.
     
-    Section 363C: replaced, on 13 March 2012, by [section 75][971] of the Building Amendment Act 2012 (2012 No 23).
+    Section 363C: replaced, on 13 March 2012, by [section 75][974] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 364 Offence for residential property developer to transfer household unit without code compliance certificate
     
@@ -10299,9 +10313,9 @@ Miscellaneous provisions
     
     (4) Subsection (1) does not apply if the contract for the sale and purchase of the household unit was entered into before 30 November 2004\.
     
-    Section 364(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 364(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 364(4): inserted, on 14 April 2005, by [section 23][972] of the Building Amendment Act 2005 (2005 No 31).
+    Section 364(4): inserted, on 14 April 2005, by [section 23][975] of the Building Amendment Act 2005 (2005 No 31).
 
 #### Offences relating to administration of Act
 
@@ -10313,7 +10327,7 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 80(g)
     
-    Section 365(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 365(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 366 Offence to impersonate building consent authority or regional authority, etc
     
@@ -10327,7 +10341,7 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 80(h)
     
-    Section 366(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 366(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 367 Offence to obstruct execution of powers under this Act
     
@@ -10337,7 +10351,7 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 80(j)
     
-    Section 367(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 367(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous offences
 
@@ -10353,7 +10367,7 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 80(k)
     
-    Section 368(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 368(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 369 Offence to make false or misleading statement
     
@@ -10365,69 +10379,69 @@ Miscellaneous provisions
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 369(2): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 369(2): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Proceedings for infringement offences
 
 ##### 370 Interpretation
     
-*   In this section and [sections 371 to 374][560],---
+*   In this section and [sections 371 to 374][561],---
     
-    _enforcement officer_ means a person who, under [section 371A][561], may issue an infringement notice
+    _enforcement officer_ means a person who, under [section 371A][562], may issue an infringement notice
     
-    _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under [section 402][603] as the infringement fee for the offence
+    _infringement fee_, in relation to an infringement offence, means the amount prescribed by regulations made under [section 402][604] as the infringement fee for the offence
     
     _infringement offence_ means---
         
-    *   (a) an offence that is declared, by regulations made under [section 402][603], to be an infringement offence for the purposes of this Act; or
+    *   (a) an offence that is declared, by regulations made under [section 402][604], to be an infringement offence for the purposes of this Act; or
     
     *   (b) an offence that is stated by a provision of this Act to be an infringement offence.
     
-    Section 370 **enforcement officer**: inserted, on 28 November 2013, by [section 61(1)][973] of the Building Amendment Act 2013 (2013 No 100).
+    Section 370 **enforcement officer**: inserted, on 28 November 2013, by [section 61(1)][976] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 370 **infringement offence**: replaced, on 28 November 2013, by [section 61(2)][973] of the Building Amendment Act 2013 (2013 No 100).
+    Section 370 **infringement offence**: replaced, on 28 November 2013, by [section 61(2)][976] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 371 Proceedings for infringement offences
     
 *   (1) A person who is alleged to have committed an infringement offence may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][974] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][977] of the Criminal Procedure Act 2011; or
     
-    *   (b) be served with an infringement notice under [section 372][565].
+    *   (b) be served with an infringement notice under [section 372][566].
     
-    (2) If an infringement notice has been issued under [section 372][565], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][975] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+    (2) If an infringement notice has been issued under [section 372][566], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][978] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
     
-    Section 371(1)(a): replaced, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 371(1)(a): replaced, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 371A Who may issue infringement notices
     
 *   (1) The following persons may issue infringement notices:
         
-    *   (a) any person who has been authorised by the chief executive under [section 371B(1)][562]:
+    *   (a) any person who has been authorised by the chief executive under [section 371B(1)][563]:
     
-    *   (b) any officer of a territorial authority who has been authorised by the territorial authority under [section 371B(2)][562].
+    *   (b) any officer of a territorial authority who has been authorised by the territorial authority under [section 371B(2)][563].
     
-    (2) In this section and in [sections 371B][562] and [371D][564], _person_ means a natural person.
+    (2) In this section and in [sections 371B][563] and [371D][565], _person_ means a natural person.
     
-    Section 371A: inserted, on 28 November 2013, by [section 62][976] of the Building Amendment Act 2013 (2013 No 100).
+    Section 371A: inserted, on 28 November 2013, by [section 62][979] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 371B Authorisation to issue infringement notice
     
-*   (1) The chief executive may authorise any person to issue infringement notices under [section 372][565].
+*   (1) The chief executive may authorise any person to issue infringement notices under [section 372][566].
     
-    (2) A territorial authority may authorise any of its officers to issue infringement notices under [section 372][565].
+    (2) A territorial authority may authorise any of its officers to issue infringement notices under [section 372][566].
     
     (3) The chief executive or territorial authority, as the case may be, must issue the person authorised (the **enforcement officer**) with a warrant that clearly states the functions and powers that the enforcement officer has been authorised to perform or exercise under this Act.
     
-    Section 371B: inserted, on 28 November 2013, by [section 62][976] of the Building Amendment Act 2013 (2013 No 100).
+    Section 371B: inserted, on 28 November 2013, by [section 62][979] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 371C Conditions of authorisation
     
-*   (1) An enforcement officer authorised under [section 371B][562] who exercises or purports to exercise the power to issue an infringement notice under [section 372][565] must---
+*   (1) An enforcement officer authorised under [section 371B][563] who exercises or purports to exercise the power to issue an infringement notice under [section 372][566] must---
         
     *   (a) carry on him or her---
             
-        *   (i) the warrant issued under [section 371B(3)][562]; and
+        *   (i) the warrant issued under [section 371B(3)][563]; and
         
         *   (ii) evidence of his or her identity; and
         
@@ -10435,17 +10449,17 @@ Miscellaneous provisions
     
     *   (b) if required to do so, produce the warrant and evidence referred to in paragraph (a).
     
-    (2) An enforcement officer who holds a warrant issued under [section 371B(3)][562] must, on the termination of his or her appointment as an enforcement officer, surrender the warrant to the chief executive or the territorial authority, as the case may be.
+    (2) An enforcement officer who holds a warrant issued under [section 371B(3)][563] must, on the termination of his or her appointment as an enforcement officer, surrender the warrant to the chief executive or the territorial authority, as the case may be.
     
-    Section 371C: inserted, on 28 November 2013, by [section 62][976] of the Building Amendment Act 2013 (2013 No 100).
+    Section 371C: inserted, on 28 November 2013, by [section 62][979] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 371D Offence to impersonate enforcement officer
     
-*   (1) A person commits an offence if the person impersonates or falsely pretends to be an enforcement officer named in a warrant issued under [section 371B(3)][562].
+*   (1) A person commits an offence if the person impersonates or falsely pretends to be an enforcement officer named in a warrant issued under [section 371B(3)][563].
     
     (2) A person who commits an offence under this section is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 371D: inserted, on 28 November 2013, by [section 62][976] of the Building Amendment Act 2013 (2013 No 100).
+    Section 371D: inserted, on 28 November 2013, by [section 62][979] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 372 Issue of infringement notices
     
@@ -10463,7 +10477,7 @@ Miscellaneous provisions
     
     (3) An infringement notice sent to a person under subsection (2)(b) must be treated as having been served on that person when it was posted.
     
-    Section 372(3): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 372(3): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 373 Form of infringement notices
     
@@ -10477,7 +10491,7 @@ Miscellaneous provisions
     
     *   (d) the address of the place at which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][975] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][978] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the person's right to request a hearing; and
     
@@ -10495,7 +10509,7 @@ Miscellaneous provisions
     
     *   (b) in the case of an infringement notice issued by the chief executive or by a person authorised by the chief executive, to the chief executive.
     
-    Section 374: replaced, on 28 November 2013, by [section 63][977] of the Building Amendment Act 2013 (2013 No 100).
+    Section 374: replaced, on 28 November 2013, by [section 63][980] of the Building Amendment Act 2013 (2013 No 100).
 
 #### Proceedings for offences generally
 
@@ -10511,7 +10525,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 376: repealed, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 376: repealed, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 377 Filing charging document
     
@@ -10523,15 +10537,15 @@ Miscellaneous provisions
     
     *   (c) a regional authority; or
     
-    *   (d) any person referred to in [section 176(g)][283].
+    *   (d) any person referred to in [section 176(g)][284].
     
-    Section 377 heading: replaced, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 377 heading: replaced, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 377: amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 377: amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 378 Time limit for filing charging document
     
-*   Despite anything to the contrary in [section 25][978] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date when the matter giving rise to the charge first became known, or should have become known, to any of the following persons:
+*   Despite anything to the contrary in [section 25][981] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date when the matter giving rise to the charge first became known, or should have become known, to any of the following persons:
         
     *   (a) the chief executive; or
     
@@ -10539,9 +10553,9 @@ Miscellaneous provisions
     
     *   (c) a regional authority; or
     
-    *   (d) any person referred to in [section 176(g)][283].
+    *   (d) any person referred to in [section 176(g)][284].
     
-    Section 378: replaced, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 378: replaced, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 379 Offence under more than 1 enactment
     
@@ -10557,11 +10571,11 @@ Miscellaneous provisions
     
 *   (1) On the application of any person referred to in subsection (2), a District Court may grant an injunction or make some other appropriate order if it appears to the District Court that---
         
-    *   (a) a person is committing or is about to commit a breach of [section 40][81] or [section 168][270]; or
+    *   (a) a person is committing or is about to commit a breach of [section 40][81] or [section 168][271]; or
     
-    *   (b) a building is dangerous, earthquake prone, or insanitary in terms of [subpart 6][192] of Part 2 and the territorial authority has failed to take appropriate action; or
+    *   (b) a building is dangerous, earthquake prone, or insanitary in terms of [subpart 6][193] of Part 2 and the territorial authority has failed to take appropriate action; or
     
-    *   (c) a dam is dangerous in terms of [subpart 7][213] of Part 2 and the regional authority has failed to take appropriate action.
+    *   (c) a dam is dangerous in terms of [subpart 7][214] of Part 2 and the regional authority has failed to take appropriate action.
     
     (2) The persons are---
         
@@ -10571,7 +10585,7 @@ Miscellaneous provisions
     
     *   (c) a regional authority; or
     
-    *   (d) any person referred to in [section 176(g)][283].
+    *   (d) any person referred to in [section 176(g)][284].
     
     (3) An injunction may be granted, or an order may be made, under subsection (1)---
         
@@ -10587,33 +10601,33 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 81(1), (5)
     
-    Section 381(1)(a): amended, on 15 March 2008, by [section 86][979] of the Building Amendment Act 2008 (2008 No 4).
+    Section 381(1)(a): amended, on 15 March 2008, by [section 86][982] of the Building Amendment Act 2008 (2008 No 4).
 
 ##### 382 Terms of injunction or order
     
-*   (1) An injunction may be granted, or an order may be made, under [section 381][575]---
+*   (1) An injunction may be granted, or an order may be made, under [section 381][576]---
         
-    *   (a) restraining the person concerned from engaging in the conduct described in [section 381(1)(a) or (b) or (c)][575]; or
+    *   (a) restraining the person concerned from engaging in the conduct described in [section 381(1)(a) or (b) or (c)][576]; or
     
     *   (b) for the purpose of ensuring that the person does not engage in that conduct.
     
     (2) The injunction may be granted and the order made on any other terms that the District Court considers appropriate.
     
-    (3) In the case of a building that does not comply with the provisions of the [building code][668], the injunction or order may be issued in respect of the owner of the building, whether or not the owner has committed an offence against [section 40][81] or [section 168][270], and without prejudice to the liability of any other person.
+    (3) In the case of a building that does not comply with the provisions of the [building code][669], the injunction or order may be issued in respect of the owner of the building, whether or not the owner has committed an offence against [section 40][81] or [section 168][271], and without prejudice to the liability of any other person.
     
-    (4) The District Court may, at any time, rescind or vary an injunction granted or order made under [section 381][575].
+    (4) The District Court may, at any time, rescind or vary an injunction granted or order made under [section 381][576].
     
     Compare: 1991 No 150 s 81(3)
 
 ##### 383 District Court may direct chief executive to make determination
     
-*   On an application under [section 381(1)][575], the District Court may direct the chief executive to make a determination under [subpart 1][272] of Part 3 in respect of any matters that the court specifies.
+*   On an application under [section 381(1)][576], the District Court may direct the chief executive to make a determination under [subpart 1][273] of Part 3 in respect of any matters that the court specifies.
     
     Compare: 1991 No 150 s 81(2)
 
 ##### 384 District Court may grant interim injunctions
     
-*   (1) If an application is made to the District Court under [section 381(1)][575] for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the District Court may,---
+*   (1) If an application is made to the District Court under [section 381(1)][576] for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the District Court may,---
         
     *   (a) if it is satisfied that the person has engaged in conduct of that kind, grant an injunction restraining the person from engaging in conduct of that kind; or
     
@@ -10625,13 +10639,13 @@ Miscellaneous provisions
 
 ##### 385 Application of section 381 to Crown organisation
     
-*   (1) Despite [section 17(1)(a)][980] of the Crown Proceedings Act 1950,---
+*   (1) Despite [section 17(1)(a)][983] of the Crown Proceedings Act 1950,---
         
-    *   (a) the District Court may, under [section 381][575], grant an injunction against a Crown organisation, but only in its own name; and
+    *   (a) the District Court may, under [section 381][576], grant an injunction against a Crown organisation, but only in its own name; and
     
     *   (b) for the purposes of imposing or enforcing an injunction referred to in paragraph (a), the Crown organisation, if not a body corporate, is to be treated as if it were a separate legal personality.
     
-    (2) If the District Court grants an injunction against a Crown organisation, the provisions of [sections 381 to 384][575] apply with all necessary modifications.
+    (2) If the District Court grants an injunction against a Crown organisation, the provisions of [sections 381 to 384][576] apply with all necessary modifications.
     
     Compare: 1991 No 150 s 81
 
@@ -10673,11 +10687,11 @@ Miscellaneous provisions
 
 ##### 387 Liability for acts of employees or agents of Crown organisations
     
-*   (1) [Section 386][580] does not apply if a person acting as agent or employee of a Crown organisation commits an offence under this Act.
+*   (1) [Section 386][581] does not apply if a person acting as agent or employee of a Crown organisation commits an offence under this Act.
     
-    (2) If an offence referred to in [section 6(1)(a)][981] of the Crown Organisations (Criminal Liability) Act 2002 is committed by a person acting as the agent or employee of a Crown organisation, the Crown organisation must (without affecting the personal liability of the agent or employee) be treated for all legal purposes as having committed that offence.
+    (2) If an offence referred to in [section 6(1)(a)][984] of the Crown Organisations (Criminal Liability) Act 2002 is committed by a person acting as the agent or employee of a Crown organisation, the Crown organisation must (without affecting the personal liability of the agent or employee) be treated for all legal purposes as having committed that offence.
     
-    (3) Despite subsection (2), if proceedings for an offence referred to in [section 6(1)(a)][981] of the Crown Organisations (Criminal Liability) Act 2002 are brought against a Crown organisation in reliance on subsection (2), it is a good defence if the Crown organisation proves that---
+    (3) Despite subsection (2), if proceedings for an offence referred to in [section 6(1)(a)][984] of the Crown Organisations (Criminal Liability) Act 2002 are brought against a Crown organisation in reliance on subsection (2), it is a good defence if the Crown organisation proves that---
         
     *   (a) the organisation took all reasonable steps to remedy any effects of the act or omission constituting the offence; and
     
@@ -10737,15 +10751,15 @@ Miscellaneous provisions
     
     *   (b) pay the balance of the fine to the territorial authority or the regional authority entitled to it under the order.
     
-    (5) Nothing in [section 73][982] of the Public Finance Act 1989 applies to a fine ordered to be paid to a territorial authority or a regional authority under subsection (1).
+    (5) Nothing in [section 73][985] of the Public Finance Act 1989 applies to a fine ordered to be paid to a territorial authority or a regional authority under subsection (1).
     
     (6) To avoid doubt, this section does not apply if the proceedings for the offence were commenced by a person other than a territorial authority or a regional authority.
     
     Compare: 1991 No 150 s 84
     
-    Section 389(1): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 389(1): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 389(6): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 389(6): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Civil proceedings and defences
 
@@ -10757,7 +10771,7 @@ Miscellaneous provisions
     
     *   (b) any employee or agent of the chief executive; and
     
-    *   (c) any person engaged by the chief executive under [section 187][294] to assist the chief executive in relation to an application for a determination: and
+    *   (c) any person engaged by the chief executive under [section 187][295] to assist the chief executive in relation to an application for a determination: and
     
     *   (d) any member, employee, or agent of a territorial authority or regional authority; and
     
@@ -10773,9 +10787,9 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 90
     
-    Section 391 heading: amended, on 14 April 2005, by [section 16(2)(r)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 391 heading: amended, on 14 April 2005, by [section 16(2)(r)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 391: amended, on 14 April 2005, by [section 16(2)(o)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 391: amended, on 14 April 2005, by [section 16(2)(o)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 392 Building consent authority not liable
     
@@ -10783,15 +10797,15 @@ Miscellaneous provisions
         
     *   (a) an acceptable solution or a verification method:
     
-    *   (b) a determination made by the chief executive under [subpart 1][272] of Part 3:
+    *   (b) a determination made by the chief executive under [subpart 1][273] of Part 3:
     
-    *   (c) a current product certificate issued under [subpart 7][396] of Part 3:
+    *   (c) a current product certificate issued under [subpart 7][397] of Part 3:
     
-    *   (ca) a current national multiple-use approval issued under [section 30F][66] (including, in any particular case, any minor customisations permitted by regulations made under [section 402(1)(kc)][603]):
+    *   (ca) a current national multiple-use approval issued under [section 30F][66] (including, in any particular case, any minor customisations permitted by regulations made under [section 402(1)(kc)][604]):
     
     *   (d) a code compliance certificate issued under [section 95][154]:
     
-    *   (e) a certificate issued under any regulations made under the [Electricity Act 1992][715] or the [Gas Act 1992][716].
+    *   (e) a certificate issued under any regulations made under the [Electricity Act 1992][716] or the [Gas Act 1992][717].
     
     (2) Subsection (3) applies if---
         
@@ -10813,27 +10827,27 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 36(4)
     
-    Section 392 heading: amended, on 14 April 2005, by [section 16(2)(s)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392 heading: amended, on 14 April 2005, by [section 16(2)(s)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(1): amended, on 14 April 2005, by [section 16(2)(o)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(1): amended, on 14 April 2005, by [section 16(2)(o)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(1)(a): replaced, on 28 November 2013, by [section 65][983] of the Building Amendment Act 2013 (2013 No 100).
+    Section 392(1)(a): replaced, on 28 November 2013, by [section 65][986] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 392(1)(ca): inserted, on 1 February 2010, by [section 29][984] of the Building Amendment Act 2009 (2009 No 25).
+    Section 392(1)(ca): inserted, on 1 February 2010, by [section 29][987] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 392(2)(b): amended, on 14 April 2005, by [section 16(2)(q)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(2)(b): amended, on 14 April 2005, by [section 16(2)(q)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(2)(c): amended, on 14 April 2005, by [section 16(2)(q)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(2)(c): amended, on 14 April 2005, by [section 16(2)(q)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(3): amended, on 14 April 2005, by [section 16(2)(p)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(3): amended, on 14 April 2005, by [section 16(2)(p)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(4)(a): amended, on 14 April 2005, by [section 16(2)(p)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(4)(a): amended, on 14 April 2005, by [section 16(2)(p)][673] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 392(4)(b): amended, on 14 April 2005, by [section 16(2)(p)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 392(4)(b): amended, on 14 April 2005, by [section 16(2)(p)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 393 Limitation defences
     
-*   (1) The [Limitation Act 2010][985] applies to civil proceedings against any person if those proceedings arise from---
+*   (1) The [Limitation Act 2010][988] applies to civil proceedings against any person if those proceedings arise from---
         
     *   (a) building work associated with the design, construction, alteration, demolition, or removal of any building; or
     
@@ -10843,15 +10857,15 @@ Miscellaneous provisions
     
     (3) For the purposes of subsection (2), the date of the act or omission is,---
         
-    *   (a) in the case of civil proceedings that are brought against a territorial authority, a building consent authority, a regional authority, or the chief executive in relation to the issue of a building consent or a code compliance certificate under [Part 2][34] or a determination under [Part 3][271], the date of issue of the consent, certificate, or determination, as the case may be; and
+    *   (a) in the case of civil proceedings that are brought against a territorial authority, a building consent authority, a regional authority, or the chief executive in relation to the issue of a building consent or a code compliance certificate under [Part 2][34] or a determination under [Part 3][272], the date of issue of the consent, certificate, or determination, as the case may be; and
     
     *   (b) in the case of civil proceedings that are brought against a person in relation to the issue of an energy work certificate, the date of the issue of the certificate.
     
     Compare: 1991 No 150 s 91
     
-    Section 393(1): amended, on 1 January 2011, by [section 58][986] of the Limitation Act 2010 (2010 No 110)
+    Section 393(1): amended, on 1 January 2011, by [section 58][989] of the Limitation Act 2010 (2010 No 110)
     
-    Section 393(2): amended, on 1 January 2011, by [section 58][986] of the Limitation Act 2010 (2010 No 110)
+    Section 393(2): amended, on 1 January 2011, by [section 58][989] of the Limitation Act 2010 (2010 No 110)
 
 ### Subpart 3---Miscellaneous
 
@@ -10885,11 +10899,11 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 87
     
-    Section 394(4)(c): amended, on 1 July 2013, by [section 413][722] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 394(4)(c): amended, on 1 July 2013, by [section 413][723] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 395 Notices in relation to Māori land
     
-*   [Part 10][987] of Te Ture Whenua Maori Act 1993 applies to the service of notices under this Act on owners of Māori land, except that the period fixed for anything to be done by the owners must not be extended by more than 14 working days under [section 181(4)][988] of that Act, unless otherwise provided by the territorial authority or the regional authority concerned.
+*   [Part 10][990] of Te Ture Whenua Maori Act 1993 applies to the service of notices under this Act on owners of Māori land, except that the period fixed for anything to be done by the owners must not be extended by more than 14 working days under [section 181(4)][991] of that Act, unless otherwise provided by the territorial authority or the regional authority concerned.
     
     Compare: 1991 No 150 s 88
 
@@ -10897,7 +10911,7 @@ Miscellaneous provisions
 
 ##### 396 Application of sections 397 to 399
     
-*   (1) [Sections 397 to 399][595] apply---
+*   (1) [Sections 397 to 399][596] apply---
         
     *   (a) to a contract entered into, on or after the commencement of this Act, that provides for---
             
@@ -10909,7 +10923,7 @@ Miscellaneous provisions
     
     *   (b) despite any provision to the contrary in any agreement or contract.
     
-    (2) For the purposes of this section, [sections 397 to 399][595] must be read as if a contract referred to in subsection (1)(a)(ii) were a contract that provides for building work to be carried out (either before or after the contract is entered into) in relation to the household unit or, as the case may be, the household units being sold under the contract.
+    (2) For the purposes of this section, [sections 397 to 399][596] must be read as if a contract referred to in subsection (1)(a)(ii) were a contract that provides for building work to be carried out (either before or after the contract is entered into) in relation to the household unit or, as the case may be, the household units being sold under the contract.
 
 ##### 397 Implied warranties for building work in relation to household units
     
@@ -10957,25 +10971,25 @@ Miscellaneous provisions
 
 ##### 398 Proceedings for breach of warranties may be taken by person who was not party to contract for building work
     
-*   (1) An owner of the building or land in respect of which building work was carried out under a contract to which this section applies may take proceedings for a breach of any of the warranties set out in [section 397][595] as if the owner were a party to the contract.
+*   (1) An owner of the building or land in respect of which building work was carried out under a contract to which this section applies may take proceedings for a breach of any of the warranties set out in [section 397][596] as if the owner were a party to the contract.
     
     (2) In this section, _proceedings_ includes---
         
-    *   (a) adjudication under the [Construction Contracts Act 2002][989]; and
+    *   (a) adjudication under the [Construction Contracts Act 2002][992]; and
     
-    *   (b) a claim under the [Weathertight Homes Resolution Services Act 2006][990].
+    *   (b) a claim under the [Weathertight Homes Resolution Services Act 2006][993].
     
-    Section 398(2)(b): amended, on 1 April 2007, by [section 127(1)(a)][991] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+    Section 398(2)(b): amended, on 1 April 2007, by [section 127(1)(a)][994] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
 ##### 399 Person may not give away benefit of warranties
     
-*   A provision of an agreement or instrument that purports to restrict or remove the right of a person to take proceedings for a breach of any of the warranties set out in [section 397][595] is of no effect in so far as the provision relates to a breach other than a breach that was known, or ought reasonably to have been known, by the person to exist at the time the agreement or instrument was executed.
+*   A provision of an agreement or instrument that purports to restrict or remove the right of a person to take proceedings for a breach of any of the warranties set out in [section 397][596] is of no effect in so far as the provision relates to a breach other than a breach that was known, or ought reasonably to have been known, by the person to exist at the time the agreement or instrument was executed.
 
 #### Regulations
 
 ##### 400 Regulations: building code
     
-*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations, to be called the [building code][668], that prescribe---
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations, to be called the [building code][669], that prescribe---
         
     *   (a) functional requirements for buildings; and
     
@@ -10993,11 +11007,11 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe---
         
-    *   (a) acceptable solutions or verification methods, or both, that must be used to comply with the [building code][668]; and
+    *   (a) acceptable solutions or verification methods, or both, that must be used to comply with the [building code][669]; and
     
     *   (b) the particular circumstances in which those acceptable solutions or verification methods, or both, must be used; and
     
-    *   (c) the circumstances in which building methods or products that have a current product certificate issued under [section 269][411] must be used.
+    *   (c) the circumstances in which building methods or products that have a current product certificate issued under [section 269][412] must be used.
     
     (2) Any regulations made under subsection (1) must state whether those regulations apply to building work for which a building consent has been issued, but for which a code compliance certificate has not been issued.
 
@@ -11031,7 +11045,7 @@ Miscellaneous provisions
     
     *   (j) define safety system.
     
-    Section 401A: inserted, on 13 March 2012, by [section 81][992] of the Building Amendment Act 2012 (2012 No 23).
+    Section 401A: inserted, on 13 March 2012, by [section 81][995] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 401B Order in Council declaring work to be restricted building work
     
@@ -11043,7 +11057,7 @@ Miscellaneous provisions
     
     (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
     
-    Section 401B: inserted, on 13 March 2012, by [section 82][993] of the Building Amendment Act 2012 (2012 No 23).
+    Section 401B: inserted, on 13 March 2012, by [section 82][996] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 402 Regulations: general
     
@@ -11059,7 +11073,7 @@ Miscellaneous provisions
     
     *   ###### Licensing:
     
-    *   (d) prescribing the fees or charges payable in respect of the licensing, disciplining, and registration of building practitioners under [Part 4][433], including the fees and charges for---
+    *   (d) prescribing the fees or charges payable in respect of the licensing, disciplining, and registration of building practitioners under [Part 4][434], including the fees and charges for---
             
         *   (i) an application to be licensed as a building practitioner; and
         
@@ -11071,7 +11085,7 @@ Miscellaneous provisions
     
     *   (da) providing for waivers and refunds of the whole or any part of a fee or charge referred to in paragraph (d):
     
-    *   (e) providing for the following matters relating to the levy payable by licensed building practitioners under [section 303][469]:
+    *   (e) providing for the following matters relating to the levy payable by licensed building practitioners under [section 303][470]:
             
         *   (i) different levies for different classes of licensed building practitioners; and
         
@@ -11101,7 +11115,7 @@ Miscellaneous provisions
         
         
     
-    *   (g) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for the register of licensed building practitioners established and maintained under [section 298][463], including matters that relate to---
+    *   (g) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for the register of licensed building practitioners established and maintained under [section 298][464], including matters that relate to---
             
         *   (i) the operation of the register:
         
@@ -11153,17 +11167,17 @@ Miscellaneous provisions
     
     *   (o) prescribing systems or parts of systems that amount to specified systems for the purposes of this Act:
     
-    *   (p) defining moderate earthquake for the purposes of [sections 122][196] and [153][251]:
+    *   (p) defining moderate earthquake for the purposes of [sections 122][197] and [153][252]:
     
-    *   (q) defining moderate flood for the purposes of [section 153][251]:
+    *   (q) defining moderate flood for the purposes of [section 153][252]:
     
-    *   (qa) defining earthquake threshold event for the purposes of [section 153A][252]:
+    *   (qa) defining earthquake threshold event for the purposes of [section 153A][253]:
     
-    *   (qb) defining flood threshold event for the purposes of [section 153A][252]:
+    *   (qb) defining flood threshold event for the purposes of [section 153A][253]:
     
-    *   (r) prescribing the minimum terms and conditions of an insurance policy for the purposes of [section 192(2)(a)][300]:
+    *   (r) prescribing the minimum terms and conditions of an insurance policy for the purposes of [section 192(2)(a)][301]:
     
-    *   (s) providing for the approval of schemes of insurance for the purposes of [section 192(2)(b)][300]:
+    *   (s) providing for the approval of schemes of insurance for the purposes of [section 192(2)(b)][301]:
     
     *   (t) prescribing the criteria and standards that an applicant must meet to be accredited as---
             
@@ -11177,11 +11191,11 @@ Miscellaneous provisions
         
         
     
-    *   (ta) prescribing the fees payable for an audit under [section 249(a)][375], [257(a)][389], or [262(1)(a)][400], or the rate at which, or method by which, those fees are to be calculated:
+    *   (ta) prescribing the fees payable for an audit under [section 249(a)][376], [257(a)][390], or [262(1)(a)][401], or the rate at which, or method by which, those fees are to be calculated:
     
-    *   (u) prescribing the criteria and standards that a product certification body must apply in determining applications for a product certificate under [section 269][411] (which must include, without limitation, criteria and standards about the effects on human health of particular building methods or products):
+    *   (u) prescribing the criteria and standards that a product certification body must apply in determining applications for a product certificate under [section 269][412] (which must include, without limitation, criteria and standards about the effects on human health of particular building methods or products):
     
-    *   (v) determining or fixing scales of charges or other criteria for the purpose of fixing charges by the chief executive under [Part 3][271]:
+    *   (v) determining or fixing scales of charges or other criteria for the purpose of fixing charges by the chief executive under [Part 3][272]:
     
     *   (w) prescribing---
             
@@ -11195,7 +11209,7 @@ Miscellaneous provisions
     
     *   (wb) defining the meaning of referable dam:
     
-    *   (wc) designating or describing an area or proximity to an area or feature for the purposes of [section 134A][221]:
+    *   (wc) designating or describing an area or proximity to an area or feature for the purposes of [section 134A][222]:
     
     *   (x) specifying criteria and standards that a dam owner must apply in---
             
@@ -11223,7 +11237,7 @@ Miscellaneous provisions
     
     *   (za) prescribing the forms that must be used for issuing an infringement notice:
     
-    *   (zb) prescribing, for the purposes of [section 364(2)][550], the form and content of the written agreement referred to in that subsection:
+    *   (zb) prescribing, for the purposes of [section 364(2)][551], the form and content of the written agreement referred to in that subsection:
     
     *   (zc) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
@@ -11231,75 +11245,75 @@ Miscellaneous provisions
     
     Compare: 1991 No 150 s 48(2)
     
-    Section 402(1)(d): amended, on 13 March 2012, by [section 83(1)][994] of the Building Amendment Act 2012 (2012 No 23).
+    Section 402(1)(d): amended, on 13 March 2012, by [section 83(1)][997] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 402(1)(d)(ii): amended, on 15 March 2008, by [section 87(1)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(d)(ii): amended, on 15 March 2008, by [section 87(1)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(d)(iii): amended, on 15 March 2008, by [section 87(1)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(d)(iii): amended, on 15 March 2008, by [section 87(1)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(da): inserted, on 13 March 2012, by [section 83(2)][994] of the Building Amendment Act 2012 (2012 No 23).
+    Section 402(1)(da): inserted, on 13 March 2012, by [section 83(2)][997] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 402(1)(e): amended, on 13 March 2012, by [section 83(3)][994] of the Building Amendment Act 2012 (2012 No 23).
+    Section 402(1)(e): amended, on 13 March 2012, by [section 83(3)][997] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 402(1)(ka): inserted, on 1 August 2009, by [section 30][996] of the Building Amendment Act 2009 (2009 No 25).
+    Section 402(1)(ka): inserted, on 1 August 2009, by [section 30][999] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 402(1)(kb): inserted, on 1 August 2009, by [section 30][996] of the Building Amendment Act 2009 (2009 No 25).
+    Section 402(1)(kb): inserted, on 1 August 2009, by [section 30][999] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 402(1)(kc): inserted, on 1 August 2009, by [section 30][996] of the Building Amendment Act 2009 (2009 No 25).
+    Section 402(1)(kc): inserted, on 1 August 2009, by [section 30][999] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 402(1)(kd): inserted, on 1 August 2009, by [section 30][996] of the Building Amendment Act 2009 (2009 No 25).
+    Section 402(1)(kd): inserted, on 1 August 2009, by [section 30][999] of the Building Amendment Act 2009 (2009 No 25).
     
-    Section 402(1)(n): repealed, on 13 March 2012, by [section 83(4)][994] of the Building Amendment Act 2012 (2012 No 23).
+    Section 402(1)(n): repealed, on 13 March 2012, by [section 83(4)][997] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 402(1)(na): inserted, on 15 March 2008, by [section 87(2)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(na): inserted, on 15 March 2008, by [section 87(2)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(o): replaced, on 13 March 2012, by [section 83(5)][994] of the Building Amendment Act 2012 (2012 No 23).
+    Section 402(1)(o): replaced, on 13 March 2012, by [section 83(5)][997] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 402(1)(qa): inserted, on 15 March 2008, by [section 87(3)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(qa): inserted, on 15 March 2008, by [section 87(3)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(qb): inserted, on 15 March 2008, by [section 87(3)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(qb): inserted, on 15 March 2008, by [section 87(3)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(t)(ii): repealed, on 14 April 2005, by [section 20(2)][900] of the Building Amendment Act 2005 (2005 No 31).
+    Section 402(1)(t)(ii): repealed, on 14 April 2005, by [section 20(2)][903] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 402(1)(ta): inserted, on 15 March 2008, by [section 87(4)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(ta): inserted, on 15 March 2008, by [section 87(4)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(w): replaced, on 15 March 2008, by [section 87(5)][995] of the Building Amendment Act 2008 (2008 No 4).
+    Section 402(1)(w): replaced, on 15 March 2008, by [section 87(5)][998] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 402(1)(wa): inserted, on 28 November 2013, by [section 67(1)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(wa): inserted, on 28 November 2013, by [section 67(1)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(wb): inserted, on 28 November 2013, by [section 67(1)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(wb): inserted, on 28 November 2013, by [section 67(1)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(wc): inserted, on 28 November 2013, by [section 67(1)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(wc): inserted, on 28 November 2013, by [section 67(1)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xa): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xa): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xb): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xb): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xc): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xc): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xd): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xd): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xe): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xe): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 402(1)(xf): inserted, on 28 November 2013, by [section 67(2)][997] of the Building Amendment Act 2013 (2013 No 100).
+    Section 402(1)(xf): inserted, on 28 November 2013, by [section 67(2)][1000] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 402A Chief executive must review regulations made under section 402(1)(kb)
     
-*   The chief executive must, within 2 years after the commencement of regulations made under [section 402(1)(kb)][603],---
+*   The chief executive must, within 2 years after the commencement of regulations made under [section 402(1)(kb)][604],---
         
     *   (a) review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and
     
     *   (b) prepare for the Minister a report on the findings of that review.
     
-    Section 402A: inserted, on 1 August 2009, by [section 31][998] of the Building Amendment Act 2009 (2009 No 25).
+    Section 402A: inserted, on 1 August 2009, by [section 31][1001] of the Building Amendment Act 2009 (2009 No 25).
 
 ##### 403 Consultation requirements for making regulations
     
 *   (1) This section applies to---
         
-    *   (a) an Order in Council proposed to be made under [section 285][444]; or
+    *   (a) an Order in Council proposed to be made under [section 285][445]; or
     
-    *   (b) regulations proposed to be made under [section 400][599] or [section 401][600].
+    *   (b) regulations proposed to be made under [section 400][600] or [section 401][601].
     
     (2) Before making a recommendation for the making of an Order in Council or regulations under those sections, the Minister must be satisfied that the chief executive has consulted in accordance with subsections (3) and (4).
     
@@ -11323,7 +11337,7 @@ Miscellaneous provisions
 
 ##### 404 Certain regulations must not come into force earlier than specified date
     
-*   Any regulations made under [section 402(1)(n)][603] must not come into force earlier than the date on which [sections 45(1)(e)][87] and 45(2) to 45(4) and [84 to 89][134] come into force.
+*   Any regulations made under [section 402(1)(n)][604] must not come into force earlier than the date on which [sections 45(1)(e)][87] and 45(2) to 45(4) and [84 to 89][134] come into force.
 
 #### Incorporation of material by reference
 
@@ -11347,23 +11361,23 @@ Miscellaneous provisions
     
     *   (b) forms part of the instrument for all purposes and has legal effect accordingly.
     
-    (4) In this section and in [sections 406 to 413][609], _instrument_ means---
+    (4) In this section and in [sections 406 to 413][610], _instrument_ means---
         
     *   (a) any regulations; and
     
     *   (b) any acceptable solution or verification method; and
     
-    *   (c) any Order in Council made under [section 41][82] or [285][444].
+    *   (c) any Order in Council made under [section 41][82] or [285][445].
     
-    Section 405 heading: amended, on 28 November 2013, by [section 68(1)][999] of the Building Amendment Act 2013 (2013 No 100).
+    Section 405 heading: amended, on 28 November 2013, by [section 68(1)][1002] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 405 heading: amended, on 15 March 2008, by [section 88(1)][1000] of the Building Amendment Act 2008 (2008 No 4).
+    Section 405 heading: amended, on 15 March 2008, by [section 88(1)][1003] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 405(1): amended, on 15 March 2008, by [section 88(2)][1000] of the Building Amendment Act 2008 (2008 No 4).
+    Section 405(1): amended, on 15 March 2008, by [section 88(2)][1003] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 405(4): inserted, on 15 March 2008, by [section 88(3)][1000] of the Building Amendment Act 2008 (2008 No 4).
+    Section 405(4): inserted, on 15 March 2008, by [section 88(3)][1003] of the Building Amendment Act 2008 (2008 No 4).
     
-    Section 405(4)(b): replaced, on 28 November 2013, by [section 68(2)][999] of the Building Amendment Act 2013 (2013 No 100).
+    Section 405(4)(b): replaced, on 28 November 2013, by [section 68(2)][1002] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 406 Effect of amendments to, or replacement of, material incorporated by reference
     
@@ -11381,7 +11395,7 @@ Miscellaneous provisions
         
         
     
-    Section 406(c)(ii): amended, on 28 November 2013, by [section 69][1001] of the Building Amendment Act 2013 (2013 No 100).
+    Section 406(c)(ii): amended, on 28 November 2013, by [section 69][1004] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 407 Proof of material incorporated by reference
     
@@ -11405,7 +11419,7 @@ Miscellaneous provisions
             
         *   (i) regulations to be made under this Act that incorporate material by reference; or
         
-        *   (ii) regulations under [section 406(c)(i)][609] that state that an amendment to, or replacement of, material incorporated by reference in regulations has legal effect as part of the regulations; or
+        *   (ii) regulations under [section 406(c)(i)][610] that state that an amendment to, or replacement of, material incorporated by reference in regulations has legal effect as part of the regulations; or
         
         
     
@@ -11413,7 +11427,7 @@ Miscellaneous provisions
             
         *   (i) issue an acceptable solution or a verification method that incorporates material by reference; or
         
-        *   (ii) publish, under [section 406(c)(ii)][609], a notice in the _Gazette_ that adopts an amendment to, or replacement of, material incorporated by reference in an acceptable solution or a verification method.
+        *   (ii) publish, under [section 406(c)(ii)][610], a notice in the _Gazette_ that adopts an amendment to, or replacement of, material incorporated by reference in an acceptable solution or a verification method.
         
         
     
@@ -11449,17 +11463,17 @@ Miscellaneous provisions
     
     (4) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 409(1)(b)(i): amended, on 28 November 2013, by [section 70][1002] of the Building Amendment Act 2013 (2013 No 100).
+    Section 409(1)(b)(i): amended, on 28 November 2013, by [section 70][1005] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 409(1)(b)(ii): amended, on 28 November 2013, by [section 70][1002] of the Building Amendment Act 2013 (2013 No 100).
+    Section 409(1)(b)(ii): amended, on 28 November 2013, by [section 70][1005] of the Building Amendment Act 2013 (2013 No 100).
     
-    Section 409(2)(c): repealed, on 14 April 2005, by [section 24(1)(a)][1003] of the Building Amendment Act 2005 (2005 No 31).
+    Section 409(2)(c): repealed, on 14 April 2005, by [section 24(1)(a)][1006] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 409(2)(d)(iii): repealed, on 14 April 2005, by [section 24(1)(b)][1003] of the Building Amendment Act 2005 (2005 No 31).
+    Section 409(2)(d)(iii): repealed, on 14 April 2005, by [section 24(1)(b)][1006] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 409(2A): inserted, on 14 April 2005, by [section 24(2)][1003] of the Building Amendment Act 2005 (2005 No 31).
+    Section 409(2A): inserted, on 14 April 2005, by [section 24(2)][1006] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 409(3): amended, on 14 April 2005, by [section 24(3)][1003] of the Building Amendment Act 2005 (2005 No 31).
+    Section 409(3): amended, on 14 April 2005, by [section 24(3)][1006] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 410 Access to material incorporated by reference
     
@@ -11511,35 +11525,35 @@ Miscellaneous provisions
     
     (3) A failure to comply with this section does not invalidate an instrument that incorporates material by reference.
     
-    Section 410(1): replaced, on 14 April 2005, by [section 25][1004] of the Building Amendment Act 2005 (2005 No 31).
+    Section 410(1): replaced, on 14 April 2005, by [section 25][1007] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 410(1A): inserted, on 14 April 2005, by [section 25][1004] of the Building Amendment Act 2005 (2005 No 31).
+    Section 410(1A): inserted, on 14 April 2005, by [section 25][1007] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 411 Application of Legislation Act 2012 to provisions incorporated by reference
     
-*   (1) Nothing in [section 41][968] of the Legislation Act 2012 requires material that is incorporated by reference in an instrument made or issued under this Act to be presented to the House of Representatives.
+*   (1) Nothing in [section 41][971] of the Legislation Act 2012 requires material that is incorporated by reference in an instrument made or issued under this Act to be presented to the House of Representatives.
     
-    (2) [Subpart 1][1005] of Part 3 of the Legislation Act 2012, apart from the modification to the application of [section 41][968] of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
+    (2) [Subpart 1][1008] of Part 3 of the Legislation Act 2012, apart from the modification to the application of [section 41][971] of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
     
-    (3) [Part 2][1006] of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument or to an amendment to, or replacement of, that material.
+    (3) [Part 2][1009] of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument or to an amendment to, or replacement of, that material.
     
-    Section 411: replaced, on 5 August 2013, by [section 77(3)][969] of the Legislation Act 2012 (2012 No 119).
+    Section 411: replaced, on 5 August 2013, by [section 77(3)][972] of the Legislation Act 2012 (2012 No 119).
 
 ##### 412 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
 *   \[Repealed\]
     
-    Section 412: repealed, on 5 August 2013, by [section 77(3)][969] of the Legislation Act 2012 (2012 No 119).
+    Section 412: repealed, on 5 August 2013, by [section 77(3)][972] of the Legislation Act 2012 (2012 No 119).
 
 ##### 413 Application of Standards Act 1988 not affected
     
-*   [Sections 405 to 412][608] do not affect the application of [sections 22 to 25][1007] of the Standards Act 1988\.
+*   [Sections 405 to 412][609] do not affect the application of [sections 22 to 25][1010] of the Standards Act 1988\.
 
 #### Amendments and repeal
 
 ##### 414 Amendments to other enactments
     
-*   The enactments specified in [Schedule 4][666] are amended in the manner indicated in that schedule.
+*   The enactments specified in [Schedule 4][667] are amended in the manner indicated in that schedule.
 
 ##### 415 Repeal
     
@@ -11547,7 +11561,7 @@ Miscellaneous provisions
     
     (2) Despite the repeal of the Building Act 1991 by subsection (1),---
         
-    *   (a) the [Building Regulations 1992][1008] (SR 1992/150) continue in force as if they had been made under this Act and may be amended or revoked accordingly; and
+    *   (a) the [Building Regulations 1992][1011] (SR 1992/150) continue in force as if they had been made under this Act and may be amended or revoked accordingly; and
     
     *   (b) the Building Industry Authority Levy Order 1995 (SR 1995/241) continues in force---
             
@@ -11579,7 +11593,7 @@ Miscellaneous provisions
         
         *   (v) the licensing regime for building practitioners comes into force; and
         
-        *   (vi) the obligation of the chief executive to review the [building code][668] comes into force; and
+        *   (vi) the obligation of the chief executive to review the [building code][669] comes into force; and
         
         
     
@@ -11595,11 +11609,11 @@ Miscellaneous provisions
         
         
     
-    *   (d) between 30 November 2004 and 31 May 2006, persons who held an approval as a building certifier under the former Act may apply to be registered as a building consent authority under [section 191][299]; and
+    *   (d) between 30 November 2004 and 31 May 2006, persons who held an approval as a building certifier under the former Act may apply to be registered as a building consent authority under [section 191][300]; and
     
-    *   (e) between 30 November 2004 and 31 May 2006, territorial authorities and regional authorities must apply to be registered under [section 191][299]; and
+    *   (e) between 30 November 2004 and 31 May 2006, territorial authorities and regional authorities must apply to be registered under [section 191][300]; and
     
-    *   (f) on and after the date specified in [section 450(3)(b)(ii)][660], only building consent authorities that are registered under [section 191][299] may perform functions relating to building control; and
+    *   (f) on and after the date specified in [section 450(3)(b)(ii)][661], only building consent authorities that are registered under [section 191][300] may perform functions relating to building control; and
     
     *   (g) on 30 November 2010,---
             
@@ -11611,11 +11625,11 @@ Miscellaneous provisions
     
     (2) This section is a guide only to the general scheme and effect of these provisions.
     
-    Section 416(1)(f): amended, on 29 August 2007, by [section 5(3)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 416(1)(f): amended, on 29 August 2007, by [section 5(3)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 416(1)(f): amended, on 14 April 2005, by [section 3(8)][687] of the Building Amendment Act 2005 (2005 No 31).
+    Section 416(1)(f): amended, on 14 April 2005, by [section 3(8)][688] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 416(1)(g): amended, on 15 March 2008, by [section 89][1010] of the Building Amendment Act 2008 (2008 No 4).
+    Section 416(1)(g): amended, on 15 March 2008, by [section 89][1013] of the Building Amendment Act 2008 (2008 No 4).
 
 #### No compensation for loss of office
 
@@ -11641,7 +11655,7 @@ Miscellaneous provisions
         
     *   (a) is for the avoidance of doubt; and
     
-    *   (b) does not limit the provisions of the [Interpretation Act 1999][1011].
+    *   (b) does not limit the provisions of the [Interpretation Act 1999][1014].
     
     
 
@@ -11669,13 +11683,13 @@ Miscellaneous provisions
     
     *   (d) on terms that treat the period of service with the Authority (and any other period of service recognised by the Authority as continuous service) as if it were continuous service with the Ministry.
     
-    Compare: 1988 No 20 [s 30E][1012]
+    Compare: 1988 No 20 [s 30E][1015]
 
 ##### 422 Reappointment of employee of Authority to Ministry
     
-*   [Sections 60 to 61B][1013] and [65][1014] of the State Sector Act 1988 do not apply to the appointment of an employee of the Authority to a position in the Ministry if the employee's position in the Authority ceases to exist as a result of the dissolution of the Authority.
+*   [Sections 60 to 61B][1016] and [65][1017] of the State Sector Act 1988 do not apply to the appointment of an employee of the Authority to a position in the Ministry if the employee's position in the Authority ceases to exist as a result of the dissolution of the Authority.
     
-    Compare: 1988 No 20 [s 30F][1015]
+    Compare: 1988 No 20 [s 30F][1018]
 
 ##### 423 Final reports and accounts
     
@@ -11687,7 +11701,7 @@ Miscellaneous provisions
     
     *   (b) include---
             
-        *   (i) financial statements of the Authority prepared, in accordance with [Part 5][1016] of the Public Finance Act 1989, for that financial year; and
+        *   (i) financial statements of the Authority prepared, in accordance with [Part 5][1019] of the Public Finance Act 1989, for that financial year; and
         
         *   (ii) an audit report prepared by the Auditor-General and a management statement relating to those financial statements.
         
@@ -11703,7 +11717,7 @@ Miscellaneous provisions
         
     *   (a) a reference to the Authority in the Building Act 1991 must be read as a reference to the chief executive; and
     
-    *   (b) the Building Act 1991 must be read with all necessary modifications to enable the chief executive to perform the functions and duties, and exercise the powers, of the Authority until the repeal of that Act under [section 415][619].
+    *   (b) the Building Act 1991 must be read with all necessary modifications to enable the chief executive to perform the functions and duties, and exercise the powers, of the Authority until the repeal of that Act under [section 415][620].
     
     
 
@@ -11785,7 +11799,7 @@ Miscellaneous provisions
         
     *   (a) section 59 of the former Act remains in force as if this Act had not been passed; and
     
-    *   (b) a certificate of accreditation issued under that section must be treated as if it were a product certificate issued under [section 269][411].
+    *   (b) a certificate of accreditation issued under that section must be treated as if it were a product certificate issued under [section 269][412].
     
     
 
@@ -11799,7 +11813,7 @@ Miscellaneous provisions
     
     *   (b) accordingly, a building consent authority is not required to issue a code compliance certificate for the building work concerned within the period specified in that section.
     
-    Section 433(2)(b): amended, on 14 April 2005, by [section 16(2)(b)][672] of the Building Amendment Act 2005 (2005 No 31).
+    Section 433(2)(b): amended, on 14 April 2005, by [section 16(2)(b)][673] of the Building Amendment Act 2005 (2005 No 31).
 
 ##### 434 Transitional provision for certain entries on certificates of title made under former Act
     
@@ -11809,7 +11823,7 @@ Miscellaneous provisions
     
     *   (b) an entry in the records of the Surveyor-General or the Maori Land Court under section 36(7) of the former Act; and
     
-    *   (c) an entry under [section 641A][767] of the Local Government Act 1974\.
+    *   (c) an entry under [section 641A][768] of the Local Government Act 1974\.
     
     (2) On and from the commencement of this section, an entry to which this section applies must be treated as if it had been made under this Act and the provisions of this Act apply accordingly with all necessary modifications.
 
@@ -11827,9 +11841,9 @@ Miscellaneous provisions
     
     (2) On and from the commencement of this section, a notice to which this section applies must,---
         
-    *   (a) in the case of the notice referred to in subsection (1)(a), be treated as if it were a notice given under [section 164][266] of this Act; and
+    *   (a) in the case of the notice referred to in subsection (1)(a), be treated as if it were a notice given under [section 164][267] of this Act; and
     
-    *   (b) in the case of the notice referred to in subsection (1)(b) or (c) or (d), be treated as if it were a notice given under [section 124(1)(c)][199] of this Act.
+    *   (b) in the case of the notice referred to in subsection (1)(b) or (c) or (d), be treated as if it were a notice given under [section 124(1)(c)][200] of this Act.
     
     
 
@@ -11845,7 +11859,7 @@ Miscellaneous provisions
     
     *   (b) must be read as if---
             
-        *   (i) a code compliance certificate may be issued only if the territorial authority is satisfied that the building work concerned complies with the [building code][668] that applied at the time the building consent was granted; and
+        *   (i) a code compliance certificate may be issued only if the territorial authority is satisfied that the building work concerned complies with the [building code][669] that applied at the time the building consent was granted; and
         
         *   (ii) section 43(4) were omitted.
         
@@ -11877,7 +11891,7 @@ Miscellaneous provisions
     
     (3) For the purposes of subsection (2), [sections 96(2) and (3)][157] and [97 to 99][158] apply with all necessary modifications.
     
-    (4) A reference to a _building certifier_ in this section includes a reference to a building certifier that applied for registration, and is registered, under [section 191][299] as a building consent authority.
+    (4) A reference to a _building certifier_ in this section includes a reference to a building certifier that applied for registration, and is registered, under [section 191][300] as a building consent authority.
 
 ##### 438 Transitional provision for code compliance certificates and compliance schedules issued under former Act
     
@@ -11885,7 +11899,7 @@ Miscellaneous provisions
         
     *   (a) a code compliance certificate issued under section 43 of the former Act has effect as if it had been issued under [section 95][154] of this Act; and
     
-    *   (b) a compliance schedule issued under section 44 of the former Act has effect as if it had been issued under [section 102][165] of this Act.
+    *   (b) a compliance schedule issued under section 44 of the former Act has effect as if it had been issued under [section 102][166] of this Act.
     
     (2) \[Repealed\]
     
@@ -11895,25 +11909,25 @@ Miscellaneous provisions
     
     (5) \[Repealed\]
     
-    Section 438(2): repealed, on 13 March 2012, by [section 87][1017] of the Building Amendment Act 2012 (2012 No 23).
+    Section 438(2): repealed, on 13 March 2012, by [section 87][1020] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 438(3): replaced, on 14 April 2005, by [section 26][1018] of the Building Amendment Act 2005 (2005 No 31).
+    Section 438(3): replaced, on 14 April 2005, by [section 26][1021] of the Building Amendment Act 2005 (2005 No 31).
     
-    Section 438(4): repealed, on 13 March 2012, by [section 87][1017] of the Building Amendment Act 2012 (2012 No 23).
+    Section 438(4): repealed, on 13 March 2012, by [section 87][1020] of the Building Amendment Act 2012 (2012 No 23).
     
-    Section 438(5): repealed, on 13 March 2012, by [section 87][1017] of the Building Amendment Act 2012 (2012 No 23).
+    Section 438(5): repealed, on 13 March 2012, by [section 87][1020] of the Building Amendment Act 2012 (2012 No 23).
 
 ##### 439 Transitional provision for document used in establishing compliance with building code
     
 *   (1) This section applies if, before the commencement of this section,---
         
-    *   (a) a document for use in establishing compliance with the [building code][668] has been prepared or approved under section 49(1) of the former Act; and
+    *   (a) a document for use in establishing compliance with the [building code][669] has been prepared or approved under section 49(1) of the former Act; and
     
     *   (b) in a case where that document has been approved, the approval has not been withdrawn under section 49(6) of that Act.
     
     (2) On and from the commencement of this section, the document referred to in subsection (1) must be treated as if it were an acceptable solution or a verification method.
     
-    Section 439(2): amended, on 28 November 2013, by [section 72][1019] of the Building Amendment Act 2013 (2013 No 100).
+    Section 439(2): amended, on 28 November 2013, by [section 72][1022] of the Building Amendment Act 2013 (2013 No 100).
 
 ##### 440 Transitional provision for applications for approval as building certifier under former Act
     
@@ -11921,7 +11935,7 @@ Miscellaneous provisions
     
     (2) An appeal against a decision to refuse to grant approval as a building certifier that has been commenced under section 52(9) of the former Act, but not completed, before the commencement of this section must be continued and completed in all respects under the former Act as if this Act had not been passed.
     
-    (3) For the purposes of this section and [section 441][651], sections 51 to 53 of the former Act remain in force as if this Act had not been passed.
+    (3) For the purposes of this section and [section 441][652], sections 51 to 53 of the former Act remain in force as if this Act had not been passed.
 
 ##### 441 Transitional provision for applications for continuation or renewal of approval as building certifier under former Act
     
@@ -11933,17 +11947,17 @@ Miscellaneous provisions
 
 ##### 442 Meaning of approved building certifier
     
-*   In [sections 443 to 446][653], _approved building certifier_ means a person---
+*   In [sections 443 to 446][654], _approved building certifier_ means a person---
         
     *   (a) who, immediately before the commencement of this section, held a current approval as a building certifier under section 51 of the former Act; and
     
-    *   (b) whose approval is continued or renewed, and has not expired, under the former Act or [section 441][651].
+    *   (b) whose approval is continued or renewed, and has not expired, under the former Act or [section 441][652].
     
     
 
 ##### 443 Approved building certifiers have until 31 May 2006 to apply to be registered as building consent authority
     
-*   Every approved building certifier has until 31 May 2006 to apply to be registered as a building consent authority under [section 191][299].
+*   Every approved building certifier has until 31 May 2006 to apply to be registered as a building consent authority under [section 191][300].
 
 ##### 444 What happens if approved building certifier applies to be registered as building consent authority by 31 May 2006
     
@@ -11971,19 +11985,19 @@ Miscellaneous provisions
 
 ##### 446 Certain provisions of former Act apply for purposes of sections 444 and 445
     
-*   (1) For the purposes of [sections 444][654] and [445][655],---
+*   (1) For the purposes of [sections 444][655] and [445][656],---
         
     *   (a) sections 54 to 57 of the former Act remain in force as if this Act had not been passed; and
     
-    *   (b) a building consent authority must accept, under [section 19(1)][43], a building certificate issued under section 56 of the former Act as establishing compliance with the [building code][668]; and
+    *   (b) a building consent authority must accept, under [section 19(1)][43], a building certificate issued under section 56 of the former Act as establishing compliance with the [building code][669]; and
     
-    *   (c) a party may apply, under [section 177][284], for a determination in relation to a decision by an approved building certifier to issue, or refuse to issue, a building certificate or a code compliance certificate.
+    *   (c) a party may apply, under [section 177][285], for a determination in relation to a decision by an approved building certifier to issue, or refuse to issue, a building certificate or a code compliance certificate.
     
-    (2) For the purposes of subsection (1)(c), [sections 176 to 190][283] apply with all necessary modifications.
+    (2) For the purposes of subsection (1)(c), [sections 176 to 190][284] apply with all necessary modifications.
     
     (3) In this section, _party_---
         
-    *   (a) has the meaning given by [section 176][283]; and
+    *   (a) has the meaning given by [section 176][284]; and
     
     *   (b) includes an approved building certifier.
     
@@ -11991,7 +12005,7 @@ Miscellaneous provisions
 
 ##### 447 Transitional provision for certificate of accreditation issued under former Act
     
-*   A certificate of accreditation issued under section 59 of the former Act in respect of any proprietary item (being a material, method of construction, design, or component relating to building work) before the commencement of this section must, on and from that commencement, be treated as if it were a product certificate issued under [section 269][411] and the provisions of this Act apply accordingly with all necessary modifications.
+*   A certificate of accreditation issued under section 59 of the former Act in respect of any proprietary item (being a material, method of construction, design, or component relating to building work) before the commencement of this section must, on and from that commencement, be treated as if it were a product certificate issued under [section 269][412] and the provisions of this Act apply accordingly with all necessary modifications.
 
 ##### 448 Transitional provision for proceedings under former Act
     
@@ -12005,11 +12019,11 @@ Miscellaneous provisions
 
 ##### 449 Territorial authorities and regional authorities must apply to be registered by 31 May 2006
     
-*   A territorial authority or a regional authority must, by 31 May 2006, apply to be registered under [section 191][299].
+*   A territorial authority or a regional authority must, by 31 May 2006, apply to be registered under [section 191][300].
 
 ##### 450 When territorial authority may and must act as building consent authority during transition to this Act
     
-*   (1) A territorial authority may, during the period specified in subsection (3), act as a building consent authority (including in relation to a dam) even though the territorial authority has yet to be registered under [section 191][299].
+*   (1) A territorial authority may, during the period specified in subsection (3), act as a building consent authority (including in relation to a dam) even though the territorial authority has yet to be registered under [section 191][300].
     
     (2) \[Repealed\]
     
@@ -12019,13 +12033,13 @@ Miscellaneous provisions
     
     *   (b) ends on the earlier of---
             
-        *   (i) the date on which an application for registration by the territorial authority under [section 191][299] is granted or refused; or
+        *   (i) the date on which an application for registration by the territorial authority under [section 191][300] is granted or refused; or
         
         *   (ii) 31 March 2009\.
         
         
     
-    (3A) A territorial authority that is registered under [section 191][299] must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
+    (3A) A territorial authority that is registered under [section 191][300] must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
     
     (3B) The time is the earlier of the following:
         
@@ -12033,9 +12047,9 @@ Miscellaneous provisions
     
     *   (b) the time at which the regional authority whose region includes the territorial authority's district---
             
-        *   (i) is registered under [section 191][299]; or
+        *   (i) is registered under [section 191][300]; or
         
-        *   (ii) transfers its functions as a building consent authority in relation to dams in that district to another regional authority, under [subpart 4][361] of Part 3 of this Act or [subpart 2][1020] of Part 3 of the Local Government Act 2002\.
+        *   (ii) transfers its functions as a building consent authority in relation to dams in that district to another regional authority, under [subpart 4][362] of Part 3 of this Act or [subpart 2][1023] of Part 3 of the Local Government Act 2002\.
         
         
     
@@ -12047,25 +12061,25 @@ Miscellaneous provisions
     
     (3D) The Governor-General may, by Order in Council, before the date specified in subsection (3)(b)(ii), specify a later date in substitution for that date.
     
-    (3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][967] and must be presented to the House of Representatives under [section 41][968] of that Act.
+    (3E) An order made under subsection (3D) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][970] and must be presented to the House of Representatives under [section 41][971] of that Act.
     
-    (4) This section overrides [sections 14][25] and [193][301].
+    (4) This section overrides [sections 14][25] and [193][302].
     
-    Section 450 heading: amended, on 29 August 2007, by [section 5(4)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450 heading: amended, on 29 August 2007, by [section 5(4)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(2): repealed, on 29 August 2007, by [section 5(5)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450(2): repealed, on 29 August 2007, by [section 5(5)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(3)(b)(ii): amended, on 26 June 2008, by [clause 3][1021] of the Building (Building Consent Authority Transition) Order 2008 (SR 2008/147).
+    Section 450(3)(b)(ii): amended, on 26 June 2008, by [clause 3][1024] of the Building (Building Consent Authority Transition) Order 2008 (SR 2008/147).
     
-    Section 450(3A): inserted, on 29 August 2007, by [section 5(2)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450(3A): inserted, on 29 August 2007, by [section 5(2)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(3B): inserted, on 29 August 2007, by [section 5(2)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450(3B): inserted, on 29 August 2007, by [section 5(2)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(3C): inserted, on 29 August 2007, by [section 5(2)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450(3C): inserted, on 29 August 2007, by [section 5(2)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(3D): inserted, on 29 August 2007, by [section 5(2)][1009] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
+    Section 450(3D): inserted, on 29 August 2007, by [section 5(2)][1012] of the Building (Consent Authorities) Amendment Act 2007 (2007 No 34).
     
-    Section 450(3E): replaced, on 5 August 2013, by [section 77(3)][969] of the Legislation Act 2012 (2012 No 119).
+    Section 450(3E): replaced, on 5 August 2013, by [section 77(3)][972] of the Legislation Act 2012 (2012 No 119).
 
 #### Review of building code
 
@@ -12073,15 +12087,15 @@ Miscellaneous provisions
     
 *   (1) The chief executive must, within 3 years after the commencement of this section,---
         
-    *   (a) review the [building code][668]; and
+    *   (a) review the [building code][669]; and
     
-    *   (b) prepare for the Minister a report on the review that includes recommendations setting out any amendments to the [building code][668] that are necessary or desirable.
+    *   (b) prepare for the Minister a report on the review that includes recommendations setting out any amendments to the [building code][669] that are necessary or desirable.
     
     (2) In conducting the review, the chief executive must consider---
         
-    *   (a) the extent to which the [building code][668] complies with and meets the requirements of this Act; and
+    *   (a) the extent to which the [building code][669] complies with and meets the requirements of this Act; and
     
-    *   (b) the extent to which the [building code][668] is stated in sufficient detail to provide clear guidance on performance standards that buildings must meet to ensure compliance with the building code.
+    *   (b) the extent to which the [building code][669] is stated in sufficient detail to provide clear guidance on performance standards that buildings must meet to ensure compliance with the building code.
     
     
 
@@ -12092,7 +12106,7 @@ Building work for which building consent not required
 
 [s 42(1)(b)][83]
 
-*   Schedule 1: replaced, on 28 November 2013 (but building work for which a building consent was not required under old Schedule 1 but for which a building consent is required under new Schedule 1 does not require a building consent if the building work commenced before this date), by [section 73(1)][1022] of the Building Amendment Act 2013 (2013 No 100).
+*   Schedule 1: replaced, on 28 November 2013 (but building work for which a building consent was not required under old Schedule 1 but for which a building consent is required under new Schedule 1 does not require a building consent if the building work commenced before this date), by [section 73(1)][1025] of the Building Amendment Act 2013 (2013 No 100).
 
 ## Part 1  
 Exempted building work
@@ -12115,9 +12129,9 @@ Exempted building work
     
     *   (b) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
     
-    *   (c) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the [building code][668] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+    *   (c) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the [building code][669] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
     
-    *   (d) sanitary plumbing or drainlaying under the [Plumbers, Gasfitters, and Drainlayers Act 2006][745].
+    *   (d) sanitary plumbing or drainlaying under the [Plumbers, Gasfitters, and Drainlayers Act 2006][746].
     
     
 
@@ -12125,9 +12139,9 @@ Exempted building work
     
 *   Any building work in respect of which the territorial authority or regional authority considers that a building consent is not necessary for the purposes of this Act because the authority considers that---
         
-    *   (a) the completed building work is likely to comply with the [building code][668]; or
+    *   (a) the completed building work is likely to comply with the [building code][669]; or
     
-    *   (b) if the completed building work does not comply with the [building code][668], it is unlikely to endanger people or any building, whether on the same land or on other property.
+    *   (b) if the completed building work does not comply with the [building code][669], it is unlikely to endanger people or any building, whether on the same land or on other property.
     
     
 
@@ -12197,7 +12211,7 @@ Exempted building work
     
 *   Building work in connection with a window (including a roof window) or an exterior doorway in an existing dwelling that is not more than 2 storeys or in an existing outbuilding that is not more than 2 storeys, except,---
         
-    *   (a) in the case of replacement, if the window or doorway being replaced has failed to satisfy the provisions of the [building code][668] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+    *   (a) in the case of replacement, if the window or doorway being replaced has failed to satisfy the provisions of the [building code][669] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
     
     *   (b) if the building work modifies or affects any specified system.
     
@@ -12223,7 +12237,7 @@ Exempted building work
         
         
     
-    *   (d) does not include sanitary plumbing or drainlaying under the [Plumbers, Gasfitters, and Drainlayers Act 2006][745].
+    *   (d) does not include sanitary plumbing or drainlaying under the [Plumbers, Gasfitters, and Drainlayers Act 2006][746].
     
     
 
@@ -12345,7 +12359,7 @@ Exempted building work
     
 *   (1) Building work in connection with a fence or hoarding in each case not exceeding 2.5 metres in height above the supporting ground.
     
-    (2) Subclause (1) does not include a fence as defined in [section 2][695] of the Fencing of Swimming Pools Act 1987\.
+    (2) Subclause (1) does not include a fence as defined in [section 2][696] of the Fencing of Swimming Pools Act 1987\.
 
 ##### 22 Dams (excluding large dams)
     
@@ -12353,7 +12367,7 @@ Exempted building work
 
 ##### 23 Tanks and pools (excluding swimming pools)
     
-*   Building work in connection with a tank or pool and any structure in support of the tank or pool (except a swimming pool as defined in [section 2][695] of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required, that---
+*   Building work in connection with a tank or pool and any structure in support of the tank or pool (except a swimming pool as defined in [section 2][696] of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required, that---
         
     *   (a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
     
@@ -12452,9 +12466,9 @@ Sanitary plumbing and drainlaying carried out by person authorised under Plumber
         
     *   (a) complete or substantial replacement of a specified system; or
     
-    *   (b) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the [building code][668] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+    *   (b) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the [building code][669] for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
     
-    *   (c) repair or replacement of any water heater (unless permitted under [clauses 36 to 38][1023]).
+    *   (c) repair or replacement of any water heater (unless permitted under [clauses 36 to 38][1026]).
     
     
 
@@ -12525,14 +12539,14 @@ Building work for which design is carried out or reviewed by chartered professio
 
 ##### 43 Removal of sign, plinth, retaining wall, or public playground equipment
     
-*   The removal of any of the structures referred to in [clauses 39 to 42][1024], whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
+*   The removal of any of the structures referred to in [clauses 39 to 42][1027], whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
 
 ---
 
 ## Schedule 2  
 Buildings in respect of which requirement for provision of access and facilities for persons with disabilities applies
 
-[s 118(2)][189]
+[s 118(2)][190]
 
 The buildings in respect of which the requirement for the provision of access and facilities for persons with disabilities apply are, without limitation, as follows:
     
@@ -12595,97 +12609,97 @@ Compare: 1991 No 150 s 47A(4)
 ## Schedule 3  
 Further provisions applying to Board
 
-[s 346][523]
+[s 346][524]
 
 ## Contents
 
-[_Members' appointment_][1025]
+[_Members' appointment_][1028]
 
-[1][1026][][1026][Method of appointment][1026]
+[1][1029][][1029][Method of appointment][1029]
 
-[2][1027][][1027][Qualifications of members][1027]
+[2][1030][][1030][Qualifications of members][1030]
 
-[3][1028][][1028][Term of appointment][1028]
+[3][1031][][1031][Term of appointment][1031]
 
-[4][1029][][1029][Validity of members' acts][1029]
+[4][1032][][1032][Validity of members' acts][1032]
 
-[5][1030][][1030][Position where concurrent office][1030]
+[5][1033][][1033][Position where concurrent office][1033]
 
-[_Resignation and removal of members_][1031]
+[_Resignation and removal of members_][1034]
 
-[6][1032][][1032][Resignation][1032]
+[6][1035][][1035][Resignation][1035]
 
-[7][1033][][1033][Removal from office][1033]
+[7][1036][][1036][Removal from office][1036]
 
-[8][1034][][1034][No compensation for ceasing to hold office][1034]
+[8][1037][][1037][No compensation for ceasing to hold office][1037]
 
-[9][1035][][1035][Members ceasing to hold office][1035]
+[9][1038][][1038][Members ceasing to hold office][1038]
 
-[_Vacancies in membership of Board_][1036]
+[_Vacancies in membership of Board_][1039]
 
-[10][1037][][1037][Position where vacancy in membership][1037]
+[10][1040][][1040][Position where vacancy in membership][1040]
 
-[11][1038][][1038][Effect of vacancy in membership][1038]
+[11][1041][][1041][Effect of vacancy in membership][1041]
 
-[_Duties of members_][1039]
+[_Duties of members_][1042]
 
-[12][1040][][1040][Accountability for duties][1040]
+[12][1043][][1043][Accountability for duties][1043]
 
-[13][1041][][1041][Duties of members][1041]
+[13][1044][][1044][Duties of members][1044]
 
-[14][1042][][1042][Collective duties of Board][1042]
+[14][1045][][1045][Collective duties of Board][1045]
 
-[_Disclosure of interests of members in matters of Board_][1043]
+[_Disclosure of interests of members in matters of Board_][1046]
 
-[15][1044][][1044][Meaning of interested][1044]
+[15][1047][][1047][Meaning of interested][1047]
 
-[16][1045][][1045][Obligation to disclose interest][1045]
+[16][1048][][1048][Obligation to disclose interest][1048]
 
-[17][1046][][1046][Method of disclosure of interest][1046]
+[17][1049][][1049][Method of disclosure of interest][1049]
 
-[18][1047][][1047][Consequences of interest][1047]
+[18][1050][][1050][Consequences of interest][1050]
 
-[_Confidentiality of information_][1048]
+[_Confidentiality of information_][1051]
 
-[19][1049][][1049][Confidentiality of information][1049]
+[19][1052][][1052][Confidentiality of information][1052]
 
-[_Liability of Board and others_][1050]
+[_Liability of Board and others_][1053]
 
-[20][1051][][1051][Liability of Board and others][1051]
+[20][1054][][1054][Liability of Board and others][1054]
 
-[_Members' remuneration and allowances_][1052]
+[_Members' remuneration and allowances_][1055]
 
-[21][1053][][1053][Members' remuneration and allowances][1053]
+[21][1056][][1056][Members' remuneration and allowances][1056]
 
-[_Chairperson and deputy chairperson_][1054]
+[_Chairperson and deputy chairperson_][1057]
 
-[22][1055][][1055][Appointment][1055]
+[22][1058][][1058][Appointment][1058]
 
-[23][1056][][1056][Term of appointment][1056]
+[23][1059][][1059][Term of appointment][1059]
 
-[24][1057][][1057][Resignation][1057]
+[24][1060][][1060][Resignation][1060]
 
-[25][1058][][1058][Removal][1058]
+[25][1061][][1061][Removal][1061]
 
-[26][1059][][1059][Performance and exercise of chairperson's functions, duties, and powers during vacancy][1059]
+[26][1062][][1062][Performance and exercise of chairperson's functions, duties, and powers during vacancy][1062]
 
-[_Procedures of Board_][1060]
+[_Procedures of Board_][1063]
 
-[27][1061][][1061][Procedure generally][1061]
+[27][1064][][1064][Procedure generally][1064]
 
-[28][1062][][1062][Notice of meetings][1062]
+[28][1065][][1065][Notice of meetings][1065]
 
-[29][1063][][1063][Methods of holding meetings][1063]
+[29][1066][][1066][Methods of holding meetings][1066]
 
-[30][1064][][1064][Quorum][1064]
+[30][1067][][1067][Quorum][1067]
 
-[31][1065][][1065][Presiding at meetings][1065]
+[31][1068][][1068][Presiding at meetings][1068]
 
-[32][1066][][1066][Voting at meetings][1066]
+[32][1069][][1069][Voting at meetings][1069]
 
-[33][1067][][1067][Unanimous written resolutions][1067]
+[33][1070][][1070][Unanimous written resolutions][1070]
 
-[34][958][][958][Appointment of subcommittee to deal with complaints and licensing appeals][958]
+[34][961][][961][Appointment of subcommittee to deal with complaints and licensing appeals][961]
 
 ---
 
@@ -12705,7 +12719,7 @@ Further provisions applying to Board
         
         *   (ii) certified in writing that he or she is not disqualified from being a member; and
         
-        *   (iii) disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 15 to 18][1044] at the time of the certificate.
+        *   (iii) disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 15 to 18][1047] at the time of the certificate.
         
         
     
@@ -12719,15 +12733,15 @@ Further provisions applying to Board
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][1068], or the [Securities Act 1978][1069], or the [Securities Markets Act 1988][1070], or the [Takeovers Act 1993][1071]:
+    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][1071], or the [Securities Act 1978][1072], or the [Securities Markets Act 1988][1073], or the [Takeovers Act 1993][1074]:
     
-    *   (c) a person who is subject to a property order made under [section 10][1072], [section 11][1073], [section 12][1074], [section 30][1075], or [section 31][1076] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][1077] of that Act:
+    *   (c) a person who is subject to a property order made under [section 10][1075], [section 11][1076], [section 12][1077], [section 30][1078], or [section 31][1079] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][1080] of that Act:
     
     *   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
     
-    *   (e) a person who has failed to disclose all interests under [clause 1][1026].
+    *   (e) a person who has failed to disclose all interests under [clause 1][1029].
     
-    Schedule 3 clause 2(2)(b): replaced, on 25 October 2006, by [section 25][1078] of the Securities Amendment Act 2006 (2006 No 46).
+    Schedule 3 clause 2(2)(b): replaced, on 25 October 2006, by [section 25][1081] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 3 Term of appointment
     
@@ -12743,7 +12757,7 @@ Further provisions applying to Board
     
     *   (c) the Governor-General informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed at that time.
     
-    (4) This clause is subject to [clause 9][1035].
+    (4) This clause is subject to [clause 9][1038].
 
 ##### 4 Validity of members' acts
     
@@ -12791,11 +12805,11 @@ Further provisions applying to Board
     
 *   A member ceases to hold office if he or she---
         
-    *   (a) resigns in accordance with [clause 6][1032]; or
+    *   (a) resigns in accordance with [clause 6][1035]; or
     
-    *   (b) is removed from office in accordance with [clause 7][1033] or any other enactment; or
+    *   (b) is removed from office in accordance with [clause 7][1036] or any other enactment; or
     
-    *   (c) becomes disqualified from being a member under [clause 2][1027]; or
+    *   (c) becomes disqualified from being a member under [clause 2][1030]; or
     
     *   (d) otherwise ceases to hold office in accordance with any enactment.
     
@@ -12819,7 +12833,7 @@ Further provisions applying to Board
     
 *   (1) The duties of members of the Board under this schedule are duties owed to the Minister, and do not provide any ground of action for any other person.
     
-    (2) If the Board breaches any of its duties under [clause 14][1042],---
+    (2) If the Board breaches any of its duties under [clause 14][1045],---
         
     *   (a) each member of the Board is accountable to the Minister for the breach; and
     
@@ -12871,15 +12885,15 @@ Further provisions applying to Board
     
     (2) However, a member is not interested in a matter merely because he or she is a member of a professional building industry body.
     
-    Schedule 3 clause 15(1)(d): amended, on 26 April 2005, by [section 7][1079] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Schedule 3 clause 15(1)(d): amended, on 26 April 2005, by [section 7][1082] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 16 Obligation to disclose interest
     
-*   A member who is interested in a matter relating to the Board must disclose the nature of the interest in accordance with [clause 17][1046] as soon as practicable after the member becomes aware that he or she is interested.
+*   A member who is interested in a matter relating to the Board must disclose the nature of the interest in accordance with [clause 17][1049] as soon as practicable after the member becomes aware that he or she is interested.
 
 ##### 17 Method of disclosure of interest
     
-*   (1) If [clause 16][1045] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
+*   (1) If [clause 16][1048] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
         
     *   (a) the chairperson or, if there is no chairperson, the deputy chairperson; or
     
@@ -12915,7 +12929,7 @@ Further provisions applying to Board
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clauses 16][1045] and [17][1046].
+    *   (d) in complying with [clauses 16][1048] and [17][1049].
     
     (2) A member may disclose, make use of, or act on the information if---
         
@@ -12935,9 +12949,9 @@ Further provisions applying to Board
 
 ##### 21 Members' remuneration and allowances
     
-*   (1) The Board is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][848].
+*   (1) The Board is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][851].
     
-    (2) There may be paid, out of public money to the members of the Board, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][848], and the provisions of that Act apply accordingly.
+    (2) There may be paid, out of public money to the members of the Board, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][851], and the provisions of that Act apply accordingly.
 
 #### _Chairperson and deputy chairperson_
 
@@ -13053,7 +13067,7 @@ Further provisions applying to Board
 
 ##### 34 Appointment of subcommittee to deal with complaints and licensing appeals
     
-*   (1) The Board may appoint 1 or more subcommittees of the Board and by written notice may delegate to a subcommittee any or all of its functions under [section 343(b) and (c)][520].
+*   (1) The Board may appoint 1 or more subcommittees of the Board and by written notice may delegate to a subcommittee any or all of its functions under [section 343(b) and (c)][521].
     
     (2) A subcommittee must have no fewer than 3 members.
     
@@ -13063,14 +13077,14 @@ Further provisions applying to Board
     
     (5) A delegation under this clause may be revoked at any time, and the delegation of a function of the Board does not prevent the Board from exercising that function itself.
     
-    Schedule 3 clause 34: inserted, on 13 March 2012, by [section 90][1080] of the Building Amendment Act 2012 (2012 No 23).
+    Schedule 3 clause 34: inserted, on 13 March 2012, by [section 90][1083] of the Building Amendment Act 2012 (2012 No 23).
 
 ---
 
 ## Schedule 4  
 Enactments amended
 
-[s 414][618]
+[s 414][619]
 
 ## Part 1  
 Amendments to other Acts (other than local Acts)
@@ -13085,23 +13099,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][836]._
+_Amendment(s) incorporated in the [Act(s)][839]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][1081]._
+_Amendment(s) incorporated in the [Act(s)][1084]._
 
 ##### Civil Defence Emergency Management Act 2002 (2002 No 33)
 
-_Amendment(s) incorporated in the [Act(s)][1082]._
+_Amendment(s) incorporated in the [Act(s)][1085]._
 
 ##### Costs in Criminal Cases Act 1967 (1967 No 129)
 
-_Amendment(s) incorporated in the [Act(s)][1083]._
+_Amendment(s) incorporated in the [Act(s)][1086]._
 
 ##### Crown Organisations (Criminal Liability) Act 2002 (2002 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][673]._
+_Amendment(s) incorporated in the [Act(s)][674]._
 
 ##### Dairy Industry Act 1952 (1952 No 55)
 
@@ -13109,47 +13123,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][1084]._
+_Amendment(s) incorporated in the [Act(s)][1087]._
 
 ##### Earthquake Commission Act 1993 (1993 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][1085]._
+_Amendment(s) incorporated in the [Act(s)][1088]._
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][1086]._
+_Amendment(s) incorporated in the [Act(s)][1089]._
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][715]._
+_Amendment(s) incorporated in the [Act(s)][716]._
 
 ##### Fencing of Swimming Pools Act 1987 (1987 No 178)
 
-_Amendment(s) incorporated in the [Act(s)][1087]._
+_Amendment(s) incorporated in the [Act(s)][1090]._
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][1088]._
+_Amendment(s) incorporated in the [Act(s)][1091]._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][716]._
+_Amendment(s) incorporated in the [Act(s)][717]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][744]._
+_Amendment(s) incorporated in the [Act(s)][745]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][1089]._
+_Amendment(s) incorporated in the [Act(s)][1092]._
 
 ##### Health and Safety in Employment Act 1992 (1992 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][698]._
+_Amendment(s) incorporated in the [Act(s)][699]._
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][1090]._
+_Amendment(s) incorporated in the [Act(s)][1093]._
 
 ##### Hospitals Act 1957 (1957 No 40)
 
@@ -13157,19 +13171,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][1091]._
+_Amendment(s) incorporated in the [Act(s)][1094]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][1092]._
+_Amendment(s) incorporated in the [Act(s)][1095]._
 
 ##### Local Government Act 2002 (2002 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][735]._
+_Amendment(s) incorporated in the [Act(s)][736]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][869]._
+_Amendment(s) incorporated in the [Act(s)][872]._
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -13177,54 +13191,54 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1093]._
+_Amendment(s) incorporated in the [Act(s)][1096]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][1094]._
+_Amendment(s) incorporated in the [Act(s)][1097]._
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][1095]._
+_Amendment(s) incorporated in the [Act(s)][1098]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][1096]._
+_Amendment(s) incorporated in the [Act(s)][1099]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][874]._
+_Amendment(s) incorporated in the [Act(s)][877]._
 
 ##### Radiation Protection Act 1965 (1965 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][1097]._
+_Amendment(s) incorporated in the [Act(s)][1100]._
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][684]._
+_Amendment(s) incorporated in the [Act(s)][685]._
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][1098]._
+_Amendment(s) incorporated in the [Act(s)][1101]._
 
 ##### Sentencing Act 2002 (2002 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1099]._
+_Amendment(s) incorporated in the [Act(s)][1102]._
 
 ##### 
 
-Schedule 4 Part 1 **Weathertight Homes Resolution Services Act 2002**: repealed, on 1 April 2007, by [section 127(1)(b)][991] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
+Schedule 4 Part 1 **Weathertight Homes Resolution Services Act 2002**: repealed, on 1 April 2007, by [section 127(1)(b)][994] of the Weathertight Homes Resolution Services Act 2006 (2006 No 84).
 
 ## Part 2  
 Local Acts amended
 
 ##### Auckland Improvement Trust Act 1971 (1971 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][1100]._
+_Amendment(s) incorporated in the [Act(s)][1103]._
 
 ##### Summit Road (Canterbury) Protection Act 2001 (2001 No 3)
 
-_Amendment(s) incorporated in the [Act(s)][1101]._
+_Amendment(s) incorporated in the [Act(s)][1104]._
 
 ## Part 3  
 Regulations amended
@@ -13235,23 +13249,23 @@ _Amendment(s) incorporated in the regulations._
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][1102]._
+_Amendment(s) incorporated in the [rules][1105]._
 
 ##### Domestic Violence Act Commencement Order 1998 (SR 1998/343)
 
-_Amendment(s) incorporated in the [order(s)][1103]._
+_Amendment(s) incorporated in the [order(s)][1106]._
 
 ##### Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 
-_Amendment(s) incorporated in the [regulations][1104]._
+_Amendment(s) incorporated in the [regulations][1107]._
 
 ##### Education (Early Childhood Centres) Regulations 1998 (SR 1998/85)
 
-_Amendment(s) incorporated in the [regulations][1105]._
+_Amendment(s) incorporated in the [regulations][1108]._
 
 ##### Electricity Regulations 1997 (SR 1997/60)
 
-_Amendment(s) incorporated in the [regulations][1106]._
+_Amendment(s) incorporated in the [regulations][1109]._
 
 ##### Fire Safety and Evacuation of Buildings Regulations 1992 (SR 1992/361)
 
@@ -13259,7 +13273,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Gas Regulations 1993 (SR 1993/76)
 
-_Amendment(s) incorporated in the [regulations][1107]._
+_Amendment(s) incorporated in the [regulations][1110]._
 
 ##### Hospitals Regulations 1993 (SR 1993/156)
 
@@ -13271,7 +13285,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Rating Valuations (Local Authority Charges) Regulations 1999 (SR 1999/146)
 
-_Amendment(s) incorporated in the [regulations][1108]._
+_Amendment(s) incorporated in the [regulations][1111]._
 
 #### 
 
@@ -13285,53 +13299,55 @@ _Amendment(s) incorporated in the [regulations][1108]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1109] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1110] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1112] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1113] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1111] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1112] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1114] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1115] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][733]
+*   Local Government Act 2002 Amendment Act 2014 (2014 No 55): [section 78][789]
     
-    [Building Amendment Act 2013][1113] (2013 No 100)
+    Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][734]
     
-    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][694]
+    [Building Amendment Act 2013][1116] (2013 No 100)
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][969]
+    Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][695]
     
-    [Building Amendment Act 2012][1114] (2012 No 23)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][972]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][722]
+    [Building Amendment Act 2012][1117] (2012 No 23)
     
-    Limitation Act 2010 (2010 No 110): [section 58][986]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][723]
     
-    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 4][757]
+    Limitation Act 2010 (2010 No 110): [section 58][989]
     
-    [Building Amendment Act 2010][1115] (2010 No 50)
+    Affordable Housing: Enabling Territorial Authorities Act Repeal Act 2010 (2010 No 101): [section 4][758]
     
-    [Building Amendment Act 2009][1116] (2009 No 25)
+    [Building Amendment Act 2010][1118] (2010 No 50)
     
-    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][693]
+    [Building Amendment Act 2009][1119] (2009 No 25)
     
-    [Building (Building Consent Authority Transition) Order 2008][1117] (SR 2008/147)
+    Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][694]
     
-    [Building Amendment Act 2008][1118] (2008 No 4)
+    [Building (Building Consent Authority Transition) Order 2008][1120] (SR 2008/147)
     
-    [Building (Consent Authorities) Amendment Act 2007][1119] (2007 No 34)
+    [Building Amendment Act 2008][1121] (2008 No 4)
     
-    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(1)][991]
+    [Building (Consent Authorities) Amendment Act 2007][1122] (2007 No 34)
     
-    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][690]
+    Weathertight Homes Resolution Services Act 2006 (2006 No 84): [section 127(1)][994]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][1078]
+    Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74): [section 185][691]
     
-    [Building Amendment Act 2005][1120] (2005 No 31)
+    Securities Amendment Act 2006 (2006 No 46): [section 25][1081]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1079]
+    [Building Amendment Act 2005][1123] (2005 No 31)
     
-    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][689]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][1082]
+    
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][690]
 
 
 
@@ -13496,963 +13512,966 @@ _Amendment(s) incorporated in the [regulations][1108]._
 [158]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306856
 [159]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306857
 [160]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306858
-[161]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220566
-[162]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306859
-[163]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306860
-[164]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306862
-[165]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306863
-[166]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357139
-[167]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306864
-[168]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306865
-[169]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220569
-[170]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306866
-[171]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306867
-[172]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306868
-[173]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306869
-[174]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306870
-[175]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306871
-[176]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306872
-[177]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306873
-[178]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306874
-[179]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306875
-[180]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306877
-[181]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306878
-[182]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306879
-[183]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306880
-[184]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306882
-[185]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306884
-[186]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306886
-[187]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306888
-[188]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306889
-[189]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306890
-[190]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306891
-[191]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306893
-[192]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306894
-[193]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306895
-[194]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306896
-[195]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5767794
-[196]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306897
-[197]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306898
-[198]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306899
-[199]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307300
-[200]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307301
-[201]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307302
-[202]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307303
-[203]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307304
-[204]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769524
-[205]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307305
-[206]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307306
-[207]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307307
-[208]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307308
-[209]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307309
-[210]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769531
-[211]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307310
-[212]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307311
-[213]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307312
-[214]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220578
-[215]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220579
-[216]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769542
-[217]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769543
-[218]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769544
-[219]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307313
-[220]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307314
-[221]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769556
-[222]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769558
-[223]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769559
-[224]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769560
-[225]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307315
-[226]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770100
-[227]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307316
-[228]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307317
-[229]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307318
-[230]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307319
-[231]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307320
-[232]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307321
-[233]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307322
-[234]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307323
-[235]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307324
-[236]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307325
-[237]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307326
-[238]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307327
-[239]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307328
-[240]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307329
-[241]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770113
-[242]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770114
-[243]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307330
-[244]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307331
-[245]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307332
-[246]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307333
-[247]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220584
-[248]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307334
-[249]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307335
-[250]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307336
-[251]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307337
-[252]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220589
-[253]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770145
-[254]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307338
-[255]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307339
-[256]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307340
-[257]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307341
-[258]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307342
-[259]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307343
-[260]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307344
-[261]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307345
-[262]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307346
-[263]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307347
-[264]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307348
-[265]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307349
-[266]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307354
-[267]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307355
-[268]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307357
-[269]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307361
-[270]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307362
-[271]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307363
-[272]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307364
-[273]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307365
-[274]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357170
-[275]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307366
-[276]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307367
-[277]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307368
-[278]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307369
-[279]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307370
-[280]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307371
-[281]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307372
-[282]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM2040306
-[283]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307373
-[284]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307374
-[285]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307376
-[286]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307377
-[287]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307378
-[288]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307379
-[289]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307380
-[290]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307381
-[291]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307382
-[292]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307383
-[293]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307384
-[294]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307385
-[295]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307386
-[296]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307387
-[297]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307388
-[298]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307389
-[299]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307390
-[300]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307392
-[301]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307395
-[302]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307398
-[303]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307399
-[304]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307800
-[305]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307803
-[306]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307812
-[307]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307817
-[308]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307820
-[309]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307826
-[310]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307828
-[311]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307830
-[312]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307841
-[313]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307842
-[314]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307843
-[315]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307844
-[316]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307845
-[317]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770175
-[318]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770176
-[319]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307846
-[320]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307847
-[321]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307848
-[322]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307849
-[323]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307850
-[324]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307851
-[325]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307852
-[326]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307853
-[327]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307856
-[328]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307857
-[329]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307858
-[330]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307859
-[331]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307860
-[332]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307861
-[333]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307862
-[334]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307863
-[335]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307864
-[336]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307865
-[337]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307866
-[338]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307867
-[339]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307872
-[340]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307873
-[341]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307874
-[342]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307875
-[343]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307876
-[344]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307877
-[345]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307878
-[346]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307879
-[347]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307880
-[348]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307881
-[349]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307882
-[350]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307883
-[351]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307884
-[352]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307885
-[353]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307886
-[354]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307887
-[355]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307888
-[356]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307889
-[357]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307890
-[358]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307892
-[359]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307893
-[360]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307894
-[361]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307895
-[362]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307896
-[363]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307897
-[364]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307899
-[365]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308200
-[366]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308203
-[367]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308204
-[368]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308205
-[369]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308206
-[370]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308207
-[371]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308208
-[372]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308209
-[373]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308210
-[374]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308211
-[375]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308212
-[376]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221609
-[377]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221610
-[378]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308214
-[379]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308215
-[380]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308217
-[381]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308218
-[382]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308220
-[383]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308221
-[384]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308225
-[385]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308227
-[386]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308228
-[387]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308229
-[388]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308230
-[389]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308231
-[390]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221617
-[391]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221618
-[392]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308232
-[393]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308233
-[394]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308234
-[395]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308235
-[396]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308236
-[397]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308237
-[398]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308238
-[399]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308239
-[400]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308240
-[401]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221625
-[402]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221626
-[403]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308241
-[404]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308242
-[405]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308243
-[406]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308244
-[407]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308245
-[408]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308246
-[409]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308247
-[410]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308248
-[411]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308249
-[412]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308250
-[413]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308251
-[414]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308252
-[415]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308253
-[416]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308254
-[417]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308255
-[418]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308257
-[419]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308259
-[420]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308260
-[421]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308261
-[422]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308262
-[423]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308263
-[424]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308264
-[425]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308265
-[426]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308266
-[427]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308267
-[428]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357803
-[429]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357804
-[430]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357805
-[431]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357806
-[432]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357807
-[433]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308268
-[434]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308269
-[435]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308270
-[436]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308271
-[437]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221645
-[438]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221646
-[439]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308292
-[440]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308293
-[441]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308294
-[442]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308295
-[443]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308296
-[444]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308297
-[445]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308298
-[446]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308299
-[447]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308600
-[448]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308601
-[449]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308602
-[450]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308603
-[451]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308604
-[452]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308605
-[453]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308606
-[454]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308607
-[455]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308608
-[456]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308609
-[457]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308610
-[458]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308611
-[459]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308612
-[460]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308613
-[461]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308614
-[462]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308615
-[463]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308616
-[464]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308617
-[465]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308618
-[466]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308619
-[467]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308620
-[468]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308621
-[469]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308622
-[470]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308623
-[471]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308624
-[472]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308625
-[473]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308626
-[474]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308627
-[475]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308628
-[476]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308629
-[477]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308630
-[478]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308631
-[479]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308632
-[480]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308635
-[481]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308636
-[482]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308637
-[483]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308638
-[484]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358304
-[485]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358305
-[486]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358306
-[487]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308639
-[488]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308640
-[489]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308641
-[490]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308642
-[491]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308643
-[492]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308644
-[493]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308645
-[494]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308646
-[495]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308647
-[496]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308648
-[497]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308649
-[498]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308650
-[499]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308651
-[500]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308652
-[501]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308653
-[502]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308654
-[503]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308655
-[504]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308656
-[505]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308657
-[506]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308658
-[507]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308659
-[508]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308660
-[509]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308661
-[510]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308662
-[511]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308663
-[512]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308664
-[513]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308665
-[514]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308666
-[515]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308667
-[516]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308668
-[517]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308669
-[518]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308670
-[519]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308671
-[520]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308672
-[521]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308673
-[522]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308674
-[523]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308675
-[524]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308676
-[525]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308677
-[526]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308678
-[527]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308679
-[528]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308680
-[529]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308681
-[530]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308682
-[531]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308683
-[532]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308684
-[533]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308685
-[534]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308686
-[535]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308687
-[536]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308688
-[537]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308689
-[538]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308690
-[539]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308691
-[540]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308692
-[541]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308693
-[542]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308694
-[543]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308695
-[544]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308696
-[545]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308697
-[546]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308699
-[547]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309001
-[548]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309003
-[549]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309005
-[550]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309007
-[551]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309009
-[552]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309010
-[553]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309011
-[554]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309012
-[555]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309013
-[556]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309014
-[557]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309015
-[558]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309016
-[559]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309017
-[560]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309022
-[561]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770902
-[562]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770904
-[563]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770905
-[564]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770906
-[565]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309023
-[566]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309024
-[567]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309025
-[568]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309026
-[569]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309027
-[570]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309028
-[571]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309029
-[572]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309030
-[573]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309031
-[574]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309032
-[575]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309033
-[576]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309034
-[577]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309035
-[578]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309036
-[579]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309037
-[580]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309038
-[581]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309039
-[582]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309040
-[583]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309041
-[584]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309042
-[585]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309043
-[586]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309044
-[587]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309047
-[588]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309055
-[589]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309056
-[590]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309057
-[591]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309058
-[592]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309059
-[593]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309060
-[594]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309061
-[595]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309062
-[596]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309063
-[597]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309065
-[598]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309066
-[599]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309067
-[600]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309068
-[601]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358341
-[602]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358344
-[603]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309069
-[604]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM2261315
-[605]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309071
-[606]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309072
-[607]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309073
-[608]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309074
-[609]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309075
-[610]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309076
-[611]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309077
-[612]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309078
-[613]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309083
-[614]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309086
-[615]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309087
-[616]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309088
-[617]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309089
-[618]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309090
-[619]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309091
-[620]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309092
-[621]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309093
-[622]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309094
-[623]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309096
-[624]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309097
-[625]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309098
-[626]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309099
-[627]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309300
-[628]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309301
-[629]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309302
-[630]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309303
-[631]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309304
-[632]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309305
-[633]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309306
-[634]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309307
-[635]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309308
-[636]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309309
-[637]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309310
-[638]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309311
-[639]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309312
-[640]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309313
-[641]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309314
-[642]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309315
-[643]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309316
-[644]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309318
-[645]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309319
-[646]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309320
-[647]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309321
-[648]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309322
-[649]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309325
-[650]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309326
-[651]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309327
-[652]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309328
-[653]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309329
-[654]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309330
-[655]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309331
-[656]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309332
-[657]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309333
-[658]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309334
-[659]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309335
-[660]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309336
-[661]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309337
-[662]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309338
-[663]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770963
-[664]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309341
-[665]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309342
-[666]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309388
-[667]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149747
-[668]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162576
-[669]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387716
-[670]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149748
-[671]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387718
-[672]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340868
-[673]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156440
-[674]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM81045
-[675]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156449
-[676]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM204978
-[677]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM82442
-[678]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM396786
-[679]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124974
-[680]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM195581
-[681]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM281866
-[682]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM170881
-[683]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM174261
-[684]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM230264
-[685]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171830
-[686]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957243
-[687]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340844
-[688]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149749
-[689]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM329600
-[690]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397798
-[691]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387719
-[692]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524719
-[693]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1382846
-[694]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4929207
-[695]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124447
-[696]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM433619
-[697]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340849
-[698]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM278828
-[699]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM336955
-[700]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM381228
-[701]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM385665
-[702]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149766
-[703]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387765
-[704]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM269031
-[705]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818957
-[706]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524724
-[707]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387766
-[708]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957258
-[709]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340850
-[710]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149767
-[711]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387767
-[712]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5739200
-[713]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818916
-[714]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524725
-[715]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM281857
-[716]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM285411
-[717]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957259
-[718]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524726
-[719]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957260
-[720]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957261
-[721]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957263
-[722]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360714
-[723]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957269
-[724]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957271
-[725]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957272
-[726]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524727
-[727]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818919
-[728]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3841809
-[729]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524737
-[730]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330804
-[731]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM433216
-[732]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524738
-[733]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4005646
-[734]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149769
-[735]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM170872
-[736]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524739
-[737]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524742
-[738]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524743
-[739]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957273
-[740]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957274
-[741]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770964
-[742]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771801
-[743]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771811
-[744]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM381221
-[745]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM396777
-[746]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397089
-[747]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397090
-[748]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397093
-[749]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397101
-[750]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957275
-[751]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524745
-[752]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3841812
-[753]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818921
-[754]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524746
-[755]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524748
-[756]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330805
-[757]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2925108
-[758]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524749
-[759]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340854
-[760]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387823
-[761]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340855
-[762]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149772
-[763]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524750
-[764]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149773
-[765]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149774
-[766]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524751
-[767]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM423347
-[768]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524752
-[769]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524753
-[770]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524755
-[771]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524756
-[772]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM271641
-[773]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM423362
-[774]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149775
-[775]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387837
-[776]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387839
-[777]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387840
-[778]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387841
-[779]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387843
-[780]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387846
-[781]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818923
-[782]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173823
-[783]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387867
-[784]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149780
-[785]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340857
-[786]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330806
-[787]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149782
-[788]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340858
-[789]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387870
-[790]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387871
-[791]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387873
-[792]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387875
-[793]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957277
-[794]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149785
-[795]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387876
-[796]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387877
-[797]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330807
-[798]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387878
-[799]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149787
-[800]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387879
-[801]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387880
-[802]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149788
-[803]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330808
-[804]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818924
-[805]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149789
-[806]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818925
-[807]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340862
-[808]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM237221
-[809]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818926
-[810]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM128174
-[811]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957278
-[812]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149790
-[813]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957279
-[814]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387881
-[815]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957280
-[816]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957282
-[817]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957283
-[818]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM271228
-[819]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957285
-[820]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957287
-[821]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957288
-[822]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957289
-[823]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957291
-[824]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM172328
-[825]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957293
-[826]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149791
-[827]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957296
-[828]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957297
-[829]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957299
-[830]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957605
-[831]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957607
-[832]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957608
-[833]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957609
-[834]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149794
-[835]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818931
-[836]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144380
-[837]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818934
-[838]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957610
-[839]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149795
-[840]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149797
-[841]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149798
-[842]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957611
-[843]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149800
-[844]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340866
-[845]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149801
-[846]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149802
-[847]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387883
-[848]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264952
-[849]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387885
-[850]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040005
-[851]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149804
-[852]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149805
-[853]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957614
-[854]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957615
-[855]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957616
-[856]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957617
-[857]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818935
-[858]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387887
-[859]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149806
-[860]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524757
-[861]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040007
-[862]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040008
-[863]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040009
-[864]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040010
-[865]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340870
-[866]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524758
-[867]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149807
-[868]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387888
-[869]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM122241
-[870]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM123065
-[871]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957619
-[872]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330809
-[873]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM131393
-[874]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM45426
-[875]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173448
-[876]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387891
-[877]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173449
-[878]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957620
-[879]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM176007
-[880]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149808
-[881]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387892
-[882]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330810
-[883]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340871
-[884]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340872
-[885]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330811
-[886]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149809
-[887]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149812
-[888]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149813
-[889]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149814
-[890]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149817
-[891]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149818
-[892]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149821
-[893]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149822
-[894]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149823
-[895]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149825
-[896]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149826
-[897]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040011
-[898]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149828
-[899]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524759
-[900]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340873
-[901]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524760
-[902]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330812
-[903]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149829
-[904]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149832
-[905]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144853
-[906]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144854
-[907]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149835
-[908]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387894
-[909]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149838
-[910]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149839
-[911]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149840
-[912]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149841
-[913]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149842
-[914]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149844
-[915]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149845
-[916]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149846
-[917]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149847
-[918]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149848
-[919]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149849
-[920]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149850
-[921]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149851
-[922]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149852
-[923]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149853
-[924]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149854
-[925]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149855
-[926]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149856
-[927]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149857
-[928]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387895
-[929]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM297441
-[930]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129109
-[931]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149858
-[932]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340874
-[933]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149859
-[934]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149860
-[935]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387896
-[936]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144844
-[937]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149861
-[938]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144846
-[939]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149862
-[940]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387900
-[941]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144850
-[942]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149863
-[943]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149864
-[944]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM328793
-[945]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM328796
-[946]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144856
-[947]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144858
-[948]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144859
-[949]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3359902
-[950]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144860
-[951]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144861
-[952]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144862
-[953]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144863
-[954]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149865
-[955]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144866
-[956]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144867
-[957]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360482
-[958]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358366
-[959]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387901
-[960]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149866
-[961]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM64784
-[962]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM65382
-[963]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM65371
-[964]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144872
-[965]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149867
-[966]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144877
-[967]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2997643
-[968]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998573
-[969]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998633
-[970]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340875
-[971]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387905
-[972]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340881
-[973]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957662
-[974]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360057
-[975]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM311346
-[976]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957667
-[977]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957672
-[978]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360067
-[979]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149868
-[980]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM261954
-[981]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156462
-[982]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM163137
-[983]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957675
-[984]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524761
-[985]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2033100
-[986]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2033287
-[987]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM291803
-[988]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM291805
-[989]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM163058
-[990]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM403529
-[991]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM404184
-[992]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387912
-[993]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330818
-[994]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387914
-[995]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149869
-[996]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524762
-[997]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957677
-[998]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2027505
-[999]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957678
-[1000]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149870
-[1001]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957679
-[1002]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957680
-[1003]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340882
-[1004]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340883
-[1005]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998558
-[1006]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2997693
-[1007]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM128740
-[1008]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162569
-[1009]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM967903
-[1010]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149872
-[1011]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM31458
-[1012]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129523
-[1013]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5478469
-[1014]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5478483
-[1015]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129527
-[1016]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162706
-[1017]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387918
-[1018]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340884
-[1019]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957682
-[1020]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171832
-[1021]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1319306
-[1022]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957683
-[1023]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771808
-[1024]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771812
-[1025]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849906
-[1026]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309344
-[1027]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309345
-[1028]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309347
-[1029]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309348
-[1030]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309349
-[1031]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849907
-[1032]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309351
-[1033]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309352
-[1034]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309353
-[1035]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309354
-[1036]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849908
-[1037]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309356
-[1038]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309357
-[1039]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849909
-[1040]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309359
-[1041]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309360
-[1042]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309361
-[1043]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849910
-[1044]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309363
-[1045]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309365
-[1046]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309366
-[1047]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309367
-[1048]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849911
-[1049]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309369
-[1050]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849912
-[1051]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309371
-[1052]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849913
-[1053]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309373
-[1054]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849914
-[1055]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309375
-[1056]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309376
-[1057]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309377
-[1058]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309378
-[1059]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309379
-[1060]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849915
-[1061]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309381
-[1062]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309382
-[1063]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309383
-[1064]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309384
-[1065]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309385
-[1066]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309386
-[1067]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309387
-[1068]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM319569
-[1069]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM25999
-[1070]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM139726
-[1071]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM325508
-[1072]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126583
-[1073]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126585
-[1074]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126587
-[1075]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127009
-[1076]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127010
-[1077]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127016
-[1078]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM383050
-[1079]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM333795
-[1080]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387921
-[1081]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM147087
-[1082]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM149788
-[1083]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM385031
-[1084]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM436789
-[1085]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM305967
-[1086]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM175958
-[1087]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124441
-[1088]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM432647
-[1089]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM305839
-[1090]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM300510
-[1091]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM304211
-[1092]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM415531
-[1093]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM430983
-[1094]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM296638
-[1095]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM88540
-[1096]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM160808
-[1097]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM372538
-[1098]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM165115
-[1099]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM135341
-[1100]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM68744
-[1101]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM85720
-[1102]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM154671
-[1103]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264465
-[1104]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264406
-[1105]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM247710
-[1106]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM228449
-[1107]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171174
-[1108]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM285632
-[1109]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998516
-[1110]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998515
-[1111]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998532
-[1112]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1113]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957232
-[1114]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387706
-[1115]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040000
-[1116]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524700
-[1117]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1319300
-[1118]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149738
-[1119]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM967895
-[1120]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340838
+[161]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM6236601
+[162]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220566
+[163]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306859
+[164]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306860
+[165]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306862
+[166]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306863
+[167]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357139
+[168]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306864
+[169]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306865
+[170]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220569
+[171]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306866
+[172]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306867
+[173]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306868
+[174]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306869
+[175]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306870
+[176]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306871
+[177]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306872
+[178]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306873
+[179]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306874
+[180]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306875
+[181]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306877
+[182]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306878
+[183]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306879
+[184]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306880
+[185]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306882
+[186]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306884
+[187]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306886
+[188]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306888
+[189]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306889
+[190]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306890
+[191]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306891
+[192]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306893
+[193]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306894
+[194]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306895
+[195]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306896
+[196]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5767794
+[197]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306897
+[198]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306898
+[199]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM306899
+[200]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307300
+[201]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307301
+[202]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307302
+[203]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307303
+[204]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307304
+[205]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769524
+[206]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307305
+[207]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307306
+[208]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307307
+[209]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307308
+[210]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307309
+[211]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769531
+[212]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307310
+[213]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307311
+[214]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307312
+[215]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220578
+[216]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220579
+[217]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769542
+[218]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769543
+[219]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769544
+[220]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307313
+[221]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307314
+[222]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769556
+[223]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769558
+[224]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769559
+[225]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5769560
+[226]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307315
+[227]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770100
+[228]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307316
+[229]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307317
+[230]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307318
+[231]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307319
+[232]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307320
+[233]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307321
+[234]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307322
+[235]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307323
+[236]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307324
+[237]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307325
+[238]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307326
+[239]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307327
+[240]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307328
+[241]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307329
+[242]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770113
+[243]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770114
+[244]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307330
+[245]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307331
+[246]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307332
+[247]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307333
+[248]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220584
+[249]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307334
+[250]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307335
+[251]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307336
+[252]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307337
+[253]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1220589
+[254]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770145
+[255]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307338
+[256]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307339
+[257]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307340
+[258]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307341
+[259]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307342
+[260]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307343
+[261]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307344
+[262]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307345
+[263]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307346
+[264]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307347
+[265]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307348
+[266]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307349
+[267]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307354
+[268]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307355
+[269]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307357
+[270]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307361
+[271]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307362
+[272]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307363
+[273]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307364
+[274]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307365
+[275]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357170
+[276]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307366
+[277]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307367
+[278]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307368
+[279]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307369
+[280]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307370
+[281]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307371
+[282]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307372
+[283]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM2040306
+[284]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307373
+[285]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307374
+[286]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307376
+[287]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307377
+[288]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307378
+[289]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307379
+[290]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307380
+[291]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307381
+[292]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307382
+[293]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307383
+[294]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307384
+[295]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307385
+[296]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307386
+[297]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307387
+[298]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307388
+[299]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307389
+[300]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307390
+[301]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307392
+[302]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307395
+[303]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307398
+[304]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307399
+[305]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307800
+[306]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307803
+[307]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307812
+[308]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307817
+[309]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307820
+[310]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307826
+[311]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307828
+[312]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307830
+[313]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307841
+[314]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307842
+[315]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307843
+[316]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307844
+[317]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307845
+[318]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770175
+[319]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770176
+[320]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307846
+[321]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307847
+[322]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307848
+[323]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307849
+[324]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307850
+[325]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307851
+[326]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307852
+[327]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307853
+[328]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307856
+[329]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307857
+[330]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307858
+[331]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307859
+[332]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307860
+[333]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307861
+[334]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307862
+[335]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307863
+[336]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307864
+[337]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307865
+[338]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307866
+[339]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307867
+[340]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307872
+[341]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307873
+[342]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307874
+[343]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307875
+[344]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307876
+[345]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307877
+[346]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307878
+[347]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307879
+[348]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307880
+[349]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307881
+[350]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307882
+[351]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307883
+[352]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307884
+[353]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307885
+[354]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307886
+[355]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307887
+[356]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307888
+[357]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307889
+[358]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307890
+[359]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307892
+[360]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307893
+[361]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307894
+[362]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307895
+[363]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307896
+[364]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307897
+[365]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM307899
+[366]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308200
+[367]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308203
+[368]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308204
+[369]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308205
+[370]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308206
+[371]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308207
+[372]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308208
+[373]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308209
+[374]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308210
+[375]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308211
+[376]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308212
+[377]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221609
+[378]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221610
+[379]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308214
+[380]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308215
+[381]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308217
+[382]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308218
+[383]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308220
+[384]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308221
+[385]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308225
+[386]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308227
+[387]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308228
+[388]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308229
+[389]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308230
+[390]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308231
+[391]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221617
+[392]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221618
+[393]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308232
+[394]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308233
+[395]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308234
+[396]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308235
+[397]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308236
+[398]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308237
+[399]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308238
+[400]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308239
+[401]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308240
+[402]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221625
+[403]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221626
+[404]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308241
+[405]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308242
+[406]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308243
+[407]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308244
+[408]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308245
+[409]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308246
+[410]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308247
+[411]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308248
+[412]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308249
+[413]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308250
+[414]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308251
+[415]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308252
+[416]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308253
+[417]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308254
+[418]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308255
+[419]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308257
+[420]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308259
+[421]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308260
+[422]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308261
+[423]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308262
+[424]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308263
+[425]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308264
+[426]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308265
+[427]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308266
+[428]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308267
+[429]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357803
+[430]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357804
+[431]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357805
+[432]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357806
+[433]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4357807
+[434]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308268
+[435]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308269
+[436]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308270
+[437]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308271
+[438]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221645
+[439]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1221646
+[440]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308292
+[441]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308293
+[442]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308294
+[443]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308295
+[444]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308296
+[445]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308297
+[446]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308298
+[447]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308299
+[448]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308600
+[449]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308601
+[450]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308602
+[451]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308603
+[452]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308604
+[453]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308605
+[454]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308606
+[455]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308607
+[456]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308608
+[457]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308609
+[458]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308610
+[459]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308611
+[460]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308612
+[461]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308613
+[462]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308614
+[463]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308615
+[464]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308616
+[465]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308617
+[466]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308618
+[467]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308619
+[468]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308620
+[469]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308621
+[470]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308622
+[471]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308623
+[472]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308624
+[473]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308625
+[474]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308626
+[475]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308627
+[476]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308628
+[477]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308629
+[478]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308630
+[479]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308631
+[480]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308632
+[481]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308635
+[482]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308636
+[483]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308637
+[484]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308638
+[485]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358304
+[486]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358305
+[487]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358306
+[488]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308639
+[489]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308640
+[490]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308641
+[491]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308642
+[492]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308643
+[493]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308644
+[494]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308645
+[495]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308646
+[496]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308647
+[497]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308648
+[498]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308649
+[499]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308650
+[500]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308651
+[501]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308652
+[502]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308653
+[503]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308654
+[504]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308655
+[505]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308656
+[506]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308657
+[507]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308658
+[508]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308659
+[509]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308660
+[510]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308661
+[511]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308662
+[512]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308663
+[513]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308664
+[514]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308665
+[515]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308666
+[516]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308667
+[517]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308668
+[518]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308669
+[519]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308670
+[520]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308671
+[521]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308672
+[522]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308673
+[523]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308674
+[524]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308675
+[525]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308676
+[526]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308677
+[527]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308678
+[528]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308679
+[529]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308680
+[530]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308681
+[531]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308682
+[532]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308683
+[533]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308684
+[534]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308685
+[535]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308686
+[536]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308687
+[537]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308688
+[538]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308689
+[539]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308690
+[540]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308691
+[541]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308692
+[542]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308693
+[543]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308694
+[544]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308695
+[545]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308696
+[546]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308697
+[547]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM308699
+[548]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309001
+[549]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309003
+[550]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309005
+[551]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309007
+[552]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309009
+[553]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309010
+[554]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309011
+[555]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309012
+[556]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309013
+[557]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309014
+[558]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309015
+[559]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309016
+[560]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309017
+[561]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309022
+[562]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770902
+[563]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770904
+[564]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770905
+[565]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770906
+[566]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309023
+[567]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309024
+[568]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309025
+[569]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309026
+[570]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309027
+[571]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309028
+[572]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309029
+[573]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309030
+[574]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309031
+[575]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309032
+[576]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309033
+[577]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309034
+[578]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309035
+[579]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309036
+[580]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309037
+[581]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309038
+[582]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309039
+[583]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309040
+[584]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309041
+[585]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309042
+[586]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309043
+[587]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309044
+[588]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309047
+[589]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309055
+[590]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309056
+[591]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309057
+[592]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309058
+[593]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309059
+[594]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309060
+[595]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309061
+[596]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309062
+[597]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309063
+[598]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309065
+[599]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309066
+[600]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309067
+[601]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309068
+[602]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358341
+[603]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358344
+[604]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309069
+[605]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM2261315
+[606]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309071
+[607]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309072
+[608]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309073
+[609]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309074
+[610]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309075
+[611]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309076
+[612]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309077
+[613]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309078
+[614]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309083
+[615]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309086
+[616]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309087
+[617]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309088
+[618]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309089
+[619]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309090
+[620]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309091
+[621]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309092
+[622]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309093
+[623]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309094
+[624]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309096
+[625]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309097
+[626]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309098
+[627]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309099
+[628]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309300
+[629]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309301
+[630]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309302
+[631]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309303
+[632]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309304
+[633]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309305
+[634]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309306
+[635]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309307
+[636]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309308
+[637]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309309
+[638]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309310
+[639]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309311
+[640]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309312
+[641]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309313
+[642]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309314
+[643]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309315
+[644]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309316
+[645]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309318
+[646]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309319
+[647]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309320
+[648]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309321
+[649]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309322
+[650]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309325
+[651]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309326
+[652]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309327
+[653]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309328
+[654]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309329
+[655]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309330
+[656]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309331
+[657]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309332
+[658]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309333
+[659]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309334
+[660]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309335
+[661]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309336
+[662]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309337
+[663]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309338
+[664]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770963
+[665]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309341
+[666]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309342
+[667]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309388
+[668]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149747
+[669]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162576
+[670]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387716
+[671]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149748
+[672]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387718
+[673]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340868
+[674]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156440
+[675]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM81045
+[676]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156449
+[677]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM204978
+[678]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM82442
+[679]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM396786
+[680]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124974
+[681]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM195581
+[682]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM281866
+[683]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM170881
+[684]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM174261
+[685]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM230264
+[686]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171830
+[687]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957243
+[688]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340844
+[689]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149749
+[690]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM329600
+[691]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397798
+[692]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387719
+[693]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524719
+[694]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1382846
+[695]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4929207
+[696]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124447
+[697]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM433619
+[698]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340849
+[699]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM278828
+[700]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM336955
+[701]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM381228
+[702]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM385665
+[703]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149766
+[704]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387765
+[705]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM269031
+[706]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818957
+[707]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524724
+[708]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387766
+[709]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957258
+[710]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340850
+[711]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149767
+[712]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387767
+[713]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5739200
+[714]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818916
+[715]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524725
+[716]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM281857
+[717]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM285411
+[718]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957259
+[719]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524726
+[720]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957260
+[721]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957261
+[722]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957263
+[723]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360714
+[724]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957269
+[725]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957271
+[726]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957272
+[727]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524727
+[728]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818919
+[729]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3841809
+[730]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524737
+[731]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330804
+[732]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM433216
+[733]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524738
+[734]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4005646
+[735]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149769
+[736]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM170872
+[737]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524739
+[738]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524742
+[739]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524743
+[740]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957273
+[741]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957274
+[742]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5770964
+[743]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771801
+[744]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771811
+[745]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM381221
+[746]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM396777
+[747]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397089
+[748]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397090
+[749]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397093
+[750]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM397101
+[751]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957275
+[752]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524745
+[753]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3841812
+[754]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818921
+[755]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524746
+[756]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524748
+[757]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330805
+[758]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2925108
+[759]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524749
+[760]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340854
+[761]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387823
+[762]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340855
+[763]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149772
+[764]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524750
+[765]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149773
+[766]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149774
+[767]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524751
+[768]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM423347
+[769]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524752
+[770]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524753
+[771]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524755
+[772]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524756
+[773]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM271641
+[774]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM423362
+[775]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149775
+[776]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387837
+[777]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387839
+[778]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387840
+[779]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387841
+[780]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387843
+[781]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387846
+[782]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818923
+[783]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173823
+[784]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387867
+[785]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149780
+[786]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340857
+[787]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330806
+[788]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173850
+[789]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5707315
+[790]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149782
+[791]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340858
+[792]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387870
+[793]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387871
+[794]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387873
+[795]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387875
+[796]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957277
+[797]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149785
+[798]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387876
+[799]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387877
+[800]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330807
+[801]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387878
+[802]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149787
+[803]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387879
+[804]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387880
+[805]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149788
+[806]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330808
+[807]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818924
+[808]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149789
+[809]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818925
+[810]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340862
+[811]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM237221
+[812]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818926
+[813]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM128174
+[814]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957278
+[815]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149790
+[816]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957279
+[817]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387881
+[818]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957280
+[819]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957282
+[820]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957283
+[821]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM271228
+[822]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957285
+[823]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957287
+[824]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957288
+[825]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957289
+[826]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957291
+[827]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM172328
+[828]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957293
+[829]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149791
+[830]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957296
+[831]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957297
+[832]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957299
+[833]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957605
+[834]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957607
+[835]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957608
+[836]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957609
+[837]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149794
+[838]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818931
+[839]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144380
+[840]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818934
+[841]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957610
+[842]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149795
+[843]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149797
+[844]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149798
+[845]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957611
+[846]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149800
+[847]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340866
+[848]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149801
+[849]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149802
+[850]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387883
+[851]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264952
+[852]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387885
+[853]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040005
+[854]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149804
+[855]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149805
+[856]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957614
+[857]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957615
+[858]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957616
+[859]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957617
+[860]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4818935
+[861]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387887
+[862]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149806
+[863]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524757
+[864]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040007
+[865]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040008
+[866]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040009
+[867]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040010
+[868]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340870
+[869]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524758
+[870]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149807
+[871]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387888
+[872]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM122241
+[873]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM123065
+[874]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957619
+[875]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330809
+[876]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM131393
+[877]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM45426
+[878]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173448
+[879]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387891
+[880]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM173449
+[881]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957620
+[882]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM176007
+[883]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149808
+[884]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387892
+[885]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330810
+[886]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340871
+[887]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340872
+[888]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330811
+[889]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149809
+[890]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149812
+[891]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149813
+[892]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149814
+[893]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149817
+[894]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149818
+[895]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149821
+[896]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149822
+[897]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149823
+[898]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149825
+[899]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149826
+[900]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040011
+[901]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149828
+[902]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524759
+[903]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340873
+[904]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524760
+[905]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330812
+[906]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149829
+[907]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149832
+[908]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144853
+[909]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144854
+[910]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149835
+[911]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387894
+[912]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149838
+[913]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149839
+[914]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149840
+[915]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149841
+[916]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149842
+[917]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149844
+[918]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149845
+[919]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149846
+[920]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149847
+[921]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149848
+[922]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149849
+[923]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149850
+[924]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149851
+[925]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149852
+[926]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149853
+[927]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149854
+[928]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149855
+[929]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149856
+[930]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149857
+[931]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387895
+[932]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM297441
+[933]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129109
+[934]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149858
+[935]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340874
+[936]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149859
+[937]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149860
+[938]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387896
+[939]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144844
+[940]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149861
+[941]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144846
+[942]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149862
+[943]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387900
+[944]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144850
+[945]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149863
+[946]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149864
+[947]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM328793
+[948]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM328796
+[949]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144856
+[950]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144858
+[951]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144859
+[952]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3359902
+[953]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144860
+[954]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144861
+[955]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144862
+[956]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144863
+[957]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149865
+[958]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144866
+[959]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144867
+[960]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360482
+[961]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM4358366
+[962]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387901
+[963]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149866
+[964]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM64784
+[965]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM65382
+[966]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM65371
+[967]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144872
+[968]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149867
+[969]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM144877
+[970]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2997643
+[971]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998573
+[972]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998633
+[973]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340875
+[974]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387905
+[975]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340881
+[976]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957662
+[977]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360057
+[978]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM311346
+[979]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957667
+[980]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957672
+[981]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3360067
+[982]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149868
+[983]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM261954
+[984]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM156462
+[985]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM163137
+[986]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957675
+[987]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524761
+[988]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2033100
+[989]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2033287
+[990]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM291803
+[991]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM291805
+[992]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM163058
+[993]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM403529
+[994]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM404184
+[995]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387912
+[996]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM4330818
+[997]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387914
+[998]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149869
+[999]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524762
+[1000]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957677
+[1001]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2027505
+[1002]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957678
+[1003]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149870
+[1004]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957679
+[1005]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957680
+[1006]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340882
+[1007]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340883
+[1008]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998558
+[1009]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2997693
+[1010]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM128740
+[1011]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162569
+[1012]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM967903
+[1013]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149872
+[1014]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM31458
+[1015]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129523
+[1016]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5478469
+[1017]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM5478483
+[1018]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM129527
+[1019]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM162706
+[1020]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387918
+[1021]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340884
+[1022]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957682
+[1023]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171832
+[1024]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1319306
+[1025]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957683
+[1026]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771808
+[1027]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM5771812
+[1028]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849906
+[1029]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309344
+[1030]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309345
+[1031]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309347
+[1032]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309348
+[1033]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309349
+[1034]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849907
+[1035]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309351
+[1036]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309352
+[1037]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309353
+[1038]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309354
+[1039]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849908
+[1040]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309356
+[1041]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309357
+[1042]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849909
+[1043]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309359
+[1044]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309360
+[1045]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309361
+[1046]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849910
+[1047]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309363
+[1048]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309365
+[1049]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309366
+[1050]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309367
+[1051]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849911
+[1052]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309369
+[1053]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849912
+[1054]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309371
+[1055]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849913
+[1056]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309373
+[1057]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849914
+[1058]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309375
+[1059]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309376
+[1060]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309377
+[1061]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309378
+[1062]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309379
+[1063]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM1849915
+[1064]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309381
+[1065]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309382
+[1066]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309383
+[1067]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309384
+[1068]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309385
+[1069]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309386
+[1070]: http://www.legislation.govt.nz/act/public/2004/0072/latest/whole.html#DLM309387
+[1071]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM319569
+[1072]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM25999
+[1073]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM139726
+[1074]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM325508
+[1075]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126583
+[1076]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126585
+[1077]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM126587
+[1078]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127009
+[1079]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127010
+[1080]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM127016
+[1081]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM383050
+[1082]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM333795
+[1083]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387921
+[1084]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM147087
+[1085]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM149788
+[1086]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM385031
+[1087]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM436789
+[1088]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM305967
+[1089]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM175958
+[1090]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM124441
+[1091]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM432647
+[1092]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM305839
+[1093]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM300510
+[1094]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM304211
+[1095]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM415531
+[1096]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM430983
+[1097]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM296638
+[1098]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM88540
+[1099]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM160808
+[1100]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM372538
+[1101]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM165115
+[1102]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM135341
+[1103]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM68744
+[1104]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM85720
+[1105]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM154671
+[1106]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264465
+[1107]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM264406
+[1108]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM247710
+[1109]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM228449
+[1110]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM171174
+[1111]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM285632
+[1112]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998516
+[1113]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998515
+[1114]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM2998532
+[1115]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1116]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3957232
+[1117]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3387706
+[1118]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM3040000
+[1119]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1524700
+[1120]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1319300
+[1121]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM1149738
+[1122]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM967895
+[1123]: http://www.legislation.govt.nz/act/public/2004/0072/latest/link.aspx?id=DLM340838
