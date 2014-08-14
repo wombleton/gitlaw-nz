@@ -1,5 +1,5 @@
 Reprint  
-as at 30 April 2014
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -430,7 +430,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
 
 ##### 9 Repeals, revocations, and amendment
     
-*   (1) The enactments specified in [Schedule 2][36] are hereby repealed.
+*   (1) The enactments specified in [Schedule 2][12] are hereby repealed.
     
     (2) The orders specified in [Schedule 3][13] are hereby revoked.
     
@@ -438,7 +438,7 @@ An Act to consolidate and amend the law relating to the making of contracts betw
     
     (4) Any provisions in any enactment restraining the members of any local authority or of a committee thereof from contracting with the local authority, either wholly or beyond certain limits, or disqualifying as members of the local authority or of any such committee any persons so contracting, and all provisions incidental to any such first-mentioned provisions, shall, except so far as that enactment expressly provides to the contrary, be read subject to the provisions of this Act.
     
-    Section 9(3): repealed, on 1 December 1978, by [section 4(8)(h)][37] of the New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48).
+    Section 9(3): repealed, on 1 December 1978, by [section 4(8)(h)][36] of the New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48).
 
 ---
 
@@ -480,6 +480,8 @@ Industry Training Boards Vocational Training Council Act 1982 (1982 No 54)
 
 Licensing Trusts Sale of Liquor Act 1989 (1989 No 63)
 
+Local boards Local Government Act 2002 (2002 No 84) and Local Government (Auckland Council) Act 2009 (2009 No 32)
+
 Nassella Tussock Boards Noxious Plants Act 1978 (1978 No 15): Part 2
 
 Pest Destruction Boards Agricultural Pests Destruction Act 1967 (1967 No 147)
@@ -506,6 +508,7 @@ Territorial authorities Local Government Act 2002 (2002 No 84)
 
 Town Councils Local Government Act 1974 (1974 No 66)
 
+*   Schedule 1 Part 1: amended, on 8 August 2014, by [section 78][37] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 *   Schedule 1 Part 1: amended, on 30 April 2014, by [section 27][38] of the Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1).
 *   Schedule 1 Part 1: amended, on 1 July 2003, by [section 262][30] of the Local Government Act 2002 (2002 No 84).
 *   Schedule 1 Part 1: amended, on 25 October 2001, by [section 17][39] of the Education Standards Act 2001 (2001 No 88).
@@ -684,7 +687,7 @@ The Winston Churchill Memorial Trust Board Winston Churchill Memorial Trust Boar
 *   Schedule 1 Part 2: amended, on 22 October 1981, pursuant to section 2(3) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
 *   Schedule 1 Part 2: amended, on 22 October 1981, pursuant to section 3(4) of the Taratahi Agricultural Training Centre (Wairarapa) Amendment Act 1981 (1981 No 97).
 *   Schedule 1 Part 2: amended, on 13 January 1981, by section 3(2) of the New Zealand Film Commission Amendment Act 1980 (1980 No 125).
-*   Schedule 1 Part 2: amended, on 1 December 1978, by [section 4(8)(h)][37] of the New Zealand Airways Corporation Dissolution Act 1978 (1978 No 48).
+*   Schedule 1 Part 2: amended, on 1 December 1978, by [section 4(8)(h)][36] of the New Zealand Airways Corporation Dissolution Act 1978 (1978 No 48).
 *   Schedule 1 Part 2: amended, on 12 October 1978, by section 16 of the Queen Elizabeth the Second Arts Council of New Zealand Amendment Act 1978 (1978 No 29).
 *   Schedule 1 Part 2: amended, on 21 December 1977, by [section 14(2)][80] of the Queen Elizabeth the Second National Trust Act 1977 (1977 No 102).
 *   Schedule 1 Part 2: amended, on 1 February 1977, by section 101(2) of the Broadcasting Act 1976 (1976 No 132).
@@ -886,7 +889,9 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1):[section 27][38]
+*   Local Government Act 2002 Amendment Act 2014 (2014 No 55): [section 78][37]
+    
+    Arts Council of New Zealand Toi Aotearoa Act 2014 (2014 No 1):[section 27][38]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][31]
     
@@ -1000,7 +1005,7 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
     
     Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][27]
     
-    New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48): [section 4(8)(h)][37]
+    New Zealand National Airways Corporation Dissolution Act 1978 (1978 No 48): [section 4(8)(h)][36]
     
     Queen Elizabeth the Second Arts Council of New Zealand Amendment Act 1978 (1978 No 29): section 16
     
@@ -1098,8 +1103,8 @@ Local Authorities (Members' Contracts) Order 1965 (SR 1965/130)
 [33]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM230364
 [34]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM239827
 [35]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM212679
-[36]: http://www.legislation.govt.nz/act/public/1968/0147/latest/whole.html#DLM390631
-[37]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM21803
+[36]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM21803
+[37]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM5707315
 [38]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM3007375
 [39]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM118313
 [40]: http://www.legislation.govt.nz/act/public/1968/0147/latest/link.aspx?id=DLM268395
