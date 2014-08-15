@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -64,7 +64,7 @@ This Act is administered by the Department of Internal Affairs.
 
 [15][20][][20][General duties of electoral officer][20]
 
-[16][21][][21][Conduct of elections and polls for territorial authorities and community boards][21]
+[16][21][][21][Conduct of elections and polls for territorial authorities, local boards, and community boards][21]
 
 [17][22][][22][Conduct of elections and polls for local authorities that are not territorial authorities][22]
 
@@ -79,7 +79,7 @@ This Act is administered by the Department of Internal Affairs.
 [19AB][27][][27][Duties of certifiers][27]
 
 [Part 1A][28]  
-[Representation arrangements for elections of territorial authorities, regional councils, and community boards][28]
+[Representation arrangements for elections of territorial authorities, regional councils, local boards, and community boards][28]
 
 [19A][29][][29][Membership of territorial authorities][29]
 
@@ -91,518 +91,524 @@ This Act is administered by the Department of Internal Affairs.
 
 [19E][33][][33][Basis of election of members of regional council][33]
 
-[19F][34][][34][Membership of community boards][34]
+[19EA][34][][34][Membership of local boards][34]
 
-[19G][35][][35][Basis of election of members of community board][35]
+[19EB][35][][35][Basis of election of chairperson of local board in certain circumstances][35]
 
-[19H][36][][36][Review of representation arrangements for elections of territorial authorities][36]
+[19EC][36][][36][Basis of election of members of local board][36]
 
-[19I][37][][37][Review of representation arrangements for elections of regional councils][37]
+[19F][37][][37][Membership of community boards][37]
 
-[19J][38][][38][Review of community boards][38]
+[19G][38][][38][Basis of election of members of community board][38]
 
-[19JA][39][][39][Minor alterations to boundaries by territorial authority][39]
+[19H][39][][39][Review of representation arrangements for elections of territorial authorities][39]
 
-[19JB][40][][40][Minor alterations to boundaries by regional council][40]
+[19I][40][][40][Review of representation arrangements for elections of regional councils][40]
 
-[19K][41][][41][Requirements for resolution][41]
+[19J][41][][41][Review of community boards][41]
 
-[19L][42][][42][Distribution of copies of resolution][42]
+[19JA][42][][42][Minor alterations to boundaries by territorial authority][42]
 
-[19M][43][][43][Public notice of proposals and responsibilities in relation to submissions][43]
+[19JB][43][][43][Minor alterations to boundaries by regional council][43]
 
-[19N][44][][44][Response to submissions][44]
+[19K][44][][44][Requirements for resolution][44]
 
-[19O][45][][45][Appeals][45]
+[19L][45][][45][Distribution of copies of resolution][45]
 
-[19P][46][][46][Objections][46]
+[19M][46][][46][Public notice of proposals and responsibilities in relation to submissions][46]
 
-[19Q][47][][47][Obligation to forward appeals and objections to Commission][47]
+[19N][47][][47][Response to submissions][47]
 
-[19R][48][][48][Commission to determine appeals and objections][48]
+[19O][48][][48][Appeals][48]
 
-[19S][49][][49][Determination of Commission][49]
+[19P][49][][49][Objections][49]
 
-[19T][50][][50][Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities][50]
+[19Q][50][][50][Obligation to forward appeals and objections to Commission][50]
 
-[19U][51][][51][Requirement for effective representation and other factors in determination of membership and basis of election of regional council][51]
+[19R][51][][51][Commission to determine appeals and objections][51]
 
-[19V][52][][52][Requirement for fair representation and other factors in determination of membership for wards, constituencies, and subdivisions][52]
+[19S][52][][52][Determination of Commission][52]
 
-[19W][53][][53][Factors in determination of matters in relation to community boards][53]
+[19T][53][][53][Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities and local boards][53]
 
-[19X][54][][54][Certificate of Government Statistician][54]
+[19U][54][][54][Requirement for effective representation and other factors in determination of membership and basis of election of regional council][54]
 
-[19Y][55][][55][When determinations take effect][55]
+[19V][55][][55][Requirement for fair representation and other factors in determination of membership for wards, constituencies, and subdivisions][55]
 
-[Māori wards and Māori constituencies][56]
+[19W][56][][56][Factors in determination of matters in relation to community boards][56]
 
-[19Z][57][][57][Territorial authority or regional council may resolve to establish Māori wards or Māori constituencies][57]
+[19X][57][][57][Certificate of Government Statistician][57]
 
-[19ZA][58][][58][Public notice of right to demand poll][58]
+[19Y][58][][58][When determinations take effect][58]
 
-[19ZB][59][][59][Electors may demand poll][59]
+[Māori wards and Māori constituencies][59]
 
-[19ZC][60][][60][Requirements for valid demand][60]
+[19Z][60][][60][Territorial authority or regional council may resolve to establish Māori wards or Māori constituencies][60]
 
-[19ZD][61][][61][Territorial authority or regional council may resolve to hold poll][61]
+[19ZA][61][][61][Public notice of right to demand poll][61]
 
-[19ZE][62][][62][Limitation on division into Māori wards or Māori constituencies][62]
+[19ZB][62][][62][Electors may demand poll][62]
 
-[19ZF][63][][63][Poll of electors][63]
+[19ZC][63][][63][Requirements for valid demand][63]
 
-[19ZG][64][][64][Effect of poll][64]
+[19ZD][64][][64][Territorial authority or regional council may resolve to hold poll][64]
 
-[19ZH][65][][65][Basis of election of territorial authority and regional council][65]
+[19ZE][65][][65][Limitation on division into Māori wards or Māori constituencies][65]
 
-[Guidelines][66]
+[19ZF][66][][66][Poll of electors][66]
 
-[19ZI][67][][67][Guidelines in relation to reviews of representation or minor alterations to boundaries][67]
+[19ZG][67][][67][Effect of poll][67]
 
-[Part 2][68]  
-[Local elections and polls][68]
+[19ZH][68][][68][Basis of election of territorial authority and regional council][68]
 
-[Electoral rights][69]
+[Guidelines][69]
 
-[20][70][][70][Right to vote in election or poll][70]
+[19ZI][70][][70][Guidelines in relation to reviews of representation or minor alterations to boundaries][70]
 
-[21][71][][71][Special voting][71]
+[Part 2][71]  
+[Local elections and polls][71]
 
-[22][72][][72][Voting by special voters][72]
+[Electoral rights][72]
 
-[23][73][][73][Residential electors][73]
+[20][73][][73][Right to vote in election or poll][73]
 
-[24][74][][74][Ratepayer electors][74]
+[21][74][][74][Special voting][74]
 
-[24A][75][][75][Electors of Māori wards][75]
+[22][75][][75][Voting by special voters][75]
 
-[24B][76][][76][Voting rights at triennial general election of territorial authority][76]
+[23][76][][76][Residential electors][76]
 
-[24C][77][][77][Voting rights at election to fill extraordinary vacancy in respect of Māori ward][77]
+[24][77][][77][Ratepayer electors][77]
 
-[24D][78][][78][Electors of Māori constituencies][78]
+[24A][78][][78][Electors of Māori wards][78]
 
-[24E][79][][79][Voting rights at triennial general election of regional council][79]
+[24B][79][][79][Voting rights at triennial general election of territorial authority][79]
 
-[24F][80][][80][Voting rights at election to fill extraordinary vacancy in respect of Māori constituency][80]
+[24C][80][][80][Voting rights at election to fill extraordinary vacancy in respect of Māori ward][80]
 
-[25][81][][81][Candidate qualifications][81]
+[24D][81][][81][Electors of Māori constituencies][81]
 
-[26][82][][82][Right to nominate candidate][82]
+[24E][82][][82][Voting rights at triennial general election of regional council][82]
 
-[Electoral systems for elections][83]
+[24F][83][][83][Voting rights at election to fill extraordinary vacancy in respect of Māori constituency][83]
 
-[27][84][][84][Local authority may resolve to change electoral systems][84]
+[25][84][][84][Candidate qualifications][84]
 
-[28][85][][85][Public notice of right to demand poll on electoral system][85]
+[26][85][][85][Right to nominate candidate][85]
 
-[29][86][][86][Electors may demand poll][86]
+[Electoral systems for elections][86]
 
-[30][87][][87][Requirements for valid demand][87]
+[27][87][][87][Local authority may resolve to change electoral systems][87]
 
-[31][88][][88][Local authority may resolve to hold poll][88]
+[28][88][][88][Public notice of right to demand poll on electoral system][88]
 
-[32][89][][89][Limitation on change to electoral systems][89]
+[29][89][][89][Electors may demand poll][89]
 
-[33][90][][90][Poll of electors][90]
+[30][90][][90][Requirements for valid demand][90]
 
-[34][91][][91][Effect of poll][91]
+[31][91][][91][Local authority may resolve to hold poll][91]
 
-[Electoral systems for polls][92]
+[32][92][][92][Limitation on change to electoral systems][92]
 
-[35][93][][93][Electoral systems for polls][93]
+[33][93][][93][Poll of electors][93]
 
-[Voting methods][94]
+[34][94][][94][Effect of poll][94]
 
-[36][95][][95][Voting method for elections and polls][95]
+[Electoral systems for polls][95]
 
-[37][96][][96][Consultation][96]
+[35][96][][96][Electoral systems for polls][96]
 
-[Electoral rolls][97]
+[Voting methods][97]
 
-[38][98][][98][Compilation of electoral roll][98]
+[36][98][][98][Voting method for elections and polls][98]
 
-[39][99][][99][Public notice of procedures for enrolment as ratepayer on electoral roll][99]
+[37][99][][99][Consultation][99]
 
-[40][100][][100][No person to be enrolled more than once for local authority or community board][100]
+[Electoral rolls][100]
 
-[41][101][][101][Supply of information by Electoral Commission][101]
+[38][101][][101][Compilation of electoral roll][101]
 
-[42][102][][102][Roll to be available for public inspection][102]
+[39][102][][102][Public notice of procedures for enrolment as ratepayer on electoral roll][102]
 
-[43][103][][103][Inspection of rolls at meetings and hui][103]
+[40][103][][103][No person to be enrolled more than once for local authority or local board or community board][103]
 
-[44][104][][104][Application for registration as parliamentary elector][104]
+[41][104][][104][Supply of information by Electoral Commission][104]
 
-[45][105][][105][Completion of electoral roll][105]
+[42][105][][105][Roll to be available for public inspection][105]
 
-[46][106][][106][Removal of names from electoral roll][106]
+[43][106][][106][Inspection of rolls at meetings and hui][106]
 
-[47][107][][107][Amendments to roll][107]
+[44][107][][107][Application for registration as parliamentary elector][107]
 
-[48][108][][108][Objections to roll][108]
+[45][108][][108][Completion of electoral roll][108]
 
-[49][109][][109][Appeals to District Court in respect of roll][109]
+[46][109][][109][Removal of names from electoral roll][109]
 
-[50][110][][110][Closing of electoral roll][110]
+[47][110][][110][Amendments to roll][110]
 
-[51][111][][111][When roll in force][111]
+[48][111][][111][Objections to roll][111]
 
-[Part 3][112]  
-[Conduct of elections and polls][112]
+[49][112][][112][Appeals to District Court in respect of roll][112]
 
-[Notice of election or poll][113]
+[50][113][][113][Closing of electoral roll][113]
 
-[52][114][][114][Notice of election or poll][114]
+[51][114][][114][When roll in force][114]
 
-[53][115][][115][Additional material to be included in notice in respect of election][115]
+[Part 3][115]  
+[Conduct of elections and polls][115]
 
-[54][116][][116][Additional material to be included in notice in respect of poll][116]
+[Notice of election or poll][116]
 
-[Candidacy][117]
+[52][117][][117][Notice of election or poll][117]
 
-[55][118][][118][Nomination of candidates][118]
+[53][118][][118][Additional material to be included in notice in respect of election][118]
 
-[56][119][][119][Name of candidate][119]
+[54][119][][119][Additional material to be included in notice in respect of poll][119]
 
-[57][120][][120][Affiliation of candidate][120]
+[Candidacy][120]
 
-[57A][121][][121][Candidacy for more than 1 ward or constituency or subdivision prohibited][121]
+[55][121][][121][Nomination of candidates][121]
 
-[57B][122][][122][Candidacy for ward and membership at large prohibited][122]
+[56][122][][122][Name of candidate][122]
 
-[58][123][][123][Candidacy for both regional council and constituent authority prohibited][123]
+[57][123][][123][Affiliation of candidate][123]
 
-[58A][124][][124][Prohibition on candidacy for community board][124]
+[57A][124][][124][Candidacy for more than 1 ward or constituency or subdivision prohibited][124]
 
-[59][125][][125][Forfeiture of deposit and refund of deposit][125]
+[57B][125][][125][Candidacy for ward and membership at large prohibited][125]
 
-[60][126][][126][Withdrawal, death, or incapacity of candidate before close of nominations][126]
+[58][126][][126][Candidacy for both regional council and constituent authority prohibited][126]
 
-[Candidate profile statements][127]
+[58A][127][][127][Prohibition on candidacy for community board][127]
 
-[61][128][][128][Candidate profile statements][128]
+[59][128][][128][Forfeiture of deposit and refund of deposit][128]
 
-[62][129][][129][Provision of candidate profile statements to electors][129]
+[60][129][][129][Withdrawal, death, or incapacity of candidate before close of nominations][129]
 
-[Procedures after close of nominations][130]
+[Candidate profile statements][130]
 
-[63][131][][131][If number of candidates does not exceed number of vacancies, candidates to be declared elected][131]
+[61][131][][131][Candidate profile statements][131]
 
-[64][132][][132][Vacancies remaining unfilled to be extraordinary vacancies][132]
+[62][132][][132][Provision of candidate profile statements to electors][132]
 
-[Further notice of election or poll][133]
+[Procedures after close of nominations][133]
 
-[65][134][][134][Further notice to electors of election or poll][134]
+[63][134][][134][If number of candidates does not exceed number of vacancies, candidates to be declared elected][134]
 
-[Scrutineers][135]
+[64][135][][135][Vacancies remaining unfilled to be extraordinary vacancies][135]
 
-[66][136][][136][Scrutineers at election][136]
+[Further notice of election or poll][136]
 
-[67][137][][137][Scrutineers at poll][137]
+[65][137][][137][Further notice to electors of election or poll][137]
 
-[68][138][][138][General rules affecting scrutineers][138]
+[Scrutineers][138]
 
-[Death, incapacity, or invalid or cancelled nominations of candidates][139]
+[66][139][][139][Scrutineers at election][139]
 
-[69][140][][140][Application for cancellation of nomination if candidate incapacitated after close of nominations][140]
+[67][140][][140][Scrutineers at poll][140]
 
-[69A][141][][141][How application for cancellation of nomination dealt with][141]
+[68][141][][141][General rules affecting scrutineers][141]
 
-[70][142][][142][Death, incapacity, or invalid nomination of mayoral candidate after close of nominations][142]
+[Death, incapacity, or invalid or cancelled nominations of candidates][142]
 
-[71][143][][143][Death, incapacity, or invalid or cancelled nomination of candidate][143]
+[69][143][][143][Application for cancellation of nomination if candidate incapacitated after close of nominations][143]
 
-[72][144][][144][If election becomes unnecessary][144]
+[69A][144][][144][How application for cancellation of nomination dealt with][144]
 
-[Adjourned elections or polls][145]
+[70][145][][145][Death, incapacity, or invalid nomination of mayoral candidate after close of nominations][145]
 
-[73][146][][146][Adjournment of election or poll][146]
+[71][146][][146][Death, incapacity, or invalid or cancelled nomination of candidate][146]
 
-[73A][147][][147][Adjournment of electoral processes][147]
+[72][147][][147][If election becomes unnecessary][147]
 
-[Voting, processing, and counting of votes][148]
+[Adjourned elections or polls][148]
 
-[74][149][][149][Electoral officer to maintain security and secrecy at election or poll][149]
+[73][149][][149][Adjournment of election or poll][149]
 
-[75][150][][150][What voting documents for election must contain][150]
+[73A][150][][150][Adjournment of electoral processes][150]
 
-[76][151][][151][What voting documents for polls must contain][151]
+[Voting, processing, and counting of votes][151]
 
-[77][152][][152][Approval of voting documents for use at elections and polls][152]
+[74][152][][152][Electoral officer to maintain security and secrecy at election or poll][152]
 
-[78][153][][153][Voting][153]
+[75][153][][153][What voting documents for election must contain][153]
 
-[79][154][][154][Early processing of votes][154] \[Repealed\]
+[76][154][][154][What voting documents for polls must contain][154]
 
-[80][155][][155][Processing before close of voting][155]
+[77][155][][155][Approval of voting documents for use at elections and polls][155]
 
-[81][156][][156][Scrutineers' presence at processing prohibited before close of voting][156]
+[78][156][][156][Voting][156]
 
-[82][157][][157][Justices of the Peace to observe processing before close of voting][157]
+[79][157][][157][Early processing of votes][157] \[Repealed\]
 
-[83][158][][158][Scrutiny of roll][158]
+[80][158][][158][Processing before close of voting][158]
 
-[84][159][][159][Counting of votes][159]
+[81][159][][159][Scrutineers' presence at processing prohibited before close of voting][159]
 
-[85][160][][160][Preliminary results][160]
+[82][160][][160][Justices of the Peace to observe processing before close of voting][160]
 
-[86][161][][161][Declaration of result][161]
+[83][161][][161][Scrutiny of roll][161]
 
-[87][162][][162][Death or incapacity of elected candidate before declaration of result of election][162]
+[84][162][][162][Counting of votes][162]
 
-[88][163][][163][What happens if same person elected as mayor and another member][163]
+[85][163][][163][Preliminary results][163]
 
-[88A][164][][164][What happens if same person elected to both territorial authority and community board][164]
+[86][164][][164][Declaration of result][164]
 
-[88B][165][][165][Amended declaration if election under First Past the Post electoral system][165]
+[87][165][][165][Death or incapacity of elected candidate before declaration of result of election][165]
 
-[88C][166][][166][Amended declaration if election under Single Transferable Voting electoral system][166]
+[88][166][][166][What happens if same person elected as mayor and another member][166]
 
-[88D][167][][167][Application of provision relating to petition for inquiry][167]
+[88A][167][][167][What happens if same person elected to both territorial authority and local board or community board][167]
 
-[88E][168][][168][What happens if no amended declaration can be made][168]
+[88B][168][][168][Amended declaration if election under First Past the Post electoral system][168]
 
-[88F][169][][169][What happens if member of community board becomes member of territorial authority][169]
+[88C][169][][169][Amended declaration if election under Single Transferable Voting electoral system][169]
 
-[89][170][][170][Electoral records][170]
+[88D][170][][170][Application of provision relating to petition for inquiry][170]
 
-[Part 4][171]  
-[Disputed elections and polls][171]
+[88E][171][][171][What happens if no amended declaration can be made][171]
 
-[Recount of votes cast at election][172]
+[88F][172][][172][What happens if member of local board or community board becomes member of territorial authority][172]
 
-[90][173][][173][Application for recount][173]
+[89][173][][173][Electoral records][173]
 
-[91][174][][174][Scrutineers at recount][174]
+[Part 4][174]  
+[Disputed elections and polls][174]
 
-[92][175][][175][Conduct of recount][175]
+[Recount of votes cast at election][175]
 
-[Inquiry into election or poll][176]
+[90][176][][176][Application for recount][176]
 
-[93][177][][177][Petition for inquiry][177]
+[91][177][][177][Scrutineers at recount][177]
 
-[94][178][][178][Specified grounds only to be investigated][178]
+[92][178][][178][Conduct of recount][178]
 
-[95][179][][179][Who may be respondent][179]
+[Inquiry into election or poll][179]
 
-[96][180][][180][Time for holding inquiry][180]
+[93][180][][180][Petition for inquiry][180]
 
-[97][181][][181][Powers of District Court Judge][181]
+[94][181][][181][Specified grounds only to be investigated][181]
 
-[98][182][][182][Result of inquiry][182]
+[95][182][][182][Who may be respondent][182]
 
-[99][183][][183][Election or poll not void by reason of certain irregularities][183]
+[96][183][][183][Time for holding inquiry][183]
 
-[100][184][][184][Costs of inquiry][184]
+[97][184][][184][Powers of District Court Judge][184]
 
-[101][185][][185][Return of deposit][185]
+[98][185][][185][Result of inquiry][185]
 
-[102][186][][186][New election or poll if election or poll declared void][186]
+[99][186][][186][Election or poll not void by reason of certain irregularities][186]
 
-[103][187][][187][Order to be final][187]
+[100][187][][187][Costs of inquiry][187]
 
-[Part 5][188]  
-[Electoral donations and expenses][188]
+[101][188][][188][Return of deposit][188]
 
-[Subpart 1][189][---][189][Electoral donations][189]
+[102][189][][189][New election or poll if election or poll declared void][189]
 
-[103A][190][][190][Interpretation][190]
+[103][190][][190][Order to be final][190]
 
-[103B][191][][191][Donations and contributions include GST][191]
+[Part 5][191]  
+[Electoral donations and expenses][191]
 
-[103C][192][][192][Donations to be transmitted to candidate][192]
+[Subpart 1][192][---][192][Electoral donations][192]
 
-[103D][193][][193][Contributors to be identified][193]
+[103A][193][][193][Interpretation][193]
 
-[103E][194][][194][Offence relating to contravention of section 103D][194]
+[103B][194][][194][Donations and contributions include GST][194]
 
-[103F][195][][195][Identity of donor to be disclosed by transmitter, if known][195]
+[103C][195][][195][Donations to be transmitted to candidate][195]
 
-[103G][196][][196][Offence relating to contravention of section 103F][196]
+[103D][196][][196][Contributors to be identified][196]
 
-[103H][197][][197][Disclosure of identity of donor][197]
+[103E][197][][197][Offence relating to contravention of section 103D][197]
 
-[103I][198][][198][Offence relating to contravention of section 103H][198]
+[103F][198][][198][Identity of donor to be disclosed by transmitter, if known][198]
 
-[103J][199][][199][Anonymous donation may not exceed $1,500][199]
+[103G][199][][199][Offence relating to contravention of section 103F][199]
 
-[103K][200][][200][Offence relating to contravention of section 103J][200]
+[103H][200][][200][Disclosure of identity of donor][200]
 
-[103L][201][][201][Records of electoral donations][201]
+[103I][201][][201][Offence relating to contravention of section 103H][201]
 
-[Subpart 2][202][---][202][Electoral expenses][202]
+[103J][202][][202][Anonymous donation may not exceed $1,500][202]
 
-[104][203][][203][Interpretation][203]
+[103K][203][][203][Offence relating to contravention of section 103J][203]
 
-[105][204][][204][Periods for claiming and paying expenses][204]
+[103L][204][][204][Records of electoral donations][204]
 
-[106][205][][205][Procedure if claim disputed][205]
+[Subpart 2][205][---][205][Electoral expenses][205]
 
-[107][206][][206][Leave to pay claim after time limited][206]
+[104][206][][206][Interpretation][206]
 
-[108][207][][207][Payments to be vouched by bill][207]
+[105][207][][207][Periods for claiming and paying expenses][207]
 
-[109][208][][208][Return of electoral expenses][208] \[Repealed\]
+[106][208][][208][Procedure if claim disputed][208]
 
-[110][209][][209][Return to be open for public inspection][209] \[Repealed\]
+[107][209][][209][Leave to pay claim after time limited][209]
 
-[111][210][][210][Maximum amount of electoral expenses][210]
+[108][210][][210][Payments to be vouched by bill][210]
 
-[112][211][][211][Apportionment of electoral expenses][211]
+[109][211][][211][Return of electoral expenses][211] \[Repealed\]
 
-[112AA][212][][212][Offence to pay electoral expenses in excess of relevant prescribed maximum][212]
+[110][212][][212][Return to be open for public inspection][212] \[Repealed\]
 
-[Subpart 3][213][---][213][Return of electoral donations and expenses][213]
+[111][213][][213][Maximum amount of electoral expenses][213]
 
-[112A][214][][214][Return of electoral donations and expenses][214]
+[112][214][][214][Apportionment of electoral expenses][214]
 
-[112B][215][][215][Nil return][215]
+[112AA][215][][215][Offence to pay electoral expenses in excess of relevant prescribed maximum][215]
 
-[112C][216][][216][Failure to file return of electoral donations and expenses][216]
+[Subpart 3][216][---][216][Return of electoral donations and expenses][216]
 
-[112D][217][][217][Filing a false return of electoral donations and expenses][217]
+[112A][217][][217][Return of electoral donations and expenses][217]
 
-[112E][218][][218][Obligation to retain records necessary to verify return][218]
+[112B][218][][218][Nil return][218]
 
-[112F][219][][219][Return of electoral donations and expenses to be open for public inspection][219]
+[112C][219][][219][Failure to file return of electoral donations and expenses][219]
 
-[Part 5A][220]  
-[Electoral advertising][220]
+[112D][220][][220][Filing a false return of electoral donations and expenses][220]
 
-[113][221][][221][Advertisements for candidates][221]
+[112E][221][][221][Obligation to retain records necessary to verify return][221]
 
-[114][222][][222][Use of public money][222]
+[112F][222][][222][Return of electoral donations and expenses to be open for public inspection][222]
 
-[Part 6][223]  
-[Term of elected members and extraordinary vacancies][223]
+[Part 5A][223]  
+[Electoral advertising][223]
 
-[Term of membership of elected members][224]
+[113][224][][224][Advertisements for candidates][224]
 
-[115][225][][225][When members come into office][225]
+[114][225][][225][Use of public money][225]
 
-[116][226][][226][When members leave office][226]
+[Part 6][226]  
+[Term of elected members and extraordinary vacancies][226]
 
-[Filling of extraordinary vacancies][227]
+[Term of membership of elected members][227]
 
-[117][228][][228][Extraordinary vacancy in local authority or community board][228]
+[115][228][][228][When members come into office][228]
 
-[117A][229][][229][Power to fill by appointment extraordinary vacancy in community board][229]
+[116][229][][229][When members leave office][229]
 
-[118][230][][230][Notice of intention to fill vacancy by appointment][230]
+[Filling of extraordinary vacancies][230]
 
-[119][231][][231][Notice of intention to leave vacancy unfilled][231]
+[117][231][][231][Extraordinary vacancy in local authority or local board or community board][231]
 
-[120][232][][232][Election to fill extraordinary vacancy][232]
+[117A][232][][232][Power to fill by appointment extraordinary vacancy in local board or community board][232]
 
-[Part 7][233]  
-[Offences][233]
+[118][233][][233][Notice of intention to fill vacancy by appointment][233]
 
-[121][234][][234][Illegal nomination, etc][234]
+[119][234][][234][Notice of intention to leave vacancy unfilled][234]
 
-[122][235][][235][Interfering with or influencing voters][235]
+[120][235][][235][Election to fill extraordinary vacancy][235]
 
-[123][236][][236][Offences in respect of official documents][236]
+[Part 7][236]  
+[Offences][236]
 
-[124][237][][237][Voting offences][237]
+[121][237][][237][Illegal nomination, etc][237]
 
-[125][238][][238][Bribery][238]
+[122][238][][238][Interfering with or influencing voters][238]
 
-[126][239][][239][Treating][239]
+[123][239][][239][Offences in respect of official documents][239]
 
-[127][240][][240][Undue influence][240]
+[124][240][][240][Voting offences][240]
 
-[128][241][][241][Personation][241]
+[125][241][][241][Bribery][241]
 
-[129][242][][242][Infringement of secrecy][242]
+[126][242][][242][Treating][242]
 
-[130][243][][243][Disclosing voting or state of election or poll][243]
+[127][243][][243][Undue influence][243]
 
-[131][244][][244][Penalty for electoral officer, deputy electoral officer, and other electoral officials][244]
+[128][244][][244][Personation][244]
 
-[Electoral expenses][245]
+[129][245][][245][Infringement of secrecy][245]
+
+[130][246][][246][Disclosing voting or state of election or poll][246]
+
+[131][247][][247][Penalty for electoral officer, deputy electoral officer, and other electoral officials][247]
+
+[Electoral expenses][248]
 
 \[Repealed\]
 
-[132][246][][246][Payments in breach of section 105][246] \[Repealed\]
+[132][249][][249][Payments in breach of section 105][249] \[Repealed\]
 
-[133][247][][247][Failure to transmit return][247] \[Repealed\]
+[133][250][][250][Failure to transmit return][250] \[Repealed\]
 
-[134][248][][248][False return][248] \[Repealed\]
+[134][251][][251][False return][251] \[Repealed\]
 
-[135][249][][249][Unauthorised advertisements][249] \[Repealed\]
+[135][252][][252][Unauthorised advertisements][252] \[Repealed\]
 
-[136][250][][250][Excessive expenditure][250] \[Repealed\]
+[136][253][][253][Excessive expenditure][253] \[Repealed\]
 
-[General provisions][251]
+[General provisions][254]
 
-[137][252][][252][Property may be stated as being in electoral officer][252]
+[137][255][][255][Property may be stated as being in electoral officer][255]
 
-[138][253][][253][Duty to take action in respect of offences][253]
+[138][256][][256][Duty to take action in respect of offences][256]
 
-[138AA][254][][254][Time limit for prosecutions][254]
+[138AA][257][][257][Time limit for prosecutions][257]
 
-[Part 8][255]  
-[Miscellaneous provisions][255]
+[Part 8][258]  
+[Miscellaneous provisions][258]
 
-[138A][256][][256][Special provision in relation to certain elections to fill extraordinary vacancies and certain polls][256]
+[138A][259][][259][Special provision in relation to certain elections to fill extraordinary vacancies and certain polls][259]
 
-[139][257][][257][Regulations][257]
+[139][260][][260][Regulations][260]
 
-[140][258][][258][Powers and duties of electoral officers][258]
+[140][261][][261][Powers and duties of electoral officers][261]
 
-[140A][259][][259][Electoral systems][259]
+[140A][262][][262][Electoral systems][262]
 
-[141][260][][260][Voting methods][260]
+[141][263][][263][Voting methods][263]
 
-[142][261][][261][Electoral rolls][261]
+[142][264][][264][Electoral rolls][264]
 
-[143][262][][262][Conduct of elections and polls][262]
+[143][265][][265][Conduct of elections and polls][265]
 
-[144][263][][263][Transitional regulations][263] \[Repealed\]
+[144][266][][266][Transitional regulations][266] \[Repealed\]
 
-[145][264][][264][Expiry of section 144][264]
+[145][267][][267][Expiry of section 144][267]
 
-[146][265][][265][Regulations having effect under this Act][265]
+[146][268][][268][Regulations having effect under this Act][268]
 
-[147][266][][266][Cost of elections and polls][266]
+[147][269][][269][Cost of elections and polls][269]
 
-[148][267][][267][Validation of irregularities][267]
+[148][270][][270][Validation of irregularities][270]
 
-[149][268][][268][Amendments to section 101ZQ of Local Government Act 1974][268] \[Repealed\]
+[149][271][][271][Amendments to section 101ZQ of Local Government Act 1974][271] \[Repealed\]
 
-[150][269][][269][Amendment to Schedule 2 of New Zealand Public Health and Disability Act 2000][269]
+[150][272][][272][Amendment to Schedule 2 of New Zealand Public Health and Disability Act 2000][272]
 
-[151][270][][270][Amendments to other enactments][270]
+[151][273][][273][Amendments to other enactments][273]
 
-[152][271][][271][Repeals and revocations][271]
+[152][274][][274][Repeals and revocations][274]
 
-[153][272][][272][Transitional provisions relating to electoral systems][272]
+[153][275][][275][Transitional provisions relating to electoral systems][275]
 
-[154][273][][273][Transitional provisions relating to returning officers][273]
+[154][276][][276][Transitional provisions relating to returning officers][276]
 
-[155][274][][274][Transitional provisions relating to electoral rolls][274]
+[155][277][][277][Transitional provisions relating to electoral rolls][277]
 
-[156][275][][275][Further transitional provisions relating to electoral rolls][275]
+[156][278][][278][Further transitional provisions relating to electoral rolls][278]
 
-[157][276][][276][Transitional provisions relating to voting documents][276]
+[157][279][][279][Transitional provisions relating to voting documents][279]
 
-[Schedule 1][277]  
-[New Zealand method of counting single transferable votes][277]
+[Schedule 1][280]  
+[New Zealand method of counting single transferable votes][280]
 
 \[Repealed\]
 
-[Schedule 1A][278]  
-[Provisions relating to Māori wards and Māori constituencies][278]
+[Schedule 1A][281]  
+[Provisions relating to Māori wards and Māori constituencies][281]
 
-[Schedule 2][279]  
-[Return of electoral donations and expenses][279]
+[Schedule 2][282]  
+[Return of electoral donations and expenses][282]
 
-[Schedule 3][280]  
-[Enactments amended][280]
+[Schedule 3][283]  
+[Enactments amended][283]
 
-[Schedule 4][281]  
-[Repeals and revocations][281]
+[Schedule 4][284]  
+[Repeals and revocations][284]
 
 ---
 
@@ -614,9 +620,9 @@ This Act is administered by the Department of Internal Affairs.
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates for different provisions.
     
-    Section 2: Local Electoral Act 2001 (except section 135) brought into force, on 1 July 2001, by the [Local Electoral Act Commencement Order 2001][282] (SR 2001/144).
+    Section 2: Local Electoral Act 2001 (except section 135) brought into force, on 1 July 2001, by the [Local Electoral Act Commencement Order 2001][285] (SR 2001/144).
     
-    Section 2: section 135 brought into force, on 25 December 2002, by [section 42(2)][283] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 2: section 135 brought into force, on 25 December 2002, by [section 42(2)][286] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 3 Purpose
     
@@ -658,7 +664,7 @@ This Act is administered by the Department of Internal Affairs.
     
     *   (d) implement the principles set out in [section 4][4].
     
-    Section 3(c)(ia): inserted, on 25 December 2002, by [section 3][284] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 3(c)(ia): inserted, on 25 December 2002, by [section 3][287] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 4 Principles
     
@@ -701,15 +707,15 @@ Preliminary provisions
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _allotment_ has the meaning given by [section 218(2)][285] of the Resource Management Act 1991
+    _allotment_ has the meaning given by [section 218(2)][288] of the Resource Management Act 1991
     
     _candidate_---
         
     *   (a) means a person who has been nominated as a candidate in any election; and
     
-    *   (b) includes, in [Parts 5][188] and [5A][220], a person who has declared his or her intention of becoming a candidate
+    *   (b) includes, in [Parts 5][191] and [5A][223], a person who has declared his or her intention of becoming a candidate
     
-    _census_ means the census of population and dwellings carried out by Statistics New Zealand under the [Statistics Act 1975][286]
+    _census_ means the census of population and dwellings carried out by Statistics New Zealand under the [Statistics Act 1975][289]
     
     _close of nominations_, in relation to any election, means 12 noon on nomination day
     
@@ -721,11 +727,11 @@ Preliminary provisions
     
     *   (c) if any other method of voting is used at the election or poll, the prescribed time and day at which the period during which an elector may cast a vote at an election or poll ends
     
-    _Commission_ means the Local Government Commission continued by [section 37V][287] of the Local Government Act 1974 or [section 28][288] of the Local Government Act 2002
+    _Commission_ means the Local Government Commission continued by [section 37V][290] of the Local Government Act 1974 or [section 28][291] of the Local Government Act 2002
     
-    _community_ has the same meaning as in [section 5(1)][289] of the Local Government Act 2002
+    _community_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
     
-    _community board_ has the same meaning as in [section 5(1)][289] of the Local Government Act 2002
+    _community board_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
     
     _constituency_ means a constituency established under this Act and resulting from the division, for electoral purposes, of a region
     
@@ -733,11 +739,11 @@ Preliminary provisions
     
     _district_ means the district of a local authority; and includes a region
     
-    _election_ means election to any office in, under, or in connection with any local authority, community board, or other body required by law to be filled by the election of the electors of any local government area
+    _election_ means election to any office in, under, or in connection with any local authority, local board, community board, or other body required by law to be filled by the election of the electors of any local government area
     
     _elector_ means any person entitled under any law for the time being in force to vote at an election or poll, as the case may be, held under this Act
     
-    _Electoral Commission_ means the Electoral Commission established by [section 4B][290] of the Electoral Act 1993
+    _Electoral Commission_ means the Electoral Commission established by [section 4B][293] of the Electoral Act 1993
     
     _electoral officer_ means a person appointed under [section 12(1)][16]; and includes any person for the time being exercising all or any of the duties and powers of that person
     
@@ -757,27 +763,31 @@ Preliminary provisions
     
     _general constituency_, in relation to a region, means every constituency of the region that is not a Māori constituency
     
-    _general electoral population_ has the same meaning as in [section 3(1)][291] of the Electoral Act 1993
+    _general electoral population_ has the same meaning as in [section 3(1)][294] of the Electoral Act 1993
     
     _general ward_, in relation to the district of a territorial authority, means every ward of the district that is not a Māori ward
     
-    _local authority_ means a territorial authority or regional council; and also includes any other elected or partly-elected body (other than a community board) to which this Act, or any of its predecessors, is applied or has been made to apply by any other enactment
+    _local authority_ means a territorial authority or regional council; and also includes any other elected or partly-elected body (other than a local board or a community board) to which this Act, or any of its predecessors, is applied or has been made to apply by any other enactment
+    
+    _local board_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
+    
+    _local board area_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
     
     _local government area_ means the area comprised within the jurisdiction of a local authority; and includes a subdivision of that area
     
-    _Māori constituency_ means a Māori constituency created in accordance with [Schedule 1A][278]
+    _Māori constituency_ means a Māori constituency created in accordance with [Schedule 1A][281]
     
-    _Māori electoral district_ has the same meaning as in [section 3(1)][291] of the Electoral Act 1993
+    _Māori electoral district_ has the same meaning as in [section 3(1)][294] of the Electoral Act 1993
     
-    _Māori electoral population_ has the same meaning as in [section 3(1)][291] of the Electoral Act 1993
+    _Māori electoral population_ has the same meaning as in [section 3(1)][294] of the Electoral Act 1993
     
-    _Māori ward_ means a Māori ward created in accordance with [Schedule 1A][278]
+    _Māori ward_ means a Māori ward created in accordance with [Schedule 1A][281]
     
     _member of a local authority_, in relation to a local authority, includes the mayor
     
     _Minister_ means the Minister of Local Government
     
-    _New Zealand method of counting single transferable votes_ means the method of counting votes described in [Schedule 1A][292] of the Local Electoral Regulations 2001
+    _New Zealand method of counting single transferable votes_ means the method of counting votes described in [Schedule 1A][295] of the Local Electoral Regulations 2001
     
     _nomination day_ means the 57th day before polling day
     
@@ -799,19 +809,19 @@ Preliminary provisions
     
     _polling day_ means the day on which the voting period for an election or poll ends
     
-    _region_ has the same meaning as in [section 5(1)][289] of the Local Government Act 2002
+    _region_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
     
-    _regional council_ has the same meaning as in [section 5(1)][289] of the Local Government Act 2002
+    _regional council_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002
     
-    _Registrar of Electors_ means a person who is a Registrar as defined in [section 3(1)][291] of the Electoral Act 1993
+    _Registrar of Electors_ means a person who is a Registrar as defined in [section 3(1)][294] of the Electoral Act 1993
     
     _roll_ or _roll of electors_, in relation to any local authority, means any list or roll made in a manner provided by law that contains the names of the persons entitled to vote at an election or poll
     
     _Single Transferable Voting_ means the electoral system described generally in [section 5B][8]
     
-    _subdivision_ means a ward of a district of a territorial authority, a constituency of a region, or any other division of a local government area for electoral purposes or for the purposes of any poll
+    _subdivision_ means a ward of a district of a territorial authority, a constituency of a region, a subdivision of a local board area or community, or any other division of a local government area for electoral purposes or for the purposes of any poll
     
-    _territorial authority_ has the same meaning as in [section 5(1)][289] of the Local Government Act 2002; but does not include the Minister of the Crown who is responsible for the administration of that Act
+    _territorial authority_ has the same meaning as in [section 5(1)][292] of the Local Government Act 2002; but does not include the Minister of the Crown who is responsible for the administration of that Act
     
     _voting document_ includes, if appropriate provision for electronic voting is made in regulations under this Act,---
         
@@ -849,65 +859,75 @@ Preliminary provisions
     
     Compare: 1976 No 144 s 2
     
-    Section 5(1) **allotment**: inserted, on 29 June 2013, by [section 4(2)][293] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 5(1) **allotment**: inserted, on 29 June 2013, by [section 4(2)][296] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 5(1) **anonymous**: repealed, on 29 June 2013, by [section 4(1)][293] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 5(1) **anonymous**: repealed, on 29 June 2013, by [section 4(1)][296] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 5(1) **candidate**: inserted, on 29 June 2013, by [section 4(2)][293] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 5(1) **candidate**: inserted, on 29 June 2013, by [section 4(2)][296] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 5(1) **census**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **census**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **Chief Registrar of Electors**: repealed, on 1 July 2012, by [section 58(2)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 5(1) **Chief Registrar of Electors**: repealed, on 1 July 2012, by [section 58(2)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 5(1) **Commission**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **Commission**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **community**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **community**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(1) **community board**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **community board**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(1) **constituency**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **constituency**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **counting program**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **counting program**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **district**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **district**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(1) **Electoral Commission**: inserted, on 1 July 2012, by [section 58(3)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 5(1) **_election_**: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 5(1) **electoral system** paragraph (b): amended, on 25 December 2002, by [section 4(2)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **Electoral Commission**: inserted, on 1 July 2012, by [section 58(3)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 5(1) **First Past the Post**: inserted, on 7 July 2004, by [section 3(1)][297] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 5(1) **electoral system** paragraph (b): amended, on 25 December 2002, by [section 4(2)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **general constituency**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **First Past the Post**: inserted, on 7 July 2004, by [section 3(1)][301] of the Local Electoral Amendment Act 2004 (2004 No 62).
     
-    Section 5(1) **general electoral population**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **general constituency**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **general ward**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **general electoral population**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **Māori constituency**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **general ward**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **Māori electoral district**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **_local authority_**: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 5(1) **Māori electoral population**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **_local board_**: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 5(1) **Māori ward**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **_local board area_**: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 5(1) **Meek's method of counting votes**: repealed, on 25 December 2002, by [section 4(3)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **Māori constituency**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **New Zealand method of counting single transferable votes**: inserted, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **Māori electoral district**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **New Zealand method of counting single transferable votes**: amended, on 7 July 2004, by [section 3(2)][297] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 5(1) **Māori electoral population**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **nomination day**: amended, on 29 June 2013, by [section 4(3)][293] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 5(1) **Māori ward**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **region**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **Meek's method of counting votes**: repealed, on 25 December 2002, by [section 4(3)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **regional council**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **New Zealand method of counting single transferable votes**: inserted, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 5(1) **Single Transferable Voting**: inserted, on 7 July 2004, by [section 3(3)][297] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 5(1) **New Zealand method of counting single transferable votes**: amended, on 7 July 2004, by [section 3(2)][301] of the Local Electoral Amendment Act 2004 (2004 No 62).
     
-    Section 5(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][296] of the Local Government Act 2002 (2002 No 84).
+    Section 5(1) **nomination day**: amended, on 29 June 2013, by [section 4(3)][296] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 5(1) **ward**: added, on 25 December 2002, by [section 4(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 5(1) **region**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 5(1) **regional council**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 5(1) **Single Transferable Voting**: inserted, on 7 July 2004, by [section 3(3)][301] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    
+    Section 5(1) **_subdivision_**: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 5(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][299] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 5(1) **ward**: added, on 25 December 2002, by [section 4(1)][297] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 5A General description of First Past the Post electoral system
     
@@ -925,7 +945,7 @@ Preliminary provisions
     
     *   (b) in the case of a poll, has the features specified in paragraph (a) as if, with all necessary modifications, every reference to a candidate were a reference to the matter or matters that are the subject of the poll.
     
-    Section 5A: inserted, on 7 July 2004, by [section 4][298] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 5A: inserted, on 7 July 2004, by [section 4][302] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 5B General description of Single Transferable Voting electoral system
     
@@ -969,7 +989,7 @@ Preliminary provisions
     
     *   (c) in the case of a poll, has the features specified in paragraphs (a) and (b) as if, with all necessary modifications, every reference to a candidate were a reference to the matter or matters that are the subject of the poll.
     
-    Section 5B: inserted, on 7 July 2004, by [section 4][298] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 5B: inserted, on 7 July 2004, by [section 4][302] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 6 Act binds Crown
     
@@ -985,6 +1005,8 @@ Preliminary provisions
     
     *   (c) every election of 1 or more members of a regional council; and
     
+    *   (ca) every election of 1 or more members of a local board; and
+    
     *   (d) every election of 1 or more members of a community board; and
     
     *   (e) every election of 1 or more members of a licensing trust; and
@@ -999,7 +1021,7 @@ Preliminary provisions
     
     *   (j) any referendum deemed to be a poll by [section 9][12].
     
-    
+    Section 7(ca): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 8 Holding of other elections
     
@@ -1053,15 +1075,19 @@ Preliminary provisions
     
 *   (1) The next triennial general election of members of every local authority and community board is on 13 October 2001\.
     
-    (2) A general election of members of every local authority or community board must be held on the second Saturday in October in every third year after the general election referred to in subsection (1).
+    (2) A general election of members of every local authority, local board, or community board must be held on the second Saturday in October in every third year after the general election referred to in subsection (1).
     
     Compare: 1976 No 144 s 4
+    
+    Section 10(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 11 Triennial general election not necessary in certain cases
     
-*   Despite [section 10][13], if a general election of any local authority or community board is held within 12 months before the date of a triennial general election under that section, a triennial general election must not be held for that local authority or community board.
+*   Despite [section 10][13], if a general election of any local authority, local board, or community board is held within 12 months before the date of a triennial general election under that section, a triennial general election must not be held for that local authority, local board, or community board.
     
     Compare: 1976 No 144 s 5
+    
+    Section 11: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 #### Officials
 
@@ -1091,7 +1117,7 @@ Preliminary provisions
 
 ##### 14 Rules applying to electoral officers, deputy electoral officers, and other electoral officials
     
-*   (1) An electoral officer, deputy electoral officer, or other electoral official is not subject to the directions of any local authority or community board in the exercise of powers or the carrying out of duties under this Act or regulations made under this Act.
+*   (1) An electoral officer, deputy electoral officer, or other electoral official is not subject to the directions of any local authority, local board, or community board in the exercise of powers or the carrying out of duties under this Act or regulations made under this Act.
     
     (2) An electoral officer, deputy electoral officer, or other electoral official must not exercise any powers or carry out any duties under this Act or any regulations made under this Act unless he or she has made a declaration containing the prescribed details and the declaration is current.
     
@@ -1105,13 +1131,17 @@ Preliminary provisions
         
     *   (a) a candidate in any election to be conducted; or
     
-    *   (b) a member of any local authority or community board for whom an election or poll is to be conducted.
+    *   (b) a member of any local authority, local board, or community board for whom an election or poll is to be conducted.
     
     (5) The chief executive of a local authority (however described) must not be appointed or act as an electoral officer, deputy electoral officer, or other electoral official, unless the local authority concerned is satisfied that no other course of action is reasonably practicable in the circumstances.
     
     (6) Subsection (1) is subject to [section 8(1)][11] and [section 9(1)][12].
     
-    Section 14(5): amended, on 25 December 2002, by [section 5][299] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 14(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 14(4)(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 14(5): amended, on 25 December 2002, by [section 5][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 #### Duties of electoral officers
 
@@ -1145,13 +1175,17 @@ Preliminary provisions
     
     (4) Subsections (1) and (2) are subject to [sections 16 to 19][21].
     
-    Section 15(2)(g): amended, on 29 June 2013, by [section 5][300] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 15(2)(g): amended, on 29 June 2013, by [section 5][304] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
-##### 16 Conduct of elections and polls for territorial authorities and community boards
+##### 16 Conduct of elections and polls for territorial authorities, local boards, and community boards
     
-*   Every election of 1 or more members of a territorial authority and its community boards (if any) or poll of electors of that territorial authority or those community boards must be conducted by an electoral officer as provided in [section 15][20].
+*   Every election of 1 or more members of a territorial authority and its local boards and community boards (if any) or poll of electors of that territorial authority or those local boards or community boards must be conducted by an electoral officer as provided in [section 15][20].
     
     Compare: 1976 No 144 s 5B(1)
+    
+    Section 16 heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 16: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 17 Conduct of elections and polls for local authorities that are not territorial authorities
     
@@ -1177,7 +1211,7 @@ Preliminary provisions
     
     *   (d) if any electors at the election or poll are in a local government area that is not within the district of a territorial authority, the duties referred to in paragraph (c) must, in respect of those electors, be carried out by one of the electoral officers referred to in that paragraph appointed by the local authority for whom the election is held or poll is taken.
     
-    Section 18(c): substituted, on 7 July 2004, by [section 5][301] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 18(c): substituted, on 7 July 2004, by [section 5][305] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 19 Conduct of separate election or poll
     
@@ -1191,32 +1225,33 @@ Preliminary provisions
 
 #### Duties of programmers and certifiers
     
-*   Heading: inserted, on 7 July 2004, by [section 6][302] of the Local Electoral Amendment Act 2004 (2004 No 62).
+*   Heading: inserted, on 7 July 2004, by [section 6][306] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 19AA Duties of programmers
     
-*   Every person responsible for the design of a counting program intended to implement the New Zealand method of counting single transferable votes must take all reasonable steps to ensure that the program produces outcomes that are consistent with the process specified in [Schedule 1A][292] of the Local Electoral Regulations 2001\.
+*   Every person responsible for the design of a counting program intended to implement the New Zealand method of counting single transferable votes must take all reasonable steps to ensure that the program produces outcomes that are consistent with the process specified in [Schedule 1A][295] of the Local Electoral Regulations 2001\.
     
-    Section 19AA: inserted, on 7 July 2004, by [section 6][302] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 19AA: inserted, on 7 July 2004, by [section 6][306] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 19AB Duties of certifiers
     
-*   A counting program may not be used at an election or poll under this Act, for the purpose of implementing the New Zealand method of counting single transferable votes, unless a certifier appointed for the purpose by the Secretary for Local Government has first certified that the program produces outcomes that are consistent with the process specified in [Schedule 1A][292] of the Local Electoral Regulations 2001\.
+*   A counting program may not be used at an election or poll under this Act, for the purpose of implementing the New Zealand method of counting single transferable votes, unless a certifier appointed for the purpose by the Secretary for Local Government has first certified that the program produces outcomes that are consistent with the process specified in [Schedule 1A][295] of the Local Electoral Regulations 2001\.
     
-    Section 19AB: inserted, on 7 July 2004, by [section 6][302] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 19AB: inserted, on 7 July 2004, by [section 6][306] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ## Part 1A  
-Representation arrangements for elections of territorial authorities, regional councils, and community boards
+Representation arrangements for elections of territorial authorities, regional councils, local boards, and community boards
     
-*   Part 1A: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Part 1A: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Part 1A heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19A Membership of territorial authorities
     
 *   Every governing body of a territorial authority is to consist of not fewer than 6 members nor more than 30 members, including the mayor, who are the members of the territorial authority.
     
-    Compare: 1974 No 66 [s 101C][304]
+    Compare: 1974 No 66 [s 101C][308]
     
-    Section 19A: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19A: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19B Basis of election of mayor of territorial authority
     
@@ -1224,7 +1259,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (2) The election of the mayor is to be held at the same time as the general election of the other members of the territorial authority.
     
-    Section 19B: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19B: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19C Basis of election of members of territorial authority
     
@@ -1238,17 +1273,17 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (5) If a district is divided into wards, each member of the territorial authority representing a ward must be elected by the electors of that ward.
     
-    Compare: 1974 No 66 [ss 101D(1), (3)][305], [101E(1), (3), (4)][306]
+    Compare: 1974 No 66 [ss 101D(1), (3)][309], [101E(1), (3), (4)][310]
     
-    Section 19C: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19C: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19D Membership of regional councils
     
 *   Every governing body of a regional council is to consist of not fewer than 6 members nor more than 14 members, who are the members of the regional council.
     
-    Compare: 1974 No 66 [s 101CA][307]
+    Compare: 1974 No 66 [s 101CA][311]
     
-    Section 19D: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19D: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19E Basis of election of members of regional council
     
@@ -1262,9 +1297,57 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (5) The members of the regional council representing the respective constituencies of the region must be elected by the electors of those constituencies respectively.
     
-    Compare: 1974 No 66 [ss 101D(2), (3)][305], [101E(1), (2)][306]
+    Compare: 1974 No 66 [ss 101D(2), (3)][309], [101E(1), (2)][310]
     
-    Section 19E: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19E: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+
+##### 19EA Membership of local boards
+    
+*   (1) Every local board---
+        
+    *   (a) must consist of not fewer than 5 members nor more than 12 members, including the chairperson; and
+    
+    *   (b) must include at least 5 elected members; and
+    
+    *   (c) may, if an Order in Council under [section 25][312] of the Local Government Act 2002 so provides, include 1 or more appointed members.
+    
+    (2) The maximum number of members appointed under subsection (1)(c) must be less than half the total number of members.
+    
+    (3) The persons who are appointed under subsection (1)(c) as members of the local board must---
+        
+    *   (a) be members of, and must be appointed by, the governing body for the district in which the local board area is situated; and
+    
+    *   (b) be members of the governing body representing a ward that is wholly or predominantly within the local board area.
+    
+    Section 19EA: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 19EB Basis of election of chairperson of local board in certain circumstances
+    
+*   (1) This section applies if an Order in Council under [section 25][312] of the Local Government Act 2002 provides that the chairperson of a local board is to be directly elected to that office.
+    
+    (2) If this section applies, the chairperson of the local board is to be elected by the electors of the local board area as a whole.
+    
+    (3) An election under subsection (2) is to be held at the same time as the general election of the other members of the local board.
+    
+    Section 19EB: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 19EC Basis of election of members of local board
+    
+*   (1) A local board area may be subdivided for electoral purposes.
+    
+    (2) Each subdivision must elect at least 1 member of the local board.
+    
+    (3) If a local board area comprises 2 or more whole wards, the elected members of the local board may be elected by the electors of each ward.
+    
+    (4) If the local board area is not subdivided for electoral purposes, the members of the local board must, unless they are to be elected in accordance with subsection (3), be elected by the electors of the local board area as a whole.
+    
+    (5) If a local board area is subdivided for electoral purposes or if the members of the local board are to be elected in accordance with subsection (3),---
+        
+    *   (a) each member of the local board who represents a subdivision must be elected by the electors of that subdivision; and
+    
+    *   (b) each member of the local board who represents a ward must be elected by the electors of that ward.
+    
+    Section 19EC: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19F Membership of community boards
     
@@ -1284,9 +1367,9 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) if the territorial authority is divided into wards, also be members of the territorial authority representing a ward in which the community is situated.
     
-    Compare: 1974 No 66 s [101ZQ(1), (2), (5)][308]
+    Compare: 1974 No 66 s [101ZQ(1), (2), (5)][313]
     
-    Section 19F: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19F: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19G Basis of election of members of community board
     
@@ -1304,9 +1387,9 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) each member of the community board who represents a ward must be elected by the electors of that ward.
     
-    Compare: 1974 No 66 [s 101E(5)][306]
+    Compare: 1974 No 66 [s 101E(5)][310]
     
-    Section 19G: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19G: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19H Review of representation arrangements for elections of territorial authorities
     
@@ -1336,9 +1419,33 @@ Representation arrangements for elections of territorial authorities, regional c
             
         *   (i) the proposed name and the proposed boundaries of each ward; and
         
-        *   (ii) the number of members proposed to be elected by the electors of each ward.
+        *   (ii) the number of members proposed to be elected by the electors of each ward; and
         
         
+    
+    *   (e) the proposed number of elected members of any local board and, if an Order in Council under [section 25][312] of the Local Government Act 2002 so provides, the proposed number of appointed members of that board; and
+    
+    *   (f) whether the elected members of any local board are proposed to be elected---
+            
+        *   (i) by the electors of the local board area as a whole; or
+        
+        *   (ii) by the electors of 2 or more subdivisions of the local board area; or
+        
+        *   (iii) if the local board area comprises 2 or more wards, by the electors of each ward; and
+        
+        
+    
+    *   (g) in any case to which paragraph (f)(ii) applies,---
+            
+        *   (i) the proposed name and the proposed boundaries of each subdivision; and
+        
+        *   (ii) the number of members proposed to be elected by the electors of each subdivision; and
+        
+        
+    
+    *   (h) in any case to which paragraph (f)(iii) applies, the number of members of the local board proposed to be elected by the electors of each ward; and
+    
+    *   (i) the proposed name of any local board.
     
     (2) The determination required by subsection (1) must be made by a territorial authority,---
         
@@ -1346,17 +1453,29 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) subsequently, at least once in every period of 6 years after the year in which the first determination was made.
     
-    (2A) To avoid doubt, subsection (2) is subject to [sections 19K(1AA)][41] and [19M(1)][43].
+    (2A) To avoid doubt, subsection (2) is subject to [sections 19K(1AA)][44] and [19M(1)][46].
     
-    (3) This section must be read in conjunction with [section 19ZH][65] and [Schedule 1A][278].
+    (3) This section must be read in conjunction with [section 19ZH][68] and [Schedule 1A][281].
     
-    Compare: 1974 No 66 [s 101H(1)][309]
+    Compare: 1974 No 66 [s 101H(1)][314]
     
-    Section 19H: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19H: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19H(2)(b): replaced, on 29 June 2013, by [section 6(1)][310] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19H(1)(d)(ii): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 19H(2A): inserted, on 29 June 2013, by [section 6(2)][310] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19H(1)(e): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19H(1)(f): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19H(1)(g): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19H(1)(h): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19H(1)(i): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19H(2)(b): replaced, on 29 June 2013, by [section 6(1)][315] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19H(2A): inserted, on 29 June 2013, by [section 6(2)][315] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19I Review of representation arrangements for elections of regional councils
     
@@ -1374,21 +1493,21 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) subsequently, at least once in every period of 6 years after the year in which the first determination was made.
     
-    (2A) To avoid doubt, subsection (2) is subject to [sections 19K(1AA)][41] and [19M(1)][43].
+    (2A) To avoid doubt, subsection (2) is subject to [sections 19K(1AA)][44] and [19M(1)][46].
     
-    (3) This section must be read in conjunction with [section 19ZH][65] and [Schedule 1A][278].
+    (3) This section must be read in conjunction with [section 19ZH][68] and [Schedule 1A][281].
     
-    Compare: 1974 No 66 [s 101H(2)][309]
+    Compare: 1974 No 66 [s 101H(2)][314]
     
-    Section 19I: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19I: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19I(2)(b): replaced, on 29 June 2013, by [section 7(1)][311] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19I(2)(b): replaced, on 29 June 2013, by [section 7(1)][316] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 19I(2A): inserted, on 29 June 2013, by [section 7(2)][311] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19I(2A): inserted, on 29 June 2013, by [section 7(2)][316] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19J Review of community boards
     
-*   (1) A territorial authority must, on every occasion on which it passes a resolution under [section 19H][36], determine by that resolution, and in accordance with this Part, not only the matters referred to in that section but also whether, in light of the principle set out in [section 4(1)(a)][4] (which relates to fair and effective representation for individuals and communities),---
+*   (1) A territorial authority must, on every occasion on which it passes a resolution under [section 19H][39], determine by that resolution, and in accordance with this Part, not only the matters referred to in that section but also whether, in light of the principle set out in [section 4(1)(a)][4] (which relates to fair and effective representation for individuals and communities),---
         
     *   (a) there should be communities and community boards; and
     
@@ -1428,19 +1547,19 @@ Representation arrangements for elections of territorial authorities, regional c
         
         
     
-    (3) Nothing in this section limits the provisions of [section 19F][34].
+    (3) Nothing in this section limits the provisions of [section 19F][37].
     
-    Compare: 1974 No 66 [s 101ZR(3)][312]
+    Compare: 1974 No 66 [s 101ZR(3)][317]
     
-    Section 19J: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19J: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19JA Minor alterations to boundaries by territorial authority
     
-*   (1) A territorial authority may, in accordance with this section, determine by resolution new proposed boundaries of wards, communities, or subdivisions of communities of the district of the territorial authority.
+*   (1) A territorial authority may, in accordance with this section, determine by resolution new proposed boundaries of wards, communities, or subdivisions of local board areas or communities of the district of the territorial authority.
     
     (2) The territorial authority must be satisfied that,---
         
-    *   (a) since the existing boundaries of the wards, communities, or subdivisions of communities took effect as the basis for election at the last triennial general election, there have been changes at or near those boundaries to the boundaries of 1 or more allotments; and
+    *   (a) since the existing boundaries of the wards, communities, or subdivisions of local board areas or communities took effect as the basis for election at the last triennial general election, there have been changes at or near those boundaries to the boundaries of 1 or more allotments; and
     
     *   (b) the proposed boundaries of the wards, communities, or subdivisions constitute only minor alterations to the existing boundaries; and
     
@@ -1450,9 +1569,9 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (e) so far as is practicable, ward boundaries coincide with community boundaries (if applicable).
     
-    (3) Every meeting at which the territorial authority deliberates on the proposals contained in the resolution must be open to the public, except as provided by [Part 7][313] of the Local Government Official Information and Meetings Act 1987\.
+    (3) Every meeting at which the territorial authority deliberates on the proposals contained in the resolution must be open to the public, except as provided by [Part 7][318] of the Local Government Official Information and Meetings Act 1987\.
     
-    (4) The territorial authority must refer the resolution to the Commission, together with the information concerning the communities of interest and population of the district or community, and the proposed wards, communities, or subdivisions, that is held by the territorial authority and is necessary for the purposes of subsection (6).
+    (4) The territorial authority must refer the resolution to the Commission, together with the information concerning the communities of interest and population of the district or local board area or community, and the proposed wards, communities, or subdivisions, that is held by the territorial authority and is necessary for the purposes of subsection (6).
     
     (5) However, the territorial authority must not refer the resolution and information to the Commission after 15 January in the year of a triennial general election.
     
@@ -1468,17 +1587,23 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (9) The Commission must make its determination under subsection (6)(b) before 11 April in the year of the next triennial general election.
     
-    (10) [Section 19S][49] applies to the Commission's determination as if it were made under [section 19R(1)(b)][48], and [section 19Y(3) to (6)][55] apply with any necessary modifications.
+    (10) [Section 19S][52] applies to the Commission's determination as if it were made under [section 19R(1)(b)][51], and [section 19Y(3) to (6)][58] apply with any necessary modifications.
     
     (11) A territorial authority must not use this section if the territorial authority---
         
-    *   (a) is required to make a resolution under [section 19H][36] before the next triennial general election; or
+    *   (a) is required to make a resolution under [section 19H][39] before the next triennial general election; or
     
-    *   (b) has, since the last triennial general election, made a resolution under [section 19H][36]; or
+    *   (b) has, since the last triennial general election, made a resolution under [section 19H][39]; or
     
     *   (c) has, since the last triennial general election, already made a resolution under this section that was upheld by the Commission under subsection (6)(b).
     
-    Section 19JA: inserted, on 29 June 2013, by [section 8][314] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19JA: inserted, on 29 June 2013, by [section 8][319] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19JA(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19JA(2)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19JA(4): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19JB Minor alterations to boundaries by regional council
     
@@ -1496,7 +1621,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (e) so far as is practicable, constituency boundaries coincide with the boundaries of 1 or more territorial authority districts or the boundaries of wards.
     
-    (3) Every meeting at which the regional council deliberates on the proposals contained in the resolution must be open to the public, except as provided by [Part 7][313] of the Local Government Official Information and Meetings Act 1987\.
+    (3) Every meeting at which the regional council deliberates on the proposals contained in the resolution must be open to the public, except as provided by [Part 7][318] of the Local Government Official Information and Meetings Act 1987\.
     
     (4) The regional council must refer the resolution to the Commission, together with the information concerning the communities of interest and population of the region, and the proposed constituencies, that is held by the regional council and is necessary for the purposes of subsection (6).
     
@@ -1514,37 +1639,43 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (9) The Commission must make its determination under subsection (6)(b) before 11 April in the year of the next triennial general election.
     
-    (10) [Section 19S][49] applies to the Commission's determination as if it were made under [section 19R(1)(b)][48], and [section 19Y(3) to (6)][55] apply with any necessary modifications.
+    (10) [Section 19S][52] applies to the Commission's determination as if it were made under [section 19R(1)(b)][51], and [section 19Y(3) to (6)][58] apply with any necessary modifications.
     
     (11) A regional council must not use this section if the regional council---
         
-    *   (a) is required to make a resolution under [section 19I][37] before the next triennial general election; or
+    *   (a) is required to make a resolution under [section 19I][40] before the next triennial general election; or
     
-    *   (b) has, since the last triennial general election, made a resolution under [section 19I][37]; or
+    *   (b) has, since the last triennial general election, made a resolution under [section 19I][40]; or
     
     *   (c) has, since the last triennial general election, already made a resolution under this section that was upheld by the Commission under subsection (6)(b).
     
-    Section 19JB: inserted, on 29 June 2013, by [section 8][314] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19JB: inserted, on 29 June 2013, by [section 8][319] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19K Requirements for resolution
     
-*   (1AA) A resolution under [section 19H][36], [19I][37], or [19J][38] that affects the next triennial general election of members of a territorial authority, regional council, or community board must be passed no earlier than 1 March of the year before the year of the election.
+*   (1AA) A resolution under [section 19H][39], [19I][40], or [19J][41] that affects the next triennial general election of members of a territorial authority, regional council, local board, or community board must be passed no earlier than 1 March of the year before the year of the election.
     
     (1) Every resolution specified in subsection (3) must include or be accompanied by a description of each proposed ward, constituency, community, or subdivision, and its proposed boundaries, so as to make each proposed ward, constituency, community, or subdivision readily identifiable to the public.
     
-    (2) If any resolution under [section 19H][36] or [section 19I][37] or [section 19J][38] proposes any change to the basis of election, membership, or ward, constituency, community, or subdivision boundaries which applied at the last triennial general election of members of the territorial authority, regional council, or community board, that resolution must include an explanation of the reasons for the proposed change.
+    (2) If any resolution under [section 19H][39] or [section 19I][40] or [section 19J][41] proposes any change to the basis of election, membership, or ward, constituency, community, or subdivision boundaries which applied at the last triennial general election of members of the territorial authority, regional council, local board, or community board, that resolution must include an explanation of the reasons for the proposed change.
     
-    (3) Subsection (1) applies to every resolution under [section 19H(1)(a)(ii)][36] or section 19H(1)(a)(iii) or [section 19I(1)][37] or [section 19J(2)(a)][38] or section 19J(2)(b) or section 19J(2)(c) or section 19J(2)(d) or section 19J(2)(e) or section 19J(2)(h)(iii).
+    (3) Subsection (1) applies to every resolution under [section 19H(1)(a)(ii)][39] or section 19H(1)(a)(iii) or section 19H(1)(g) or [section 19I(1)][40] or [section 19J(2)(a)][41] or section 19J(2)(b) or section 19J(2)(c) or section 19J(2)(d) or section 19J(2)(e) or section 19J(2)(h)(iii).
     
-    Compare: 1974 No 66 [s 101H(3), (4)][309]
+    Compare: 1974 No 66 [s 101H(3), (4)][314]
     
-    Section 19K: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19K: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19K(1AA): inserted, on 29 June 2013, by [section 9][315] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19K(1AA): inserted, on 29 June 2013, by [section 9][320] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19K(1AA): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19K(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19K(3): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19L Distribution of copies of resolution
     
-*   If a territorial authority or regional council makes a resolution under [section 19H][36] or [section 19I][37] or [section 19J][38], that territorial authority or regional council must, as soon as practicable after making that resolution,---
+*   If a territorial authority or regional council makes a resolution under [section 19H][39] or [section 19I][40] or [section 19J][41], that territorial authority or regional council must, as soon as practicable after making that resolution,---
         
     *   (a) send a copy of that resolution to---
             
@@ -1562,23 +1693,23 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (c) in the case of a resolution made by a territorial authority, send a copy of that resolution to any regional council for a region in which the district of the territorial authority or any part of that district is situated.
     
-    Compare: 1974 No 66 [s 101I][316]
+    Compare: 1974 No 66 [s 101I][321]
     
-    Section 19L: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19L: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19L(a)(iv): replaced, on 29 June 2013, by [section 10][317] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19L(a)(iv): replaced, on 29 June 2013, by [section 10][322] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19M Public notice of proposals and responsibilities in relation to submissions
     
-*   (1) A territorial authority or regional council that makes a resolution under [section 19H][36] or [section 19I][37] or [section 19J][38] must, within 14 days after making the resolution (but, in the year immediately before the year of a triennial general election, not later than 8 September), give public notice of the proposals contained in the resolution.
+*   (1) A territorial authority or regional council that makes a resolution under [section 19H][39] or [section 19I][40] or [section 19J][41] must, within 14 days after making the resolution (but, in the year immediately before the year of a triennial general election, not later than 8 September), give public notice of the proposals contained in the resolution.
     
     (2) The public notice must---
         
     *   (a) include a statement about how persons interested in the proposals may inspect the full proposals; and
     
-    *   (b) specify the communities of interest considered by the territorial authority or regional council as required by [section 19T][50] and [section 19V][52] or, as the case may require, [section 19U][51] and section 19V; and
+    *   (b) specify the communities of interest considered by the territorial authority or regional council as required by [section 19T][53] and [section 19V][55] or, as the case may require, [section 19U][54] and section 19V; and
     
-    *   (c) specify the ratio of population to proposed members for each proposed ward (if any) or constituency or subdivision (if any), and the reasons for those proposals in terms of [section 19V(2)][52] and, if applicable, section 19V(3); and
+    *   (c) specify the ratio of population to proposed members for each proposed ward (if any) or constituency or subdivision (if any), and the reasons for those proposals in terms of [section 19V(2)][55] and, if applicable, section 19V(3); and
     
     *   (d) specify a period of not less than 1 month from the date of the first or only publication of the notice within which persons interested in the resolution may make submissions on the resolution to the territorial authority or regional council.
     
@@ -1600,19 +1731,19 @@ Representation arrangements for elections of territorial authorities, regional c
         
         
     
-    *   (c) ensure that, except as otherwise provided by [Part 7][313] of the Local Government Official Information and Meetings Act 1987, every meeting at which submissions on a resolution referred to in subsection (1) are heard or at which the territorial authority or regional council deliberates on the proposal is open to the public; and
+    *   (c) ensure that, except as otherwise provided by [Part 7][318] of the Local Government Official Information and Meetings Act 1987, every meeting at which submissions on a resolution referred to in subsection (1) are heard or at which the territorial authority or regional council deliberates on the proposal is open to the public; and
     
-    *   (d) subject to the [Local Government Official Information and Meetings Act 1987][318], make all written submissions on a resolution of that kind available to the public.
+    *   (d) subject to the [Local Government Official Information and Meetings Act 1987][323], make all written submissions on a resolution of that kind available to the public.
     
-    Compare: 1974 No 66 [s 101J(1)][319]
+    Compare: 1974 No 66 [s 101J(1)][324]
     
-    Section 19M: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19M: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19N Response to submissions
     
-*   (1) The territorial authority or regional council must, within 6 weeks after the end of the period allowed for the making of submissions and specified in the notice given under [section 19M][43],---
+*   (1) The territorial authority or regional council must, within 6 weeks after the end of the period allowed for the making of submissions and specified in the notice given under [section 19M][46],---
         
-    *   (a) consider all submissions received and may, by resolution, make such amendments to the resolution made under [section 19H][36] or [section 19I][37] or [section 19J][38], as the case may be, as it thinks fit; and
+    *   (a) consider all submissions received and may, by resolution, make such amendments to the resolution made under [section 19H][39] or [section 19I][40] or [section 19J][41], as the case may be, as it thinks fit; and
     
     *   (b) give public notice of its proposals.
     
@@ -1622,13 +1753,13 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) state both the reasons for the amendments and the reasons for any rejection of submissions; and
     
-    *   (ba) specify the communities of interest considered by the territorial authority (as required by [sections 19T][50] and [19V][52]) or regional council (as required by [sections 19U][51] and 19V); and
+    *   (ba) specify the communities of interest considered by the territorial authority (as required by [sections 19T][53] and [19V][55]) or regional council (as required by [sections 19U][54] and 19V); and
     
-    *   (bb) specify the ratio of population to proposed members for each proposed ward, constituency, or subdivision, and the reasons for those proposals in terms of [section 19V(2)][52] and, if applicable, section 19V(3); and
+    *   (bb) specify the ratio of population to proposed members for each proposed ward, constituency, or subdivision, and the reasons for those proposals in terms of [section 19V(2)][55] and, if applicable, section 19V(3); and
     
-    *   (c) specify the right of appeal conferred by [section 19O][45], including the place and closing date for the receipt of appeals; and
+    *   (c) specify the right of appeal conferred by [section 19O][48], including the place and closing date for the receipt of appeals; and
     
-    *   (d) if the territorial authority or regional council has amended its proposals under subsection (1)(a), specify the right of objection conferred by [section 19P][46], including the place and closing date for the receipt of objections.
+    *   (d) if the territorial authority or regional council has amended its proposals under subsection (1)(a), specify the right of objection conferred by [section 19P][49], including the place and closing date for the receipt of objections.
     
     (3) The territorial authority or regional council by which the public notice was given must---
         
@@ -1648,19 +1779,19 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (c) if that notice was given by a regional council, send a copy of that notice to every territorial authority whose district or a part of whose district is within the region.
     
-    Compare: 1974 No 66 [s 101J(3), (6)][319]
+    Compare: 1974 No 66 [s 101J(3), (6)][324]
     
-    Section 19N: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19N: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19N(2)(ba): inserted, on 29 June 2013, by [section 11(1)][320] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19N(2)(ba): inserted, on 29 June 2013, by [section 11(1)][325] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 19N(2)(bb): inserted, on 29 June 2013, by [section 11(1)][320] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19N(2)(bb): inserted, on 29 June 2013, by [section 11(1)][325] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 19N(3)(a)(iv): replaced, on 29 June 2013, by [section 11(2)][320] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19N(3)(a)(iv): replaced, on 29 June 2013, by [section 11(2)][325] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19O Appeals
     
-*   (1) Any person who or organisation (including a community board) that has made submissions on a resolution made under [section 19H][36] or [section 19I][37] or [section 19J][38] may lodge a written appeal against the decision of the territorial authority or regional council at the principal office of the territorial authority or regional council on or before the date specified in the public notice of that decision.
+*   (1) Any person who or organisation (including a local board or community board) that has made submissions on a resolution made under [section 19H][39] or [section 19I][40] or [section 19J][41] may lodge a written appeal against the decision of the territorial authority or regional council at the principal office of the territorial authority or regional council on or before the date specified in the public notice of that decision.
     
     (2) That date---
         
@@ -1674,51 +1805,57 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) may raise only those matters that were raised in the appellants' submissions.
     
-    Compare: 1974 No 66 [s 101J(4)][319]
+    Compare: 1974 No 66 [s 101J(4)][324]
     
-    Section 19O: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19O: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 19O(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19P Objections
     
-*   (1) If the territorial authority or regional council has, under [section 19N(1)(a)][44], amended the resolution made by it under [section 19H][36] or [section 19I][37] or [section 19J][38], any interested person or organisation (including a community board) may lodge a written objection to the amended resolution at the principal office of the territorial authority or regional council on or before the date specified in the public notice, which date must be the same date as that specified for the closing of receipt of appeals under [section 19O][45].
+*   (1) If the territorial authority or regional council has, under [section 19N(1)(a)][47], amended the resolution made by it under [section 19H][39] or [section 19I][40] or [section 19J][41], any interested person or organisation (including a local board or community board) may lodge a written objection to the amended resolution at the principal office of the territorial authority or regional council on or before the date specified in the public notice, which date must be the same date as that specified for the closing of receipt of appeals under [section 19O][48].
     
     (2) An objection lodged under this section must identify the matters to which the objection relates.
     
-    Compare: 1974 No 66 [s 101J(5)][319]
+    Compare: 1974 No 66 [s 101J(5)][324]
     
-    Section 19P: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19P: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 19P(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19Q Obligation to forward appeals and objections to Commission
     
-*   If the territorial authority or regional council receives any appeal under [section 19O][45] or any objection under [section 19P][46], the territorial authority or regional council must, as soon as practicable, but, in the year of a triennial general election, in no case later than 15 January, forward to the Commission---
+*   If the territorial authority or regional council receives any appeal under [section 19O][48] or any objection under [section 19P][49], the territorial authority or regional council must, as soon as practicable, but, in the year of a triennial general election, in no case later than 15 January, forward to the Commission---
         
-    *   (a) the resolution made under [section 19H][36] or [section 19I][37] or [section 19J][38] and any resolution made under [section 19N(1)(a)][44] that made amendments to the resolution made under section 19H or section 19I or section 19J; and
+    *   (a) the resolution made under [section 19H][39] or [section 19I][40] or [section 19J][41] and any resolution made under [section 19N(1)(a)][47] that made amendments to the resolution made under section 19H or section 19I or section 19J; and
     
-    *   (b) a copy of the public notice given under [section 19N(1)(b)][44]; and
+    *   (b) a copy of the public notice given under [section 19N(1)(b)][47]; and
     
-    *   (c) every submission made to the territorial authority or regional council on the resolution made by the territorial authority or regional council under [section 19H][36] or [section 19I][37] or [section 19J][38]; and
+    *   (c) every submission made to the territorial authority or regional council on the resolution made by the territorial authority or regional council under [section 19H][39] or [section 19I][40] or [section 19J][41]; and
     
-    *   (d) every appeal and objection received by the territorial authority or regional council under [section 19O][45] or [section 19P][46]; and
+    *   (d) every appeal and objection received by the territorial authority or regional council under [section 19O][48] or [section 19P][49]; and
     
-    *   (e) such information concerning the communities of interest and population of the district or region or community, or any proposed ward or constituency or subdivision, as is held by the territorial authority or regional council and is necessary for the purposes of [section 19R][48].
+    *   (e) such information concerning the communities of interest and population of the district or region or local board area or community, or any proposed ward or constituency or subdivision, as is held by the territorial authority or regional council and is necessary for the purposes of [section 19R][51].
     
-    Compare: 1974 No 66 [s 101J(7)][319]
+    Compare: 1974 No 66 [s 101J(7)][324]
     
-    Section 19Q: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19Q: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 19Q(e): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19R Commission to determine appeals and objections
     
 *   (1) The Commission must---
         
-    *   (a) consider the resolutions, submissions, appeals, objections, and information forwarded to it under [section 19Q][47]; and
+    *   (a) consider the resolutions, submissions, appeals, objections, and information forwarded to it under [section 19Q][50]; and
     
-    *   (b) subject to [sections 19T][50] and [19V][52] in the case of a territorial authority, and to [sections 19U][51] and 19V in the case of a regional council, determine,---
+    *   (b) subject to [sections 19T][53] and [19V][55] in the case of a territorial authority, and to [sections 19U][54] and 19V in the case of a regional council, determine,---
             
-        *   (i) in the case of a territorial authority that has made a resolution under [section 19H][36], the matters specified in that section:
+        *   (i) in the case of a territorial authority that has made a resolution under [section 19H][39], the matters specified in that section:
         
-        *   (ii) in the case of a regional council that has made a resolution under [section 19I][37], the matters specified in that section:
+        *   (ii) in the case of a regional council that has made a resolution under [section 19I][40], the matters specified in that section:
         
-        *   (iii) in the case of a territorial authority that has made a resolution under [section 19J][38], the matters specified in that section.
+        *   (iii) in the case of a territorial authority that has made a resolution under [section 19J][41], the matters specified in that section.
         
         
     
@@ -1730,13 +1867,13 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (3) The Commission must, before 11 April in the year of a triennial general election, complete the duties it is required to carry out under subsection (1).
     
-    Compare: 1974 No 66 [s 101K(1), (2)][321]
+    Compare: 1974 No 66 [s 101K(1), (2)][326]
     
-    Section 19R: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19R: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19S Determination of Commission
     
-*   (1) Notice in writing of every determination made under [section 19R(1)(b)][48], setting out the reasons for the determination, must be given by the Commission to the territorial authority or regional council concerned, and by public notice.
+*   (1) Notice in writing of every determination made under [section 19R(1)(b)][51], setting out the reasons for the determination, must be given by the Commission to the territorial authority or regional council concerned, and by public notice.
     
     (2) As soon as practicable after the publication of a public notice under subsection (1), the Commission must send a copy of that notice to---
         
@@ -1748,31 +1885,45 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (d) the Secretary for Local Government.
     
-    (3) Subject to [Part 2AA][322] of the Local Government Act 1974 or [Schedule 5][323] of the Local Government Act 2002, the determination of the Commission made under [section 19R(1)(b)][48] is final and comes into force for the next triennial general election, and continues in effect until a subsequent determination under this Part comes into effect.
+    (3) Subject to [Part 2AA][327] of the Local Government Act 1974 or [Schedule 5][328] of the Local Government Act 2002, the determination of the Commission made under [section 19R(1)(b)][51] is final and comes into force for the next triennial general election, and continues in effect until a subsequent determination under this Part comes into effect.
     
-    Compare: 1974 No 66 [s 101K(3)--(5)][321]
+    Compare: 1974 No 66 [s 101K(3)--(5)][326]
     
-    Section 19S: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19S: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19S(2)(c): amended, on 29 June 2013, by [section 12][324] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19S(2)(c): amended, on 29 June 2013, by [section 12][329] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
-##### 19T Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities
+##### 19T Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities and local boards
     
-*   In determining the matters specified in paragraphs (a) to (d) of [section 19H(1)][36], the territorial authority and, where appropriate, the Commission must ensure---
+*   (1) In determining the matters specified in paragraphs (a) to (d) of [section 19H(1)][39], the territorial authority and, where appropriate, the Commission must ensure---
         
     *   (a) that the election of members of the territorial authority (other than the mayor), in one of the ways specified in subparagraphs (i) to (iii) of section 19H(1)(a), will provide effective representation of communities of interest within the district; and
     
     *   (b) that ward boundaries coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
     
-    *   (c) that, so far as is practicable, ward boundaries coincide with community boundaries.
+    *   (c) that, so far as is practicable, ward boundaries coincide with any local board area or community boundaries.
     
-    Compare: 1974 No 66 [s 101L(2), (4)][325]
+    (2) In determining the matters specified in [section 19H(1)(e) to (h)][39], the territorial authority and, where appropriate, the Commission must ensure---
+        
+    *   (a) that the election of members of the local board, in one of the ways specified in [section 19H(1)(f)(i) to (iii)][39], will provide effective representation of communities of interest within the local board area; and
     
-    Section 19T: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    *   (b) that the boundaries of subdivisions coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
+    
+    *   (c) that, so far as is practicable, subdivision boundaries coincide with ward boundaries.
+    
+    Compare: 1974 No 66 [s 101L(2), (4)][330]
+    
+    Section 19T: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 19T heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19T(1)(c): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19T(2): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19U Requirement for effective representation and other factors in determination of membership and basis of election of regional council
     
-*   In determining the matters specified in paragraphs (a) to (c) of [section 19I(1)][37], the regional council and, where appropriate, the Commission must ensure---
+*   In determining the matters specified in paragraphs (a) to (c) of [section 19I(1)][40], the regional council and, where appropriate, the Commission must ensure---
         
     *   (a) that the number and boundaries of constituencies will provide effective representation of communities of interest within the region; and
     
@@ -1780,19 +1931,19 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (c) that, so far as is practicable, constituency boundaries coincide with the boundaries of 1 or more territorial authority districts or the boundaries of wards.
     
-    Compare: 1974 No 66 [s 101L(1)][325]
+    Compare: 1974 No 66 [s 101L(1)][330]
     
-    Section 19U: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19U: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19V Requirement for fair representation and other factors in determination of membership for wards, constituencies, and subdivisions
     
-*   (1) In determining the number of members to be elected by the electors of any ward or constituency or subdivision, the territorial authority or regional council and, where appropriate, the Commission must ensure that the electors of the ward or constituency or subdivision receive fair representation, having regard to the population of every district or region or community and every ward or constituency or subdivision within the district or region or community.
+*   (1) In determining the number of members to be elected by the electors of any ward or constituency or subdivision, the territorial authority or regional council and, where appropriate, the Commission must ensure that the electors of the ward or constituency or subdivision receive fair representation, having regard to the population of every district or region or local board area or community and every ward or constituency or subdivision within the district or region or local board area or community.
     
-    (2) For the purposes of giving effect to subsection (1), the territorial authority or regional council and, where appropriate, the Commission must ensure that the population of each ward or constituency or subdivision, divided by the number of members to be elected by that ward or constituency or subdivision, produces a figure no more than 10% greater or smaller than the population of the district or region or community divided by the total number of elected members (other than members elected by the electors of a territorial authority as a whole, if any, and the mayor, if any).
+    (2) For the purposes of giving effect to subsection (1), the territorial authority or regional council and, where appropriate, the Commission must ensure that the population of each ward or constituency or subdivision, divided by the number of members to be elected by that ward or constituency or subdivision, produces a figure no more than 10% greater or smaller than the population of the district or region or local board area or community divided by the total number of elected members (other than members elected by the electors of a territorial authority as a whole, if any, and the mayor, if any).
     
     (3) Despite subsection (2),---
         
-    *   (a) if the territorial authority or the Commission considers that 1 or more of the following apply, wards and subdivisions of a community may be defined and membership distributed between them in a way that does not comply with subsection (2):
+    *   (a) if the territorial authority or the Commission considers that 1 or more of the following apply, wards and subdivisions of a local board area or a community may be defined and membership distributed between them in a way that does not comply with subsection (2):
             
         *   (i) non-compliance with subsection (2) is required for effective representation of communities of interest within island communities or isolated communities situated within the district of the territorial authority; or
         
@@ -1804,51 +1955,57 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) if the regional council or the Commission considers that effective representation of communities of interest so requires, constituencies may be defined and membership distributed between them in a way that does not comply with subsection (2).
     
-    (4) A territorial authority or regional council that decides under subsection (3) not to comply with subsection (2) must refer that decision to the Commission together with the information specified in [section 19Q(a) to (e)][47].
+    (4) A territorial authority or regional council that decides under subsection (3) not to comply with subsection (2) must refer that decision to the Commission together with the information specified in [section 19Q(a) to (e)][50].
     
-    (5) A reference under subsection (4) must be treated as if it were an appeal against the decision of the territorial authority or regional council, for the purposes of [sections 19R][48] (other than subsection (1)(b)), [19S][49], and [19Y][55], which apply with any necessary modifications.
+    (5) A reference under subsection (4) must be treated as if it were an appeal against the decision of the territorial authority or regional council, for the purposes of [sections 19R][51] (other than subsection (1)(b)), [19S][52], and [19Y][58], which apply with any necessary modifications.
     
-    (6) On receiving a reference under subsection (4), the Commission must determine, under [section 19R(1)][48], whether---
+    (6) On receiving a reference under subsection (4), the Commission must determine, under [section 19R(1)][51], whether---
         
     *   (a) to uphold the decision of the territorial authority or regional council; or
     
     *   (b) to alter that decision.
     
-    Compare: 1974 No 66 [s 101L(3)][325]
+    Compare: 1974 No 66 [s 101L(3)][330]
     
-    Section 19V: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19V: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19V(2): amended, on 7 July 2004, by [section 7][326] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 19V(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 19V(3)(a): replaced, on 29 June 2013, by [section 13(1)][327] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19V(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 19V(4): amended, on 29 June 2013, by [section 13(2)][327] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19V(2): amended, on 7 July 2004, by [section 7][331] of the Local Electoral Amendment Act 2004 (2004 No 62).
     
-    Section 19V(4): amended, on 29 June 2013, by [section 13(3)][327] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19V(3)(a): replaced, on 29 June 2013, by [section 13(1)][332] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 19V(5): amended, on 29 June 2013, by [section 13(3)][327] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19V(3)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 19V(6)(a): amended, on 29 June 2013, by [section 13(3)][327] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19V(4): amended, on 29 June 2013, by [section 13(2)][332] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19V(4): amended, on 29 June 2013, by [section 13(3)][332] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19V(5): amended, on 29 June 2013, by [section 13(3)][332] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19V(6)(a): amended, on 29 June 2013, by [section 13(3)][332] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 19W Factors in determination of matters in relation to community boards
     
-*   In determining the matters specified in paragraphs (a) to (i) of [section 19J(2)][38], the territorial authority and, where appropriate, the Commission must ensure---
+*   In determining the matters specified in paragraphs (a) to (i) of [section 19J(2)][41], the territorial authority and, where appropriate, the Commission must ensure---
         
-    *   (a) that, in the case of the matters specified in paragraphs (a) to (g) of [section 19J(2)][38], it has regard to such of the criteria as apply to local government reorganisation under the [Local Government Act 1974][328] or the [Local Government Act 2002][329] as the territorial authority or the Commission considers appropriate in the circumstances; and
+    *   (a) that, in the case of the matters specified in paragraphs (a) to (g) of [section 19J(2)][41], it has regard to such of the criteria as apply to local government reorganisation under the [Local Government Act 1974][333] or the [Local Government Act 2002][334] as the territorial authority or the Commission considers appropriate in the circumstances; and
     
-    *   (b) that the election of members of the community board, in one of the ways specified in subparagraphs (i) to (iii) of [section 19J(2)(h)][38], will provide effective representation of communities of interest within the community and fair representation of electors; and
+    *   (b) that the election of members of the community board, in one of the ways specified in subparagraphs (i) to (iii) of [section 19J(2)(h)][41], will provide effective representation of communities of interest within the community and fair representation of electors; and
     
     *   (c) that the boundaries of every community, and of every subdivision of a community, coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
     
-    Compare: 1974 No 66 [ss 101ZH(2)][330], [101ZL][331]
+    Compare: 1974 No 66 [ss 101ZH(2)][335], [101ZL][336]
     
-    Section 19W: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19W: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19W(a): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 19W(a): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 19X Certificate of Government Statistician
     
-*   (1) For the purposes of [sections 19H to 19W][36], the certificate of the Government Statistician as to the population of any region, district, constituency, ward, community, or subdivision or any proposed constituency, ward, community, or subdivision is to be---
+*   (1) For the purposes of [sections 19H to 19W][39], the certificate of the Government Statistician as to the population of any region, district, local board area, constituency, ward, community, or subdivision or any proposed constituency, ward, community, or subdivision is to be---
         
     *   (a) a certificate of the ordinarily resident population as shown by the figures for the most recently published census (other than the figures for a census carried out in the year before a triennial general election of a territorial authority or regional council or the year in which such an election is to be held); or
     
@@ -1856,13 +2013,15 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (2) Every territorial authority and every regional council must supply to the Government Statistician such information as may be required by the Government Statistician concerning the definition of any area to which any certificate of the kind referred to in subsection (1) is to relate.
     
-    Compare: 1974 No 66 [s 101L(5)][325]
+    Compare: 1974 No 66 [s 101L(5)][330]
     
-    Section 19X: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19X: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 19X(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 19Y When determinations take effect
     
-*   (1) If there are no submissions on the proposal publicly notified under [section 19M][43] by a territorial authority or regional council, or if there are no appeals against, or objections to, a resolution publicly notified under [section 19N(1)][44] by a territorial authority or a regional council, the proposal or amended proposal, as the case may be, becomes the basis for election at the next triennial general election of the territorial authority or regional council or community board, and continues in effect until a subsequent determination under this Part comes into effect, and the territorial authority or regional council must give public notice accordingly of that basis for election.
+*   (1) If there are no submissions on the proposal publicly notified under [section 19M][46] by a territorial authority or regional council, or if there are no appeals against, or objections to, a resolution publicly notified under [section 19N(1)][47] by a territorial authority or a regional council, the proposal or amended proposal, as the case may be, becomes the basis for election at the next triennial general election of the territorial authority or regional council or local board or community board, and continues in effect until a subsequent determination under this Part comes into effect, and the territorial authority or regional council must give public notice accordingly of that basis for election.
     
     (2) As soon as practicable after the publication of a public notice under subsection (1), the territorial authority or regional council by which that notice was given must---
         
@@ -1884,7 +2043,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (c) if that notice was given by a regional council, send a copy of that notice to every territorial authority whose district or a part of whose district is within the region.
     
-    (3) If a territorial authority or a regional council has, under subsection (1), or the Commission has, under [section 19S(1)][49], given public notice of the basis of election for the next triennial general election for a territorial authority or regional council or community board, no such basis has effect unless---
+    (3) If a territorial authority or a regional council has, under subsection (1), or the Commission has, under [section 19S(1)][52], given public notice of the basis of election for the next triennial general election for a territorial authority or regional council or local board or community board, no such basis has effect unless---
         
     *   (a) a description or plan of each ward or constituency or community or subdivision has been sent to the Surveyor-General; and
     
@@ -1904,15 +2063,19 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) a copy must be kept at the office of the territorial authority or regional council, and must be available for inspection without fee by any person during normal office hours.
     
-    Compare: 1974 No 66 [s 101M][333]
+    Compare: 1974 No 66 [s 101M][338]
     
-    Section 19Y: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19Y: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19Y(2)(a)(iv): amended, on 29 June 2013, by [section 14][334] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19Y(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 19Y(2)(a)(iv): amended, on 29 June 2013, by [section 14][339] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 19Y(3): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 #### Māori wards and Māori constituencies
     
-*   Heading: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Heading: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19Z Territorial authority or regional council may resolve to establish Māori wards or Māori constituencies
     
@@ -1930,13 +2093,13 @@ Representation arrangements for elections of territorial authorities, regional c
             
         *   (i) a further resolution under this section takes effect; or
         
-        *   (ii) a poll of electors of the territorial authority or regional council held under [section 19ZF][63] takes effect.
+        *   (ii) a poll of electors of the territorial authority or regional council held under [section 19ZF][66] takes effect.
         
         
     
-    (4) This section is subject to [section 19ZE][62] and to [clauses 2(5)][335] and [4(4)][336] of Schedule 1A.
+    (4) This section is subject to [section 19ZE][65] and to [clauses 2(5)][340] and [4(4)][341] of Schedule 1A.
     
-    (5) In this section and in [sections 19ZB to 19ZG][59], _associated election_, in relation to any 2 successive triennial general elections of a territorial authority or regional council, means---
+    (5) In this section and in [sections 19ZB to 19ZG][62], _associated election_, in relation to any 2 successive triennial general elections of a territorial authority or regional council, means---
         
     *   (a) any election to fill an extraordinary vacancy in the membership of the body concerned that is held---
             
@@ -1946,7 +2109,7 @@ Representation arrangements for elections of territorial authorities, regional c
         
         
     
-    *   (b) an election of the members of the body concerned under [section 258I][337] or [258M][338] of the Local Government Act 2002 that is held---
+    *   (b) an election of the members of the body concerned under [section 258I][342] or [258M][343] of the Local Government Act 2002 that is held---
             
         *   (i) between those elections; or
         
@@ -1954,15 +2117,15 @@ Representation arrangements for elections of territorial authorities, regional c
         
         
     
-    Section 19Z: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19Z: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19Z(4): amended, on 28 June 2006, by [section 4][339] of the Local Electoral Amendment Act 2006 (2006 No 25).
+    Section 19Z(4): amended, on 28 June 2006, by [section 4][344] of the Local Electoral Amendment Act 2006 (2006 No 25).
     
-    Section 19Z(5)(b): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 19Z(5)(b): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 19ZA Public notice of right to demand poll
     
-*   (1) A territorial authority or regional council that passes a resolution under [section 19Z][57] must give public notice, not later than the required date, of the right to demand, under [section 19ZB][59], a poll on the question whether,---
+*   (1) A territorial authority or regional council that passes a resolution under [section 19Z][60] must give public notice, not later than the required date, of the right to demand, under [section 19ZB][62], a poll on the question whether,---
         
     *   (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
     
@@ -1970,19 +2133,19 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (2) The public notice under subsection (1) must include---
         
-    *   (a) notice of the resolution under [section 19Z][57]; and
+    *   (a) notice of the resolution under [section 19Z][60]; and
     
     *   (b) a statement that a poll is required to countermand that resolution.
     
     (3) In subsection (1), _required date_ means,---
         
-    *   (a) in the case of a resolution under [section 19Z][57] that is made after a triennial general election but not later than 23 November of the year that is 2 years before the next triennial general election, 30 November in that year:
+    *   (a) in the case of a resolution under [section 19Z][60] that is made after a triennial general election but not later than 23 November of the year that is 2 years before the next triennial general election, 30 November in that year:
     
     *   (b) in the case of a resolution under section 19Z that is made at some other time, the date that is 7 days after the date of the resolution.
     
-    (4) This section is subject to [section 19ZE][62].
+    (4) This section is subject to [section 19ZE][65].
     
-    Section 19ZA: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZA: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZB Electors may demand poll
     
@@ -1992,15 +2155,15 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
     
-    (2) This section is subject to [section 19ZE][62].
+    (2) This section is subject to [section 19ZE][65].
     
-    (3) In this section and [sections 19ZC][60] and [19ZD][61],---
+    (3) In this section and [sections 19ZC][63] and [19ZD][64],---
     
     _demand_ means a demand referred to in subsection (1)
     
     _specified number of electors_, in relation to a territorial authority or regional council, means a number of electors equal to or greater than 5% of the number of electors enrolled as eligible to vote at the previous triennial general election of the territorial authority or regional council.
     
-    Section 19ZB: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZB: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZC Requirements for valid demand
     
@@ -2018,7 +2181,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (c) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a) or paragraph (b),---
             
-        *   (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the [Electoral Act 1993][340] or is currently the subject of a direction by the Electoral Commission under [section 115][341] of that Act (which relates to unpublished names); and
+        *   (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the [Electoral Act 1993][345] or is currently the subject of a direction by the Electoral Commission under [section 115][346] of that Act (which relates to unpublished names); and
         
         *   (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the territorial authority or regional council; or
         
@@ -2046,15 +2209,15 @@ Representation arrangements for elections of territorial authorities, regional c
         
     *   (a) must be held after 21 May in that year; and
     
-    *   (b) has effect in accordance with [section 19ZG(4)][64] (which provides that the poll has effect for the purposes of the next but one triennial general election and the subsequent triennial general election).
+    *   (b) has effect in accordance with [section 19ZG(4)][67] (which provides that the poll has effect for the purposes of the next but one triennial general election and the subsequent triennial general election).
     
-    (5) The chief executive of the territorial authority or regional council must, as soon as practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with [section 19ZB][59] and this section.
+    (5) The chief executive of the territorial authority or regional council must, as soon as practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with [section 19ZB][62] and this section.
     
-    (6) This section is subject to [section 19ZE][62].
+    (6) This section is subject to [section 19ZE][65].
     
-    Section 19ZC: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZC: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19ZC(2)(c)(i): amended, on 1 July 2012, by [section 58(4)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 19ZC(2)(c)(i): amended, on 1 July 2012, by [section 58(4)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 19ZD Territorial authority or regional council may resolve to hold poll
     
@@ -2066,33 +2229,33 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (2) A resolution under subsection (1) may, but need not, specify the date on which the poll is to be held.
     
-    (3) The date specified for the holding of a poll must not be a date that would require deferral of the poll under [section 138A][256].
+    (3) The date specified for the holding of a poll must not be a date that would require deferral of the poll under [section 138A][259].
     
     (4) The chief executive of the territorial authority or regional council must give notice to the electoral officer under subsection (1),---
         
     *   (a) if no date for the holding of the poll is specified in the resolution, as soon as is practicable:
     
-    *   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that will enable the poll to be conducted in accordance with [section 19ZF(3)][63].
+    *   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that will enable the poll to be conducted in accordance with [section 19ZF(3)][66].
     
-    (5) This section is subject to [section 19ZE][62].
+    (5) This section is subject to [section 19ZE][65].
     
-    Section 19ZD: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZD: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZE Limitation on division into Māori wards or Māori constituencies
     
-*   [Sections 19Z to 19ZD][57] do not apply, in relation to a territorial authority or regional council, if---
+*   [Sections 19Z to 19ZD][60] do not apply, in relation to a territorial authority or regional council, if---
         
-    *   (a) a poll on the proposal described in [section 19ZB][59] or [section 19ZD][61] held under [section 19ZF][63] took effect at the previous triennial general election of the territorial authority or regional council or takes effect at the next triennial general election of the territorial authority or regional council; or
+    *   (a) a poll on the proposal described in [section 19ZB][62] or [section 19ZD][64] held under [section 19ZF][66] took effect at the previous triennial general election of the territorial authority or regional council or takes effect at the next triennial general election of the territorial authority or regional council; or
     
     *   (b) another enactment requires that the district be divided into 1 or more Māori wards or the region be divided into 1 or more Māori constituencies.
     
-    Section 19ZE: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZE: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZF Poll of electors
     
-*   (1) If the electoral officer for a territorial authority or regional council receives notice under [section 19ZC(5)][60] or [section 19ZD(4)][61], the electoral officer must, as soon as practicable after receiving that notice, give public notice of the poll under [section 52][114].
+*   (1) If the electoral officer for a territorial authority or regional council receives notice under [section 19ZC(5)][63] or [section 19ZD(4)][64], the electoral officer must, as soon as practicable after receiving that notice, give public notice of the poll under [section 52][117].
     
-    (2) Despite subsection (1), if an electoral officer for a territorial authority or regional council receives 1 or more notices under both [section 19ZC(5)][60] and [section 19ZD(4)][61], or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that those polls would, if combined, take effect at the same general election, and if it is practicable to combine those polls, be combined.
+    (2) Despite subsection (1), if an electoral officer for a territorial authority or regional council receives 1 or more notices under both [section 19ZC(5)][63] and [section 19ZD(4)][64], or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that those polls would, if combined, take effect at the same general election, and if it is practicable to combine those polls, be combined.
     
     (3) A poll held under this section must be held not later than 82 days after the date on which---
         
@@ -2100,7 +2263,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) the last notice referred to in subsection (2) is received.
     
-    (4) Subsection (3) is subject to subsection (2), [section 19ZC(4)][60], and [section 138A][256].
+    (4) Subsection (3) is subject to subsection (2), [section 19ZC(4)][63], and [section 138A][259].
     
     (5) Every poll under this section that is held in conjunction with a triennial general election or held after that date but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held determines whether, for the next 2 triennial general elections for the territorial authority or regional council and any associated election,---
         
@@ -2114,9 +2277,9 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) the region of the regional council is to be divided into 1 or more Māori constituencies.
     
-    (7) Subsections (5) and (6) are subject to [clauses 2(5)][335] and [4(4)][336] of Schedule 1A.
+    (7) Subsections (5) and (6) are subject to [clauses 2(5)][340] and [4(4)][341] of Schedule 1A.
     
-    Section 19ZF: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZF: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZG Effect of poll
     
@@ -2128,7 +2291,7 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) in the case of a regional council, for the next 2 triennial general elections of the regional council, and any associated election; and
     
-    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under [section 258I][337] or [258M][338] of the Local Government Act 2002, until a further resolution under [section 19Z][57] takes effect or a further poll held under [section 19ZF][63] takes effect, whichever occurs first.
+    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under [section 258I][342] or [258M][343] of the Local Government Act 2002, until a further resolution under [section 19Z][60] takes effect or a further poll held under [section 19ZF][66] takes effect, whichever occurs first.
     
     (3) Subsection (4) applies to a poll held at some other time.
     
@@ -2138,15 +2301,15 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) in the case of a regional council, for the next but one triennial general election and the following triennial general election of the regional council, and any associated election; and
     
-    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under [section 258I][337] or [258M][338] of the Local Government Act 2002, until a further resolution under [section 19Z][57] takes effect or a further poll held under [section 19ZF][63] takes effect, whichever occurs first.
+    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under [section 258I][342] or [258M][343] of the Local Government Act 2002, until a further resolution under [section 19Z][60] takes effect or a further poll held under [section 19ZF][66] takes effect, whichever occurs first.
     
-    (5) This section is subject to [clauses 2(5)][335] and [4(4)][336] of Schedule 1A.
+    (5) This section is subject to [clauses 2(5)][340] and [4(4)][341] of Schedule 1A.
     
-    Section 19ZG: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZG: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19ZG(2)(c): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 19ZG(2)(c): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 19ZG(4)(c): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 19ZG(4)(c): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 19ZH Basis of election of territorial authority and regional council
     
@@ -2156,17 +2319,17 @@ Representation arrangements for elections of territorial authorities, regional c
     
     *   (b) a region of a regional council is required to be divided into 1 or more Māori constituencies,---
     
-    the provisions of this Part (other than those of [sections 19B][30], [19G][35], and [19J][38], and those of this section) are subject to the provisions of [Schedule 1A][278].
+    the provisions of this Part (other than those of [sections 19B][30], [19G][38], and [19J][41], and those of this section) are subject to the provisions of [Schedule 1A][281].
     
-    Section 19ZH: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZH: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 #### Guidelines
     
-*   Heading: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Heading: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 19ZI Guidelines in relation to reviews of representation or minor alterations to boundaries
     
-*   (1) The Commission must issue guidelines identifying factors and considerations for territorial authorities or regional councils to take into account in making determinations under any of the provisions of [sections 19H to 19JB][36] and [Schedule 1A][278].
+*   (1) The Commission must issue guidelines identifying factors and considerations for territorial authorities or regional councils to take into account in making determinations under any of the provisions of [sections 19H to 19JB][39] and [Schedule 1A][281].
     
     (2) The Commission may, from time to time, amend or revoke any guidelines issued under subsection (1).
     
@@ -2192,11 +2355,11 @@ Representation arrangements for elections of territorial authorities, regional c
     
     (6) The provisions of subsections (4) and (5) apply, with all necessary modifications, in respect of any amendment or revocation of any guidelines issued under subsection (1).
     
-    Section 19ZI: inserted, on 25 December 2002, by [section 6][303] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 19ZI: inserted, on 25 December 2002, by [section 6][307] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 19ZI heading: amended, on 29 June 2013, by [section 15(1)][342] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19ZI heading: amended, on 29 June 2013, by [section 15(1)][347] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 19ZI(1): amended, on 29 June 2013, by [section 15(2)][342] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 19ZI(1): amended, on 29 June 2013, by [section 15(2)][347] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ## Part 2  
 Local elections and polls
@@ -2233,15 +2396,15 @@ Local elections and polls
         
     *   (a) the elector's name does not appear on the copy of the roll used for that election or poll or has been wrongly deleted from that copy; or
     
-    *   (b) in the case of an election or poll relating to a ward, community, or constituency, the elector has qualified as an elector and the name of the elector is entered on a roll for the territorial authority or other local authority in whose district or region the ward, community, or constituency is situated, but is not entered on a roll in respect of that ward, community, or constituency; or
+    *   (b) in the case of an election or poll relating to a ward, local board area, community, or constituency, the elector has qualified as an elector and the name of the elector is entered on a roll for the territorial authority or other local authority in whose district or region the ward, local board area, community, or constituency is situated, but is not entered on a roll in respect of that ward, local board area, community, or constituency; or
     
-    *   (c) the elector is a person to whom, for any other reason, [section 20(2) or (3)][70] applies; or
+    *   (c) the elector is a person to whom, for any other reason, [section 20(2) or (3)][73] applies; or
     
     *   (d) the elector spoils, loses, or does not receive his or her voting documents; or
     
     *   (e) the elector satisfies the electoral officer that it will not be possible or practicable for the elector to vote by casting an ordinary vote without incurring hardship or undue inconvenience.
     
-    
+    Section 21(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 22 Voting by special voters
     
@@ -2253,25 +2416,33 @@ Local elections and polls
     
 *   Every parliamentary elector is qualified as a residential elector of a local government area if the address in respect of which the person is registered as a parliamentary elector is within the local government area.
     
-    Compare: 1974 No 66 [s 101F(1)][343]
+    Compare: 1974 No 66 [s 101F(1)][348]
 
 ##### 24 Ratepayer electors
     
-*   (1) Every parliamentary elector is qualified as a ratepayer elector of a region, a district, or a community if the address for which the person is registered as a parliamentary elector is outside the region, district, or community, and---
+*   (1) Every parliamentary elector is qualified as a ratepayer elector of a region, a district, a local board area, or a community if the address for which the person is registered as a parliamentary elector is outside the region, district, local board area, or community, and---
         
-    *   (a) that person is identified in the appropriate valuation roll as the sole ratepayer in respect of a rating unit within the region, district, or community; or
+    *   (a) that person is identified in the appropriate valuation roll as the sole ratepayer in respect of a rating unit within the region, district, local board area, or community; or
     
-    *   (b) that person is nominated to be enrolled as a ratepayer elector in respect of a rating unit within the region, district, or community, owned by 1 or more ratepayers, none of whom is qualified as a residential elector within the region, district, or community.
+    *   (b) that person is nominated to be enrolled as a ratepayer elector in respect of a rating unit within the region, district, local board area, or community, owned by 1 or more ratepayers, none of whom is qualified as a residential elector within the region, district, local board area, or community.
     
-    (2) Subsection (1) does not authorise the nomination of different persons by the same ratepayer or ratepayers in respect of different properties within the same region, district, or community.
+    (2) Subsection (1) does not authorise the nomination of different persons by the same ratepayer or ratepayers in respect of different properties within the same region, district, local board area, or community.
     
-    Compare: 1974 No 66 [s 101F(2)][343]
+    Compare: 1974 No 66 [s 101F(2)][348]
     
-    Section 24(1)(a): amended, on 7 July 2004, by [section 8(a)][344] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 24(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 24(1)(b): amended, on 7 July 2004, by [section 8(b)(i)][344] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 24(1)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 24(1)(b): amended, on 7 July 2004, by [section 8(b)(ii)][344] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 24(1)(a): amended, on 7 July 2004, by [section 8(a)][349] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    
+    Section 24(1)(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 24(1)(b): amended, on 7 July 2004, by [section 8(b)(i)][349] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    
+    Section 24(1)(b): amended, on 7 July 2004, by [section 8(b)(ii)][349] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    
+    Section 24(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 24A Electors of Māori wards
     
@@ -2307,17 +2478,17 @@ Local elections and polls
     
     is, at the election, an elector of that Māori ward.
     
-    Compare: 2001 No 1 (L) [s 10(1)(a), (2)(a)][345]
+    Compare: 2001 No 1 (L) [s 10(1)(a), (2)(a)][350]
     
-    Section 24A: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24A: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 24A(3): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24A(3): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 24A(4): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24A(4): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 24B Voting rights at triennial general election of territorial authority
     
-*   (1) A person who, under [section 24A][75], is an elector of a Māori ward of a territorial authority is, at a triennial general election,---
+*   (1) A person who, under [section 24A][78], is an elector of a Māori ward of a territorial authority is, at a triennial general election,---
         
     *   (a) entitled to vote---
             
@@ -2327,7 +2498,7 @@ Local elections and polls
         
         *   (iii) at the election of the member or members (if any) to be elected to represent the whole of the district; and
         
-        *   (iv) at the election of the member or members of the appropriate community board (if any) situated within or partly within the Māori ward; but
+        *   (iv) at the election of the member or members of the appropriate local board or community board (if any) situated within or partly within the Māori ward; but
         
         
     
@@ -2335,19 +2506,21 @@ Local elections and polls
     
     (2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Māori ward of that territorial authority.
     
-    Compare: 2001 No 1 (L) [s 11][347]
+    Compare: 2001 No 1 (L) [s 11][352]
     
-    Section 24B: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24B: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 24B(1)(a)(iv): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 24C Voting rights at election to fill extraordinary vacancy in respect of Māori ward
     
-*   (1) A person who, under [section 24A][75], is an elector of a Māori ward of a territorial authority is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori ward, entitled to vote at that election.
+*   (1) A person who, under [section 24A][78], is an elector of a Māori ward of a territorial authority is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori ward, entitled to vote at that election.
     
     (2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Māori ward of that territorial authority.
     
-    Compare: 2001 No 1 (L) [s 12][348]
+    Compare: 2001 No 1 (L) [s 12][353]
     
-    Section 24C: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24C: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 24D Electors of Māori constituencies
     
@@ -2383,17 +2556,17 @@ Local elections and polls
     
     is, at that election, an elector of that Māori constituency.
     
-    Compare: 2001 No 1 (L) [s 10(1)(a), (2)(a)][345]
+    Compare: 2001 No 1 (L) [s 10(1)(a), (2)(a)][350]
     
-    Section 24D: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24D: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 24D(3): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24D(3): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 24D(4): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 24D(4): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 24E Voting rights at triennial general election of regional council
     
-*   (1) A person who, under [section 24D][78], is an elector of a Māori constituency of a regional council is, at a triennial general election,---
+*   (1) A person who, under [section 24D][81], is an elector of a Māori constituency of a regional council is, at a triennial general election,---
         
     *   (a) entitled to vote at the election of the member or members who will represent that constituency; but
     
@@ -2401,31 +2574,31 @@ Local elections and polls
     
     (2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Māori constituency of that regional council.
     
-    Compare: 2001 No 1 (L) [s 11][347]
+    Compare: 2001 No 1 (L) [s 11][352]
     
-    Section 24E: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24E: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 24F Voting rights at election to fill extraordinary vacancy in respect of Māori constituency
     
-*   (1) A person who, under [section 24D][78], is an elector of a Māori constituency of a regional council is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori constituency, entitled to vote at that election.
+*   (1) A person who, under [section 24D][81], is an elector of a Māori constituency of a regional council is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori constituency, entitled to vote at that election.
     
     (2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Māori constituency of that regional council.
     
-    Compare: 2001 No 1 (L) [s 12][348]
+    Compare: 2001 No 1 (L) [s 12][353]
     
-    Section 24F: inserted, on 25 December 2002, by [section 7][346] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 24F: inserted, on 25 December 2002, by [section 7][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 25 Candidate qualifications
     
 *   (1) Every parliamentary elector is qualified to be a candidate at every election to be held under this Act if that person is a New Zealand citizen.
     
-    (2) This section is subject to [section 58][123].
+    (2) This section is subject to [section 58][126].
     
-    Section 25(1): substituted, on 25 December 2002, by [section 8][349] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 25(1): substituted, on 25 December 2002, by [section 8][354] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 26 Right to nominate candidate
     
-*   Two or more electors of a local government area or, in the case of an election in any subdivision, 2 or more electors of that subdivision, are qualified to nominate, in the manner provided in [section 55][118], 1 or more qualified persons as candidates at the election in that area or subdivision.
+*   Two or more electors of a local government area or, in the case of an election in any subdivision, 2 or more electors of that subdivision, are qualified to nominate, in the manner provided in [section 55][121], 1 or more qualified persons as candidates at the election in that area or subdivision.
     
     Compare: 1976 No 144 s 12(1)
 
@@ -2433,23 +2606,23 @@ Local elections and polls
 
 ##### 27 Local authority may resolve to change electoral systems
     
-*   (1) Any local authority may, not later than 12 September in the year that is 2 years before the year in which the next triennial general election is to be held, resolve that the next 2 triennial general elections of the local authority and its community boards (if any), and any associated election, will be held using a specified electoral system other than that used for the previous triennial general election.
+*   (1) Any local authority may, not later than 12 September in the year that is 2 years before the year in which the next triennial general election is to be held, resolve that the next 2 triennial general elections of the local authority and its local boards or community boards (if any), and any associated election, will be held using a specified electoral system other than that used for the previous triennial general election.
     
     (2) A resolution under this section---
         
-    *   (a) takes effect, subject to paragraph (b), for the next 2 triennial general elections of the local authority and its community boards (if any), and any associated election; and
+    *   (a) takes effect, subject to paragraph (b), for the next 2 triennial general elections of the local authority and its local boards or community boards (if any), and any associated election; and
     
     *   (b) continues in effect until either---
             
         *   (i) a further resolution under this section takes effect; or
         
-        *   (ii) a poll of electors of the local authority held under [section 33][90] takes effect.
+        *   (ii) a poll of electors of the local authority held under [section 33][93] takes effect.
         
         
     
-    (3) This section is subject to [section 32][89].
+    (3) This section is subject to [section 32][92].
     
-    (4) In this section, and in [sections 28 to 34][85], _associated election_, in relation to any 2 successive triennial general elections of a local authority (and its community boards (if any)), means---
+    (4) In this section, and in [sections 28 to 34][88], _associated election_, in relation to any 2 successive triennial general elections of a local authority (and its local boards or community boards (if any)), means---
         
     *   (a) any election to fill an extraordinary vacancy in the membership of the body concerned that is held---
             
@@ -2467,49 +2640,59 @@ Local elections and polls
         
         
     
-    Section 27(1): amended, on 25 December 2002, by [section 9(1)][350] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 27(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 27(2)(a): substituted, on 25 December 2002, by [section 9(2)][350] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 27(1): amended, on 25 December 2002, by [section 9(1)][355] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 27(2)(b)(ii): amended, on 25 December 2002, by [section 9(3)][350] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 27(2)(a): substituted, on 25 December 2002, by [section 9(2)][355] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 27(4): added, on 25 December 2002, by [section 9(4)][350] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 27(2)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 27(4)(b): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 27(2)(b)(ii): amended, on 25 December 2002, by [section 9(3)][355] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 27(4): added, on 25 December 2002, by [section 9(4)][355] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 27(4): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 27(4)(b): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 28 Public notice of right to demand poll on electoral system
     
-*   (1) Every local authority must, not later than 19 September in the year that is 2 years before the year in which the next triennial general election is to be held, give public notice of the right to demand, under [section 29][86], a poll on the electoral system to be used for the elections of the local authority and its community boards (if any).
+*   (1) Every local authority must, not later than 19 September in the year that is 2 years before the year in which the next triennial general election is to be held, give public notice of the right to demand, under [section 29][89], a poll on the electoral system to be used for the elections of the local authority and its local boards or community boards (if any).
     
-    (2) If the local authority has passed a resolution under [section 27][84] that takes effect at the next triennial election, every notice under subsection (1) must include---
+    (2) If the local authority has passed a resolution under [section 27][87] that takes effect at the next triennial election, every notice under subsection (1) must include---
         
     *   (a) notice of that resolution; and
     
     *   (b) a statement that a poll is required to countermand that resolution.
     
-    (2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under [section 31][88] and has specified a date for the holding of the poll that is on or before 21 May in the year before the next triennial general election, subsection (1) does not apply.
+    (2A) Despite subsections (1) and (2), if, on or before the date referred to in subsection (1), the local authority has passed a resolution under [section 31][91] and has specified a date for the holding of the poll that is on or before 21 May in the year before the next triennial general election, subsection (1) does not apply.
     
-    (3) This section is subject to [section 32][89].
+    (3) This section is subject to [section 32][92].
     
-    Section 28(1): amended, on 25 December 2002, by [section 10(1)][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 28(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 28(2): amended, on 25 December 2002, by [section 10(2)][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 28(1): amended, on 25 December 2002, by [section 10(1)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 28(2A): inserted, on 25 December 2002, by [section 10(3)][351] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 28(2): amended, on 25 December 2002, by [section 10(2)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 28(2A): inserted, on 25 December 2002, by [section 10(3)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 29 Electors may demand poll
     
-*   (1) A specified number of electors of a local authority may, at any time, demand that a poll be held on a proposal by those electors that a specified electoral system be used at the elections of the local authority and its community boards (if any).
+*   (1) A specified number of electors of a local authority may, at any time, demand that a poll be held on a proposal by those electors that a specified electoral system be used at the elections of the local authority and its local boards or community boards (if any).
     
-    (2) This section is subject to [section 32][89].
+    (2) This section is subject to [section 32][92].
     
-    (3) In this section and [sections 30][87] and [31][88],---
+    (3) In this section and [sections 30][90] and [31][91],---
     
     _demand_ means a demand referred to in subsection (1)
     
     _specified number of electors_, in relation to a local authority, means a number of electors equal to or greater than 5% of the number of electors enrolled as eligible to vote at the previous general election of the local authority.
     
-    Section 29(1): amended, on 25 December 2002, by [section 11][352] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 29(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 29(1): amended, on 25 December 2002, by [section 11][357] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 30 Requirements for valid demand
     
@@ -2531,7 +2714,7 @@ Local elections and polls
     
     *   (b) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a),---
             
-        *   (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the [Electoral Act 1993][340] or is currently the subject of a direction by the Electoral Commission under [section 115][341] of that Act (which relates to unpublished names); and
+        *   (i) the name of the elector is included on the most recently published electoral roll for any electoral district under the [Electoral Act 1993][345] or is currently the subject of a direction by the Electoral Commission under [section 115][346] of that Act (which relates to unpublished names); and
         
         *   (ii) the address for which the elector is registered as a parliamentary elector is within the local government area of the local authority; or
         
@@ -2557,59 +2740,61 @@ Local elections and polls
         
     *   (a) must be held after 21 May in that year; and
     
-    *   (b) has effect in accordance with [section 34(2)][91] (which provides that the poll has effect for the purposes of the next but one triennial general election of the local authority and the subsequent triennial general election).
+    *   (b) has effect in accordance with [section 34(2)][94] (which provides that the poll has effect for the purposes of the next but one triennial general election of the local authority and the subsequent triennial general election).
     
-    (4) The chief executive of the local authority must, as soon as is practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with [section 29][86] and this section.
+    (4) The chief executive of the local authority must, as soon as is practicable, give notice to the electoral officer of every valid demand for a poll made in accordance with [section 29][89] and this section.
     
-    (5) This section is subject to [section 32][89].
+    (5) This section is subject to [section 32][92].
     
-    Section 30(1)(b): substituted, on 25 December 2002, by [section 12(1)][353] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 30(1)(b): substituted, on 25 December 2002, by [section 12(1)][358] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 30(2)(b)(i): amended, on 1 July 2012, by [section 58(5)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 30(2)(b)(i): amended, on 1 July 2012, by [section 58(5)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 30(3A): inserted, on 25 December 2002, by [section 12(2)][353] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 30(3A): inserted, on 25 December 2002, by [section 12(2)][358] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 30(4): amended, on 25 December 2002, by [section 12(3)][353] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 30(4): amended, on 25 December 2002, by [section 12(3)][358] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 31 Local authority may resolve to hold poll
     
-*   (1) A local authority may, no later than 28 February in the year immediately before the year in which the next triennial general election is to be held, resolve that a poll be held on a proposal that a specified electoral system be used for the elections of the local authority and its community boards (if any).
+*   (1) A local authority may, no later than 28 February in the year immediately before the year in which the next triennial general election is to be held, resolve that a poll be held on a proposal that a specified electoral system be used for the elections of the local authority and its local boards or community boards (if any).
     
     (2) A resolution may, but need not, specify a date on which the poll is to be held.
     
-    (2A) The date specified for the holding of a poll must not be a date that would require deferral of the poll under [section 138A][256].
+    (2A) The date specified for the holding of a poll must not be a date that would require deferral of the poll under [section 138A][259].
     
     (3) The chief executive of the local authority must give notice to the electoral officer of any resolution under subsection (1),---
         
     *   (a) if no date for the holding of the poll is specified in the resolution, as soon as is practicable:
     
-    *   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that enables the poll to be conducted in accordance with [section 33(3)][90].
+    *   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that enables the poll to be conducted in accordance with [section 33(3)][93].
     
-    (4) This section is subject to [section 32][89].
+    (4) This section is subject to [section 32][92].
     
-    Section 31(1): substituted, on 25 December 2002, by [section 13(1)][354] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 31(1): substituted, on 25 December 2002, by [section 13(1)][359] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 31(2): substituted, on 25 December 2002, by [section 13(1)][354] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 31(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 31(2A): inserted, on 25 December 2002, by [section 13(1)][354] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 31(2): substituted, on 25 December 2002, by [section 13(1)][359] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 31(3): substituted, on 25 December 2002, by [section 13(2)][354] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 31(2A): inserted, on 25 December 2002, by [section 13(1)][359] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 31(3): substituted, on 25 December 2002, by [section 13(2)][359] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 32 Limitation on change to electoral systems
     
-*   [Sections 27 to 31][84] do not apply if---
+*   [Sections 27 to 31][87] do not apply if---
         
-    *   (a) a poll on the proposal described in [section 29][86] or [section 31][88] held under [section 33][90] took effect at the previous triennial general election of the local authority or takes effect at the next triennial general election of the local authority:
+    *   (a) a poll on the proposal described in [section 29][89] or [section 31][91] held under [section 33][93] took effect at the previous triennial general election of the local authority or takes effect at the next triennial general election of the local authority:
     
     *   (b) another enactment requires a particular electoral system to be used for the election of members of a local authority.
     
-    Section 32(a): substituted, on 25 December 2002, by [section 14][355] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 32(a): substituted, on 25 December 2002, by [section 14][360] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 33 Poll of electors
     
-*   (1) If the electoral officer for a local authority receives notice under [section 30(4)][87] or [section 31(3)][88], the electoral officer must, as soon as is practicable after receiving that notice, give public notice of the poll under [section 52][114].
+*   (1) If the electoral officer for a local authority receives notice under [section 30(4)][90] or [section 31(3)][91], the electoral officer must, as soon as is practicable after receiving that notice, give public notice of the poll under [section 52][117].
     
-    (2) Despite subsection (1), if an electoral officer for a local authority receives 1 or more notices under both [sections 30(4)][87] and [31(3)][88], or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that the result of those polls would take effect at the same election, and if it is practicable to combine those polls, be combined.
+    (2) Despite subsection (1), if an electoral officer for a local authority receives 1 or more notices under both [sections 30(4)][90] and [31(3)][91], or more than 1 notice under either section, in any period between 2 triennial general elections, the polls required to be taken under each notice may, to the extent that the result of those polls would take effect at the same election, and if it is practicable to combine those polls, be combined.
     
     (3) A poll held under this section must be held not later than 82 days after the date on which---
         
@@ -2617,63 +2802,67 @@ Local elections and polls
     
     *   (b) the last notice referred to in subsection (2) is received.
     
-    (3A) Subsection (3) is subject to subsection (2), [section 30(3A)][87] and [section 138A][256].
+    (3A) Subsection (3) is subject to subsection (2), [section 30(3A)][90] and [section 138A][259].
     
     (3B) Voters at a poll held under this section decide the proposal or proposals that are the subject of the poll by voting for one of the electoral systems named in the voting document or, as the case may require, expressing a preference in respect of each of the electoral systems named in the voting document.
     
-    (4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its community boards (if any) and any associated election is to be---
+    (4) Every poll under this section that is held in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held determines whether the electoral system to be used for the next 2 triennial general elections of the local authority and its local boards or community boards (if any) and any associated election is to be---
         
     *   (a) the electoral system used at the previous general election of the local authority; or
     
-    *   (b) the electoral system specified in any resolution under [section 27][84]; or
+    *   (b) the electoral system specified in any resolution under [section 27][87]; or
     
-    *   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under [section 30(4)][87] and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
+    *   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under [section 30(4)][90] and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
     
-    *   (d) the electoral system specified in any resolution of which the electoral officer has received notice under [section 31(3)][88].
+    *   (d) the electoral system specified in any resolution of which the electoral officer has received notice under [section 31(3)][91].
     
-    (5) Every poll under this section that is held at some other time determines whether the electoral system to be used at the next but one triennial general election of the local authority and its community boards (if any) and any associated election is to be---
+    (5) Every poll under this section that is held at some other time determines whether the electoral system to be used at the next but one triennial general election of the local authority and its local boards or community boards (if any) and any associated election is to be---
         
     *   (a) the electoral system used at the previous general election of the local authority; or
     
-    *   (b) the electoral system specified in any resolution under [section 27][84]; or
+    *   (b) the electoral system specified in any resolution under [section 27][87]; or
     
-    *   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under [section 30(4)][87] and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
+    *   (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under [section 30(4)][90] and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
     
-    *   (d) the electoral system specified in any resolution of which the electoral officer has received notice under [section 31(3)][88].
+    *   (d) the electoral system specified in any resolution of which the electoral officer has received notice under [section 31(3)][91].
     
-    Section 33(2): substituted, on 25 December 2002, by [section 15(1)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 33(2): substituted, on 25 December 2002, by [section 15(1)][361] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 33(3A): inserted, on 25 December 2002, by [section 15(2)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 33(3A): inserted, on 25 December 2002, by [section 15(2)][361] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 33(3B): inserted, on 25 December 2002, by [section 15(2)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 33(3B): inserted, on 25 December 2002, by [section 15(2)][361] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 33(4): substituted, on 25 December 2002, by [section 15(3)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 33(4): substituted, on 25 December 2002, by [section 15(3)][361] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 33(5): added, on 25 December 2002, by [section 15(3)][356] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 33(4): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 33(5): added, on 25 December 2002, by [section 15(3)][361] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 33(5): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 34 Effect of poll
     
-*   (1) If a poll is held under [section 33][90] in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used---
+*   (1) If a poll is held under [section 33][93] in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held, the electoral system adopted or confirmed must be used---
         
     *   (a) for the next 2 triennial general elections:
     
     *   (b) for any associated election:
     
-    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under [section 27][84] takes effect or a further poll held under section 33 takes effect, whichever occurs first.
+    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under [section 27][87] takes effect or a further poll held under section 33 takes effect, whichever occurs first.
     
-    (2) If a poll is held under [section 33][90] at some other time, the electoral system adopted or confirmed must be used---
+    (2) If a poll is held under [section 33][93] at some other time, the electoral system adopted or confirmed must be used---
         
     *   (a) for the next but one triennial general election and the following triennial general election:
     
     *   (b) for any associated election:
     
-    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under [section 27][84] takes effect or a further poll held under section 33 takes effect, whichever occurs first.
+    *   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 258I or 258M of the Local Government Act 2002, until a further resolution under [section 27][87] takes effect or a further poll held under section 33 takes effect, whichever occurs first.
     
-    Section 34: substituted, on 25 December 2002, by [section 16][357] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 34: substituted, on 25 December 2002, by [section 16][362] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 34(1)(c): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 34(1)(c): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 34(2)(c): amended, on 5 December 2012, by [section 43][332] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 34(2)(c): amended, on 5 December 2012, by [section 43][337] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 #### Electoral systems for polls
 
@@ -2715,9 +2904,9 @@ Local elections and polls
 
 ##### 37 Consultation
     
-*   (1) Before passing any resolution under [section 36(1)][95] that will apply to elections or polls conducted for any other local authority, the local authority concerned must consult that local authority.
+*   (1) Before passing any resolution under [section 36(1)][98] that will apply to elections or polls conducted for any other local authority, the local authority concerned must consult that local authority.
     
-    (2) In determining what resolution is to be adopted under [section 36][95], the local authority concerned must have regard to the results of any consultation under subsection (1).
+    (2) In determining what resolution is to be adopted under [section 36][98], the local authority concerned must have regard to the results of any consultation under subsection (1).
 
 #### Electoral rolls
 
@@ -2741,9 +2930,9 @@ Local elections and polls
     
     *   (c) comply with any other prescribed requirements.
     
-    (4) For the purposes of determining the names and other details of residential electors to be included in the electoral roll, the electoral officer must obtain from the Electoral Commission under [section 113][358] of the Electoral Act 1993 a computer-compiled list containing the specified information (as contained in that section) in respect of electors appearing to reside within the local government area of the local authority.
+    (4) For the purposes of determining the names and other details of residential electors to be included in the electoral roll, the electoral officer must obtain from the Electoral Commission under [section 113][363] of the Electoral Act 1993 a computer-compiled list containing the specified information (as contained in that section) in respect of electors appearing to reside within the local government area of the local authority.
     
-    Section 38(4): amended, on 1 July 2012, by [section 58(6)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 38(4): amended, on 1 July 2012, by [section 58(6)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 39 Public notice of procedures for enrolment as ratepayer on electoral roll
     
@@ -2759,35 +2948,41 @@ Local elections and polls
     
     Compare: 1976 No 144 s 7BEB
     
-    Section 39(1)(b): amended, on 7 July 2004, by [section 9][359] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 39(1)(b): amended, on 7 July 2004, by [section 9][364] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
-##### 40 No person to be enrolled more than once for local authority or community board
+##### 40 No person to be enrolled more than once for local authority or local board or community board
     
 *   The name of any person must not appear more than once in the same electoral roll.
+    
+    Section 40 heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 41 Supply of information by Electoral Commission
     
-*   (1) If the electoral officer wishes to find out whether any person is qualified as a ratepayer elector under [section 24][74] and is registered as a parliamentary elector in respect of an address outside the region, district, or community, the Electoral Commission, on the request of the electoral officer, must inform the electoral officer whether that person is registered as a parliamentary elector in respect of that address.
+*   (1) If the electoral officer wishes to find out whether any person is qualified as a ratepayer elector under [section 24][77] and is registered as a parliamentary elector in respect of an address outside the region, district, local board area, or community, the Electoral Commission, on the request of the electoral officer, must inform the electoral officer whether that person is registered as a parliamentary elector in respect of that address.
     
-    (2) The electoral officer may request the Electoral Commission to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, or community is registered as a parliamentary elector of a Māori electoral district.
+    (2) The electoral officer may request the Electoral Commission to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, local board area, or community is registered as a parliamentary elector of a Māori electoral district.
     
     (3) If the Electoral Commission receives a request under subsection (2), the Electoral Commission must provide the information requested by the electoral officer, if the electoral officer has provided adequate identifying information.
     
     Compare: 1976 No 144 s 7BF
     
-    Section 41 heading: amended, on 1 July 2012, by [section 58(7)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 41 heading: amended, on 1 July 2012, by [section 58(7)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 41(1): amended, on 1 July 2012, by [section 58(8)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 41(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 41(2): added, on 25 December 2002, by [section 17][360] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 41(1): amended, on 1 July 2012, by [section 58(8)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 41(2): amended, on 1 July 2012, by [section 58(8)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 41(2): added, on 25 December 2002, by [section 17][365] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 41(3): added, on 25 December 2002, by [section 17][360] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 41(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 41(3): amended, on 1 July 2012, by [section 58(8)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 41(2): amended, on 1 July 2012, by [section 58(8)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
     
-    Section 41(3): amended, on 1 July 2012, by [section 58(9)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 41(3): added, on 25 December 2002, by [section 17][365] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 41(3): amended, on 1 July 2012, by [section 58(8)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    
+    Section 41(3): amended, on 1 July 2012, by [section 58(9)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 42 Roll to be available for public inspection
     
@@ -2813,7 +3008,7 @@ Local elections and polls
     
     (3) If a roll is made available for public inspection under subsection (1), the roll must be made available at such times and places as the electoral officer thinks fit.
     
-    Compare: 1993 No 87 [s 111][361]
+    Compare: 1993 No 87 [s 111][366]
 
 ##### 44 Application for registration as parliamentary elector
     
@@ -2825,13 +3020,13 @@ Local elections and polls
     
     *   (c) is recorded on the electoral roll with an incorrect address or occupation.
     
-    (2) Any person to whom this subsection applies may make application for registration or correction of registration as a parliamentary elector in the form prescribed by the [Electoral Act 1993][340] or by regulations made under that Act.
+    (2) Any person to whom this subsection applies may make application for registration or correction of registration as a parliamentary elector in the form prescribed by the [Electoral Act 1993][345] or by regulations made under that Act.
     
     Compare: 1976 No 144 s 7E
 
 ##### 45 Completion of electoral roll
     
-*   The electoral officer must, as soon as practicable after the closing of the electoral roll, obtain from the Electoral Commission under [section 113][358] of the Electoral Act 1993 a further computer-compiled list, and must complete the compilation of the electoral roll,---
+*   The electoral officer must, as soon as practicable after the closing of the electoral roll, obtain from the Electoral Commission under [section 113][363] of the Electoral Act 1993 a further computer-compiled list, and must complete the compilation of the electoral roll,---
         
     *   (a) in the case of residential electors, by using that list; or
     
@@ -2839,7 +3034,7 @@ Local elections and polls
     
     Compare: 1976 No 144 s 7F
     
-    Section 45: amended, on 1 July 2012, by [section 58(10)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 45: amended, on 1 July 2012, by [section 58(10)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 46 Removal of names from electoral roll
     
@@ -2853,13 +3048,13 @@ Local elections and polls
     
 *   (1) The electoral officer may, on the application of any person who is or claims to be entitled to be enrolled or any other person or otherwise, make any necessary corrections to any names, addresses, occupations, abbreviations, marks, or other details, appearing in the electoral roll.
     
-    (2) Despite subsection (1), the electoral officer must not amend any information received under [section 113][358] of the Electoral Act 1993 unless the electoral officer is satisfied that the elector is dead, in which case the electoral officer must remove the name of the elector from the electoral roll.
+    (2) Despite subsection (1), the electoral officer must not amend any information received under [section 113][363] of the Electoral Act 1993 unless the electoral officer is satisfied that the elector is dead, in which case the electoral officer must remove the name of the elector from the electoral roll.
     
     (3) If the electoral officer receives advice from the Electoral Commission that a person whose name is included on the electoral roll as a ratepayer elector is eligible to be included on the roll as a residential elector, the electoral officer must amend the roll accordingly.
     
     Compare: 1976 No 144 s 7G
     
-    Section 47(3): amended, on 1 July 2012, by [section 58(11)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 47(3): amended, on 1 July 2012, by [section 58(11)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 48 Objections to roll
     
@@ -2881,11 +3076,11 @@ Local elections and polls
 
 ##### 49 Appeals to District Court in respect of roll
     
-*   (1) Any person aggrieved by any decision of the electoral officer under [section 48][108] may appeal to a District Court Judge against the decision.
+*   (1) Any person aggrieved by any decision of the electoral officer under [section 48][111] may appeal to a District Court Judge against the decision.
     
     (2) The appeal may be brought by the appellant lodging a notice of appeal in the office of the District Court that is closest to the principal office of the local authority that appointed the electoral officer.
     
-    (3) The notice of appeal must be lodged within 7 days after the date on which the appellant receives, under [section 48(3)(b)][108], written notice of the decision to which the appeal relates.
+    (3) The notice of appeal must be lodged within 7 days after the date on which the appellant receives, under [section 48(3)(b)][111], written notice of the decision to which the appeal relates.
     
     (4) Either before or immediately after lodging the notice of appeal, the appellant must serve a copy of the notice of appeal on the electoral officer.
     
@@ -2907,7 +3102,7 @@ Local elections and polls
     
     (2) No alteration or addition may be made in or to any electoral roll while it is closed, except---
         
-    *   (a) in cases where an appeal was pending under [section 49][109] when the roll was closed; or
+    *   (a) in cases where an appeal was pending under [section 49][112] when the roll was closed; or
     
     *   (b) for the purpose of complying with a claim for enrolment or of an application for the alteration of an entry in the electoral roll, delivered to the electoral officer before the closing of the roll; or
     
@@ -2970,11 +3165,11 @@ Conduct of elections and polls
     
     (4) An electoral officer who gives public notice under this section must send a copy of that notice to any other electoral officer involved in the conduct of the election or poll.
     
-    Section 52(1)(g): repealed, on 25 December 2002, by [section 18][362] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 52(1)(g): repealed, on 25 December 2002, by [section 18][367] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 53 Additional material to be included in notice in respect of election
     
-*   In the case of an election, a notice under [section 52][114] must also state---
+*   In the case of an election, a notice under [section 52][117] must also state---
         
     *   (a) the day and time by which nominations must be received; and
     
@@ -2990,7 +3185,7 @@ Conduct of elections and polls
 
 ##### 54 Additional material to be included in notice in respect of poll
     
-*   In the case of a poll, a notice under [section 52][114] must also---
+*   In the case of a poll, a notice under [section 52][117] must also---
         
     *   (a) state the proposal or subject matter of the poll; and
     
@@ -3012,7 +3207,7 @@ Conduct of elections and polls
     
     (2) An electoral officer must not accept the nomination of a candidate unless---
         
-    *   (a) the person nominated, by notice in writing, consents to nomination and certifies that he or she is qualified to be a candidate under [section 25][81] and is not disqualified under [section 58][123]; and
+    *   (a) the person nominated, by notice in writing, consents to nomination and certifies that he or she is qualified to be a candidate under [section 25][84] and is not disqualified under [section 58][126]; and
     
     *   (b) the person nominated is qualified to be a candidate; and
     
@@ -3046,13 +3241,13 @@ Conduct of elections and polls
     
     (5) Any person may inspect any nomination or consent without payment of any fee at any time during ordinary office hours at the office of the electoral officer.
     
-    Section 55(2)(ba): inserted, on 25 December 2002, by [section 19(1)][363] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 55(2)(ba): inserted, on 25 December 2002, by [section 19(1)][368] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 55(2)(e): replaced, on 29 June 2013, by [section 16(1)][364] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 55(2)(e): replaced, on 29 June 2013, by [section 16(1)][369] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 55(2)(f): inserted, on 29 June 2013, by [section 16(1)][364] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 55(2)(f): inserted, on 29 June 2013, by [section 16(1)][369] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 55(3): replaced, on 29 June 2013, by [section 16(2)][364] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 55(3): replaced, on 29 June 2013, by [section 16(2)][369] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 56 Name of candidate
     
@@ -3060,7 +3255,7 @@ Conduct of elections and polls
         
     *   (a) the name under which the candidate's birth was registered; or
     
-    *   (b) the name which the candidate adopted by deed poll or by statutory declaration under [Part 3][365] of the Births, Deaths, Marriages, and Relationships Registration Act 1995, at least 6 months before nomination day; or
+    *   (b) the name which the candidate adopted by deed poll or by statutory declaration under [Part 3][370] of the Births, Deaths, Marriages, and Relationships Registration Act 1995, at least 6 months before nomination day; or
     
     *   (c) the name by which the candidate was commonly known during the 6 months before nomination day, not being a name that---
             
@@ -3074,9 +3269,9 @@ Conduct of elections and polls
         
         
     
-    Section 56(b): amended, on 24 January 2009, by [section 47][366] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 56(b): amended, on 24 January 2009, by [section 47][371] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 56(c)(iii): substituted, on 25 December 2002, by [section 20][367] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 56(c)(iii): substituted, on 25 December 2002, by [section 20][372] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 57 Affiliation of candidate
     
@@ -3092,9 +3287,11 @@ Conduct of elections and polls
 
 ##### 57A Candidacy for more than 1 ward or constituency or subdivision prohibited
     
-*   No person may, at the same time, be a candidate for election for more than 1 ward or constituency of the same local authority or for more than 1 subdivision of a community.
+*   No person may, at the same time, be a candidate for election for more than 1 ward or constituency of the same local authority or for more than 1 subdivision of a local board area or community.
     
-    Section 57A: inserted, on 25 December 2002, by [section 21][368] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 57A: inserted, on 25 December 2002, by [section 21][373] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 57A: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 57B Candidacy for ward and membership at large prohibited
     
@@ -3106,9 +3303,9 @@ Conduct of elections and polls
     
     *   (b) as mayor of the territorial authority of which that ward forms part.
     
-    Section 57B: inserted, on 25 December 2002, by [section 21][368] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 57B: inserted, on 25 December 2002, by [section 21][373] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 57B(2): added, on 7 July 2004, by [section 10][369] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 57B(2): added, on 7 July 2004, by [section 10][374] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 58 Candidacy for both regional council and constituent authority prohibited
     
@@ -3117,6 +3314,8 @@ Conduct of elections and polls
     _constituent authority_, in relation to any region, means---
         
     *   (a) a territorial authority having jurisdiction over a constituent district; or
+    
+    *   (aa) a local board for a local board area that is wholly or partly within the region; or
     
     *   (b) a community board for a community that is wholly or partly within the region
     
@@ -3130,7 +3329,17 @@ Conduct of elections and polls
     
     (5) Subsections (3) and (4) do not apply if a general election of members of the regional council of a region is to be held concurrently with a general election of members of a constituent authority of that region.
     
-    Compare: 1974 No 66 [s 101GA][370]
+    Compare: 1974 No 66 [s 101GA][375]
+    
+    Section 58(1) **_constituent authority_** paragraph (aa): inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+
+##### 58AA Prohibition on candidacy for local board
+    
+*   (1) No member of the governing body of a unitary authority may be a candidate for election as a member of a local board for a local board area within the district of the unitary authority.
+    
+    (2) Subsection (1) does not apply if a general election of members of the governing body of the unitary authority is to be held at the same time as a general election of members of the local board.
+    
+    Section 58AA: inserted, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 58A Prohibition on candidacy for community board
     
@@ -3138,7 +3347,7 @@ Conduct of elections and polls
     
     (2) Subsection (1) does not apply if a general election of members of the territorial authority is to be held at the same time as a general election of members of the community board.
     
-    Section 58A: inserted, on 25 December 2002, by [section 22][371] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 58A: inserted, on 25 December 2002, by [section 22][376] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 59 Forfeiture of deposit and refund of deposit
     
@@ -3160,21 +3369,21 @@ Conduct of elections and polls
         
         
     
-    *   (b) the candidate (other than a candidate who dies before the close of voting) complies with [section 112A][214] (which requires candidates to file a return of electoral donations and expenses).
+    *   (b) the candidate (other than a candidate who dies before the close of voting) complies with [section 112A][217] (which requires candidates to file a return of electoral donations and expenses).
     
     (3) Subsection (2)(a) overrides subsection (1).
     
     Compare: 1976 No 144 s 15
     
-    Section 59(2): substituted, on 25 December 2002, by [section 23][372] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 59(2): substituted, on 25 December 2002, by [section 23][377] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 59(2)(a)(i): replaced, on 29 June 2013, by [section 17(1)][373] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 59(2)(a)(i): replaced, on 29 June 2013, by [section 17(1)][378] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 59(2)(a)(ia): inserted, on 29 June 2013, by [section 17(1)][373] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 59(2)(a)(ia): inserted, on 29 June 2013, by [section 17(1)][378] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 59(2)(b): replaced, on 29 June 2013, by [section 17(2)][373] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 59(2)(b): replaced, on 29 June 2013, by [section 17(2)][378] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 59(3): added, on 25 December 2002, by [section 23][372] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 59(3): added, on 25 December 2002, by [section 23][377] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 60 Withdrawal, death, or incapacity of candidate before close of nominations
     
@@ -3204,9 +3413,9 @@ Conduct of elections and polls
         
         
     
-    *   (b) must be provided to the electoral officer, together with the nomination paper and other things referred to in [section 55(2)(f)][118]; and
+    *   (b) must be provided to the electoral officer, together with the nomination paper and other things referred to in [section 55(2)(f)][121]; and
     
-    *   (c) must be confined to information concerning the candidate (including any group or organisation with which the candidate claims under [section 55(4)][118] to be affiliated, or his or her status as an independent candidate, and the candidate's contact details), and the candidate's policies and intentions if elected to office; and
+    *   (c) must be confined to information concerning the candidate (including any group or organisation with which the candidate claims under [section 55(4)][121] to be affiliated, or his or her status as an independent candidate, and the candidate's contact details), and the candidate's policies and intentions if elected to office; and
     
     *   (ca) must state whether or not the candidate's principal place of residence, being the address in respect of which the candidate is registered as a parliamentary elector, is in the local government area for which the candidate seeks election (for example, either ""My principal place of residence is in the Lambton Ward"" or ""My principal place of residence is not in the Lambton Ward""); and
     
@@ -3246,23 +3455,23 @@ Conduct of elections and polls
         
         
     
-    Section 61(2)(b): replaced, on 29 June 2013, by [section 18(1)][374] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 61(2)(b): replaced, on 29 June 2013, by [section 18(1)][379] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 61(2)(c): amended, on 25 December 2002, by [section 24(2)][375] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 61(2)(c): amended, on 25 December 2002, by [section 24(2)][380] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 61(2)(ca): inserted, on 29 June 2013, by [section 18(2)][374] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 61(2)(ca): inserted, on 29 June 2013, by [section 18(2)][379] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 61(2)(cb): inserted, on 29 June 2013, by [section 18(2)][374] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 61(2)(cb): inserted, on 29 June 2013, by [section 18(2)][379] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 61(2A): inserted, on 29 June 2013, by [section 18(3)][374] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 61(2A): inserted, on 29 June 2013, by [section 18(3)][379] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 61(4)(b): amended, on 25 December 2002, by [section 24(3)][375] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 61(4)(b): amended, on 25 December 2002, by [section 24(3)][380] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 61(5): amended, on 25 December 2002, by [section 24(4)][375] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 61(5): amended, on 25 December 2002, by [section 24(4)][380] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 62 Provision of candidate profile statements to electors
     
-*   (1) An electoral officer who receives a candidate profile statement in accordance with [section 61][128] must ensure that all prescribed requirements concerning the publication, display, or distribution of candidate profile statements to electors at the election are complied with.
+*   (1) An electoral officer who receives a candidate profile statement in accordance with [section 61][131] must ensure that all prescribed requirements concerning the publication, display, or distribution of candidate profile statements to electors at the election are complied with.
     
     (2) Any failure by an electoral officer to comply with this section does not invalidate an election.
 
@@ -3282,7 +3491,7 @@ Conduct of elections and polls
         
     *   (a) is an extraordinary vacancy; and
     
-    *   (b) is to be treated as occurring on polling day, even though on polling day any other member or members continue in office under [section 116][226].
+    *   (b) is to be treated as occurring on polling day, even though on polling day any other member or members continue in office under [section 116][229].
     
     
 
@@ -3312,7 +3521,7 @@ Conduct of elections and polls
     
     Compare: 1976 No 144 s 20(1)
     
-    Section 65(2)(da): repealed, on 29 June 2013, by [section 19][376] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 65(2)(da): repealed, on 29 June 2013, by [section 19][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 #### Scrutineers
 
@@ -3326,7 +3535,7 @@ Conduct of elections and polls
 
 ##### 68 General rules affecting scrutineers
     
-*   (1) An appointment under [section 66][136] or [section 67][137] is not valid unless a copy of the notice of appointment is delivered by the candidate, or the 10 electors, as the case may be, to the electoral officer not less than 24 hours before the close of voting at the election or poll.
+*   (1) An appointment under [section 66][139] or [section 67][140] is not valid unless a copy of the notice of appointment is delivered by the candidate, or the 10 electors, as the case may be, to the electoral officer not less than 24 hours before the close of voting at the election or poll.
     
     (2) A person appointed as a scrutineer must not act in that capacity until he or she has made a declaration containing the prescribed details.
     
@@ -3334,7 +3543,7 @@ Conduct of elections and polls
         
     *   (a) a candidate, in the case of an election; or
     
-    *   (b) a member or employee of any local authority or community board for whom an election or poll is being conducted; or
+    *   (b) a member or employee of any local authority or local board or community board for whom an election or poll is being conducted; or
     
     *   (c) under the age of 18 years.
     
@@ -3344,11 +3553,11 @@ Conduct of elections and polls
         
     *   (a) may be present when---
             
-        *   (i) any step referred to in [section 80][155] is being completed after the close of voting; or
+        *   (i) any step referred to in [section 80][158] is being completed after the close of voting; or
         
-        *   (ii) a scrutiny to which [section 83][158] applies is being conducted; or
+        *   (ii) a scrutiny to which [section 83][161] applies is being conducted; or
         
-        *   (iii) votes are being counted under [section 84][159]; and
+        *   (iii) votes are being counted under [section 84][162]; and
         
         
     
@@ -3358,15 +3567,17 @@ Conduct of elections and polls
     
     Compare: 1976 No 144 s 27(1)--(3)
     
-    Section 68(1): amended, on 25 December 2002, by [section 26(1)][377] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 68(1): amended, on 25 December 2002, by [section 26(1)][382] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 68(5): substituted, on 25 December 2002, by [section 26(2)][377] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 68(3)(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 68(6): added, on 25 December 2002, by [section 26(2)][377] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 68(5): substituted, on 25 December 2002, by [section 26(2)][382] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 68(6): added, on 25 December 2002, by [section 26(2)][382] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 #### Death, incapacity, or invalid or cancelled nominations of candidates
     
-*   Heading: replaced, on 29 June 2013, by [section 20][378] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Heading: replaced, on 29 June 2013, by [section 20][383] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 69 Application for cancellation of nomination if candidate incapacitated after close of nominations
     
@@ -3398,13 +3609,13 @@ Conduct of elections and polls
     
     _incapacitated_ means that a candidate, because he or she is suffering from a serious illness or has sustained a serious injury, would be unlikely to be capable of performing the functions and duties of office if elected to the office
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][379] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][384] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
-    Section 69: replaced, on 29 June 2013, by [section 21][380] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 69: replaced, on 29 June 2013, by [section 21][385] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 69A How application for cancellation of nomination dealt with
     
-*   (1) On receiving an application under [section 69][140], the electoral officer must promptly determine whether the candidate became incapacitated (as defined by section 69(7)) after the close of nominations but before the close of voting.
+*   (1) On receiving an application under [section 69][143], the electoral officer must promptly determine whether the candidate became incapacitated (as defined by section 69(7)) after the close of nominations but before the close of voting.
     
     (2) For the purposes of making the determination, the electoral officer may make any inquiries, and seek any assistance (including expert medical assistance), that the electoral officer considers necessary.
     
@@ -3414,7 +3625,7 @@ Conduct of elections and polls
     
     (5) As soon as practicable after making a determination, the electoral officer must inform the applicant of the determination.
     
-    Section 69A: inserted, on 29 June 2013, by [section 21][380] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 69A: inserted, on 29 June 2013, by [section 21][385] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 70 Death, incapacity, or invalid nomination of mayoral candidate after close of nominations
     
@@ -3432,21 +3643,21 @@ Conduct of elections and polls
         
     *   (a) give notice of the death, or the incapacity, or the invalid nomination of the candidate; and
     
-    *   (b) countermand the notice of the election given under [section 65][134]; and
+    *   (b) countermand the notice of the election given under [section 65][137]; and
     
     *   (c) declare the election to be void.
     
     (3) Any votes in the election must not be counted but all other provisions of this Act and regulations made under this Act relating to the secrecy of the vote and security of election records apply in respect of that election.
     
-    (4) A new election must be held and the provisions of [section 102][186] apply accordingly, with any necessary modifications.
+    (4) A new election must be held and the provisions of [section 102][189] apply accordingly, with any necessary modifications.
     
     Compare: 1976 No 144 s 22
 
 ##### 71 Death, incapacity, or invalid or cancelled nomination of candidate
     
-*   (1) This section and [section 72][144] apply if---
+*   (1) This section and [section 72][147] apply if---
         
-    *   (a) the electoral officer has cancelled under [section 69A][141] a candidate's nomination in any election; or
+    *   (a) the electoral officer has cancelled under [section 69A][144] a candidate's nomination in any election; or
     
     *   (b) the electoral officer becomes aware, after the close of nominations but before the close of voting, that a candidate in any election other than a mayoral election---
             
@@ -3466,29 +3677,29 @@ Conduct of elections and polls
     
     (4) Any failure by the electoral officer to ensure that an elector or electors do not vote for a candidate in ignorance of the death, incapacity, or invalid or cancelled nomination of the candidate does not invalidate an election.
     
-    (5) If the electoral system used at the election is First Past the Post, any vote cast for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under [section 84][159], is void.
+    (5) If the electoral system used at the election is First Past the Post, any vote cast for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under [section 84][162], is void.
     
-    (6) If the electoral system used at the election is Single Transferable Voting, any preference recorded on a voting document for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under [section 84][159], must not be recorded at the count as a preference for that person, but must instead be treated in accordance with regulations made under this Act.
+    (6) If the electoral system used at the election is Single Transferable Voting, any preference recorded on a voting document for a deceased or incapacitated candidate, or for a candidate whose nomination is invalid or cancelled, or for a candidate who is no longer available for election under [section 84][162], must not be recorded at the count as a preference for that person, but must instead be treated in accordance with regulations made under this Act.
     
     Compare: 1976 No 144 s 23(1), (2)
     
-    Section 71 heading: replaced, on 29 June 2013, by [section 22(1)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71 heading: replaced, on 29 June 2013, by [section 22(1)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(1)(a): replaced, on 29 June 2013, by [section 22(2)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(1)(a): replaced, on 29 June 2013, by [section 22(2)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(2): amended, on 29 June 2013, by [section 22(3)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(2): amended, on 29 June 2013, by [section 22(3)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(3): amended, on 29 June 2013, by [section 22(4)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(3): amended, on 29 June 2013, by [section 22(4)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(4): amended, on 29 June 2013, by [section 22(4)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(4): amended, on 29 June 2013, by [section 22(4)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(5): substituted, on 25 December 2002, by [section 27][382] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 71(5): substituted, on 25 December 2002, by [section 27][387] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 71(5): amended, on 29 June 2013, by [section 22(5)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(5): amended, on 29 June 2013, by [section 22(5)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 71(6): added, on 25 December 2002, by [section 27][382] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 71(6): added, on 25 December 2002, by [section 27][387] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 71(6): amended, on 29 June 2013, by [section 22(5)][381] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 71(6): amended, on 29 June 2013, by [section 22(5)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 72 If election becomes unnecessary
     
@@ -3498,7 +3709,7 @@ Conduct of elections and polls
     
     Compare: 1976 No 144 s 23(3)
     
-    Section 72(1): amended, on 29 June 2013, by [section 23][383] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 72(1): amended, on 29 June 2013, by [section 23][388] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 #### Adjourned elections or polls
 
@@ -3524,7 +3735,7 @@ Conduct of elections and polls
 
 ##### 73A Adjournment of electoral processes
     
-*   (1) The Governor-General may, by Order in Council made in accordance with this section, specify a later date for 1 or more of the following in respect of a triennial general election of members of 1 or more local authorities and community boards:
+*   (1) The Governor-General may, by Order in Council made in accordance with this section, specify a later date for 1 or more of the following in respect of a triennial general election of members of 1 or more local authorities, local boards, and community boards:
         
     *   (a) the date by which, or dates during which, a certain qualification entitles an elector to be included on the electoral roll:
     
@@ -3544,19 +3755,23 @@ Conduct of elections and polls
     
     (6) Before recommending the making of the Order in Council, the Minister---
         
-    *   (a) must be satisfied, on reasonable grounds, that the order is necessary to ensure that the adverse effects of an emergency (whether local or national) or of anything referred to in [section 73(1)(a) to (d)][146] do not deny electors a reasonable opportunity to cast a valid vote, nominate a candidate, or accept nomination as a candidate in relation to the election; and
+    *   (a) must be satisfied, on reasonable grounds, that the order is necessary to ensure that the adverse effects of an emergency (whether local or national) or of anything referred to in [section 73(1)(a) to (d)][149] do not deny electors a reasonable opportunity to cast a valid vote, nominate a candidate, or accept nomination as a candidate in relation to the election; and
     
     *   (b) must have consulted every local authority and electoral officer that will be affected.
     
     (7) Upon the commencement of an Order in Council made under this section,---
         
-    *   (a) a date specified in the order has effect in relation to the triennial general election of members of the 1 or more local authorities and community boards to which the order applies; and
+    *   (a) a date specified in the order has effect in relation to the triennial general election of members of the 1 or more local authorities, local boards, and community boards to which the order applies; and
     
     *   (b) this Act and any regulations made under this Act apply to the election with any necessary modifications.
     
     (8) The electoral officer must, as soon as practicable, give public notice of every change of date made by the Order in Council, and may give any other notice that the electoral officer considers desirable.
     
-    Section 73A: inserted, on 29 June 2013, by [section 24][384] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 73A: inserted, on 29 June 2013, by [section 24][389] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 73A(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 73A(7)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 #### Voting, processing, and counting of votes
 
@@ -3622,7 +3837,7 @@ Conduct of elections and polls
     
     *   (f) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be; and
     
-    *   (g) a warning describing the offences that a person may commit under [sections 122(1)(a)][235], [123(1)(c)][236], and [124(b)][237].
+    *   (g) a warning describing the offences that a person may commit under [sections 122(1)(a)][238], [123(1)(c)][239], and [124(b)][240].
     
     (3) Voting documents for an election may contain any other information that the electoral officer considers appropriate to ensure that---
         
@@ -3630,9 +3845,9 @@ Conduct of elections and polls
     
     *   (b) the secrecy of the vote is maintained.
     
-    Section 75(2)(f): amended, on 29 June 2013, by [section 25(1)][385] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 75(2)(f): amended, on 29 June 2013, by [section 25(1)][390] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 75(2)(g): inserted, on 29 June 2013, by [section 25(2)][385] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 75(2)(g): inserted, on 29 June 2013, by [section 25(2)][390] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 76 What voting documents for polls must contain
     
@@ -3660,7 +3875,7 @@ Conduct of elections and polls
     
     *   (d) an illustration of how and where the voter indicates his or her choice or preferences, as the case may be; and
     
-    *   (e) a warning describing the offences that a person may commit under [sections 122(1)(a)][235], [123(1)(c)][236], and [124(b)][237].
+    *   (e) a warning describing the offences that a person may commit under [sections 122(1)(a)][238], [123(1)(c)][239], and [124(b)][240].
     
     (3) Voting documents for a poll may contain any other information that the electoral officer considers appropriate to ensure that---
         
@@ -3668,9 +3883,9 @@ Conduct of elections and polls
     
     *   (b) the secrecy of the vote is maintained.
     
-    Section 76(2)(d): amended, on 29 June 2013, by [section 26(1)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 76(2)(d): amended, on 29 June 2013, by [section 26(1)][391] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 76(2)(e): inserted, on 29 June 2013, by [section 26(2)][386] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 76(2)(e): inserted, on 29 June 2013, by [section 26(2)][391] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 77 Approval of voting documents for use at elections and polls
     
@@ -3686,7 +3901,7 @@ Conduct of elections and polls
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 29 June 2013, by [section 27][387] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 79: repealed, on 29 June 2013, by [section 27][392] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 80 Processing before close of voting
     
@@ -3698,45 +3913,45 @@ Conduct of elections and polls
     
     (4) If the processing of a voting document is not completed at the close of voting, the processing of the voting document must be completed after the close of voting.
     
-    Section 80(1): replaced, on 29 June 2013, by [section 28][388] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 80(1): replaced, on 29 June 2013, by [section 28][393] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 81 Scrutineers' presence at processing prohibited before close of voting
     
-*   (1) No scrutineer may be present when any step referred to in [section 80][155] is being taken during the voting period.
+*   (1) No scrutineer may be present when any step referred to in [section 80][158] is being taken during the voting period.
     
     (2) \[Repealed\]
     
     (3) \[Repealed\]
     
-    Section 81(2): repealed, on 25 December 2002, by [section 29][389] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 81(2): repealed, on 25 December 2002, by [section 29][394] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 81(3): repealed, on 25 December 2002, by [section 29][389] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 81(3): repealed, on 25 December 2002, by [section 29][394] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 82 Justices of the Peace to observe processing before close of voting
     
-*   (1) The electoral officer must appoint at least 1 Justice of the Peace, and may appoint as many additional Justices as the electoral officer considers necessary, to observe the processing of voting documents under [section 80][155].
+*   (1) The electoral officer must appoint at least 1 Justice of the Peace, and may appoint as many additional Justices as the electoral officer considers necessary, to observe the processing of voting documents under [section 80][158].
     
-    (2) At least 1 Justice appointed under subsection (1) must be present when any step referred to in [section 80][155] is being taken during the voting period or is being completed after the close of voting.
+    (2) At least 1 Justice appointed under subsection (1) must be present when any step referred to in [section 80][158] is being taken during the voting period or is being completed after the close of voting.
     
-    (3) Every Justice appointed under subsection (1) must give a certificate to the electoral officer stating whether or not the Justice is satisfied that [section 80][155] and the regulations prescribing the procedure for early processing of voting documents were complied with while the Justice was observing the processing of voting documents.
+    (3) Every Justice appointed under subsection (1) must give a certificate to the electoral officer stating whether or not the Justice is satisfied that [section 80][158] and the regulations prescribing the procedure for early processing of voting documents were complied with while the Justice was observing the processing of voting documents.
     
-    (4) A Justice who gives a certificate stating that he or she is not satisfied that [section 80][155] or that the applicable regulations were complied with must attach a report to the certificate setting out any way in which the section or regulations, as the case may be, were not complied with.
+    (4) A Justice who gives a certificate stating that he or she is not satisfied that [section 80][158] or that the applicable regulations were complied with must attach a report to the certificate setting out any way in which the section or regulations, as the case may be, were not complied with.
 
 ##### 83 Scrutiny of roll
     
-*   (1) The electoral officer must, in the presence of those scrutineers who choose to be present and any Justice of the Peace appointed under [section 82][157] who chooses to be present, record, before the counting of the votes, the name of all electors who appear to have voted at the election or poll.
+*   (1) The electoral officer must, in the presence of those scrutineers who choose to be present and any Justice of the Peace appointed under [section 82][160] who chooses to be present, record, before the counting of the votes, the name of all electors who appear to have voted at the election or poll.
     
     (2) If the electoral officer is satisfied that more than 1 vote has been cast in the name of any elector at the same election or poll, the electoral officer must disallow every vote cast in the name of that elector, in the prescribed manner.
     
     (3) Despite subsection (2), if the electoral officer is satisfied that the elector cast only 1 vote and was not in any way involved with the casting of the other vote or votes, the electoral officer must allow the elector's vote and disallow the other vote or votes.
     
-    (4) Subsection (1) is subject to [section 68(4)][138].
+    (4) Subsection (1) is subject to [section 68(4)][141].
     
-    Section 83(1): amended, on 7 July 2004, by [section 12][390] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 83(1): amended, on 7 July 2004, by [section 12][395] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 84 Counting of votes
     
-*   (1) Immediately after the close of voting, the electoral officer must, in the presence of those scrutineers who choose to be present and any Justice of the Peace appointed under [section 82][157] who chooses to be present, count the votes cast at the election or poll in accordance with---
+*   (1) Immediately after the close of voting, the electoral officer must, in the presence of those scrutineers who choose to be present and any Justice of the Peace appointed under [section 82][160] who chooses to be present, count the votes cast at the election or poll in accordance with---
         
     *   (a) the procedures prescribed for counting in respect of the electoral system used for the election or poll; and
     
@@ -3748,31 +3963,39 @@ Conduct of elections and polls
     
     (4) If the electoral officer makes an endorsement under subsection (3), that candidate ceases to be available for election, and cannot be elected at the election of the member or members of the territorial authority.
     
-    (5) If, for any reason, a person is declared to be elected as mayor and that person is also elected to be a member of the territorial authority, [section 88][163] applies.
+    (5) If, for any reason, a person is declared to be elected as mayor and that person is also elected to be a member of the territorial authority, [section 88][166] applies.
     
-    (5A) Subsections (5B) to (5D) apply if elections for the position of a member or members of a territorial authority and a member or members of any of its community boards are held at the same time using either the Single Transferable Voting electoral system or the First Past the Post electoral system.
+    (5A) Subsections (5B) to (5D) apply if elections for the position of a member or members of a territorial authority and a member or members of any of its local boards or community boards are held at the same time using either the Single Transferable Voting electoral system or the First Past the Post electoral system.
     
-    (5B) If the electoral officer is satisfied, after the close of voting, that any person who is a candidate for the position of member of a territorial authority and is also a candidate at the election of the member or members of any of its community boards will be declared to be elected as a member of the territorial authority, the electoral officer must endorse that opinion on the candidate's nomination form for the position of member of the territorial authority.
+    (5B) If the electoral officer is satisfied, after the close of voting, that any person who is a candidate for the position of member of a territorial authority and is also a candidate at the election of the member or members of any of its local boards or community boards will be declared to be elected as a member of the territorial authority, the electoral officer must endorse that opinion on the candidate's nomination form for the position of member of the territorial authority.
     
-    (5C) If the electoral officer makes an endorsement under subsection (5B), that candidate ceases to be available for election, and cannot be elected at the election of the member or members of the community board.
+    (5C) If the electoral officer makes an endorsement under subsection (5B), that candidate ceases to be available for election, and cannot be elected at the election of the member or members of the local board or community board.
     
-    (5D) If, for any reason, a person is declared to be elected as a member of the territorial authority and that person is also elected to be a member of a community board, [section 88A][164] applies.
+    (5D) If, for any reason, a person is declared to be elected as a member of the territorial authority and that person is also elected to be a member of a local board or community board, [section 88A][167] applies.
     
-    (6) Subsection (1) is subject to [section 68(4)][138].
+    (6) Subsection (1) is subject to [section 68(4)][141].
     
-    Section 84(5A): inserted, on 25 December 2002, by [section 30][391] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 84(5A): inserted, on 25 December 2002, by [section 30][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 84(5B): inserted, on 25 December 2002, by [section 30][391] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 84(5A): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 84(5C): inserted, on 25 December 2002, by [section 30][391] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 84(5B): inserted, on 25 December 2002, by [section 30][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 84(5D): inserted, on 25 December 2002, by [section 30][391] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 84(5B): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 84(5C): inserted, on 25 December 2002, by [section 30][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 84(5C): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 84(5D): inserted, on 25 December 2002, by [section 30][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 84(5D): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 85 Preliminary results
     
 *   The electoral officer must, in accordance with the prescribed requirements, make any announcements required by regulations made under this Act concerning the preliminary results of an election or poll.
     
-    Section 85: substituted, on 25 December 2002, by [section 31][392] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 85: substituted, on 25 December 2002, by [section 31][397] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 86 Declaration of result
     
@@ -3784,7 +4007,7 @@ Conduct of elections and polls
     
     *   (c) all valid votes have been counted.
     
-    Section 86(a): repealed, on 7 July 2004, by [section 13][393] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 86(a): repealed, on 7 July 2004, by [section 13][398] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 87 Death or incapacity of elected candidate before declaration of result of election
     
@@ -3794,9 +4017,9 @@ Conduct of elections and polls
     
     *   (b) the death or incapacity occurs after the close of voting; and---
             
-        *   (i) before the declaration of the result of the election under [section 86][161]; or
+        *   (i) before the declaration of the result of the election under [section 86][164]; or
         
-        *   (ii) if an amended declaration of the result of the election is ordered under [section 92(3)][175], before that amended declaration has been given; and
+        *   (ii) if an amended declaration of the result of the election is ordered under [section 92(3)][178], before that amended declaration has been given; and
         
         
     
@@ -3812,25 +4035,25 @@ Conduct of elections and polls
         
     *   (a) give notice of the death, or the incapacity, or the invalid nomination of the candidate; and
     
-    *   (b) countermand the notice of the election given under [section 65][134]; and
+    *   (b) countermand the notice of the election given under [section 65][137]; and
     
     *   (c) declare the election to be void.
     
     (4) If subsection (3) applies, any votes in the election must not be counted, but all other provisions of this Act and regulations made under this Act relating to the secrecy of the vote and security of election records apply in respect of that election.
     
-    (5) If subsection (3) applies, a new election must be held and the provisions of [section 102][186] apply accordingly, with any necessary modifications.
+    (5) If subsection (3) applies, a new election must be held and the provisions of [section 102][189] apply accordingly, with any necessary modifications.
     
     Compare: 1976 No 144 s 44
 
 ##### 88 What happens if same person elected as mayor and another member
     
-*   (1) If, at any elections for the mayor and a member or members of a territorial authority held at the same time, a person is declared to be elected as the mayor and that person is also elected to be another member (and that person is not deprived of either office by a recount under [section 92][175] or on a petition under [section 93][177]), that person is to be treated as having vacated office as another member.
+*   (1) If, at any elections for the mayor and a member or members of a territorial authority held at the same time, a person is declared to be elected as the mayor and that person is also elected to be another member (and that person is not deprived of either office by a recount under [section 92][178] or on a petition under [section 93][180]), that person is to be treated as having vacated office as another member.
     
     (2) If subsection (1) applies and the elections were conducted using the First Past the Post electoral system, then,---
         
-    *   (a) subject to paragraph (b), the electoral officer conducting the election must give an amended declaration under [section 86][161] declaring the highest polling unelected candidate at the election to be elected; and
+    *   (a) subject to paragraph (b), the electoral officer conducting the election must give an amended declaration under [section 86][164] declaring the highest polling unelected candidate at the election to be elected; and
     
-    *   (b) if the district of the territorial authority is divided into wards for electoral purposes, the electoral officer conducting the election must give an amended declaration under [section 86][161] declaring the highest polling unelected candidate at the election in the ward at which the person elected as mayor was also elected as another member to be elected.
+    *   (b) if the district of the territorial authority is divided into wards for electoral purposes, the electoral officer conducting the election must give an amended declaration under [section 86][164] declaring the highest polling unelected candidate at the election in the ward at which the person elected as mayor was also elected as another member to be elected.
     
     (3) If subsection (1) applies and the elections were conducted using the Single Transferable Voting electoral system, then,---
         
@@ -3838,7 +4061,7 @@ Conduct of elections and polls
             
         *   (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected if the person elected as mayor had not stood at the election; and
         
-        *   (ii) give an amended declaration under [section 86][161] declaring that unelected candidate to be elected:
+        *   (ii) give an amended declaration under [section 86][164] declaring that unelected candidate to be elected:
         
         
     
@@ -3850,81 +4073,113 @@ Conduct of elections and polls
         
         
     
-    (4) In every case to which subsection (2) or subsection (3) applies, the period of 21 days referred to in [section 93(2)][177] in respect of the person declared by that amended declaration to be elected as a member, begins to run from the date of the amended declaration.
+    (4) In every case to which subsection (2) or subsection (3) applies, the period of 21 days referred to in [section 93(2)][180] in respect of the person declared by that amended declaration to be elected as a member, begins to run from the date of the amended declaration.
     
     (5) If there is no other candidate who may lawfully be declared to be elected by means of the amended declaration, an extraordinary vacancy in the office of member is to be treated as having occurred on the date on which the mayor came into office as mayor.
     
-    Compare: 1974 No 66 [s 101W][394]
+    Compare: 1974 No 66 [s 101W][399]
     
-    Section 88(3)(a)(i): amended, on 25 December 2002, by [section 32(a)][395] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88(3)(a)(i): amended, on 25 December 2002, by [section 32(a)][400] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 88(3)(b)(i): amended, on 25 December 2002, by [section 32(b)][395] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88(3)(b)(i): amended, on 25 December 2002, by [section 32(b)][400] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
-##### 88A What happens if same person elected to both territorial authority and community board
+##### 88A What happens if same person elected to both territorial authority and local board or community board
     
-*   (1) This section applies if, at any elections held at the same time for a member or members of a territorial authority and a member or members of a community board constituted in respect of part of the district of the territorial authority, a person is declared to be elected as a member of the territorial authority and that person is also declared to be elected as a member of the community board (and that person is not deprived of either office by a recount under [section 92][175] or on a petition under [section 93][177]).
+*   (1) This section applies if, at any elections held at the same time for a member or members of a territorial authority and a member or members of a local board or community board constituted in respect of part of the district of the territorial authority, a person is declared to be elected as a member of the territorial authority and that person is also declared to be elected as a member of the local board or community board (and that person is not deprived of either office by a recount under [section 92][178] or on a petition under [section 93][180]).
     
-    (2) If this section applies, the person declared to be elected to both offices must be treated as having vacated office as a member of the community board.
+    (2) If this section applies, the person declared to be elected to both offices must be treated as having vacated office as a member of the local board or community board, as the case may be.
     
-    Section 88A: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88A: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88A heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88A(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88A(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 88B Amended declaration if election under First Past the Post electoral system
     
-*   If [section 88A][164] applies and the elections were conducted using the First Past the Post electoral system, then,---
+*   If [section 88A][167] applies and the elections were conducted using the First Past the Post electoral system, then,---
         
-    *   (a) subject to paragraphs (b) and (c), the electoral officer conducting the election of members of the community board must give an amended declaration under [section 86][161] declaring the highest polling unelected candidate at the election to be elected; and
+    *   (a) subject to paragraphs (b) and (c), the electoral officer conducting the election of members of the local board or community board must give an amended declaration under [section 86][164] declaring the highest polling unelected candidate at the election to be elected; and
     
-    *   (b) if the part of the district in respect of which the community is constituted is divided into wards or subdivisions for electoral purposes, the electoral officer conducting the election must, subject to paragraph (c), give an amended declaration under section 86 declaring the highest polling unelected candidate at the election in the ward or subdivision (at which the person elected as a member of the territorial authority was also elected as a member of the community board) to be elected; and
+    *   (b) if the local board area or part of the district in respect of which the community is constituted is divided into wards or subdivisions for electoral purposes, the electoral officer conducting the election must, subject to paragraph (c), give an amended declaration under section 86 declaring the highest polling unelected candidate at the election in the ward or subdivision (at which the person elected as a member of the territorial authority was also elected as a member of the local board or community board, as the case may be) to be elected; and
     
-    *   (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the person who is the highest polling unelected candidate, ignore any unelected candidate for membership of the community board who was elected as a member of the territorial authority.
+    *   (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the person who is the highest polling unelected candidate, ignore any unelected candidate for membership of the local board or community board who was elected as a member of the territorial authority.
     
-    Section 88B: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88B: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88B(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88B(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88B(c): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 88C Amended declaration if election under Single Transferable Voting electoral system
     
-*   If [section 88A][164] applies and the elections were conducted using the Single Transferable Voting electoral system, then,---
+*   If [section 88A][167] applies and the elections were conducted using the Single Transferable Voting electoral system, then,---
         
     *   (a) subject to paragraphs (b) and (c), the electoral officer must---
             
-        *   (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected as a member of the community board if the person elected as a member of the territorial authority had not stood at the election; and
+        *   (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected as a member of the local board or community board if the person elected as a member of the territorial authority had not stood at the election; and
         
-        *   (ii) give an amended declaration under [section 86][161] declaring that unelected candidate to be elected:
+        *   (ii) give an amended declaration under [section 86][164] declaring that unelected candidate to be elected:
         
         
     
-    *   (b) if the part of the district in respect of which the community is constituted is divided into wards or subdivisions for electoral purposes, the electoral officer conducting the election must---
+    *   (b) if the local board area or part of the district in respect of which the community is constituted is divided into wards or subdivisions for electoral purposes, the electoral officer conducting the election must---
             
-        *   (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected (at the election in the ward or subdivision at which the person who was elected as a member of the territorial authority was also elected as a member of the community board) if the person elected as a member of the territorial authority had not stood at that election; and
+        *   (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected (at the election in the ward or subdivision at which the person who was elected as a member of the territorial authority was also elected as a member of the local board or community board, as the case may be) if the person elected as a member of the territorial authority had not stood at that election; and
         
-        *   (ii) give an amended declaration under [section 86][161] declaring that unelected candidate to be elected:
+        *   (ii) give an amended declaration under [section 86][164] declaring that unelected candidate to be elected:
         
         
     
-    *   (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the unelected candidate who is to be declared by the amended declaration to be elected, treat all persons who were elected as members of the territorial authority as if they had never stood for election as members of the community board.
+    *   (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the unelected candidate who is to be declared by the amended declaration to be elected, treat all persons who were elected as members of the territorial authority as if they had never stood for election as members of the local board or community board.
     
-    Section 88C: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88C: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88C(a)(i): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88C(b): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88C(b)(i): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88C(c): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 88D Application of provision relating to petition for inquiry
     
-*   In every case to which [section 88B][165] or [section 88C][166] applies, the period of 21 days referred to in [section 93(2)][177] in respect of the person declared by that amended declaration to be elected as a member of the community board begins to run from the date of the amended declaration.
+*   In every case to which [section 88B][168] or [section 88C][169] applies, the period of 21 days referred to in [section 93(2)][180] in respect of the person declared by that amended declaration to be elected as a member of the local board or community board begins to run from the date of the amended declaration.
     
-    Section 88D: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88D: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88D: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 88E What happens if no amended declaration can be made
     
-*   (1) This section applies if, in any case to which [section 88A][164] applies, there is no other candidate who may lawfully be declared to be elected by means of the amended declaration as a member of the community board.
+*   (1) This section applies if, in any case to which [section 88A][167] applies, there is no other candidate who may lawfully be declared to be elected by means of the amended declaration as a member of the local board or community board.
     
-    (2) If this section applies, an extraordinary vacancy in the office of member of the community board is to be treated as having occurred on the date on which the person who was declared to be elected both as a member of the territorial authority and as a member of the community board came into office as a member of the territorial authority.
+    (2) If this section applies, an extraordinary vacancy in the office of member of the local board or community board is to be treated as having occurred on the date on which the person who was declared to be elected both as a member of the territorial authority and as a member of the local board or community board came into office as a member of the territorial authority.
     
-    Section 88E: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88E: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88E(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88E(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
-##### 88F What happens if member of community board becomes member of territorial authority
+##### 88F What happens if member of local board or community board becomes member of territorial authority
     
-*   (1) This section applies if, at any election other than an election to which [section 88A][164] applies, a person who is a member of a community board constituted in respect of part of a district of a territorial authority is declared to be elected as a member of that territorial authority (and that person is not deprived of his or her office as a member of that territorial authority by a recount under [section 92][175] or a petition under [section 93][177]).
+*   (1) This section applies if, at any election other than an election to which [section 88A][167] applies, a person who is a member of a local board or community board constituted in respect of part of a district of a territorial authority is declared to be elected as a member of that territorial authority (and that person is not deprived of his or her office as a member of that territorial authority by a recount under [section 92][178] or a petition under [section 93][180]).
     
-    (2) If this section applies, the person declared to be elected as a member of the territorial authority must be treated as having vacated office as a member of the community board.
+    (2) If this section applies, the person declared to be elected as a member of the territorial authority must be treated as having vacated office as a member of the local board or community board.
     
-    Section 88F: inserted, on 25 December 2002, by [section 33][396] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 88F: inserted, on 25 December 2002, by [section 33][401] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 88F heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88F(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 88F(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 89 Electoral records
     
@@ -3952,7 +4207,7 @@ Conduct of elections and polls
     
     (5) In this section, _specified materials_ means those documents or records specified in regulations made under this Act as materials to which this section applies.
     
-    Section 89(1): amended, on 7 July 2004, by [section 14][397] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 89(1): amended, on 7 July 2004, by [section 14][402] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ## Part 4  
 Disputed elections and polls
@@ -3969,17 +4224,17 @@ Disputed elections and polls
         
     *   (a) cause a recount of the votes to be made; and
     
-    *   (b) give notice in writing to the electoral officer and to each of the candidates and to each scrutineer appointed under [section 66][136] or [section 91][174] of the time and place at which the recount will be made.
+    *   (b) give notice in writing to the electoral officer and to each of the candidates and to each scrutineer appointed under [section 66][139] or [section 91][177] of the time and place at which the recount will be made.
     
     Compare: 1976 No 144 s 43(1)--(3)
 
 ##### 91 Scrutineers at recount
     
-*   (1) Each candidate may, by notice in writing, appoint 1 or more scrutineers for the recount, whether or not the candidate has already appointed 1 or more scrutineers under [section 66][136].
+*   (1) Each candidate may, by notice in writing, appoint 1 or more scrutineers for the recount, whether or not the candidate has already appointed 1 or more scrutineers under [section 66][139].
     
-    (2) Subsections (2) and (3) of [section 68][138] apply, with any necessary modifications, for the purposes of an appointment under this section.
+    (2) Subsections (2) and (3) of [section 68][141] apply, with any necessary modifications, for the purposes of an appointment under this section.
     
-    (3) Not more than 1 scrutineer for any candidate (whether appointed under [section 66][136] or under this section) may be present at the same time at a recount.
+    (3) Not more than 1 scrutineer for any candidate (whether appointed under [section 66][139] or under this section) may be present at the same time at a recount.
     
     Compare: 1976 No 144 s 43(4), (5)
 
@@ -3991,11 +4246,11 @@ Disputed elections and polls
         
     *   (a) must, as far as is practicable, be made in the manner provided in the case of the original count unless the District Court Judge orders otherwise; and
     
-    *   (b) [section 74][149] (relating to security and secrecy) applies, with any necessary modifications, to the recount.
+    *   (b) [section 74][152] (relating to security and secrecy) applies, with any necessary modifications, to the recount.
     
-    (3) If, on the recount, the District Court Judge finds that the public declaration was incorrect, the Judge must order the electoral officer to give an amended declaration under [section 86][161] of the result of the election.
+    (3) If, on the recount, the District Court Judge finds that the public declaration was incorrect, the Judge must order the electoral officer to give an amended declaration under [section 86][164] of the result of the election.
     
-    (4) The District Court Judge may make any order as to the costs of, and incidental to, the recount that the Judge considers just and, subject to any order, must direct the deposit made under [section 90][173] to be returned to the person who made it.
+    (4) The District Court Judge may make any order as to the costs of, and incidental to, the recount that the Judge considers just and, subject to any order, must direct the deposit made under [section 90][176] to be returned to the person who made it.
     
     Compare: 1976 No 144 s 43(6)--(9)
 
@@ -4121,7 +4376,7 @@ Disputed elections and polls
     
     *   (b) any electoral officer or other electoral official if the Judge declares the election or poll void on the ground of negligence or intentional or reckless misconduct by that electoral officer or other electoral official.
     
-    (2) The order has the same effect and may be enforced as a judgment for a debt obtained under the [District Courts Act 1947][398].
+    (2) The order has the same effect and may be enforced as a judgment for a debt obtained under the [District Courts Act 1947][403].
     
     (3) Despite subsection (1), no order may be made against any person who is not a party to the inquiry unless the person has been summoned to appear and give evidence at the inquiry.
     
@@ -4129,15 +4384,15 @@ Disputed elections and polls
 
 ##### 101 Return of deposit
     
-*   (1) The District Court Judge must direct that the deposit required by [section 93(2)(c)][177] be returned to the person who paid it unless, in the opinion of the Judge, the petitioner or petitioners have failed to establish---
+*   (1) The District Court Judge must direct that the deposit required by [section 93(2)(c)][180] be returned to the person who paid it unless, in the opinion of the Judge, the petitioner or petitioners have failed to establish---
         
     *   (a) the grounds of complaint specified in the petition; or
     
     *   (b) any other grounds investigated with the leave of the Judge.
     
-    (2) If paragraph (a) or paragraph (b) of subsection (1) applies, the deposit, or any part of the deposit remaining after any order under [section 100][184] is satisfied, is forfeited to the Crown.
+    (2) If paragraph (a) or paragraph (b) of subsection (1) applies, the deposit, or any part of the deposit remaining after any order under [section 100][187] is satisfied, is forfeited to the Crown.
     
-    (3) This section applies subject to any order made under [section 100][184].
+    (3) This section applies subject to any order made under [section 100][187].
     
     Compare: 1976 No 144 s 106(2)
 
@@ -4178,15 +4433,15 @@ Disputed elections and polls
 ## Part 5  
 Electoral donations and expenses
     
-*   Part 5 heading: replaced, on 29 June 2013, by [section 29][399] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Part 5 heading: replaced, on 29 June 2013, by [section 29][404] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ### Subpart 1---Electoral donations
     
-*   Subpart 1: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Subpart 1: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103A Interpretation
     
-*   In this subpart and [subpart 3][213], unless the context otherwise requires,---
+*   In this subpart and [subpart 3][216], unless the context otherwise requires,---
     
     _anonymous_, in relation to an electoral donation, means a donation that is made in such a way that the candidate who receives the donation---
         
@@ -4244,25 +4499,25 @@ Electoral donations and expenses
     
     _transmitter_ means a person to whom a donor gives or sends a donation for transmittal to a candidate.
     
-    Compare: 1993 No 87 [s 207][401]
+    Compare: 1993 No 87 [s 207][406]
     
-    Section 103A: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103A: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103B Donations and contributions include GST
     
 *   All references to the amount or value of a donation or contribution are inclusive of any goods and services tax incurred by the donor or contributor in respect of the goods or services donated or contributed.
     
-    Compare: 1993 No 87 [s 207A][402]
+    Compare: 1993 No 87 [s 207A][407]
     
-    Section 103B: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103B: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103C Donations to be transmitted to candidate
     
 *   Every person, other than a candidate, to whom an electoral donation is given or sent must, within 10 working days after receiving the donation, transmit the donation to the candidate.
     
-    Compare: 1993 No 87 [s 207B(1)][403]
+    Compare: 1993 No 87 [s 207B(1)][408]
     
-    Section 103C: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103C: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103D Contributors to be identified
     
@@ -4288,19 +4543,19 @@ Electoral donations and expenses
     
     (3) A candidate must give back to the donor the entire amount of the donation, or its entire value, if the candidate knows, or has reasonable grounds to believe, that the donor has failed to comply with subsection (2) in any respect.
     
-    (4) For the purpose of [section 112A][214], any amount given back by a candidate under subsection (3) is taken not to have been received by the candidate.
+    (4) For the purpose of [section 112A][217], any amount given back by a candidate under subsection (3) is taken not to have been received by the candidate.
     
-    Compare: 1993 No 87 [s 207C][404]
+    Compare: 1993 No 87 [s 207C][409]
     
-    Section 103D: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103D: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103E Offence relating to contravention of section 103D
     
-*   A donor who fails to comply with [section 103D][193] with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+*   A donor who fails to comply with [section 103D][196] with the intention of concealing the identity of any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 207D][405]
+    Compare: 1993 No 87 [s 207D][410]
     
-    Section 103E: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103E: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103F Identity of donor to be disclosed by transmitter, if known
     
@@ -4310,37 +4565,37 @@ Electoral donations and expenses
     
     *   (b) the name and address of the donor; and
     
-    *   (c) whether [section 103D][193] applies to the donation and, if so, all information disclosed by the donor under subsection (2) of that section.
+    *   (c) whether [section 103D][196] applies to the donation and, if so, all information disclosed by the donor under subsection (2) of that section.
     
     (2) Where a transmitter does not disclose, or is unable to disclose, the information required by subsection (1), then the donation must be treated as an anonymous donation.
     
-    Compare: 1993 No 87 [s 207E][406]
+    Compare: 1993 No 87 [s 207E][411]
     
-    Section 103F: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103F: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103G Offence relating to contravention of section 103F
     
-*   A transmitter who fails to comply with [section 103F(1)][195] with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+*   A transmitter who fails to comply with [section 103F(1)][198] with the intention of concealing the identity of the donor or any or all of the contributors commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 207F][407]
+    Compare: 1993 No 87 [s 207F][412]
     
-    Section 103G: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103G: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103H Disclosure of identity of donor
     
 *   If any person involved in the administration of the affairs of a candidate in relation to his or her election campaign knows the identity of the donor of an anonymous donation exceeding $1,500, the person must disclose the identity of the donor to the candidate.
     
-    Compare: 1993 No 87 [s 207G(1)][408]
+    Compare: 1993 No 87 [s 207G(1)][413]
     
-    Section 103H: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103H: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103I Offence relating to contravention of section 103H
     
-*   A person who fails to comply with [section 103H][197] with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+*   A person who fails to comply with [section 103H][200] with the intention of concealing the identity of the donor commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 207H][409]
+    Compare: 1993 No 87 [s 207H][414]
     
-    Section 103I: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103I: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103J Anonymous donation may not exceed $1,500
     
@@ -4358,19 +4613,19 @@ Electoral donations and expenses
     
     *   (b) pay the amount into the general fund of the local authority that appointed the electoral officer.
     
-    Compare: 1993 No 87 [s 207I(1)][410]
+    Compare: 1993 No 87 [s 207I(1)][415]
     
-    Section 103J: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103J: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103K Offence relating to contravention of section 103J
     
 *   (1) A person who enters into an agreement, arrangement, or understanding with any other person that has the effect of circumventing section 103J(1) or (2) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    (2) A candidate who contravenes [section 103J(1) or (2)][199] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+    (2) A candidate who contravenes [section 103J(1) or (2)][202] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 207J][411]
+    Compare: 1993 No 87 [s 207J][416]
     
-    Section 103K: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103K: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 103L Records of electoral donations
     
@@ -4378,13 +4633,13 @@ Electoral donations and expenses
     
     (2) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 207M][412]
+    Compare: 1993 No 87 [s 207M][417]
     
-    Section 103L: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 103L: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ### Subpart 2---Electoral expenses
     
-*   Subpart 2 heading: inserted, on 29 June 2013, by [section 30][400] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Subpart 2 heading: inserted, on 29 June 2013, by [section 30][405] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 104 Interpretation
     
@@ -4398,7 +4653,7 @@ Electoral donations and expenses
     
     *   (b) that relates to the candidate solely in the candidate's capacity as a candidate and not to the candidate---
             
-        *   (i) in his or her capacity as a member of the local authority or community board, or as the holder of any other office; or
+        *   (i) in his or her capacity as a member of the local authority or local board or community board, or as the holder of any other office; or
         
         *   (ii) in any other capacity; and
         
@@ -4440,17 +4695,19 @@ Electoral donations and expenses
     
     _population_ means the population, as at the day that is 3 months before the close of polling day, of a local government area as specified in a certificate issued in respect of that area by the Government Statistician.
     
-    Compare: 1993 No 87 [ss 213(1)][413], [214F][414]
+    Compare: 1993 No 87 [ss 213(1)][418], [214F][419]
     
-    Section 104: amended, on 29 June 2013, by [section 31(1)][415] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 104: amended, on 29 June 2013, by [section 31(1)][420] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 104 **electoral donation**: repealed, on 29 June 2013, by [section 31(2)][415] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 104 **_electoral activity_** paragraph (b)(i): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 104 **electoral expenses** paragraph (g): amended, on 29 June 2013, by [section 31(3)][415] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 104 **electoral donation**: repealed, on 29 June 2013, by [section 31(2)][420] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 104 **electoral expenses** paragraph (h): inserted, on 29 June 2013, by [section 31(4)][415] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 104 **electoral expenses** paragraph (g): amended, on 29 June 2013, by [section 31(3)][420] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 104 **population**: amended, on 25 December 2002, by [section 34][416] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 104 **electoral expenses** paragraph (h): inserted, on 29 June 2013, by [section 31(4)][420] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    
+    Section 104 **population**: amended, on 25 December 2002, by [section 34][421] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 105 Periods for claiming and paying expenses
     
@@ -4460,9 +4717,9 @@ Electoral donations and expenses
     
     (3) A person who makes a payment in breach of this section commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 206][417]
+    Compare: 1993 No 87 [s 206][422]
     
-    Section 105(3): inserted, on 29 June 2013, by [section 32][418] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 105(3): inserted, on 29 June 2013, by [section 32][423] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 106 Procedure if claim disputed
     
@@ -4474,7 +4731,7 @@ Electoral donations and expenses
     
     (2) Any sum paid by the candidate to satisfy the judgment or order of the court in any action referred to in subsection (1) is to be treated as paid within the time allowed by this Act.
     
-    Compare: 1993 No 87 [s 207][419]
+    Compare: 1993 No 87 [s 207][406]
 
 ##### 107 Leave to pay claim after time limited
     
@@ -4482,7 +4739,7 @@ Electoral donations and expenses
     
     (2) Any sum specified in the order granting that leave may be paid by the candidate and, when paid, is to be treated as paid within the time allowed by this Act.
     
-    Compare: 1993 No 87 [s 208][420]
+    Compare: 1993 No 87 [s 208][424]
 
 ##### 108 Payments to be vouched by bill
     
@@ -4492,19 +4749,19 @@ Electoral donations and expenses
     
     *   (b) a receipt.
     
-    Compare: 1993 No 87 [s 209][421]
+    Compare: 1993 No 87 [s 209][425]
 
 ##### 109 Return of electoral expenses
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 29 June 2013, by [section 33][422] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 109: repealed, on 29 June 2013, by [section 33][426] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 110 Return to be open for public inspection
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 29 June 2013, by [section 33][422] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 110: repealed, on 29 June 2013, by [section 33][426] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 111 Maximum amount of electoral expenses
     
@@ -4534,23 +4791,23 @@ Electoral donations and expenses
     
     (1A) The sum is---
         
-    *   (a) $100,000 plus the amount prescribed under [section 139(1)(ha)][257] for each elector; or
+    *   (a) $100,000 plus the amount prescribed under [section 139(1)(ha)][260] for each elector; or
     
-    *   (b) $100,000 plus 50 cents for each elector, if no amount is prescribed under [section 139(1)(ha)][257].
+    *   (b) $100,000 plus 50 cents for each elector, if no amount is prescribed under [section 139(1)(ha)][260].
     
     (2) Despite subsection (1), if a candidate is a candidate for more than 1 election held at the same time, the total electoral expenses (inclusive of goods and services tax) of that candidate must not exceed the highest amount permitted under subsection (1) in respect of any one of the elections for which the person is a candidate.
     
-    Compare: 1993 No 87 [s 213(2)][413]
+    Compare: 1993 No 87 [s 213(2)][427]
     
-    Section 111(1)(j): substituted, on 1 November 2010, by [section 113(1)][423] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 111(1)(j): substituted, on 1 November 2010, by [section 113(1)][428] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 111(1)(k): added, on 1 November 2010, by [section 113(1)][423] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 111(1)(k): added, on 1 November 2010, by [section 113(1)][428] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 111(1A): inserted, on 1 November 2010, by [section 113(1)][423] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 111(1A): inserted, on 1 November 2010, by [section 113(1)][428] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 112 Apportionment of electoral expenses
     
-*   (1) If any activity of the kind described in paragraphs (a) to (d) of the definition of the term electoral activity (as set out in [section 104][203]) is, in relation to a candidate at an election, carried on both before and within the applicable period before the close of polling day,---
+*   (1) If any activity of the kind described in paragraphs (a) to (d) of the definition of the term electoral activity (as set out in [section 104][206]) is, in relation to a candidate at an election, carried on both before and within the applicable period before the close of polling day,---
         
     *   (a) the expenses incurred in respect of the activity (being expenses incurred by or on behalf of the candidate) must be properly apportioned so that a fair proportion of those expenses is attributed to the carrying on of the activity in the applicable period before the close of polling day; and
     
@@ -4558,13 +4815,13 @@ Electoral donations and expenses
     
     (2) If any election activity relates exclusively to campaigns for the election of 2 or more candidates, any electoral expenses in respect of that electoral activity must be apportioned equitably in relation to each of those candidates.
     
-    Compare: 1993 No 87 [ss 213(4)][413], [214(1)][424]
+    Compare: 1993 No 87 [ss 213(4)][427], [214(1)][429]
     
-    Section 112(2): amended, on 25 December 2002, by [section 36][425] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 112(2): amended, on 25 December 2002, by [section 36][430] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 112AA Offence to pay electoral expenses in excess of relevant prescribed maximum
     
-*   (1) This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any electoral expenses any sum in excess of the relevant maximum amount prescribed by [section 111][210].
+*   (1) This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any electoral expenses any sum in excess of the relevant maximum amount prescribed by [section 111][213].
     
     (2) The candidate or person commits an offence and is liable on conviction---
         
@@ -4572,11 +4829,11 @@ Electoral donations and expenses
     
     *   (b) to a fine not exceeding $5,000 in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the electoral expenses did not exceed the relevant prescribed maximum amount.
     
-    Section 112AA: inserted, on 29 June 2013, by [section 34][426] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112AA: inserted, on 29 June 2013, by [section 34][431] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ### Subpart 3---Return of electoral donations and expenses
     
-*   Subpart 3: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Subpart 3: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112A Return of electoral donations and expenses
     
@@ -4588,7 +4845,7 @@ Electoral donations and expenses
         
     *   (a) the details specified in subsection (4) in respect of every electoral donation (other than a donation of the kind referred to in paragraph (c)) received by the candidate that, either on its own or when aggregated with all other donations made by or on behalf of the same donor for use in the same campaign, exceeds $1,500 in sum or value; and
     
-    *   (b) whether any donation is funded from contributions, and if so, and to the extent known or ascertainable from the information supplied under [section 103D][193], the details specified in subsection (5) in respect of every contribution that, either on its own or when aggregated with other contributions by the same contributor to the donation, exceeds $1,500 in sum or value; and
+    *   (b) whether any donation is funded from contributions, and if so, and to the extent known or ascertainable from the information supplied under [section 103D][196], the details specified in subsection (5) in respect of every contribution that, either on its own or when aggregated with other contributions by the same contributor to the donation, exceeds $1,500 in sum or value; and
     
     *   (c) the details specified in subsection (6) in respect of every anonymous electoral donation received by the candidate that exceeds $1,500; and
     
@@ -4618,39 +4875,39 @@ Electoral donations and expenses
     
     *   (b) the amount of the donation; and
     
-    *   (c) the amount paid to the electoral officer under [section 103J(1) or (2)][199] and the date that payment was made.
+    *   (c) the amount paid to the electoral officer under [section 103J(1) or (2)][202] and the date that payment was made.
     
-    (7) Every return filed under this section must be in the form prescribed in [Schedule 2][279].
+    (7) Every return filed under this section must be in the form prescribed in [Schedule 2][282].
     
     (8) It is the duty of every electoral officer to ensure that this section is complied with.
     
     (9) In this section, _file_ in relation to a return, means to send the return to the electoral officer responsible for the conduct of the election.
     
-    Compare: 1993 No 87 [s 209][428]
+    Compare: 1993 No 87 [s 209][425]
     
-    Section 112A: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112A: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112B Nil return
     
-*   If a candidate considers that there is no relevant information to disclose under [section 112A][214], the candidate must file a nil return under that section.
+*   If a candidate considers that there is no relevant information to disclose under [section 112A][217], the candidate must file a nil return under that section.
     
-    Compare: 1993 No 87 [s 209A][429]
+    Compare: 1993 No 87 [s 209A][433]
     
-    Section 112B: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112B: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112C Failure to file return of electoral donations and expenses
     
-*   A candidate who fails, without reasonable excuse, to comply with [section 112A][214] commits an offence and is liable on conviction to---
+*   A candidate who fails, without reasonable excuse, to comply with [section 112A][217] commits an offence and is liable on conviction to---
         
     *   (a) a fine not exceeding $1,000; and
     
     *   (b) if he or she has been elected to office, a further fine not exceeding $400 for every day that he or she continues to hold office until the return is filed.
     
-    Section 112C: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112C: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112D Filing a false return of electoral donations and expenses
     
-*   A candidate who files a return under [section 112A][214] that is false in any material particular commits an offence and is liable on conviction---
+*   A candidate who files a return under [section 112A][217] that is false in any material particular commits an offence and is liable on conviction---
         
     *   (a) to a term of imprisonment not exceeding 2 years, or a fine not exceeding $10,000, if he or she filed the return knowing it to be false in any material particular; or
     
@@ -4662,38 +4919,38 @@ Electoral donations and expenses
         
         
     
-    Section 112D: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112D: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112E Obligation to retain records necessary to verify return
     
-*   (1) A candidate must take all reasonable steps to retain all records, documents, and accounts that are necessary to enable a return under [section 112A][214] to be verified.
+*   (1) A candidate must take all reasonable steps to retain all records, documents, and accounts that are necessary to enable a return under [section 112A][217] to be verified.
     
     (2) The records, documents, and accounts must be retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the return or to any matter to which the return relates.
     
     (3) A candidate who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1993 No 87 [s 209C][430]
+    Compare: 1993 No 87 [s 209C][434]
     
-    Section 112E: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112E: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 112F Return of electoral donations and expenses to be open for public inspection
     
-*   (1) The electoral officer must keep every return filed under [section 112A][214] in the electoral officer's office, or at some other convenient place to be appointed by the chief executive of the local authority, for a period of 7 years after the date of the election to which it relates (the _public inspection period_).
+*   (1) The electoral officer must keep every return filed under [section 112A][217] in the electoral officer's office, or at some other convenient place to be appointed by the chief executive of the local authority, for a period of 7 years after the date of the election to which it relates (the _public inspection period_).
     
     (2) During the public inspection period the electoral officer must---
         
-    *   (a) publish, electronically or in any other manner the electoral officer considers appropriate, every return filed under [section 112A][214]; and
+    *   (a) publish, electronically or in any other manner the electoral officer considers appropriate, every return filed under [section 112A][217]; and
     
-    *   (b) make available for public inspection a copy of every return filed under [section 112A][214]; and
+    *   (b) make available for public inspection a copy of every return filed under [section 112A][217]; and
     
-    *   (c) provide to any person upon request a copy of 1 or more returns filed under [section 112A][214], subject to the payment of any charges that may be made under the [Local Government Official Information and Meetings Act 1987][318].
+    *   (c) provide to any person upon request a copy of 1 or more returns filed under [section 112A][217], subject to the payment of any charges that may be made under the [Local Government Official Information and Meetings Act 1987][323].
     
-    Section 112F: inserted, on 29 June 2013, by [section 35][427] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 112F: inserted, on 29 June 2013, by [section 35][432] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ## Part 5A  
 Electoral advertising
     
-*   Part 5A heading: inserted, on 29 June 2013, by [section 36][431] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Part 5A heading: inserted, on 29 June 2013, by [section 36][435] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 113 Advertisements for candidates
     
@@ -4719,19 +4976,19 @@ Electoral advertising
         
         
     
-    (5) This section does not restrict the publication of any news or comments relating to an election in a newspaper or other periodical, or on the Internet, or in any other medium of electronic communication accessible by the public, or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][432] of the Broadcasting Act 1989\.
+    (5) This section does not restrict the publication of any news or comments relating to an election in a newspaper or other periodical, or on the Internet, or in any other medium of electronic communication accessible by the public, or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][436] of the Broadcasting Act 1989\.
     
     (6) A person who wilfully contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
-    Compare: 1993 No 87 [s 221][433]
+    Compare: 1993 No 87 [s 221][437]
     
-    Section 113(6): inserted, on 29 June 2013, by [section 37][434] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 113(6): inserted, on 29 June 2013, by [section 37][438] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 114 Use of public money
     
-*   [Sections 111][210] and [112][211] do not validate any use of public money that would otherwise be unlawful.
+*   [Sections 111][213] and [112][214] do not validate any use of public money that would otherwise be unlawful.
     
-    Compare: 1993 No 87 [s 213(5)][413]
+    Compare: 1993 No 87 [s 213(5)][427]
 
 ## Part 6  
 Term of elected members and extraordinary vacancies
@@ -4740,19 +4997,19 @@ Term of elected members and extraordinary vacancies
 
 ##### 115 When members come into office
     
-*   (1) Candidates at a triennial general election who are declared to be elected come into office on the day after the day on which the official result of the election is declared by public notice under [section 86][161].
+*   (1) Candidates at a triennial general election who are declared to be elected come into office on the day after the day on which the official result of the election is declared by public notice under [section 86][164].
     
     (2) \[Repealed\]
     
     (3) A person appointed to fill an extraordinary vacancy comes into office at the time of his or her appointment.
     
-    Section 115(1): replaced, on 29 June 2013, by [section 38][435] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 115(1): replaced, on 29 June 2013, by [section 38][439] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 115(2): repealed, on 29 June 2013, by [section 38][435] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 115(2): repealed, on 29 June 2013, by [section 38][439] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 116 When members leave office
     
-*   (1) Every member of a local authority or community board, unless vacating office sooner, vacates office,---
+*   (1) Every member of a local authority or local board or community board, unless vacating office sooner, vacates office,---
         
     *   (a) in a case where the member's office is the subject of an election, when the members elected at the next election come into office:
     
@@ -4760,19 +5017,21 @@ Term of elected members and extraordinary vacancies
     
     (2) Despite subsection (1)(a), if a member's office is the subject of an election, and neither the member nor any other person is elected at the election to that office, the member vacates office at the same time as any other member of the local authority who is not re-elected at the election.
     
-    Section 116(2): added, on 25 December 2002, by [section 37][436] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 116(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 116(2): added, on 25 December 2002, by [section 37][440] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 #### Filling of extraordinary vacancies
 
-##### 117 Extraordinary vacancy in local authority or community board
+##### 117 Extraordinary vacancy in local authority or local board or community board
     
-*   (1) If a vacancy occurs in the office of a member of a local authority or in the office of an elected member of a community board more than 12 months before the next triennial general election, the vacancy must be filled by an election under this Act.
+*   (1) If a vacancy occurs in the office of a member of a local authority or in the office of an elected member of a local board or community board more than 12 months before the next triennial general election, the vacancy must be filled by an election under this Act.
     
-    (2) If a vacancy occurs in the office of a member of a local authority or in the office of an elected member of a community board 12 months or less than 12 months before the next triennial general election, the chief executive of the local authority concerned must notify the local authority or community board of the vacancy immediately.
+    (2) If a vacancy occurs in the office of a member of a local authority or in the office of an elected member of a local board or community board 12 months or less than 12 months before the next triennial general election, the chief executive of the local authority concerned must notify the local authority or local board or community board of the vacancy immediately.
     
-    (3) On receiving notice under subsection (2), the local authority or community board must, at its next meeting (other than an extraordinary meeting) or, if that is not practicable, at its next subsequent meeting (other than an extraordinary meeting), determine by resolution---
+    (3) On receiving notice under subsection (2), the local authority or local board or community board must, at its next meeting (other than an extraordinary meeting) or, if that is not practicable, at its next subsequent meeting (other than an extraordinary meeting), determine by resolution---
         
-    *   (a) that the vacancy will be filled by the appointment by the local authority or community board of a person named in the resolution who is qualified to be elected as a member; or
+    *   (a) that the vacancy will be filled by the appointment by the local authority or local board or community board of a person named in the resolution who is qualified to be elected as a member; or
     
     *   (b) that the vacancy is not to be filled.
     
@@ -4784,37 +5043,57 @@ Term of elected members and extraordinary vacancies
         
     *   (a) the person is to be treated as having vacated the office of a member; and
     
-    *   (b) the vacancy in the office of a member is an extraordinary vacancy and this section and [sections 118 to 120][230] apply.
+    *   (b) the vacancy in the office of a member is an extraordinary vacancy and this section and [sections 118 to 120][233] apply.
     
-    Section 117(2): amended, on 25 December 2002, by [section 38][437] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 117 heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
     
-    Section 117(3): amended, on 7 July 2004, by [section 15][438] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 117(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 117(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 117(2): amended, on 25 December 2002, by [section 38][441] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 117(3): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 117(3): amended, on 7 July 2004, by [section 15][442] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    
+    Section 117(3)(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
-##### 117A Power to fill by appointment extraordinary vacancy in community board
+##### 117A Power to fill by appointment extraordinary vacancy in local board or community board
     
-*   If a local authority, despite complying with [section 120][232], is unable to fill by election an extraordinary vacancy in the office of an elected member of a community board (being an extraordinary vacancy to which [section 117(1)][228] applies), the community board may (instead of having the local authority conduct a further election in accordance with section 120) determine by resolution that the vacancy will be filled by the appointment by the community board of a person named in the resolution who is qualified to be elected as a member.
+*   If a local authority, despite complying with [section 120][235], is unable to fill by election an extraordinary vacancy in the office of an elected member of a local board or community board (being an extraordinary vacancy to which [section 117(1)][231] applies), the local board or community board may (instead of having the local authority conduct a further election in accordance with section 120) determine by resolution that the vacancy will be filled by the appointment by the local board or community board of a person named in the resolution who is qualified to be elected as a member.
     
-    Section 117A: inserted, on 25 December 2002, by [section 39][439] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 117A: inserted, on 25 December 2002, by [section 39][443] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 117A heading: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 117A: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 118 Notice of intention to fill vacancy by appointment
     
-*   (1) If, under [section 117(3)(a)][228] or [section 117A][229], a local authority or community board resolves that a vacancy will be filled by the appointment of a person by the local authority or community board, it must immediately, unless the vacancy is for the office of mayor, give public notice of---
+*   (1) If, under [section 117(3)(a)][231] or [section 117A][232], a local authority or local board or community board resolves that a vacancy will be filled by the appointment of a person by the local authority or local board or community board, it must immediately, unless the vacancy is for the office of mayor, give public notice of---
         
     *   (a) the resolution; and
     
     *   (b) the process or criteria by which the person named in the resolution was selected for appointment.
     
-    (2) The local authority or community board must, at a meeting held not later than the expiry of the prescribed period, by resolution confirm the appointment described in the resolution under subsection (1); and the person appointed is for all purposes to be treated as having been elected to fill the vacancy on the date on which that resolution is made.
+    (2) The local authority or local board or community board must, at a meeting held not later than the expiry of the prescribed period, by resolution confirm the appointment described in the resolution under subsection (1); and the person appointed is for all purposes to be treated as having been elected to fill the vacancy on the date on which that resolution is made.
     
     (3) For the purposes of subsection (2), the _expiry of the prescribed period_ is 30 days after the date of notification of the resolution under subsection (1).
     
     (4) If for any reason the person specified in the resolution is unavailable or otherwise unable to be confirmed in the appointment, a further vacancy occurs in that office.
     
-    Section 118(1): amended, on 25 December 2002, by [section 40][440] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 118(1): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 118(1): amended, on 25 December 2002, by [section 40][444] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 118(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 119 Notice of intention to leave vacancy unfilled
     
-*   If, under [section 117(3)(b)][228], a local authority or community board resolves not to fill a vacancy, it must immediately give public notice of its decision.
+*   If, under [section 117(3)(b)][231], a local authority or local board or community board resolves not to fill a vacancy, it must immediately give public notice of its decision.
+    
+    Section 119: amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ##### 120 Election to fill extraordinary vacancy
     
@@ -4824,7 +5103,7 @@ Term of elected members and extraordinary vacancies
     
     *   (b) the election must be held not later than 82 days after the date on which the electoral officer receives notice of the vacancy, and the provisions of this Act and any regulations made under this Act apply accordingly and with any necessary modifications.
     
-    (2) If an election is to be held under subsection (1), an election must be held at the same time to fill every extraordinary vacancy on the local authority or community board---
+    (2) If an election is to be held under subsection (1), an election must be held at the same time to fill every extraordinary vacancy on the local authority or local board or community board---
         
     *   (a) that is unfilled at the time the extraordinary vacancy occurred; or
     
@@ -4840,7 +5119,9 @@ Term of elected members and extraordinary vacancies
     
     (5) Any qualified person who was not nominated as a candidate at the countermanded election may be nominated as a candidate at the election to be held on the substituted date.
     
-    Section 120(1)(a): amended, on 25 December 2002, by [section 41][441] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 120(1)(a): amended, on 25 December 2002, by [section 41][445] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    
+    Section 120(2): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
 
 ## Part 7  
 Offences
@@ -4857,7 +5138,7 @@ Offences
     
     Compare: 1976 No 144 s 53
     
-    Section 121: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 121: amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122 Interfering with or influencing voters
     
@@ -4891,7 +5172,7 @@ Offences
     
     Compare: 1976 No 144 s 54
     
-    Section 122(1): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 122(1): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 123 Offences in respect of official documents
     
@@ -4917,7 +5198,7 @@ Offences
     
     Compare: 1976 No 144 s 56(1)--(3)
     
-    Section 123(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 123(2): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 124 Voting offences
     
@@ -4929,7 +5210,7 @@ Offences
     
     Compare: 1976 No 144 s 56(4)
     
-    Section 124: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 124: amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 125 Bribery
     
@@ -4959,7 +5240,7 @@ Offences
     
     Compare: 1976 No 144 s 57
     
-    Section 125(3): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 125(3): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 126 Treating
     
@@ -4971,7 +5252,7 @@ Offences
     
     *   (c) on account of that person or any other person having voted or refrained from voting, or being about to vote or refrain from voting.
     
-    (2) Every holder of a licence under the [Sale and Supply of Alcohol Act 2012][443] commits the offence of treating who knowingly supplies any food, drink, entertainment, or provision---
+    (2) Every holder of a licence under the [Sale and Supply of Alcohol Act 2012][447] commits the offence of treating who knowingly supplies any food, drink, entertainment, or provision---
         
     *   (a) to any person, if the supply is demanded for 1 or more of the purposes specified in subsection (1); or
     
@@ -4985,9 +5266,9 @@ Offences
     
     Compare: 1976 No 144 s 58
     
-    Section 126(2): amended, on 18 December 2013, by [section 417(1)][444] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
+    Section 126(2): amended, on 18 December 2013, by [section 417(1)][448] of the Sale and Supply of Alcohol Act 2012 (2012 No 120).
     
-    Section 126(5): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 126(5): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 127 Undue influence
     
@@ -5011,9 +5292,9 @@ Offences
     
     (2) Every person who commits the offence of undue influence is liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    Compare: 1976 No 144 s 59; 1997 No 13 [s 59][445]
+    Compare: 1976 No 144 s 59; 1997 No 13 [s 59][449]
     
-    Section 127(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 127(2): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 128 Personation
     
@@ -5027,9 +5308,9 @@ Offences
     
     (2) Every person who commits the offence of personation is liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    Compare: 1976 No 144 s 60; 1997 No 13 [s 60][446]
+    Compare: 1976 No 144 s 60; 1997 No 13 [s 60][450]
     
-    Section 128(2): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 128(2): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 129 Infringement of secrecy
     
@@ -5067,7 +5348,7 @@ Offences
     
     Compare: 1976 No 144 s 62
     
-    Section 129(6): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 129(6): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 130 Disclosing voting or state of election or poll
     
@@ -5087,7 +5368,7 @@ Offences
     
     Compare: 1976 No 144 s 63
     
-    Section 130(3): amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 130(3): amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 131 Penalty for electoral officer, deputy electoral officer, and other electoral officials
     
@@ -5095,43 +5376,43 @@ Offences
     
     Compare: 1976 No 144 s 64
     
-    Section 131: amended, on 1 July 2013, by [section 413][442] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 131: amended, on 1 July 2013, by [section 413][446] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Electoral expenses
 
 \[Repealed\]
     
-*   Heading: repealed, on 29 June 2013, by [section 39][447] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Heading: repealed, on 29 June 2013, by [section 39][451] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 132 Payments in breach of section 105
     
 *   \[Repealed\]
     
-    Section 132: repealed, on 29 June 2013, by [section 39][447] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 132: repealed, on 29 June 2013, by [section 39][451] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 133 Failure to transmit return
     
 *   \[Repealed\]
     
-    Section 133: repealed, on 29 June 2013, by [section 40][448] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 133: repealed, on 29 June 2013, by [section 40][452] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 134 False return
     
 *   \[Repealed\]
     
-    Section 134: repealed, on 29 June 2013, by [section 40][448] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 134: repealed, on 29 June 2013, by [section 40][452] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 135 Unauthorised advertisements
     
 *   \[Repealed\]
     
-    Section 135: repealed, on 29 June 2013, by [section 40][448] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 135: repealed, on 29 June 2013, by [section 40][452] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 136 Excessive expenditure
     
 *   \[Repealed\]
     
-    Section 136: repealed, on 29 June 2013, by [section 40][448] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 136: repealed, on 29 June 2013, by [section 40][452] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 #### General provisions
 
@@ -5147,9 +5428,9 @@ Offences
         
     *   (a) receives a written complaint that an offence has been committed under---
             
-        *   (i) [Part 5][188]; or
+        *   (i) [Part 5][191]; or
         
-        *   (ii) [Part 5A][220]; or
+        *   (ii) [Part 5A][223]; or
         
         *   (iii) this Part; or
         
@@ -5165,44 +5446,44 @@ Offences
     
     (3) Subsection (2) does not prevent any person from reporting an alleged offence to the Police.
     
-    (4) Despite subsection (2), an electoral officer is not required to report the failure by a candidate to file a return under [section 112A][214] if the candidate files the return promptly after being required to do so by the electoral officer.
+    (4) Despite subsection (2), an electoral officer is not required to report the failure by a candidate to file a return under [section 112A][217] if the candidate files the return promptly after being required to do so by the electoral officer.
     
-    Section 138: replaced, on 29 June 2013, by [section 41][449] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 138: replaced, on 29 June 2013, by [section 41][453] of the Local Electoral Amendment Act 2013 (2013 No 40).
     
-    Section 138(1)(a)(ii): replaced, on 5 December 2013, by [section 4][450] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
+    Section 138(1)(a)(ii): replaced, on 5 December 2013, by [section 4][454] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
     
-    Section 138(1)(a)(iii): inserted, on 5 December 2013, by [section 4][450] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
+    Section 138(1)(a)(iii): inserted, on 5 December 2013, by [section 4][454] of the Local Electoral Amendment Act (No 2) 2013 (2013 No 123).
 
 ##### 138AA Time limit for prosecutions
     
-*   (1) A prosecution under [section 112C][216] must be commenced within 6 months of the date on which the return was required to be filed.
+*   (1) A prosecution under [section 112C][219] must be commenced within 6 months of the date on which the return was required to be filed.
     
-    (2) A prosecution under [section 103K][200] or [112D][217] must be commenced---
+    (2) A prosecution under [section 103K][203] or [112D][220] must be commenced---
         
     *   (a) within 6 months of the date on which the prosecutor is satisfied that there is sufficient evidence to warrant the commencement of the proceedings; but
     
     *   (b) not later than 3 years after the offence was committed.
     
-    Section 138AA: inserted, on 29 June 2013, by [section 41][449] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Section 138AA: inserted, on 29 June 2013, by [section 41][453] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ## Part 8  
 Miscellaneous provisions
 
 ##### 138A Special provision in relation to certain elections to fill extraordinary vacancies and certain polls
     
-*   (1) Despite [section 19ZF(3)][63], [section 33(3)][90], and [section 120(1)][232],---
+*   (1) Despite [section 19ZF(3)][66], [section 33(3)][93], and [section 120(1)][235],---
         
-    *   (a) if an electoral officer receives a notice under [section 19ZC(5)][60], [section 19ZD(4)][61], [section 30(4)][87], [section 31(3)][88], or [section 120(1)(a)][232] in the period that begins on 28 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 19ZF or section 33, or for the election under section 120(1), must be a day not earlier than 10 February in the following year; and
+    *   (a) if an electoral officer receives a notice under [section 19ZC(5)][63], [section 19ZD(4)][64], [section 30(4)][90], [section 31(3)][91], or [section 120(1)(a)][235] in the period that begins on 28 September in any year and ends with the close of 20 November in that year, the polling day for the poll under section 19ZF or section 33, or for the election under section 120(1), must be a day not earlier than 10 February in the following year; and
     
-    *   (b) if an electoral officer receives a notice under [section 19ZC(5)][60], [section 19ZD(4)][61], [section 30(4)][87], [section 31(3)][88], or [section 120(1)(a)][232] in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under [section 19ZF][63] or [section 33][90], or for the election under section 120(1), must be a day not earlier than 7 March in the following year; and
+    *   (b) if an electoral officer receives a notice under [section 19ZC(5)][63], [section 19ZD(4)][64], [section 30(4)][90], [section 31(3)][91], or [section 120(1)(a)][235] in the period that begins on 21 November in any year and ends with the close of 15 December in that year, the polling day for the poll under [section 19ZF][66] or [section 33][93], or for the election under section 120(1), must be a day not earlier than 7 March in the following year; and
     
-    *   (c) if an electoral officer receives a notice under [section 19ZC(5)][60], [section 19ZD(4)][61], [section 30(4)][87], [section 31(3)][88], or [section 120(1)(a)][232] in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under [section 19ZF][63] or [section 33][90], or for the election under section 120(1), must be a day not earlier than 4 April in that following year.
+    *   (c) if an electoral officer receives a notice under [section 19ZC(5)][63], [section 19ZD(4)][64], [section 30(4)][90], [section 31(3)][91], or [section 120(1)(a)][235] in the period that begins on 16 December in any year and ends with the close of 12 January in the following year, the polling day for the poll under [section 19ZF][66] or [section 33][93], or for the election under section 120(1), must be a day not earlier than 4 April in that following year.
     
     (2) In any case to which paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) applies, the requirements of this Act apply as if the notice referred to in the paragraph had been received by the electoral officer on the last day of the period specified in that paragraph.
     
     Compare: 1976 No 144 s 50(1)
     
-    Section 138A: inserted, on 25 December 2002, by [section 44][451] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 138A: inserted, on 25 December 2002, by [section 44][455] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 139 Regulations
     
@@ -5224,7 +5505,7 @@ Miscellaneous provisions
     
     *   (h) prescribing standards, performance measures, procedures, and forms for the conduct of elections or polls, or any specified class of election or poll, or any specified election or poll, and regulating the conduct of those elections or polls:
     
-    *   (ha) prescribing the amount for each elector for the purposes of [section 111(1A)(a)][210]:
+    *   (ha) prescribing the amount for each elector for the purposes of [section 111(1A)(a)][213]:
     
     *   (i) regulating the conduct of electoral officers, deputy electoral officers, other electoral officials, scrutineers, candidates, voters, electors, and any other person, at elections or polls, or at any specified class of election or poll, or at any specified election or poll:
     
@@ -5234,7 +5515,7 @@ Miscellaneous provisions
     
     *   (l) prescribing penalties for offences against regulations made under this Act, not exceeding a fine of $2,000:
     
-    *   (la) regulating (in any way that is not inconsistent with [Part 1A][28] and [Schedule 1A][278]) the method of determining membership and the basis of election of local authorities:
+    *   (la) regulating (in any way that is not inconsistent with [Part 1A][28] and [Schedule 1A][281]) the method of determining membership and the basis of election of local authorities:
     
     *   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
@@ -5244,13 +5525,13 @@ Miscellaneous provisions
     
     Compare: 1976 No 144 s 123
     
-    Section 139(1)(ha): inserted, on 1 November 2010, by [section 113(1)][423] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 139(1)(ha): inserted, on 1 November 2010, by [section 113(1)][428] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 139(1)(la): inserted, on 25 December 2002, by [section 45][452] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 139(1)(la): inserted, on 25 December 2002, by [section 45][456] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 140 Powers and duties of electoral officers
     
-*   Regulations made under [section 139(1)(a)][257] may include (without limitation) provision for the following:
+*   Regulations made under [section 139(1)(a)][260] may include (without limitation) provision for the following:
         
     *   (a) 2 or more electoral officers to undertake specified duties or exercise specified powers in relation to the same election or poll:
     
@@ -5262,7 +5543,7 @@ Miscellaneous provisions
 
 ##### 140A Electoral systems
     
-*   Regulations made under [section 139(1)(b)][257] may include (without limitation) provisions---
+*   Regulations made under [section 139(1)(b)][260] may include (without limitation) provisions---
         
     *   (a) authorising or requiring 1 counting program to be used for the purpose of implementing the New Zealand method of counting single transferable votes or authorising more than 1 counting program or authorising a class of counting programs to be used for that purpose:
     
@@ -5276,13 +5557,13 @@ Miscellaneous provisions
     
     *   (e) imposing conditions or restrictions in relation to the use of any such counting program or other computer program for the purposes of an election or poll under this Act.
     
-    Section 140A: inserted, on 25 December 2002, by [section 46][453] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 140A: inserted, on 25 December 2002, by [section 46][457] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 140A(ab): inserted, on 7 July 2004, by [section 16][454] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 140A(ab): inserted, on 7 July 2004, by [section 16][458] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 141 Voting methods
     
-*   Regulations made under [section 139(1)(c)][257] may include (without limitation) provisions prohibiting or regulating the use of the same or different voting methods for different elections or polls, or elections and polls,---
+*   Regulations made under [section 139(1)(c)][260] may include (without limitation) provisions prohibiting or regulating the use of the same or different voting methods for different elections or polls, or elections and polls,---
         
     *   (a) that are conducted---
             
@@ -5300,9 +5581,9 @@ Miscellaneous provisions
 
 ##### 142 Electoral rolls
     
-*   Regulations made under [section 139(1)(f)][257] may include (without limitation)---
+*   Regulations made under [section 139(1)(f)][260] may include (without limitation)---
         
-    *   (a) provision for different forms of electoral rolls for different classes of local government areas, including (without limitation) divided local government areas, and local government areas containing 1 or more communities:
+    *   (a) provision for different forms of electoral rolls for different classes of local government areas, including (without limitation) divided local government areas, and local government areas containing 1 or more local board areas or communities:
     
     *   (b) requirements for residential electors or ratepayer electors, or any class of residential elector or ratepayer elector, to complete and deliver specified information (whether as a condition of enrolment or otherwise):
     
@@ -5314,11 +5595,13 @@ Miscellaneous provisions
     
     *   (f) provisions regulating the inspection, copying by and use of electoral rolls by local authorities, electoral officials, members of the public or any class of persons, either generally or for any specified purposes.
     
-    Section 142(c): amended, on 1 July 2012, by [section 58(12)][295] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
+    Section 142(a): amended, on 8 August 2014, by [section 76][300] of the Local Government Act 2002 Amendment Act 2014 (2014 No 55).
+    
+    Section 142(c): amended, on 1 July 2012, by [section 58(12)][298] of the Electoral (Administration) Amendment Act 2011 (2011 No 57).
 
 ##### 143 Conduct of elections and polls
     
-*   (1) Regulations made under [section 139(1)(h)][257] may include (without limitation)---
+*   (1) Regulations made under [section 139(1)(h)][260] may include (without limitation)---
         
     *   (a) provisions---
             
@@ -5356,7 +5639,7 @@ Miscellaneous provisions
     
     *   (c) provisions authorising or requiring electoral officers to publish, display, or distribute in the prescribed manner neutral information designed to assist voters to exercise an informed vote at polls conducted under this Act.
     
-    (2) Without limiting the powers conferred by [section 139(1)(h)][257], different provision may be made for the matters referred to in subsection (1)(b) in respect of---
+    (2) Without limiting the powers conferred by [section 139(1)(h)][260], different provision may be made for the matters referred to in subsection (1)(b) in respect of---
         
     *   (a) each electoral system:
     
@@ -5368,17 +5651,17 @@ Miscellaneous provisions
     
     *   (e) different classes of elections and polls.
     
-    Section 143(1)(b)(x): amended, on 7 July 2004, by [section 17][455] of the Local Electoral Amendment Act 2004 (2004 No 62).
+    Section 143(1)(b)(x): amended, on 7 July 2004, by [section 17][459] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ##### 144 Transitional regulations
     
 *   \[Repealed\]
     
-    Section 144: repealed, on 1 July 2002, by [section 145][456].
+    Section 144: repealed, on 1 July 2002, by [section 145][460].
 
 ##### 145 Expiry of section 144
     
-*   [Section 144][263] expires on the close of 30 June 2002 and on the close of that date is repealed.
+*   [Section 144][266] expires on the close of 30 June 2002 and on the close of that date is repealed.
 
 ##### 146 Regulations having effect under this Act
     
@@ -5424,33 +5707,33 @@ Miscellaneous provisions
     
     *   (d) to make such other provision for the case as he or she thinks fit.
     
-    Compare: 1976 No 144 s 122; 1997 No 53 [s 63][457]
+    Compare: 1976 No 144 s 122; 1997 No 53 [s 63][461]
 
 ##### 149 Amendments to section 101ZQ of Local Government Act 1974
     
 *   \[Repealed\]
     
-    Section 149: repealed, on 25 December 2002, by [section 53(c)][458] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 149: repealed, on 25 December 2002, by [section 53(c)][462] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 150 Amendment to Schedule 2 of New Zealand Public Health and Disability Act 2000
     
-*   _Amendment(s) incorporated in the [Act(s)][459]._
+*   _Amendment(s) incorporated in the [Act(s)][463]._
 
 ##### 151 Amendments to other enactments
     
-*   The enactments set out in [Schedule 3][280] are amended in the manner set out in that schedule.
+*   The enactments set out in [Schedule 3][283] are amended in the manner set out in that schedule.
 
 ##### 152 Repeals and revocations
     
-*   (1) The enactments set out in [Part 1][460] of Schedule 4 are repealed.
+*   (1) The enactments set out in [Part 1][464] of Schedule 4 are repealed.
     
-    (2) The regulations set out in [Part 2][461] of Schedule 4 are revoked.
+    (2) The regulations set out in [Part 2][465] of Schedule 4 are revoked.
 
 ##### 153 Transitional provisions relating to electoral systems
     
-*   [Sections 27 to 35][84] (which relate to electoral systems for elections and polls) do not apply to the triennial general election to be held on 13 October 2001 or to any poll taken in conjunction with that election, and that election (and any poll taken in conjunction with that election), and any election to fill an extraordinary vacancy held before the triennial general election in October 2004, must be conducted using the First Past the Post electoral system.
+*   [Sections 27 to 35][87] (which relate to electoral systems for elections and polls) do not apply to the triennial general election to be held on 13 October 2001 or to any poll taken in conjunction with that election, and that election (and any poll taken in conjunction with that election), and any election to fill an extraordinary vacancy held before the triennial general election in October 2004, must be conducted using the First Past the Post electoral system.
     
-    Section 153: amended, on 25 December 2002, by [section 47][462] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 153: amended, on 25 December 2002, by [section 47][466] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 154 Transitional provisions relating to returning officers
     
@@ -5460,7 +5743,7 @@ Miscellaneous provisions
 
 ##### 155 Transitional provisions relating to electoral rolls
     
-*   [Sections 38 to 51][98] (which relate to electoral rolls) do not apply to the triennial general election to be held on 13 October 2001 or to any poll taken in conjunction with that election.
+*   [Sections 38 to 51][101] (which relate to electoral rolls) do not apply to the triennial general election to be held on 13 October 2001 or to any poll taken in conjunction with that election.
 
 ##### 156 Further transitional provisions relating to electoral rolls
     
@@ -5472,9 +5755,9 @@ Miscellaneous provisions
     
     (2) For the purposes of the triennial general election and any poll to be held on 13 October 2001:
         
-    *   (a) section 7BA of the Local Elections and Polls Act 1976 applies as if, after the words ""[Local Government Act 1974][328]"" in subsection (1), there appeared the words ""or, as the case requires, [section 23][73] of the Local Electoral Act 2001"":
+    *   (a) section 7BA of the Local Elections and Polls Act 1976 applies as if, after the words ""[Local Government Act 1974][333]"" in subsection (1), there appeared the words ""or, as the case requires, [section 23][76] of the Local Electoral Act 2001"":
     
-    *   (b) section 7BB of the Local Elections and Polls Act 1976 applies as if, after the words ""Local Government Act 1974"" in subsection (1)(a), there appeared the words ""or, as the case requires, [section 24][74] of the Local Electoral Act 2001"":
+    *   (b) section 7BB of the Local Elections and Polls Act 1976 applies as if, after the words ""Local Government Act 1974"" in subsection (1)(a), there appeared the words ""or, as the case requires, [section 24][77] of the Local Electoral Act 2001"":
     
     *   (c) section 7BE of the Local Elections and Polls Act 1976 applies as if, after the words ""Local Government Act 1974"" in subsection (1), there appeared the words ""or, as the case requires, section 24 of the Local Electoral Act 2001"":
     
@@ -5488,21 +5771,21 @@ Miscellaneous provisions
     
     (4) For the purposes of the triennial general election and any poll to be held on 13 October 2001, section 111 of the Local Elections and Polls Act 1976 applies as if,---
         
-    *   (a) for the words ""[sections 22][72] and [107][206] of this Act"", which appear in subsection (1), there were substituted the words ""[section 70][142] of the Local Electoral Act 2001""; and
+    *   (a) for the words ""[sections 22][75] and [107][209] of this Act"", which appear in subsection (1), there were substituted the words ""[section 70][145] of the Local Electoral Act 2001""; and
     
     *   (b) for the words ""4 o'clock in the afternoon of the 43rd day"", which appear in subsection (1), there were substituted the words ""4 o'clock in the afternoon of 31 August 2001""; and
     
-    *   (c) for the words ""paragraph (b) or paragraph (c) of section 37 of this Act"", which appear in subsection (2), there were substituted the words ""[section 20(2)][70] or [section 21][71] of the Local Electoral Act 2001"".
+    *   (c) for the words ""paragraph (b) or paragraph (c) of section 37 of this Act"", which appear in subsection (2), there were substituted the words ""[section 20(2)][73] or [section 21][74] of the Local Electoral Act 2001"".
     
     (5) For the purposes of the triennial general election and any poll to be held on 13 October 2001, any power or duty conferred on the principal administrative officer of a local authority by sections 7B to 7K of the Local Elections and Polls Act 1976 may instead be exercised by the electoral officer of that authority.
     
-    (6) This section overrides [section 151][270].
+    (6) This section overrides [section 151][273].
 
 ##### 157 Transitional provisions relating to voting documents
     
 *   For the purposes of the triennial general election and any poll to be held on 13 October 2001,---
         
-    *   (a) [sections 75 to 77][150] do not apply to voting documents:
+    *   (a) [sections 75 to 77][153] do not apply to voting documents:
     
     *   (b) sections 25 and 25A of the Local Elections and Polls Act 1976 apply to the voting documents to be used at the election and any poll, and those sections and the provisions referred to in those sections apply---
             
@@ -5525,22 +5808,22 @@ New Zealand method of counting single transferable votes
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 7 July 2004, by [section 18][463] of the Local Electoral Amendment Act 2004 (2004 No 62).
+*   Schedule 1: repealed, on 7 July 2004, by [section 18][467] of the Local Electoral Amendment Act 2004 (2004 No 62).
 
 ---
 
 ## Schedule 1A  
 Provisions relating to Māori wards and Māori constituencies
 
-[s 19ZH][65]
+[s 19ZH][68]
 
-*   Schedule 1A: inserted, on 25 December 2002, by [section 49][464] of the Local Electoral Amendment Act 2002 (2002 No 85).
+*   Schedule 1A: inserted, on 25 December 2002, by [section 49][468] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 1 Review of representation arrangements for election of territorial authority
     
-*   (1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Māori wards) is required to be divided into 1 or more Māori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under [section 19H][36].
+*   (1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Māori wards) is required to be divided into 1 or more Māori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under [section 19H][39].
     
-    (2) That determination must be made as if the territorial authority were required by [section 19H][36] to determine by resolution, in accordance with [Part 1A][28],---
+    (2) That determination must be made as if the territorial authority were required by [section 19H][39] to determine by resolution, in accordance with [Part 1A][28],---
         
     *   (a) the proposed number of members of the territorial authority (other than the mayor); and
     
@@ -5564,9 +5847,9 @@ Provisions relating to Māori wards and Māori constituencies
     
     (3) This clause does not limit [section 19B(1)][30].
     
-    Compare: 2001 No 1 (L) [s 5][465]
+    Compare: 2001 No 1 (L) [s 5][469]
     
-    Schedule 1A clause 1(2)(b)(ii): amended, on 29 June 2013, by [section 42][466] of the Local Electoral Amendment Act 2013 (2013 No 40).
+    Schedule 1A clause 1(2)(b)(ii): amended, on 29 June 2013, by [section 42][470] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 ##### 2 Calculation of number of Māori and general ward members
     
@@ -5584,7 +5867,7 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   nm is the proposed number of members of the territorial authority (other than the mayor).
     
-    (2) If a determination is made under [clause 1(2)(b)(ii)][467], the definition of nm in the formula must be applied as if for the words ""proposed number of members of the territorial authority (other than the mayor)"" there were substituted the words ""proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole)"".
+    (2) If a determination is made under [clause 1(2)(b)(ii)][471], the definition of nm in the formula must be applied as if for the words ""proposed number of members of the territorial authority (other than the mayor)"" there were substituted the words ""proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole)"".
     
     (3) If the number of the Māori ward members (other than the mayor) calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori ward members must be the next whole number above the number that includes the fraction.
     
@@ -5594,17 +5877,17 @@ Provisions relating to Māori wards and Māori constituencies
         
     *   (a) the district must not be divided into 1 or more Māori wards and 1 or more general wards:
     
-    *   (b) the provisions of [clauses 1][467], [5][468], and [6][469] of this schedule must not be applied for the purposes of any determination under [section 19H][36] or [section 19R][48].
+    *   (b) the provisions of [clauses 1][471], [5][472], and [6][473] of this schedule must not be applied for the purposes of any determination under [section 19H][39] or [section 19R][51].
     
-    Compare: 2001 No 1 (L) [s 6][470]
+    Compare: 2001 No 1 (L) [s 6][474]
     
-    Schedule 1A clause 2(5): amended, on 28 June 2006, by [section 5(1)][471] of the Local Electoral Amendment Act 2006 (2006 No 25).
+    Schedule 1A clause 2(5): amended, on 28 June 2006, by [section 5(1)][475] of the Local Electoral Amendment Act 2006 (2006 No 25).
 
 ##### 3 Review of representation arrangements for election of regional council
     
-*   (1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Māori constituencies) is required to be divided into 1 or more Māori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under [section 19I][37].
+*   (1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Māori constituencies) is required to be divided into 1 or more Māori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under [section 19I][40].
     
-    (2) That determination must be made as if the regional council were required by [section 19I][37] to determine by resolution, in accordance with [Part 1A][28],---
+    (2) That determination must be made as if the regional council were required by [section 19I][40] to determine by resolution, in accordance with [Part 1A][28],---
         
     *   (a) the proposed number of members of the regional council; and
     
@@ -5618,7 +5901,7 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   (f) the number of members proposed to be elected by the electors of each general constituency.
     
-    Compare: 2001 No 1 (L) [s 5][465]
+    Compare: 2001 No 1 (L) [s 5][469]
 
 ##### 4 Calculation of number of Māori and general constituency members
     
@@ -5644,29 +5927,29 @@ Provisions relating to Māori wards and Māori constituencies
         
     *   (a) the region must not be divided into 1 or more Māori constituencies and 1 or more general constituencies:
     
-    *   (b) the provisions of [clauses 3][472], [5][468], and [6][469] of this schedule must not be applied for the purposes of any determination under [section 19I][37] or [section 19R][48].
+    *   (b) the provisions of [clauses 3][476], [5][472], and [6][473] of this schedule must not be applied for the purposes of any determination under [section 19I][40] or [section 19R][51].
     
-    Compare: 2001 No 1 (L) [s 6][470]
+    Compare: 2001 No 1 (L) [s 6][474]
     
-    Schedule 1A clause 4(4): amended, on 28 June 2006, by [section 5(2)][471] of the Local Electoral Amendment Act 2006 (2006 No 25).
+    Schedule 1A clause 4(4): amended, on 28 June 2006, by [section 5(2)][475] of the Local Electoral Amendment Act 2006 (2006 No 25).
 
 ##### 5 Relationship with other provisions
     
-*   (1) In exercising its powers and duties under [sections 19H to 19U][36], and [sections 19W to 19Y][53], a territorial authority or regional council or, as the case may require, the Commission must ensure that any proposal, revised proposal, or determination made under any of those sections is,---
+*   (1) In exercising its powers and duties under [sections 19H to 19U][39], and [sections 19W to 19Y][56], a territorial authority or regional council or, as the case may require, the Commission must ensure that any proposal, revised proposal, or determination made under any of those sections is,---
         
-    *   (a) in the case of a territorial authority, consistent with the calculations required by [clause 2][335]; and
+    *   (a) in the case of a territorial authority, consistent with the calculations required by [clause 2][340]; and
     
-    *   (b) in the case of a regional council, consistent with the result of the calculations required by [clause 4][336].
+    *   (b) in the case of a regional council, consistent with the result of the calculations required by [clause 4][341].
     
-    (2) If it is proposed to alter the proposed number of members of a territorial authority or regional council at any time after that number is first determined in accordance with [clause 1][467] or [clause 3][472], the territorial authority or regional council or, as the case may require, the Commission must again make, in accordance with the method of calculation specified in [clause 2][335] or the method of calculation specified in [clause 4][336], as the case may require, the determinations required by clause 1 or clause 3\.
+    (2) If it is proposed to alter the proposed number of members of a territorial authority or regional council at any time after that number is first determined in accordance with [clause 1][471] or [clause 3][476], the territorial authority or regional council or, as the case may require, the Commission must again make, in accordance with the method of calculation specified in [clause 2][340] or the method of calculation specified in [clause 4][341], as the case may require, the determinations required by clause 1 or clause 3\.
     
     (3) Subclause (2) does not limit subclause (1).
     
-    Compare: 2001 No 1 (L) [s 7][473]
+    Compare: 2001 No 1 (L) [s 7][477]
 
 ##### 6 Supplementary provisions regarding wards, constituencies, and boundaries
     
-*   In determining the number of wards and the boundaries of Māori wards, and the number of constituencies and the boundaries of Māori constituencies, a territorial authority or regional council or, as the case may require, the Commission must, in addition to satisfying the requirements of [section 19T][50] or [section 19U][51],---
+*   In determining the number of wards and the boundaries of Māori wards, and the number of constituencies and the boundaries of Māori constituencies, a territorial authority or regional council or, as the case may require, the Commission must, in addition to satisfying the requirements of [section 19T][53] or [section 19U][54],---
         
     *   (a) ensure, to the extent that is reasonably practicable and is consistent with the requirements of paragraph (b), that---
             
@@ -5694,32 +5977,32 @@ Provisions relating to Māori wards and Māori constituencies
     
     *   (b) the general electoral population of the district or region.
     
-    (2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under [section 35(6)][474] of the Electoral Act 1993\.
+    (2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under [section 35(6)][478] of the Electoral Act 1993\.
     
     (3) A certificate issued under subclause (1) is conclusive evidence of the information contained in that certificate.
     
-    Compare: 2001 No 1 (L) [s 9][475]
+    Compare: 2001 No 1 (L) [s 9][479]
 
 ##### 8 This schedule to be read with Local Government Act 1974 or Local Government Act 2002 and other provisions of this Act
     
-*   (1) This schedule is to be read in conjunction with the provisions of the [Local Government Act 1974][328] or the [Local Government Act 2002][329] and the other provisions of this Act, and the provisions of the Local Government Act 1974 or the Local Government Act 2002 and the other provisions of this Act and the provisions of any regulations made under either the Local Government Act 1974 or the Local Government Act 2002 or this Act apply accordingly and with any necessary modifications.
+*   (1) This schedule is to be read in conjunction with the provisions of the [Local Government Act 1974][333] or the [Local Government Act 2002][334] and the other provisions of this Act, and the provisions of the Local Government Act 1974 or the Local Government Act 2002 and the other provisions of this Act and the provisions of any regulations made under either the Local Government Act 1974 or the Local Government Act 2002 or this Act apply accordingly and with any necessary modifications.
     
-    (2) However, if there is any inconsistency between the provisions of this schedule and any provisions of the [Local Government Act 1974][328] or the [Local Government Act 2002][329] or of this Act or of any regulations made under the Local Government Act 1974 or the Local Government Act 2002 or this Act, this schedule prevails.
+    (2) However, if there is any inconsistency between the provisions of this schedule and any provisions of the [Local Government Act 1974][333] or the [Local Government Act 2002][334] or of this Act or of any regulations made under the Local Government Act 1974 or the Local Government Act 2002 or this Act, this schedule prevails.
     
-    Compare: 2001 No 1 (L) [s 4][476]
+    Compare: 2001 No 1 (L) [s 4][480]
 
 ---
 
 ## Schedule 2  
 Return of electoral donations and expenses
 
-[s 112A][214]
+[s 112A][217]
 
-*   Schedule 2: replaced, on 29 June 2013, by [section 43][477] of the Local Electoral Amendment Act 2013 (2013 No 40).
+*   Schedule 2: replaced, on 29 June 2013, by [section 43][481] of the Local Electoral Amendment Act 2013 (2013 No 40).
 
 #### 
 
-[Section 112A][214], Local Electoral Act 2001
+[Section 112A][217], Local Electoral Act 2001
 
 I, \[_name_\], was a candidate for the following elections held on \[_date_\]:
 
@@ -5773,14 +6056,14 @@ Place:
 ## Schedule 3  
 Enactments amended
 
-[s 151][270]
+[s 151][273]
 
 ## Part 1  
 Acts amended
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][358]_.
+_Amendment(s) incorporated in the [Act(s)][363]_.
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
@@ -5788,7 +6071,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][478]_.
+_Amendment(s) incorporated in the [Act(s)][482]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -5796,27 +6079,27 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][479]_.
+_Amendment(s) incorporated in the [Act(s)][483]_.
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][480]_.
+_Amendment(s) incorporated in the [Act(s)][484]_.
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][481]_.
+_Amendment(s) incorporated in the [Act(s)][485]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][482]_.
+_Amendment(s) incorporated in the [Act(s)][486]_.
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][483]_.
+_Amendment(s) incorporated in the [Act(s)][487]_.
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][484]_.
+_Amendment(s) incorporated in the [Act(s)][488]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
@@ -5827,43 +6110,43 @@ Regulations amended
 
 ##### Electoral Regulations 1996 (SR 1996/93)
 
-_Amendment(s) incorporated in the [regulations][485]._
+_Amendment(s) incorporated in the [regulations][489]._
 
 ##### Sale of Liquor Regulations 1990 (SR 1990/61)
 
-_Amendment(s) incorporated in the [regulations][486]._
+_Amendment(s) incorporated in the [regulations][490]._
 
 ---
 
 ## Schedule 4  
 Repeals and revocations
 
-[s 152][271]
+[s 152][274]
 
 ## Part 1  
 Enactments repealed
 
 ##### Health Reforms (Transitional Provisions) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][487]._
+_Amendment(s) incorporated in the [Act(s)][491]._
 
 ##### Local Elections and Polls Act 1976 (1976 No 144)
 
 ##### Local Government Amendment Act 1991 (1991 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][488]._
+_Amendment(s) incorporated in the [Act(s)][492]._
 
 ##### Local Government Amendment Act 1992 (1992 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][489]._
+_Amendment(s) incorporated in the [Act(s)][493]._
 
 ##### Local Government Amendment Act (No 3) 1996 (1996 No 83)
 
-_Amendment(s) incorporated in the [Act(s)][490]._
+_Amendment(s) incorporated in the [Act(s)][494]._
 
 ##### Postal Services Act 1998 (1998 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][491]._
+_Amendment(s) incorporated in the [Act(s)][495]._
 
 ##### Sale of Liquor Amendment Act 1991 (1991 No 52)
 
@@ -5894,7 +6177,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Local Electoral Amendment Act 2002][492].
+*   (1) This Act is the [Local Electoral Amendment Act 2002][496].
     
     (2) In this Act, the Local Electoral Act 2001 is called ""the principal Act"".
 
@@ -5944,7 +6227,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Local Electoral Amendment Act 2013][493].
+*   This Act is the [Local Electoral Amendment Act 2013][497].
 
 ##### 2 Commencement
     
@@ -6011,41 +6294,43 @@ Amendments to principal Act
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][494] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][495] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][498] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][499] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][496] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][497] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][500] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][501] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Local Electoral Amendment Act (No 2) 2013][498] (2013 No 123)
+*   Local Government Act 2002 Amendment Act 2014 (2014 No 55): [section 76][300]
     
-    [Local Electoral Amendment Act 2013][493] (2013 No 40)
+    [Local Electoral Amendment Act (No 2) 2013][502] (2013 No 123)
     
-    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][444]
+    [Local Electoral Amendment Act 2013][497] (2013 No 40)
     
-    Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][332]
+    Sale and Supply of Alcohol Act 2012 (2012 No 120): [section 417(1)][448]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][442]
+    Local Government Act 2002 Amendment Act 2012 (2012 No 93): [section 43][337]
     
-    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 58][295]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][446]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][423]
+    Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 58][298]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][366]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][428]
     
-    [Local Electoral Amendment Act 2006][499] (2006 No 25)
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][371]
     
-    [Local Electoral Amendment Act 2004][500] (2004 No 62)
+    [Local Electoral Amendment Act 2006][503] (2006 No 25)
     
-    [Local Electoral Amendment Act 2002][492] (2002 No 85)
+    [Local Electoral Amendment Act 2004][504] (2004 No 62)
     
-    Local Government Act 2002 (2002 No 84): [section 262][296]
+    [Local Electoral Amendment Act 2002][496] (2002 No 85)
     
-    [Local Electoral Act Commencement Order 2001][282] (SR 2001/144)
+    Local Government Act 2002 (2002 No 84): [section 262][299]
     
-    Local Electoral Act 2001 (2001 No 35): [section 145][456]
+    [Local Electoral Act Commencement Order 2001][285] (SR 2001/144)
+    
+    Local Electoral Act 2001 (2001 No 35): [section 145][460]
 
 
 
@@ -6083,470 +6368,474 @@ Amendments to principal Act
 [31]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93467
 [32]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93469
 [33]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93471
-[34]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93473
-[35]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93475
-[36]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93477
-[37]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93479
-[38]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93481
-[39]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313925
-[40]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313926
-[41]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93483
-[42]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93485
-[43]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93487
-[44]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93489
-[45]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93491
-[46]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93493
-[47]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93495
-[48]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93497
-[49]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93499
-[50]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93901
-[51]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93903
-[52]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93905
-[53]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93908
-[54]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93910
-[55]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93912
-[56]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93914
-[57]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93915
-[58]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93919
-[59]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93922
-[60]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93928
-[61]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93930
-[62]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93932
-[63]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93934
-[64]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93936
-[65]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93938
-[66]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93940
-[67]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93941
-[68]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93943
-[69]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93944
-[70]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93945
-[71]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93946
-[72]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93947
-[73]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93948
-[74]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93949
-[75]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93953
-[76]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93955
-[77]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93957
-[78]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93959
-[79]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93961
-[80]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93963
-[81]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93965
-[82]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93967
-[83]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93968
-[84]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93969
-[85]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93975
-[86]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93979
-[87]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93985
-[88]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93989
-[89]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93993
-[90]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93995
-[91]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94300
-[92]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94302
-[93]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94303
-[94]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94304
-[95]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94305
-[96]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94306
-[97]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94307
-[98]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94308
-[99]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94309
-[100]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94311
-[101]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94312
-[102]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94314
-[103]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94315
-[104]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94316
-[105]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94317
-[106]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94318
-[107]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94319
-[108]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94320
-[109]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94321
-[110]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94322
-[111]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94323
-[112]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94324
-[113]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94325
-[114]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94326
-[115]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94328
-[116]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94329
-[117]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94330
-[118]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94331
-[119]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94334
-[120]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94336
-[121]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94338
-[122]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94340
-[123]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94343
-[124]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94348
-[125]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94350
-[126]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94353
-[127]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94354
-[128]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94355
-[129]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94360
-[130]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94361
-[131]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94362
-[132]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94363
-[133]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94364
-[134]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94365
-[135]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94367
-[136]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94368
-[137]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94369
-[138]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94370
-[139]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94374
-[140]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94375
-[141]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313996
-[142]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94376
-[143]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94377
-[144]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94380
-[145]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94381
-[146]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94382
-[147]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315315
-[148]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94383
-[149]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94384
-[150]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94385
-[151]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94386
-[152]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94387
-[153]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94388
-[154]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94389
-[155]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94394
-[156]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94395
-[157]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94397
-[158]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94398
-[159]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94700
-[160]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94702
-[161]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94704
-[162]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94706
-[163]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94707
-[164]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94710
-[165]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94712
-[166]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94714
-[167]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94716
-[168]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94718
-[169]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94720
-[170]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94722
-[171]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94725
-[172]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94726
-[173]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94727
-[174]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94728
-[175]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94729
-[176]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94730
-[177]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94731
-[178]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94732
-[179]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94733
-[180]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94734
-[181]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94735
-[182]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94736
-[183]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94737
-[184]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94738
-[185]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94739
-[186]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94740
-[187]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94741
-[188]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94742
-[189]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315332
-[190]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315333
-[191]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315351
-[192]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315352
-[193]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315353
-[194]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315354
-[195]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315355
-[196]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315356
-[197]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315357
-[198]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315358
-[199]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315359
-[200]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315360
-[201]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315361
-[202]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324017
-[203]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94743
-[204]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94755
-[205]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94756
-[206]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94757
-[207]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94758
-[208]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94759
-[209]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94760
-[210]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94762
-[211]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94763
-[212]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324005
-[213]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324008
-[214]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324009
-[215]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324012
-[216]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324013
-[217]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324014
-[218]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324015
-[219]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324016
-[220]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324018
-[221]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94765
-[222]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94766
-[223]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94767
-[224]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94768
-[225]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94769
-[226]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94770
-[227]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94772
-[228]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94773
-[229]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94776
-[230]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94778
-[231]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94781
-[232]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94782
-[233]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94784
-[234]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94785
-[235]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94786
-[236]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94787
-[237]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94788
-[238]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94789
-[239]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94790
-[240]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94791
-[241]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94792
-[242]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94793
-[243]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94794
-[244]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94795
-[245]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94796
-[246]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94797
-[247]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94798
-[248]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94799
-[249]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95300
-[250]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95303
-[251]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95304
-[252]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95305
-[253]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95306
-[254]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5330036
-[255]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95308
-[256]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95309
-[257]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95311
-[258]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95313
-[259]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95314
-[260]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95317
-[261]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95318
-[262]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95319
-[263]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95321
-[264]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95322
-[265]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95323
-[266]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95324
-[267]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95325
-[268]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95326
-[269]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95328
-[270]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95330
-[271]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95331
-[272]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95332
-[273]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95334
-[274]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95335
-[275]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95336
-[276]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95337
-[277]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95338
-[278]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95358
-[279]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95376
-[280]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95378
-[281]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95800
-[282]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM49285
-[283]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181920
-[284]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179989
-[285]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM236787
-[286]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM430704
-[287]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM416631
-[288]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM171839
-[289]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM170881
-[290]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2997501
-[291]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM307525
-[292]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM57125
-[293]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803514
-[294]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179990
-[295]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3367693
-[296]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM174088
-[297]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303160
-[298]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303165
-[299]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181419
-[300]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066601
-[301]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303168
-[302]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303169
-[303]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181420
-[304]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417660
-[305]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417667
-[306]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417671
-[307]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417664
-[308]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417913
-[309]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417687
-[310]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066602
-[311]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066603
-[312]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417919
-[313]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM123071
-[314]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803521
-[315]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803524
-[316]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417691
-[317]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803525
-[318]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM122241
-[319]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417694
-[320]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803526
-[321]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417698
-[322]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM416656
-[323]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM175622
-[324]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803527
-[325]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417802
-[326]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303173
-[327]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803528
-[328]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415531
-[329]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM170872
-[330]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417883
-[331]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417896
-[332]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4499305
-[333]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417806
-[334]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803529
-[335]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95361
-[336]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95367
-[337]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4925979
-[338]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4925985
-[339]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373905
-[340]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM307518
-[341]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309404
-[342]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803530
-[343]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417675
-[344]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303174
-[345]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85702
-[346]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181465
-[347]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85703
-[348]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85704
-[349]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181472
-[350]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181473
-[351]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181475
-[352]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181476
-[353]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181477
-[354]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181478
-[355]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181479
-[356]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181480
-[357]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181481
-[358]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309174
-[359]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303175
-[360]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181483
-[361]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309151
-[362]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181484
-[363]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181485
-[364]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803531
-[365]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM364128
-[366]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1048943
-[367]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181486
-[368]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181487
-[369]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303176
-[370]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417684
-[371]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181490
-[372]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181492
-[373]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803532
-[374]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803533
-[375]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181493
-[376]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803534
-[377]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181495
-[378]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803535
-[379]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM204329
-[380]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803537
-[381]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803544
-[382]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181496
-[383]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803545
-[384]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803546
-[385]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803548
-[386]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803549
-[387]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803550
-[388]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803551
-[389]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181499
-[390]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303178
-[391]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181900
-[392]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181901
-[393]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303179
-[394]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417840
-[395]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181903
-[396]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181904
-[397]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303180
-[398]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM242775
-[399]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803552
-[400]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803554
-[401]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1867485
-[402]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868305
-[403]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868306
-[404]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868307
-[405]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868308
-[406]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868309
-[407]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868310
-[408]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868311
-[409]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868312
-[410]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868313
-[411]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868314
-[412]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868318
-[413]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310318
-[414]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310369
-[415]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803578
-[416]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181911
-[417]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310096
-[418]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803580
-[419]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310099
-[420]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310301
-[421]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310302
-[422]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803581
-[423]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3016880
-[424]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310331
-[425]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181913
-[426]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066609
-[427]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803582
-[428]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868338
-[429]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868339
-[430]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868341
-[431]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803590
-[432]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM155371
-[433]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310407
-[434]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066613
-[435]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803592
-[436]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181914
-[437]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181915
-[438]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303181
-[439]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181916
-[440]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181918
-[441]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181919
-[442]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3360714
-[443]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3339302
-[444]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3339984
-[445]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408916
-[446]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408917
-[447]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803593
-[448]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803594
-[449]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803595
-[450]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623402
-[451]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181923
-[452]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181925
-[453]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181926
-[454]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303182
-[455]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303183
-[456]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM95322
-[457]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408922
-[458]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181940
-[459]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM81686
-[460]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95801
-[461]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95809
-[462]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181928
-[463]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303184
-[464]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181935
-[465]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85390
-[466]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803597
-[467]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95360
-[468]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95372
-[469]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95373
-[470]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85392
-[471]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373906
-[472]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95366
-[473]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85396
-[474]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM308195
-[475]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85701
-[476]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85385
-[477]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803598
-[478]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM304497
-[479]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM71928
-[480]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415539
-[481]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM80802
-[482]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM298477
-[483]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM48175
-[484]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM166671
-[485]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM210031
-[486]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM136304
-[487]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM295712
-[488]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM229852
-[489]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM261649
-[490]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM394164
-[491]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM423790
-[492]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179983
-[493]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803501
-[494]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998516
-[495]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998515
-[496]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998532
-[497]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[498]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623403
-[499]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373598
-[500]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303154
+[34]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM6236304
+[35]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM6236305
+[36]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM6236306
+[37]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93473
+[38]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93475
+[39]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93477
+[40]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93479
+[41]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93481
+[42]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313925
+[43]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313926
+[44]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93483
+[45]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93485
+[46]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93487
+[47]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93489
+[48]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93491
+[49]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93493
+[50]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93495
+[51]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93497
+[52]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93499
+[53]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93901
+[54]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93903
+[55]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93905
+[56]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93908
+[57]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93910
+[58]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93912
+[59]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93914
+[60]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93915
+[61]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93919
+[62]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93922
+[63]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93928
+[64]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93930
+[65]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93932
+[66]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93934
+[67]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93936
+[68]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93938
+[69]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93940
+[70]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93941
+[71]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93943
+[72]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93944
+[73]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93945
+[74]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93946
+[75]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93947
+[76]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93948
+[77]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93949
+[78]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93953
+[79]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93955
+[80]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93957
+[81]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93959
+[82]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93961
+[83]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93963
+[84]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93965
+[85]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93967
+[86]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93968
+[87]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93969
+[88]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93975
+[89]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93979
+[90]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93985
+[91]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93989
+[92]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93993
+[93]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM93995
+[94]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94300
+[95]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94302
+[96]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94303
+[97]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94304
+[98]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94305
+[99]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94306
+[100]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94307
+[101]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94308
+[102]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94309
+[103]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94311
+[104]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94312
+[105]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94314
+[106]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94315
+[107]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94316
+[108]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94317
+[109]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94318
+[110]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94319
+[111]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94320
+[112]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94321
+[113]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94322
+[114]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94323
+[115]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94324
+[116]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94325
+[117]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94326
+[118]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94328
+[119]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94329
+[120]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94330
+[121]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94331
+[122]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94334
+[123]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94336
+[124]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94338
+[125]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94340
+[126]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94343
+[127]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94348
+[128]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94350
+[129]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94353
+[130]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94354
+[131]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94355
+[132]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94360
+[133]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94361
+[134]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94362
+[135]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94363
+[136]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94364
+[137]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94365
+[138]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94367
+[139]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94368
+[140]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94369
+[141]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94370
+[142]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94374
+[143]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94375
+[144]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5313996
+[145]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94376
+[146]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94377
+[147]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94380
+[148]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94381
+[149]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94382
+[150]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315315
+[151]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94383
+[152]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94384
+[153]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94385
+[154]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94386
+[155]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94387
+[156]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94388
+[157]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94389
+[158]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94394
+[159]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94395
+[160]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94397
+[161]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94398
+[162]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94700
+[163]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94702
+[164]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94704
+[165]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94706
+[166]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94707
+[167]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94710
+[168]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94712
+[169]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94714
+[170]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94716
+[171]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94718
+[172]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94720
+[173]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94722
+[174]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94725
+[175]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94726
+[176]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94727
+[177]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94728
+[178]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94729
+[179]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94730
+[180]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94731
+[181]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94732
+[182]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94733
+[183]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94734
+[184]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94735
+[185]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94736
+[186]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94737
+[187]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94738
+[188]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94739
+[189]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94740
+[190]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94741
+[191]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94742
+[192]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315332
+[193]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315333
+[194]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315351
+[195]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315352
+[196]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315353
+[197]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315354
+[198]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315355
+[199]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315356
+[200]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315357
+[201]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315358
+[202]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315359
+[203]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315360
+[204]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5315361
+[205]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324017
+[206]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94743
+[207]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94755
+[208]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94756
+[209]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94757
+[210]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94758
+[211]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94759
+[212]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94760
+[213]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94762
+[214]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94763
+[215]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324005
+[216]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324008
+[217]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324009
+[218]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324012
+[219]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324013
+[220]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324014
+[221]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324015
+[222]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324016
+[223]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5324018
+[224]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94765
+[225]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94766
+[226]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94767
+[227]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94768
+[228]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94769
+[229]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94770
+[230]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94772
+[231]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94773
+[232]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94776
+[233]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94778
+[234]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94781
+[235]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94782
+[236]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94784
+[237]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94785
+[238]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94786
+[239]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94787
+[240]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94788
+[241]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94789
+[242]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94790
+[243]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94791
+[244]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94792
+[245]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94793
+[246]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94794
+[247]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94795
+[248]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94796
+[249]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94797
+[250]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94798
+[251]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM94799
+[252]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95300
+[253]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95303
+[254]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95304
+[255]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95305
+[256]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95306
+[257]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM5330036
+[258]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95308
+[259]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95309
+[260]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95311
+[261]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95313
+[262]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95314
+[263]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95317
+[264]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95318
+[265]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95319
+[266]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95321
+[267]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95322
+[268]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95323
+[269]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95324
+[270]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95325
+[271]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95326
+[272]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95328
+[273]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95330
+[274]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95331
+[275]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95332
+[276]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95334
+[277]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95335
+[278]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95336
+[279]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95337
+[280]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95338
+[281]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95358
+[282]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95376
+[283]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95378
+[284]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95800
+[285]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM49285
+[286]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181920
+[287]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179989
+[288]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM236787
+[289]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM430704
+[290]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM416631
+[291]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM171839
+[292]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM170881
+[293]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2997501
+[294]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM307525
+[295]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM57125
+[296]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803514
+[297]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179990
+[298]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3367693
+[299]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM174088
+[300]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5707313
+[301]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303160
+[302]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303165
+[303]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181419
+[304]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066601
+[305]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303168
+[306]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303169
+[307]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181420
+[308]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417660
+[309]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417667
+[310]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417671
+[311]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417664
+[312]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM171834
+[313]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417913
+[314]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417687
+[315]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066602
+[316]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066603
+[317]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417919
+[318]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM123071
+[319]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803521
+[320]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803524
+[321]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417691
+[322]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803525
+[323]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM122241
+[324]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417694
+[325]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803526
+[326]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417698
+[327]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM416656
+[328]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM175622
+[329]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803527
+[330]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417802
+[331]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303173
+[332]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803528
+[333]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415531
+[334]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM170872
+[335]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417883
+[336]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417896
+[337]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4499305
+[338]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417806
+[339]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803529
+[340]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95361
+[341]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95367
+[342]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4925979
+[343]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4925985
+[344]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373905
+[345]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM307518
+[346]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309404
+[347]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803530
+[348]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417675
+[349]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303174
+[350]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85702
+[351]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181465
+[352]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85703
+[353]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85704
+[354]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181472
+[355]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181473
+[356]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181475
+[357]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181476
+[358]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181477
+[359]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181478
+[360]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181479
+[361]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181480
+[362]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181481
+[363]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309174
+[364]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303175
+[365]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181483
+[366]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM309151
+[367]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181484
+[368]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181485
+[369]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803531
+[370]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM364128
+[371]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1048943
+[372]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181486
+[373]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181487
+[374]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303176
+[375]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417684
+[376]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181490
+[377]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181492
+[378]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803532
+[379]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803533
+[380]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181493
+[381]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803534
+[382]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181495
+[383]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803535
+[384]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM204329
+[385]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803537
+[386]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803544
+[387]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181496
+[388]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803545
+[389]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803546
+[390]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803548
+[391]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803549
+[392]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803550
+[393]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803551
+[394]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181499
+[395]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303178
+[396]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181900
+[397]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181901
+[398]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303179
+[399]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM417840
+[400]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181903
+[401]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181904
+[402]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303180
+[403]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM242775
+[404]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803552
+[405]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803554
+[406]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1867485
+[407]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868305
+[408]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868306
+[409]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868307
+[410]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868308
+[411]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868309
+[412]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868310
+[413]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868311
+[414]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868312
+[415]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868313
+[416]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868314
+[417]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868318
+[418]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310318
+[419]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310369
+[420]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803578
+[421]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181911
+[422]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM310096
+[423]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803580
+[424]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868323
+[425]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868338
+[426]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803581
+[427]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM6013341
+[428]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3016880
+[429]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM6013342
+[430]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181913
+[431]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066609
+[432]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803582
+[433]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868339
+[434]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1868341
+[435]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803590
+[436]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM155371
+[437]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM1869249
+[438]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5066613
+[439]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803592
+[440]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181914
+[441]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181915
+[442]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303181
+[443]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181916
+[444]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181918
+[445]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181919
+[446]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3360714
+[447]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3339302
+[448]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM3339984
+[449]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408916
+[450]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408917
+[451]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803593
+[452]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803594
+[453]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803595
+[454]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623402
+[455]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181923
+[456]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181925
+[457]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181926
+[458]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303182
+[459]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303183
+[460]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM95322
+[461]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM408922
+[462]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181940
+[463]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM81686
+[464]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM2032617
+[465]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM2504205
+[466]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181928
+[467]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303184
+[468]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM181935
+[469]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85390
+[470]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803597
+[471]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95360
+[472]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95372
+[473]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95373
+[474]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85392
+[475]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373906
+[476]: http://www.legislation.govt.nz/act/public/2001/0035/latest/whole.html#DLM95366
+[477]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85396
+[478]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM308195
+[479]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85701
+[480]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM85385
+[481]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803598
+[482]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM304497
+[483]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM71928
+[484]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM415539
+[485]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM80802
+[486]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM298477
+[487]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM48175
+[488]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM166671
+[489]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM210031
+[490]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM136304
+[491]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM295712
+[492]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM229852
+[493]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM261649
+[494]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM394164
+[495]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM423790
+[496]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM179983
+[497]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM4803501
+[498]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998516
+[499]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998515
+[500]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM2998532
+[501]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[502]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM5623403
+[503]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM373598
+[504]: http://www.legislation.govt.nz/act/public/2001/0035/latest/link.aspx?id=DLM303154
