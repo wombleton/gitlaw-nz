@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -61,7 +61,7 @@ This Act is administered by the Ministry of Justice.
 
 [Absolute privilege][18]
 
-[13][19][][19][Absolute privilege in relation to Parliamentary proceedings][19]
+[13][19][][19][Absolute privilege in relation to proceedings in Parliament][19]
 
 [14][20][][20][Absolute privilege in relation to judicial proceedings and other legal matters][20]
 
@@ -329,11 +329,11 @@ Defences
 
 #### Absolute privilege
 
-##### 13 Absolute privilege in relation to Parliamentary proceedings
+##### 13 Absolute privilege in relation to proceedings in Parliament
     
-*   (1) Proceedings in the House of Representatives are protected by absolute privilege.
+*   (1) Proceedings in Parliament are protected by absolute privilege.
     
-    (2) Any live broadcast, by any broadcaster, of proceedings in the House of Representatives is protected by absolute privilege.
+    (2) Any live broadcast, by any broadcaster, of proceedings in Parliament is protected by absolute privilege.
     
     (3) The following publications are protected by absolute privilege:
         
@@ -341,11 +341,23 @@ Defences
     
     *   (b) the publication, to the House of Representatives, of any document, either by presenting the document to, or laying the document before, the House of Representatives:
     
-    *   (c) the publication, by or under the authority of the House of Representatives, or under the authority of any enactment, of an official or authorised record of the proceedings of the House of Representatives:
+    *   (c) the publication, by or under the authority of the House of Representatives, or under the authority of any enactment, of an official or authorised report of proceedings in Parliament:
     
     *   (d) the publication of a correct copy of any document or record to which paragraph (a) or paragraph (c) applies.
     
+    (4) _Proceedings in Parliament_, in this section, has the same meaning as in [section 10][73] of the Parliamentary Privilege Act 2014\.
+    
     Compare: 1954 No 46 ss 18, 19
+    
+    Section 13 heading: amended, on 8 August 2014, by [section 34(2)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
+    
+    Section 13(1): amended, on 8 August 2014, by [section 34(3)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
+    
+    Section 13(2): amended, on 8 August 2014, by [section 34(3)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
+    
+    Section 13(3)(c): amended, on 8 August 2014, by [section 34(4)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
+    
+    Section 13(4): inserted, on 8 August 2014, by [section 34(5)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
 ##### 14 Absolute privilege in relation to judicial proceedings and other legal matters
     
@@ -367,9 +379,9 @@ Defences
 
 ##### 16 Qualified privilege
     
-*   (1) Subject to [sections 17][24] and [19][26], the matters specified in [Part 1][73] of Schedule 1 are protected by qualified privilege.
+*   (1) Subject to [sections 17][24] and [19][26], the matters specified in [Part 1][75] of Schedule 1 are protected by qualified privilege.
     
-    (2) Subject to [sections 17 to 19][24], the publication of a report or other matter specified in [Part 2][74] of Schedule 1 is protected by qualified privilege.
+    (2) Subject to [sections 17 to 19][24], the publication of a report or other matter specified in [Part 2][76] of Schedule 1 is protected by qualified privilege.
     
     (3) Nothing in this section limits any other rule of law relating to qualified privilege.
     
@@ -383,9 +395,9 @@ Defences
 
 ##### 18 Restrictions on qualified privilege in relation to Part 2 of Schedule 1
     
-*   (1) Nothing in [section 16(2)][23] protects the publication of a report or other matter specified in [Part 2][74] of Schedule 1 unless, at the time of that publication, the report or matter is a matter of public interest in any place in which that publication occurs.
+*   (1) Nothing in [section 16(2)][23] protects the publication of a report or other matter specified in [Part 2][76] of Schedule 1 unless, at the time of that publication, the report or matter is a matter of public interest in any place in which that publication occurs.
     
-    (2) In any proceedings for defamation in respect of the publication in any newspaper, or as part of a programme or service provided by a broadcaster, of a report or other matter specified in [Part 2][74] of Schedule 1, a defence of qualified privilege under [section 16(2)][23] shall fail if the plaintiff alleges and proves---
+    (2) In any proceedings for defamation in respect of the publication in any newspaper, or as part of a programme or service provided by a broadcaster, of a report or other matter specified in [Part 2][76] of Schedule 1, a defence of qualified privilege under [section 16(2)][23] shall fail if the plaintiff alleges and proves---
         
     *   (a) that the plaintiff requested the defendant to publish, in the manner in which the original publication was made, a reasonable letter or statement by way of explanation or contradiction; and
     
@@ -655,7 +667,7 @@ Procedure
     
     *   (b) the other facts and circumstances on which the plaintiff relies in support of the plaintiff's allegations.
     
-    Compare: 1908 No 89, Schedule 2 [r 188][75]; 1985 No 112 [s 10][76]; SR 1992/109 [r 211][77]
+    Compare: 1908 No 89, Schedule 2 [r 188][77]; 1985 No 112 [s 10][78]; SR 1992/109 [r 211][79]
 
 ##### 38 Particulars in defence of truth
     
@@ -665,7 +677,7 @@ Procedure
     
     *   (b) the facts and circumstances on which the defendant relies in support of the allegation that those statements are true.
     
-    Compare: 1908 No 89 Schedule 2, [r 189][75]; 1985 No 112 [s 10][76]; SR 1992/109 [r 212][78]
+    Compare: 1908 No 89 Schedule 2, [r 189][77]; 1985 No 112 [s 10][78]; SR 1992/109 [r 212][80]
 
 ##### 39 Notice of allegation that opinion not genuinely held
     
@@ -703,7 +715,7 @@ Procedure
     
     (3) The notice required by subsection (1) shall be served on the defendant within 10 working days after the defendant's statement of defence is served on the plaintiff, or within such further time as the court may allow on application made to it for that purpose either before or after the expiration of those 10 working days.
     
-    Compare: 1908 No 89 Schedule 2, [r 190][75]; 1985 No 112 [s 10][76]; SR 1992/109 [r 213][79]
+    Compare: 1908 No 89 Schedule 2, [r 190][77]; 1985 No 112 [s 10][78]; SR 1992/109 [r 213][81]
 
 ##### 42 Notice of evidence of bad reputation
     
@@ -864,7 +876,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 1 January 2011, by [section 58][80] of the Limitation Act 2010 (2010 No 110).
+    Section 55: repealed, on 1 January 2011, by [section 58][82] of the Limitation Act 2010 (2010 No 110).
 
 ##### 56 Repeals, revocations, and consequential amendments
     
@@ -884,11 +896,23 @@ Publications protected by qualified privilege
 ## Part 1  
 Publications not subject to restrictions in section 18
 
-*   1 Any delayed broadcast, by any broadcaster, of proceedings in the House of Representatives.
+##### 1 
+    
+*   \[Repealed\]
+    
+    Schedule 1 Part 1 clause 1: repealed, on 8 August 2014, by [section 34(6)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
-*   2 The publication of a fair and accurate report of proceedings in the House of Representatives or in any Committee of the House of Representatives.
+##### 2 
+    
+*   \[Repealed\]
+    
+    Schedule 1 Part 1 clause 2: repealed, on 8 August 2014, by [section 34(6)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
-*   3 The publication of a fair and accurate extract from, or summary of, any document or record to which section 13(3)(a) or (c) applies.
+##### 3 
+    
+*   \[Repealed\]
+    
+    Schedule 1 Part 1 clause 3: repealed, on 8 August 2014, by [section 34(6)][74] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
 *   4 Subject to any provision to the contrary in any other enactment, the publication, in any proceedings before a tribunal or authority established by or pursuant to any enactment (other than proceedings to which section 14(1) applies), of any matter by a member of the tribunal or authority, or by a party, representative, or witness in those proceedings.
 
@@ -945,7 +969,7 @@ Publications subject to restrictions in section 18
         
     *   (a) a local authority or committee of a local authority or local authorities; or
     
-    *   (b) a person or body appointed or constituted by or under, and exercising functions under, any Act (not being a court or a person holding an inquiry to which [clause 3][81] of this Part of this Schedule applies),---
+    *   (b) a person or body appointed or constituted by or under, and exercising functions under, any Act (not being a court or a person holding an inquiry to which [clause 3][83] of this Part of this Schedule applies),---
     
     not being proceedings from which the public or members of the news media or both were excluded.
 
@@ -981,11 +1005,13 @@ Publications subject to restrictions in section 18
         
     *   (a) any company or association constituted or registered under any Act:
     
-    *   (b) any society registered under the [Incorporated Societies Act 1908][82]:
+    *   (b) any society registered under the [Incorporated Societies Act 1908][84]:
     
     *   (c) any other body corporate operating in New Zealand.
     
+    Schedule 1 Part 2 clause 9(2): amended, on 5 December 2013, by [section 14][85] of the Companies Amendment Act 2013 (2013 No 111).
     
+    Schedule 1 Part 2 clause 9(2)(c): amended, on 5 December 2013, by [section 14][85] of the Companies Amendment Act 2013 (2013 No 111).
 
 *   10 A fair and accurate report of the proceedings at a press conference given by or on behalf of any body or person (being a body or person in respect of whose proceedings the publication of any fair and accurate report is, by virtue of section 16(2), protected by qualified privilege).
 
@@ -998,25 +1024,21 @@ Publications subject to restrictions in section 18
 *   14 A notice or advertisement published for the purpose of complying with a New Zealand Act; but not including a notice of an application to a court or tribunal, or to any other statutory office or statutory body, unless the application has been filed before the publication of the notice.
 
 *   15 A copy or a fair and accurate report or summary of a statement, notice, or other matter issued for the information of the public by or on behalf of the Government or any department or departmental officer, or any local authority or officer of the authority.
-    
-    Schedule 1 Part 2 clause 9(2): amended, on 5 December 2013, by [section 14][83] of the Companies Amendment Act 2013 (2013 No 111).
-    
-    Schedule 1 Part 2 clause 9(2)(c): amended, on 5 December 2013, by [section 14][83] of the Companies Amendment Act 2013 (2013 No 111).
 
 ## Part 3  
 Interpretation
 
 In this Schedule, unless the context otherwise requires,---
 
-_court_ includes the International Court of Justice and any other judicial or arbitral tribunal deciding matters in dispute between states; and also includes the Court Martial of New Zealand established under [section 8][84] of the Court Martial Act 2007
+_court_ includes the International Court of Justice and any other judicial or arbitral tribunal deciding matters in dispute between states; and also includes the Court Martial of New Zealand established under [section 8][86] of the Court Martial Act 2007
 
 _government_, in relation to a territory outside New Zealand that is subject to a central and a local government, means either of those governments
 
 _legislature_, in relation to a territory outside New Zealand that is subject to a central and a local legislature, means either of those legislatures
 
-_local authority_ means a local body or public body named or specified in [Schedule 1][85] or [Schedule 2][86] of the Local Government Official Information and Meetings Act 1987\.
+_local authority_ means a local body or public body named or specified in [Schedule 1][87] or [Schedule 2][88] of the Local Government Official Information and Meetings Act 1987\.
     
-*   Schedule 1 Part 3 **court**: amended, on 1 July 2009, by [section 87][87] of the Court Martial Act 2007 (2007 No 101).
+*   Schedule 1 Part 3 **court**: amended, on 1 July 2009, by [section 87][89] of the Court Martial Act 2007 (2007 No 101).
 
 ---
 
@@ -1027,19 +1049,19 @@ Enactments amended
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][88]._
+_Amendment(s) incorporated in the [Act(s)][90]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][89]._
+_Amendment(s) incorporated in the [Act(s)][91]._
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][90]._
+_Amendment(s) incorporated in the [Act(s)][92]._
 
 ##### Coroners Act 1988 (1988 No 111)
 
-_Amendment(s) incorporated in the [Act(s)][91]_.
+_Amendment(s) incorporated in the [Act(s)][93]_.
 
 ##### Human Rights Commission Act 1977 (1977 No 49) (RS Vol 18, p 227)
 
@@ -1047,19 +1069,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Law Commission Act 1985 (1985 No 151)
 
-_Amendment(s) incorporated in the [Act(s)][92]._
+_Amendment(s) incorporated in the [Act(s)][94]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][93]._
+_Amendment(s) incorporated in the [Act(s)][95]._
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][94]._
+_Amendment(s) incorporated in the [Act(s)][96]._
 
 ##### Police Complaints Authority Act 1988 (1988 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][95]._
+_Amendment(s) incorporated in the [Act(s)][97]._
 
 ##### Privacy Commissioner Act 1991 (1991 No 126)
 
@@ -1071,9 +1093,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
 
-_Amendment(s) incorporated in the [Act(s)][96]._
+_Amendment(s) incorporated in the [Act(s)][98]._
 
-##### Wanganui Computer Centre Act 1976 (1976 No 19) 
+##### Wanganui Computer Centre Act 1976 (1976 No 19)
 
 _Amendment(s) incorporated in the Act(s)_.
 
@@ -1086,7 +1108,7 @@ Enactments repealed
 
 ##### Crimes Act 1961 (1961 No 43) (RS Vol 1, p 635)
 
-_Amendment(s) incorporated in the [Act(s)][97]._
+_Amendment(s) incorporated in the [Act(s)][99]._
 
 ##### Defamation Act 1954 (1954 No 46) (RS Vol 2, p 307)
 
@@ -1122,21 +1144,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][98] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][99] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][100] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][101] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][100] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][101] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][102] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][103] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Companies Amendment Act 2013 (2013 No 111): [section 14][83]
+*   Parliamentary Privilege Act 2014 (2014 No 58): [section 34][74]
+    
+    Companies Amendment Act 2013 (2013 No 111): [section 14][85]
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][72]
     
-    Limitation Act 2010 (2010 No 110): [section 58][80]
+    Limitation Act 2010 (2010 No 110): [section 58][82]
     
-    Court Martial Act 2007 (2007 No 101): [section 87][87]
+    Court Martial Act 2007 (2007 No 101): [section 87][89]
 
 
 
@@ -1213,32 +1237,34 @@ _Amendment(s) incorporated in the Act(s)._
 [70]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM281416
 [71]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155371
 [72]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM4929207
-[73]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM2730120
-[74]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM2730121
-[75]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM147653
-[76]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM75960
-[77]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156937
-[78]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156939
-[79]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156941
-[80]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2033287
-[81]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM281282
-[82]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM175774
-[83]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM5620822
-[84]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1001934
-[85]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123616
-[86]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123633
-[87]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1002056
-[88]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155364
-[89]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155018
-[90]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM89961
-[91]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM135009
-[92]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM87377
-[93]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM122241
-[94]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM430983
-[95]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM126510
-[96]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM28126
-[97]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM327381
-[98]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998516
-[99]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998515
-[100]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998532
-[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[73]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM6136727
+[74]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM6052113
+[75]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM2730120
+[76]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM2730121
+[77]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM147653
+[78]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM75960
+[79]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156937
+[80]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156939
+[81]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM156941
+[82]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2033287
+[83]: http://www.legislation.govt.nz/act/public/1992/0105/latest/whole.html#DLM281282
+[84]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM175774
+[85]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM5620822
+[86]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1001934
+[87]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123616
+[88]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM123633
+[89]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM1002056
+[90]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155364
+[91]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM155018
+[92]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM89961
+[93]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM135009
+[94]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM87377
+[95]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM122241
+[96]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM430983
+[97]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM126510
+[98]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM28126
+[99]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM327381
+[100]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998516
+[101]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998515
+[102]: http://www.legislation.govt.nz/act/public/1992/0105/latest/link.aspx?id=DLM2998532
+[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
