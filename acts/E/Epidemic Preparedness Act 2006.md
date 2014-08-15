@@ -1,5 +1,5 @@
 Reprint  
-as at 5 August 2013
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -325,7 +325,7 @@ This Act is administered by the Ministry of Health.
     
     *   (b) a modification of a restriction on keeping a person in custody or detention; or
     
-    *   (c) a modification of a requirement or restriction imposed by the [Bill of Rights 1688][34], the [Constitution Act 1986][35], the [Electoral Act 1993][33], the [Judicature Amendment Act 1972][36], or the [New Zealand Bill of Rights Act 1990][37], or by this Act.
+    *   (c) a modification of a requirement or restriction imposed by the [Bill of Rights 1688][34], the [Constitution Act 1986][35], the [Electoral Act 1993][33], the [Judicature Amendment Act 1972][36], the [New Zealand Bill of Rights Act 1990][37], or the [Parliamentary Privilege Act 2014][38], or by this Act.
     
     (4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have stayed.
     
@@ -342,6 +342,8 @@ This Act is administered by the Ministry of Health.
         
     
     (6) Subsection (5) does not limit subsection (1).
+    
+    Section 12(3)(c): amended, on 8 August 2014, by [section 35(2)][39] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
 ##### 13 Application of prospective modifications
     
@@ -425,7 +427,7 @@ This Act is administered by the Ministry of Health.
     
     *   (b) a modification of a restriction on keeping a person in custody or detention; or
     
-    *   (c) a modification of a requirement or restriction imposed by the [Bill of Rights 1688][34], the [Constitution Act 1986][35], the [Electoral Act 1993][33], the [Judicature Amendment Act 1972][36], or the [New Zealand Bill of Rights Act 1990][37], or by this Act.
+    *   (c) a modification of a requirement or restriction imposed by the [Bill of Rights 1688][34], the [Constitution Act 1986][35], the [Electoral Act 1993][33], the [Judicature Amendment Act 1972][36], the [New Zealand Bill of Rights Act 1990][37], or the [Parliamentary Privilege Act 2014][38], or by this Act.
     
     (4) Subsection (3) does not prevent the modification of a procedural requirement or restriction relating to a person in custody or detention, even if the effect (direct or indirect) of the modification is that the person stays in custody or detention longer than he or she otherwise would have.
     
@@ -442,6 +444,8 @@ This Act is administered by the Ministry of Health.
         
     
     (6) Subsection (5) does not limit subsection (1).
+    
+    Section 15(3)(c): amended, on 8 August 2014, by [section 35(3)][39] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
 #### Parliamentary scrutiny of immediate modifications
 
@@ -459,19 +463,19 @@ This Act is administered by the Ministry of Health.
     
 *   An immediate modification order is disallowed if, within 6 sitting days after the day on which it was made, the House of Representatives resolves to disallow it.
     
-    Section 18: substituted, on 7 July 2010, by [section 4][38] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
+    Section 18: substituted, on 7 July 2010, by [section 4][40] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
 
 ##### 19 Disallowance has effect of revocation
     
 *   An immediate modification order that is disallowed under [section 18][22] is revoked at the close of the day after the day on which the House of Representatives resolves to disallow it.
     
-    Section 19: amended, on 7 July 2010, by [section 5][39] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
+    Section 19: amended, on 7 July 2010, by [section 5][41] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
 
 ##### 20 Lapse of notice of motion to disallow immediate modification order
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 7 July 2010, by [section 6][40] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
+    Section 20: repealed, on 7 July 2010, by [section 6][42] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
 
 ##### 21 Notice of resolution to disallow immediate modification order
     
@@ -481,21 +485,21 @@ This Act is administered by the Ministry of Health.
     
     (3) The notice is conclusive evidence of the day on which the resolution was agreed to.
     
-    (4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under the [Legislation Act 2012][41] as if it were a regulation.
+    (4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under the [Legislation Act 2012][43] as if it were a regulation.
     
-    Section 21(1): amended, on 7 July 2010, by [section 7][42] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
+    Section 21(1): amended, on 7 July 2010, by [section 7][44] of the Epidemic Preparedness Amendment Act 2010 (2010 No 64).
     
-    Section 21(4): amended, on 5 August 2013, by [section 77(3)][43] of the Legislation Act 2012 (2012 No 119).
+    Section 21(4): amended, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 ##### 22 Application of Part 3 of Legislation Act 2012
     
-*   An immediate modification order cannot be disallowed under [Part 3][44] of the Legislation Act 2012 if a notice of motion under [section 17][21] of this Act to disallow it---
+*   An immediate modification order cannot be disallowed under [Part 3][46] of the Legislation Act 2012 if a notice of motion under [section 17][21] of this Act to disallow it---
         
     *   (a) has lapsed; or
     
     *   (b) has not been agreed to.
     
-    Section 22: replaced, on 5 August 2013, by [section 77(3)][43] of the Legislation Act 2012 (2012 No 119).
+    Section 22: replaced, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 #### Other matters
 
@@ -541,7 +545,7 @@ This Act is administered by the Ministry of Health.
     
     *   (b) the fact that any thing is not in, or has not been done under, this Act or an enactment stated in subsection (2).
     
-    (2) The enactments referred to in subsection (1) are the [Health Amendment Act 2006][45], the [Immigration Amendment Act (No 2) 2006][46], the [Parole Amendment Act 2006][47], the [Sentencing Amendment Act (No 2) 2006][48], the [Social Security Amendment Act 2006][49], and the [Summary Proceedings Amendment Act (No 2) 2006][50].
+    (2) The enactments referred to in subsection (1) are the [Health Amendment Act 2006][47], the [Immigration Amendment Act (No 2) 2006][48], the [Parole Amendment Act 2006][49], the [Sentencing Amendment Act (No 2) 2006][50], the [Social Security Amendment Act 2006][51], and the [Summary Proceedings Amendment Act (No 2) 2006][52].
 
 ##### 26 Effect of modification orders on requirements to tell people of their rights
     
@@ -559,17 +563,19 @@ This Act is administered by the Ministry of Health.
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][51] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][52] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][53] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][54] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][53] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][54] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][55] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Legislation Act 2012 (2012 No 119): [section 77(3)][43]
+*   Parliamentary Privilege Act 2014 (2014 No 58): [section 35][39]
     
-    [Epidemic Preparedness Amendment Act 2010][55] (2010 No 64)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][45]
+    
+    [Epidemic Preparedness Amendment Act 2010][57] (2010 No 64)
 
 
 
@@ -611,21 +617,23 @@ This Act is administered by the Ministry of Health.
 [35]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM94203
 [36]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM408329
 [37]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM224791
-[38]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042005
-[39]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042007
-[40]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042008
-[41]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2997643
-[42]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042009
-[43]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998633
-[44]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998557
-[45]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404611
-[46]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404659
-[47]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404679
-[48]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404703
-[49]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404721
-[50]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404744
-[51]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998516
-[52]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998515
-[53]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998532
-[54]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[55]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042000
+[38]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM6052000
+[39]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM6136759
+[40]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042005
+[41]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042007
+[42]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042008
+[43]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2997643
+[44]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042009
+[45]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998633
+[46]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998557
+[47]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404611
+[48]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404659
+[49]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404679
+[50]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404703
+[51]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404721
+[52]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM404744
+[53]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998516
+[54]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998515
+[55]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM2998532
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[57]: http://www.legislation.govt.nz/act/public/2006/0085/latest/link.aspx?id=DLM3042000
