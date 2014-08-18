@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2014
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -375,9 +375,13 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 16 Privilege
     
-*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][45].
+*   (1) The proceedings of the Committee shall be deemed to be proceedings in Parliament for the purposes of Article 9 of the [Bill of Rights 1688][45] and the [Parliamentary Privilege Act 2014][46].
     
-    (2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings of the House of Representatives.
+    (2) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry or proceedings of the Committee under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in Parliament (as defined in [section 10][47] of the Parliamentary Privilege Act 2014).
+    
+    Section 16(1): amended, on 8 August 2014, by [section 37(2)][48] of the Parliamentary Privilege Act 2014 (2014 No 58).
+    
+    Section 16(2): amended, on 8 August 2014, by [section 37(3)][48] of the Parliamentary Privilege Act 2014 (2014 No 58).
 
 #### Disclosure of information
 
@@ -439,7 +443,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     unless the Committee considers that there are compelling reasons in the public interest why the information should be so disclosed or published.
     
-    Section 18(1): amended, on 26 September 2013, by [section 8][46] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 18(1): amended, on 26 September 2013, by [section 8][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 19 Secrecy
     
@@ -475,13 +479,13 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (3) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
     
-    (4) _Amendment(s) incorporated in the [Act(s)][47]._
+    (4) _Amendment(s) incorporated in the [Act(s)][50]._
     
-    Section 20(2): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20(2): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Periodic reviews
     
-*   Heading: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+*   Heading: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 21 Requirement to hold periodic reviews
     
@@ -491,7 +495,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) afterwards, held at intervals not shorter than 5 years and not longer than 7 years.
     
-    Section 21: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 21: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 22 Appointment of reviewers and related matters
     
@@ -511,7 +515,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (5) The persons appointed as reviewers, the terms of reference of the review, any matters specified in relation to the conduct of the review, and the date by which the review must be concluded must be notified in the _Gazette_ as soon as practicable after the appointment of the reviewers.
     
-    Section 22: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 22: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 23 Provision of information
     
@@ -521,7 +525,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) the chief executive of an intelligence and security agency or the Inspector-General of Intelligence and Security may provide information to the reviewers, whether in response to a request under paragraph (a) or on his or her own initiative.
     
-    Section 23: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 23: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 24 Report of reviewers
     
@@ -533,7 +537,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (4) For the purposes of subsection (3), [section 18][22] applies, with all necessary modifications, as if the report had been prepared by the Committee.
     
-    Section 24: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 24: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 25 Remuneration of reviewers
     
@@ -545,7 +549,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) For the purposes of subsection (1), _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
     
-    Section 25: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 25: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 26 Provision of administrative and other support
     
@@ -553,13 +557,13 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) A person providing administrative, secretarial, or other support under subsection (1) must have an appropriate security clearance.
     
-    Section 26: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 26: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 ##### 27 Reviewers to determine own procedure
     
 *   The reviewers may determine their own procedure subject to any matters specified under [section 22(3)(b)][27].
     
-    Section 27: inserted, on 26 September 2013, by [section 9][49] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
+    Section 27: inserted, on 26 September 2013, by [section 9][52] of the Intelligence and Security Committee Amendment Act 2013 (2013 No 59).
 
 #### 
 
@@ -573,21 +577,23 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][50] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][51] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][53] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][54] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][52] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][53] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][55] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][56] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Intelligence and Security Committee Amendment Act 2013][54] (2013 No 59)
+*   Parliamentary Privilege Act 2014 (2014 No 58): [section 37][48]
+    
+    [Intelligence and Security Committee Amendment Act 2013][57] (2013 No 59)
     
     Holidays (Full Recognition of Waitangi Day and ANZAC Day) Amendment Act 2013 (2013 No 19): [section 8][37]
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][38]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][51]
 
 
 
@@ -637,12 +643,15 @@ An Act to increase the level of oversight and review of intelligence and securit
 [43]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496003
 [44]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496023
 [45]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM10992
-[46]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496024
-[47]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
-[48]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM3360714
-[49]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496004
-[50]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998516
-[51]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998515
-[52]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998532
-[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496015
+[46]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM6052000
+[47]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM6136727
+[48]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM6052115
+[49]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496024
+[50]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM314314
+[51]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM3360714
+[52]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496004
+[53]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998516
+[54]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998515
+[55]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM2998532
+[56]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[57]: http://www.legislation.govt.nz/act/public/1996/0046/latest/link.aspx?id=DLM5496015
