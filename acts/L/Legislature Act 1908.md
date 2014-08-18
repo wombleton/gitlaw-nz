@@ -1,101 +1,101 @@
 Reprint  
-as at 1 July 2013
+as at 8 August 2014
 
 # Legislature Act 1908Public Act1908 No 101
 
 Date of assent4 August 1908
 
+*   Legislature Act 1908: repealed, on 8 August 2014, by [section 38(1)][0] of the Parliamentary Privilege Act 2014 (2014 No 58).
+
 ---
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 ---
 
 ## Contents
 
-[Title][1]
+[Title][2]
 
-[1][2][][2][Short Title, etc][2]
+[1][3][][3][Short Title, etc][3]
 
-[Division I][3]  
-[The Legislative Council][3]
+[Division I][4]  
+[The Legislative Council][4]
 
-[Division II][4]  
+[Division II][5]  
 
-[Division III][5]  
-[Privileges of Parliament][5]
+[Division III][6]  
+[Privileges of Parliament][6]
 
-[Privileges generally][6]
+[Privileges generally][7]
 
-[242][7][][7][Privileges of House of Representatives. Journals as evidence][7]
+[242][8][][8][Privileges of House of Representatives. Journals as evidence][8]
 
-[Parliamentary witnesses][8]
+[Parliamentary witnesses][9]
 
-[252][9][][9][Right to administer oaths][9]
+[252][10][][10][Right to administer oaths][10]
 
-[253][10][][10][Indemnity to witness. Immunities and privileges][10]
+[253][11][][11][Indemnity to witness. Immunities and privileges][11]
 
-[Hansard][11]
+[Hansard][12]
 
-[253A][12][][12][Hansard][12]
+[253A][13][][13][Hansard][13]
 
-[Other privileges][13]
+[Other privileges][14]
 
-[257][14][][14][Interpretation. Exemption of members and officers from attendance as witnesses][14]
+[257][15][][15][Interpretation. Exemption of members and officers from attendance as witnesses][15]
 
-[258][15][][15][Exemption of members and officers bound by recognisance][15] \[Repealed\]
+[258][16][][16][Exemption of members and officers bound by recognisance][16] \[Repealed\]
 
-[259][16][][16][Court to make inquiry and grant exemption][16]
+[259][17][][17][Court to make inquiry and grant exemption][17]
 
-[260][17][][17][Exemption of Speaker from attendance on Courts][17]
+[260][18][][18][Exemption of Speaker from attendance on Courts][18]
 
-[261][18][][18][Application to Speaker for exemption from attendance in civil Courts][18]
+[261][19][][19][Application to Speaker for exemption from attendance in civil Courts][19]
 
-[262][19][][19][Application by members and officers bound by recognisance][19] \[Repealed\]
+[262][20][][20][Application by members and officers bound by recognisance][20] \[Repealed\]
 
-[263][20][][20][Speaker to make inquiry and grant certificate][20]
+[263][21][][21][Speaker to make inquiry and grant certificate][21]
 
-[264][21][][21][Effect of certificate][21]
+[264][22][][22][Effect of certificate][22]
 
-[265][22][][22][Adjournment of civil proceedings against members and officers][22]
+[265][23][][23][Adjournment of civil proceedings against members and officers][23]
 
-[266][23][][23][Court may make inquiry and adjourn case][23]
+[266][24][][24][Court may make inquiry and adjourn case][24]
 
-[267][24][][24][Service of process of Courts not of record][24]
+[267][25][][25][Service of process of Courts not of record][25]
 
-[268][25][][25][Court to take judicial notice of signature of Speaker][25]
+[268][26][][26][Court to take judicial notice of signature of Speaker][26]
 
-[269][26][][26][Leave to members and officers to attend Court][26]
+[269][27][][27][Leave to members and officers to attend Court][27]
 
-[Division IV][27]  
-[Private, local, and private estates bills][27]
+[Division IV][28]  
+[Private, local, and private estates bills][28]
 
-[Schedule 1][28]  
-[Enactments consolidated][28]
+[Schedule 1][29]  
+[Enactments consolidated][29]
 
-[Schedule 2][29]  
-
-\[Repealed\]
-
-[Schedule 3][30]  
+[Schedule 2][30]  
 
 \[Repealed\]
 
-[Schedule 4][31]  
+[Schedule 3][31]  
 
 \[Repealed\]
 
-[Schedule 5][32]  
+[Schedule 4][32]  
 
 \[Repealed\]
 
-[Schedule 6][33]  
+[Schedule 5][33]  
 
-[Schedule 7][34]  
+\[Repealed\]
+
+[Schedule 6][34]  
+
+[Schedule 7][35]  
 
 \[Repealed\]
 
@@ -107,7 +107,7 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
 *   (1) The Short Title of this Act is the Legislature Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in [Schedule 1][28], and with respect to those enactments the following provisions shall apply:
+    (2) This Act is a consolidation of the enactments mentioned in [Schedule 1][29], and with respect to those enactments the following provisions shall apply:
         
     *   (a) all districts, appointments, offices, Representation Commissioners, Proclamations, Orders in Council, orders, warrants, regulations, rules, rolls, lists, electors' rights, voting permits, claims, applications, declarations, notices, instruments, records, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated.
     
@@ -115,16 +115,16 @@ An Act to consolidate certain enactments of the General Assembly relating to the
     
     (3) This Act is divided into Divisions and Parts, as follows:
         
-    *   Division I---The Legislative Council. ([Sections 2 to 11][35].)
-    *   Division II---The House of Representatives. ([Sections 12 to 241][36].)
-    *   Part 1---Constitution of House. ([Sections 13 to 34][37].)
-    *   Part 2---Preliminary to the Election. ([Sections 35 to 96][38].)
-    *   Part 3---Regulation of Elections. ([Sections 97 to 179][39].)
-    *   Part 4---Maori Representation. ([Sections 180 to 187][40].)
-    *   Part 5---Election Petitions and Corrupt and Illegal Practices. ([Sections 188 to 232][41].)
-    *   Part 6---Miscellaneous. ([Sections 233 to 241][42].)
-    *   Division III---Privileges of Parliament. ([Sections 242 to 271][7].)
-    *   Division IV---Private, Local, and Private Estates Bills. ([Sections 272 to 284][43].)
+    *   Division I---The Legislative Council. ([Sections 2 to 11][36].)
+    *   Division II---The House of Representatives. ([Sections 12 to 241][37].)
+    *   Part 1---Constitution of House. ([Sections 13 to 34][38].)
+    *   Part 2---Preliminary to the Election. ([Sections 35 to 96][39].)
+    *   Part 3---Regulation of Elections. ([Sections 97 to 179][40].)
+    *   Part 4---Maori Representation. ([Sections 180 to 187][41].)
+    *   Part 5---Election Petitions and Corrupt and Illegal Practices. ([Sections 188 to 232][42].)
+    *   Part 6---Miscellaneous. ([Sections 233 to 241][43].)
+    *   Division III---Privileges of Parliament. ([Sections 242 to 271][8].)
+    *   Division IV---Private, Local, and Private Estates Bills. ([Sections 272 to 284][44].)
     
     (4) In this Act, if not inconsistent with the context,---
     
@@ -137,43 +137,43 @@ The Legislative Council
 
 *   2 \[Repealed\]
     
-    Section 2 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 2 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   3 \[Repealed\]
     
-    Section 3 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 3 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   4 \[Repealed\]
     
-    Section 4 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 4 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   5 \[Repealed\]
     
-    Section 5 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 5 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   6 \[Repealed\]
     
-    Section 6 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 6 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   7 \[Repealed\]
     
-    Section 7 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 7 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   8 \[Repealed\]
     
-    Section 8 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 8 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   9 \[Repealed\]
     
-    Section 9 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 9 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   10 \[Repealed\]
     
-    Section 10 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 10 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   11 \[Repealed\]
     
-    Section 11 was repealed, as from 1 January 1951, by section [2(6)][44] of the Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 11 was repealed, as from 1 January 1951, by section [2(6)][45] of the Legislative Council Abolition Act 1950 (1950 No 3).
 
 ## Division II
 
@@ -1112,7 +1112,7 @@ Privileges of Parliament
     
     Compare: 1865 No 13 ss 4, 5
     
-    In subsections (1) and (3) the references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the ""Legislative Council and the House of Representatives"" by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3). The word ""respectively"" has been consequentially omitted from subsections (1) and (3) in one place.
+    In subsections (1) and (3) the references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the ""Legislative Council and the House of Representatives"" by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3). The word ""respectively"" has been consequentially omitted from subsections (1) and (3) in one place.
 
 *   243 \[Repealed\]
     
@@ -1158,7 +1158,7 @@ Privileges of Parliament
     
     Compare: 1865 No 13 s 6
     
-    The references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the ""Legislative Council and the House of Representatives"" by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3). The word ""either"" and the words ""and any joint Committee of such Council and House"" have been consequentially omitted.
+    The references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the ""Legislative Council and the House of Representatives"" by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3). The word ""either"" and the words ""and any joint Committee of such Council and House"" have been consequentially omitted.
 
 ##### 253 Indemnity to witness. Immunities and privileges
     
@@ -1174,11 +1174,11 @@ Privileges of Parliament
     
     Compare: 1875 No 20 s 2; 1883 No 3 ss 2--5
     
-    In subsection (1) the references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to ""either House of the General Assembly, and to the House by which the Committee was appointed"", by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    In subsection (1) the references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to ""either House of the General Assembly, and to the House by which the Committee was appointed"", by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
     
     The words ""or any Joint Committee of the two Houses"" have been consequentially omitted.
     
-    Section 253(4): amended, on 1 July 2013, by [section 413][45] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 253(4): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Hansard
 
@@ -1216,11 +1216,11 @@ Privileges of Parliament
     
     _Speaker_ includes the person for the time being acting in that capacity.
     
-    (2) Where any member of Parliament or any of the officers specified in [Schedule 6][33], not being in attendance on Parliament, is required by the process of any Court of record to attend thereat personally, either during any session of the General Assembly or within 10 days before the commencement thereof, as a party or witness in any civil proceeding, or as a witness in any criminal proceeding, such member or officer may apply to such Court to be exempted from attendance on such Court.
+    (2) Where any member of Parliament or any of the officers specified in [Schedule 6][34], not being in attendance on Parliament, is required by the process of any Court of record to attend thereat personally, either during any session of the General Assembly or within 10 days before the commencement thereof, as a party or witness in any civil proceeding, or as a witness in any criminal proceeding, such member or officer may apply to such Court to be exempted from attendance on such Court.
     
     Compare: 1866 No 73 ss 2, 3
     
-    In subsection (2) the words ""member of the Legislative Council or"" were consequentially repealed, as from 1 January 1951, by [section 2][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    In subsection (2) the words ""member of the Legislative Council or"" were consequentially repealed, as from 1 January 1951, by [section 2][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 258 Exemption of members and officers bound by recognisance
     
@@ -1240,7 +1240,7 @@ Privileges of Parliament
 
 ##### 260 Exemption of Speaker from attendance on Courts
     
-*   Where the Speaker of the House of Representatives, being in attendance on Parliament, is required by the process of any Court to attend thereat personally either as a party or a witness in any civil proceeding, or as a witness in any criminal proceeding, he shall submit the matter to the House of Representatives and such order may be made thereon as the House thinks fit; and if it is resolved that the Speaker shall be exempted from attendance, such resolution shall be presented in like manner and shall have the same effect as the certificate mentioned in [section 263][20] in respect of any other member not being a Speaker:
+*   Where the Speaker of the House of Representatives, being in attendance on Parliament, is required by the process of any Court to attend thereat personally either as a party or a witness in any civil proceeding, or as a witness in any criminal proceeding, he shall submit the matter to the House of Representatives and such order may be made thereon as the House thinks fit; and if it is resolved that the Speaker shall be exempted from attendance, such resolution shall be presented in like manner and shall have the same effect as the certificate mentioned in [section 263][21] in respect of any other member not being a Speaker:
     
     provided that if the House is under adjournment, and it is necessary to act without delay, the Speaker whose attendance is required may sign a certificate to the like effect as is hereinafter provided in the said section in respect of any other member not being a Speaker, but such certificate shall remain in force only until the matter is submitted by the Speaker at the first convenient opportunity to the House, and order is made thereon.
     
@@ -1254,7 +1254,7 @@ Privileges of Parliament
     
     Compare: 1866 No 73 s 7; 1878 No 16 s 3
     
-    Section 261 was consequentially amended, as from 1 January 1951, by omitting the words ""member of the Legislative Council or"" by [section 2][44] of the Legislative Council Abolition Act 1950 (1950 No 3). The reference to the Speaker thereof has accordingly been substituted for a reference to the Speakers thereof respectively. The reference to the House was substituted for a reference to the Council or House, as the case may be, by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    Section 261 was consequentially amended, as from 1 January 1951, by omitting the words ""member of the Legislative Council or"" by [section 2][45] of the Legislative Council Abolition Act 1950 (1950 No 3). The reference to the Speaker thereof has accordingly been substituted for a reference to the Speakers thereof respectively. The reference to the House was substituted for a reference to the Council or House, as the case may be, by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 262 Application by members and officers bound by recognisance
     
@@ -1288,23 +1288,23 @@ Privileges of Parliament
             
         *   (i) such application shall be supported by an affidavit made by such member or officer, and delivered to the Speaker, that such proceedings are likely to come on or are set down for trial or hearing at a sitting of such Court to be held during such session or within 30 days thereafter, and that the personal attendance of such member or officer at such trial or hearing is necessary for his interest:
         
-        *   (ii) the Speaker shall, after making inquiry in manner provided by [section 263][20], and unless satisfied that irreparable injury would be caused to any party to such proceedings if the trial or hearing thereof was postponed, forward such affidavit, together with a certificate in terms of the said section, to the Court in which such proceedings are pending.
+        *   (ii) the Speaker shall, after making inquiry in manner provided by [section 263][21], and unless satisfied that irreparable injury would be caused to any party to such proceedings if the trial or hearing thereof was postponed, forward such affidavit, together with a certificate in terms of the said section, to the Court in which such proceedings are pending.
         
         
     
     Compare: 1872 No 73 s 3
     
-    In paragraph (b) the reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to the Council or House of which he is a member or officer by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    In paragraph (b) the reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to the Council or House of which he is a member or officer by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 266 Court may make inquiry and adjourn case
     
 *   The Court in which such civil proceedings are pending shall, in either of the cases referred to in the last preceding section, cause the trial or hearing of such proceedings to be adjourned without cost to such member or officer, from time to time, to some sitting of the Court to be held after the expiration of 30 days after the termination of the session:
     
-    provided that in the case referred to in paragraph (a) of the said last preceding section, the Court may make the same inquiries as the Speaker of the House of Representatives is required to make under the said [section 263][20], and shall not be bound to adjourn or postpone the trial or hearing if it is satisfied that irreparable injury would be caused to any party to such proceedings by such adjournment or postponement.
+    provided that in the case referred to in paragraph (a) of the said last preceding section, the Court may make the same inquiries as the Speaker of the House of Representatives is required to make under the said [section 263][21], and shall not be bound to adjourn or postpone the trial or hearing if it is satisfied that irreparable injury would be caused to any party to such proceedings by such adjournment or postponement.
     
     Compare: 1872 No 73 s 4
     
-    The reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to either House by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    The reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to either House by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 267 Service of process of Courts not of record
     
@@ -1320,7 +1320,7 @@ Privileges of Parliament
     
     Compare: 1866 No 73 s 12; 1878 No 16 s 3
     
-    The reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to the Legislative Council and the House of Representatives by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    The reference to the ""House of Representatives"" was substituted, as from 1 January 1951, for a reference to the Legislative Council and the House of Representatives by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 ##### 269 Leave to members and officers to attend Court
     
@@ -1330,7 +1330,7 @@ Privileges of Parliament
     
     Compare: 1866 No 73 s 13
     
-    The references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the Legislative Council and the House of Representatives by [section 2(4)][44] Legislative Council Abolition Act 1950 (1950 No 3).
+    The references to the ""House of Representatives"" were substituted, as from 1 January 1951, for references to the Legislative Council and the House of Representatives by [section 2(4)][45] Legislative Council Abolition Act 1950 (1950 No 3).
 
 *   270 \[Repealed\]
     
@@ -1400,7 +1400,7 @@ Private, local, and private estates bills
 ## Schedule 1  
 Enactments consolidated
 
-[s 1(2)][2]
+[s 1(2)][3]
 
 ##### Alcoholic Liquors Sale Control Act Amendment Act 1895   
 (1895 No 45)
@@ -1493,7 +1493,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ## Schedule 6
 
-[s 257][14]
+[s 257][15]
 
 HOUSE OF REPRESENTATIVES
 
@@ -1505,7 +1505,7 @@ The Sergeant-at-Arms.
 
 The Clerk Assistant of the House of Representatives.
     
-*   Part of this Schedule, relating to the Legislative Council, has been omitted as impliedly repealed by [section 2][44] of the Legislative Council Abolition Act 1950\.
+*   Part of this Schedule, relating to the Legislative Council, has been omitted as impliedly repealed by [section 2][45] of the Legislative Council Abolition Act 1950\.
 *   The words ""the Deputy Clerk of the House of Representatives"" were inserted, as from 9 October 1975, by section s.2 Legislature Amendment Act 1975 (1975 No 84).
 
 ---
@@ -1526,7 +1526,7 @@ Commencement1 February 1993
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the Legislature Amendment Act 1992, and shall be read together with and deemed part of the [Legislature Act 1908][46].
+*   (1) This Act may be cited as the Legislature Amendment Act 1992, and shall be read together with and deemed part of the [Legislature Act 1908][47].
     
     (2) This Act shall come into force on 1 February 1993\.
 
@@ -1562,79 +1562,74 @@ Commencement1 February 1993
     
     Compare: 1954 No 46 s 19; Parliamentary Papers Act 1840, s 1 (UK)
 
----
-
-#### Contents
-    
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Legislature Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Legislature Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][47] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][48] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][45]
+*   Parliamentary Privilege Act 2014 (2014 No 58): [section 38(1)][0]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][46]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM195466
-[1]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167384
-[2]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167386
-[3]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167391
-[4]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168012
-[5]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168673
-[6]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168674
-[7]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168675
-[8]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168695
-[9]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168696
-[10]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168698
-[11]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168901
-[12]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168902
-[13]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168904
-[14]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168911
-[15]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168920
-[16]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168923
-[17]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168925
-[18]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168927
-[19]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168929
-[20]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168932
-[21]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168934
-[22]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168936
-[23]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168938
-[24]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168940
-[25]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168942
-[26]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168944
-[27]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168950
-[28]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168977
-[29]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168978
-[30]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168980
-[31]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168982
-[32]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168984
-[33]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168986
-[34]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168989
-[35]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167392
-[36]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168013
-[37]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168015
-[38]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168059
-[39]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168183
-[40]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168449
-[41]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168465
-[42]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168655
-[43]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168951
-[44]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM260920
-[45]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM3360714
-[46]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM167381
-[47]: http://www.pco.parliament.govt.nz/eprints/
+[0]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM6052117
+[1]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM2998524
+[2]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167384
+[3]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167386
+[4]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167391
+[5]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168012
+[6]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168673
+[7]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168674
+[8]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168675
+[9]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168695
+[10]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168696
+[11]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168698
+[12]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168901
+[13]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168902
+[14]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168904
+[15]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168911
+[16]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168920
+[17]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168923
+[18]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168925
+[19]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168927
+[20]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168929
+[21]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168932
+[22]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168934
+[23]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168936
+[24]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168938
+[25]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168940
+[26]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168942
+[27]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168944
+[28]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168950
+[29]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168977
+[30]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168978
+[31]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168980
+[32]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168982
+[33]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168984
+[34]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168986
+[35]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168989
+[36]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM167392
+[37]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168013
+[38]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168015
+[39]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168059
+[40]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168183
+[41]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168449
+[42]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168465
+[43]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168655
+[44]: http://www.legislation.govt.nz/act/public/1908/0101/latest/whole.html#DLM168951
+[45]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM260920
+[46]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM3360714
+[47]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM167381
+[48]: http://www.legislation.govt.nz/act/public/1908/0101/latest/link.aspx?id=DLM2998516
