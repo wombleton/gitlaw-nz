@@ -8035,7 +8035,7 @@ In [section 39D(b)][672], replace ""War Pensions Act 1954, apart from a child's 
 
 ##### Section 61DA
 
-In [section 61DA(a)][673], after ""2001"", insert ""or [clause 58][392] of [Schedule 2][357] of the Veterans' Support Act 2014"".
+In [section 61DA(a)][673], after ""2001"", insert ""or [clause 58][392] of Schedule 2 of the Veterans' Support Act 2014"".
 
 In [section 61DA(b)][673], replace ""section 74A of the War Pensions Act 1954"" with ""[section 174][227] of the Veterans' Support Act 2014"".
 
