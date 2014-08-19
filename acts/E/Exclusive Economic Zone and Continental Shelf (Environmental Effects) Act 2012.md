@@ -1,5 +1,5 @@
 Reprint  
-as at 20 May 2014
+as at 8 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -578,9 +578,9 @@ Preliminary provisions
     
 *   (1) This section is a guide to the overall scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of this Act.
     
-    ###### [Part 1][3]
+    ###### Part 1
     
-    (2) [Subpart 1][4]---
+    (2) Subpart 1---
         
     *   (a) defines terms used in the Act; and
     
@@ -602,7 +602,7 @@ Preliminary provisions
     
     *   (b) the EPA's power to delegate its decision-making function in relation to applications for marine consents to a committee or a board of inquiry hearing a resource consent application in relation to the same cross-boundary activity.
     
-    ###### [Part 2][27]
+    ###### Part 2
     
     (5) [Part 2][27] sets out the duties and restrictions imposed by this Act, including,---
         
@@ -616,7 +616,7 @@ Preliminary provisions
     
     *   (e) clarification in [section 26][37] that compliance with the Act does not mean a person need not comply with other legal requirements and vice versa.
     
-    ###### [Part 3][38]
+    ###### Part 3
     
     (6) [Subpart 1][39] provides for the making of regulations---
         
@@ -640,7 +640,7 @@ Preliminary provisions
     
     (9) [Subpart 3][128] sets out the process for applying for consent for an activity that straddles the boundary between the territorial sea and the exclusive economic zone, including a cross-boundary activity that includes a matter of national significance.
     
-    ###### [Part 4][145]
+    ###### Part 4
     
     (10) [Subpart 1][146] provides for objections to the EPA and appeals to the High Court on a question of law.
     
@@ -654,7 +654,7 @@ Preliminary provisions
     
     *   (d) the appointment of enforcement officers under [section 138][192] and their powers.
     
-    ###### [Part 5][196]
+    ###### Part 5
     
     (12) [Subpart 1][197] deals with miscellaneous matters, including---
         
@@ -1028,21 +1028,23 @@ Preliminary provisions
     
     *   (g) [Hauraki Gulf Marine Park Act 2000][294]:
     
+    *   (ga) [Kaikōura (Te Tai o Marokura) Marine Management Act 2014][295]:
+    
     *   (h) [Marine and Coastal Area (Takutai Moana) Act 2011][273]:
     
-    *   (i) [Marine Mammals Protection Act 1978][295]:
+    *   (i) [Marine Mammals Protection Act 1978][296]:
     
-    *   (j) [Marine Reserves Act 1971][295]:
+    *   (j) [Marine Reserves Act 1971][296]:
     
-    *   (k) [Maritime Transport Act 1994][295]:
+    *   (k) [Maritime Transport Act 1994][296]:
     
     *   (l) [Resource Management Act 1991][270]:
     
-    *   (m) [Submarine Cables and Pipelines Protection Act 1996][296]:
+    *   (m) [Submarine Cables and Pipelines Protection Act 1996][297]:
     
-    *   (n) [Wildlife Act 1953][297].
+    *   (n) [Wildlife Act 1953][298].
     
-    
+    Section 7(2)(ga): inserted, on 8 August 2014, by [section 30][299] of the Kaikōura (Te Tai o Marokura) Marine Management Act 2014 (2014 No 59).
 
 ##### 8 Act binds the Crown
     
@@ -1056,7 +1058,7 @@ Preliminary provisions
     
     *   (b) the order is made against the Crown organisation in its own name.
     
-    (4) Subsection (3) applies despite [section 17(1)(a)][298] of the Crown Proceedings Act 1950\.
+    (4) Subsection (3) applies despite [section 17(1)(a)][300] of the Crown Proceedings Act 1950\.
     
     (5) An instrument of the Crown may be prosecuted for an offence against this Act only if---
         
@@ -1070,11 +1072,11 @@ Preliminary provisions
         
         *   (ii) against the Crown organisation in its own name and the proceedings do not cite the Crown as a defendant; and
         
-        *   (iii) in accordance with the [Crown Organisations (Criminal Liability) Act 2002][299].
+        *   (iii) in accordance with the [Crown Organisations (Criminal Liability) Act 2002][301].
         
         
     
-    (6) However, subsection (5) is subject to [section 8(4)][300] of the Crown Organisations (Criminal Liability) Act 2002 (which provides that a court may not sentence a Crown organisation to pay a fine in respect of an offence against this Act).
+    (6) However, subsection (5) is subject to [section 8(4)][302] of the Crown Organisations (Criminal Liability) Act 2002 (which provides that a court may not sentence a Crown organisation to pay a fine in respect of an offence against this Act).
     
     (7) If a Crown organisation is not a body corporate, it is to be treated as if it were a separate legal personality for the purposes of---
         
@@ -1106,7 +1108,7 @@ Preliminary provisions
     
     *   (f) the master and crew of any warship, aircraft, or ship referred to in paragraphs (a) to (e):
     
-    *   (g) defence areas as defined in [section 2][301] of the Defence Act 1990\.
+    *   (g) defence areas as defined in [section 2][303] of the Defence Act 1990\.
     
     (2) In this section, a ship that is being used for commercial purposes, or both commercial and governmental purposes, is not being used for wholly governmental purposes.
 
@@ -1188,7 +1190,7 @@ Preliminary provisions
 
 ##### 14 Restriction on ministerial direction to Environmental Protection Authority
     
-*   The Minister may not give a direction under [section 103][302] of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Environmental Protection Authority under [section 13(a)][18] and (c), and [Parts 3][38] and [4][145].
+*   The Minister may not give a direction under [section 103][304] of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Environmental Protection Authority under [section 13(a)][18] and (c), and [Parts 3][38] and [4][145].
 
 ##### 15 Powers of Environmental Protection Authority
     
@@ -1196,9 +1198,9 @@ Preliminary provisions
 
 ##### 16 Restriction on Environmental Protection Authority's power to delegate
     
-*   Despite [section 17][303] of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent or make a decision on a review of a consent under [section 62][96], [81][120], or [82][121] (as appropriate), except to---
+*   Despite [section 17][305] of the Environmental Protection Authority Act 2011, the Environmental Protection Authority must not delegate its power to decide an application for a marine consent or make a decision on a review of a consent under [section 62][96], [81][120], or [82][121] (as appropriate), except to---
         
-    *   (a) a committee appointed under [clause 14][304] of Schedule 5 of the Crown Entities Act 2004; or
+    *   (a) a committee appointed under [clause 14][306] of Schedule 5 of the Crown Entities Act 2004; or
     
     *   (b) a board of inquiry as provided for in [section 99(2)][143].
     
@@ -1244,7 +1246,7 @@ Preliminary provisions
 
 ##### 18 Function of Māori Advisory Committee
     
-*   The Māori Advisory Committee may provide advice to the Environmental Protection Authority in accordance with [sections 19][305] and [20][306] of the Environmental Protection Authority Act 2011\.
+*   The Māori Advisory Committee may provide advice to the Environmental Protection Authority in accordance with [sections 19][307] and [20][308] of the Environmental Protection Authority Act 2011\.
 
 #### Power of Minister of Conservation
 
@@ -1293,7 +1295,7 @@ Duties and restrictions
         
     *   (a) does not apply to lawful fishing for wild fish under the [Fisheries Act 1996][293]; and
     
-    *   (b) does not affect the following activities that are regulated or prohibited by the [Maritime Transport Act 1994][307]:
+    *   (b) does not affect the following activities that are regulated or prohibited by the [Maritime Transport Act 1994][309]:
             
         *   (i) the dumping or storing of radioactive waste or other radioactive matter; or
         
@@ -1363,11 +1365,11 @@ Duties and restrictions
     
     (8) In this section, _planned petroleum activity_ means an activity involved with the exploration, prospecting, or mining for petroleum if, before the new regulations come into force,---
         
-    *   (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under [section 25][308] of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of [Schedule 1][309] of that Act; and
+    *   (a) the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that is granted under [section 25][310] of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of [Schedule 1][311] of that Act; and
     
     *   (b) the activity has not commenced.
     
-    Section 22(8)(a): amended, on 24 May 2013, by [section 65][310] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 22(8)(a): amended, on 24 May 2013, by [section 65][312] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 23 Certain existing activities that become prohibited may continue
     
@@ -1472,7 +1474,7 @@ Requirements and consents
     
     (3) However, the Minister must not recommend the making of regulations unless he or she is satisfied that the requirements of [sections 32 to 34][54] have been met.
     
-    Section 27(1): amended, on 28 February 2014, by [section 13(1)][311] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 27(1): amended, on 28 February 2014, by [section 13(1)][313] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 28 Regulations classifying areas of exclusive economic zone or continental shelf
     
@@ -1522,7 +1524,7 @@ Requirements and consents
 
 #### Regulation of discharges and dumping
     
-*   Heading: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Heading: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 29A Regulations for discharges and dumping
     
@@ -1592,7 +1594,7 @@ Requirements and consents
     
     (8) [Section 29(2) and (3)][43] applies to the regulations made under this section.
     
-    Section 29A: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 29A: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 29B Regulations for emergency dumping
     
@@ -1600,7 +1602,7 @@ Requirements and consents
     
     (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe requirements, methods, or technical standards for emergency dumping of waste or other matter.
     
-    Section 29B: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 29B: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 29C Regulations implementing international obligations
     
@@ -1614,11 +1616,11 @@ Requirements and consents
     
     (2) This section does not limit [section 29A][45].
     
-    Section 29C: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 29C: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Non-notified activities
     
-*   Heading: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Heading: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 29D Non-notified activities
     
@@ -1638,7 +1640,7 @@ Requirements and consents
         
         
     
-    Section 29D: inserted, on 28 February 2014, by [section 15][312] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 29D: inserted, on 28 February 2014, by [section 15][314] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Regulations generally
 
@@ -1730,9 +1732,9 @@ Requirements and consents
     
     *   (l) any other relevant matter.
     
-    Section 33 heading: amended, on 28 February 2014, by [section 18(1)][313] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 33 heading: amended, on 28 February 2014, by [section 18(1)][315] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 33(3)(k): amended, on 28 February 2014, by [section 18(2)][313] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 33(3)(k): amended, on 28 February 2014, by [section 18(2)][315] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 34 Information principles
     
@@ -1830,7 +1832,7 @@ Requirements and consents
     
     (3) The impact assessment complies with subsection (1)(c) and (d) if the Environmental Protection Authority is satisfied that the applicant has made a reasonable effort to identify the matters described in those paragraphs.
     
-    (4) The measures that must be specified under subsection (1)(h) include any measures required by another marine management regime and any measures required by or under the [Health and Safety in Employment Act 1992][314] that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
+    (4) The measures that must be specified under subsection (1)(h) include any measures required by another marine management regime and any measures required by or under the [Health and Safety in Employment Act 1992][316] that may have the effect of avoiding, remedying, or mitigating the adverse effects of the activity on the environment or existing interests.
 
 ##### 40 Obligation to deal with application promptly
     
@@ -1874,7 +1876,7 @@ Requirements and consents
     
     *   (b) the EPA makes its decisions on the related applications on the same date.
     
-    Section 42A: inserted, on 28 February 2014, by [section 25][315] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 42A: inserted, on 28 February 2014, by [section 25][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 43 Response to request
     
@@ -1928,13 +1930,13 @@ Requirements and consents
     
     (5) The EPA must, as soon as is reasonably practicable after receiving the advice or report (including a report on the results of a review), notify the applicant and every submitter that the advice or report is available at the EPA's office.
     
-    Section 44 heading: amended, on 28 February 2014, by [section 26(1)][316] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 44 heading: amended, on 28 February 2014, by [section 26(1)][318] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 44(1)(d): amended, on 28 February 2014, by [section 26(2)][316] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 44(1)(d): amended, on 28 February 2014, by [section 26(2)][318] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Disclosure and hearings of applications for marine consents for non-notified activities
     
-*   Heading: inserted, on 28 February 2014, by [section 27][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Heading: inserted, on 28 February 2014, by [section 27][319] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 44A Copy of consent applications for non-notified activities
     
@@ -1962,7 +1964,7 @@ Requirements and consents
         
         
     
-    Section 44A: inserted, on 28 February 2014, by [section 27][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 44A: inserted, on 28 February 2014, by [section 27][319] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 44B Hearings in respect of consent applications for non-notified applications
     
@@ -1972,17 +1974,17 @@ Requirements and consents
     
     (3) The Schedule applies to hearings of applications for marine consents for non-notified activities.
     
-    Section 44B: inserted, on 28 February 2014, by [section 27][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 44B: inserted, on 28 February 2014, by [section 27][319] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Public notification and hearings of applications for marine consents for publicly notifiable activities
     
-*   Heading: inserted, on 28 February 2014, by [section 27][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Heading: inserted, on 28 February 2014, by [section 27][319] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 44C Application of sections 45 to 58
     
 *   [Sections 45 to 58][76] apply to applications for marine consents for publicly notifiable activities.
     
-    Section 44C: inserted, on 28 February 2014, by [section 27][317] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 44C: inserted, on 28 February 2014, by [section 27][319] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 45 Public notice of consent applications
     
@@ -2090,7 +2092,7 @@ Requirements and consents
         
     *   (a) avoid unnecessary formality; and
     
-    *   (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the [Maori Language Act 1987][318] applies accordingly.
+    *   (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the [Maori Language Act 1987][320] applies accordingly.
     
     (4) No person may question a party or witness unless the EPA gives permission.
 
@@ -2104,19 +2106,19 @@ Requirements and consents
 
 ##### 55 Provisions relating to hearings
     
-*   (1) The following provisions of the [Commissions of Inquiry Act 1908][319] apply to every hearing:
+*   (1) The following provisions of the [Commissions of Inquiry Act 1908][321] apply to every hearing:
         
-    *   (a) [section 4][320] (which gives powers to maintain order):
+    *   (a) [section 4][322] (which gives powers to maintain order):
     
-    *   (b) [section 4B][321] (which relates to evidence):
+    *   (b) [section 4B][323] (which relates to evidence):
     
-    *   (c) [section 4D][322] (which gives power to summon witnesses):
+    *   (c) [section 4D][324] (which gives power to summon witnesses):
     
-    *   (d) [section 5][323] (which relates to the service of a summons):
+    *   (d) [section 5][325] (which relates to the service of a summons):
     
-    *   (e) [section 6][324] (which relates to the protection of witnesses):
+    *   (e) [section 6][326] (which relates to the protection of witnesses):
     
-    *   (f) [section 7][325] (which relates to allowances for witnesses).
+    *   (f) [section 7][327] (which relates to allowances for witnesses).
     
     (2) Every summons to a witness to appear at a hearing must be in the prescribed form and be signed on behalf of the Environmental Protection Authority or by the chairperson of the committee that is to conduct the hearing.
     
@@ -2332,7 +2334,7 @@ Requirements and consents
     
     (3) However, the EPA must not impose a condition on a consent if the condition would be inconsistent with this Act or any regulations.
     
-    (4) To avoid doubt, the EPA may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the [Health and Safety in Employment Act 1992][314].
+    (4) To avoid doubt, the EPA may not impose a condition to deal with an effect if the condition would conflict with a measure required in relation to the activity by another marine management regime or the [Health and Safety in Employment Act 1992][316].
 
 ##### 64 Adaptive management approach
     
@@ -2418,9 +2420,9 @@ Requirements and consents
     
     (2) The EPA must make its decision on an application for a marine consent for a non-notified activity as soon as is reasonably practicable and no later than 50 working days after the date on which the EPA is satisfied that the application is complete.
     
-    Section 68(1): amended, on 28 February 2014, by [section 28(1)][326] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 68(1): amended, on 28 February 2014, by [section 28(1)][328] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 68(2): inserted, on 28 February 2014, by [section 28(2)][326] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 68(2): inserted, on 28 February 2014, by [section 28(2)][328] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 69 Decision of Environmental Protection Authority to be in writing
     
@@ -2476,13 +2478,13 @@ Requirements and consents
     
     *   (b) vests in the Official Assignee on the bankruptcy of an individual who is the holder of a consent, as if it were personal property, and the Official Assignee may deal with the consent to the same extent as the holder would have been able to do; and
     
-    *   (c) must be treated as property for the purposes of the [Protection of Personal and Property Rights Act 1988][327].
+    *   (c) must be treated as property for the purposes of the [Protection of Personal and Property Rights Act 1988][329].
     
     (3) If the conditions of the consent are inconsistent with subsection (2), the conditions override that subsection.
     
     (4) The holder of a marine consent may grant a charge over the consent as if it were personal property, but the consent may be transferred only to the chargee, or by or on behalf of the chargee, to the same extent as it could be transferred by the holder.
     
-    (5) The [Personal Property Securities Act 1999][328] applies in relation to a marine consent as if the consent were personal property within the meaning of that Act.
+    (5) The [Personal Property Securities Act 1999][330] applies in relation to a marine consent as if the consent were personal property within the meaning of that Act.
     
     (6) Subsection (4) overrides subsection (5).
 
@@ -2584,9 +2586,9 @@ Requirements and consents
     
     (3) A notice of review must comply with [section 77][115].
     
-    Section 76(2): amended, on 28 February 2014, by [section 29(1)][329] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 76(2): amended, on 28 February 2014, by [section 29(1)][331] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 76(3): inserted, on 28 February 2014, by [section 29(2)][329] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 76(3): inserted, on 28 February 2014, by [section 29(2)][331] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 77 Contents of notice of review
     
@@ -2632,15 +2634,15 @@ Requirements and consents
     
     *   (b) 10 working days after the date on which the EPA serves the notice of review on the consent holder, if paragraph (a) does not apply.
     
-    Section 78 heading: amended, on 28 February 2014, by [section 30(1)][330] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 78 heading: amended, on 28 February 2014, by [section 30(1)][332] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 78(1): amended, on 28 February 2014, by [section 30(2)][330] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 78(1): amended, on 28 February 2014, by [section 30(2)][332] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 78A Copy of notice of review of non-notified activity
     
 *   If the Environmental Protection Authority serves a notice of review of a non-notified activity on a consent holder, the EPA must serve a copy of the notice on the persons specified in [section 44A(a)][72] as if the reference in that paragraph to an application for a marine consent were a reference to a notice of review.
     
-    Section 78A: inserted, on 28 February 2014, by [section 31][331] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 78A: inserted, on 28 February 2014, by [section 31][333] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 79 Further information, advice, submissions, and hearing
     
@@ -2654,9 +2656,9 @@ Requirements and consents
     
     (2) However, [section 44(1)(a)][70] does not apply to a review.
     
-    Section 79(1): amended, on 28 February 2014, by [section 32(1)][332] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 79(1): amended, on 28 February 2014, by [section 32(1)][334] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 79(1A): inserted, on 28 February 2014, by [section 32(2)][332] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 79(1A): inserted, on 28 February 2014, by [section 32(2)][334] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 80 Matters to be considered in review
     
@@ -2802,7 +2804,7 @@ Requirements and consents
     
 *   In this subpart, unless the context otherwise requires,---
     
-    _assessment of environmental effects_ means the assessment of effects on the environment required by [section 88(2)(b)][333] of the Resource Management Act 1991
+    _assessment of environmental effects_ means the assessment of effects on the environment required by [section 88(2)(b)][335] of the Resource Management Act 1991
     
     _coastal marine area_ has the meaning given to it by [section 2(1)][285] of the Resource Management Act 1991
     
@@ -2828,7 +2830,7 @@ Requirements and consents
     
     *   (b) a marine consent for the part of the activity that is carried out in the exclusive economic zone or in or on the continental shelf.
     
-    (2) However, this subpart does not apply if a part of the activity to be carried out in the coastal marine area is a restricted coastal activity under [section 117][334] of the Resource Management Act 1991\.
+    (2) However, this subpart does not apply if a part of the activity to be carried out in the coastal marine area is a restricted coastal activity under [section 117][336] of the Resource Management Act 1991\.
 
 #### EPA may decide whether joint or separate applications for consent required
 
@@ -2854,9 +2856,9 @@ Requirements and consents
     
     (2) The joint application must be sent to both the relevant consent authority and the Environmental Protection Authority.
     
-    (3) The joint application must include an assessment of effects that complies with [section 88(2)(b)][333] of the Resource Management Act 1991 and [section 39][64] of this Act.
+    (3) The joint application must include an assessment of effects that complies with [section 88(2)(b)][335] of the Resource Management Act 1991 and [section 39][64] of this Act.
     
-    (4) The joint application may specify that the application for resource consent is lodged with the EPA under [section 145][335] of the Resource Management Act 1991\.
+    (4) The joint application may specify that the application for resource consent is lodged with the EPA under [section 145][337] of the Resource Management Act 1991\.
 
 ##### 92 Separate applications for consents for cross-boundary activity
     
@@ -2884,9 +2886,9 @@ Requirements and consents
     
     (5) If the EPA makes the decision in subsection (3)(a) and the applicant then lodges an application for a resource consent for the cross-boundary activity, the application for resource consent and the application for a marine consent are a new joint application for consent made on the date on which the application for a resource consent was lodged.
     
-    Section 93(3)(a): amended, on 28 February 2014, by [section 34(1)][336] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 93(3)(a): amended, on 28 February 2014, by [section 34(1)][338] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 93(3)(b): amended, on 28 February 2014, by [section 34(2)][336] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 93(3)(b): amended, on 28 February 2014, by [section 34(2)][338] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 94 Decision to separate joint application for consent
     
@@ -2910,17 +2912,17 @@ Requirements and consents
     
     (4) The EPA must cease processing a joint application for consent if---
         
-    *   (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under [section 142(2)(b)][337] or [147(1)(b)][338] of the Resource Management Act 1991; or
+    *   (a) the Minister for the Environment or the Minister of Conservation (in relation to a proposal of national significance) directs that the application for a resource consent be referred to the Environment Court for decision under [section 142(2)(b)][339] or [147(1)(b)][340] of the Resource Management Act 1991; or
     
-    *   (b) the relevant consent authority agrees to the applicant's request made under [section 87D][339] of the Resource Management Act 1991 to allow the application to be determined by the Environment Court.
+    *   (b) the relevant consent authority agrees to the applicant's request made under [section 87D][341] of the Resource Management Act 1991 to allow the application to be determined by the Environment Court.
     
-    (5) In the case described in subsection (4)(a), [section 149T][340] of the Resource Management Act 1991 applies to the application for resource consent.
+    (5) In the case described in subsection (4)(a), [section 149T][342] of the Resource Management Act 1991 applies to the application for resource consent.
     
-    (6) In the case described in subsection (4)(b), [sections 87F(2) to (5)][341] and [87G to 87I][342] of the Resource Management Act 1991 apply to the application for resource consent.
+    (6) In the case described in subsection (4)(b), [sections 87F(2) to (5)][343] and [87G to 87I][344] of the Resource Management Act 1991 apply to the application for resource consent.
     
     (7) In both cases described in subsection (4), the EPA must resume processing the application for a marine consent under [subpart 2][61].
     
-    Section 94(2)(b): replaced, on 28 February 2014, by [section 35][343] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 94(2)(b): replaced, on 28 February 2014, by [section 35][345] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Processing of joint application
 
@@ -2958,13 +2960,13 @@ Requirements and consents
     
     (4) [Section 160(1)][224] and (2) do not apply to the exercise by the EPA of the power to extend a time period under subsection (3).
     
-    Section 96(2)(b): amended, on 28 February 2014, by [section 36(1)][344] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 96(2)(b): amended, on 28 February 2014, by [section 36(1)][346] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 96(2)(c): amended, on 28 February 2014, by [section 36(2)][344] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 96(2)(c): amended, on 28 February 2014, by [section 36(2)][346] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 96(2)(e): amended, on 28 February 2014, by [section 36(3)][344] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 96(2)(e): amended, on 28 February 2014, by [section 36(3)][346] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 96(3): amended, on 28 February 2014, by [section 36(4)][344] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 96(3): amended, on 28 February 2014, by [section 36(4)][346] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 97 Relevant consent authority and EPA to share information
     
@@ -2980,13 +2982,13 @@ Requirements and consents
     
     (3) The relevant consent authority must decide the application for a resource consent that is part of a joint application.
     
-    (4) [Sections 104 to 116][345] of the Resource Management Act 1991 apply to the application for resource consent.
+    (4) [Sections 104 to 116][347] of the Resource Management Act 1991 apply to the application for resource consent.
 
 #### Nationally significant cross-boundary activities
 
 ##### 99 Application for consent for nationally significant cross-boundary activity referred to board of inquiry
     
-*   (1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under [section 142(2)(a)][337] or [147(1)(a)][338] of the Resource Management Act 1991\.
+*   (1) This section applies if the application for a resource consent for the part of the cross-boundary activity that is to be carried out in the coastal marine area is or is part of a proposal of national significance referred to a board of inquiry under [section 142(2)(a)][339] or [147(1)(a)][340] of the Resource Management Act 1991\.
     
     (2) The Environmental Protection Authority may delegate to the board of inquiry the EPA's functions in relation to an application for a marine consent that relates to the part of the activity that is to be carried out in the exclusive economic zone or in or on the continental shelf.
     
@@ -3010,31 +3012,31 @@ Requirements and consents
     
     (5) The provisions referred to in subsection (3)(b) are---
         
-    *   (a) [section 149L][346] (which deals with the conduct of the inquiry):
+    *   (a) [section 149L][348] (which deals with the conduct of the inquiry):
     
-    *   (b) [section 149Q][347] (which requires the board to produce a draft report) except subsections (2)(e) and (f) and (3)(b) and (c):
+    *   (b) [section 149Q][349] (which requires the board to produce a draft report) except subsections (2)(e) and (f) and (3)(b) and (c):
     
-    *   (c) [section 149R][348] (which requires the board to produce a final report), but not subsections (3)(e) and (f) and (4)(b) and (c):
+    *   (c) [section 149R][350] (which requires the board to produce a final report), but not subsections (3)(e) and (f) and (4)(b) and (c):
     
-    *   (d) [section 149RA(1) and (2)][349] (which allows the board to make minor corrections to board decisions and resource consents):
+    *   (d) [section 149RA(1) and (2)][351] (which allows the board to make minor corrections to board decisions and resource consents):
     
-    *   (da) [section 149S][350] (which allows the Minister to extend the time by which the board must report), but not subsection (4)(b):
+    *   (da) [section 149S][352] (which allows the Minister to extend the time by which the board must report), but not subsection (4)(b):
     
-    *   (e) [section 149V][351] (which provides for appeals against decisions to be on questions of law only) as if the reference to [section 149R(4)(a) to (f)][348] were a reference to section 149R(4)(a), (d), (e), and (f).
+    *   (e) [section 149V][353] (which provides for appeals against decisions to be on questions of law only) as if the reference to [section 149R(4)(a) to (f)][350] were a reference to section 149R(4)(a), (d), (e), and (f).
     
     (6) An application for a resource consent is associated with an application for a marine consent if the applications relate to the same cross-boundary activity.
     
-    Section 99(3): replaced, on 28 February 2014, by [section 37(1)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(3): replaced, on 28 February 2014, by [section 37(1)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 99(4): replaced, on 28 February 2014, by [section 37(1)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(4): replaced, on 28 February 2014, by [section 37(1)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 99(5)(c): replaced, on 28 February 2014, by [section 37(2)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(5)(c): replaced, on 28 February 2014, by [section 37(2)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 99(5)(d): replaced, on 28 February 2014, by [section 37(2)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(5)(d): replaced, on 28 February 2014, by [section 37(2)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 99(5)(da): inserted, on 28 February 2014, by [section 37(2)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(5)(da): inserted, on 28 February 2014, by [section 37(2)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
     
-    Section 99(6): inserted, on 28 February 2014, by [section 37(3)][352] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 99(6): inserted, on 28 February 2014, by [section 37(3)][354] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 100 EPA must provide board of inquiry with necessary information
     
@@ -3161,7 +3163,7 @@ Objections, appeals, and enforcement
     
     (5) This section is in addition to the rights provided for in [section 101][148].
     
-    Section 105(2)(c): amended, on 28 February 2014, by [section 38][353] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 105(2)(c): amended, on 28 February 2014, by [section 38][355] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 106 Notice of appeal
     
@@ -3269,9 +3271,9 @@ Objections, appeals, and enforcement
 
 ##### 113 Appeal to Court of Appeal
     
-*   [Subpart 8][354] of Part 6 of the Criminal Procedure Act 2011 applies to a decision of the High Court on an appeal filed under [section 105][153] of this Act as if the decision had been made under [section 300][355] of the Criminal Procedure Act 2011\.
+*   [Subpart 8][356] of Part 6 of the Criminal Procedure Act 2011 applies to a decision of the High Court on an appeal filed under [section 105][153] of this Act as if the decision had been made under [section 300][357] of the Criminal Procedure Act 2011\.
     
-    Section 113: amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 113: amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ### Subpart 2---Enforcement
 
@@ -3337,7 +3339,7 @@ Objections, appeals, and enforcement
     
     (2) The application for an enforcement order must be in the prescribed form and specify the relief sought.
     
-    (3) [Part 11][357] of the Resource Management Act 1991 applies as if the application were made under [Part 12][358] of that Act.
+    (3) [Part 11][359] of the Resource Management Act 1991 applies as if the application were made under [Part 12][360] of that Act.
 
 ##### 117 Notice of application for enforcement order
     
@@ -3441,19 +3443,19 @@ Objections, appeals, and enforcement
     
 *   (1) No person may apply to the Environment Court for an enforcement order of a kind specified in any of [section 115(1)(a) to (c)][166] in respect of anything done or to be done---
         
-    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][359] or [249][360] of the Maritime Transport Act 1994; or
+    *   (a) by or on behalf of the Director of Maritime New Zealand under [section 248][361] or [249][362] of the Maritime Transport Act 1994; or
     
     *   (b) by or on behalf of any person in accordance with any instructions issued under either of those sections of that Act; or
     
-    *   (c) by or on behalf of any on-scene commander under [section 305][361] or [311][362] of that Act or in accordance with a direction given under [section 310][363] of that Act; or
+    *   (c) by or on behalf of any on-scene commander under [section 305][363] or [311][364] of that Act or in accordance with a direction given under [section 310][365] of that Act; or
     
-    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][361] of that Act.
+    *   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][363] of that Act.
     
     (2) No person may apply for an enforcement order of a kind specified in [section 115(1)(c)][166] in respect of any actual or reasonable costs where---
         
-    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][364] of the Maritime Transport Act 1994); and
+    *   (a) the costs that a person has incurred or is likely to incur constitute pollution damage (as defined in [section 342][366] of the Maritime Transport Act 1994); and
     
-    *   (b) in respect of those costs, the person is liable in damages under [Part 25][365] of that Act.
+    *   (b) in respect of those costs, the person is liable in damages under [Part 25][367] of that Act.
     
     (3) Neither the Environment Court nor any other court may make an order relating to such damage in any proceedings (including prosecutions for offences) under this Act.
 
@@ -3535,25 +3537,25 @@ Objections, appeals, and enforcement
     
     *   (d) be lodged with the Environment Court and served on the EPA within 15 working days after service of the abatement notice on the person who lodged the appeal.
     
-    (3) [Part 11][357] of the Resource Management Act 1991 applies as if the appeal were lodged under [Part 12][358] of that Act.
+    (3) [Part 11][359] of the Resource Management Act 1991 applies as if the appeal were lodged under [Part 12][360] of that Act.
 
 ##### 130 Restrictions on certain abatement notices
     
 *   No person may serve an abatement notice on a person in respect of anything done or to be done by or on behalf of---
         
-    *   (a) the Director of Maritime New Zealand under [section 248][359] or [249][360] of the Maritime Transport Act 1994; or
+    *   (a) the Director of Maritime New Zealand under [section 248][361] or [249][362] of the Maritime Transport Act 1994; or
     
     *   (b) a person in accordance with instructions issued under either of those sections; or
     
-    *   (c) an on-scene commander under [section 305][361] or [311][362] of that Act or in accordance with a direction given under [section 310][363] of that Act; or
+    *   (c) an on-scene commander under [section 305][363] or [311][364] of that Act or in accordance with a direction given under [section 310][365] of that Act; or
     
-    *   (d) the master or owner of a ship, or the owner or operator of an oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][361] or [311][362] of that Act.
+    *   (d) the master or owner of a ship, or the owner or operator of an oil transfer site or offshore installation, or any other person, in accordance with a direction given under [section 305][363] or [311][364] of that Act.
     
     
 
 ##### 131 Proceedings in Environment Court
     
-*   [Sections 299 to 308][366] of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
+*   [Sections 299 to 308][368] of the Resource Management Act 1991 apply to proceedings in the Environment Court under this Act.
 
 #### Offences and penalties
 
@@ -3609,9 +3611,9 @@ Objections, appeals, and enforcement
     
     (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act is a continuing offence.
     
-    Section 133(3): amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 133(3): amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
-    Section 133(4): amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 133(4): amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 134 Strict liability and defences
     
@@ -3689,19 +3691,19 @@ Objections, appeals, and enforcement
     
 *   Only an enforcement officer may file a charging document in respect of an offence under this Act.
     
-    Section 136: amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 136: amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 137 Limitation period
     
-*   (1) Despite anything to the contrary in [section 25][367] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
+*   (1) Despite anything to the contrary in [section 25][369] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the breach giving rise to the offence first became known, or should have become known, to the enforcement officer.
     
     (2) The period of 6 months does not run while the person charged (being a natural person) is beyond the outer limits of the territorial sea.
     
     (3) \[Repealed\]
     
-    Section 137(1): amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 137(1): amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
-    Section 137(3): repealed, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 137(3): repealed, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Appointment and powers of enforcement officers
 
@@ -3777,7 +3779,7 @@ Objections, appeals, and enforcement
     
     (5) Before an enforcement officer exercises a power to board and inspect a foreign vessel under subsection (1)(c), the officer must send a copy of the authority described in subsection (4) to the Secretary of Foreign Affairs.
     
-    (6) The provisions of [Part 4][368] (except subparts 2 and 8, and [sections 118][369] and [119][370]) of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
+    (6) The provisions of [Part 4][370] (except subparts 2 and 8, and [sections 118][371] and [119][372]) of the Search and Surveillance Act 2012 apply in respect of the powers conferred by this section.
     
     (7) In this section,---
     
@@ -3964,21 +3966,21 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 149 Service on master or owner of ship
     
-*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 132(1)(a)][185], service on the defendant of a summons or other document is achieved for the purposes of the [Criminal Procedure Act 2011][371] if the summons or other document is---
+*   (1) If the master or owner of a ship is a defendant in a prosecution for an offence against [section 132(1)(a)][185], service on the defendant of a summons or other document is achieved for the purposes of the [Criminal Procedure Act 2011][373] if the summons or other document is---
         
     *   (a) delivered personally to the agent of the ship on behalf of the defendant or is brought to the notice of the agent if the agent refuses to accept it on behalf of the defendant; or
     
     *   (b) sent to the agent of the ship by registered letter addressed to that agent on behalf of the defendant at the agent's last known or usual place of residence or business; or
     
-    *   (c) served in accordance with rules made under the [Criminal Procedure Act 2011][371] if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with those rules.
+    *   (c) served in accordance with rules made under the [Criminal Procedure Act 2011][373] if a District Court Judge, Justice, Community Magistrate, or Registrar directs that the document or summons must be served in accordance with those rules.
     
     (2) Subsection (1) applies despite any other enactment.
     
     (3) If a summons or document is sent by post under subsection (1)(b), it is presumed to be received by the agent at the time at which the notice or document would have been delivered in the ordinary course of the post.
     
-    Section 149(1): amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 149(1): amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
     
-    Section 149(1)(c): amended, on 4 October 2013, by [regulation 3(1)][356] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
+    Section 149(1)(c): amended, on 4 October 2013, by [regulation 3(1)][358] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Incorporation by reference
 
@@ -4058,21 +4060,21 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     (5) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
     
-    (6) For the purposes of subsection (2)(c), the chief executive may not rely on [section 66][372] of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
+    (6) For the purposes of subsection (2)(c), the chief executive may not rely on [section 66][374] of the Copyright Act 1994 as authority to make the incorporated material available on an Internet site.
 
 ##### 155 Application of Standards Act 1988 not affected
     
-*   [Sections 150 to 154][210] do not affect the application of [sections 22 to 25][373] of the Standards Act 1988\.
+*   [Sections 150 to 154][210] do not affect the application of [sections 22 to 25][375] of the Standards Act 1988\.
 
 ##### 156 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][374] does not apply to material incorporated by reference.
+*   The [Acts and Regulations Publication Act 1989][376] does not apply to material incorporated by reference.
 
 ##### 157 Application of Regulations (Disallowance) Act 1989
     
-*   (1) Nothing in [section 4][375] of the Regulations (Disallowance) Act 1989 requires material that is to be incorporated by reference in regulations made under this Act to be presented to the House of Representatives.
+*   (1) Nothing in [section 4][377] of the Regulations (Disallowance) Act 1989 requires material that is to be incorporated by reference in regulations made under this Act to be presented to the House of Representatives.
     
-    (2) The [Regulations (Disallowance) Act 1989][376], apart from the modification of [section 4][375] of the Act made by subsection (1), applies to regulations that incorporate material by reference.
+    (2) The [Regulations (Disallowance) Act 1989][378], apart from the modification of [section 4][377] of the Act made by subsection (1), applies to regulations that incorporate material by reference.
 
 #### Protection of sensitive information
 
@@ -4098,23 +4100,23 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     *   (b) any matter described in subsection (1)(b) may be expressed to have effect from the commencement of any proceedings to which it relates but will cease to have any effect at the conclusion of those proceedings.
     
-    (5) On the date that a direction prohibiting or restricting the publication or communication of information is given under subsection (3)(b), the provisions of the [Official Information Act 1982][377] cease to apply to the information while the direction remains in effect.
+    (5) On the date that a direction prohibiting or restricting the publication or communication of information is given under subsection (3)(b), the provisions of the [Official Information Act 1982][379] cease to apply to the information while the direction remains in effect.
     
-    (6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under [section 279(3)(a)][378] of the Resource Management Act 1991 cancelling or varying any direction given by the EPA.
+    (6) Any party to any proceedings or class of proceedings before the EPA may apply to the Environment Court for an order under [section 279(3)(a)][380] of the Resource Management Act 1991 cancelling or varying any direction given by the EPA.
     
-    (7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under [section 279(3)(b)][378] of the Resource Management Act 1991\.
+    (7) Where, on the application of any party to any proceedings or class of proceedings, the EPA has refused to give a direction described in subsection (3), that party may apply to the Environment Court for an order under [section 279(3)(b)][380] of the Resource Management Act 1991\.
     
     (8) In this section, _information_ includes any document or evidence.
 
 ##### 158A EPA and Maritime New Zealand to share information
     
-*   (1) The Environmental Protection Authority may provide Maritime New Zealand with any information that the EPA holds and that the EPA considers may assist Maritime New Zealand in the performance of Maritime New Zealand's functions under the [Maritime Transport Act 1994][307].
+*   (1) The Environmental Protection Authority may provide Maritime New Zealand with any information that the EPA holds and that the EPA considers may assist Maritime New Zealand in the performance of Maritime New Zealand's functions under the [Maritime Transport Act 1994][309].
     
     (2) Maritime New Zealand may provide the EPA with any information that Maritime New Zealand holds and that it considers may assist the EPA in the performance of the EPA's functions under this Act.
     
     (3) If any information provided by the EPA under subsection (1) is the subject of a direction made under [section 158][219], that section continues to apply to the information and Maritime New Zealand must comply with that section.
     
-    Section 158A: inserted, on 28 February 2014, by [section 43][379] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 158A: inserted, on 28 February 2014, by [section 43][381] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 158B EPA may provide information to other regulatory agencies for purposes of this Act
     
@@ -4146,7 +4148,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     _specified Act_ means any Act specified in [section 7(2)][9] other than the [Crown Minerals Act 1991][290].
     
-    Section 158B: inserted, on 28 February 2014, by [section 43][379] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 158B: inserted, on 28 February 2014, by [section 43][381] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 #### Waivers and extension of time limits
 
@@ -4192,7 +4194,7 @@ Miscellaneous, transitional provisions, and consequential amendments
         
     *   (a) the activity requires a marine consent as a result of this Act coming into force; and
     
-    *   (b) the prospecting, exploration, or mining for petroleum is authorised by a permit granted under [section 25][308] of the Crown Minerals Act 1991 before this Act comes into force or authorised by an existing privilege preserved under clause 12 of [Schedule 1][309] of that Act; and
+    *   (b) the prospecting, exploration, or mining for petroleum is authorised by a permit granted under [section 25][310] of the Crown Minerals Act 1991 before this Act comes into force or authorised by an existing privilege preserved under clause 12 of [Schedule 1][311] of that Act; and
     
     *   (c) the activity was lawfully established before this Act comes into force.
     
@@ -4228,7 +4230,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     (7) Subsection (5) overrides [section 20][28].
     
-    Section 161(1)(b): amended, on 24 May 2013, by [section 65][310] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 161(1)(b): amended, on 24 May 2013, by [section 65][312] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 162 Existing petroleum mining activities involving structures or pipelines
     
@@ -4236,7 +4238,7 @@ Miscellaneous, transitional provisions, and consequential amendments
         
     *   (a) involves an existing structure or an existing submarine pipeline; and
     
-    *   (b) is associated with mining for petroleum authorised by a petroleum mining permit granted under [section 25][308] of the Crown Minerals Act 1991 before the date on which this Act comes into force or authorised by an existing privilege preserved under clause 12 of [Schedule 1][309] of that Act.
+    *   (b) is associated with mining for petroleum authorised by a petroleum mining permit granted under [section 25][310] of the Crown Minerals Act 1991 before the date on which this Act comes into force or authorised by an existing privilege preserved under clause 12 of [Schedule 1][311] of that Act.
     
     (2) However, despite subsection (1), this section does not apply to any of the activities described in subsection (3) unless the Environmental Protection Authority provides a ruling to the effect that the adverse effects on the environment or existing interests of an activity are likely to be minor or less than minor.
     
@@ -4252,7 +4254,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     (5) Subsection (4) overrides [section 20][28].
     
-    Section 162(1)(b): amended, on 24 May 2013, by [section 65][310] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 162(1)(b): amended, on 24 May 2013, by [section 65][312] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 ##### 163 Other existing activities that become discretionary
     
@@ -4302,7 +4304,7 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 165 Mineral prospecting and exploration may commence and continue
     
-*   (1) This section applies to an activity that requires a marine consent as a result of this Act coming into force if the activity is associated with prospecting or exploration for minerals authorised by a licence granted under [section 5][380] of the Continental Shelf Act 1964 before the date on which this Act comes into force.
+*   (1) This section applies to an activity that requires a marine consent as a result of this Act coming into force if the activity is associated with prospecting or exploration for minerals authorised by a licence granted under [section 5][382] of the Continental Shelf Act 1964 before the date on which this Act comes into force.
     
     (2) If the activity has not commenced, the activity may commence and continue without a marine consent---
         
@@ -4358,11 +4360,11 @@ Miscellaneous, transitional provisions, and consequential amendments
     
     (8) In this section, _planned petroleum activity _means an activity involved with the exploration, prospecting, or mining for petroleum if,---
         
-    *   (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under [section 25][308] of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of [Schedule 1][309] of that Act; and
+    *   (a) before the Act comes into force, the exploration, prospecting, or mining for petroleum with which the activity is involved is authorised by a permit that was granted under [section 25][310] of the Crown Minerals Act 1991 or authorised by an existing privilege preserved under clause 12 of [Schedule 1][311] of that Act; and
     
     *   (b) the activity had not commenced before the Act comes into force.
     
-    Section 166(8)(a): amended, on 24 May 2013, by [section 65][310] of the Crown Minerals Amendment Act 2013 (2013 No 14).
+    Section 166(8)(a): amended, on 24 May 2013, by [section 65][312] of the Crown Minerals Amendment Act 2013 (2013 No 14).
 
 #### Unauthorised activities
 
@@ -4380,15 +4382,15 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 #### Transitional and savings provision relating to regulations
     
-*   Heading: inserted, on 28 February 2014, by [section 45][381] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Heading: inserted, on 28 February 2014, by [section 45][383] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 167A Transitional and savings provision relating to regulations
     
 *   Any consultation undertaken before the commencement of this section by the Minister on proposals as to whether certain discretionary activities should be classified as non-notified activities may be taken to be consultation for the purposes of [section 32(2)][54] for the first non-notified activities regulations made after this section comes into force.
     
-    Compare: 2000 No 91 [s 114][382]
+    Compare: 2000 No 91 [s 114][384]
     
-    Section 167A: inserted, on 28 February 2014, by [section 45][381] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+    Section 167A: inserted, on 28 February 2014, by [section 45][383] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ### Subpart 3---Amendments to other Acts
 
@@ -4400,13 +4402,13 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 169 Relationship with other enactments
     
-*   (1) In [section 7(2)(a)][383], replace ""(6) and section 7A"" with ""(6), and sections 7A to 7D"".
+*   (1) In [section 7(2)(a)][385], replace ""(6) and section 7A"" with ""(6), and sections 7A to 7D"".
     
-    (2) In [section 7(2)][383], replace ""or the Resource Management Act 1991"" with ""the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012"".
+    (2) In [section 7(2)][385], replace ""or the Resource Management Act 1991"" with ""the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012"".
 
 ##### 170 Section 7A replaced (Relationship with Resource Management Act 1991)
     
-*   Replace [section 7A][384] with:
+*   Replace [section 7A][386] with:
     
     > ##### "7A Relationship with Resource Management Act 1991
     >     
@@ -4514,29 +4516,29 @@ Miscellaneous, transitional provisions, and consequential amendments
     
 *   (1) This section amends the [Continental Shelf Act 1964][289].
     
-    (2) [Section 8][385] is amended by repealing subsection (1)(a), (b), (f), (g), (i), and (j).
+    (2) [Section 8][387] is amended by repealing subsection (1)(a), (b), (f), (g), (i), and (j).
 
 #### Amendments to Crown Organisations (Criminal Liability) Act 2002
 
 ##### 172 Amendments to Crown Organisations (Criminal Liability) Act 2002
     
-*   (1) This section amends the [Crown Organisations (Criminal Liability) Act 2002][299].
+*   (1) This section amends the [Crown Organisations (Criminal Liability) Act 2002][301].
     
-    (2) [Section 6(1)][386] is amended by adding the following paragraph:
+    (2) [Section 6(1)][388] is amended by adding the following paragraph:
     
     > *   "(d) an offence against the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012".
     > 
     > 
     
-    (3) [Section 7(a)][387] is amended by inserting ""the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012,"" after ""the Building Act 2004,"".
+    (3) [Section 7(a)][389] is amended by inserting ""the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012,"" after ""the Building Act 2004,"".
 
 #### Amendment to Environment Act 1986
 
 ##### 173 Amendment to Environment Act 1986
     
-*   (1) This section amends the [Environment Act 1986][388].
+*   (1) This section amends the [Environment Act 1986][390].
     
-    (2) The [Schedule][389] is amended by inserting the following item in its appropriate alphabetical order:
+    (2) The [Schedule][391] is amended by inserting the following item in its appropriate alphabetical order:
     
     > "Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012".
     
@@ -4546,9 +4548,9 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 174 Amendment to Environmental Protection Authority Act 2011
     
-*   (1) This section amends the [Environmental Protection Authority Act 2011][390].
+*   (1) This section amends the [Environmental Protection Authority Act 2011][392].
     
-    (2) The definition of _environmental Act_ in [section 5][391] is amended by inserting the following paragraph after paragraph (a):
+    (2) The definition of _environmental Act_ in [section 5][393] is amended by inserting the following paragraph after paragraph (a):
     
     > *   "(ab) the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012:".
     > 
@@ -4562,7 +4564,7 @@ Miscellaneous, transitional provisions, and consequential amendments
     
 *   (1) This section amends the [Fisheries Act 1996][293].
     
-    (2) [Section 11(2)][392] is amended by inserting the following paragraph after paragraph (c):
+    (2) [Section 11(2)][394] is amended by inserting the following paragraph after paragraph (c):
     
     > *   "(ca) regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and".
     > 
@@ -4576,13 +4578,13 @@ Miscellaneous, transitional provisions, and consequential amendments
     
 *   (1) This section amends the [Resource Management Act 1991][270].
     
-    (2) [Section 61(2)][393] is amended by adding ""; and"" and also by adding the following paragraph after paragraph (b):
+    (2) [Section 61(2)][395] is amended by adding ""; and"" and also by adding the following paragraph after paragraph (b):
     
     > *   "(c) the extent to which the regional policy statement needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and".
     > 
     > 
     
-    (3) [Section 66(2)][394] is amended by adding ""; and"" and also by adding the following paragraph after paragraph (d):
+    (3) [Section 66(2)][396] is amended by adding ""; and"" and also by adding the following paragraph after paragraph (d):
     
     > *   "(e) to the extent to which the regional plan needs to be consistent with regulations made under the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; and".
     > 
@@ -4594,9 +4596,9 @@ Miscellaneous, transitional provisions, and consequential amendments
 
 ##### 177 Amendment to Search and Surveillance Act 2012
     
-*   (1) This section amends the [Search and Surveillance Act 2012][395].
+*   (1) This section amends the [Search and Surveillance Act 2012][397].
     
-    (2) In the [Schedule][396], after the item relating to the Electricity Industry Act 2010, insert:
+    (2) In the [Schedule][398], after the item relating to the Electricity Industry Act 2010, insert:
     
     > Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 141(1) and (2) 
     > 
@@ -4615,7 +4617,7 @@ Hearings of applications for marine consents for non-notified activities
 
 [s 44B][73]
 
-*   Schedule: inserted, on 28 February 2014, by [section 46][397] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
+*   Schedule: inserted, on 28 February 2014, by [section 46][399] of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013 (2013 No 85).
 
 ##### 1 Hearing date and notice
     
@@ -4639,7 +4641,7 @@ Hearings of applications for marine consents for non-notified activities
         
     *   (a) avoid unnecessary formality; and
     
-    *   (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the [Maori Language Act 1987][318] applies accordingly.
+    *   (b) recognise tikanga Māori where appropriate, and receive evidence written or spoken in Māori, and the [Maori Language Act 1987][320] applies accordingly.
     
     (4) The applicant may question a party or witness if the EPA gives permission.
 
@@ -4651,19 +4653,19 @@ Hearings of applications for marine consents for non-notified activities
 
 ##### 4 Provisions relating to hearings
     
-*   (1) The following provisions of the [Commissions of Inquiry Act 1908][319] apply to every hearing:
+*   (1) The following provisions of the [Commissions of Inquiry Act 1908][321] apply to every hearing:
         
-    *   (a) [section 4][320] (which gives powers to maintain order):
+    *   (a) [section 4][322] (which gives powers to maintain order):
     
-    *   (b) [section 4B][321] (which relates to evidence):
+    *   (b) [section 4B][323] (which relates to evidence):
     
-    *   (c) [section 4D][322] (which gives power to summon witnesses):
+    *   (c) [section 4D][324] (which gives power to summon witnesses):
     
-    *   (d) [section 5][323] (which relates to the service of a summons):
+    *   (d) [section 5][325] (which relates to the service of a summons):
     
-    *   (e) [section 6][324] (which relates to the protection of persons appearing before the Commission):
+    *   (e) [section 6][326] (which relates to the protection of persons appearing before the Commission):
     
-    *   (f) [section 7][325] (which relates to allowances for witnesses).
+    *   (f) [section 7][327] (which relates to allowances for witnesses).
     
     (2) Every summons to a witness to appear at a hearing must be in the prescribed form and be signed on behalf of the Environmental Protection Authority or by the chairperson of the committee that is to conduct the hearing.
     
@@ -4723,23 +4725,25 @@ Hearings of applications for marine consents for non-notified activities
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][398] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][399] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][400] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][401] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][400] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][401] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][402] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][403] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][287]
+*   Kaikōura (Te Tai o Marokura) Marine Management Act 2014 (2014 No 59): [section 30][299]
     
-    [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013][402] (2013 No 85)
+    Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26): [section 107][287]
     
-    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][356]
+    [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2013][404] (2013 No 85)
+    
+    Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][358]
     
     [Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act Commencement Order 2013][263] (SR 2013/282)
     
-    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][310]
+    Crown Minerals Amendment Act 2013 (2013 No 14): [section 65][312]
 
 
 
@@ -5038,111 +5042,113 @@ Hearings of applications for marine consents for non-notified activities
 [292]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM341225
 [293]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM394191
 [294]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM52557
-[295]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM25110
-[296]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM375802
-[297]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM276813
-[298]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM261954
-[299]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156440
-[300]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156466
-[301]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM204978
-[302]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM330351
-[303]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366863
-[304]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM331147
-[305]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366866
-[306]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366867
-[307]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM334659
-[308]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5226925
-[309]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM247367
-[310]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5081570
-[311]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644848
-[312]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644850
-[313]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644719
-[314]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM278828
-[315]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644721
-[316]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644724
-[317]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644725
-[318]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM124115
-[319]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139130
-[320]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139145
-[321]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139153
-[322]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139157
-[323]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139159
-[324]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139161
-[325]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139163
-[326]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644731
-[327]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM126527
-[328]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM45599
-[329]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644732
-[330]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644733
-[331]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644734
-[332]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644736
-[333]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233858
-[334]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM234875
-[335]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235409
-[336]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644737
-[337]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235402
-[338]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235413
-[339]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414715
-[340]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417789
-[341]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414717
-[342]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414718
-[343]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644738
-[344]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644739
-[345]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM234355
-[346]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417780
-[347]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417785
-[348]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417786
-[349]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5596236
-[350]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417787
-[351]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417792
-[352]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644740
-[353]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644741
-[354]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360482
-[355]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360489
-[356]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5642106
-[357]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237637
-[358]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238504
-[359]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337335
-[360]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337336
-[361]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337689
-[362]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337696
-[363]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337694
-[364]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337864
-[365]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337863
-[366]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238272
-[367]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360067
-[368]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136770
-[369]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136813
-[370]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136815
-[371]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3359902
-[372]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM346207
-[373]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM128740
-[374]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195097
-[375]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195549
-[376]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195534
-[377]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM64784
-[378]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237780
-[379]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644903
-[380]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351671
-[381]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644747
-[382]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM81649
-[383]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM315227
-[384]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM315235
-[385]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351683
-[386]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156462
-[387]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156464
-[388]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM98974
-[389]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM99782
-[390]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366800
-[391]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366820
-[392]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM395397
-[393]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233389
-[394]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233620
-[395]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136500
-[396]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM4356950
-[397]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644750
-[398]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998516
-[399]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998515
-[400]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998532
-[401]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[402]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644759
+[295]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5851200
+[296]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM25110
+[297]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM375802
+[298]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM276813
+[299]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5869200
+[300]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM261954
+[301]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156440
+[302]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156466
+[303]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM204978
+[304]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM330351
+[305]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366863
+[306]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM331147
+[307]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366866
+[308]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366867
+[309]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM334659
+[310]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5226925
+[311]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM247367
+[312]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5081570
+[313]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644848
+[314]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644850
+[315]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644719
+[316]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM278828
+[317]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644721
+[318]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644724
+[319]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644725
+[320]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM124115
+[321]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139130
+[322]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139145
+[323]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139153
+[324]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139157
+[325]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139159
+[326]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139161
+[327]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM139163
+[328]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644731
+[329]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM126527
+[330]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM45599
+[331]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644732
+[332]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644733
+[333]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644734
+[334]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644736
+[335]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233858
+[336]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM234875
+[337]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235409
+[338]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644737
+[339]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235402
+[340]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM235413
+[341]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414715
+[342]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417789
+[343]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414717
+[344]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2414718
+[345]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644738
+[346]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644739
+[347]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM234355
+[348]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417780
+[349]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417785
+[350]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417786
+[351]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5596236
+[352]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417787
+[353]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2417792
+[354]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644740
+[355]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644741
+[356]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360482
+[357]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360489
+[358]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5642106
+[359]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237637
+[360]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238504
+[361]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337335
+[362]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337336
+[363]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337689
+[364]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337696
+[365]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337694
+[366]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337864
+[367]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM337863
+[368]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM238272
+[369]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3360067
+[370]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136770
+[371]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136813
+[372]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136815
+[373]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3359902
+[374]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM346207
+[375]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM128740
+[376]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195097
+[377]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195549
+[378]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM195534
+[379]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM64784
+[380]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM237780
+[381]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644903
+[382]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351671
+[383]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644747
+[384]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM81649
+[385]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM315227
+[386]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM315235
+[387]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM351683
+[388]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156462
+[389]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM156464
+[390]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM98974
+[391]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM99782
+[392]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366800
+[393]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM3366820
+[394]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM395397
+[395]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233389
+[396]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM233620
+[397]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2136500
+[398]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM4356950
+[399]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644750
+[400]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998516
+[401]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998515
+[402]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM2998532
+[403]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[404]: http://www.legislation.govt.nz/act/public/2012/0072/latest/link.aspx?id=DLM5644759
