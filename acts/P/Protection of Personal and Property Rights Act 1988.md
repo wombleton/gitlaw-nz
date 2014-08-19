@@ -3258,7 +3258,7 @@ Powers of managers
     
     *   (s) accept the surrender of any lease, sublease, or tenancy:
     
-    *   (t) accept a lease, sublease, or tenancy of any property, or a renewal of a lease, sublease, or tenancy, at such rent, on such terms, and subject to such convenants and conditions as the manager thinks fit:
+    *   (t) accept a lease, sublease, or tenancy of any property, or a renewal of a lease, sublease, or tenancy, at such rent, on such terms, and subject to such covenants and conditions as the manager thinks fit:
     
     *   (u) surrender any lease, sublease, or tenancy:
     
