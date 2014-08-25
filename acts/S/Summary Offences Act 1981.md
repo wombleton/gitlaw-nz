@@ -1,5 +1,5 @@
 Reprint  
-as at 18 December 2013
+as at 24 August 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,7 +13,7 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
@@ -73,133 +73,135 @@ This Act is administered by the Ministry of Justice.
 
 [13A][25][][25][Possession of knives][25]
 
-[14][26][][26][Possession of burglary tools][26]
+[13B][26][][26][Possession of high-power laser pointers][26]
 
-[Spraycans][27]
+[14][27][][27][Possession of burglary tools][27]
 
-[14A][28][][28][Sale of spraycans to people under 18 prohibited][28]
+[Spraycans][28]
 
-[14B][29][][29][Access to spraycans in shops to be restricted][29]
+[14A][29][][29][Sale of spraycans to people under 18 prohibited][29]
 
-[Offences resembling forgery or fraud][30]
+[14B][30][][30][Access to spraycans in shops to be restricted][30]
 
-[15][31][][31][Seeking donations by false pretence][31]
+[Offences resembling forgery or fraud][31]
 
-[16][32][][32][Acting as medium with intent to deceive][32]
+[15][32][][32][Seeking donations by false pretence][32]
 
-[17][33][][33][Publishing false notice of birth, marriage, civil union, or death][33]
+[16][33][][33][Acting as medium with intent to deceive][33]
 
-[18][34][][34][Imitation of court documents][34]
+[17][34][][34][Publishing false notice of birth, marriage, civil union, or death][34]
 
-[19][35][][35][Imitation of official documents][35]
+[18][35][][35][Imitation of court documents][35]
 
-[20][36][][36][False claim of qualifications][36]
+[19][36][][36][Imitation of official documents][36]
 
-[Official information][37]
+[20][37][][37][False claim of qualifications][37]
 
-[20A][38][][38][Unauthorised disclosure of certain official information][38]
+[Official information][38]
 
-[Intimidation, obstruction, and hindering Police][39]
+[20A][39][][39][Unauthorised disclosure of certain official information][39]
 
-[21][40][][40][Intimidation][40]
+[Intimidation, obstruction, and hindering Police][40]
 
-[22][41][][41][Obstructing public way][41]
+[21][41][][41][Intimidation][41]
 
-[23][42][][42][Resisting Police, prison, or traffic officer][42]
+[22][42][][42][Obstructing public way][42]
 
-[24][43][][43][False allegation or report to Police][43]
+[23][43][][43][Resisting Police, prison, or traffic officer][43]
 
-[25][44][][44][Advertising reward for stolen property][44]
+[24][44][][44][False allegation or report to Police][44]
 
-[Indecency][45]
+[25][45][][45][Advertising reward for stolen property][45]
 
-[26][46][][46][Soliciting][46] \[Repealed\]
+[Indecency][46]
 
-[27][47][][47][Indecent exposure][47]
+[26][47][][47][Soliciting][47] \[Repealed\]
 
-[Loitering and trespass][48]
+[27][48][][48][Indecent exposure][48]
 
-[28][49][][49][Being found in public place preparing to commit offence][49]
+[Loitering and trespass][49]
 
-[29][50][][50][Being found on property, etc, without reasonable excuse][50]
+[28][50][][50][Being found in public place preparing to commit offence][50]
 
-[30][51][][51][Peeping or peering into dwellinghouse][51]
+[29][51][][51][Being found on property, etc, without reasonable excuse][51]
 
-[31][52][][52][Trespass on a ship][52]
+[30][52][][52][Peeping or peering into dwellinghouse][52]
 
-[Offences resembling nuisance][53]
+[31][53][][53][Trespass on a ship][53]
 
-[32][54][][54][Excreting in public place][54]
+[Offences resembling nuisance][54]
 
-[33][55][][55][Billsticking][55]
+[32][55][][55][Excreting in public place][55]
 
-[34][56][][56][Throwing stones][56]
+[33][56][][56][Billsticking][56]
 
-[35][57][][57][Setting off or throwing fireworks][57]
+[34][57][][57][Throwing stones][57]
 
-[36][58][][58][Lighting fires][58]
+[35][58][][58][Setting off or throwing fireworks][58]
 
-[37][59][][59][Disturbing meetings][59]
+[36][59][][59][Lighting fires][59]
 
-[38][60][][60][Drinking in public place][60]
+[37][60][][60][Disturbing meetings][60]
 
-[Infringement offences][61]
+[38][61][][61][Drinking in public place][61]
 
-[38A][62][][62][Infringement offences][62]
+[Infringement offences][62]
 
-[38B][63][][63][Commission of infringement offence][63]
+[38A][63][][63][Infringement offences][63]
 
-[38C][64][][64][Infringement notices][64]
+[38B][64][][64][Commission of infringement offence][64]
 
-[38D][65][][65][Payment of infringement fees][65]
+[38C][65][][65][Infringement notices][65]
 
-[38E][66][][66][Regulations][66]
+[38D][66][][66][Payment of infringement fees][66]
 
-[Search, arrest, and jurisdiction][67]
+[38E][67][][67][Regulations][67]
 
-[39][68][][68][Arrest][68]
+[Search, arrest, and jurisdiction][68]
 
-[40][69][][69][Jurisdiction][69]
+[39][69][][69][Arrest][69]
 
-[41][70][][70][Charge alleging imitation of court documents][70]
+[40][70][][70][Jurisdiction][70]
 
-[42][71][][71][Charge alleging false claim of qualifications][71]
+[41][71][][71][Charge alleging imitation of court documents][71]
 
-[43][72][][72][No jury trial for offence of assault][72] \[Repealed\]
+[42][72][][72][Charge alleging false claim of qualifications][72]
 
-[44][73][][73][Defendant may be convicted of lesser charge of disorderly behaviour][73]
+[43][73][][73][No jury trial for offence of assault][73] \[Repealed\]
 
-[44A][74][][74][Seizure and forfeiture of burglary instruments][74]
+[44][74][][74][Defendant may be convicted of lesser charge of disorderly behaviour][74]
 
-[45][75][][75][Seizure and forfeiture of alcohol][75]
+[44A][75][][75][Seizure and forfeiture of burglary instruments][75]
 
-[45A][76][][76][Attachment order default][76]
+[45][76][][76][Seizure and forfeiture of alcohol][76]
 
-[Amendments and repeals][77]
+[45A][77][][77][Attachment order default][77]
 
-[46][78][][78][Military Decorations and Distinctive Badges Act 1918 amended][78]
+[Amendments and repeals][78]
 
-[47][79][][79][Machinery Act 1950 amended][79] \[Repealed\]
+[46][79][][79][Military Decorations and Distinctive Badges Act 1918 amended][79]
 
-[48][80][][80][New sections inserted in Crimes Act 1961][80]
+[47][80][][80][Machinery Act 1950 amended][80] \[Repealed\]
 
-[49][81][][81][Alcoholism and Drug Addiction Act 1966 amended][81]
+[48][81][][81][New sections inserted in Crimes Act 1961][81]
 
-[50][82][][82][Children and Young Persons Act 1974 amended][82] \[Repealed\]
+[49][82][][82][Alcoholism and Drug Addiction Act 1966 amended][82]
 
-[51][83][][83][Amendments and repeals][83]
+[50][83][][83][Children and Young Persons Act 1974 amended][83] \[Repealed\]
 
-[Schedule 1][84]  
-[Enactments consequentially amended][84]
+[51][84][][84][Amendments and repeals][84]
 
-[Schedule 2][85]  
-[Enactments consequentially repealed][85]
+[Schedule 1][85]  
+[Enactments consequentially amended][85]
 
-[Schedule 3][86]  
-[Offences involving violence][86]
+[Schedule 2][86]  
+[Enactments consequentially repealed][86]
 
-[Schedule 4][87]  
-[Serious drug offences][87]
+[Schedule 3][87]  
+[Offences involving violence][87]
+
+[Schedule 4][88]  
+[Serious drug offences][88]
 
 ---
 
@@ -209,7 +211,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
 *   (1) This Act may be cited as the Summary Offences Act 1981\.
     
-    (2) Except as provided in [section 49(2)][81], this Act shall come into force on 1 February 1982\.
+    (2) Except as provided in [section 49(2)][82], this Act shall come into force on 1 February 1982\.
 
 ##### 2 Interpretation
     
@@ -217,33 +219,33 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     _assault_ means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other person to believe on reasonable grounds that he has, present ability to effect his purpose; and _to assault_ has a corresponding meaning
     
-    _authorised officer_ has the meaning given in [section 4][88] of the Policing Act 2008
+    _authorised officer_ has the meaning given in [section 4][89] of the Policing Act 2008
     
-    _claim of right_ has the same meaning as it has in [section 2(1)][89] of the Crimes Act 1961
+    _claim of right_ has the same meaning as it has in [section 2(1)][90] of the Crimes Act 1961
     
-    _constable_ has the meaning given in [section 4][88] of the Policing Act 2008
+    _constable_ has the meaning given in [section 4][89] of the Policing Act 2008
     
-    _crime involving dishonesty_ has the meaning given to it in [section 2(1)][89] of the Crimes Act 1961
+    _crime involving dishonesty_ has the meaning given to it in [section 2(1)][90] of the Crimes Act 1961
     
-    _intoxicating liquor_ means alcohol within the meaning of [section 5(1)][90] of the Sale and Supply of Alcohol Act 2012
+    _intoxicating liquor_ means alcohol within the meaning of [section 5(1)][91] of the Sale and Supply of Alcohol Act 2012
     
     _is liable_ means is liable on conviction
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][91] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][92] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
     _newspaper_ means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
     
-    _offence involving violence_ means an offence against any of the provisions listed in [Schedule 3][86]
+    _offence involving violence_ means an offence against any of the provisions listed in [Schedule 3][87]
     
-    _Police dog_ has the meaning given in [section 4][88] of the Policing Act 2008
+    _Police dog_ has the meaning given in [section 4][89] of the Policing Act 2008
     
-    _Police dog handler_ has the meaning given in [section 4][88] of the Policing Act 2008
+    _Police dog handler_ has the meaning given in [section 4][89] of the Policing Act 2008
     
-    _prison officer_ means an officer within the meaning of [section 3(1)][92] of the Corrections Act 2004; and includes a security officer within the meaning of that section
+    _prison officer_ means an officer within the meaning of [section 3(1)][93] of the Corrections Act 2004; and includes a security officer within the meaning of that section
     
     _public place_ means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
     
-    _serious drug offence_ means an offence against any of the provisions listed in [Schedule 4][87]
+    _serious drug offence_ means an offence against any of the provisions listed in [Schedule 4][88]
     
     _shop_ means a building, place, or part of a building or place, where goods are sold by retail, or kept or offered for sale by retail; and---
         
@@ -269,45 +271,45 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (3) When it is provided in this Act that any person is liable to any punishment for doing or omitting to do any act, every person doing or omitting to do that act is, subject to the provisions of this Act, guilty of an offence.
     
-    Compare: 1927 No 35 ss 2, 40; 1954 No 51 s 2; 1955 No 21 s 2; 1955 No 85 s 6; 1955 No 98 s 2; 1961 No 43 [s 2][89]; 1962 No 135 [s 2][93]; 1978 No 34 s 2; 1979 No 59 [s 8(3)][94]
+    Compare: 1927 No 35 ss 2, 40; 1954 No 51 s 2; 1955 No 21 s 2; 1955 No 85 s 6; 1955 No 98 s 2; 1961 No 43 [s 2][90]; 1962 No 135 [s 2][94]; 1978 No 34 s 2; 1979 No 59 [s 8(3)][95]
     
-    Section 2(1) **authorised officer**: inserted, on 1 October 2008, by [section 127(1)][95] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **authorised officer**: inserted, on 1 October 2008, by [section 127(1)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **claim of right**: inserted, on 1 October 2003, by [section 34][96] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 2(1) **claim of right**: inserted, on 1 October 2003, by [section 34][97] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 2(1) **colour of right**: repealed, on 1 October 2003, by [section 34][96] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 2(1) **colour of right**: repealed, on 1 October 2003, by [section 34][97] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 2(1) **constable**: substituted, on 1 October 2008, by [section 127(2)][95] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **constable**: substituted, on 1 October 2008, by [section 127(2)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **crime**: repealed, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **crime**: repealed, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **crime involving dishonesty**: replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **crime involving dishonesty**: replaced, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **crime involving violence**: repealed, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **crime involving violence**: repealed, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **intoxicating liquor**: replaced, on 18 December 2013, by [section 4][98] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
+    Section 2(1) **intoxicating liquor**: replaced, on 18 December 2013, by [section 4][99] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
     
-    Section 2(1) **is liable**: replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **is liable**: replaced, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][99] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][100] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **offence involving violence**: inserted, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 2(1) **offence involving violence**: inserted, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2(1) **Police dog**: inserted, on 1 October 2008, by [section 127(1)][95] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **Police dog**: inserted, on 1 October 2008, by [section 127(1)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **Police dog handler**: inserted, on 1 October 2008, by [section 127(1)][95] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **Police dog handler**: inserted, on 1 October 2008, by [section 127(1)][96] of the Policing Act 2008 (2008 No 72).
     
     Section 2(1) **prison officer**: substituted, on 1 March 1995, by section 28(1) of the Penal Institutions Amendment Act 1994 (1994 No 120).
     
-    Section 2(1) **prison officer**: amended, on 1 June 2005, by [section 206][100] of the Corrections Act 2004 (2004 No 50).
+    Section 2(1) **prison officer**: amended, on 1 June 2005, by [section 206][101] of the Corrections Act 2004 (2004 No 50).
     
-    Section 2(1) **serious drug offence**: inserted, on 1 January 1998, by [section 2][101] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 2(1) **serious drug offence**: inserted, on 1 January 1998, by [section 2][102] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 2(1) **shop**: inserted, on 25 September 2008, by [section 6(2)][102] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 2(1) **shop**: inserted, on 25 September 2008, by [section 6(2)][103] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
     
-    Section 2(1) **spraycan**: inserted, on 26 June 2008, by [section 5(2)][103] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 2(1) **spraycan**: inserted, on 26 June 2008, by [section 5(2)][104] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
     
-    Section 2(1) **unlawful weapon**: repealed, on 7 May 1999, by [section 2(2)][104] of the Summary Offences Amendment Act 1999 (1999 No 48).
+    Section 2(1) **unlawful weapon**: repealed, on 7 May 1999, by [section 2(2)][105] of the Summary Offences Amendment Act 1999 (1999 No 48).
 
 #### Offences against public order
 
@@ -315,9 +317,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
 *   Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in or within view of any public place, behaves, or incites or encourages any person to behave, in a riotous, offensive, threatening, insulting, or disorderly manner that is likely in the circumstances to cause violence against persons or property to start or continue.
     
-    Compare: 1927 No 35 ss 3D, 34; 1957 No 87 [s 213][105]; 1960 No 119 s 2(1); 1967 No 154 s 2(1)
+    Compare: 1927 No 35 ss 3D, 34; 1957 No 87 [s 213][106]; 1960 No 119 s 2(1); 1967 No 154 s 2(1)
     
-    Section 3: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 3: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 4 Offensive behaviour or language
     
@@ -341,15 +343,15 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (4) It is a defence in a prosecution under subsection (2) if the defendant proves that he had reasonable grounds for believing that his words would not be overheard.
     
-    (5) Nothing in this section shall apply with respect to any publication within the meaning of the [Films, Videos, and Publications Classification Act 1993][107], whether the publication is objectionable within the meaning of that Act or not.
+    (5) Nothing in this section shall apply with respect to any publication within the meaning of the [Films, Videos, and Publications Classification Act 1993][108], whether the publication is objectionable within the meaning of that Act or not.
     
     Compare: 1927 No 35 ss 3D, 48; 1954 No 50 s 40(1); 1967 No 154 s 2(1)
     
-    Section 4(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 4(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 4(2): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 4(2): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 4(5): added, on 1 October 1994, by [section 150(1)][108] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+    Section 4(5): added, on 1 October 1994, by [section 150(1)][109] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
 
 ##### 5 Disorderly behaviour on private premises
     
@@ -367,11 +369,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
         
         
     
-    *   (b) an offence against [section 86][109] (unlawful assembly) or [section 87][110] (riot) of the Crimes Act 1961\.
+    *   (b) an offence against [section 86][110] (unlawful assembly) or [section 87][111] (riot) of the Crimes Act 1961\.
     
     Compare: 1927 No 35 s 34A; 1976 No 157 s 2
     
-    Section 5(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 5(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 5A Disorderly assembly
     
@@ -393,7 +395,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Section 5A: inserted, on 5 June 1989, by section 2 of the Summary Offences Amendment Act 1989 (1989 No 19).
     
-    Section 5A(2): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 5A(2): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 6 Associating with convicted thieves
     
@@ -407,11 +409,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 49(d); 1967 No 154 s 2(1)
     
-    Section 6(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 6(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 6(2): replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6(2): replaced, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(2A): inserted, on 1 January 1998, by [section 3][111] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 6(2A): inserted, on 1 January 1998, by [section 3][112] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 6A Associating with violent offenders
     
@@ -425,11 +427,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (3) This section does not apply in respect of any habitual association between 2 persons in either of the following circumstances:
         
-    *   (a) where a protection order is in force under the [Domestic Violence Act 1995][112], and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
+    *   (a) where a protection order is in force under the [Domestic Violence Act 1995][113], and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
     
     *   (b) where---
             
-        *   (i) both persons are, or have been, in a domestic relationship (as defined by [section 4][113] of that Act) with each other; and
+        *   (i) both persons are, or have been, in a domestic relationship (as defined by [section 4][114] of that Act) with each other; and
         
         *   (ii) the offences involving violence, the commission of which can reasonably be inferred from that association, are offences that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
         
@@ -441,17 +443,17 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (6) In this section _violent offender_ means a person who has been convicted on at least 2 separate occasions of an offence involving violence.
     
-    Section 6A: inserted, on 1 January 1998, by [section 4][114] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 6A: inserted, on 1 January 1998, by [section 4][115] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 6A(1): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6A(1): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6A(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6A(2): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6A(2)(b): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6A(2)(b): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6A(3)(b)(ii): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6A(3)(b)(ii): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6A(6): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6A(6): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6B Associating with serious drug offenders
     
@@ -459,9 +461,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (2) This section does not apply in respect of a serious drug offence against---
         
-    *   (a) [section 6][115] of the Misuse of Drugs Act 1975 in relation to a Class C controlled drug specified or described in [Part 1][116] of Schedule 3 of that Act (other than catha edulis plant or coca leaf); or
+    *   (a) [section 6][116] of the Misuse of Drugs Act 1975 in relation to a Class C controlled drug specified or described in [Part 1][117] of Schedule 3 of that Act (other than catha edulis plant or coca leaf); or
     
-    *   (b) [section 9][117] of that Act in relation to a prohibited plant of the genus _Cannabis_,---
+    *   (b) [section 9][118] of that Act in relation to a prohibited plant of the genus _Cannabis_,---
     
     unless the serious drug offence involved dealing with a substantial amount of that drug or cultivation of that drug on a substantial scale, as the case may be.
     
@@ -477,9 +479,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (6) In this section _serious drug offender_ means a person who has been convicted on at least 2 separate occasions of a serious drug offence.
     
-    Section 6B: inserted, on 1 January 1998, by [section 4][114] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 6B: inserted, on 1 January 1998, by [section 4][115] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 6B(3): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 6B(3): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6C Proof of habitual association
     
@@ -499,7 +501,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (2) Subsection (1) does not limit the manner in which the prosecution may prove that the association was an habitual association.
     
-    Section 6C: inserted, on 1 January 1998, by [section 4][114] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 6C: inserted, on 1 January 1998, by [section 4][115] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 7 Fighting in public place
     
@@ -507,19 +509,19 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3B; 1960 No 7 s 2(1); 1967 No 154 s 2(1)
     
-    Section 7: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 7: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 8 Publishing document or thing explaining manufacture of explosives, etc
     
-*   (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, for the purposes of sale or distribution to the public, prints or publishes or makes any document or thing (not being a document or thing of a technical, scientific, literary, or artistic character) that describes or depicts the method of manufacture of any explosive device or incendiary device or restricted weapon (within the meaning of [section 2][118] of the Arms Act 1983), or any part of any such device or weapon.
+*   (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, for the purposes of sale or distribution to the public, prints or publishes or makes any document or thing (not being a document or thing of a technical, scientific, literary, or artistic character) that describes or depicts the method of manufacture of any explosive device or incendiary device or restricted weapon (within the meaning of [section 2][119] of the Arms Act 1983), or any part of any such device or weapon.
     
     (2) It is a defence in a prosecution under this section if the defendant proves that it was reasonable in all the circumstances to print or publish or make the description or depiction to which the prosecution relates.
     
     Compare: 1927 No 35 s 34B; 1976 No 157 s 3
     
-    Section 8(1): amended, on 7 May 1999, by [section 2(1)][104] of the Summary Offences Amendment Act 1999 (1999 No 48).
+    Section 8(1): amended, on 7 May 1999, by [section 2(1)][105] of the Summary Offences Amendment Act 1999 (1999 No 48).
     
-    Section 8(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 8(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 #### Offences against persons or property
 
@@ -529,7 +531,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1952 No 43 s 4(1); 1967 No 154 s 2(2); 1970 No 138 s 2(1)
     
-    Section 9: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 9: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 10 Assault on Police, prison, or traffic officer
     
@@ -537,13 +539,13 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 77A(1); 1974 No 134 s 2(1)
     
-    Section 10: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 10: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 10A Ill-treatment or wilful neglect of child
     
 *   \[Repealed\]
     
-    Section 10A: repealed, on 19 March 2012, by [section 10(2)][119] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 10A: repealed, on 19 March 2012, by [section 10(2)][120] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 10B Leaving child without reasonable supervision and care
     
@@ -551,9 +553,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1974 No 72 s 9
     
-    Section 10B: inserted, on 1 November 1989, by [section 453][120] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
+    Section 10B: inserted, on 1 November 1989, by [section 453][121] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
     
-    Section 10B: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 10B: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 11 Wilful damage
     
@@ -571,25 +573,25 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 6(1), (3)--(6); 1952 No 43 s 2; 1960 No 7 s 5; 1967 No 154 s 2(1)
     
-    Section 11(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 11(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 11(2): amended, on 1 October 2003, by [section 34][96] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 11(2): amended, on 1 October 2003, by [section 34][97] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 11A Graffiti vandalism, tagging, defacing, etc
     
-*   A person is liable to a community-based sentence (within the meaning of [section 4(1)][121] of the Sentencing Act 2002) or a fine not exceeding $2,000, or to both, if he or she damages or defaces any building, structure, road, tree, property, or other thing by writing, drawing, painting, spraying, or etching on it, or otherwise marking it,---
+*   A person is liable to a community-based sentence (within the meaning of [section 4(1)][122] of the Sentencing Act 2002) or a fine not exceeding $2,000, or to both, if he or she damages or defaces any building, structure, road, tree, property, or other thing by writing, drawing, painting, spraying, or etching on it, or otherwise marking it,---
         
     *   (a) without lawful authority; and
     
     *   (b) without the consent of the occupier or owner or other person in lawful control.
     
-    Section 11A: inserted, on 26 June 2008, by [section 4(1)][122] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 11A: inserted, on 26 June 2008, by [section 4(1)][123] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 ##### 11B Possession of graffiti implements
     
 *   A person is liable to a sentence of community work or a fine not exceeding $500, or to both, if without reasonable excuse he or she has in his or her possession a thing capable of being used to commit an offence against [section 11A][21] in circumstances in which it can reasonably be inferred that he or she intends to use it to commit such an offence.
     
-    Section 11B: inserted, on 26 June 2008, by [section 4(1)][122] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 11B: inserted, on 26 June 2008, by [section 4(1)][123] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 ##### 12 Acts endangering safety
     
@@ -603,15 +605,15 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 ss 4(1)(p), 5(a), (b)
     
-    Section 12: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 12: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 13 Things endangering safety
     
 *   Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, having in his care or under his control in any public place any thing (whether animate or inanimate) that in the absence of precaution or care is likely to cause injury, with reckless disregard for the safety of others and without reasonable excuse does anything to or with, or leaves, that thing.
     
-    Compare: 1961 No 43 [ss 156][123], [202][124]
+    Compare: 1961 No 43 [ss 156][124], [202][125]
     
-    Section 13: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 13: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 13A Possession of knives
     
@@ -621,9 +623,29 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Section 13A: inserted, on 28 October 1986, by section 2 of the Summary Offences Amendment Act 1986 (1986 No 72).
     
-    Section 13A(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 13A(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
     Section 13A(2): inserted, on 1 August 1987, by section 2 of the Summary Offences Amendment Act (No 2) 1987 (1987 No 171).
+
+##### 13B Possession of high-power laser pointers
+    
+*   (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse, has any high-power laser pointer in his or her possession.
+    
+    (2) On convicting any person of an offence against subsection (1), the court may order that the high-power laser pointer be forfeited to the Crown.
+    
+    (3) In this section, _high-power laser pointer_ means a device that,---
+        
+    *   (a) in the Director-General of Health's opinion, is of the kind commonly known as a laser pointer; and
+    
+    *   (b) is battery operated; and
+    
+    *   (c) is designed or intended to be operated while held in the hand; and
+    
+    *   (d) produces a coherent beam of optical radiation of low divergence; and
+    
+    *   (e) has a power output of greater than 1 milliwatt.
+    
+    Section 13B: inserted, on 24 August 2014, by [section 4][126] of the Summary Offences (Possession of High-power Laser Pointers) Amendment Act 2014 (2014 No 49).
 
 ##### 14 Possession of burglary tools
     
@@ -631,11 +653,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1952 No 35 s 52(1)(f); 1961 No 43 s 244(1)(a), (b)
     
-    Section 14: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 14: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 #### Spraycans
     
-*   Heading: inserted, on 26 June 2008, by [section 5(1)][103] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+*   Heading: inserted, on 26 June 2008, by [section 5(1)][104] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 ##### 14A Sale of spraycans to people under 18 prohibited
     
@@ -645,9 +667,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
         
     *   (a) the defendant is---
             
-        *   (i) a Board (within the meaning of [section 2(1)][125] of the Education Act 1989), or an employee of a Board; or
+        *   (i) a Board (within the meaning of [section 2(1)][127] of the Education Act 1989), or an employee of a Board; or
         
-        *   (ii) the governing body of a tertiary education provider (within the meaning of [section 159(1)][126] of the Education Act 1989), or an employee of a tertiary education provider; and
+        *   (ii) the governing body of a tertiary education provider (within the meaning of [section 159(1)][128] of the Education Act 1989), or an employee of a tertiary education provider; and
         
         
     
@@ -685,13 +707,13 @@ An Act to reform and restate the law relating to summary offences, and to replac
         
         *   (ii) an overseas passport; or
         
-        *   (iii) a driver licence issued under the [Land Transport Act 1998][127]; or
+        *   (iii) a driver licence issued under the [Land Transport Act 1998][129]; or
         
-        *   (iv) a document of the kind described in [section 2A(2)(d)][128] of the Sale of Liquor Act 1989\.
+        *   (iv) a document of the kind described in [section 2A(2)(d)][130] of the Sale of Liquor Act 1989\.
         
         
     
-    Section 14A: inserted, on 26 June 2008, by [section 5(1)][103] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 14A: inserted, on 26 June 2008, by [section 5(1)][104] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 ##### 14B Access to spraycans in shops to be restricted
     
@@ -713,7 +735,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (3) The occupier of a shop who fails or refuses to comply with subsection (2) is liable to a fine not exceeding $1,500\.
     
-    Section 14B: inserted, on 25 September 2008, by [section 6(1)][102] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 14B: inserted, on 25 September 2008, by [section 6(1)][103] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 #### Offences resembling forgery or fraud
 
@@ -749,11 +771,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 19(1), (2); 1967 No 154 s 2(1)
     
-    Section 17 heading: amended, on 26 April 2005, by [section 7][129] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 17 heading: amended, on 26 April 2005, by [section 7][131] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 17(1)(a): amended, on 26 April 2005, by [section 7][129] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 17(1)(a): amended, on 26 April 2005, by [section 7][131] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 17(2): amended, on 26 April 2005, by [section 7][129] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 17(2): amended, on 26 April 2005, by [section 7][131] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 18 Imitation of court documents
     
@@ -779,9 +801,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 20(1)--(3); 1967 No 154 s 2(1)
     
-    Section 18(1)(a): amended, on 30 June 1998, by [section 2][130] of the Summary Offences Amendment Act 1998 (1998 No 80).
+    Section 18(1)(a): amended, on 30 June 1998, by [section 2][132] of the Summary Offences Amendment Act 1998 (1998 No 80).
     
-    Section 18(3)(b)(i): amended, on 30 June 1998, by [section 2][130] of the Summary Offences Amendment Act 1998 (1998 No 80).
+    Section 18(3)(b)(i): amended, on 30 June 1998, by [section 2][132] of the Summary Offences Amendment Act 1998 (1998 No 80).
 
 ##### 19 Imitation of official documents
     
@@ -825,7 +847,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 22(1)--(4); 1967 No 154 s 2(1)
     
-    Section 20(4): amended, on 18 September 2004, by [section 175(1)][99] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 20(4): amended, on 18 September 2004, by [section 175(1)][100] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 #### Official information
     
@@ -833,7 +855,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
 
 ##### 20A Unauthorised disclosure of certain official information
     
-*   (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who knowingly communicates to any other person any official information as defined in [section 78A(2)][131] of the Crimes Act 1961 (not being official information that is publicly available) or delivers to any other person any object as defined in section 78A(2) of the Crimes Act 1961 knowing that he does not have proper authority to effect the communication or delivery and that the communication of that information or the delivery of that object is likely---
+*   (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who knowingly communicates to any other person any official information as defined in [section 78A(2)][133] of the Crimes Act 1961 (not being official information that is publicly available) or delivers to any other person any object as defined in section 78A(2) of the Crimes Act 1961 knowing that he does not have proper authority to effect the communication or delivery and that the communication of that information or the delivery of that object is likely---
         
     *   (a) to endanger the safety of any person:
     
@@ -877,13 +899,13 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Section 20A: inserted, on 1 July 1983, by section 2 of the Summary Offences Amendment Act (No 2) 1982 (1982 No 159).
     
-    Section 20A(1)(a): substituted, on 1 April 1987, by [section 25(1)][132] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 20A(1)(a): substituted, on 1 April 1987, by [section 25(1)][134] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 20A(1)(f): substituted, on 1 April 1987, by [section 25(1)][132] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 20A(1)(f): substituted, on 1 April 1987, by [section 25(1)][134] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 20A(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20A(2): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 20A(2) proviso: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 20A(2) proviso: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Intimidation, obstruction, and hindering Police
 
@@ -905,7 +927,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     (3) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
     
-    Section 21: substituted, on 1 January 1998, by [section 5][133] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 21: substituted, on 1 January 1998, by [section 5][135] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 22 Obstructing public way
     
@@ -923,7 +945,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(eee); 1958 No 87 s 2(1)
     
-    Section 22(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 22(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
     Section 22(1)(b): amended, on 23 November 1982, by section 2 of the Summary Offences Amendment Act 1982 (1982 No 102).
 
@@ -939,13 +961,13 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 77; 1965 No 7 s 7; 1974 No 134 s 2(2)
     
-    Section 23: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 23: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 23(a): amended, on 1 October 2008, by [section 128(1)][134] of the Policing Act 2008 (2008 No 72).
+    Section 23(a): amended, on 1 October 2008, by [section 128(1)][136] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(b): amended, on 1 October 2008, by [section 128(2)][134] of the Policing Act 2008 (2008 No 72).
+    Section 23(b): amended, on 1 October 2008, by [section 128(2)][136] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(c): added, on 1 October 2008, by [section 128(3)][134] of the Policing Act 2008 (2008 No 72).
+    Section 23(c): added, on 1 October 2008, by [section 128(3)][136] of the Policing Act 2008 (2008 No 72).
 
 ##### 24 False allegation or report to Police
     
@@ -963,9 +985,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1935 No 29 s 4; 1967 No 154 s 2(2)
     
-    Section 24: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 24: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 24(a): amended, on 1 October 2008, by [section 130(1)][135] of the Policing Act 2008 (2008 No 72).
+    Section 24(a): amended, on 1 October 2008, by [section 130(1)][137] of the Policing Act 2008 (2008 No 72).
 
 ##### 25 Advertising reward for stolen property
     
@@ -981,13 +1003,13 @@ An Act to reform and restate the law relating to summary offences, and to replac
 
 #### Indecency
     
-*   Heading: amended, on 28 June 2003, by [section 50(1)][136] of the Prostitution Reform Act 2003 (2003 No 28).
+*   Heading: amended, on 28 June 2003, by [section 50(1)][138] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 26 Soliciting
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 28 June 2003, by [section 48(1)(b)][137] of the Prostitution Reform Act 2003 (2003 No 28).
+    Section 26: repealed, on 28 June 2003, by [section 48(1)(b)][139] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 27 Indecent exposure
     
@@ -997,7 +1019,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 47; 1967 No 154 s 2(1)
     
-    Section 27(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 27(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 #### Loitering and trespass
 
@@ -1015,15 +1037,15 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 ss 52(i), (j), 81; 1954 No 50 s 40(1); 1967 154 s 2(1)
     
-    Section 28 heading: amended, on 1 July 2013, by [section 4(1)][138] of the Summary Offences Amendment Act 2013 (2013 No 33).
+    Section 28 heading: amended, on 1 July 2013, by [section 4(1)][140] of the Summary Offences Amendment Act 2013 (2013 No 33).
     
-    Section 28(1): amended, on 1 July 2013, by [section 4(2)][138] of the Summary Offences Amendment Act 2013 (2013 No 33).
+    Section 28(1): amended, on 1 July 2013, by [section 4(2)][140] of the Summary Offences Amendment Act 2013 (2013 No 33).
     
-    Section 28(2)(a): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 28(2)(a): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 28(2)(b): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 28(2)(b): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 28(3): amended, on 1 July 2013, by [section 4(3)][138] of the Summary Offences Amendment Act 2013 (2013 No 33).
+    Section 28(3): amended, on 1 July 2013, by [section 4(3)][140] of the Summary Offences Amendment Act 2013 (2013 No 33).
 
 ##### 29 Being found on property, etc, without reasonable excuse
     
@@ -1041,9 +1063,9 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 ss 52(1)(i), 54; 1954 No 50 s 40(1); 1967 No 154 s 2(1)
     
-    Section 29(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 29(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 29(3): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 29(3): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 30 Peeping or peering into dwellinghouse
     
@@ -1077,7 +1099,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(o); 1967 No 154 s 2(1)
     
-    Section 32(1): amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 32(1): amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 33 Billsticking
     
@@ -1089,11 +1111,11 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(y); 1967 No 154 s 2(1)
     
-    Section 33 heading: amended, on 26 June 2008, by [section 4(2)(a)][122] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 33 heading: amended, on 26 June 2008, by [section 4(2)(a)][123] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
     
-    Section 33: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 33: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
     
-    Section 33(b): repealed, on 26 June 2008, by [section 4(2)(b)][122] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
+    Section 33(b): repealed, on 26 June 2008, by [section 4(2)(b)][123] of the Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008 (2008 No 43).
 
 ##### 34 Throwing stones
     
@@ -1101,7 +1123,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(z); 1967 No 154 s 2(1)
     
-    Section 34: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 34: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 35 Setting off or throwing fireworks
     
@@ -1113,7 +1135,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(cc); 1967 No 154 s 2(1)
     
-    Section 35: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 35: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 36 Lighting fires
     
@@ -1121,7 +1143,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 s 3(e); 1967 No 154 s 2(1)
     
-    Section 36: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 36: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 37 Disturbing meetings
     
@@ -1129,7 +1151,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     Compare: 1927 No 35 ss 3(dd), 3C; 1960 No 7 s 3(1); 1967 No 154 s 2(1)
     
-    Section 37: amended, on 1 January 1998, by [section 7][106] of the Summary Offences Amendment Act 1997 (1997 No 97).
+    Section 37: amended, on 1 January 1998, by [section 7][107] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 ##### 38 Drinking in public place
     
@@ -1149,47 +1171,47 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     *   (b) has in his possession or under his control any intoxicating liquor for consumption there.
     
-    (4) This section does not apply in respect of any licensed premises under the [Sale of Liquor Act 1989][139].
+    (4) This section does not apply in respect of any licensed premises under the [Sale of Liquor Act 1989][141].
     
     Compare: 1927 No 35 s 3E; 1960 No 119 s 3(1); 1962 No 149 s 300; 1967 No 154 s 2(1); 1968 No 40 s 2(3)
     
     Section 38(1): amended, on 12 March 1987, by section 2 of the Summary Offences Amendment Act 1987 (1987 No 2).
     
-    Section 38(3): amended, on 18 December 2013, by [section 5][140] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
+    Section 38(3): amended, on 18 December 2013, by [section 5][142] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
     
-    Section 38(3): amended, on 1 December 1999, by [section 119][141] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38(3): amended, on 1 December 1999, by [section 119][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
     Section 38(3): amended, on 12 March 1987, by section 2 of the Summary Offences Amendment Act 1987 (1987 No 2).
     
-    Section 38(4): substituted, on 1 April 1990, by [section 230(1)][142] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 38(4): substituted, on 1 April 1990, by [section 230(1)][144] of the Sale of Liquor Act 1989 (1989 No 63).
 
 #### Infringement offences
     
-*   Heading: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+*   Heading: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 38A Infringement offences
     
-*   In [section 38B to 38E][63],---
+*   In [section 38B to 38E][64],---
     
     _infringement fee_, in relation to an infringement offence, means $200
     
-    _infringement offence_ means an offence under [section 38(3)][60].
+    _infringement offence_ means an offence under [section 38(3)][61].
     
-    Section 38A: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38A: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 ##### 38B Commission of infringement offence
     
 *   (1) Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against by filing a charging document under [section 14][144] of the Criminal Procedure Act 2011; or
+    *   (a) be proceeded against by filing a charging document under [section 14][146] of the Criminal Procedure Act 2011; or
     
-    *   (b) be served with an infringement notice under [section 38C][64].
+    *   (b) be served with an infringement notice under [section 38C][65].
     
-    (2) No person arrested under [section 39][68] may be served with an infringement notice under [section 38C][64].
+    (2) No person arrested under [section 39][69] may be served with an infringement notice under [section 38C][65].
     
-    Section 38B: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38B: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 38B(1)(a): replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38B(1)(a): replaced, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38C Infringement notices
     
@@ -1207,7 +1229,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][145] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][147] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -1215,41 +1237,41 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
     *   (h) such other particulars as are prescribed.
     
-    (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][145] of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
+    (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][147] of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
     
-    Section 38C: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38C: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 38C(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
+    Section 38C(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][148] of the Policing Act 2008 (2008 No 72).
     
-    Section 38C(2): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 38C(2): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 38C(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][146] of the Policing Act 2008 (2008 No 72).
+    Section 38C(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][148] of the Policing Act 2008 (2008 No 72).
 
 ##### 38D Payment of infringement fees
     
 *   All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
     
-    Section 38D: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38D: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 38D: amended, on 25 January 2005, pursuant to [section 65R(3)][147] of the Public Finance Act 1989 (1989 No 44).
+    Section 38D: amended, on 25 January 2005, pursuant to [section 65R(3)][149] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 38E Regulations
     
 *   The Governor-General may from time to time, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
     
-    Section 38E: inserted, on 1 September 1999, by [section 126][143] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 38E: inserted, on 1 September 1999, by [section 126][145] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
 
 #### Search, arrest, and jurisdiction
 
 ##### 39 Arrest
     
-*   (1) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person whom he has good cause to suspect of having committed an offence against any of the provisions of this Act except [sections 17 to 20][33], [25][44], and [32 to 38][54].
+*   (1) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person whom he has good cause to suspect of having committed an offence against any of the provisions of this Act except [sections 17 to 20][34], [25][45], and [32 to 38][55].
     
-    (2) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person who, within his view, does any act that the constable reasonably believes constitutes an offence against any of [sections 17 to 20][33], [25][44], and [32 to 38][54] and who fails to give his name and address on demand, or gives any such particulars that the constable reasonably believes to be false.
+    (2) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person who, within his view, does any act that the constable reasonably believes constitutes an offence against any of [sections 17 to 20][34], [25][45], and [32 to 38][55] and who fails to give his name and address on demand, or gives any such particulars that the constable reasonably believes to be false.
     
-    (3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of [sections 9 to 11][16], [29][50], and [30][51], is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
+    (3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of [sections 9 to 11][16], [29][51], and [30][52], is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
     
-    Compare: 1961 No 43 [s 315(2)][148]
+    Compare: 1961 No 43 [s 315(2)][150]
     
     Section 39(2): amended, on 12 March 1987, by section 3 of the Summary Offences Amendment Act 1987 (1987 No 2).
 
@@ -1257,81 +1279,81 @@ An Act to reform and restate the law relating to summary offences, and to replac
     
 *   (1) Every offence against this Act shall be punishable on conviction by a District Court presided over by a Judge.
     
-    (2) Notwithstanding subsection (1), a District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against [sections 4][6], [7][13], [17 to 20][33], [22][41], [25][44], [26][46], and [30 to 38][51].
+    (2) Notwithstanding subsection (1), a District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against [sections 4][6], [7][13], [17 to 20][34], [22][42], [25][45], [26][47], and [30 to 38][52].
     
     (3) \[Repealed\]
     
-    Compare: 1927 No 35 s 79; 1957 No 87 [s 213][105]; 1960 No 7 s 8
+    Compare: 1927 No 35 s 79; 1957 No 87 [s 213][106]; 1960 No 7 s 8
     
-    Section 40(1): amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(1): amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 40(2): amended, on 30 June 1998, by [section 3][149] of the Summary Offences Amendment Act 1998 (1998 No 80).
+    Section 40(2): amended, on 30 June 1998, by [section 3][151] of the Summary Offences Amendment Act 1998 (1998 No 80).
     
-    Section 40(3): repealed, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 40(3): repealed, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Charge alleging imitation of court documents
     
-*   In any charge for an offence against [section 18][34], it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
+*   In any charge for an offence against [section 18][35], it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
     
     Compare: 1927 No 35 s 20(4)
     
-    Section 41 heading: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41 heading: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 41: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Charge alleging false claim of qualifications
     
-*   No charging document for an offence against [section 20][36] may be filed without the consent of the Attorney-General.
+*   No charging document for an offence against [section 20][37] may be filed without the consent of the Attorney-General.
     
-    Section 42: replaced, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 42: replaced, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 No jury trial for offence of assault
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 43: repealed, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Defendant may be convicted of lesser charge of disorderly behaviour
     
 *   Where the commission of an offence against [section 3][5] is not proved, but the evidence proves an offence against [section 4][6], the defendant may be convicted of an offence against that latter section notwithstanding that the charge alleges an offence against section 3 only.
     
-    Section 44: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 44: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44A Seizure and forfeiture of burglary instruments
     
-*   If a person is found guilty of an offence against [section 14][26], the court---
+*   If a person is found guilty of an offence against [section 14][27], the court---
         
     *   (a) may order the instrument or instruments concerned to be forfeited to the Crown, or disposed of as the court directs at the expense of the person convicted; and
     
     *   (b) may also order the person to pay any reasonable costs incurred by the Commissioner of Police in holding the instrument or instruments.
     
-    Section 44A: inserted, on 18 December 2013, by [section 6][150] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
+    Section 44A: inserted, on 18 December 2013, by [section 6][152] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
 
 ##### 45 Seizure and forfeiture of alcohol
     
-*   (1) A constable who believes on reasonable grounds that any intoxicating liquor is intended for consumption in contravention of [section 38][60] may seize and remove it and the vessels containing it.
+*   (1) A constable who believes on reasonable grounds that any intoxicating liquor is intended for consumption in contravention of [section 38][61] may seize and remove it and the vessels containing it.
     
-    (2) On a person's being found guilty of an offence against [section 38][60] in respect of any intoxicating liquor seized, the intoxicating liquor and the vessels containing it are forfeit to the Crown.
+    (2) On a person's being found guilty of an offence against [section 38][61] in respect of any intoxicating liquor seized, the intoxicating liquor and the vessels containing it are forfeit to the Crown.
     
     (3) Intoxicating liquor and the vessels containing it are forfeit to the Crown if---
         
-    *   (a) it is seized by the Police from a person under the age of 18 years who is issued with an infringement notice in respect of an offence against [section 38(3)][60] alleged to have been committed by the young person's drinking it, or having it in his or her possession or control, in a public place; and
+    *   (a) it is seized by the Police from a person under the age of 18 years who is issued with an infringement notice in respect of an offence against [section 38(3)][61] alleged to have been committed by the young person's drinking it, or having it in his or her possession or control, in a public place; and
     
     *   (b) the infringement fee is later paid.
     
-    (4) If a person is acquitted of an offence against [section 38][60], intoxicating liquor seized under that section in relation to the offence---
+    (4) If a person is acquitted of an offence against [section 38][61], intoxicating liquor seized under that section in relation to the offence---
         
     *   (a) may be collected from the relevant Police station within 28 days of the acquittal by or on behalf of the person or, if the person is under the age of 18 years, by his or her parent or guardian; and 
     
     *   (b) if not collected within that time, may be disposed of in any manner the Commissioner of Police directs.
     
-    Section 45: replaced, on 18 December 2013, by [section 6][150] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
+    Section 45: replaced, on 18 December 2013, by [section 6][152] of the Summary Offences (Alcohol Reform) Amendment Act 2012 (2012 No 122).
 
 ##### 45A Attachment order default
     
 *   An employer who defaults in complying with an attachment order made in the High Court under rules of court against an employee of that employer is liable to a fine not exceeding $1,000\.
     
-    Section 45A: inserted, on 1 February 2009, by [section 11(2)][151] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
+    Section 45A: inserted, on 1 February 2009, by [section 11(2)][153] of the Judicature (High Court Rules) Amendment Act 2008 (2008 No 90).
 
 #### Amendments and repeals
 
@@ -1351,23 +1373,23 @@ An Act to reform and restate the law relating to summary offences, and to replac
 
 ##### 49 Alcoholism and Drug Addiction Act 1966 amended
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][152]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][154]_.
     
-    (2) [Section 37A(6)][152] of the Alcoholism and Drug Addiction Act 1966 (as inserted by subsection (1)) shall come into force on the date appointed for the commencement of the [Armed Forces Discipline Act 1971][153].
+    (2) [Section 37A(6)][154] of the Alcoholism and Drug Addiction Act 1966 (as inserted by subsection (1)) shall come into force on the date appointed for the commencement of the [Armed Forces Discipline Act 1971][155].
     
-    Compare: 1927 No 35 ss 41, 42, 44; 1935 No 29 s 3; 1939 No 39 [s 58(c)][154]; 1954 No 49 s 7(3); 1967 No 154 s 2(1); 1971; No 53 [s 208(1)][155]
+    Compare: 1927 No 35 ss 41, 42, 44; 1935 No 29 s 3; 1939 No 39 [s 58(c)][156]; 1954 No 49 s 7(3); 1967 No 154 s 2(1); 1971; No 53 [s 208(1)][157]
 
 ##### 50 Children and Young Persons Act 1974 amended
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 November 1989, pursuant to [section 456(1)][156] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
+    Section 50: repealed, on 1 November 1989, pursuant to [section 456(1)][158] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
 
 ##### 51 Amendments and repeals
     
-*   (1) The enactments specified in [Schedule 1][84] are hereby amended in the manner indicated in that schedule.
+*   (1) The enactments specified in [Schedule 1][85] are hereby amended in the manner indicated in that schedule.
     
-    (2) The enactments specified in [Schedule 2][85] are hereby repealed.
+    (2) The enactments specified in [Schedule 2][86] are hereby repealed.
     
     (3) Where in any enactment the term _public place_ is defined by reference to the meaning of that term in the Police Offences Act 1927 or in any specified provision or part of that Act, that term shall be deemed for the purposes of that enactment to have the meaning assigned to it by [section 2][3] of this Act.
 
@@ -1376,7 +1398,7 @@ An Act to reform and restate the law relating to summary offences, and to replac
 ## Schedule 1  
 Enactments consequentially amended
 
-[s 51(1)][83]
+[s 51(1)][84]
 
 ##### Armed Forces Discipline Act 1971 (1971 No 53)
 
@@ -1441,7 +1463,7 @@ _Amendment(s) incorporated in the Act(s)_.
 ## Schedule 2  
 Enactments consequentially repealed
 
-[s 51(2)][83]
+[s 51(2)][84]
 
 ##### Police Offences Act 1927 (1927 No 35) (Reprinted 1973, Vol 2, p 1577)
 
@@ -1486,8 +1508,8 @@ Offences involving violence
 
 [s 2(1)][3]
 
-*   Schedule 3: added, on 1 January 1998, by [section 6][157] of the Summary Offences Amendment Act 1997 (1997 No 97).
-*   Schedule 3 heading: amended, on 1 July 2013, by [section 413][97] of the Criminal Procedure Act 2011 (2011 No 81).
+*   Schedule 3: added, on 1 January 1998, by [section 6][159] of the Summary Offences Amendment Act 1997 (1997 No 97).
+*   Schedule 3 heading: amended, on 1 July 2013, by [section 413][98] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 1  
 Offences in Crimes Act 1961
@@ -1544,7 +1566,7 @@ Offences in Crimes Act 1961
 
 269 Intentional damage
 
-*   Schedule 3 Part 1: amended, on 1 October 2003, by [section 34][96] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Schedule 3 Part 1: amended, on 1 October 2003, by [section 34][97] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ## Part 2  
 Offences in Arms Act 1983
@@ -1562,7 +1584,7 @@ Serious drug offences
 
 [s 2(1)][3]
 
-*   Schedule 4: added, on 1 January 1998, by [section 6][157] of the Summary Offences Amendment Act 1997 (1997 No 97).
+*   Schedule 4: added, on 1 January 1998, by [section 6][159] of the Summary Offences Amendment Act 1997 (1997 No 97).
 
 **Provision of Misuse of Drugs Act 1975** **Subject matter**
 
@@ -1588,7 +1610,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 3) 2011][158].
+*   This Act is the [Crimes Amendment Act (No 3) 2011][160].
 
 ##### 2 Commencement
     
@@ -1619,61 +1641,63 @@ Amendments to other enactments and transitional provision
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][159] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][160] of that Act.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][161] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][162] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][161] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][162] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][163] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][164] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Summary Offences Amendment Act 2013][163] (2013 No 33)
+*   [Summary Offences (Possession of High-power Laser Pointers) Amendment Act 2014][165] (2014 No 49)
     
-    [Summary Offences (Alcohol Reform) Amendment Act 2012][164] (2012 No 122)
+    [Summary Offences Amendment Act 2013][166] (2013 No 33)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][97]
+    [Summary Offences (Alcohol Reform) Amendment Act 2012][167] (2012 No 122)
     
-    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 10][119]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][98]
     
-    Judicature (High Court Rules) Amendment Act 2008 (2008 No 90): [section 11(2)][151]
+    Crimes Amendment Act (No 3) 2011 (2011 No 79): [section 10][120]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][146], [127][165], [128][134], [130(1)][135]
+    Judicature (High Court Rules) Amendment Act 2008 (2008 No 90): [section 11(2)][153]
     
-    [Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008][166] (2008 No 43)
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][148], [127][168], [128][136], [130(1)][137]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][129]
+    [Summary Offences (Tagging and Graffiti Vandalism) Amendment Act 2008][169] (2008 No 43)
     
-    Corrections Act 2004 (2004 No 50): [section 206][100]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][131]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][99]
+    Corrections Act 2004 (2004 No 50): [section 206][101]
     
-    Crimes Amendment Act 2003 (2003 No 39): [section 34][96]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][100]
     
-    Prostitution Reform Act 2003 (2003 No 28): [sections 48(1)(b)][137], [50(1)][136]
+    Crimes Amendment Act 2003 (2003 No 39): [section 34][97]
     
-    Sale of Liquor Amendment Act 1999 (1999 No 92): [sections 119][141], [126][143]
+    Prostitution Reform Act 2003 (2003 No 28): [sections 48(1)(b)][139], [50(1)][138]
     
-    [Summary Offences Amendment Act 1999][167] (1999 No 48)
+    Sale of Liquor Amendment Act 1999 (1999 No 92): [sections 119][143], [126][145]
     
-    [Summary Offences Amendment Act 1998][168] (1998 No 80)
+    [Summary Offences Amendment Act 1999][170] (1999 No 48)
     
-    [Summary Offences Amendment Act 1997][169] (1997 No 97)
+    [Summary Offences Amendment Act 1998][171] (1998 No 80)
+    
+    [Summary Offences Amendment Act 1997][172] (1997 No 97)
     
     Penal Institutions Amendment Act 1994 (1994 No 120): section 28(1)
     
-    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][108]
+    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][109]
     
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][142]
+    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][144]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][147]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][149]
     
-    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [sections 453][120], [456(1)][156]
+    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [sections 453][121], [456(1)][158]
     
     Summary Offences Amendment Act 1989 (1989 No 19)
     
     Summary Offences Amendment Act (No 2) 1987 (1987 No 171)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][132]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][134]
     
     Summary Offences Amendment Act 1987 (1987 No 2)
     
@@ -1713,147 +1737,150 @@ Amendments to other enactments and transitional provision
 [23]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53541
 [24]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53543
 [25]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53545
-[26]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53549
-[27]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1405209
-[28]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1405210
-[29]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1635387
-[30]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038125
-[31]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53552
-[32]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53553
-[33]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53554
-[34]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53558
-[35]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53560
-[36]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53562
-[37]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038126
-[38]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53565
-[39]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038127
-[40]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53569
-[41]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53571
-[42]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53578
-[43]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53580
-[44]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53582
-[45]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038128
-[46]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53585
-[47]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53587
-[48]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038129
-[49]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53590
-[50]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53592
-[51]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53594
-[52]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53596
-[53]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038130
-[54]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53598
-[55]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53700
-[56]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53702
-[57]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53704
-[58]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53706
-[59]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53708
-[60]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53710
-[61]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038131
-[62]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53715
-[63]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53721
-[64]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53723
-[65]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53725
-[66]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53727
-[67]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038133
-[68]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53730
-[69]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53732
-[70]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53734
-[71]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53735
-[72]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53736
-[73]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53737
-[74]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM5847811
-[75]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53738
-[76]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1820618
-[77]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038134
-[78]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53741
-[79]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53744
-[80]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53746
-[81]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53753
-[82]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53756
-[83]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53759
-[84]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53761
-[85]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53762
-[86]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53763
-[87]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53770
-[88]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102132
-[89]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM327394
-[90]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3339341
-[91]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM204329
-[92]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM294857
-[93]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM341197
-[94]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM34672
-[95]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102368
-[96]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM200436
-[97]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3360714
-[98]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925808
-[99]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM205009
-[100]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM297136
-[101]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418075
-[102]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151826
-[103]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151817
-[104]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM24792
-[105]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM314305
-[106]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418080
-[107]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM312894
-[108]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM314425
-[109]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328559
-[110]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328561
-[111]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418076
-[112]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM371925
-[113]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM372120
-[114]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418077
-[115]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436222
-[116]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436587
-[117]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436264
-[118]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM72627
-[119]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3650033
-[120]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM155097
-[121]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM135350
-[122]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151814
-[123]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM329297
-[124]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM329707
-[125]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM175965
-[126]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM182904
-[127]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM433612
-[128]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM165334
-[129]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM333795
-[130]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428134
-[131]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328528
-[132]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM101353
-[133]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418078
-[134]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102378
-[135]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102383
-[136]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM198311
-[137]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM198309
-[138]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM5189136
-[139]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM165115
-[140]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925811
-[141]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM33168
-[142]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM167530
-[143]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM33185
-[144]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3360057
-[145]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM311346
-[146]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102349
-[147]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM162942
-[148]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM331230
-[149]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428135
-[150]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925812
-[151]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1463528
-[152]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM380504
-[153]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM401062
-[154]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM228687
-[155]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM404242
-[156]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM155308
-[157]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418079
-[158]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3650002
-[159]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998516
-[160]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998515
-[161]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998532
-[162]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[163]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM5189129
-[164]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925804
-[165]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102367
-[166]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151800
-[167]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM24786
-[168]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428128
-[169]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418069
+[26]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM6246401
+[27]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53549
+[28]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1405209
+[29]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1405210
+[30]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1635387
+[31]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038125
+[32]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53552
+[33]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53553
+[34]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53554
+[35]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53558
+[36]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53560
+[37]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53562
+[38]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038126
+[39]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53565
+[40]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038127
+[41]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53569
+[42]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53571
+[43]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53578
+[44]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53580
+[45]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53582
+[46]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038128
+[47]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53585
+[48]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53587
+[49]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038129
+[50]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53590
+[51]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53592
+[52]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53594
+[53]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53596
+[54]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038130
+[55]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53598
+[56]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53700
+[57]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53702
+[58]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53704
+[59]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53706
+[60]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53708
+[61]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53710
+[62]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038131
+[63]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53715
+[64]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53721
+[65]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53723
+[66]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53725
+[67]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53727
+[68]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038133
+[69]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53730
+[70]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53732
+[71]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53734
+[72]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53735
+[73]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53736
+[74]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53737
+[75]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM5847811
+[76]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53738
+[77]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM1820618
+[78]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM4038134
+[79]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53741
+[80]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53744
+[81]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53746
+[82]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53753
+[83]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53756
+[84]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53759
+[85]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53761
+[86]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53762
+[87]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53763
+[88]: http://www.legislation.govt.nz/act/public/1981/0113/latest/whole.html#DLM53770
+[89]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102132
+[90]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM327394
+[91]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3339341
+[92]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM204329
+[93]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM294857
+[94]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM341197
+[95]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM34672
+[96]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102368
+[97]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM200436
+[98]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3360714
+[99]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925808
+[100]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM205009
+[101]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM297136
+[102]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418075
+[103]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151826
+[104]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151817
+[105]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM24792
+[106]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM314305
+[107]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418080
+[108]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM312894
+[109]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM314425
+[110]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328559
+[111]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328561
+[112]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418076
+[113]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM371925
+[114]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM372120
+[115]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418077
+[116]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436222
+[117]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436587
+[118]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM436264
+[119]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM72627
+[120]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3650033
+[121]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM155097
+[122]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM135350
+[123]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151814
+[124]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM329297
+[125]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM329707
+[126]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4270908
+[127]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM175965
+[128]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM182904
+[129]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM433612
+[130]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM165334
+[131]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM333795
+[132]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428134
+[133]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM328528
+[134]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM101353
+[135]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418078
+[136]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102378
+[137]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102383
+[138]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM198311
+[139]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM198309
+[140]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM5189136
+[141]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM165115
+[142]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925811
+[143]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM33168
+[144]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM167530
+[145]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM33185
+[146]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3360057
+[147]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM311346
+[148]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102349
+[149]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM162942
+[150]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM331230
+[151]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428135
+[152]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925812
+[153]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1463528
+[154]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM380504
+[155]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM401062
+[156]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM228687
+[157]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM404242
+[158]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM155308
+[159]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418079
+[160]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM3650002
+[161]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998516
+[162]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998515
+[163]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM2998532
+[164]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[165]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4270900
+[166]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM5189129
+[167]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM4925804
+[168]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1102367
+[169]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM1151800
+[170]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM24786
+[171]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM428128
+[172]: http://www.legislation.govt.nz/act/public/1981/0113/latest/link.aspx?id=DLM418069
