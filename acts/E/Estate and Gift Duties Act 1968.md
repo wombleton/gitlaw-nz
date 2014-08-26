@@ -36,6 +36,8 @@ This Act is administered by the Inland Revenue Department.
 
 [Imposition of estate duty][5]
 
+\[Repealed\]
+
 [3][6][][6][Limitation on imposition of estate duty][6] \[Repealed\]
 
 [4][7][][7][Rates of estate duty][7] \[Repealed\]
@@ -43,6 +45,8 @@ This Act is administered by the Inland Revenue Department.
 [5][8][][8][Final balance][8] \[Repealed\]
 
 [Dutiable estate][9]
+
+\[Repealed\]
 
 [6][10][][10][Dutiable estate][10] \[Repealed\]
 
@@ -68,13 +72,19 @@ This Act is administered by the Inland Revenue Department.
 
 [Allowable debts][21]
 
+\[Repealed\]
+
 [17][22][][22][Allowable debts][22] \[Repealed\]
 
 [Matrimonial home allowance][23]
 
+\[Repealed\]
+
 [17A][24][][24][Matrimonial home allowance][24] \[Repealed\]
 
 [Valuation of dutiable estate][25]
+
+\[Repealed\]
 
 [18][26][][26][Date of valuation of property included in dutiable estate][26] \[Repealed\]
 
@@ -96,6 +106,8 @@ This Act is administered by the Inland Revenue Department.
 
 [Valuation of successions][35]
 
+\[Repealed\]
+
 [27][36][][36][Date of valuation of successions][36] \[Repealed\]
 
 [28][37][][37][Valuation of successions][37] \[Repealed\]
@@ -110,6 +122,8 @@ This Act is administered by the Inland Revenue Department.
 \[Repealed\]
 
 [Exemptions][41]
+
+\[Repealed\]
 
 [31][42][][42][Exemption for property included under section 33 of the Wills Act 1837 (UK)][42] \[Repealed\]
 
@@ -130,6 +144,8 @@ This Act is administered by the Inland Revenue Department.
 [35BA][50][][50][Exemption for base price adjustment under accrual rules in Income Tax Act 1994][50] \[Repealed\]
 
 [Reliefs][51]
+
+\[Repealed\]
 
 [35C][52][][52][Valuation of succession for purposes of relief][52] \[Repealed\]
 
@@ -517,11 +533,11 @@ An Act to consolidate and amend the law relating to estate duty and gift duty
     
     Section 2(1) **group superannuation scheme** paragraph (d): repealed, on 6 August 1976, by section 11(3) of the Superannuation Schemes Act 1976 (1976 No 3).
     
-    Section 2(1) **infant child of the deceased**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(1) **infant child of the deceased**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(1) **interest on gift duty**: inserted, on 26 July 1996, by [section 2(1)][171] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
-    Section 2(1) **Minister**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(1) **Minister**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(1) **orphan infant child**: repealed (with effect on 21 June 1979 and applying to the estates of all persons dying on or after that date), on 19 October 1979, by [section 2(1)][172] of the Estate and Gift Duties Amendment Act 1979 (1979 No 24).
     
@@ -533,39 +549,39 @@ An Act to consolidate and amend the law relating to estate duty and gift duty
     
     Section 2(1) **Taxation Review Authority**, or **Authority**: amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(2) **allowable debt**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **allowable debt**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **charitable allowance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **charitable allowance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **charitable succession**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **charitable succession**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **charitable successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **charitable successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **deceased successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **deceased successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(2) **disposition of property** paragraph (a): amended (with effect on 1 July 1994), on 14 September 1994, by section 2 of the Estate and Gift Duties Amendment Act 1994 (1994 No 78).
     
     Section 2(2) **donee**: replaced (with effect on 22 June 1972 and applying to the estates of all persons dying on or after that date), on 13 October 1972, by section 3 of the Estate and Gift Duties Amendment Act 1972 (1972 No 25).
     
-    Section 2(2) **dutiable estate**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **dutiable estate**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **final balance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **final balance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(2) **general power of appointment**: inserted, on 6 October 2009, by [section 857][174] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
     Section 2(2) **gift**: amended, on 1 October 2011, by [section 245(2)][175] of the Taxation (Tax Administration and Remedial Matters) Act 2011 (2011 No 63).
     
-    Section 2(2) **matrimonial home allowance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **matrimonial home allowance**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(2) **matrimonial property**: repealed, on 1 August 2001, by [section 64(2)][176] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
-    Section 2(2) **personal chattels**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **personal chattels**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **predecessor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **predecessor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **succession**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **succession**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 2(2) **successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 2(2) **successor**: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 4][168] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
     Section 2(3)(b): amended, on 1 April 2007, by [section 3(2)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
@@ -576,280 +592,296 @@ Estate duty
 
 \[Repealed\]
     
-*   Part 1: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Part 1: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Imposition of estate duty
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 3 Limitation on imposition of estate duty
     
 *   \[Repealed\]
     
-    Section 3: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 3: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 4 Rates of estate duty
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 4: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 5 Final balance
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 5: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Dutiable estate
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 6 Dutiable estate
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 6: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 7 Property passing under will or intestacy
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 7: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 8 General power of appointment over property
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 8: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 9 _Donatio mortis causa_
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 9: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 10 Dutiable gift made within 3 years of death
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 10: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 11 Gift with reservation
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 11: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 12 Settlement or other disposition made by deceased
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 12: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 13 Joint property
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 13: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 14 Policy of assurance
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 14: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 15 Interest purchased or provided by the deceased
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 15: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 16 Benefit under group superannuation scheme
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 16: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Allowable debts
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 17 Allowable debts
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 17: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Matrimonial home allowance
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 17A Matrimonial home allowance
     
 *   \[Repealed\]
     
-    Section 17A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 17A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Valuation of dutiable estate
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 18 Date of valuation of property included in dutiable estate
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 18: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 19 Valuation of property
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 19: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 20 Valuation of land
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 20: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 21 Valuation of land on which trees are growing
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 21: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 22 Valuation of shares
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 22: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 23 Valuation of debt due to deceased
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 23: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 24 Valuation of share or interest in partnership
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 24: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 25 Valuation of annuities and other interests for life or other periods, or expectant on death or other events
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 25: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 26 Valuation of contingent interests
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 26: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Valuation of successions
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 27 Date of valuation of successions
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 27: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 28 Valuation of successions
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 28: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 29 Valuation of succession to contingent interests
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 29: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 30 Valuation of succession to property subject to encumbrances
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 30: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ## Part 2  
 Exemptions and reliefs from estate duty
 
 \[Repealed\]
     
-*   Part 2: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Part 2: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Exemptions
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 31 Exemption for property included under section 33 of the Wills Act 1837 (UK)
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 31: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 31A Exemption for property comprised in order under Matrimonial Property Act 1976
     
 *   \[Repealed\]
     
-    Section 31A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 31A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 32 Exemption for certain pay of deceased servicemen
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 32: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 33 Exemption for certain gifts or specific bequests or devises
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 33: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 34 Exemption for certain property comprised in a settlement or other disposition of property made by deceased
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 34: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 35 Exemption for pensions payable under group superannuation schemes
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 35: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 35A Exemption for unpaid war pensions and social security benefits
     
 *   \[Repealed\]
     
-    Section 35A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 35A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 35B Exemption for certain personal chattels
     
 *   \[Repealed\]
     
-    Section 35B: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 35B: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 35BA Exemption for base price adjustment under accrual rules in Income Tax Act 1994
     
 *   \[Repealed\]
     
-    Section 35BA: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 35BA: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 #### Reliefs
+
+\[Repealed\]
     
-*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Heading: repealed, on 24 May 1999, by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 35C Valuation of succession for purposes of relief
     
 *   \[Repealed\]
     
-    Section 35C: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 35C: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 36 Relief for succession of wife
     
@@ -891,140 +923,140 @@ Exemptions and reliefs from estate duty
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 40: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 41 Relief from successive estate duties
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 41: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 42 Relief for gift duty
     
 *   \[Repealed\]
     
-    Section 42: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 42: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ## Part 3  
 Assessment and collection of estate duty
 
 \[Repealed\]
     
-*   Part 3: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+*   Part 3: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 43 Custody and release of administration by Commissioner
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 43: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 43A Commissioner may defer payment of estate duty on certain mining ventures
     
 *   \[Repealed\]
     
-    Section 43A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 43A: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 44 Estate duty payable although no administration
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 44: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 45 Notice of payments, etc, without administration to be given to Commissioner
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 45: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 46 Administrators' statement to be delivered to Commissioner
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 46: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 47 High Court may order statements to be delivered
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 47: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 48 Dealing with estate of deceased without administration
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 48: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 49 Assessment of estate duty
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 49: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 50 Composition for estate duty
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 50: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 51 Penalty on unpaid estate duty
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 51: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 52 Interest on unpaid estate duty
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 52: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 53 Estate duty payable by administrator
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 53: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 54 Proportion of estate duty also recoverable from successors
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 54: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 55 How estate duty payable as between successors
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 55: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 56 Estate duty to be a charge on the dutiable estate
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 56: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 57 Registration of charge for estate duty
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 57: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 58 Enforcement of charge for estate duty by High Court
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 58: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 59 Remission of estate duty, penalty, and interest
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 59: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ##### 60 Refund of estate duty, penalty, and interest paid in excess
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64). 
+    Section 60: repealed, on 24 May 1999 (but continuing to apply to the estate of any person who died before 17 December 1992), by [section 5][178] of the Estate Duty Repeal Act 1999 (1999 No 64).
 
 ## Part 4  
 Gift duty
@@ -1460,7 +1492,7 @@ Exemptions and reliefs from gift duty
     
     Section 73(2)(e): amended, on 1 October 1987, pursuant to [section 3][196] of the Patriotic and Canteen Funds Amendment Act 1987 (1987 No 4).
     
-    Section 73(2)(f): inserted (with effect on 1 January 1969), on 11 September 1969, by section 5(1) of the Estate and Gift Duties Amendment Act 1969 (1969 No 26). 
+    Section 73(2)(f): inserted (with effect on 1 January 1969), on 11 September 1969, by section 5(1) of the Estate and Gift Duties Amendment Act 1969 (1969 No 26).
     
     Section 73(2)(g): repealed, on 1 April 1976, by [section 93(1)][221] of the Fire Service Act 1975 (1975 No 42).
     
@@ -1478,7 +1510,7 @@ Exemptions and reliefs from gift duty
     
     Section 73(2)(k): inserted, on 10 April 1995 (applying with respect to gifts made on or after that date), by section 2(1) of the Estate and Gift Duties Amendment Act 1995 (1995 No 23).
     
-    Section 73(2)(ka): inserted, on 1 July 2003, by [section 262][225] of the Local Government Act 2002 (2002 No 84). 
+    Section 73(2)(ka): inserted, on 1 July 2003, by [section 262][225] of the Local Government Act 2002 (2002 No 84).
     
     Section 73(2)(kb): inserted (with effect on 1 July 2008), on 7 September 2010, by [section 195(4)][213] of the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 (2010 No 109).
     
@@ -1642,7 +1674,7 @@ Exemptions and reliefs from gift duty
     
     Section 75(1)(e): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
-    Section 75(2): inserted, on 2 August 1974, by section 2(1) of the Estate and Gift Duties Amendment Act (No 2) 1974 (1974 No 33). 
+    Section 75(2): inserted, on 2 August 1974, by section 2(1) of the Estate and Gift Duties Amendment Act (No 2) 1974 (1974 No 33).
     
     Section 75(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][232] of the Income Tax Act 2007 (2007 No 97).
     
@@ -1692,7 +1724,7 @@ Exemptions and reliefs from gift duty
     
     *   (b) [section 3(2)][244] of the Estate and Gift Duties Amendment Act 1993\.
     
-    Section 75A: replaced, on 1 August 2001, by [section 64(2)][176] of the Property (Relationships) Amendment Act 2001 (2001 No 5). 
+    Section 75A: replaced, on 1 August 2001, by [section 64(2)][176] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
     
     Section 75A(1) **child of the civil union**: inserted, on 26 April 2005, by [section 3(1)][177] of the Estate and Gift Duties Amendment Act 2005 (2005 No 8).
     
@@ -1885,7 +1917,7 @@ Assessment and collection of gift duty
     
     Section 82(6B): inserted, on 24 May 1999, by [section 9][256] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 82(7): replaced, on 1 October 1996, by [section 3][257] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 82(7): replaced, on 1 October 1996, by [section 3][257] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 83 Penalty on unpaid gift duty
     
@@ -2007,7 +2039,7 @@ Assessment and collection of gift duty
     
     Section 89(2): amended, on 24 May 1999, by [section 12][269] of the Estate Duty Repeal Act 1999 (1999 No 64).
     
-    Section 89(2): amended, on 26 July 1996, by [section 7(b)][268] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 89(2): amended, on 26 July 1996, by [section 7(b)][268] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
     Section 89(3): amended, on 25 January 2005, pursuant to [section 65R(3)][270] of the Public Finance Act 1989 (1989 No 44).
     
@@ -2018,13 +2050,13 @@ Objections
 
 \[Repealed\]
     
-*   Part 7: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+*   Part 7: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 90 Objections to assessments
     
 *   \[Repealed\]
     
-    Section 90: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 90: repealed, on 1 October 1996, by [section 8(1)][272] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
 
 ##### 90A Application of Parts 4A and 8A of Tax Administration Act 1994
     
@@ -2032,7 +2064,7 @@ Objections
     
     (2) Subsection (1) does not apply to any notice of amended assessment issued by the Commissioner under this Act on or after 1 October 1996, if, before that date, the person who has been assessed has made a competent objection to a notice of assessment that precedes the notice of amended assessment.
     
-    Section 90A: inserted, on 1 October 1996, by [section 9][274] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62). 
+    Section 90A: inserted, on 1 October 1996, by [section 9][274] of the Estate and Gift Duties Amendment Act 1996 (1996 No 62).
     
     Section 90A(1): amended, on 24 October 2001 (applying to the 2002--03 and subsequent income years) by [section 246(1)][275] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
@@ -2273,7 +2305,7 @@ Present value of annuity or other interest for life of male or expectant on deat
 
 5619.0612.107930.394600.60540
 
-5718.3211.816220.409190.59081 
+5718.3211.816220.409190.59081
 
 5817.6011.523380.423830.57617
 
@@ -2889,7 +2921,7 @@ Scale of rates of gift duty
 
 *   Schedule 3: replaced, on 1 April 1984 (rates of gift duty applying to all dutiable gifts made on or after that day), by [section 5(1)][281] of the Estate and Gift Duties Amendment Act 1983 (1983 No 3).
 
-**Value of item b in section 62**Rate 
+**Value of item b in section 62**Rate
 
 Note: _Excess_ means excess of the value in complete dollars
 
