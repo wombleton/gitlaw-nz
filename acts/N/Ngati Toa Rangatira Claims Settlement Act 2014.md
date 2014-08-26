@@ -1547,7 +1547,7 @@ Cultural redress
     
     *   (c) the Environment Court:
     
-    *   (d) the Historic Places Trust:
+    *   (d) Heritage New Zealand Pouhere Taonga:
     
     *   (e) parties to proceedings before those bodies:
     
