@@ -844,7 +844,7 @@ Preliminary provisions
     
     *   (f) retirement lump sum (subpart 7); and
     
-    *   (g) funeral grants ([subpart 8][195]).
+    *   (g) funeral expenses ([subpart 8][195]).
     
     (10) [Part 6][204] provides an entitlement to a veteran's pension to certain veterans and their spouses and partners who have reached the New Zealand superannuation qualification age.
     
@@ -1722,11 +1722,9 @@ Scheme One
     
     *   (c) weekly income compensation ([subpart 4][76]); and
     
-    *   (d) retirement lump sum ([subpart 5][84]); and
+    *   (d) entitlements for spouses, partners, children, and dependants of deceased veterans ([subpart 5][84]); and
     
-    *   (e) entitlements for spouses, partners, children, and dependants of deceased veterans ([subpart 5][84]); and
-    
-    *   (f) children's bursaries ([subpart 6][103]).
+    *   (e) children's bursaries ([subpart 6][103]).
     
     
 
@@ -2365,9 +2363,7 @@ Scheme Two
     
     *   (c) payments for permanent impairment ([subpart 4][122]); and
     
-    *   (d) weekly compensation ([subpart 5][131]); and
-    
-    *   (e) retirement lump sums ([subpart 5][131]).
+    *   (d) weekly compensation ([subpart 5][131]).
     
     
 
@@ -2650,7 +2646,7 @@ Entitlements common to Scheme One and Scheme Two
     
     *   (e) motor vehicle grants ([subpart 6][187]); and
     
-    *   (f) funeral grants ([subpart 8][195]).
+    *   (f) funeral expenses ([subpart 8][195]).
     
     
 
@@ -3877,7 +3873,7 @@ Veteran's pension
 
 ##### 171 Abatement of veteran's pension
     
-*   (1) The amount payable to a veteran who is entitled to a veteran's pension under [section 162][211] at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate is subject to abatement in accordance with Income Test 3\.
+*   (1) The amount payable to a veteran who is entitled to a veteran's pension under [section 161][210] at the relationship (partner not receiving superannuation or pension) rate or the relationship (partner not receiving superannuation or pension) legacy rate is subject to abatement in accordance with Income Test 3\.
     
     (2) The amount payable to a veteran who is entitled to a veteran's pension under [section 164][214] is subject to abatement in accordance with---
         
@@ -5422,73 +5418,71 @@ Miscellaneous
     
     *   (8) [section 56][73] (rates of disablement pension):
     
-    *   (9) [section 57][74] (asset assessment):
+    *   (9) [section 66][86] (rate of surviving spouse or partner pension):
     
-    *   (10) [section 66][86] (rate of surviving spouse or partner pension):
+    *   (10) [section 72][93] (rate of children's pension):
     
-    *   (11) [section 72][93] (rate of children's pension):
+    *   (11) [section 76][98] (rate of dependant's pension):
     
-    *   (12) [section 76][98] (rate of dependant's pension):
+    *   (12) [section 81][104] (rate of children's bursary):
     
-    *   (13) [section 81][104] (rate of children's bursary):
+    *   (13) [section 88][114] (transport costs associated with treatment):
     
-    *   (14) [section 88][114] (transport costs associated with treatment):
+    *   (14) [section 90][117] (vocational services and assistance for spouse or partner of veteran):
     
-    *   (15) [section 90][117] (vocational services and assistance for spouse or partner of veteran):
+    *   (15) [section 96][125] (election to receive lump sum payment):
     
-    *   (16) [section 96][125] (election to receive lump sum payment):
+    *   (16) [section 98][128] (lump sum payments):
     
-    *   (17) [section 98][128] (lump sum payments):
+    *   (17) [section 109][144] (cost of ancillary services related to treatment):
     
-    *   (18) [section 98][128] (asset assessment):
+    *   (18) [section 140][180] (limits on scope of independence programme):
     
-    *   (19) [section 109][144] (cost of ancillary services related to treatment):
+    *   (19) [section 144][184] (veterans' independence programme):
     
-    *   (20) [section 140][180] (limits on scope of independence programme):
+    *   (20) [section 145][186] (aids and appliances):
     
-    *   (21) [section 144][184] (veterans' independence programme):
+    *   (21) [section 148][190] (motor vehicle grants):
     
-    *   (22) [section 145][186] (aids and appliances):
+    *   (22) [section 150][193] (asset assessment):
     
-    *   (23) [section 148][190] (motor vehicle grants):
+    *   (23) section 151 (retirement lump sum):
     
-    *   (24) section 151 (retirement lump sum):
+    *   (24) [section 153][197] (funeral expenses if death due to qualifying service and maximum amount for transferring body):
     
-    *   (25) [section 153][197] (funeral expenses if death due to qualifying service and maximum amount for transferring body):
+    *   (25) [section 154][198] (funeral expenses if death not due to qualifying service):
     
-    *   (26) [section 154][198] (funeral expenses if death not due to qualifying service):
+    *   (26) [section 156][201] (provision of plaques and headstones):
     
-    *   (27) [section 156][201] (provision of plaques and headstones):
+    *   (27) [section 157][203] (provision of financial advice):
     
-    *   (28) [section 157][203] (provision of financial advice):
+    *   (28) [section 169][221] (rates of veteran's pension):
     
-    *   (29) [section 169][221] (rates of veteran's pension):
+    *   (29) [section 170][222] (annual adjustment of rates of veteran's pension):
     
-    *   (30) [section 170][222] (annual adjustment of rates of veteran's pension):
+    *   (30) [section 174][227] (lump sum payment on death):
     
-    *   (31) [section 174][227] (lump sum payment on death):
+    *   (31) [section 208][265] (payments to persons other than claimants):
     
-    *   (32) [section 208][265] (payments to persons other than claimants):
+    *   (32) [section 212][269] (fees and allowances of assessors):
     
-    *   (33) [section 212][269] (fees and allowances of assessors):
+    *   (33) [section 216][276] (procedure for reviews):
     
-    *   (34) [section 216][276] (procedure for reviews):
+    *   (34) [section 221][281] (conduct of medical assessments):
     
-    *   (35) [section 221][281] (conduct of medical assessments):
+    *   (35) [section 229][291] (procedure for appeals):
     
-    *   (36) [section 229][291] (procedure for appeals):
+    *   (36) [section 235][297] (reimbursement of costs and travelling expenses of appellant, witnesses, and other participants):
     
-    *   (37) [section 235][297] (reimbursement of costs and travelling expenses of appellant, witnesses, and other participants):
+    *   (37) [section 240][303] (procedure of appeal board):
     
-    *   (38) [section 240][303] (procedure of appeal board):
+    *   (38) [section 247][312] (procedure of advisory board):
     
-    *   (39) [section 247][312] (procedure of advisory board):
+    *   (39) [section 254][320] (procedure of advisory panel):
     
-    *   (40) [section 254][320] (procedure of advisory panel):
+    *   (40) [Schedule 1][356] (application, savings, and transitional provisions):
     
-    *   (41) [Schedule 1][356] (application, savings, and transitional provisions):
-    
-    *   (42) [Schedule 2][357] (entitlements).
+    *   (41) [Schedule 2][357] (entitlements).
     
     (2) The Governor-General may, by Order in Council, make regulations for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
@@ -5710,7 +5704,7 @@ Miscellaneous
     
     *   (d) a veteran's pension under---
             
-        *   (i) [section 162][211] or [163][212] if the pension is subject to abatement under [section 171][223](1); or
+        *   (i) [section 161][210] if the pension is subject to abatement under [section 171][223](1); or
         
         *   (ii) [section 164][214]:
         
@@ -6008,7 +6002,7 @@ Transitional provisions
 ## Schedule 2  
 Entitlements
 
-[ss 2(3)(c)][1], [4(9)(b)][5], [30(1)][42], [31(1)(m), (n)][43], [41(2)][56], [86(2)][111], [106(2)(b)][140], [117(4)][154], [118(3)(a)][155], [121(2), (4)(b)][159], [139(2)][179], [154(2)(b)(ii)][198], [157(1)(a)(ii)][203], [212(1)][269], [265(1)(42)][335], [267(1)][337], [268(1)][338], [269(2)(e), (f), (h)][339]
+[ss 2(3)(c)][1], [4(9)(b)][5], [30(1)][42], [31(1)(m), (n)][43], [41(2)][56], [86(2)][111], [106(2)(b)][140], [117(4)][154], [118(3)(a)][155], [121(2), (4)(b)][159], [139(2)][179], [154(2)(b)(ii)][198], [157(1)(a)(ii)][203], [212(1)][269], [265(1)(41)][335], [267(1)][337], [268(1)][338], [269(2)(e), (f), (h)][339]
 
 ## Contents
 
@@ -8035,7 +8029,7 @@ In [section 39D(b)][672], replace ""War Pensions Act 1954, apart from a child's 
 
 ##### Section 61DA
 
-In [section 61DA(a)][673], after ""2001"", insert ""or [clause 58][392] of Schedule 2 of the Veterans' Support Act 2014"".
+In [section 61DA(a)][673], after ""2001"", insert ""or [subpart 8][195] of Part 5 of the Veterans' Support Act 2014"".
 
 In [section 61DA(b)][673], replace ""section 74A of the War Pensions Act 1954"" with ""[section 174][227] of the Veterans' Support Act 2014"".
 
