@@ -1,5 +1,5 @@
 Reprint  
-as at 31 December 2013
+as at 30 November 2012
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
 
-Note 4 at the end of this reprint provides a list of the amendments incorporated.
+A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry for Primary Industries.
+This Act is administered by the Ministry of Agriculture and Forestry.
 
 ---
 
@@ -367,33 +367,31 @@ This Act is administered by the Ministry for Primary Industries.
 
 [Trading among farmers][162]
 
-\[Repealed\]
+[109A][163][][163][Subpart 5 of Part 2 provisions do not apply][163]
 
-[109A][163][][163][Subpart 5 of Part 2 provisions do not apply][163] \[Repealed\]
+[109B][164][][164][Order in Council specifying date on and from which specified subpart 5 provisions do not apply][164]
 
-[109B][164][][164][Order in Council specifying date on and from which specified subpart 5 provisions do not apply][164] \[Repealed\]
+[109C][165][][165][When Minister must recommend that Order in Council be made][165]
 
-[109C][165][][165][When Minister must recommend that Order in Council be made][165] \[Repealed\]
+[109D][166][][166][Preconditions for making Order in Council][166]
 
-[109D][166][][166][Preconditions for making Order in Council][166] \[Repealed\]
+[109E][167][][167][Requirements for notice given by new co-op to chief executive][167]
 
-[109E][167][][167][Requirements for notice given by new co-op to chief executive][167] \[Repealed\]
+[109F][168][][168][Notice by new co-op to chief executive triggering repeal of section 109A][168]
 
-[109F][168][][168][Notice by new co-op to chief executive triggering repeal of section 109A][168] \[Repealed\]
+[109G][169][][169][Repeal of section 109A][169]
 
-[109G][169][][169][Repeal of section 109A][169] \[Repealed\]
+[109H][170][][170][Revocation of order made under section 109G][170]
 
-[109H][170][][170][Revocation of order made under section 109G][170] \[Repealed\]
+[109I][171][][171][Conditions of making order under section 109G(2)][171]
 
-[109I][171][][171][Conditions of making order under section 109G(2)][171] \[Repealed\]
+[109J][172][][172][Chief executive may give new co-op notice requiring verification][172]
 
-[109J][172][][172][Chief executive may give new co-op notice requiring verification][172] \[Repealed\]
+[109K][173][][173][When sections 109L to 109N apply][173]
 
-[109K][173][][173][When sections 109L to 109N apply][173] \[Repealed\]
+[109L][174][][174][New co-op's obligations in relation to market in co-operative shares and to new co-op fund][174]
 
-[109L][174][][174][New co-op's obligations in relation to market in co-operative shares and to new co-op fund][174] \[Repealed\]
-
-[109M][175][][175][Restrictions on new co-op][175] \[Repealed\]
+[109M][175][][175][Restrictions on new co-op][175]
 
 [109N][176][][176][Expiry of sections 109A to 109M][176]
 
@@ -605,78 +603,80 @@ This Act is administered by the Ministry for Primary Industries.
 
 [161E][279][][279][Application of Companies Act 1993][279]
 
-[162][280][][280][Shareholders' Council of new co-op][280]
+[161F][280][][280][Application of section 20(2) and (3) of Co-operative Companies Act 1996][280]
 
-[163][281][][281][General regulations][281]
+[162][281][][281][Shareholders' Council of new co-op][281]
 
-[164][282][][282][Validation of issue of certain shares][282]
+[163][282][][282][General regulations][282]
 
-[Repeals, revocations, and amendments][283]
+[164][283][][283][Validation of issue of certain shares][283]
 
-[165][284][][284][Repeals, revocations, and amendments][284]
+[Repeals, revocations, and amendments][284]
 
-[Transitional provisions][285]
+[165][285][][285][Repeals, revocations, and amendments][285]
 
-\[Repealed\]
-
-[166][286][][286][Board must supply information about export permits][286] \[Repealed\]
-
-[Savings provisions][287]
-
-[167][288][][288][Saving relating to export produce][288] \[Repealed\]
-
-[168][289][][289][Annual report and statements for season ending 31 May 2001][289] \[Repealed\]
-
-[169][290][][290][Saving relating to superannuation schemes][290]
-
-[Schedule 1][291]  
-[Specified provisions of new co-op constitution][291]
+[Transitional provisions][286]
 
 \[Repealed\]
 
-[Schedule 2][292]  
-[Amendments to Dairy Board Act 1961 taking effect on amalgamation date][292]
+[166][287][][287][Board must supply information about export permits][287] \[Repealed\]
+
+[Savings provisions][288]
+
+[167][289][][289][Saving relating to export produce][289] \[Repealed\]
+
+[168][290][][290][Annual report and statements for season ending 31 May 2001][290] \[Repealed\]
+
+[169][291][][291][Saving relating to superannuation schemes][291]
+
+[Schedule 1][292]  
+[Specified provisions of new co-op constitution][292]
 
 \[Repealed\]
 
-[Schedule 3][293]  
-[Provisions applying in relation to conversion of Board][293]
+[Schedule 2][293]  
+[Amendments to Dairy Board Act 1961 taking effect on amalgamation date][293]
 
 \[Repealed\]
 
-[Schedule 4][294]  
-[Default procedure for compulsory buy-out of exiting companies before conversion of Board into company][294]
+[Schedule 3][294]  
+[Provisions applying in relation to conversion of Board][294]
 
 \[Repealed\]
 
-[Schedule 5][295]  
-[Designated markets for initial and interim licences][295]
-
-[Schedule 5A][296]  
-[Designated markets following expiry of initial and interim licences][296]
-
-[Schedule 5B][297]  
-[Rules for allocation of export licences to multiple participants for designated markets in Schedule 5A][297]
-
-[Schedule 5C][298]  
-[Form of statutory declaration][298]
-
-[Schedule 5D][299]  
-[Search warrant][299]
+[Schedule 4][295]  
+[Default procedure for compulsory buy-out of exiting companies before conversion of Board into company][295]
 
 \[Repealed\]
 
-[Schedule 5E][300]  
-[Incorporation of material by reference in regulations][300]
+[Schedule 5][296]  
+[Designated markets for initial and interim licences][296]
 
-[Schedule 6][301]  
-[Orders revoked][301]
+[Schedule 5A][297]  
+[Designated markets following expiry of initial and interim licences][297]
 
-[Schedule 7][302]  
-[Enactments amended][302]
+[Schedule 5B][298]  
+[Rules for allocation of export licences to multiple participants for designated markets in Schedule 5A][298]
 
-[Schedule 8][303]  
-[Orders amended][303]
+[Schedule 5C][299]  
+[Form of statutory declaration][299]
+
+[Schedule 5D][300]  
+[Search warrant][300]
+
+\[Repealed\]
+
+[Schedule 5E][301]  
+[Incorporation of material by reference in regulations][301]
+
+[Schedule 6][302]  
+[Orders revoked][302]
+
+[Schedule 7][303]  
+[Enactments amended][303]
+
+[Schedule 8][304]  
+[Orders amended][304]
 
 ---
 
@@ -693,15 +693,15 @@ Preliminary provisions
         
     *   (a) Part 1 (preliminary provisions):
     
-    *   (b) [subpart 1][9] of Part 2 (authorisations under [Commerce Act 1986][304]), except for [section 8][11]:
+    *   (b) [subpart 1][9] of Part 2 (authorisations under [Commerce Act 1986][305]), except for [section 8][11]:
     
     *   (c) [subpart 2][15] of Part 2 (matters relating to New Zealand Dairy Board):
     
     *   (d) [sections 157 to 159][266] (The New Zealand Dairy Research Institute):
     
-    *   (e) [section 164][282] (validation of issue of certain shares):
+    *   (e) [section 164][283] (validation of issue of certain shares):
     
-    *   (f) [section 166][286] (Board must supply information about export permits).
+    *   (f) [section 166][287] (Board must supply information about export permits).
     
     (2) [Section 160][272] (sharemilkers) comes into force on the 21st working day after the date on which this Act receives the Royal assent.
     
@@ -737,9 +737,9 @@ Preliminary provisions
     
     *   (i) require co-operative dairy companies to enable supplying shareholders to transfer their shares to sharemilkers by agreement.
     
-    Section 4(a): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 4(a): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 4(c): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 4(c): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 5 Interpretation
     
@@ -765,7 +765,7 @@ Preliminary provisions
     
     _chief executive_ means the chief executive of the Ministry
     
-    _Commission_ means the Commerce Commission established by [section 8][306] of the Commerce Act 1986
+    _Commission_ means the Commerce Commission established by [section 8][307] of the Commerce Act 1986
     
     _commodity_ means a product made by the processing of milk that is---
         
@@ -775,7 +775,7 @@ Preliminary provisions
     
     _competent authority_ means the department of State that is for the time being responsible for the administration of the Animal Products Act 1999
     
-    _control_ has the meaning given by [sections 5 to 7][307] of the Companies Act 1993
+    _control_ has the meaning given by [sections 5 to 7][308] of the Companies Act 1993
     
     _conversion date_ means 27 September 2002
     
@@ -789,7 +789,7 @@ Preliminary provisions
     
     _core database_ means the part of the database operated by LIC that comprises the following information:
         
-    *   (a) information provided to LIC under the [Herd Testing Regulations 1958][308] or under the terms and conditions of any licence issued under those regulations:
+    *   (a) information provided to LIC under the [Herd Testing Regulations 1958][309] or under the terms and conditions of any licence issued under those regulations:
     
     *   (b) information provided to LIC under any regulations made under this Act
     
@@ -815,9 +815,9 @@ Preliminary provisions
     
     _designated market_ means,---
         
-    *   (a) for the initial and interim licences, a market listed in [Schedule 5][295]; and
+    *   (a) for the initial and interim licences, a market listed in [Schedule 5][296]; and
     
-    *   (b) for the licences that apply following the initial and interim licences, a market listed in [Schedule 5A][296]
+    *   (b) for the licences that apply following the initial and interim licences, a market listed in [Schedule 5A][297]
     
     _eligible participant_ means a person who---
         
@@ -867,13 +867,13 @@ Preliminary provisions
         
     *   (a) the appointment of a receiver in respect of all or substantially all of the property of the Board; or
     
-    *   (b) the appointment of a liquidator or interim liquidator under [Part 16][309] of the Companies Act 1993; or
+    *   (b) the appointment of a liquidator or interim liquidator under [Part 16][310] of the Companies Act 1993; or
     
-    *   (c) removal from the register of companies kept pursuant to [section 360(1)(a)][310] of the Companies Act 1993; or
+    *   (c) removal from the register of companies kept pursuant to [section 360(1)(a)][311] of the Companies Act 1993; or
     
-    *   (d) the appointment of a statutory manager under [Part 3][311] of the Corporations (Investigation and Management) Act 1989
+    *   (d) the appointment of a statutory manager under [Part 3][312] of the Corporations (Investigation and Management) Act 1989
     
-    _interconnected body corporate_ has the meaning given by [section 2(7)][312] of the Commerce Act 1986
+    _interconnected body corporate_ has the meaning given by [section 2(7)][313] of the Commerce Act 1986
     
     _interim licence_ means, in respect of exports to designated markets in---
         
@@ -899,7 +899,7 @@ Preliminary provisions
     
     _LIC board_ means the board of directors of LIC
     
-    _listed_ has the same meaning as in [section 2(1)][313] of the Securities Markets Act 1988
+    _listed_ has the same meaning as in [section 2(1)][314] of the Securities Markets Act 1988
     
     _marae_ includes the area of land on which all buildings such as wharenui (meeting houses), wharekai (dining rooms), ablution blocks, and any other associated buildings are situated
     
@@ -915,7 +915,7 @@ Preliminary provisions
     
     _new co-op_ means the amalgamated company under the new co-op amalgamation; and includes any company resulting from a further amalgamation involving new co-op
     
-    _new co-op amalgamation_ means the amalgamation that occurs if The New Zealand Co-operative Dairy Company Limited, Kiwi Co-operative Dairies Limited, and Fonterra Co-operative Group Limited amalgamate under [Part 13][314] of the Companies Act 1993
+    _new co-op amalgamation_ means the amalgamation that occurs if The New Zealand Co-operative Dairy Company Limited, Kiwi Co-operative Dairies Limited, and Fonterra Co-operative Group Limited amalgamate under [Part 13][315] of the Companies Act 1993
     
     _new co-op fund_ means the fund referred to in [section 109D(1)(b)][166]
     
@@ -927,7 +927,7 @@ Preliminary provisions
     
     _panel_ means the Milk Price Panel established under [section 150D][234]
     
-    _person eligible to hold an export licence_ means a natural person, unincorporated body, or body corporate who is registered to export under [Part 5][315] of the Animal Products Act 1999
+    _person eligible to hold an export licence_ means a natural person, unincorporated body, or body corporate who is registered to export under [Part 5][316] of the Animal Products Act 1999
     
     _price range_, in relation to an application under [section 73][119] or a notice of withdrawal under [section 97][148], means the range of prices from 7.5% more than the published price at the time that the application is made or the notice is given to 7.5% less than the published price at that time
     
@@ -951,7 +951,7 @@ Preliminary provisions
     
     *   (b) Japan, a period of 12 months beginning on 1 April and ending on 31 March in the following year
     
-    _registered market_ has the same meaning as in [section 2(1)][313] of the Securities Markets Act 1988
+    _registered market_ has the same meaning as in [section 2(1)][314] of the Securities Markets Act 1988
     
     _relative_, in relation to any person, means---
         
@@ -969,13 +969,13 @@ Preliminary provisions
     
     *   (g) a parent, step-parent, brother, or sister, including a stepbrother or stepsister, of that person's spouse, civil union partner, or de facto partner
     
-    _relevant interest_ has the same meaning as in [section 2(1)][313] of the Securities Markets Act 1988
+    _relevant interest_ has the same meaning as in [section 2(1)][314] of the Securities Markets Act 1988
     
     _season_ means a period of 12 months beginning on 1 June in a year and ending on 31 May in the following year
     
     _shareholding farmer_ means a dairy farmer who is registered as the holder of co-operative shares
     
-    _sharemilker_ has the meaning given by [section 2][316] of the Sharemilking Agreements Act 1937
+    _sharemilker_ has the meaning given by [section 2][317] of the Sharemilking Agreements Act 1937
     
     _specified subpart 5 provisions_ means the provisions specified in [section 109A][163]
     
@@ -985,9 +985,9 @@ Preliminary provisions
     
     _tariff quota_ includes trade restrictions with similar effect to a tariff quota
     
-    _trade_ has the same meaning as in [section 2(1)][313] of the Securities Markets Act 1988, and for the avoidance of doubt includes exchange
+    _trade_ has the same meaning as in [section 2(1)][314] of the Securities Markets Act 1988, and for the avoidance of doubt includes exchange
     
-    _transacting shareholder_ has the meaning given by [section 4][317] of the Co-operative Companies Act 1996
+    _transacting shareholder_ has the meaning given by [section 4][318] of the Co-operative Companies Act 1996
     
     _year_ means a calendar year ending on 31 December.
     
@@ -1001,77 +1001,77 @@ Preliminary provisions
     
     *   (d) either of them is able, directly or indirectly, to exert a substantial degree of influence over the activities of the other.
     
-    Section 5(1) **allocation period**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **allocation period**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **base milk price**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **base milk price**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **chief executive**: substituted, on 15 December 2007, by [section 4(2)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **chief executive**: substituted, on 15 December 2007, by [section 4(2)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **commodity**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **commodity**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **competent authority**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **competent authority**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **conversion date**: replaced, on 27 July 2012, by [section 4(2)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **conversion date**: replaced, on 27 July 2012, by [section 4(2)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **designated market**: substituted, on 15 December 2007, by [section 4(3)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **designated market**: substituted, on 15 December 2007, by [section 4(3)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **eligible participant**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **eligible participant**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **exiting company**: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **exiting company**: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **export licence** paragraph (b): substituted, on 15 December 2007, by [section 4(4)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **export licence** paragraph (b): substituted, on 15 December 2007, by [section 4(4)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **general export licence**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **general export licence**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **holder**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **holder**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **independent**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **independent**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **initial licence**: amended, on 15 December 2007, by [section 4(5)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **initial licence**: amended, on 15 December 2007, by [section 4(5)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **interim licence**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **interim licence**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **interim period**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **interim period**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **listed**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **listed**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **market maker in co-operative shares**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **market maker in co-operative shares**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **marae**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **marae**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **milk price manual**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **milk price manual**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **milksolids**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **milksolids**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **Ministry**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **Ministry**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **new co-op fund**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **new co-op fund**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **new co-op fund securities**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **new co-op fund securities**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **panel** second definition: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **panel** second definition: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **peak note price**: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **peak note price**: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **peak note standard**: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **peak note standard**: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **peak notes**: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **peak notes**: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **person eligible to hold an export licence**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **person eligible to hold an export licence**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 5(1) **publicly available**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **publicly available**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **registered market**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **registered market**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **relative**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **relative**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **relevant interest**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **relevant interest**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **specified subpart 5 provisions**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **specified subpart 5 provisions**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **trade**: inserted, on 27 July 2012, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 5(1) **trade**: inserted, on 27 July 2012, by [section 4(1)][320] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 5(1) **quota year**: inserted, on 15 December 2007, by [section 4(1)][318] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 5(1) **quota year**: inserted, on 15 December 2007, by [section 4(1)][319] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 6 Act binds the Crown
     
@@ -1084,127 +1084,127 @@ Restructuring and regulation of dairy industry
 
 \[Repealed\]
     
-*   Subpart 1: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Subpart 1: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 7 Authorisations granted
     
 *   \[Repealed\]
     
-    Section 7: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 7: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 8 Assets and shares acquired after 15 August 2001
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 8: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 9 Undertaking to dispose of shares in New Zealand Dairy Foods Limited
     
 *   \[Repealed\]
     
-    Section 9: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 9: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 10 Nature of obligation
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 10: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 11 New co-op's constitution
     
 *   \[Repealed\]
     
-    Section 11: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 11: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ### Subpart 2---Matters relating to New Zealand Dairy Board
 
 \[Repealed\]
     
-*   Subpart 2: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Subpart 2: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 12 Purpose
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 12: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Amendments to Dairy Board Act 1961 taking effect on amalgamation date
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 13 Amendments to Dairy Board Act 1961
     
 *   \[Repealed\]
     
-    Section 13: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 13: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Conversion of Board into company after 1 year
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 14 Conversion of Board into company
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 14: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Exiting company buy-out agreements
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 15 Agreement for transfer or surrender
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 15: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Default procedure for buy-out of exiting companies' interests in Board
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 16 Default procedure for buy-out of exiting companies' interests in Board
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 16: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 17 Notice to stop default procedure
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 17: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 18 Default procedure to stop if new co-op amalgamation does not take effect
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 18: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Miscellaneous provisions relating to exiting company buy-out
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 19 Transfer of shares
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 19: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 20 Cancellation of shares surrendered
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 20: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ### Subpart 3---International trade with designated markets
 
@@ -1224,13 +1224,13 @@ Restructuring and regulation of dairy industry
     
     (2) The Crown owns the rights to secure the economic benefits deriving from the tariff quotas referred to in subsection (1).
     
-    (3) Those rights in respect of designated markets described in [Schedules 5][295] and [5A][296] are or will be allocated as provided by this subpart.
+    (3) Those rights in respect of designated markets described in [Schedules 5][296] and [5A][297] are or will be allocated as provided by this subpart.
     
     (4) This subpart does not prevent the Crown from engaging in international trade negotiations for the purpose of establishing, amending, or terminating tariff quotas.
     
     Compare: 1999 No 97 s 12
     
-    Section 21(3): amended, on 15 December 2007, by [section 5][320] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 21(3): amended, on 15 December 2007, by [section 5][321] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 22 Overview
     
@@ -1240,19 +1240,19 @@ Restructuring and regulation of dairy industry
     
     (3) [Sections 26 to 42][39] contain provisions relating to further export licences, restrictions on dealing with export licences, transferring export licences, enforcement, cost recovery, Ministerial directions on international obligations, and other miscellaneous provisions.
     
-    Section 22(3): substituted, on 15 December 2007, by [section 6][321] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 22(3): substituted, on 15 December 2007, by [section 6][322] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 23 Restrictions on exports to designated markets
     
-*   (1) A person must not export directly or indirectly to a designated market any dairy product that is described in [Schedules 5][295] and [5A][296] for that market unless he or she---
+*   (1) A person must not export directly or indirectly to a designated market any dairy product that is described in [Schedules 5][296] and [5A][297] for that market unless he or she---
         
     *   (a) is the holder of a current export licence; and
     
     *   (b) exports product in accordance with that licence in respect to the product and market.
     
-    (2) No export restrictions apply to a designated market listed in [Schedule 5][295] after the expiry of the applicable initial and interim periods unless that designated market is listed in [Schedule 5A][296].
+    (2) No export restrictions apply to a designated market listed in [Schedule 5][296] after the expiry of the applicable initial and interim periods unless that designated market is listed in [Schedule 5A][297].
     
-    Section 23: substituted, on 15 December 2007, by [section 7][322] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 23: substituted, on 15 December 2007, by [section 7][323] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 #### Export licences conferred on Board
 
@@ -1312,11 +1312,11 @@ Restructuring and regulation of dairy industry
         
         
     
-    Section 25 heading: substituted, on 15 December 2007, by [section 8(1)][323] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 25 heading: substituted, on 15 December 2007, by [section 8(1)][324] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 25(1): substituted, on 15 December 2007, by [section 8(2)][323] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 25(1): substituted, on 15 December 2007, by [section 8(2)][324] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 25(2): amended, on 15 December 2007, by [section 8(3)][323] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 25(2): amended, on 15 December 2007, by [section 8(3)][324] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 25A Export licence conferred on Board by section 24 or 25 must be recorded in register of export licence holders
     
@@ -1324,7 +1324,7 @@ Restructuring and regulation of dairy industry
     
     (2) The Board must supply all necessary information to the chief executive for the purpose of subsection (1).
     
-    Section 25A: inserted, on 15 December 2007, by [section 9][324] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 25A: inserted, on 15 December 2007, by [section 9][325] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 26 Later allocation of export licences
     
@@ -1332,23 +1332,23 @@ Restructuring and regulation of dairy industry
         
     *   (a) any rights in respect of designated markets that become available as a result of the expiry of the initial period under [section 24][36]:
     
-    *   (b) any rights in respect of designated markets in the European Communities listed in [Schedule 5A][296] that become available as a result of reductions under [section 25][37]:
+    *   (b) any rights in respect of designated markets in the European Communities listed in [Schedule 5A][297] that become available as a result of reductions under [section 25][37]:
     
-    *   (c) any quantities that become available as a result of increases in rights in respect of designated markets listed in [Schedule 5A][296] after the initial periods, except where the quantities are reallocated in accordance with [section 27A(2)][41]:
+    *   (c) any quantities that become available as a result of increases in rights in respect of designated markets listed in [Schedule 5A][297] after the initial periods, except where the quantities are reallocated in accordance with [section 27A(2)][41]:
     
-    *   (d) any rights in respect of designated markets listed in [Schedule 5A][296] that become available at the expiry of any other allocations.
+    *   (d) any rights in respect of designated markets listed in [Schedule 5A][297] that become available at the expiry of any other allocations.
     
-    (2) Following the expiry of the initial and interim licences, export licences for the designated markets listed in [Schedule 5A][296] must be allocated or reallocated by, or on behalf of, the Crown.
+    (2) Following the expiry of the initial and interim licences, export licences for the designated markets listed in [Schedule 5A][297] must be allocated or reallocated by, or on behalf of, the Crown.
     
-    (3) The Minister must, in accordance with the rules set out in [Schedule 5B][297], allocate export licences to multiple participants for the designated markets listed in [Schedule 5A][296] unless subsection (4) applies.
+    (3) The Minister must, in accordance with the rules set out in [Schedule 5B][298], allocate export licences to multiple participants for the designated markets listed in [Schedule 5A][297] unless subsection (4) applies.
     
     (4) If the Minister is satisfied that an allocation under subsection (3) is not appropriate, having regard to the purpose in [section 21(1)][32], the Minister may recommend to the Governor-General that an Order in Council is made to allocate or reallocate export licences under subsection (7).
     
-    (5) The Minister may allocate a general export licence for trade at the normal tariff (outside the terms of the quota), in respect of a designated market listed in [Schedule 5A][296], that may be used by any person eligible to hold an export licence for any quantity of the product for which the licence applies.
+    (5) The Minister may allocate a general export licence for trade at the normal tariff (outside the terms of the quota), in respect of a designated market listed in [Schedule 5A][297], that may be used by any person eligible to hold an export licence for any quantity of the product for which the licence applies.
     
     (6) Subsection (5) applies subject to [section 29A][48].
     
-    (7) The Governor-General may, by Order in Council made on the recommendation of the Minister, allocate or reallocate export licences in respect of designated markets listed in [Schedule 5A][296].
+    (7) The Governor-General may, by Order in Council made on the recommendation of the Minister, allocate or reallocate export licences in respect of designated markets listed in [Schedule 5A][297].
     
     (8) Before making an allocation under subsection (5), the Minister must---
         
@@ -1358,7 +1358,7 @@ Restructuring and regulation of dairy industry
     
     (9) Subsection (1) does not limit the Minister's power under subsection (3) or (5), or the Governor-General's power under subsection (7), to allocate new licences in respect of those rights or quantities to the Board or new co-op.
     
-    Section 26: substituted, on 15 December 2007, by [section 10][325] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 26: substituted, on 15 December 2007, by [section 10][326] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 27 Increases in rights to export to designated markets during initial period
     
@@ -1382,17 +1382,17 @@ Restructuring and regulation of dairy industry
     
     (6) An accrual or reduction referred to in subsection (5) must be recorded in the register of export licence holders that is kept in accordance with [section 29B][50].
     
-    Section 27A: inserted, on 15 December 2007, by [section 11][326] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 27A: inserted, on 15 December 2007, by [section 11][327] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 28 Restriction on transfer of initial licences
     
 *   (1) The Board may not transfer, sub-license, or otherwise dispose of an initial licence in respect of a designated market to any other person.
     
-    (2) In order to comply with the restriction on transfer in subsection (1) and for the purposes of the [Customs and Excise Act 1996][327], the Board must own any dairy products which it exports to designated markets.
+    (2) In order to comply with the restriction on transfer in subsection (1) and for the purposes of the [Customs and Excise Act 1996][328], the Board must own any dairy products which it exports to designated markets.
 
 #### Transferring export licences
     
-*   Heading: inserted, on 15 December 2007, by [section 12][328] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 12][329] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 28A Transferring export licences
     
@@ -1404,11 +1404,11 @@ Restructuring and regulation of dairy industry
     
     (4) Subsection (1) applies subject to [section 28][42].
     
-    Section 28A: inserted, on 15 December 2007, by [section 12][328] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 28A: inserted, on 15 December 2007, by [section 12][329] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 #### Revocation of initial licences
     
-*   Heading: inserted, on 15 December 2007, by [section 13][329] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 13][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29 Revocation of initial licences
     
@@ -1432,7 +1432,7 @@ Restructuring and regulation of dairy industry
 
 #### Quota trade completed before trade at normal tariff
     
-*   Heading: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29A Quota trade completed before trade at normal tariff
     
@@ -1456,11 +1456,11 @@ Restructuring and regulation of dairy industry
     
     (6) An export licence holder may use the export licence for trade at the normal tariff only for the remainder of the quota year in which publication and notification are made in accordance with subsection (5).
     
-    Section 29A: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29A: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 #### Maintaining register of licence holders
     
-*   Heading: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29B Register of export licence holders
     
@@ -1498,29 +1498,29 @@ Restructuring and regulation of dairy industry
     
     (4) This section does not apply to general export licences allocated under [section 26(5)][39].
     
-    Section 29B: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29B: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 #### Powers of chief executive
     
-*   Heading: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29C Power to authorise persons
     
 *   The chief executive may only authorise a person to exercise a power under [sections 29E to 29H][54] if that person has appropriate training, experience, or qualifications in the exercise of that power.
     
-    Section 29C: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29C: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 29C: amended, on 1 October 2012, by [section 230(2)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29C: amended, on 1 October 2012, by [section 230(2)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 29D Power to require assistance
     
 *   The chief executive, or a person authorised by the chief executive, may call on any person for assistance in the exercise of any or all of the powers under [sections 29E to 29L][54].
     
-    Section 29D: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29D: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29E Power of entry without search warrant
     
-*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][297], the chief executive, or a person authorised by the chief executive, may during business hours enter any place (other than a dwellinghouse or marae) without a search warrant.
+*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][298], the chief executive, or a person authorised by the chief executive, may during business hours enter any place (other than a dwellinghouse or marae) without a search warrant.
     
     (2) Before entering any place under subsection (1), the chief executive or person authorised by the chief executive must---
         
@@ -1544,11 +1544,11 @@ Restructuring and regulation of dairy industry
     
     *   (b) subsequently whenever reasonably required to do so by a person appearing to have charge of the place or any part of the place.
     
-    Section 29E: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29E: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29F Power to examine, etc
     
-*   For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][297], the chief executive, or a person authorised by the chief executive, may, at any place entered in accordance with [section 29E][54],---
+*   For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][298], the chief executive, or a person authorised by the chief executive, may, at any place entered in accordance with [section 29E][54],---
         
     *   (a) examine all things, and open containers, packages, and other things to inspect their contents:
     
@@ -1564,11 +1564,11 @@ Restructuring and regulation of dairy industry
         
         
     
-    Section 29F: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29F: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29G Power to require information
     
-*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][297], the chief executive, or a person authorised by the chief executive, may require an eligible participant or an employee or agent of an eligible participant to provide any relevant information or documents or answer any relevant questions.
+*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][298], the chief executive, or a person authorised by the chief executive, may require an eligible participant or an employee or agent of an eligible participant to provide any relevant information or documents or answer any relevant questions.
     
     (2) Any information, documents, or answers required under subsection (1) must be provided within a reasonable time to a person or place as directed by the chief executive, or a person authorised by the chief executive.
     
@@ -1580,25 +1580,25 @@ Restructuring and regulation of dairy industry
     
     *   (b) may not be used in civil or criminal proceedings against the employee or agent of the eligible participant who gave the incriminating answer.
     
-    Section 29G: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29G: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29H Power to audit milk collection data
     
-*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][297], the chief executive, or a person authorised by the chief executive, may audit the milk collection data received from an eligible participant.
+*   (1) For the purpose of determining and monitoring compliance with the rules set out in [Schedule 5B][298], the chief executive, or a person authorised by the chief executive, may audit the milk collection data received from an eligible participant.
     
     (2) Participants must be notified of the possibility of an audit on a cost-recovery basis at the time of an application for an export licence.
     
     (3) Participants may be charged a fee for an audit carried out under subsection (1).
     
-    Section 29H: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29H: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 #### Search warrants
     
-*   Heading: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+*   Heading: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
 ##### 29I Issue of search warrant
     
-*   (1) An issuing officer (within the meaning of [section 3][332] of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place if satisfied, on application made in the manner provided in [subpart 3][333] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
+*   (1) An issuing officer (within the meaning of [section 3][333] of the Search and Surveillance Act 2012) may issue a search warrant in respect of any place if satisfied, on application made in the manner provided in [subpart 3][334] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
         
     *   (a) in respect of which an offence under [section 31(3)][65] has been or is being committed; or
     
@@ -1606,35 +1606,35 @@ Restructuring and regulation of dairy industry
     
     *   (c) that is evidence of the commission of an offence under [section 31(3)][65] by any person.
     
-    (2) Subject to [section 29L][62] and subsection (3), the provisions of [Part 4][334] of the Search and Surveillance Act 2012 apply.
+    (2) Subject to [section 29L][62] and subsection (3), the provisions of [Part 4][335] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][335] and [119][336] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (3) Despite subsection (2), [sections 118][336] and [119][337] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
-    Section 29I: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29I: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 29I(1): amended, on 1 October 2012, by [section 230(3)(a)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29I(1): amended, on 1 October 2012, by [section 230(3)(a)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29I(1): amended, on 1 October 2012, by [section 230(3)(b)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29I(1): amended, on 1 October 2012, by [section 230(3)(b)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29I(2): replaced, on 1 October 2012, by [section 230(4)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29I(2): replaced, on 1 October 2012, by [section 230(4)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29I(3): replaced, on 1 October 2012, by [section 230(4)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29I(3): replaced, on 1 October 2012, by [section 230(4)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 29J Entry and search powers when executing warrant
     
 *   \[Repealed\]
     
-    Section 29J: repealed, on 1 October 2012, by [section 230(5)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29J: repealed, on 1 October 2012, by [section 230(5)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 29K Requirements when executing warrant
     
 *   \[Repealed\]
     
-    Section 29K: repealed, on 1 October 2012, by [section 230(5)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29K: repealed, on 1 October 2012, by [section 230(5)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 29L Disposal of property seized under search warrant
     
-*   [Subpart 6][337] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provisions:
+*   [Subpart 6][338] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by the chief executive, or a person authorised by the chief executive, subject to the following provisions:
         
     *   (a) \[Repealed\]
     
@@ -1644,51 +1644,47 @@ Restructuring and regulation of dairy industry
     
     *   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the chief executive in retaining the item.
     
-    Section 29L: inserted, on 15 December 2007, by [section 14][330] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
+    Section 29L: inserted, on 15 December 2007, by [section 14][331] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
     
-    Section 29L: amended, on 1 October 2012, by [section 230(6)(a)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29L: amended, on 1 October 2012, by [section 230(6)(a)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29L: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][338] of the Policing Act 2008 (2008 No 72).
+    Section 29L: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][339] of the Policing Act 2008 (2008 No 72).
     
-    Section 29L(a): repealed, on 1 October 2012, by [section 230(6)(b)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29L(a): repealed, on 1 October 2012, by [section 230(6)(b)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29L(b): repealed, on 1 October 2012, by [section 230(6)(b)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29L(b): repealed, on 1 October 2012, by [section 230(6)(b)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 29L(c): repealed, on 1 October 2012, by [section 230(6)(b)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 29L(c): repealed, on 1 October 2012, by [section 230(6)(b)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Enforcement
 
 ##### 30 Customs and Excise Act 1996 to apply to prohibited exports
     
-*   (1) All the provisions of the [Customs and Excise Act 1996][327], and any regulations made under that Act, that apply to prohibited exports apply to the export of any dairy products in contravention of this Act in all respects as if the export of those dairy products were prohibited under [Part 5][339] of the Customs and Excise Act 1996\.
+*   (1) All the provisions of the [Customs and Excise Act 1996][328], and any regulations made under that Act, that apply to prohibited exports apply to the export of any dairy products in contravention of this Act in all respects as if the export of those dairy products were prohibited under [Part 5][340] of the Customs and Excise Act 1996\.
     
-    (2) The penalty for an offence against [section 209(1)(b)][340] of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
+    (2) The penalty for an offence against [section 209(1)(b)][341] of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
     
     Compare: 1999 No 97 s 27
 
 ##### 31 Offences
     
-*   (1) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200,000 who exports a dairy product contrary to [section 23][34].
+*   (1) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $200,000 who exports a dairy product contrary to [section 23][34].
     
-    (2) Every person commits an offence against this Act, and is liable on conviction to the following fines, who does not provide the information or document required under [section 29G][56]:
+    (2) Every person commits an offence against this Act, and is liable on summary conviction to the following fines, who does not provide the information or document required under [section 29G][56]:
         
     *   (a) a fine not exceeding $200,000; and
     
     *   (b) a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    (3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk collection data contrary to [Schedule 5B][297]:
+    (3) Every person commits an offence against this Act, and is liable for the following, who provides a false declaration in relation to milk collection data contrary to [Schedule 5B][298]:
         
     *   (a) a declaration by a court of competent jurisdiction that the person is not eligible for further allocations of export licences for a period determined by the court; and
     
     *   (b) a fine not exceeding $200,000 or a term of imprisonment not exceeding 3 months, or both.
     
-    Compare: 1996 No 40 [ss 13][341], [15][342]; 1999 No 97 s 28
-    
-    Section 31(1): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
+    Compare: 1996 No 40 [ss 13][342], [15][343]; 1999 No 97 s 28
     
     Section 31(2): added, on 15 December 2007, by [section 15][344] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
-    
-    Section 31(2): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 31(3): added, on 15 December 2007, by [section 15][344] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
@@ -1708,11 +1704,9 @@ Restructuring and regulation of dairy industry
     
     *   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
     
-    (2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
+    (2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
     
     Compare: 1996 No 88 [s 241][348]; 1999 No 97 s 30
-    
-    Section 33(2): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34 Liability of companies and persons for actions of agents or employees
     
@@ -1768,13 +1762,11 @@ Restructuring and regulation of dairy industry
     
     *   (b) the director or person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
     
-    (2) Every person to whom subsection (1) applies is liable on conviction to the fine specified in [section 31][65].
+    (2) Every person to whom subsection (1) applies is liable on summary conviction to the fine specified in [section 31][65].
     
     (3) A person may be convicted of the offence even though the body corporate has not been charged with that offence or a similar offence.
     
     Compare: 1996 No 88 [s 246][350]; 1999 No 97 s 31
-    
-    Section 35(2): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Presumption as to authority
     
@@ -1840,13 +1832,11 @@ Restructuring and regulation of dairy industry
     
     (2) Subsection (1) applies only to information that is in the person's possession or that the person can obtain without unreasonable difficulty or expense.
     
-    (3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
-    
-    Section 41(3): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
+    (3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ##### 42 Disclosure of information
     
-*   (1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the [Customs and Excise Act 1996][327], disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
+*   (1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the [Customs and Excise Act 1996][328], disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
     
     (2) Information obtained under subsection (1) must not be disclosed except---
         
@@ -1874,19 +1864,19 @@ Restructuring and regulation of dairy industry
     
 *   \[Repealed\]
     
-    Section 44: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 44: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 45 Contents of restructuring plan
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 45: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 46 Share allocation plan
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 46: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 47 Constitution must provide for retention of core database
     
@@ -1942,55 +1932,55 @@ Restructuring and regulation of dairy industry
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 53: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Minister approves restructuring plan
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 54 LIC board must give restructuring plan to Minister
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 54: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 55 Approval of restructuring plan
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 55: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 56 Revision of restructuring plan
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 56: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 57 Approval of revised restructuring plan
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 57: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 58 Failure to submit restructuring plan
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 58: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Notification to prospective shareholders
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 59 Notification to prospective shareholders
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 59: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Implementation of restructuring plan
 
@@ -1998,7 +1988,7 @@ Restructuring and regulation of dairy industry
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 60: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 61 Employees
     
@@ -2178,27 +2168,23 @@ Restructuring and regulation of dairy industry
     
     (2) Every person commits an offence against this section who makes a false declaration under [section 66(4)][109] in relation to any statement, forecast, report, agreement, particulars, or information supplied under section 66(1) or (3).
     
-    (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000\.
-    
-    Section 67(3): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
-    
-    Section 67(4): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
+    (4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000\.
 
 ##### 68 Database if LIC wound up
     
 *   (1) This section applies if---
         
-    *   (a) a liquidator or interim liquidator is appointed in respect of LIC under [Part 16][309] of the Companies Act 1993; or
+    *   (a) a liquidator or interim liquidator is appointed in respect of LIC under [Part 16][310] of the Companies Act 1993; or
     
-    *   (b) LIC is removed from the register of companies kept pursuant to [section 360(1)(a)][310] of the Companies Act 1993\.
+    *   (b) LIC is removed from the register of companies kept pursuant to [section 360(1)(a)][311] of the Companies Act 1993\.
     
     (2) In that case, any interest of LIC in the core database reverts to the Crown until ongoing arrangements can be made for it to be taken over by a dairy industry body.
 
 ##### 69 Herd Testing Regulations 1958 deemed to have been made under this Act
     
-*   The [Herd Testing Regulations 1958][308] (SR 1958/44) are deemed to have been made under this Act, and may be amended and revoked accordingly.
+*   The [Herd Testing Regulations 1958][309] (SR 1958/44) are deemed to have been made under this Act, and may be amended and revoked accordingly.
 
 ### Subpart 5---Regulation of dairy markets and obligations of new co-op
 
@@ -2224,7 +2210,7 @@ Restructuring and regulation of dairy industry
     
     *   (f) \[Repealed\]
     
-    Section 71(f): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 71(f): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 72 Overview
     
@@ -2264,7 +2250,7 @@ Restructuring and regulation of dairy industry
     
     Section 72(5B): inserted, on 27 July 2012, by [section 5][364] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 72(6): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 72(6): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### New co-op must accept supply
 
@@ -2321,6 +2307,8 @@ Restructuring and regulation of dairy industry
     (3) An amendment to the price set under subsection (1) takes effect on the day after the day it is published under [section 80][128].
     
     (4) New co-op must set a June price for a co-operative share to apply as at 1 June in each season.
+    
+    Section 77: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
 
 ##### 77A Price must be fair value
     
@@ -2338,7 +2326,9 @@ Restructuring and regulation of dairy industry
     
     _shares_ means the total number of co-operative shares on issue.
     
-    Section 77A: inserted, on 27 July 2012, by [section 6][365] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 77A: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 77A: inserted, on 27 July 2012, by [section 6][367] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 77B When section 77A first applies
     
@@ -2348,13 +2338,15 @@ Restructuring and regulation of dairy industry
     
     *   (b) on 31 December 2013 if, before 31 December 2013, no Order in Council has been made under [section 109B][164].
     
-    Section 77B: inserted, on 27 July 2012, by [section 6][365] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 77B: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 77B: inserted, on 27 July 2012, by [section 6][367] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 78 Peak note price
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 78: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 79 Co-operative share standard
     
@@ -2362,11 +2354,13 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op may not amend the co-operative share standard set under subsection (1) until the beginning of the next application period.
     
-    Section 79 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 79: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 79(1): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 79 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 79(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 79(1): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 79(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 80 Publication of prices and standards
     
@@ -2396,9 +2390,11 @@ Restructuring and regulation of dairy industry
         
         
     
-    Section 80(1)(b): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 80: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 80(1)(d): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 80(1)(b): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 80(1)(d): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 81 Requirements applying to co-operative shares for applications in application period
     
@@ -2412,9 +2408,11 @@ Restructuring and regulation of dairy industry
     
     (3) The co-operative share standard that applies to a new entrant or a shareholding farmer who makes an application under [section 73][119] that new co-op is required to accept is the co-operative share standard published at the beginning of the application period in which the application is made.
     
-    Section 81 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 81: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 81(3): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 81 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 81(3): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 82 Requirements applying to co-operative shares for applications outside application period
     
@@ -2424,17 +2422,21 @@ Restructuring and regulation of dairy industry
     
     (3) \[Repealed\]
     
-    Section 82 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 82: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 82(2): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 82 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 82(3): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 82(2): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 82(3): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 83 Restrictions on payments
     
 *   New co-op must not require payment from a new entrant or a shareholding farmer for accepting milk supply as a shareholding farmer other than payment to purchase co-operative shares.
     
-    Section 83: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 83: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 83: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 84 Deposit restriction
     
@@ -2458,13 +2460,15 @@ Restructuring and regulation of dairy industry
     
     *   (b) the co-operative share standard published at the beginning of the application period in which the application is made.
     
-    Section 84(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 84: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 84(2)(a): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 84(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 84(3): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 84(2)(a): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 84(3(b): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 84(3): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 84(3(b): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 85 Balance of purchase price
     
@@ -2472,7 +2476,9 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must not require a new entrant or a shareholding farmer to pay the balance (or part of it) of the purchase price for the co-operative shares before 1 June in the first season for the supply of milk to which the application relates.
     
-    Section 85(2): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 85: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 85(2): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Supply of milk deferred if capacity constraint notice issued
 
@@ -2524,9 +2530,11 @@ Restructuring and regulation of dairy industry
     
     *   (b) if that election is not made, the co-operative share standard published at the beginning of the application period in which the application is made.
     
-    Section 88 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 88: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 88(4): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 88 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 88(4): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 89 Effect of change in co-operative share standard before supply commences if default price applies
     
@@ -2546,15 +2554,17 @@ Restructuring and regulation of dairy industry
     
     *   (c) all changes to the co-operative share standard since the application was made were applied as if it were existing supply by a shareholding farmer.
     
-    Section 89 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 89: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 89(1)(c): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 89 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 89(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 89(1)(c): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 89(2)(b): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 89(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 89(2)(c): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 89(2)(b): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 89(2)(c): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 90 Deposit if default price applies
     
@@ -2586,15 +2596,17 @@ Restructuring and regulation of dairy industry
     
     *   (b) the co-operative share standard published at the beginning of the application period in which the application is made.
     
-    Section 90(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 90: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 90(3)(a): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 90(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 90(4)(a): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 90(3)(a): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 90(5): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 90(4)(a): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 90(5)(b): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 90(5): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 90(5)(b): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 91 Balance of purchase price if default price applies
     
@@ -2602,7 +2614,9 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must not require a new entrant or a shareholding farmer to pay the balance (or part of it) of the purchase price for the co-operative shares before 1 June in the first season for the supply of milk to which the application relates.
     
-    Section 91(2): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 91: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 91(2): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 92 Deposit if June price elected
     
@@ -2616,11 +2630,13 @@ Restructuring and regulation of dairy industry
     
     (3) The total amount payable for the co-operative shares referred to in subsection (2) is calculated based on the most recent published price and co-operative share standard on the date that the deposit is payable.
     
-    Section 92(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 92: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 92(2)(a): inserted, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 92(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 92(3): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 92(2)(a): inserted, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 92(3): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 93 Balance of purchase price if June price elected
     
@@ -2628,7 +2644,9 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must not require a new entrant or a shareholding farmer to pay the balance (or part of it) of the purchase price for the co-operative shares before 1 June in the first season for the supply of milk to which the application relates.
     
-    Section 93(2): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 93: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 93(2): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Exceptions
 
@@ -2690,15 +2708,19 @@ Restructuring and regulation of dairy industry
     
     (2) An election under subsection (1)(a)(i) must be made with the notice of withdrawal.
     
-    Section 98 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 98: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 98(1)(b): replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 98 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 98(1)(b): replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 99 Surrender value of co-operative shares for withdrawal notified outside application period
     
 *   If new co-op accepts a notice of withdrawal from a shareholding farmer outside an application period, new co-op must pay the shareholding farmer a surrender value for the relevant co-operative shares that is the June price immediately following the date that the notice of withdrawal is given multiplied by the number of shares.
     
-    Section 99: replaced, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 99: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 99: replaced, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 100 Effect of change in co-operative share standard before withdrawal
     
@@ -2706,11 +2728,13 @@ Restructuring and regulation of dairy industry
     
     (2) If this section applies, the amount that a shareholding farmer must receive under [section 98(1)][149] or [section 99][150], as the case may be, must be calculated after applying all changes to the co-operative share standard as if the shareholding farmer had not given the notice of withdrawal.
     
-    Section 100 heading: amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 100: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 100(1): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 100 heading: amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 100(2): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 100(1): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    
+    Section 100(2): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 101 Payment on withdrawal
     
@@ -2728,7 +2752,9 @@ Restructuring and regulation of dairy industry
     
     (4) New co-op may satisfy the surrender amount under subsection (2)(b) or (c) by issuing capital notes itself or by procuring a wholly-owned subsidiary to issue them.
     
-    Section 101(1): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 101: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
+    
+    Section 101(1): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 102 Capital notes
     
@@ -2738,17 +2764,19 @@ Restructuring and regulation of dairy industry
     
     (3) New co-op may not issue capital notes under [section 101][152] if,---
         
-    *   (a) during the month immediately before the capital notes are to be issued, capital notes that are the same as the capital notes to be issued were not traded through a registered exchange's securities market (within the meaning of [section 2(1)][366] of the Securities Markets Act 1988); or
+    *   (a) during the month immediately before the capital notes are to be issued, capital notes that are the same as the capital notes to be issued were not traded through a registered exchange's securities market (within the meaning of [section 2(1)][368] of the Securities Markets Act 1988); or
     
     *   (b) capital notes that are the same as the capital notes to be issued have not been listed continuously on that registered exchange's securities market for 6 months or more.
     
-    Section 102(3)(a): amended, on 24 November 2009, by [section 23(1)][367] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 102: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 102(3)(a): amended, on 1 December 2002, by [section 30][368] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 102(3)(a): amended, on 24 November 2009, by [section 23(1)][369] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 102(3)(b): amended, on 24 November 2009, by [section 23(1)][367] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 102(3)(a): amended, on 1 December 2002, by [section 30][370] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 102(3)(b): amended, on 1 December 2002, by [section 30][368] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 102(3)(b): amended, on 24 November 2009, by [section 23(1)][369] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    
+    Section 102(3)(b): amended, on 1 December 2002, by [section 30][370] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 103 Repurchase of capital notes by new co-op
     
@@ -2780,7 +2808,7 @@ Restructuring and regulation of dairy industry
     
     *   (d) the date by which the person must make the requirement under this section.
     
-    
+    Section 103: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
 
 ##### 104 Use of redeemable preference shares
     
@@ -2804,9 +2832,11 @@ Restructuring and regulation of dairy industry
     
     (4) In subsection (1)(a), _equities_ means co-operative shares and supply redemption rights in new co-op.
     
-    Section 104(2): amended, on 15 December 2005, by [section 3(1)][369] of the Dairy Industry Restructuring Amendment Act 2005 (2005 No 99).
+    Section 104: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
     
-    Section 104(3): amended, on 15 December 2005, by [section 3(2)][369] of the Dairy Industry Restructuring Amendment Act 2005 (2005 No 99).
+    Section 104(2): amended, on 15 December 2005, by [section 3(1)][371] of the Dairy Industry Restructuring Amendment Act 2005 (2005 No 99).
+    
+    Section 104(3): amended, on 15 December 2005, by [section 3(2)][371] of the Dairy Industry Restructuring Amendment Act 2005 (2005 No 99).
 
 ##### 105 Provisions concerning redeemable preference shares
     
@@ -2824,7 +2854,7 @@ Restructuring and regulation of dairy industry
     
     *   (f) are redeemable, at the holder's election, for cash or capital notes (as determined by new co-op) at a time specified by new co-op, but not later than 3 years after their issue.
     
-    
+    Section 105: this section does not apply on and from 30 November 2012 because of [section 109A][365] and the [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345).
 
 #### Regulation of milk supply
 
@@ -2838,7 +2868,7 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must ensure that the terms and effect of securities offered or issued in new co-op are the same for new entrants as for shareholding farmers.
     
-    (3) In this section, _securities_ has the same meaning as in [section 2D][370] of the Securities Act 1978\.
+    (3) In this section, _securities_ has the same meaning as in [section 2D][372] of the Securities Act 1978\.
     
     (4) New co-op must not treat a shareholding farmer who exercises an entitlement under this subpart any less favourably than a shareholding farmer who does not do so.
 
@@ -2872,7 +2902,7 @@ Restructuring and regulation of dairy industry
     
     (4) If new co-op requires separate storage, milk supplied to independent processors must be stored in milk vats that are separate from milk vats that store milk for supply to new co-op.
     
-    (5) This section does not apply to milk with a unique feature that is the subject of a right, privilege, or entitlement that is conferred, or acknowledged as valid, by or under the [Patents Act 1953][371].
+    (5) This section does not apply to milk with a unique feature that is the subject of a right, privilege, or entitlement that is conferred, or acknowledged as valid, by or under the [Patents Act 1953][373].
 
 ##### 109 Sale of milk vats
     
@@ -2901,88 +2931,236 @@ Restructuring and regulation of dairy industry
     (5) New co-op must not require payment for a milk vat sold under this section before the end of the season in which the shareholding farmer gives notice of withdrawal to new co-op.
 
 #### Trading among farmers
-
-\[Repealed\]
     
-*   Heading: repealed, on 31 December 2013, pursuant to [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109A Subpart 5 of Part 2 provisions do not apply
     
-*   \[Repealed\]
+*   The following provisions (the specified subpart 5 provisions) do not apply on and from a date specified by an Order in Council made under [section 109B][164]:
+        
+    *   (a) [sections 77 to 85][123]:
     
-    Section 109A: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) [sections 88 to 93][137]:
+    
+    *   (c) [sections 98 to 105][149].
+    
+    Section 109A: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109B Order in Council specifying date on and from which specified subpart 5 provisions do not apply
     
-*   \[Repealed\]
+*   The Governor-General may by Order in Council made on the recommendation of the Minister specify a date on and from which the specified subpart 5 provisions do not apply.
     
-    Section 109B: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 109B: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109C When Minister must recommend that Order in Council be made
     
-*   \[Repealed\]
+*   The Minister must recommend that an Order in Council be made under [section 109B][164] if the Minister is satisfied, on the basis of written confirmation by the chief executive, that the preconditions under [section 109D][166] for making the order have been met.
     
-    Section 109C: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 109C: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109D Preconditions for making Order in Council
     
-*   \[Repealed\]
+*   (1) The preconditions for making an Order in Council under [section 109B][164] are the following:
+        
+    *   (a) co-operative shares are listed on a registered market that provides for the shares to be traded by shareholding farmers; and
     
-    Section 109D: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) there is established a fund (the new co-op fund) that satisfies the following requirements:
+            
+        *   (i) the securities issued in respect of the fund (the new co-op fund securities)---
+                
+            *   (A) are listed on a registered market that provides for the securities to be traded by the public; and
+            
+            *   (B) entitle the holders of those securities to receive distributions equal to the distributions they would receive if they were holders of co-operative shares; and
+            
+            
+        
+        *   (ii) the rules of the fund permit shareholding farmers to exchange co-operative shares for an equal number of new co-op fund securities, and vice versa; and
+        
+        *   (iii) the manager of the fund has issued, or has entered into binding obligations to issue, new co-op fund securities for consideration of not less than $500 million; and
+        
+        
+    
+    *   (c) new co-op has given a notice to the chief executive that complies with [section 109E][167].
+    
+    (2) The chief executive, subject to being satisfied as to the sufficiency and authenticity of the certificate in question,---
+        
+    *   (a) must confirm to the Minister that the precondition in subsection (1)(a) has been met if the chief executive has received from the registered exchange in question a certificate verifying the matters set out in subsection (1)(a):
+    
+    *   (b) must confirm to the Minister that the precondition in subsection (1)(b) has been met if the chief executive has received from the board of new co-op a certificate verifying the matters set out in subsection (1)(b).
+    
+    Section 109D: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109E Requirements for notice given by new co-op to chief executive
     
-*   \[Repealed\]
+*   For the purposes of [section 109D(1)(c)][166], the notice given by new co-op to the chief executive must---
+        
+    *   (a) be in writing; and
     
-    Section 109E: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) request that an Order in Council be made under [section 109B][164]; and
+    
+    *   (c) specify the date on and from which the specified subpart 5 provisions should not apply.
+    
+    Section 109E: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109F Notice by new co-op to chief executive triggering repeal of section 109A
     
-*   \[Repealed\]
+*   (1) New co-op must without delay give written notice to the chief executive if---
+        
+    *   (a) co-operative shares are no longer able to be traded on a registered market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
     
-    Section 109F: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) new co-op fund securities have ceased to be listed on a registered market that provides for the securities to be traded by the public; or
+    
+    *   (c) the new co-op fund has been wound up; or
+    
+    *   (d) an event occurs that creates a binding obligation to wind up the new co-op fund including, without limitation,---
+            
+        *   (i) an order by a court, a regulatory body, or any other person; or
+        
+        *   (ii) a resolution by the holders of new co-op fund securities or by any other person; or
+        
+        *   (iii) an event specified in the contractual arrangements relating to the new co-op fund.
+        
+        
+    
+    (2) The notice must be accompanied by the evidence relied upon by new co-op for asserting that subsection (1) applies.
+    
+    (3) If new co-op contravenes this section, it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for every day that the offence continues.
+    
+    Section 109F: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109G Repeal of section 109A
     
-*   \[Repealed\]
+*   (1) [Section 109A][163] is repealed on and from a date specified by an Order in Council made under subsection (2).
     
-    Section 109G: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    (2) The Governor-General may by Order in Council made on the recommendation of the Minister specify a date on and from which [section 109A][163] is repealed.
+    
+    (3) The date specified in the order must be the later of 9 months after the order is made and the beginning of the next application period.
+    
+    Section 109G: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109H Revocation of order made under section 109G
     
-*   \[Repealed\]
+*   (1) This section applies to the revocation, before the specified date, of an order made under [section 109G][169].
     
-    Section 109H: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    (2) The Governor-General may, before the specified date, by Order in Council revoke an order made under [section 109G][169] if, on the date of revocation,---
+        
+    *   (a) an order could have been made under [section 109B][164]; and
+    
+    *   (b) for the purpose of paragraph (a), the requirements of [sections 109C][165] and [109D][166] with all necessary modifications have been satisfied.
+    
+    (3) When an order is made under subsection (2), the fund that for the purposes of making the order satisfied the requirements of [section 109D(1)(b)][166] is for the purpose of this Act and any enactment amended by this Act the new co-op fund.
+    
+    (4) In this section, _specified date_ means the date specified in the order made under [section 109G][169].
+    
+    Section 109H: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109I Conditions of making order under section 109G(2)
     
-*   \[Repealed\]
+*   (1) An Order in Council made under [section 109G(2)][169] may be made only on the recommendation of the Minister under subsection (2).
     
-    Section 109I: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    (2) The Minister must recommend that the order be made if the Minister is satisfied, on written confirmation from the chief executive, that---
+        
+    *   (a) co-operative shares are no longer able to be traded on a registered market by shareholding farmers (other than in the case of a temporary halt in, or suspension of, trading in the shares); or
+    
+    *   (b) new co-op fund securities have ceased to be listed on a registered market that provides for the securities to be traded by the public; or
+    
+    *   (c) the new co-op fund has been wound up; or
+    
+    *   (d) an event has occurred that creates a binding obligation to wind up the new co-op fund including, without limitation,---
+            
+        *   (i) an order by a court, a regulatory body, or any other person; or
+        
+        *   (ii) a resolution by the holders of new co-op fund securities or by any other person; or
+        
+        *   (iii) an event specified in the contractual arrangements relating to the new co-op fund.
+        
+        
+    
+    (3) The chief executive must confirm that subsection (2)(a), (b), (c), or (d) applies if the chief executive---
+        
+    *   (a) has received a notice from new co-op under [section 109F][168]; or
+    
+    *   (b) is satisfied on reasonable grounds, after making due inquiry, that subsection (2)(a), (b), (c), or (d) applies; or
+    
+    *   (c) has received a response from new co-op under [section 109J(3)(b)][168]; or
+    
+    *   (d) has not obtained a response from new co-op, within 5 working days after service, to a notice given under section 109J.
+    
+    Section 109I: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109J Chief executive may give new co-op notice requiring verification
     
-*   \[Repealed\]
+*   (1) At any time while the specified subpart 5 provisions do not apply, the chief executive may give new co-op a notice that complies with subsection (2) requiring new co-op to verify in writing, with documentary proof, that---
+        
+    *   (a) co-operative shares continue to be listed on a registered market that provides for the shares to be traded by shareholding farmers:
     
-    Section 109J: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) new co-op fund securities continue to be listed on a registered market that provides for the securities to be traded by the public:
+    
+    *   (c) the new co-op fund has not been wound up:
+    
+    *   (d) no event has occurred that creates a binding obligation to wind up the new co-op fund.
+    
+    (2) The notice must be---
+        
+    *   (a) in writing; and
+    
+    *   (b) dated; and
+    
+    *   (c) served on new co-op at its address for service.
+    
+    (3) New co-op must respond to the notice not later than 5 working days after service of the notice by---
+        
+    *   (a) verifying the matter in question; or
+    
+    *   (b) if it is unable to verify it, stating that it is unable to do so.
+    
+    (4) If new co-op contravenes subsection (3), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    
+    Section 109J: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109K When sections 109L to 109N apply
     
-*   \[Repealed\]
+*   [Sections 109L to 109N][174] apply only while the specified subpart 5 provisions do not apply.
     
-    Section 109K: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 109K: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109L New co-op's obligations in relation to market in co-operative shares and to new co-op fund
     
-*   \[Repealed\]
+*   (1) New co-op must ensure that there are 1 or more market makers in co-operative shares operating during the periods of operation of the registered market on which the co-operative shares are listed.
     
-    Section 109L: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    (2) New co-op must ensure that the holders of new co-op fund securities have the following rights:
+        
+    *   (a) subject to [section 161A(2)][275], the right to appoint and remove the manager of the fund; and
+    
+    *   (b) the right to appoint and remove a majority of the board of the manager of the fund; and
+    
+    *   (c) the right to vote on resolutions proposed at general meetings of the fund; and
+    
+    *   (d) the right to pass a resolution for the liquidation of the fund.
+    
+    Section 109L: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109M Restrictions on new co-op
     
-*   \[Repealed\]
+*   (1) Subsection (2) applies to conduct by new co-op that restricts, prevents, or deters---
+        
+    *   (a) trading in co-operative shares; or
     
-    Section 109M: repealed, on 31 December 2013, by [section 109N][372] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    *   (b) participation by shareholding farmers, new entrants, and market makers in co-operative shares in trading in co-operative shares or new co-op fund securities; or
+    
+    *   (c) the ability of shareholding farmers and new entrants to exchange co-operative shares for new co-op fund securities, and vice versa; or
+    
+    *   (d) the liquidity of the market for co-operative shares or for new co-op fund securities.
+    
+    (2) New co-op must not engage in any conduct to which this subsection applies for the purpose of restricting, preventing, or deterring---
+        
+    *   (a) a new entrant from becoming a shareholding farmer pursuant to an application under [section 73(1)][119]; or
+    
+    *   (b) a shareholding farmer from increasing the volume of milk supplied to new co-op pursuant to an application under [section 73(2)][119]; or
+    
+    *   (c) a shareholder farmer from ceasing or reducing the supply of milk to new co-op pursuant to a notice of withdrawal under [section 97(1)][148].
+    
+    Section 109M: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 109N Expiry of sections 109A to 109M
     
@@ -2992,43 +3170,43 @@ Restructuring and regulation of dairy industry
     
     *   (b) if no Order in Council has been made under [section 109B][164] by 31 December 2013, on that date.
     
-    Section 109N: inserted, on 27 July 2012, by [section 7][373] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 109N: inserted, on 27 July 2012, by [section 7][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Transitional provisions for Tatua and Westland
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 110 Purpose
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 110: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 111 Application
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 111: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 112 New co-op must supply information
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 112: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 113 New co-op must purchase produce if required
     
 *   \[Repealed\]
     
-    Section 113: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 113: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 114 Terms of purchase of exiting company's produce
     
 *   \[Repealed\]
     
-    Section 114: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 114: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Regulatory powers
 
@@ -3120,31 +3298,31 @@ Restructuring and regulation of dairy industry
     
     (2A) For the purpose of any regulations made under subsection (1), unless the context of the regulations otherwise requires, a body is an interconnected body of an independent processor if---
         
-    *   (a) both the independent processor and the body are bodies corporate and would be treated as interconnected bodies corporate under [section 2(7)][312] of the Commerce Act 1986; or
+    *   (a) both the independent processor and the body are bodies corporate and would be treated as interconnected bodies corporate under [section 2(7)][313] of the Commerce Act 1986; or
     
-    *   (b) one or both of the independent processor and the body is a partnership (including a limited partnership) or an unincorporated joint venture and would be treated as interconnected bodies corporate under [section 2(7)][312] of the Commerce Act 1986 if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
+    *   (b) one or both of the independent processor and the body is a partnership (including a limited partnership) or an unincorporated joint venture and would be treated as interconnected bodies corporate under [section 2(7)][313] of the Commerce Act 1986 if the partnership or joint venture were incorporated as a company with shareholdings corresponding to the interests, including returns, of the partners in the partnership or participants in the joint venture.
     
     (3) A regulation under this section is not invalid because it leaves a matter or thing to be decided by a person.
     
-    Section 115 heading: amended, on 27 July 2012, by [section 8(1)][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 115 heading: amended, on 27 July 2012, by [section 8(1)][375] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 115(1)(a): substituted, on 9 April 2010, by [section 4(1)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(a): substituted, on 9 April 2010, by [section 4(1)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(b): substituted, on 9 April 2010, by [section 4(1)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(b): substituted, on 9 April 2010, by [section 4(1)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(ba): inserted, on 9 April 2010, by [section 4(1)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(ba): inserted, on 9 April 2010, by [section 4(1)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(bb): inserted, on 9 April 2010, by [section 4(1)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(bb): inserted, on 9 April 2010, by [section 4(1)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(bc): inserted, on 9 April 2010, by [section 4(1)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(bc): inserted, on 9 April 2010, by [section 4(1)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(c): amended, on 9 April 2010, by [section 4(2)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(c): amended, on 9 April 2010, by [section 4(2)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(d): amended, on 9 April 2010, by [section 4(3)][375] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 115(1)(d): amended, on 9 April 2010, by [section 4(3)][376] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
     
-    Section 115(1)(f): replaced, on 27 July 2012, by [section 8(2)][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 115(1)(f): replaced, on 27 July 2012, by [section 8(2)][375] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 115(2A): inserted, on 27 July 2012, by [section 8(3)][374] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 115(2A): inserted, on 27 July 2012, by [section 8(3)][375] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 116 Obligations to publish information
     
@@ -3176,11 +3354,11 @@ Restructuring and regulation of dairy industry
     
     *   (c) prescribe the form of statutory declaration and who must provide it under [section 117(4)][186].
     
-    (2) Disclosure of information required by regulations made under subsection (1) is not an offer nor an advertisement under the [Securities Act 1978][376].
+    (2) Disclosure of information required by regulations made under subsection (1) is not an offer nor an advertisement under the [Securities Act 1978][377].
     
-    Section 116(1)(a)(ii): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 116(1)(a)(ii): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 116(1)(a)(iii): repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 116(1)(a)(iii): repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 117 Information to be supplied to Commission
     
@@ -3206,19 +3384,15 @@ Restructuring and regulation of dairy industry
     
     (2) Every person commits an offence against this section who makes a false declaration under [section 117(4)][186] in relation to any information, statement, or report supplied under section 117(1) or (3).
     
-    (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000\.
+    (4) Every person who commits an offence against subsection (2) is liable on summary conviction to a fine not exceeding $20,000\.
     
-    Section 118(1)(aa): inserted, on 27 July 2012, by [section 9][377] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 118(1)(aa): inserted, on 27 July 2012, by [section 9][378] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 118(1)(b): amended, on 18 May 2011, by [section 4][378] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 118(1)(b): amended, on 18 May 2011, by [section 4][379] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
     
-    Section 118(1)(c): added, on 18 May 2011, by [section 4][378] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
-    
-    Section 118(3): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
-    
-    Section 118(4): amended, on 1 July 2013, by [section 413][343] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 118(1)(c): added, on 18 May 2011, by [section 4][379] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
 
 ##### 119 Regulations prescribing fees
     
@@ -3226,9 +3400,9 @@ Restructuring and regulation of dairy industry
 
 ##### 119A Incorporation by reference
     
-*   Regulations made under this Act may incorporate material by reference under [Schedule 5E][300].
+*   Regulations made under this Act may incorporate material by reference under [Schedule 5E][301].
     
-    Section 119A: inserted, on 9 April 2010, by [section 5][379] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
+    Section 119A: inserted, on 9 April 2010, by [section 5][380] of the Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010 (2010 No 11).
 
 #### Determination by Commission
 
@@ -3250,7 +3424,7 @@ Restructuring and regulation of dairy industry
     
     (4) An application under subsection (1) must be made within 3 years after the matter giving rise to the dispute arose.
     
-    Section 120(1): amended, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 120(1): amended, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 121 Requirements for application
     
@@ -3402,7 +3576,7 @@ Restructuring and regulation of dairy industry
     
     (5) \[Repealed\]
     
-    Section 132(5): repealed, on 1 January 2004, by [section 48(2)][380] of the Supreme Court Act 2003 (2003 No 53).
+    Section 132(5): repealed, on 1 January 2004, by [section 48(2)][381] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 133 Enforcing Commission determinations
     
@@ -3464,15 +3638,15 @@ Restructuring and regulation of dairy industry
     
     (10) The amount of unpaid levy is recoverable in a court of competent jurisdiction as a debt due to the Crown.
     
-    Section 134(4)(a)(ii): amended, on 27 July 2012, by [section 10(1)][381] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 134(4)(a)(ii): amended, on 27 July 2012, by [section 10(1)][382] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 134(4)(a)(v): inserted, on 27 July 2012, by [section 10(2)][381] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 134(4)(a)(v): inserted, on 27 July 2012, by [section 10(2)][382] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### General
 
 ##### 135 Constitution of new co-op
     
-*   This subpart applies despite anything in the constitution of new co-op or the [Companies Act 1993][382].
+*   This subpart applies despite anything in the constitution of new co-op or the [Companies Act 1993][383].
 
 ##### 136 Making and giving applications or notices
     
@@ -3514,9 +3688,9 @@ Restructuring and regulation of dairy industry
     
 *   (1) If the court is satisfied, on the application of the Commission, that a person has contravened this subpart or regulations made under [section 115][184], the court may order the person to pay to the Crown a pecuniary penalty that the court determines to be appropriate.
     
-    (2) The maximum amount of a pecuniary penalty under subsection (1) is the same as the amount that applies under [section 80][383] of the Commerce Act 1986\.
+    (2) The maximum amount of a pecuniary penalty under subsection (1) is the same as the amount that applies under [section 80][384] of the Commerce Act 1986\.
     
-    (3) Despite [section 145][219], [section 79][384] of the Commerce Act 1986 does not apply to proceedings under this section.
+    (3) Despite [section 145][219], [section 79][385] of the Commerce Act 1986 does not apply to proceedings under this section.
 
 ##### 142 Injunctions
     
@@ -3526,7 +3700,7 @@ Restructuring and regulation of dairy industry
     
 *   (1) Every person is liable for damages for loss or damage caused by that person engaging in conduct that constitutes a contravention of this subpart or regulations made under [section 115][184].
     
-    (2) [Sections 82][385] and [82A][386] of the Commerce Act 1986 apply to actions for damages under this section.
+    (2) [Sections 82][386] and [82A][387] of the Commerce Act 1986 apply to actions for damages under this section.
 
 ##### 144 Miscellaneous
     
@@ -3554,49 +3728,49 @@ Restructuring and regulation of dairy industry
 
 ##### 145 Application of Commerce Act 1986 provisions
     
-*   The following provisions of the [Commerce Act 1986][304] apply with all necessary modifications:
+*   The following provisions of the [Commerce Act 1986][305] apply with all necessary modifications:
         
-    *   (a) [sections 15 to 17][387] (proceedings of the Commission):
+    *   (a) [sections 15 to 17][388] (proceedings of the Commission):
     
-    *   (b) [sections 77][388] and [78][389] (lay members):
+    *   (b) [sections 77][389] and [78][390] (lay members):
     
-    *   (c) [section 79][384] (evidence not otherwise admissible):
+    *   (c) [section 79][385] (evidence not otherwise admissible):
     
-    *   (d) [section 88][390] (general provisions relating to granting of injunctions):
+    *   (d) [section 88][391] (general provisions relating to granting of injunctions):
     
-    *   (e) [section 88A][391] (when undertakings as to damages not required):
+    *   (e) [section 88A][392] (when undertakings as to damages not required):
     
-    *   (f) [section 89][392] (other orders):
+    *   (f) [section 89][393] (other orders):
     
-    *   (g) [section 90][393] (conduct by servants or agents):
+    *   (g) [section 90][394] (conduct by servants or agents):
     
-    *   (h) [section 98][394] (Commission may require person to supply information or documents or give evidence):
+    *   (h) [section 98][395] (Commission may require person to supply information or documents or give evidence):
     
-    *   (i) [section 98A][395] (power to search):
+    *   (i) [section 98A][396] (power to search):
     
-    *   (j) [section 98G][396] (relating to warrants, etc):
+    *   (j) [section 98G][397] (relating to warrants, etc):
     
-    *   (k) [section 99][397] (powers of Commission to take evidence):
+    *   (k) [section 99][398] (powers of Commission to take evidence):
     
-    *   (l) [section 100][398] (powers of Commission to prohibit disclosure of information, documents, and evidence):
+    *   (l) [section 100][399] (powers of Commission to prohibit disclosure of information, documents, and evidence):
     
-    *   (m) [sections 101][399] and [102][400] (notices):
+    *   (m) [sections 101][400] and [102][401] (notices):
     
-    *   (n) [section 103][401] (offences):
+    *   (n) [section 103][402] (offences):
     
-    *   (o) [section 104][402] (determinations of Commission):
+    *   (o) [section 104][403] (determinations of Commission):
     
-    *   (p) [section 106][403] (proceedings privileged):
+    *   (p) [section 106][404] (proceedings privileged):
     
-    *   (q) [section 106A][404] (judicial notice):
+    *   (q) [section 106A][405] (judicial notice):
     
-    *   (r) [section 109][405] (Commission may prescribe forms).
+    *   (r) [section 109][406] (Commission may prescribe forms).
     
-    Section 145(a): substituted, on 25 January 2005, by [section 200][406] of the Crown Entities Act 2004 (2004 No 115).
+    Section 145(a): substituted, on 25 January 2005, by [section 200][407] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 145(j): amended, on 1 October 2012, by [section 230(7)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 145(j): amended, on 1 October 2012, by [section 230(7)][332] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 145(o): substituted, on 25 January 2005, by [section 200][406] of the Crown Entities Act 2004 (2004 No 115).
+    Section 145(o): substituted, on 25 January 2005, by [section 200][407] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 146 Additional proceedings
     
@@ -3604,7 +3778,7 @@ Restructuring and regulation of dairy industry
 
 #### Expiry of this subpart and subpart 5A
     
-*   Heading: amended, on 27 July 2012, by [section 11][407] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: amended, on 27 July 2012, by [section 11][408] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 147 Minister to certify that market share thresholds met
     
@@ -3654,7 +3828,7 @@ Restructuring and regulation of dairy industry
     
     (5) For the purposes of this section, _dairy farm_ means a farm in New Zealand that produces milk from dairy cows as a business or part of a business.
     
-    Section 147: substituted, on 18 May 2011, by [section 5][408] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 147: substituted, on 18 May 2011, by [section 5][409] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
 
 ##### 148 Subparts 5 and 5A cease to apply to island that meets its market share threshold
     
@@ -3716,7 +3890,7 @@ Restructuring and regulation of dairy industry
     
     *   (b) must come into force on or before the date specified in paragraph (a); and
     
-    *   (c) may not be amended or revoked (except under [section 15][409] of the Legislation Act 2012).
+    *   (c) may not be amended or revoked (except under [section 16][410] of the Acts and Regulations Publication Act 1989).
     
     (7) Any failure to comply with subsection (2) or (3), or any error or omission in the report produced by the Commerce Commission or other relevant government agency (as the case may be), does not affect the validity of an Order in Council made under subsection (4) or (5).
     
@@ -3740,21 +3914,19 @@ Restructuring and regulation of dairy industry
     
     (9) For the purposes of this section, _other relevant government agency_ means any agency of the Crown (other than the Commerce Commission), whether a department, a corporation, a Crown entity, a Crown Research Institute, or another organisation or instrument.
     
-    Section 148: substituted, on 18 May 2011, by [section 5][408] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 148: substituted, on 18 May 2011, by [section 5][409] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
     
-    Section 148 heading: amended, on 27 July 2012, by [section 12(1)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 148 heading: amended, on 27 July 2012, by [section 12(1)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 148(4)(a): amended, on 27 July 2012, by [section 12(2)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 148(4)(a): amended, on 27 July 2012, by [section 12(2)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 148(4)(a): amended, on 27 July 2012, by [section 12(3)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 148(4)(a): amended, on 27 July 2012, by [section 12(3)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 148(4)(b): amended, on 27 July 2012, by [section 12(4)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 148(4)(b): amended, on 27 July 2012, by [section 12(4)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 148(5): amended, on 27 July 2012, by [section 12(5)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 148(5): amended, on 27 July 2012, by [section 12(5)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 148(6)(a): amended, on 27 July 2012, by [section 12(6)][410] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 148(6)(c): amended, on 5 August 2013, by [section 77(3)][411] of the Legislation Act 2012 (2012 No 119).
+    Section 148(6)(a): amended, on 27 July 2012, by [section 12(6)][411] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 148A Report required if not requested before 1 June 2015
     
@@ -3772,7 +3944,7 @@ Restructuring and regulation of dairy industry
     
     *   (b) [section 148(8)(a) to (c) and (e)][223] apply in respect of the report referred to in paragraph (a).
     
-    Section 148A: inserted, on 18 May 2011, by [section 5][408] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 148A: inserted, on 18 May 2011, by [section 5][409] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
 
 ##### 148B Procedure where market share threshold is met after report requested under section 148A
     
@@ -3798,7 +3970,7 @@ Restructuring and regulation of dairy industry
         
         
     
-    Section 148B: inserted, on 18 May 2011, by [section 5][408] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 148B: inserted, on 18 May 2011, by [section 5][409] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
 
 ##### 149 Subparts 5 and 5A expire if both islands meet their market share thresholds
     
@@ -3812,7 +3984,7 @@ Restructuring and regulation of dairy industry
     
     (3) Regulations made under [section 115][184] or [116][185] are revoked on the expiry of this subpart (except [section 134][206]).
     
-    Section 149: substituted, on 18 May 2011, by [section 5][408] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
+    Section 149: substituted, on 18 May 2011, by [section 5][409] of the Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011 (2011 No 20).
     
     Section 149 heading: amended, on 27 July 2012, by [section 13(1)][412] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
@@ -3920,11 +4092,9 @@ Restructuring and regulation of dairy industry
     
     (5) New co-op must make the terms of reference of the panel publicly available, including any amendments to those terms of reference.
     
-    (6) If new co-op contravenes subsection (1), (2), or (5), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (6) If new co-op contravenes subsection (1), (2), or (5), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150D: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150D(6): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 150E Appointment of members of panel
     
@@ -3932,11 +4102,9 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must ensure that at all times the chair and a majority of the members (including the chair) are independent.
     
-    (3) If, without reasonable excuse, new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (3) If, without reasonable excuse, new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150E: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150E(3): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Milk price manual
     
@@ -3948,11 +4116,9 @@ Restructuring and regulation of dairy industry
     
     (2) New co-op must make the manual publicly available, including any amendments to the manual.
     
-    (3) If new co-op contravenes subsection (1) or (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (3) If new co-op contravenes subsection (1) or (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150F: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150F(3): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 150G Steps new co-op must take if panel recommendation not followed or implemented
     
@@ -3984,11 +4150,9 @@ Restructuring and regulation of dairy industry
     
     *   (c) if subsection (1)(c) applies, make publicly available a statement of new co-op's reasons for amending the milk price manual without having received a recommendation by the panel for the amendment.
     
-    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150G: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150G(3): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Review of milk price manual by Commission
     
@@ -4092,11 +4256,9 @@ Restructuring and regulation of dairy industry
     
     *   (b) if subsection (1)(b) applies, make publicly available a statement of new co-op's reasons for setting the base milk price without having received a recommendation by the panel for the base milk price.
     
-    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150N: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150N(3): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 ##### 150O Commission must review calculation of base milk price
     
@@ -4142,11 +4304,9 @@ Restructuring and regulation of dairy industry
     
     *   (b) a statement of new co-op's reasons for the change.
     
-    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
+    (3) If new co-op contravenes subsection (2), it commits an offence and is liable on summary conviction to a fine not exceeding $200,000 and a fine of $10,000 for each day that the offence continues.
     
     Section 150R: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
-    
-    Section 150R(3): amended, on 4 October 2013, by [regulation 3(1)][414] of the Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409).
 
 #### Procedure for Commission's review of base milk price calculation
     
@@ -4200,19 +4360,19 @@ Restructuring and regulation of dairy industry
     
 *   (1) The following provisions of the Commerce Act 1986 apply, with all necessary modifications, to a review by the Commission under this subpart as if the review were an investigation by the Commission of a contravention of that Act:
         
-    *   (a) [sections 15 to 17][387]:
+    *   (a) [sections 15 to 17][388]:
     
-    *   (b) [sections 98 to 98G][394]:
+    *   (b) [sections 98 to 98G][395]:
     
-    *   (c) [section 99][397]:
+    *   (c) [section 99][398]:
     
-    *   (d) [sections 100 to 103][398]:
+    *   (d) [sections 100 to 103][399]:
     
-    *   (e) [section 106][403]:
+    *   (e) [section 106][404]:
     
-    *   (f) [section 109][405].
+    *   (f) [section 109][406].
     
-    (2) For the purpose of carrying out its functions and exercising its powers under this subpart, the Commission may, in addition to exercising its powers under [section 9][394]8 of the Commerce Act 1986, by notice in writing, require new co-op, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to any matter specified by the Commission.
+    (2) For the purpose of carrying out its functions and exercising its powers under this subpart, the Commission may, in addition to exercising its powers under [section 9][395]8 of the Commerce Act 1986, by notice in writing, require new co-op, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to any matter specified by the Commission.
     
     Section 150V: inserted, on 27 July 2012, by [section 14][413] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
@@ -4220,35 +4380,35 @@ Restructuring and regulation of dairy industry
 
 ##### 151 Shares issued on amalgamation neither dutiable gift nor dividend
     
-*   (1) The receipt by a person of shares issued by new co-op on the new co-op amalgamation in respect of shares held by the person in an amalgamating co-operative dairy company is neither a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][415] nor a dividend for the purposes of the [Income Tax Act 2007][416].
+*   (1) The receipt by a person of shares issued by new co-op on the new co-op amalgamation in respect of shares held by the person in an amalgamating co-operative dairy company is neither a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][414] nor a dividend for the purposes of the [Income Tax Act 2007][415].
     
-    (2) Neither [regulation 7][417] of the Co-operative Dairy Companies Income Tax Regulations 1955 nor [regulation 7][418] of the Cooperative Milk Marketing Companies Income Tax Regulations 1960 applies to permit the Commissioner of Inland Revenue to deem any of the receipts referred to in subsection (1) to be gross income other than a dividend.
+    (2) Neither [regulation 7][416] of the Co-operative Dairy Companies Income Tax Regulations 1955 nor [regulation 7][417] of the Cooperative Milk Marketing Companies Income Tax Regulations 1960 applies to permit the Commissioner of Inland Revenue to deem any of the receipts referred to in subsection (1) to be gross income other than a dividend.
     
     Compare: 1999 No 97 s 7(2), (3), (7)
     
-    Section 151(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 151(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 152 Available subscribed capital of new co-op
     
-*   For the purposes of the definition of the term available subscribed capital in [section YA 1][420] of the Income Tax Act 2007, and despite anything in that definition,---
+*   For the purposes of the definition of the term available subscribed capital in [section YA 1][419] of the Income Tax Act 2007, and despite anything in that definition,---
         
     *   (a) new co-op is deemed to receive, on the amalgamation date, an aggregate amount of consideration in respect of the issue of its shares equal to the total available subscribed capital of the Board at that date (before the application of paragraph (e)); and
     
     *   (b) new co-op is deemed to receive on each 1 June after the amalgamation date, up to and including 1 June 2006, an additional aggregate amount of consideration of $140,000,000 in respect of the issue of its shares; and
     
-    *   (c) the amounts of consideration new co-op is deemed to receive under paragraphs (a) and (b) are in addition to any other amount of consideration taken into account before the application of this section under the definition of available subscribed capital in the [Income Tax Act 2007][416]; and
+    *   (c) the amounts of consideration new co-op is deemed to receive under paragraphs (a) and (b) are in addition to any other amount of consideration taken into account before the application of this section under the definition of available subscribed capital in the [Income Tax Act 2007][415]; and
     
     *   (d) the total available subscribed capital of the Board referred to in paragraph (a) includes any amount of consideration that the Board is deemed to have received by virtue of section 15ZE(2) of the Dairy Board Act 1961; and
     
-    *   (e) the Board is deemed to have no available subscribed capital for the purposes of the [Income Tax Act 2007][416] on the amalgamation date, but is from that time onwards to have the available subscribed capital that it has according to the definition of available subscribed capital in [section YA 1][420] of the Income Tax Act 2007 as if it had never received any consideration in respect of the issue of its shares before that time.
+    *   (e) the Board is deemed to have no available subscribed capital for the purposes of the [Income Tax Act 2007][415] on the amalgamation date, but is from that time onwards to have the available subscribed capital that it has according to the definition of available subscribed capital in [section YA 1][419] of the Income Tax Act 2007 as if it had never received any consideration in respect of the issue of its shares before that time.
     
     Compare: 1961 No 5 s 15ZE(2); 1999 No 97 s 7(6)
     
-    Section 152: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 152: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 152(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 152(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 152(e): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 152(e): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 153 Class of shares in respect of which available subscribed capital is received
     
@@ -4270,27 +4430,27 @@ Restructuring and regulation of dairy industry
     
 *   (1) For the purpose of subsection (2), the holders of shares or options over shares in each company amalgamating in the new co-op amalgamation are deemed, at all times before the new co-op amalgamation, to be the same persons, holding in the same proportions, as the actual holders of shares or options over shares in new co-op immediately after the new co-op amalgamation.
     
-    (2) Subsection (1) applies for the purpose of determining the voting interest or market value interest of any person in the companies amalgamating in the new co-op amalgamation (other than Fonterra Co-operative Group Limited), in the Board, and in all companies in which new co-op has a voting interest or market value interest (determined as if [sections YC 4][421] and [YC 5][422] of the Income Tax Act 2007 did not deem voting interests and market value interests held by new co-op not to be so held by new co-op).
+    (2) Subsection (1) applies for the purpose of determining the voting interest or market value interest of any person in the companies amalgamating in the new co-op amalgamation (other than Fonterra Co-operative Group Limited), in the Board, and in all companies in which new co-op has a voting interest or market value interest (determined as if [sections YC 4][420] and [YC 5][421] of the Income Tax Act 2007 did not deem voting interests and market value interests held by new co-op not to be so held by new co-op).
     
-    (3) For the purposes of [subpart IE][423] of the Income Tax Act 2007 and the provisions relevant to [section IA 6][424] of that Act, new co-op and all the companies that amalgamate to form new co-op, and all the companies in the same group of companies as any company that amalgamates to form new co-op, including, for the avoidance of doubt, consolidated groups of companies (determined immediately before the new co-op amalgamation), are deemed to be in existence and in the same group of companies at all times before the new co-op amalgamation.
+    (3) For the purposes of [subpart IE][422] of the Income Tax Act 2007 and the provisions relevant to [section IA 6][423] of that Act, new co-op and all the companies that amalgamate to form new co-op, and all the companies in the same group of companies as any company that amalgamates to form new co-op, including, for the avoidance of doubt, consolidated groups of companies (determined immediately before the new co-op amalgamation), are deemed to be in existence and in the same group of companies at all times before the new co-op amalgamation.
     
-    (4) In this section, _consolidated group_, _group of companies_, _market value interest_, and _voting interest_ have the same meanings as in the [Income Tax Act 2007][416].
+    (4) In this section, _consolidated group_, _group of companies_, _market value interest_, and _voting interest_ have the same meanings as in the [Income Tax Act 2007][415].
     
-    Section 154(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 154(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 154(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 154(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 154(4): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 154(4): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 155 Taxation of company into which Board converts
     
-*   (1) This section applies, for the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][425] of the Tax Administration Act 1994), if the Board becomes, under this Act, a company registered under the [Companies Act 1993][382].
+*   (1) This section applies, for the purposes of the Inland Revenue Acts (within the meaning of [section 3(1)][424] of the Tax Administration Act 1994), if the Board becomes, under this Act, a company registered under the [Companies Act 1993][383].
     
-    (2) The company is not a statutory producer board for the purposes of the [Income Tax Act 2007][416].
+    (2) The company is not a statutory producer board for the purposes of the [Income Tax Act 2007][415].
     
-    (3) For the avoidance of doubt, and for the purposes of the [Income Tax Act 2007][416], the unexpired portion of any amount of accrual expenditure of the Board for the tax year of the conversion is deemed to be the unexpired portion of an amount of accrual expenditure of the company for the tax year of the conversion.
+    (3) For the avoidance of doubt, and for the purposes of the [Income Tax Act 2007][415], the unexpired portion of any amount of accrual expenditure of the Board for the tax year of the conversion is deemed to be the unexpired portion of an amount of accrual expenditure of the company for the tax year of the conversion.
     
-    (4) Subject to [section 154][263] and for the purposes of the [Income Tax Act 2007][416], the voting interests and market value interests in the Board for the period up until the conversion of the Board into a company must be calculated as if section 15ZE(3) to (5) of the Dairy Board Act 1961 had not been repealed.
+    (4) Subject to [section 154][263] and for the purposes of the [Income Tax Act 2007][415], the voting interests and market value interests in the Board for the period up until the conversion of the Board into a company must be calculated as if section 15ZE(3) to (5) of the Dairy Board Act 1961 had not been repealed.
     
     (5) Subsections (1) to (3) apply on and after the conversion date.
     
@@ -4298,75 +4458,75 @@ Restructuring and regulation of dairy industry
     
     Compare: 1961 No 5 s 15ZE(6)
     
-    Section 155(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 155(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 155(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 155(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 155(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 155(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 155(4): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 155(4): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 156 Gift duty and taxation in respect of Livestock Improvement Corporation Limited
     
-*   (1) The issue of shares by LIC under [section 60][101] is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][415] or a dividend for the purposes of the [Income Tax Act 2007][416].
+*   (1) The issue of shares by LIC under [section 60][101] is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][414] or a dividend for the purposes of the [Income Tax Act 2007][415].
     
-    (2) For the purposes of the [Income Tax Act 2007][416], the available subscribed capital of the shares issued under [section 60][101] is equal to the available subscribed capital of the shares which are cancelled under section 60\.
+    (2) For the purposes of the [Income Tax Act 2007][415], the available subscribed capital of the shares issued under [section 60][101] is equal to the available subscribed capital of the shares which are cancelled under section 60\.
     
-    (3) For the purposes of the [Income Tax Act 2007][416], if the constitution of LIC is altered on or after the day on which shares in LIC are issued under [section 60][101] (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder referred to in [section CW 42(5)(b)][427] of that Act,---
+    (3) For the purposes of the [Income Tax Act 2007][415], if the constitution of LIC is altered on or after the day on which shares in LIC are issued under [section 60][101] (or with effect as at or after that date) to allow any part of the funds of LIC to be used or be available to be used for the private pecuniary profit of any shareholder referred to in [section CW 42(5)(b)][426] of that Act,---
         
-    *   (a) the income of LIC that is exempt income only by virtue of [section CW 51][428] of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CW 51 of that Act; and
+    *   (a) the income of LIC that is exempt income only by virtue of [section CW 51][427] of that Act immediately before the alteration that is derived in the tax year in which the alteration comes into effect is income of LIC and is not exempt income under section CW 51 of that Act; and
     
     *   (b) the assets and rights of LIC are deemed to be disposed of to a person, not being an associated person of LIC, immediately before the beginning of the tax year in which the alteration is made, and to be re-acquired by LIC from that person for a consideration equal to their market value at the beginning of that tax year; and
     
-    *   (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under [section CW 51][428] of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
+    *   (c) the alteration of the constitution may not be treated as altering or affecting in any way the status, as exempt income, of any income of LIC that is exempt income under [section CW 51][427] of that Act, derived before the beginning of the tax year in which the alteration comes into effect.
     
     (4) Subsection (3)(c) does not apply if the Board retains any interest in LIC at the time that the constitution comes into effect so that any part of the funds of LIC is used or is available for use for the private pecuniary profit of the Board.
     
     (5) Subsection (4) does not apply to an interest that the Board retains in LIC by reason of the issue of shares under [section 60][101] to a person.
     
-    (6) The interpretation of the [Income Tax Act 2007][416] is not affected by subsection (3)(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
+    (6) The interpretation of the [Income Tax Act 2007][415] is not affected by subsection (3)(a), except to the extent of the effect of the application of that subsection to LIC in the circumstances indicated in that subsection.
     
     Compare: 1999 No 97 s 37
     
-    Section 156(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 156(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 156(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 156(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 156(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 156(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later), pursuant to [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later), pursuant to [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 156(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 156(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 156(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 156(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 156(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 156(3)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 156(3)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 156(6): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 156(6): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 157 Taxation of The New Zealand Dairy Research Institute
     
-*   (1) For the purposes of the [Income Tax Act 2007][416], the company referred to in [section 158(2)(a)][269]---
+*   (1) For the purposes of the [Income Tax Act 2007][415], the company referred to in [section 158(2)(a)][269]---
         
     *   (a) is deemed to acquire the assets, rights, and liabilities of the charitable trust known as The New Zealand Dairy Research Institute on the amalgamation date for their market values on that date; and
     
     *   (b) despite paragraph (a), is deemed to be the same person as that charitable trust.
     
-    (2) For the purposes of the [Income Tax Act 2007][416], nothing effected by [section 158][269] may be treated as in any way altering or affecting the status, as exempt income under [subpart CW][429] of that Act, of any income of that charitable trust before the amalgamation date.
+    (2) For the purposes of the [Income Tax Act 2007][415], nothing effected by [section 158][269] may be treated as in any way altering or affecting the status, as exempt income under [subpart CW][428] of that Act, of any income of that charitable trust before the amalgamation date.
     
-    (3) Subsection (1)(b) also applies for the purposes of the other Inland Revenue Acts (within the meaning of [section 3(1)][425] of the Tax Administration Act 1994).
+    (3) Subsection (1)(b) also applies for the purposes of the other Inland Revenue Acts (within the meaning of [section 3(1)][424] of the Tax Administration Act 1994).
     
-    (4) For the avoidance of doubt, the vesting that takes place under [section 158(2)(a)][269] is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][415].
+    (4) For the avoidance of doubt, the vesting that takes place under [section 158(2)(a)][269] is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][414].
     
-    Section 157(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 157(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 157(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][419] of the Income Tax Act 2007 (2007 No 97).
+    Section 157(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][418] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 157(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 157(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
 
 ### Subpart 7---The New Zealand Dairy Research Institute, sharemilkers, and miscellaneous provisions
 
@@ -4376,11 +4536,11 @@ Restructuring and regulation of dairy industry
     
 *   (1) The charitable trust known as The New Zealand Dairy Research Institute (the _trust_) is terminated on the amalgamation date, and the property of the trust ceases on that date to be trust property.
     
-    (2) Despite the [Charitable Trusts Act 1957][430] or any other Act or rule of law,---
+    (2) Despite the [Charitable Trusts Act 1957][429] or any other Act or rule of law,---
         
     *   (a) on the amalgamation date, the assets, rights, interests, obligations, and liabilities of the trust vest beneficially in the company that is on that date the trustee of the trust (the _Institute company_); and
     
-    *   (b) the Institute company may, on or after the amalgamation date and without further authority than this section, alter or revoke its constitution in accordance with the [Companies Act 1993][382], including for the purpose of removing the company's charitable purposes and the restrictions on its capacity, rights, powers, and privileges; and
+    *   (b) the Institute company may, on or after the amalgamation date and without further authority than this section, alter or revoke its constitution in accordance with the [Companies Act 1993][383], including for the purpose of removing the company's charitable purposes and the restrictions on its capacity, rights, powers, and privileges; and
     
     *   (c) proceedings that could have been commenced or continued by or against the trust before its termination may be commenced or continued by or against the Institute company; and
     
@@ -4388,7 +4548,7 @@ Restructuring and regulation of dairy industry
     
     *   (e) the Institute company is deemed to be the same person as the trust.
     
-    (3) The New Zealand Dairy Research Institute, a trust board registered under the [Charitable Trusts Act 1957][430], is dissolved on the amalgamation date and the Registrar of Incorporated Societies is directed to remove it from the register under [section 26][431] of that Act.
+    (3) The New Zealand Dairy Research Institute, a trust board registered under the [Charitable Trusts Act 1957][429], is dissolved on the amalgamation date and the Registrar of Incorporated Societies is directed to remove it from the register under [section 26][430] of that Act.
 
 ##### 159 Employees
     
@@ -4408,9 +4568,9 @@ Restructuring and regulation of dairy industry
 
 ##### 160 Sharemilkers
     
-*   (1) [Section 44][432] of the Co-operative Companies Act 1996 (as repealed and substituted by this section) applies to new co-op with any necessary modifications, while new co-op is registered under either [Part 2][360] or [Part 3][433] of the Co-operative Companies Act 1996\.
+*   (1) [Section 44][431] of the Co-operative Companies Act 1996 (as repealed and substituted by this section) applies to new co-op with any necessary modifications, while new co-op is registered under either [Part 2][360] or [Part 3][432] of the Co-operative Companies Act 1996\.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][434]._
+    (2) _Amendment(s) incorporated in the [Act(s)][433]._
 
 #### Miscellaneous provisions
 
@@ -4422,19 +4582,19 @@ Restructuring and regulation of dairy industry
     
     *   (b) require shares to be surrendered or forfeited at a value determined in accordance with the constitution.
     
-    (2) [Sections 17 to 21][435], [22(4)][436], [23 to 28][437], and [29(a) and (b)][438] of the Co-operative Companies Act 1996 apply to the issue, surrender, or forfeiture of those shares by or to new co-op as if references in those sections to nominal value were references to the value of the shares determined in accordance with the constitution and with all other necessary modifications.
+    (2) [Sections 17 to 21][434], [22(4)][435], [23 to 28][436], and [29(a) and (b)][437] of the Co-operative Companies Act 1996 apply to the issue, surrender, or forfeiture of those shares by or to new co-op as if references in those sections to nominal value were references to the value of the shares determined in accordance with the constitution and with all other necessary modifications.
     
     (3) When [section 77A][124] applies (_see_ [section 77B][125]), subsections (1) and (2) do not apply, and subsections (4) and (5) apply in their place (but not otherwise).
     
-    (4) Nothing in the [Co-operative Companies Act 1996][434] prevents new co-op from setting a price of a co-operative share under [section 77][123].
+    (4) Nothing in the [Co-operative Companies Act 1996][433] prevents new co-op from setting a price of a co-operative share under [section 77][123].
     
-    (5) [Sections 17 to 19][435], [20(1) and (4)][439], [21][440], [22(4)][436], [23 to 28][437], and [29(a) and (b)][438] of the Co-operative Companies Act 1996 apply to the issue, surrender, or forfeiture of co-operative shares as if references in those sections to nominal value were references to the value of the shares set under [section 77][123] and with all other necessary modifications.
+    (5) [Sections 17 to 19][434], [20(1) and (4)][438], [21][439], [22(4)][435], [23 to 28][436], and [29(a) and (b)][437] of the Co-operative Companies Act 1996 apply to the issue, surrender, or forfeiture of co-operative shares as if references in those sections to nominal value were references to the value of the shares set under [section 77][123] and with all other necessary modifications.
     
-    Section 161(3): inserted, on 27 July 2012, by [section 15][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161(3): inserted, on 27 July 2012, by [section 15][440] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 161(4): inserted, on 27 July 2012, by [section 15][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161(4): inserted, on 27 July 2012, by [section 15][440] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
     
-    Section 161(5): inserted, on 27 July 2012, by [section 15][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161(5): inserted, on 27 July 2012, by [section 15][440] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 161A Voting rights in respect of new co-op fund securities held by new co-op or nominee
     
@@ -4458,25 +4618,25 @@ Restructuring and regulation of dairy industry
     
     *   (e) any change in the terms on which the veto security is issued.
     
-    Section 161A: inserted, on 27 July 2012, by [section 16][442] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161A: inserted, on 27 July 2012, by [section 16][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 161B New co-op may acquire new co-op fund securities
     
 *   (1) New co-op may, in accordance with this section, but not otherwise, acquire new co-op fund securities.
     
-    (2) [Sections 52][443] and [56][444] of the Companies Act 1993 apply, with all necessary modifications, to the acquisition of new co-op fund securities by new co-op as if the acquisition were a distribution.
+    (2) [Sections 52][442] and [56][443] of the Companies Act 1993 apply, with all necessary modifications, to the acquisition of new co-op fund securities by new co-op as if the acquisition were a distribution.
     
-    (3) [Section 53][445] of the Companies Act 1993 does not apply to the acquisition of new co-op fund securities by new co-op.
+    (3) [Section 53][444] of the Companies Act 1993 does not apply to the acquisition of new co-op fund securities by new co-op.
     
     (4) Subject to subsection (5), new co-op fund securities may be held by new co-op and are not required to be exchanged for co-operative shares immediately on acquisition, but may be exchanged after acquisition.
     
-    (5) New co-op fund securities acquired under this section are required to be exchanged for co-operative shares immediately on acquisition if the number of new co-op fund securities acquired, when aggregated with other new co-op fund securities and co-operative shares held by new co-op at the time of the acquisition, exceeds 5% of all co-operative shares issued by new co-op, excluding any co-operative shares deemed to be cancelled under [section 66(1)][446] of the Companies Act 1993 or [section 161C(3)][277].
+    (5) New co-op fund securities acquired under this section are required to be exchanged for co-operative shares immediately on acquisition if the number of new co-op fund securities acquired, when aggregated with other new co-op fund securities and co-operative shares held by new co-op at the time of the acquisition, exceeds 5% of all co-operative shares issued by new co-op, excluding any co-operative shares deemed to be cancelled under [section 66(1)][445] of the Companies Act 1993 or [section 161C(3)][277].
     
     (6) Within 10 working days after the acquisition of new co-op fund securities, the board of new co-op must ensure that notice of the acquisition is delivered to each registered market on which co-operative shares are listed.
     
-    (7) If the board of new co-op fails to comply with subsection (6), every director of new co-op commits an offence as if the board of new co-op had failed to comply with [section 58(3)][447] of the Companies Act 1993\.
+    (7) If the board of new co-op fails to comply with subsection (6), every director of new co-op commits an offence as if the board of new co-op had failed to comply with [section 58(3)][446] of the Companies Act 1993\.
     
-    (8) If new co-op acquires or proposes to acquire new co-op fund securities, [sections 60(3) to (7)][448], [61(1) to (6) and (8) to (10)][449], [62][450], [63][451] (except subsection (3A)), [64][452], [65][453] (except subsections (2)(a) and (2B)), and [67][454] of the Companies Act 1993 apply as if---
+    (8) If new co-op acquires or proposes to acquire new co-op fund securities, [sections 60(3) to (7)][447], [61(1) to (6) and (8) to (10)][448], [62][449], [63][450] (except subsection (3A)), [64][451], [65][452] (except subsections (2)(a) and (2B)), and [67][453] of the Companies Act 1993 apply as if---
         
     *   (a) a reference to a company or the company were a reference to new co-op:
     
@@ -4590,13 +4750,13 @@ Restructuring and regulation of dairy industry
     
     *   (q) a reference to stock exchange were a reference to registered market.
     
-    Section 161B: inserted, on 27 July 2012, by [section 16][442] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161B: inserted, on 27 July 2012, by [section 16][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 161C New co-op may exchange new co-op fund securities for co-operative shares
     
 *   (1) New co-op may acquire co-operative shares by exchanging new co-op fund securities it has acquired in accordance with [section 161B][276] for co-operative shares.
     
-    (2) Nothing in [section 58(1)][447] of the Companies Act 1993 prevents the acquisition of co-operative shares under subsection (1) and section 58(2) of that Act does not apply to co-operative shares so acquired.
+    (2) Nothing in [section 58(1)][446] of the Companies Act 1993 prevents the acquisition of co-operative shares under subsection (1) and section 58(2) of that Act does not apply to co-operative shares so acquired.
     
     (3) Subject to subsection (4), co-operative shares acquired under this section are deemed to be cancelled immediately on acquisition.
     
@@ -4606,13 +4766,13 @@ Restructuring and regulation of dairy industry
     
     *   (b) the board of new co-op resolves that the co-operative shares concerned must not be cancelled on acquisition; and
     
-    *   (c) the number of co-operative shares acquired, when aggregated with other co-operative shares held by new co-op pursuant to this section or [section 67A][358] of the Companies Act 1993 and new co-op fund securities held by new co-op pursuant to [section 161B][276] at the time of the acquisition, does not exceed 5% of all co-operative shares issued by new co-op, excluding any co-operative shares deemed to be cancelled under [section 66(1)][446] of the Companies Act 1993 or subsection (3).
+    *   (c) the number of co-operative shares acquired, when aggregated with other co-operative shares held by new co-op pursuant to this section or [section 67A][358] of the Companies Act 1993 and new co-op fund securities held by new co-op pursuant to [section 161B][276] at the time of the acquisition, does not exceed 5% of all co-operative shares issued by new co-op, excluding any co-operative shares deemed to be cancelled under [section 66(1)][445] of the Companies Act 1993 or subsection (3).
     
     (5) Co-operative shares acquired under this section that, pursuant to this section, are not deemed to be cancelled must be held by new co-op.
     
     (6) A co-operative share that new co-op holds under subsection (5) may be cancelled by the board of new co-op resolving that the co-operative share is cancelled, and the co-operative share is deemed to be cancelled on the making of that resolution.
     
-    Section 161C: inserted, on 27 July 2012, by [section 16][442] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161C: inserted, on 27 July 2012, by [section 16][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 161D Financial assistance by new co-op for purchase of co-operative shares
     
@@ -4652,17 +4812,23 @@ Restructuring and regulation of dairy industry
         
         
     
-    (2) The [Companies Act 1993][382], excluding [section 76(1) and (2)][455] of that Act, applies with all necessary modifications to the giving of financial assistance under subsection (1) as if the financial assistance were given under section 76(1) of that Act.
+    (2) The [Companies Act 1993][383], excluding [section 76(1) and (2)][454] of that Act, applies with all necessary modifications to the giving of financial assistance under subsection (1) as if the financial assistance were given under section 76(1) of that Act.
     
-    (3) Nothing in this section affects the giving of financial assistance by new co-op under [section 76(1)][455] of the Companies Act 1993\.
+    (3) Nothing in this section affects the giving of financial assistance by new co-op under [section 76(1)][454] of the Companies Act 1993\.
     
-    Section 161D: inserted, on 27 July 2012, by [section 16][442] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161D: inserted, on 27 July 2012, by [section 16][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 161E Application of Companies Act 1993
     
-*   Nothing in [section 82][456] of the Companies Act 1993 (the _Act_) prevents a subsidiary of new co-op holding shares in new co-op if the only reason that the exemption contained in [section 82(6)][456] of the Act does not apply is that new co-op or a subsidiary of new co-op holds new co-op fund securities.
+*   Nothing in [section 82][455] of the Companies Act 1993 (the _Act_) prevents a subsidiary of new co-op holding shares in new co-op if the only reason that the exemption contained in [section 82(6)][455] of the Act does not apply is that new co-op or a subsidiary of new co-op holds new co-op fund securities.
     
-    Section 161E: inserted, on 27 July 2012, by [section 16][442] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 161E: inserted, on 27 July 2012, by [section 16][441] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+
+##### 161F Application of section 20(2) and (3) of Co-operative Companies Act 1996
+    
+*   [Section 20(2) and (3)][438] of the Co-operative Companies Act 1996 do not apply to new co-op.
+    
+    Section 161F: inserted, on 30 November 2012, by [section 17][456] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 162 Shareholders' Council of new co-op
     
@@ -4678,7 +4844,7 @@ Restructuring and regulation of dairy industry
 
 ##### 164 Validation of issue of certain shares
     
-*   (1) A failure to comply with [section 50][457] of the Companies Act 1993 does not invalidate the issue, before the commencement of this section, of a share in a co-operative company that is registered as a co-operative dairy company under [Part 3][433] of the Co-operative Companies Act 1996\.
+*   (1) A failure to comply with [section 50][457] of the Companies Act 1993 does not invalidate the issue, before the commencement of this section, of a share in a co-operative company that is registered as a co-operative dairy company under [Part 3][432] of the Co-operative Companies Act 1996\.
     
     (2) This section does not affect any rights at issue in an action commenced before 6 September 2001\.
 
@@ -4688,27 +4854,27 @@ Restructuring and regulation of dairy industry
     
 *   (1) The Dairy Board Act 1961 (1961 No 5) is repealed on the conversion date.
     
-    (2) The orders specified in [Schedule 6][301] are revoked on the amalgamation date.
+    (2) The orders specified in [Schedule 6][302] are revoked on the amalgamation date.
     
     (3) \[Repealed\]
     
-    (4) The rest of the Acts specified in [Schedule 7][302] are amended in the manner shown in that schedule on the amalgamation date.
+    (4) The rest of the Acts specified in [Schedule 7][303] are amended in the manner shown in that schedule on the amalgamation date.
     
-    (5) The orders specified in [Schedule 8][303] are amended in the manner shown in that schedule on the amalgamation date.
+    (5) The orders specified in [Schedule 8][304] are amended in the manner shown in that schedule on the amalgamation date.
     
-    Section 165(3): repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+    Section 165(3): repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
 
 #### Transitional provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Heading: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 166 Board must supply information about export permits
     
 *   \[Repealed\]
     
-    Section 166: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 166: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 #### Savings provisions
 
@@ -4716,17 +4882,17 @@ Restructuring and regulation of dairy industry
     
 *   \[Repealed\]
     
-    Section 167: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 167: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 168 Annual report and statements for season ending 31 May 2001
     
 *   \[Repealed\]
     
-    Section 168: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+    Section 168: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ##### 169 Saving relating to superannuation schemes
     
-*   Despite [section 165(1)][284], section 45(2) and (3) of the Dairy Board Act 1961 continues to apply on and after the conversion date in respect of any person who,---
+*   Despite [section 165(1)][285], section 45(2) and (3) of the Dairy Board Act 1961 continues to apply on and after the conversion date in respect of any person who,---
         
     *   (a) before that date, became a member of a scheme established under that section; or
     
@@ -4743,7 +4909,7 @@ Specified provisions of new co-op constitution
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Schedule 1: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ---
 
@@ -4754,7 +4920,7 @@ Amendments to Dairy Board Act 1961 taking effect on amalgamation date
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Schedule 2: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ---
 
@@ -4765,7 +4931,7 @@ Provisions applying in relation to conversion of Board
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Schedule 3: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ---
 
@@ -4776,7 +4942,7 @@ Default procedure for compulsory buy-out of exiting companies before conversion 
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 27 July 2012, by [section 18][305] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
+*   Schedule 4: repealed, on 27 July 2012, by [section 18][306] of the Dairy Industry Restructuring Amendment Act 2012 (2012 No 51).
 
 ---
 
@@ -4896,7 +5062,7 @@ Rules for allocation of export licences to multiple participants for designated 
 ## Schedule 5C  
 Form of statutory declaration
 
-[Schedule 5B][297]
+[Schedule 5B][298]
 
 *   Schedule 5C: inserted, on 15 December 2007, by [section 20][459] of the Dairy Industry Restructuring Amendment Act 2007 (2007 No 107).
 
@@ -4905,9 +5071,9 @@ Form of statutory declaration
 
 I, \[_full name_\], of \[_address_\], being the chief executive officer\*/director\* of \[_name of company_\], solemnly and sincerely declare that to the best of my knowledge, having made all reasonable inquiries,---
     
-*   (a) the information attached to this declaration is a true copy of information that complies with the requirements of [Schedule 5B][297]; and
+*   (a) the information attached to this declaration is a true copy of information that complies with the requirements of [Schedule 5B][298]; and
 
-*   (b) the \[_specify statement(s), report(s), or information_\] attached to this declaration is/are\* the \[_statement(s), report(s), or information_\] required to be supplied by the chief executive under [Schedule 5B][297].
+*   (b) the \[_specify statement(s), report(s), or information_\] attached to this declaration is/are\* the \[_statement(s), report(s), or information_\] required to be supplied by the chief executive under [Schedule 5B][298].
 
 \*Delete if inapplicable.
 
@@ -4930,7 +5096,7 @@ Search warrant
 
 \[Repealed\]
 
-*   Schedule 5D: repealed, on 1 October 2012, by [section 230(8)][331] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 5D: repealed, on 1 October 2012, by [section 230(8)][332] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -5087,21 +5253,15 @@ Incorporation of material by reference in regulations
     
     (4) Failure to comply with this clause does not invalidate regulations that incorporate material.
 
-##### 8 Application of Legislation Act 2012
+##### 8 Acts and Regulations Publication Act 1989
     
-*   (1) [Part 2][463] of the Legislation Act 2012 does not apply to material incorporated in regulations.
-    
-    (2) [Subpart 1][464] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material.
-    
-    (3) However, nothing in [section 41][465] of the Legislation Act 2012 requires material incorporated in regulations to be presented to the House of Representatives.
-    
-    Schedule 5E clause 8: replaced, on 5 August 2013, by [section 77(3)][411] of the Legislation Act 2012 (2012 No 119).
+*   The [Acts and Regulations Publication Act 1989][463] does not apply to material incorporated in regulations.
 
 ##### 9 Regulations (Disallowance) Act 1989
     
-*   \[Repealed\]
+*   (1) The [Regulations (Disallowance) Act 1989][464] applies to regulations that incorporate material.
     
-    Schedule 5E clause 9: repealed, on 5 August 2013, by [section 77(3)][411] of the Legislation Act 2012 (2012 No 119).
+    (2) However, nothing in [section 4][465] of that Act requires material incorporated in regulations to be presented to the House of Representatives.
 
 ##### 10 Standards Act 1988
     
@@ -5112,7 +5272,7 @@ Incorporation of material by reference in regulations
 ## Schedule 6  
 Orders revoked
 
-[s 165(2)][284]
+[s 165(2)][285]
 
 ##### Auckland Milk Supply Association Order 1984 (SR 1984/221)
 
@@ -5141,7 +5301,7 @@ Orders revoked
 ## Schedule 7  
 Enactments amended
 
-[s 165(3), (4)][284]
+[s 165(3), (4)][285]
 
 ##### Agriculture (Emergency Powers) Act 1934 (1934 No 34)
 
@@ -5223,14 +5383,14 @@ _Amendment(s) incorporated in the [Act(s)][474]._
 
 _Amendment(s) incorporated in the Act(s)._
 
-Schedule 7 **Income Tax Act 1994**: repealed, on 1 April 2005, by [section YA 2][426] of the Income Tax Act 2004 (2004 No 35).
+Schedule 7 **Income Tax Act 1994**: repealed, on 1 April 2005, by [section YA 2][425] of the Income Tax Act 2004 (2004 No 35).
 
 ---
 
 ## Schedule 8  
 Orders amended
 
-[s 165(5)][284]
+[s 165(5)][285]
 
 ##### Biosecurity (Bovine Tuberculosis---Cattle Levy) Order 1998 (SR 1998/457)
 
@@ -5331,61 +5491,172 @@ Miscellaneous
     
     
 
-#### 
+---
+
+# Search and Surveillance Act 2012Public Act2012 No 24
+
+Date of assent5 April 2012
+
+Commencementsee section 2
+
+##### 1 Title
+    
+*   This Act is the [Search and Surveillance Act 2012][480].
+
+##### 2 Commencement
+    
+*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
+    
+    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+    
+    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
+    
+    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
+    
+    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][481] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
+
+## Part 1  
+General provisions
+
+##### 5 Purpose
+    
+*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
+        
+    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
+    
+    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
+    
+    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
+    
+    
+
+## Part 5  
+Amendments, repeals, and miscellaneous provisions
+
+### Subpart 4---Regulation-making powers, transitional provisions, and review provision
+
+#### Transitional provisions
+
+##### 351 Transitional provision relating to provisions brought into force under section 2
+    
+*   (1) Despite any amendment in Part 5 of this Act,---
+        
+    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+    
+    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
+    
+    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
+    
+    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
+    
+    (3) In this section,---
+    
+    _authorising Act_ means an Act amended by Part 5
+    
+    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
+        
+    *   (a) before the relevant commencement; or
+    
+    *   (b) on or after that date on an application made before that date
+    
+    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
-##### Reprints notes
+#### Contents
+    
+*   1General
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
+
+---
+
+##### Notes
 
 ###### 1 General
     
-*   This is a reprint of the Dairy Industry Restructuring Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+*   This is a reprint of the Dairy Industry Restructuring Act 2001\. The reprint incorporates all the amendments to the Act as at 30 November 2012, as specified in the list of amendments at the end of these notes.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][482] ![](/images/external_link.gif).
 
-###### 2 Legal status
+###### 2 Status of reprints
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][480] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][481] of that Act.
+*   Under [section 16D][483] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+    
+    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
-###### 3 Editorial and format changes
+###### 3 How reprints are prepared
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][482] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][483] ![](/images/external_link.gif).
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][484] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
-###### 4 Amendments incorporated in this reprint
+###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][414]
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][485] and [17E][486] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
-    Legislation Act 2012 (2012 No 119): [section 77(3)][411]
+    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    
+    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
+        
+    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   •typeface and type size (Times Roman, generally in 11.5 point)
+    *   •layout of provisions, including:
+            
+        *   •indentation
+        *   •position of section headings (eg, the number and heading now appear above the section)
+        
+    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   •position of the date of assent (it now appears on the front page of each Act)
+    *   •punctuation (eg, colons are not used after definitions)
+    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   •case and appearance of letters and words, including:
+            
+        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   •small capital letters in section and subsection references are now capital letters
+        
+    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   •running heads (the information that appears at the top of each page)
+    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    
+    
+
+###### 5 List of amendments incorporated in this reprint (most recent first)
+    
+*   [Dairy Industry Restructuring (Trading Among Farmers) Order 2012][366] (SR 2012/345)
     
     [Dairy Industry Restructuring Amendment Act 2012][479] (2012 No 51)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 230][331]
+    Search and Surveillance Act 2012 (2012 No 24): [section 230][332]
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][343]
+    [Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011][487] (2011 No 20)
     
-    [Dairy Industry Restructuring (New Sunset Provisions) Amendment Act 2011][484] (2011 No 20)
+    [Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010][488] (2010 No 11)
     
-    [Dairy Industry Restructuring (Raw Milk Pricing Methods) Act 2010][485] (2010 No 11)
+    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][369]
     
-    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][367]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][339]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][338]
+    [Dairy Industry Restructuring Amendment Act 2007][489] (2007 No 107)
     
-    [Dairy Industry Restructuring Amendment Act 2007][486] (2007 No 107)
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][418]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][419]
+    [Dairy Industry Restructuring Amendment Act 2005][490] (2005 No 99)
     
-    [Dairy Industry Restructuring Amendment Act 2005][487] (2005 No 99)
+    Crown Entities Act 2004 (2004 No 115): [section 200][407]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][406]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][425]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][426]
+    Supreme Court Act 2003 (2003 No 53): [section 48(2)][381]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(2)][380]
+    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][370]
     
-    Securities Markets Amendment Act 2002 (2002 No 44): [section 30][368]
+    Dairy Industry Restructuring Act 2001 (2001 No 51): [section 109A][163]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998524
+[0]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195466
 [1]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM106754
 [2]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM106755
 [3]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM106756
@@ -5665,70 +5936,70 @@ Miscellaneous
 [277]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM4642783
 [278]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM4642784
 [279]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM4642785
-[280]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110106
-[281]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110107
-[282]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110108
-[283]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110109
-[284]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110110
-[285]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110112
-[286]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110113
-[287]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110114
-[288]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110115
-[289]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110116
-[290]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110117
-[291]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110118
-[292]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110177
-[293]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110515
-[294]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110547
-[295]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110574
-[296]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125418
-[297]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125420
-[298]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125422
-[299]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125426
-[300]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM2887911
-[301]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110576
-[302]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110588
-[303]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110912
-[304]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87622
-[305]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4372012
-[306]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87970
-[307]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM319999
-[308]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM12142
-[309]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM321666
-[310]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM323203
-[311]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM144941
-[312]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87631
-[313]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM139735
-[314]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM321142
-[315]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM34802
-[316]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM222504
-[317]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376828
-[318]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062948
-[319]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371913
-[320]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062977
-[321]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062978
-[322]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062979
-[323]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062981
-[324]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062982
-[325]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062984
-[326]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062986
-[327]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM377336
-[328]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062988
-[329]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062991
-[330]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062992
-[331]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136958
-[332]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136542
-[333]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136781
-[334]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136770
-[335]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136813
-[336]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136815
-[337]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136860
-[338]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1102349
-[339]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM378459
-[340]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM379566
-[341]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM391910
-[342]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM391912
-[343]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3360714
+[280]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM6263469
+[281]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110106
+[282]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110107
+[283]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110108
+[284]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110109
+[285]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110110
+[286]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110112
+[287]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110113
+[288]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110114
+[289]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110115
+[290]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110116
+[291]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110117
+[292]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110118
+[293]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110177
+[294]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110515
+[295]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110547
+[296]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110574
+[297]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125418
+[298]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125420
+[299]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125422
+[300]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM1125426
+[301]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM2887911
+[302]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110576
+[303]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110588
+[304]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM110912
+[305]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87622
+[306]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4372012
+[307]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87970
+[308]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM319999
+[309]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM12142
+[310]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM321666
+[311]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM323203
+[312]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM144941
+[313]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM87631
+[314]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM139735
+[315]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM321142
+[316]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM34802
+[317]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM222504
+[318]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376828
+[319]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062948
+[320]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371913
+[321]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062977
+[322]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062978
+[323]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062979
+[324]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062981
+[325]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062982
+[326]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062984
+[327]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062986
+[328]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM377336
+[329]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062988
+[330]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062991
+[331]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062992
+[332]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136958
+[333]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136542
+[334]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136781
+[335]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136770
+[336]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136813
+[337]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136815
+[338]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136860
+[339]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1102349
+[340]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM378459
+[341]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM379566
+[342]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM391910
+[343]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM391912
 [344]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1063009
 [345]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM379940
 [346]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM398692
@@ -5750,107 +6021,107 @@ Miscellaneous
 [362]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1063011
 [363]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1063013
 [364]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371945
-[365]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371946
-[366]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM139931
-[367]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2498696
-[368]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM162198
-[369]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM361702
-[370]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM27268
-[371]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM280030
-[372]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371969
-[373]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371956
-[374]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4544202
-[375]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477309
-[376]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM25999
-[377]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4544203
-[378]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3557001
-[379]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477310
-[380]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM214522
-[381]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371970
-[382]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM319569
-[383]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89442
-[384]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89439
-[385]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89467
-[386]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89469
-[387]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM88206
-[388]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89425
-[389]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89430
-[390]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89490
-[391]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89493
-[392]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89495
-[393]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89496
-[394]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89917
-[395]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89919
-[396]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89932
-[397]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89937
-[398]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89944
-[399]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89948
-[400]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89950
-[401]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89951
-[402]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89955
-[403]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89961
-[404]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89967
-[405]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89981
-[406]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM331111
-[407]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371971
-[408]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3258410
-[409]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998510
-[410]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371972
-[411]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998633
+[365]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4639265
+[366]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4871979
+[367]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371946
+[368]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM139931
+[369]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2498696
+[370]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM162198
+[371]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM361702
+[372]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM27268
+[373]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM280030
+[374]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371956
+[375]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4544202
+[376]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477309
+[377]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM25999
+[378]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4544203
+[379]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3557001
+[380]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477310
+[381]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM214522
+[382]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371970
+[383]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM319569
+[384]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89442
+[385]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89439
+[386]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89467
+[387]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89469
+[388]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM88206
+[389]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89425
+[390]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89430
+[391]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89490
+[392]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89493
+[393]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89495
+[394]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89496
+[395]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89917
+[396]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89919
+[397]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89932
+[398]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89937
+[399]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89944
+[400]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89948
+[401]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89950
+[402]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89951
+[403]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89955
+[404]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89961
+[405]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89967
+[406]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM89981
+[407]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM331111
+[408]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371971
+[409]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3258410
+[410]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195428
+[411]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371972
 [412]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371973
 [413]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371974
-[414]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM5642106
-[415]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM385591
-[416]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1512300
-[417]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM9227
-[418]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM14180
-[419]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523176
-[420]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1520575
-[421]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523065
-[422]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523074
-[423]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1517764
-[424]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1517703
-[425]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM348353
-[426]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM277147
-[427]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513271
-[428]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513289
-[429]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513125
-[430]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM308795
-[431]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM309946
-[432]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376894
-[433]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376876
-[434]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376809
-[435]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376846
-[436]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376851
-[437]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376852
-[438]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376863
-[439]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376849
-[440]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376850
-[441]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4511306
-[442]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4372006
-[443]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320170
-[444]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320176
-[445]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320173
-[446]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320196
-[447]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320179
-[448]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320183
-[449]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320184
-[450]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320187
-[451]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320188
-[452]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320192
-[453]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320193
-[454]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320198
-[455]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320421
-[456]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320437
+[414]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM385591
+[415]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1512300
+[416]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM9227
+[417]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM14180
+[418]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523176
+[419]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1520575
+[420]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523065
+[421]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1523074
+[422]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1517764
+[423]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1517703
+[424]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM348353
+[425]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM277147
+[426]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513271
+[427]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513289
+[428]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1513125
+[429]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM308795
+[430]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM309946
+[431]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376894
+[432]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376876
+[433]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376809
+[434]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376846
+[435]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376851
+[436]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376852
+[437]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376863
+[438]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376849
+[439]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM376850
+[440]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4511306
+[441]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4372006
+[442]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320170
+[443]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320176
+[444]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320173
+[445]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320196
+[446]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320179
+[447]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320183
+[448]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320184
+[449]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320187
+[450]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320188
+[451]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320192
+[452]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320193
+[453]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320198
+[454]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320421
+[455]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320437
+[456]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4372010
 [457]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM320167
 [458]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1063014
 [459]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1063015
 [460]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM314552
 [461]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477312
 [462]: http://www.legislation.govt.nz/act/public/2001/0051/latest/whole.html#DLM2887924
-[463]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2997693
-[464]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998558
-[465]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998573
+[463]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195097
+[464]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195534
+[465]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195549
 [466]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM128740
 [467]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM328991
 [468]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM18090
@@ -5865,11 +6136,14 @@ Miscellaneous
 [477]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM9233
 [478]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM14187
 [479]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4371901
-[480]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998516
-[481]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998515
-[482]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2998532
-[483]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[484]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3258402
-[485]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477300
-[486]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062940
-[487]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM361196
+[480]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2136500
+[481]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM4686448
+[482]: http://www.pco.parliament.govt.nz/reprints/
+[483]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195439
+[484]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[485]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195468
+[486]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM195470
+[487]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM3258402
+[488]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM2477300
+[489]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM1062940
+[490]: http://www.legislation.govt.nz/act/public/2001/0051/latest/link.aspx?id=DLM361196
