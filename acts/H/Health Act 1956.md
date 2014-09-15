@@ -7878,6 +7878,8 @@ Venereal granuloma
 
 ## Part 3  
 Quarantinable infectious diseases
+    
+*   Schedule 1 Part 3: replaced, on 5 September 2014, by [clause 3(3)][612] of the Infectious and Notifiable Diseases Order 2014 (LI 2014/293).
 
 Avian influenza (capable of being transmitted between human beings)
 
@@ -7892,8 +7894,6 @@ Plague
 Viral haemorrhagic fevers (capable of being transmitted between human beings)
 
 Yellow fever
-    
-*   Schedule 1 Part 3: replaced, on 5 September 2014, by [clause 3(3)][612] of the Infectious and Notifiable Diseases Order 2014 (LI 2014/293).
 
 ---
 
