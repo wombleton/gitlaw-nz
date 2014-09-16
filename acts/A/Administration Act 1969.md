@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2013
+as at 13 September 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1441,23 +1441,25 @@ Administration by administrator
 
 ##### 67 Other Acts providing for payment without administration not affected
     
-*   (1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, [section 86][202] of the Patents Act 1953, [section 41][203] of the Designs Act 1953, [section 52][204] of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
+*   (1) Nothing in this Act shall affect the powers of any person or body to make any payment to, or register any person to be, the owner of any property in accordance with any of the provisions of section 109 of the Shipping and Seamen Act 1952, [section 167][202] of the Patents Act 2013, [section 41][203] of the Designs Act 1953, [section 52][204] of the Trade Marks Act 2002, or of any other enactment for the time being in force authorising the payment of money belonging to the estate of a deceased person without requiring administration of the estate to be obtained.
     
     (2) Nothing in this Act, other than [Part 1A][81], shall affect the power of any building society, friendly society, industrial and provident society, trustee savings bank, private savings bank, or the Post Office Bank Limited, to make payment of any money or to transfer any property in accordance with a nomination made by any person pursuant to any other enactment.
     
     Compare: 1952 No 56 s 43(3); 1964 No 24 [ss 2][205], [4(6)][206]
     
-    Section 67(1): amended, on 20 August 2003, by [section 201][207] of the Trade Marks Act 2002 (2002 No 49).
+    Section 67(1): amended, on 13 September 2014, by [section 249][207] of the Patents Act 2013 (2013 No 68).
+    
+    Section 67(1): amended, on 20 August 2003, by [section 201][208] of the Trade Marks Act 2002 (2002 No 49).
     
     Section 67(1): amended, on 1 July 1994, by section 3 of the Administration Amendment Act 1993 (1993 No 109).
     
-    Section 67(2): amended, on 1 April 1987, by [section 32(1)][208] of the State-Owned Enterprises Act 1986 (1986 No 124).
+    Section 67(2): amended, on 1 April 1987, by [section 32(1)][209] of the State-Owned Enterprises Act 1986 (1986 No 124).
     
     Section 67(2): amended (with effect on 11 December 1982), on 11 June 1985, by section 2 of the Administration Amendment Act 1985 (1985 No 79).
 
 ##### 68 Bondsmen and sureties deemed to be trustees
     
-*   Every person who, in the capacity of bondsman or surety for another, receives money or other property belonging to the estate of any deceased person shall be deemed to be a trustee within the meaning of the [Trustee Act 1956][209] in respect of that money or property, and may under that Act apply for relief and to be discharged from the custody of the money or property.
+*   Every person who, in the capacity of bondsman or surety for another, receives money or other property belonging to the estate of any deceased person shall be deemed to be a trustee within the meaning of the [Trustee Act 1956][210] in respect of that money or property, and may under that Act apply for relief and to be discharged from the custody of the money or property.
     
     Compare: 1952 No 56 s 44
 
@@ -1586,7 +1588,7 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 54
     
-    Section 75: amended, on 1 January 1980, by [section 9(1)][210] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 75: amended, on 1 January 1980, by [section 9(1)][211] of the Administration Amendment Act 1979 (1979 No 38).
 
 ##### 76 Abolition of escheat
     
@@ -1600,7 +1602,7 @@ Distribution of intestate estates
     
     **Person or people intestate leaves** **How estate to be distributed**
     
-    1Husband, wife, civil union partner, or surviving de facto partner, but no issue and no parents **Personal chattels (as defined in [section 2(1)][211]):**  
+    1Husband, wife, civil union partner, or surviving de facto partner, but no issue and no parents **Personal chattels (as defined in [section 2(1)][212]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1609,7 +1611,7 @@ Distribution of intestate estates
     
     •anything that remains of the residue is held in trust for the husband, wife, civil union partner, or surviving de facto partner absolutely
     
-    2Husband, wife, civil union partner, or surviving de facto partner, and issue **Personal chattels (as defined in [section 2(1)][211]):**  
+    2Husband, wife, civil union partner, or surviving de facto partner, and issue **Personal chattels (as defined in [section 2(1)][212]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1622,7 +1624,7 @@ Distribution of intestate estates
     
     •two-thirds on the statutory trusts for the issue of the intestate
     
-    3Husband, wife, civil union partner, or surviving de facto partner, no issue, but one or both parents **Personal chattels (as defined in [section 2(1)][211]):**  
+    3Husband, wife, civil union partner, or surviving de facto partner, no issue, but one or both parents **Personal chattels (as defined in [section 2(1)][212]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
@@ -1664,37 +1666,37 @@ Distribution of intestate estates
     
     •other persons for whom the intestate might reasonably have been expected to make provision.
     
-    Section 77: replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77: replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 1: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 1: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 2: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 2: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 3: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(2)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
     Section 77 table item 3: amended, on 1 April 2005, by [section 139][120] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
     
-    Section 77 table item 4: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 4: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 5: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 5: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 77 table item 6: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][213] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77 table item 6: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 7(1)][214] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 77A Effect on succession on intestacy of separation order
     
 *   Nothing in [section 77][96] affects [section 26][156] of the Family Proceedings Act 1980\.
     
-    Section 77A: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77A: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 77B Restrictions on succession on intestacy by certain de facto partners
     
@@ -1714,7 +1716,7 @@ Distribution of intestate estates
     
     (3) In subsection (2), _child of the de facto relationship_ and _contribution_ have the same meanings as they have in [section 2][113] of the Property (Relationships) Act 1976\.
     
-    Section 77B: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][212] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 77B: inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 77C Succession on intestacy if intestate partner dies leaving husband, wife, or civil union partner and 1 or more de facto partners
     
@@ -1730,7 +1732,7 @@ Distribution of intestate estates
     
     *   (b) the husband, wife, or civil union partner and each surviving de facto partner or, as the case requires, each of the surviving de facto partners, is entitled to an equal share of the estate that would, under [section 77][96], be distributed to or held on trust for a husband, wife, or civil union partner or, as the case requires, 1 surviving de facto partner.
     
-    Section 77C: replaced, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 8][214] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 77C: replaced, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 8][215] of the Administration Amendment Act 2005 (2005 No 4).
 
 ##### 78 Statutory trusts in favour of issue and other classes of relatives of intestate
     
@@ -1760,15 +1762,15 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 57
     
-    Section 78(1)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][215] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][216] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(1)(a) proviso: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][215] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(a) proviso: amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(1)][216] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(1)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(2)][215] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 78(1)(b): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 9(2)][216] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 78(2)(d): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][216] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 78(2)(d): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][217] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 78(2)(e): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][216] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 78(2)(e): inserted, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 9][217] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 79 Application to cases of partial intestacy
     
@@ -1786,19 +1788,19 @@ Distribution of intestate estates
     
     *   (b) as not including a reference to a beneficial interest in any personal chattels.
     
-    (4) For the purposes of the foregoing provisions of this section the administrator may ascertain and fix the value of the said beneficial interest in accordance with [section 28][217] of the Trustee Act 1956, and no action shall lie against the administrator if he or she distributes the estate in accordance with the value that he or she has honestly and reasonably so fixed.
+    (4) For the purposes of the foregoing provisions of this section the administrator may ascertain and fix the value of the said beneficial interest in accordance with [section 28][218] of the Trustee Act 1956, and no action shall lie against the administrator if he or she distributes the estate in accordance with the value that he or she has honestly and reasonably so fixed.
     
     Compare: 1952 No 56 s 59; 1965 No 43 s 5
     
-    Section 79(2): replaced, on 3 June 1998, by [section 6][218] of the Administration Amendment Act 1998 (1998 No 24).
+    Section 79(2): replaced, on 3 June 1998, by [section 6][219] of the Administration Amendment Act 1998 (1998 No 24).
     
-    Section 79(2): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][219] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 79(2): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 79(2): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 79(2): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][221] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 79(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][219] of the Administration Amendment Act 2005 (2005 No 4).
+    Section 79(2)(a): amended, on 26 April 2005 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2005 (2005 No 4).
     
-    Section 79(2)(a): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][220] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 79(2)(a): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 10][221] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 80 Construction of documents
     
@@ -1810,9 +1812,9 @@ Distribution of intestate estates
     
     Compare: 1952 No 56 s 60
     
-    Section 80(1): amended, on 1 January 1980, by [section 9(2)(a)][210] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 80(1): amended, on 1 January 1980, by [section 9(2)(a)][211] of the Administration Amendment Act 1979 (1979 No 38).
     
-    Section 80(1): amended, on 1 January 1980, by [section 9(2)(b)][210] of the Administration Amendment Act 1979 (1979 No 38).
+    Section 80(1): amended, on 1 January 1980, by [section 9(2)(b)][211] of the Administration Amendment Act 1979 (1979 No 38).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1867,7 +1869,7 @@ Miscellaneous provisions
 
 ##### 82 Effect of bankruptcy on disclaimer on intestacy or under a will and right of administrator to distribute
     
-*   (1) Where a successor disclaims the interest as a beneficiary to which he or she is entitled under this Act in any real or personal property which passes on the intestacy of any person, or disclaims any interest as a beneficiary in any real or personal property to which he or she is entitled under the will of a deceased person, then, for the purposes of the [Insolvency Act 2006][221] and of any other Act or rule of law relating to the protection of creditors,---
+*   (1) Where a successor disclaims the interest as a beneficiary to which he or she is entitled under this Act in any real or personal property which passes on the intestacy of any person, or disclaims any interest as a beneficiary in any real or personal property to which he or she is entitled under the will of a deceased person, then, for the purposes of the [Insolvency Act 2006][222] and of any other Act or rule of law relating to the protection of creditors,---
         
     *   (a) the successor shall be deemed to have accepted the disclaimed interest; and
     
@@ -1909,17 +1911,17 @@ Miscellaneous provisions
     
     (4) Each time regulations are made under subsection (1) prescribing an amount for the purposes of [section 77][96], the prescribed amount applies to the estates of all persons dying on or after the date on which those regulations come into force, but does not apply to the estates of persons dying before that date.
     
-    Section 82A: inserted, on 3 June 1998, by [section 7][222] of the Administration Amendment Act 1998 (1998 No 24).
+    Section 82A: inserted, on 3 June 1998, by [section 7][223] of the Administration Amendment Act 1998 (1998 No 24).
     
-    Section 82A(1): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(1): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 82A(3): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(3): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
     
-    Section 82A(4): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][223] of the Administration Amendment Act 2001 (2001 No 6).
+    Section 82A(4): amended, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 11][224] of the Administration Amendment Act 2001 (2001 No 6).
 
 ##### 83 Consequential amendment
     
-*   _Amendment(s) incorporated in the [Act(s)][209]._
+*   _Amendment(s) incorporated in the [Act(s)][210]._
 
 ##### 84 Repeals and savings
     
@@ -1933,7 +1935,7 @@ Miscellaneous provisions
     
     (5) Except as expressly provided in this Act, nothing in this Act shall affect the [Maori Trustee Act 1953][141], the [Public Trust Act 2001][140], and the [Trustee Companies Act 1967][117].
     
-    Section 84(3): amended, on 1 January 1987, pursuant to [section 29(2)][224] of the Constitution Act 1986 (1986 No 114).
+    Section 84(3): amended, on 1 January 1987, pursuant to [section 29(2)][225] of the Constitution Act 1986 (1986 No 114).
     
     Section 84(5): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
@@ -2013,7 +2015,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Maori Trustee Act 1953 (1953 No 95)
 
-_Amendment(s) incorporated in the [Act(s)][225]._
+_Amendment(s) incorporated in the [Act(s)][226]._
 
 ##### Matrimonial Proceedings Amendment Act 1968 (1968 No 60)
 
@@ -2033,7 +2035,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][226]._
+_Amendment(s) incorporated in the [Act(s)][227]._
 
 ##### Trustee Amendment Act 1968 (1968 No 24)
 
@@ -2120,15 +2122,17 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][227] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][228] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][228] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][229] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][229] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][230] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][230] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][231] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Companies Amendment Act 2013 (2013 No 111): [section 14][184]
+    
+    Patents Act 2013 (2013 No 68): [section 249][207]
     
     High Court Fees Regulations 2013 (SR 2013/226): [regulation 5(1)][139]
     
@@ -2140,17 +2144,17 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     Insolvency Act 2006 (2006 No 55): [section 445][146]
     
-    [Administration Amendment Act 2005][231] (2005 No 4)
+    [Administration Amendment Act 2005][232] (2005 No 4)
     
     Care of Children Act 2004 (2004 No 90): [section 151][201]
     
-    [Administration Amendment Act 2003][232] (2003 No 58)
+    [Administration Amendment Act 2003][233] (2003 No 58)
     
     Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][120]
     
     Local Government Act 2002 (2002 No 84): [section 262][182]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][207]
+    Trade Marks Act 2002 (2002 No 49): [section 201][208]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][123]
     
@@ -2160,7 +2164,7 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][196]
     
-    [Administration Amendment Act 2001][233] (2001 No 6)
+    [Administration Amendment Act 2001][234] (2001 No 6)
     
     Personal Property Act 1999 (1999 No 126): [section 191(1)][122]
     
@@ -2168,9 +2172,9 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][197]
     
-    [Administration Amendment Act (No 2) 1998][234] (1998 No 82)
+    [Administration Amendment Act (No 2) 1998][235] (1998 No 82)
     
-    [Administration Amendment Act 1998][235] (1998 No 24)
+    [Administration Amendment Act 1998][236] (1998 No 24)
     
     Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][194]
     
@@ -2184,9 +2188,9 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     Public Finance Act 1989 (1989 No 44): [section 86(1)][181]
     
-    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][208]
+    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][209]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][224]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][225]
     
     Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 11(2)][137]
     
@@ -2200,7 +2204,7 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][118]
     
-    [Administration Amendment Act 1979][236] (1979 No 38)
+    [Administration Amendment Act 1979][237] (1979 No 38)
     
     Domicile Act 1976 (1976 No 17): [section 14(1)][173]
     
@@ -2416,38 +2420,39 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
 [199]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334751
 [200]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88128
 [201]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM317988
-[202]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM280779
+[202]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2193520
 [203]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM281772
 [204]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM164619
 [205]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351222
 [206]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM351226
-[207]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM165256
-[208]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM98437
-[209]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM304703
-[210]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32823
-[211]: http://www.legislation.govt.nz/act/public/1969/0052/latest/whole.html#DLM392662
-[212]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88129
-[213]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334752
-[214]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334753
-[215]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334755
-[216]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88136
-[217]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM305237
-[218]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426213
-[219]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334756
-[220]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88137
-[221]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM385298
-[222]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426214
-[223]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88138
-[224]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM94263
-[225]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282703
-[226]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM390653
-[227]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998516
-[228]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998515
-[229]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998532
-[230]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[231]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334742
-[232]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM215887
-[233]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88114
-[234]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM428144
-[235]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426203
-[236]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32809
+[207]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM1419624
+[208]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM165256
+[209]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM98437
+[210]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM304703
+[211]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32823
+[212]: http://www.legislation.govt.nz/act/public/1969/0052/latest/whole.html#DLM392662
+[213]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88129
+[214]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334752
+[215]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334753
+[216]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334755
+[217]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88136
+[218]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM305237
+[219]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426213
+[220]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334756
+[221]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88137
+[222]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM385298
+[223]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426214
+[224]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88138
+[225]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM94263
+[226]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM282703
+[227]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM390653
+[228]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998516
+[229]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998515
+[230]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM2998532
+[231]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[232]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM334742
+[233]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM215887
+[234]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM88114
+[235]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM428144
+[236]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM426203
+[237]: http://www.legislation.govt.nz/act/public/1969/0052/latest/link.aspx?id=DLM32809
