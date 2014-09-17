@@ -3403,7 +3403,7 @@ Infringement, other patent proceedings, and matters affecting patent ownership
 
 ##### 153 Court must not award damages or account of profits if innocent infringement
     
-*   (1) The court must not award damages or an account of profits for infringement of a patent if the defendant proves that at the date of the infringement the defendant did not know, and ought not reasonably to have known, that the patent existed or, in the case of a proceeding under [section 81][238], that the complete specification had become open to public inspection.
+*   (1) The court must not award damages or an account of profits for infringement of a patent if the defendant proves that at the date of the infringement the defendant did not know, and ought not reasonably to have known, that the patent existed or, in the case of a proceeding under [section 81][105], that the complete specification had become open to public inspection.
     
     (2) It is presumed that a person ought reasonably to have known that a patent existed if---
         
