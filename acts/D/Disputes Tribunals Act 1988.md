@@ -1,5 +1,5 @@
 Reprint  
-as at 14 April 2014
+as at 13 September 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -292,7 +292,7 @@ An Act to consolidate and amend the Small Claims Tribunals Act 1976
         
         
     
-    _intellectual property_ means any property right constituted by the [Patents Act 1953][112], the [Designs Act 1953][113], the [Trade Marks Act 2002][114], the [Copyright Act 1994][115], or the [Plant Variety Rights Act 1987][116]
+    _intellectual property_ means any property right constituted by the [Patents Act 2013][112], the [Designs Act 1953][113], the [Trade Marks Act 2002][114], the [Copyright Act 1994][115], or the [Plant Variety Rights Act 1987][116]
     
     _Investigator_ means a person appointed under [section 41(1)][53] to inquire into, and report to a Tribunal upon, any matter of fact
     
@@ -314,11 +314,13 @@ An Act to consolidate and amend the Small Claims Tribunals Act 1976
     
     _work order_ means an order to make good a defect in any property, or a deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of any property) as may be specified in the order.
     
-    Section 2 **intellectual property**: amended, on 20 August 2003, by [section 201][117] of the Trade Marks Act 2002 (2002 No 49).
+    Section 2 **intellectual property**: amended, on 13 September 2014, by [section 249][117] of the Patents Act 2013 (2013 No 68).
     
-    Section 2 **intellectual property**: amended, on 1 January 1995, by [section 236(1)][118] of the Copyright Act 1994 (1994 No 143).
+    Section 2 **intellectual property**: amended, on 20 August 2003, by [section 201][118] of the Trade Marks Act 2002 (2002 No 49).
     
-    Section 2 **Principal Disputes Referee**: inserted, on 3 July 1998, by [section 2][119] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 2 **intellectual property**: amended, on 1 January 1995, by [section 236(1)][119] of the Copyright Act 1994 (1994 No 143).
+    
+    Section 2 **Principal Disputes Referee**: inserted, on 3 July 1998, by [section 2][120] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
 
 ##### 3 Act to bind the Crown
     
@@ -345,13 +347,13 @@ Establishment of Tribunals
     
     Compare: 1976 No 35 s 4
     
-    Section 4(1): amended, on 1 October 2003, pursuant to [section 14(1)][120] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 4(1): amended, on 1 October 2003, pursuant to [section 14(1)][121] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 4(1): amended, on 1 July 1995, by [section 10(1)][121] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 4(1): amended, on 1 July 1995, by [section 10(1)][122] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 4(5): amended, on 1 October 2003, pursuant to [section 14(1)][120] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 4(5): amended, on 1 October 2003, pursuant to [section 14(1)][121] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 4(5): amended, on 1 July 1995, by [section 10(1)][121] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 4(5): amended, on 1 July 1995, by [section 10(1)][122] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 5 Exercise of Tribunal's jurisdiction
     
@@ -367,7 +369,7 @@ Establishment of Tribunals
     
     (2) The Chief District Court Judge is responsible for the rostering and training of Referees and may, after consultation with the Principal Disputes Referee, give such directions as he or she considers necessary for the purpose.
     
-    Section 6: substituted, on 3 July 1998, by [section 3][122] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 6: substituted, on 3 July 1998, by [section 3][123] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
 
 ##### 6A Appointment of Principal Disputes Referee
     
@@ -391,7 +393,7 @@ Establishment of Tribunals
     
     *   (b) the chief executive of the Ministry of Justice notifies the Principal Disputes Referee that no successor to that Principal Disputes Referee is to be appointed.
     
-    Section 6A: inserted, on 3 July 1998, by [section 3][122] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 6A: inserted, on 3 July 1998, by [section 3][123] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
 
 ##### 6B Acting Principal Disputes Referee
     
@@ -399,7 +401,7 @@ Establishment of Tribunals
     
     (2) While a person acts as Principal Disputes Referee, the person may execute the duties of that office and may exercise all the functions and powers that may be lawfully exercised by the Principal Disputes Referee.
     
-    Section 6B: inserted, on 3 July 1998, by [section 3][122] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 6B: inserted, on 3 July 1998, by [section 3][123] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
 
 ##### 6C Functions and powers of Principal Disputes Referee
     
@@ -427,7 +429,7 @@ Establishment of Tribunals
     
     (3) The Principal Disputes Referee also has such other powers as are necessary or expedient to enable the Principal Disputes Referee to perform his or her functions and duties.
     
-    Section 6C: inserted, on 3 July 1998, by [section 3][122] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 6C: inserted, on 3 July 1998, by [section 3][123] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
 
 ##### 7 Appointment of Referees
     
@@ -459,11 +461,11 @@ Establishment of Tribunals
     
     Compare: 1976 No 35 s 7
     
-    Section 7(3): amended, on 5 December 2013, by [section 4][123] of the Disputes Tribunals Amendment Act 2013 (2013 No 113).
+    Section 7(3): amended, on 5 December 2013, by [section 4][124] of the Disputes Tribunals Amendment Act 2013 (2013 No 113).
     
-    Section 7(4): amended, on 3 July 1998, by [section 4][124] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 7(4): amended, on 3 July 1998, by [section 4][125] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
     
-    Section 7(6)(b): amended, on 1 July 1995, pursuant to [section 3(1)(b)][125] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 7(6)(b): amended, on 1 July 1995, pursuant to [section 3(1)(b)][126] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 8 Selection of candidates for appointment or reappointment as Referees
     
@@ -487,25 +489,25 @@ Establishment of Tribunals
     
     *   (b) advise the Minister that it makes no recommendation for appointment or reappointment in that particular case.
     
-    Section 8(1): amended, on 1 July 1995, pursuant to [section 3(1)(b)][125] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 8(1): amended, on 1 July 1995, pursuant to [section 3(1)(b)][126] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 8(1)(a): amended, on 1 July 1995, pursuant to [section 3(1)(b)][125] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 8(1)(a): amended, on 1 July 1995, pursuant to [section 3(1)(b)][126] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 8(2)(c): amended, on 1 July 1995, pursuant to [section 3(1)(b)][125] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 8(2)(c): amended, on 1 July 1995, pursuant to [section 3(1)(b)][126] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 8A Salary and allowances of Principal Disputes Referee
     
 *   (1) The Principal Disputes Referee is to be paid such remuneration as may from time to time be fixed by the Remuneration Authority.
     
-    (2) Travelling allowances and travelling expenses are to be paid to the Principal Disputes Referee in accordance with the [Fees and Travelling Allowances Act 1951][126], and the provisions of that Act apply accordingly.
+    (2) Travelling allowances and travelling expenses are to be paid to the Principal Disputes Referee in accordance with the [Fees and Travelling Allowances Act 1951][127], and the provisions of that Act apply accordingly.
     
-    Section 8A: inserted, on 3 July 1998, by [section 5][127] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 8A: inserted, on 3 July 1998, by [section 5][128] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
     
-    Section 8A(1): amended, on 1 April 2003, by [section 4(1)][128] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+    Section 8A(1): amended, on 1 April 2003, by [section 4(1)][129] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
 
 ##### 9 Salary and allowances
     
-*   There shall be paid to every Referee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][126], and the provisions of that Act shall apply accordingly as if a Referee were a member of a statutory board within the meaning of that Act.
+*   There shall be paid to every Referee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][127], and the provisions of that Act shall apply accordingly as if a Referee were a member of a statutory board within the meaning of that Act.
     
     Compare: 1976 No 35 s 8
 
@@ -530,13 +532,13 @@ Jurisdiction, functions, and orders of Tribunals
         
         
     
-    (1A) A Tribunal has jurisdiction to exercise any power conferred on a court by any enactment listed in [Part 1][129] of Schedule 1 if---
+    (1A) A Tribunal has jurisdiction to exercise any power conferred on a court by any enactment listed in [Part 1][130] of Schedule 1 if---
         
     *   (a) the occasion for the exercise of the power arises in the course of proceedings properly before the Tribunal; and
     
     *   (b) subject to [section 13][20], the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000\.
     
-    (2) A Tribunal shall have such other jurisdiction as is conferred upon it by any of the enactments specified in [Part 2][130] of Schedule 1\.
+    (2) A Tribunal shall have such other jurisdiction as is conferred upon it by any of the enactments specified in [Part 2][131] of Schedule 1\.
     
     (3) Subject to [section 13][20], for the purposes of subsection (1), a claim is within the jurisdiction of a Tribunal only if the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000, including,---
         
@@ -546,19 +548,19 @@ Jurisdiction, functions, and orders of Tribunals
     
     (4) If it is necessary for the purposes of this Act to ascertain the value of any property or work or to resolve any dispute as to such value (whether for the purposes of subsection (3) or otherwise), that value shall be determined by the Tribunal in such manner as it thinks fit, and the Tribunal may, for that purpose, appoint an Investigator to report to it under [section 41][53].
     
-    (5) The [Limitation Act 2010][131] prescribes defences in respect of claims based on an act or omission after 31 December 2010\.
+    (5) The [Limitation Act 2010][132] prescribes defences in respect of claims based on an act or omission after 31 December 2010\.
     
     Compare: 1976 No 35 s 9; 1985 No 38 s 2
     
-    Section 10(1A): inserted, on 19 December 2002, by [section 3(1)][132] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 10(1A): inserted, on 19 December 2002, by [section 3(1)][133] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
     
-    Section 10(1A)(b): amended, on 1 August 2009, by [section 4][133] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 10(1A)(b): amended, on 1 August 2009, by [section 4][134] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 10(2): amended, on 19 December 2002, by [section 3(2)][132] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 10(2): amended, on 19 December 2002, by [section 3(2)][133] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
     
-    Section 10(3): amended, on 1 August 2009, by [section 4][133] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 10(3): amended, on 1 August 2009, by [section 4][134] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 10(5): substituted, on 1 January 2011, by [section 58][134] of the Limitation Act 2010 (2010 No 110).
+    Section 10(5): substituted, on 1 January 2011, by [section 58][135] of the Limitation Act 2010 (2010 No 110).
 
 ##### 11 Further limitations on jurisdiction
     
@@ -582,7 +584,7 @@ Jurisdiction, functions, and orders of Tribunals
     
     *   (b) where it dismisses a claim for a declaration under [section 10(1)(b)][17] in respect of a debt or liquidated demand, make an order under [section 19(1)(a)][26] requiring the applicant to pay the debt or liquidated demand, or part of the debt or liquidated demand, to the respondent.
     
-    (3) Subject to subsection (4), no claim shall be heard and determined under this Act in respect of the destruction or loss of any property, or any damage or injury to any property, where any offender has been sentenced, under [section 32][135] of the Sentencing Act 2002, to make reparation to the applicant in respect of that destruction, loss, damage, or injury.
+    (3) Subject to subsection (4), no claim shall be heard and determined under this Act in respect of the destruction or loss of any property, or any damage or injury to any property, where any offender has been sentenced, under [section 32][136] of the Sentencing Act 2002, to make reparation to the applicant in respect of that destruction, loss, damage, or injury.
     
     (4) Nothing in subsection (3) shall apply in respect of any claim under this Act to recover any damages in excess of the amount ordered to be paid to the applicant under any sentence of reparation.
     
@@ -614,11 +616,11 @@ Jurisdiction, functions, and orders of Tribunals
     
     Compare: 1976 No 35 s 10; 1985 No 38 s 3
     
-    Section 11(3): amended, on 30 June 2002, by [section 186][136] of the Sentencing Act 2002 (2002 No 9).
+    Section 11(3): amended, on 30 June 2002, by [section 186][137] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 11(5): amended, on 19 December 2002, by [section 4(1)][137] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 11(5): amended, on 19 December 2002, by [section 4(1)][138] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
     
-    Section 11(7): amended, on 19 December 2002, by [section 4(2)][137] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 11(7): amended, on 19 December 2002, by [section 4(2)][138] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 12 Recovery of consequential loss
     
@@ -646,11 +648,11 @@ Jurisdiction, functions, and orders of Tribunals
     
     (4) Where, in respect of any claim, the applicant has abandoned part of the claim under [section 14][21], and the parties subsequently make an agreement pursuant to subsection (1), then, subject to subsection (2), the claim shall be heard and determined as if that abandonment had not been made.
     
-    Compare: 1947 No 16 [s 37][138]
+    Compare: 1947 No 16 [s 37][139]
     
-    Section 13(1): amended, on 19 December 2002, by [section 5][139] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 13(1): amended, on 19 December 2002, by [section 5][140] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
     
-    Section 13(2): amended, on 1 August 2009, by [section 5][140] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 13(2): amended, on 1 August 2009, by [section 5][141] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 14 Abandonment to bring claim within jurisdiction
     
@@ -662,7 +664,7 @@ Jurisdiction, functions, and orders of Tribunals
     
     Compare: 1976 No 35 s 11
     
-    Section 14: amended, on 1 August 2009, by [section 6][141] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 14: amended, on 1 August 2009, by [section 6][142] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 15 Cause of action not to be divided
     
@@ -688,11 +690,11 @@ Jurisdiction, functions, and orders of Tribunals
     
     (3) Subsection (1) does not apply where a cause of action has accrued, or is believed to have accrued, to a person and that person has agreed to the settlement or compromise of the claim based on that cause of action.
     
-    (4) Despite subsection (2), a Tribunal does not have jurisdiction in respect of a claim if [section 11(1)][142] of the Arbitration Act 1996 applies.
+    (4) Despite subsection (2), a Tribunal does not have jurisdiction in respect of a claim if [section 11(1)][143] of the Arbitration Act 1996 applies.
     
     Compare: 1976 No 35 s 13
     
-    Section 16(4): added, on 18 October 2007, by [section 11][143] of the Arbitration Amendment Act 2007 (2007 No 94).
+    Section 16(4): added, on 18 October 2007, by [section 11][144] of the Arbitration Amendment Act 2007 (2007 No 94).
 
 ##### 17 Exclusion of other jurisdictions
     
@@ -718,7 +720,7 @@ Jurisdiction, functions, and orders of Tribunals
     
     (4) In approving an agreed settlement pursuant to subsection (3), a Tribunal shall not be bound by the monetary restrictions provided for by subsections (4) to (7) of [section 19][26].
     
-    (4A) An agreed settlement approved by the Tribunal under subsection (3) may include the terms of any agreement between the parties for payment of any amount specified in the agreed settlement to be enforced by way of an attachment order made under the [District Courts Act 1947][144].
+    (4A) An agreed settlement approved by the Tribunal under subsection (3) may include the terms of any agreement between the parties for payment of any amount specified in the agreed settlement to be enforced by way of an attachment order made under the [District Courts Act 1947][145].
     
     (4B) If subsection (4A) applies, then [section 19(1A) to (1C)][26] apply.
     
@@ -744,9 +746,9 @@ Jurisdiction, functions, and orders of Tribunals
     
     Compare: 1976 No 35 s 15
     
-    Section 18(4A): inserted, on 14 April 2014, by [section 4][145] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 18(4A): inserted, on 14 April 2014, by [section 4][146] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 18(4B): inserted, on 14 April 2014, by [section 4][145] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 18(4B): inserted, on 14 April 2014, by [section 4][146] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
 
 ##### 19 Orders of Tribunal
     
@@ -766,7 +768,7 @@ Jurisdiction, functions, and orders of Tribunals
     
     *   (g) the Tribunal may make an order dismissing the claim.
     
-    (1A) The Tribunal may record in an order made under subsection (1)(a) (a _money order_) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the [District Courts Act 1947][144] if---
+    (1A) The Tribunal may record in an order made under subsection (1)(a) (a _money order_) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the [District Courts Act 1947][145] if---
         
     *   (a) the money order was made at a hearing at which both parties were present; and
     
@@ -788,11 +790,11 @@ Jurisdiction, functions, and orders of Tribunals
     
     *   (f) that the attachment order is to remain in force until the amount specified in the money order has been paid in full or, if the attachment order is to remain in force for a fixed period, that period.
     
-    (1C) Nothing in subsection (1B)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from [section 84I(3)][146] of the District Courts Act 1947\.
+    (1C) Nothing in subsection (1B)(d) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from [section 84I(3)][147] of the District Courts Act 1947\.
     
-    (1D) If subsection (1B) is complied with, the money order may be filed in any District Court and, if so filed, [sections 79(5C)][147] and [84F to 84N][148] of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
+    (1D) If subsection (1B) is complied with, the money order may be filed in any District Court and, if so filed, [sections 79(5C)][148] and [84F to 84N][149] of the District Courts Act 1947 apply to the extent they are applicable and subject to any necessary modifications.
     
-    (1E) In this section, _employer_ and _salary or wages_ have the same meanings as in [section 84F][148] of the District Courts Act 1947\.
+    (1E) In this section, _employer_ and _salary or wages_ have the same meanings as in [section 84F][149] of the District Courts Act 1947\.
     
     (2) Any order made by a Tribunal may be unconditional, or subject to such conditions (whether as to the time for, or mode of, compliance, or otherwise) as the Tribunal thinks fit to impose.
     
@@ -820,31 +822,31 @@ Jurisdiction, functions, and orders of Tribunals
     
     Compare: 1976 No 35 s 16; 1985 No 38 s 2
     
-    Section 19(1A): inserted, on 14 April 2014, by [section 5][149] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 19(1A): inserted, on 14 April 2014, by [section 5][150] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 19(1B): inserted, on 14 April 2014, by [section 5][149] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 19(1B): inserted, on 14 April 2014, by [section 5][150] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 19(1C): inserted, on 14 April 2014, by [section 5][149] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 19(1C): inserted, on 14 April 2014, by [section 5][150] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 19(1D): inserted, on 14 April 2014, by [section 5][149] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 19(1D): inserted, on 14 April 2014, by [section 5][150] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 19(1E): inserted, on 14 April 2014, by [section 5][149] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
+    Section 19(1E): inserted, on 14 April 2014, by [section 5][150] of the Disputes Tribunals Amendment Act 2011 (2011 No 37).
     
-    Section 19(5)(a): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(5)(a): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(5)(b): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(5)(b): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(5)(c): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(5)(c): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(5)(d): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(5)(d): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(5)(e): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(5)(e): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(6): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(6): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(7): amended, on 1 August 2009, by [section 7(1)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(7): amended, on 1 August 2009, by [section 7(1)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
     
-    Section 19(7): amended, on 1 August 2009, by [section 7(2)][150] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
+    Section 19(7): amended, on 1 August 2009, by [section 7(2)][151] of the Disputes Tribunals Amendment Act 2009 (2009 No 22).
 
 ##### 20 Power of Tribunal to award interest
     
@@ -862,11 +864,11 @@ Jurisdiction, functions, and orders of Tribunals
     
     (5) In this section the term **the prescribed rate** means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
     
-    Compare: 1947 No 16 [s 62B][151]; 1982 No 130 [s 4][152]
+    Compare: 1947 No 16 [s 62B][152]; 1982 No 130 [s 4][153]
     
-    Section 20(4): amended, on 19 December 2002, by [section 6][153] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 20(4): amended, on 19 December 2002, by [section 6][154] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
     
-    Section 20(5): 5.0% per year prescribed as the rate for the purposes of section 20(5), on 1 July 2011, by [clause 4][154] of the Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175).
+    Section 20(5): 5.0% per year prescribed as the rate for the purposes of section 20(5), on 1 July 2011, by [clause 4][155] of the Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175).
 
 ##### 21 Reasons for decisions
     
@@ -973,7 +975,7 @@ Proceedings of Tribunals
     
     (3) A person empowered by or under this section to control the conduct of the case of a minor may do all such things in the proceedings as that person could do if that person were a party to the proceedings in place of that minor.
     
-    (4) Nothing in this section shall restrict the application of [section 12][155] of the Minors' Contracts Act 1969 to---
+    (4) Nothing in this section shall restrict the application of [section 12][156] of the Minors' Contracts Act 1969 to---
         
     *   (a) any settlement agreed to by, or on behalf of, a minor; or
     
@@ -1157,7 +1159,7 @@ Proceedings of Tribunals
         
     *   (a) \[Repealed\]
     
-    *   (b) are within the jurisdiction of a Motor Vehicle Disputes Tribunal constituted under [section 82][156] of the Motor Vehicles Sales Act 2003; and
+    *   (b) are within the jurisdiction of a Motor Vehicle Disputes Tribunal constituted under [section 82][157] of the Motor Vehicles Sales Act 2003; and
     
     *   (c) would, in the opinion of the original Tribunal, more properly be determined by a Motor Vehicle Disputes Tribunal,---
     
@@ -1169,11 +1171,11 @@ Proceedings of Tribunals
     
     Compare: 1976 No 35 s 22
     
-    Section 36(3)(a): repealed, on 15 December 2003, by [section 145][157] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 36(3)(a): repealed, on 15 December 2003, by [section 145][158] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 36(3)(b): amended, on 15 December 2003, by [section 145][157] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 36(3)(b): amended, on 15 December 2003, by [section 145][158] of the Motor Vehicle Sales Act 2003 (2003 No 12).
     
-    Section 36(4): substituted, on 15 December 2003, by [section 145][157] of the Motor Vehicle Sales Act 2003 (2003 No 12).
+    Section 36(4): substituted, on 15 December 2003, by [section 145][158] of the Motor Vehicle Sales Act 2003 (2003 No 12).
 
 ##### 37 Transfer of proceedings from District Court, etc
     
@@ -1227,7 +1229,7 @@ Proceedings of Tribunals
     
     (8) Where a Tribunal appoints any person under [section 27(2)(a)][36] or approves any person under subsection (2) or subsection (3) or subsection (5) of this section, the Tribunal may impose in respect of any such appointment or approval such conditions as it considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
     
-    Compare: 1976 No 35 s 24; 1986 No 120 [s 93][158]
+    Compare: 1976 No 35 s 24; 1986 No 120 [s 93][159]
 
 ##### 39 Proceedings to be held in private
     
@@ -1303,7 +1305,7 @@ Proceedings of Tribunals
         
     *   (d) the fee paid by the latter party in respect of the filing of those proceedings in the District Court; and
     
-    *   (e) any solicitor's costs incurred by the latter party in respect of the preparation of the documents necessary for the filing of those proceedings, which costs shall not exceed the amount prescribed in relation to that matter under rules made under the [District Courts Act 1947][144].
+    *   (e) any solicitor's costs incurred by the latter party in respect of the preparation of the documents necessary for the filing of those proceedings, which costs shall not exceed the amount prescribed in relation to that matter under rules made under the [District Courts Act 1947][145].
     
     Compare: 1976 No 35 s 29
 
@@ -1373,11 +1375,11 @@ Proceedings of Tribunals
 
 ##### 48 No filing fee payable
     
-*   Notwithstanding [section 113][159] of the District Courts Act 1947, no filing fee shall be payable by a person who, pursuant to [section 45(1)][58] or [section 47(1)][60], seeks to enforce an order or a term of an agreed settlement, but any fee that would otherwise be payable therefor shall be recoverable from the opposite party for the credit of a Crown Bank Account.
+*   Notwithstanding [section 113][160] of the District Courts Act 1947, no filing fee shall be payable by a person who, pursuant to [section 45(1)][58] or [section 47(1)][60], seeks to enforce an order or a term of an agreed settlement, but any fee that would otherwise be payable therefor shall be recoverable from the opposite party for the credit of a Crown Bank Account.
     
     Compare: 1976 No 35 s 31(6)
     
-    Section 48: amended, on 25 January 2005, pursuant to [section 65R(3)][160] of the Public Finance Act 1989 (1989 No 44).
+    Section 48: amended, on 25 January 2005, pursuant to [section 65R(3)][161] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 4  
 Rehearings and appeals
@@ -1450,7 +1452,7 @@ Rehearings and appeals
 
 ##### 52 Right of audience
     
-*   For the avoidance of doubt, it is hereby declared that [section 57][161] of the District Courts Act 1947 shall apply in respect of the hearing of every appeal under [section 50][64].
+*   For the avoidance of doubt, it is hereby declared that [section 57][162] of the District Courts Act 1947 shall apply in respect of the hearing of every appeal under [section 50][64].
 
 ##### 53 Powers of District Court Judge on appeal
     
@@ -1499,7 +1501,7 @@ Miscellaneous provisions
     
     Compare: 1976 No 35 s 39
     
-    Section 56(1): amended, on 1 July 2013, by [section 413][162] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 56(1): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Publication of orders
     
@@ -1509,7 +1511,7 @@ Miscellaneous provisions
 
 ##### 58 Protection of Referees, Investigators, etc
     
-*   (1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [sections 4A to 4F][163] of the Justices of the Peace Act 1957\.
+*   (1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [sections 4A to 4F][164] of the Justices of the Peace Act 1957\.
     
     (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives, and witnesses in the proceedings of a Tribunal it is hereby declared that such proceedings are judicial proceedings.
     
@@ -1523,15 +1525,15 @@ Miscellaneous provisions
     
     Compare: 1976 No 35 s 41; 1979 No 144 s 3
     
-    Section 58(1): amended, on 1 July 2013, by [section 413][162] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 58(1): amended, on 1 July 2013, by [section 413][163] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Referee to be employee for accident compensation purposes
     
-*   A Referee, while acting as such, is an employee employed by the Crown for the purposes of the [Injury Prevention, Rehabilatation, and Compensation Act 2001][164].
+*   A Referee, while acting as such, is an employee employed by the Crown for the purposes of the [Injury Prevention, Rehabilatation, and Compensation Act 2001][165].
     
     Compare: 1976 No 35 s 42
     
-    Section 59: amended, on 1 April 2002, by [section 337(1)][165] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 59: amended, on 1 April 2002, by [section 337(1)][166] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
 
 ##### 60 Rules
     
@@ -1599,13 +1601,13 @@ Miscellaneous provisions
     
     Compare: 1976 No 35 s 43
     
-    Section 60(2)(a): amended, on 3 July 1998, by [section 9][166] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 60(2)(a): amended, on 3 July 1998, by [section 9][167] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
     
     Section 60(2)(ga): inserted, on 30 March 1995, by section 2 of the Disputes Tribunals Amendment Act 1995 (1995 No 8).
 
 ##### 61 Crown Proceedings Act 1950 not restricted
     
-*   Nothing in this Act shall limit or restrict the operation of the [Crown Proceedings Act 1950][167].
+*   Nothing in this Act shall limit or restrict the operation of the [Crown Proceedings Act 1950][168].
     
     Compare: 1976 No 35 s 44
 
@@ -1616,37 +1618,37 @@ Amendments to other Acts
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 62 Interpretation
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 62: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 63 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 63: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Contractual Mistakes Act 1977
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 64 Interpretation
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 64: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 65 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 65: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Contractual Remedies Act 1979
 
@@ -1654,7 +1656,7 @@ Amendments to other Acts
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 66: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 67 Statements during negotiations for a contract
     
@@ -1664,19 +1666,19 @@ Amendments to other Acts
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 68: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Credit Contracts Act 1981
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2005, by [section 139][169] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Heading: repealed, on 1 April 2005, by [section 139][170] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 69 Interpretation
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 April 2005, by [section 139][169] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 69: repealed, on 1 April 2005, by [section 139][170] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 70 Jurisdiction of Disputes Tribunals
     
@@ -1688,31 +1690,31 @@ Amendments to other Acts
 
 ##### 71 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][170]._
+*   _Amendment(s) incorporated in the [Act(s)][171]._
 
 ##### 72 Proceedings to be in accordance with District Courts Act 1947
     
-*   _Amendment(s) incorporated in the [Act(s)][171]._
+*   _Amendment(s) incorporated in the [Act(s)][172]._
 
 ##### 73 Jurisdiction of Disputes Tribunals
     
-*   _Amendment(s) incorporated in the [Act(s)][172]._
+*   _Amendment(s) incorporated in the [Act(s)][173]._
 
 ##### 74 Rules
     
-*   _Amendment(s) incorporated in the [Act(s)][173]_.
+*   _Amendment(s) incorporated in the [Act(s)][174]_.
 
 #### Amendments to Hire Purchase Act 1971
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2005, by [section 139][169] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Heading: repealed, on 1 April 2005, by [section 139][170] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 75 Interpretation
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 1 April 2005, by [section 139][169] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 75: repealed, on 1 April 2005, by [section 139][170] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 76 Jurisdiction of Disputes Tribunals
     
@@ -1724,33 +1726,33 @@ Amendments to other Acts
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 77 Interpretation
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 77: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 78 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 19 December 2002, by [section 7][168] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 78: repealed, on 19 December 2002, by [section 7][169] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Minors' Contracts Act 1969
 
 ##### 79 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][174]._
+*   _Amendment(s) incorporated in the [Act(s)][175]._
 
 ##### 80 Settlement of claims by minors
     
-*   _Amendment(s) incorporated in the [Act(s)][155]._
+*   _Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### 81 Jurisdiction of Disputes Tribunals
     
-*   _Amendment(s) incorporated in the [Act(s)][175]._
+*   _Amendment(s) incorporated in the [Act(s)][176]._
 
 ## Part 7  
 Repeals, consequential amendments, and transitional provisions
@@ -1763,7 +1765,7 @@ Repeals, consequential amendments, and transitional provisions
     
     *   (b) the Small Claims Tribunals Amendment Act 1979:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][176]_:
+    *   (c) _Amendment(s) incorporated in the [Act(s)][177]_:
     
     *   (d) the Contractual Mistakes Amendment Act 1985:
     
@@ -1779,7 +1781,7 @@ Repeals, consequential amendments, and transitional provisions
     
     (2) The enactments specified in [Schedule 2][111] are hereby consequentially amended in the manner indicated in that schedule.
     
-    (3) The repeal by subsection (1) of [sections 5][176] and [6][177] of, and the [Schedule][178] of, the District Courts Amendment Act 1982 shall not affect the validity of anything validated by those sections or that schedule.
+    (3) The repeal by subsection (1) of [sections 5][177] and [6][178] of, and the [Schedule][179] of, the District Courts Amendment Act 1982 shall not affect the validity of anything validated by those sections or that schedule.
 
 ##### 83 References to Small Claims Tribunals, etc, deemed references to Disputes Tribunals
     
@@ -1802,41 +1804,41 @@ Powers and jurisdiction of Disputes Tribunals
 
 [s 10(1A), (2)][17]
 
-*   Schedule 1: substituted, on 19 December 2002, by [section 8][179] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Schedule 1: substituted, on 19 December 2002, by [section 8][180] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ## Part 1  
 Enactments under which Disputes Tribunals may exercise powers
 
-[Contracts (Privity) Act 1982][180]
+[Contracts (Privity) Act 1982][181]
 
-[Contractual Mistakes Act 1977][181]
+[Contractual Mistakes Act 1977][182]
 
-[Contractual Remedies Act 1979][182]
+[Contractual Remedies Act 1979][183]
 
-[Frustrated Contracts Act 1944][183]
+[Frustrated Contracts Act 1944][184]
 
-[Illegal Contracts Act 1970][184]
+[Illegal Contracts Act 1970][185]
 
 ## Part 2  
 Enactments that confer jurisdiction on Disputes Tribunals
 
-[Consumer Guarantees Act 1993][185]
+[Consumer Guarantees Act 1993][186]
 
-[Credit Contracts and Consumer Finance Act 2003][186]
+[Credit Contracts and Consumer Finance Act 2003][187]
 
-[Credit (Repossession) Act 1997][187]
+[Credit (Repossession) Act 1997][188]
 
-[Fair Trading Act 1986][188]
+[Fair Trading Act 1986][189]
 
-[Fencing Act 1978][189]
+[Fencing Act 1978][190]
 
-[Friendly Societies and Credit Unions Act 1982][190]
+[Friendly Societies and Credit Unions Act 1982][191]
 
-[Minors' Contracts Act 1969][191]
+[Minors' Contracts Act 1969][192]
 
 Motor Vehicle Securities Act 1989
     
-*   Schedule 1 Part 2: amended, on 1 April 2005, by [section 139][169] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Schedule 1 Part 2: amended, on 1 April 2005, by [section 139][170] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ---
 
@@ -1847,31 +1849,31 @@ Consequential amendments
 
 ##### Crown Proceedings Act 1950 (1950 No 54) (RS Vol 2, p 23)
 
-_Amendment(s) incorporated in the [Act(s)][192]._
+_Amendment(s) incorporated in the [Act(s)][193]._
 
 ##### District Courts Act 1947 (1947 No 16) (RS Vol 5, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][193]._
+_Amendment(s) incorporated in the [Act(s)][194]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][194]._
+_Amendment(s) incorporated in the [Act(s)][195]._
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][195]._
+_Amendment(s) incorporated in the [Act(s)][196]._
 
 ##### Inferior Courts Procedure Act 1909 (1909 No 13) (RS Vol 3, p 13)
 
-_Amendment(s) incorporated in the [Act(s)][196]._
+_Amendment(s) incorporated in the [Act(s)][197]._
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][197]._
+_Amendment(s) incorporated in the [Act(s)][198]._
 
 ##### Oaths and Declarations Act 1957 (1957 No 88) (RS Vol 4, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][198]._
+_Amendment(s) incorporated in the [Act(s)][199]._
 
 #### 
 
@@ -1885,57 +1887,59 @@ _Amendment(s) incorporated in the [Act(s)][198]._
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][199] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][200] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][200] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][201] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][201] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][202] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][202] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][203] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Disputes Tribunals Amendment Act 2013][203] (2013 No 113)
+*   [Disputes Tribunals Amendment Act 2013][204] (2013 No 113)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][162]
+    Patents Act 2013 (2013 No 68): [section 249][117]
     
-    [Disputes Tribunals Amendment Act 2011][204] (2011 No 37)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][163]
     
-    Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175): [clause 4][154]
+    [Disputes Tribunals Amendment Act 2011][205] (2011 No 37)
     
-    Limitation Act 2010 (2010 No 110): [section 58][134]
+    Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175): [clause 4][155]
     
-    [Disputes Tribunals Amendment Act 2009][205] (2009 No 22)
+    Limitation Act 2010 (2010 No 110): [section 58][135]
     
-    Arbitration Amendment Act 2007 (2007 No 94): [section 11][143]
+    [Disputes Tribunals Amendment Act 2009][206] (2009 No 22)
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][169]
+    Arbitration Amendment Act 2007 (2007 No 94): [section 11][144]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][120]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][170]
     
-    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][157]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][121]
     
-    [Disputes Tribunals Amendment Act 2002][206] (2002 No 80)
+    Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][158]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][128]
+    [Disputes Tribunals Amendment Act 2002][207] (2002 No 80)
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][117]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][129]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][136]
+    Trade Marks Act 2002 (2002 No 49): [section 201][118]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][165]
+    Sentencing Act 2002 (2002 No 9): [section 186][137]
+    
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][166]
     
     Hire Purchase Amendment Act 1999 (1999 No 6): section 3(a)
     
     Credit Contracts Amendment Act 1999 (1999 No 2): section 3
     
-    [Disputes Tribunals Amendment Act 1998 ][207](1998 No 84)
+    [Disputes Tribunals Amendment Act 1998 ][208](1998 No 84)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(b)][125], [10(1)][121]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(b)][126], [10(1)][122]
     
     Disputes Tribunals Amendment Act 1995 (1995 No 8)
     
-    Copyright Act 1994 (1994 No 143): [section 236(1)][118]
+    Copyright Act 1994 (1994 No 143): [section 236(1)][119]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][160]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][161]
 
 
 
@@ -2051,99 +2055,100 @@ _Amendment(s) incorporated in the [Act(s)][198]._
 [109]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134171
 [110]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134172
 [111]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM3552014
-[112]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM280030
+[112]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1419000
 [113]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM281070
 [114]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM164239
 [115]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM345633
 [116]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM100577
-[117]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM165256
-[118]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM347117
-[119]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428164
-[120]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM201378
-[121]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM367235
-[122]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428165
-[123]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5621307
-[124]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428166
-[125]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM367228
-[126]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM264952
-[127]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428167
-[128]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM167443
-[129]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134177
-[130]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134178
-[131]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2033100
-[132]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169827
-[133]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919611
-[134]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2033287
-[135]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM135596
-[136]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM137267
-[137]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169828
-[138]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243648
-[139]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169829
-[140]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919612
-[141]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919613
-[142]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM405701
-[143]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM970264
-[144]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242775
-[145]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556303
-[146]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243986
-[147]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243933
-[148]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243965
-[149]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556304
-[150]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919614
-[151]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243748
-[152]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63966
-[153]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169830
-[154]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3738507
-[155]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392392
-[156]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM188856
-[157]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM188945
-[158]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM95903
-[159]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM244437
-[160]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM162942
-[161]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243732
-[162]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3360714
-[163]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5344702
-[164]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM99493
-[165]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM104117
-[166]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428171
-[167]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261466
-[168]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169831
-[169]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM213532
-[170]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21813
-[171]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21874
-[172]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21878
-[173]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21884
-[174]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392356
-[175]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392611
-[176]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58297
-[177]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58299
-[178]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59004
-[179]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169832
-[180]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63970
-[181]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM443633
-[182]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM31565
-[183]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM236924
-[184]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM396434
-[185]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM311052
-[186]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM211511
-[187]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM414112
-[188]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96438
-[189]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21806
-[190]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59731
-[191]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392349
-[192]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261467
-[193]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242776
-[194]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96439
-[195]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59732
-[196]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM176585
-[197]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM124116
-[198]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM314553
-[199]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998516
-[200]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998515
-[201]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998532
-[202]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[203]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5621300
-[204]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556309
-[205]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919600
-[206]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169822
-[207]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428159
+[117]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1419624
+[118]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM165256
+[119]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM347117
+[120]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428164
+[121]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM201378
+[122]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM367235
+[123]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428165
+[124]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5621307
+[125]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428166
+[126]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM367228
+[127]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM264952
+[128]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428167
+[129]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM167443
+[130]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134177
+[131]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134178
+[132]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2033100
+[133]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169827
+[134]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919611
+[135]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2033287
+[136]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM135596
+[137]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM137267
+[138]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169828
+[139]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243648
+[140]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169829
+[141]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919612
+[142]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919613
+[143]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM405701
+[144]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM970264
+[145]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242775
+[146]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556303
+[147]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243986
+[148]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243933
+[149]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243965
+[150]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556304
+[151]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919614
+[152]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243748
+[153]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63966
+[154]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169830
+[155]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3738507
+[156]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392392
+[157]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM188856
+[158]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM188945
+[159]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM95903
+[160]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM244437
+[161]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM162942
+[162]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243732
+[163]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3360714
+[164]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5344702
+[165]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM99493
+[166]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM104117
+[167]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428171
+[168]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261466
+[169]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169831
+[170]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM213532
+[171]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21813
+[172]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21874
+[173]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21878
+[174]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21884
+[175]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392356
+[176]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392611
+[177]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58297
+[178]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58299
+[179]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59004
+[180]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169832
+[181]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63970
+[182]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM443633
+[183]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM31565
+[184]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM236924
+[185]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM396434
+[186]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM311052
+[187]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM211511
+[188]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM414112
+[189]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96438
+[190]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21806
+[191]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59731
+[192]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392349
+[193]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261467
+[194]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242776
+[195]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96439
+[196]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59732
+[197]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM176585
+[198]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM124116
+[199]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM314553
+[200]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998516
+[201]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998515
+[202]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM2998532
+[203]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[204]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5621300
+[205]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3556309
+[206]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919600
+[207]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169822
+[208]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428159
