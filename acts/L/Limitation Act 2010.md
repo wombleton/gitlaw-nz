@@ -1,4 +1,7 @@
-![Crest](/images/leg-crest.jpg)
+Reprint  
+as at 13 September 2014
+
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Limitation Act 2010Public Act2010 No 110
 
@@ -6,184 +9,196 @@ Date of assent7 September 2010
 
 Commencementsee section 2
 
+---
+
+###### Note
+
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
+
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
+
+This Act is administered by the Ministry of Justice.
+
+---
+
 ## Contents
 
-[1][0] [Title][0]
+[1][1][][1][Title][1]
 
-[2][1] [Commencement][1]
+[2][2][][2][Commencement][2]
 
-[Part 1][2]  
-[Preliminary provisions][2]
+[Part 1][3]  
+[Preliminary provisions][3]
 
-[3][3] [Purpose of this Act][3]
+[3][4][][4][Purpose of this Act][4]
 
-[4][4] [Interpretation][4]
+[4][5][][5][Interpretation][5]
 
-[5][5] [Date of act or omission on which claim is based defined for certain claims][5]
+[5][6][][6][Date of act or omission on which claim is based defined for certain claims][6]
 
-[6][6] [Date on which claim is filed defined][6]
+[6][7][][7][Date on which claim is filed defined][7]
 
-[7][7] [Act binds the Crown][7]
+[7][8][][8][Act binds the Crown][8]
 
-[8][8] [Act does not affect jurisdiction to refuse relief][8]
+[8][9][][9][Act does not affect jurisdiction to refuse relief][9]
 
-[9][9] [Act may be applied by analogy to equitable claims][9]
+[9][10][][10][Act may be applied by analogy to equitable claims][10]
 
-[10][10] [Defences: application, exceptions, and modifications][10]
+[10][11][][11][Defences: application, exceptions, and modifications][11]
 
-[Part 2][11]  
-[Defence to money claims][11]
+[Part 2][12]  
+[Defence to money claims][12]
 
-[11][12] [Defence to money claim filed after applicable period][12]
+[11][13][][13][Defence to money claim filed after applicable period][13]
 
-[12][13] [Money claim defined][13]
+[12][14][][14][Money claim defined][14]
 
-[13][14] [Damages as well as, or in substitution for, injunction or specific performance][14]
+[13][15][][15][Damages as well as, or in substitution for, injunction or specific performance][15]
 
-[14][15] [Late knowledge date (when claimant has late knowledge) defined][15]
+[14][16][][16][Late knowledge date (when claimant has late knowledge) defined][16]
 
-[15][16] [Defamation claims: primary period and late knowledge period each 2 years][16]
+[15][17][][17][Defamation claims: primary period and late knowledge period each 2 years][17]
 
-[16][17] [Special start dates for various money claims][17]
+[16][18][][18][Special start dates for various money claims][18]
 
-[17][18] [Discretion to allow relief for claim of abuse of minor or of gradual process, disease, or infection injury][18]
+[17][19][][19][Discretion to allow relief for claim of abuse of minor or of gradual process, disease, or infection injury][19]
 
-[18][19] [Matters to be taken into account under section 17][19]
+[18][20][][20][Matters to be taken into account under section 17][20]
 
-[Part 3][20]  
-[Defences to other claims][20]
+[Part 3][21]  
+[Defences to other claims][21]
 
-[Claims in respect of land][21]
+[Claims in respect of land][22]
 
-[19][22] [How Act applies to land][22]
+[19][23][][23][How Act applies to land][23]
 
-[20][23] [Crown owned minerals unaffected][23]
+[20][24][][24][Crown owned minerals unaffected][24]
 
-[21][24] [Claim to recover land (based on adverse possession)][24]
+[21][25][][25][Claim to recover land (based on adverse possession)][25]
 
-[22][25] [When claims accrue: current interests in land][25]
+[22][26][][26][When claims accrue: current interests in land][26]
 
-[23][26] [When claims accrue: future interests in land][26]
+[23][27][][27][When claims accrue: future interests in land][27]
 
-[24][27] [When claims accrue: land held on trust][27]
+[24][28][][28][When claims accrue: land held on trust][28]
 
-[25][28] [Restriction on redemption of mortgaged land][28]
+[25][29][][29][Restriction on redemption of mortgaged land][29]
 
-[26][29] [No claims preserved by formal entry or continual claim][29]
+[26][30][][30][No claims preserved by formal entry or continual claim][30]
 
-[27][30] [Extinguishment of owner's title after specified period][30]
+[27][31][][31][Extinguishment of owner's title after specified period][31]
 
-[28][31] [Claims relating to Maori customary land][31]
+[28][32][][32][Claims relating to Maori customary land][32]
 
-[Claims in respect of personal property, accounts, wills, contribution, and judgments or awards][32]
+[Claims in respect of personal property, accounts, wills, contribution, and judgments or awards][33]
 
-[29][33] [Claim to recover converted or wrongly detained goods][33]
+[29][34][][34][Claim to recover converted or wrongly detained goods][34]
 
-[30][34] [Extinguishment of title of owner of converted goods][34]
+[30][35][][35][Extinguishment of title of owner of converted goods][35]
 
-[31][35] [Claim to recover personal property held on trust][35]
+[31][36][][36][Claim to recover personal property held on trust][36]
 
-[32][36] [Claim for account][36]
+[32][37][][37][Claim for account][37]
 
-[33][37] [Claim to have will declared invalid on specified grounds][37]
+[33][38][][38][Claim to have will declared invalid on specified grounds][38]
 
-[34][38] [Claim for contribution from another tortfeasor or joint obligor][38]
+[34][39][][39][Claim for contribution from another tortfeasor or joint obligor][39]
 
-[35][39] [Claim to enforce judgment by action][39]
+[35][40][][40][Claim to enforce judgment by action][40]
 
-[36][40] [Claim to enforce arbitral award by action or for entry of arbitral award as judgment][40]
+[36][41][][41][Claim to enforce arbitral award by action or for entry of arbitral award as judgment][41]
 
-[Claims under contracts statutes][41]
+[Claims under contracts statutes][42]
 
-[37][42] [Claim for non-monetary and non-declaratory relief][42]
+[37][43][][43][Claim for non-monetary and non-declaratory relief][43]
 
-[Special start dates][43]
+[Special start dates][44]
 
-[38][44] [Special start dates for various other claims][44]
+[38][45][][45][Special start dates for various other claims][45]
 
-[Part 4][45]  
-[General provisions][45]
+[Part 4][46]  
+[General provisions][46]
 
-[Arbitrations, special defences, and contracting out][46]
+[Arbitrations, special defences, and contracting out][47]
 
-[39][47] [Application of limitation enactments to arbitrations][47]
+[39][48][][48][Application of limitation enactments to arbitrations][48]
 
-[40][48] [Other enactments may displace or affect defences][48]
+[40][49][][49][Other enactments may displace or affect defences][49]
 
-[41][49] [Contracting out of defences][49]
+[41][50][][50][Contracting out of defences][50]
 
-[Pleading, and effect of establishing, defences][50]
+[Pleading, and effect of establishing, defences][51]
 
-[42][51] [Defendant not excused from pleading defence][51]
+[42][52][][52][Defendant not excused from pleading defence][52]
 
-[43][52] [Established defence bars relief, not underlying right][52]
+[43][53][][53][Established defence bars relief, not underlying right][53]
 
-[Exceptions or modifications to periods and start dates][53]
+[Exceptions or modifications to periods and start dates][54]
 
-[44][54] [Minority][54]
+[44][55][][55][Minority][55]
 
-[45][55] [Incapacity][55]
+[45][56][][56][Incapacity][56]
 
-[46][56] [Incapacitated and related terms defined][56]
+[46][57][][57][Incapacitated and related terms defined][57]
 
-[47][57] [Acknowledgment or part payment][57]
+[47][58][][58][Acknowledgment or part payment][58]
 
-[48][58] [Fraud][58]
+[48][59][][59][Fraud][59]
 
-[49][59] [Trust property possessed or converted by trustee][59]
+[49][60][][60][Trust property possessed or converted by trustee][60]
 
-[Ancillary claims][60]
+[Ancillary claims][61]
 
-[50][61] [Discretion to allow relief for ancillary claim when allowed for original claim][61]
+[50][62][][62][Discretion to allow relief for ancillary claim when allowed for original claim][62]
 
-[Interest in respect of judgment debts][62]
+[Interest in respect of judgment debts][63]
 
-[51][63] [Recovery restricted to 6 years from date interest due][63]
+[51][64][][64][Recovery restricted to 6 years from date interest due][64]
 
-[Purchasers, deceased estates, and trust beneficiaries][64]
+[Purchasers, deceased estates, and trust beneficiaries][65]
 
-[52][65] [Protection of title of bona fide purchasers for value][65]
+[52][66][][66][Protection of title of bona fide purchasers for value][66]
 
-[53][66] [Personal representative making or defending claim on behalf of deceased's estate][66]
+[53][67][][67][Personal representative making or defending claim on behalf of deceased's estate][67]
 
-[54][67] [Trust beneficiaries cannot derive benefit indirectly][67]
+[54][68][][68][Trust beneficiaries cannot derive benefit indirectly][68]
 
-[Application of limitation law of foreign countries][68]
+[Application of limitation law of foreign countries][69]
 
-[55][69] [How limitation law of foreign countries applied in civil proceedings and arbitrations][69]
+[55][70][][70][How limitation law of foreign countries applied in civil proceedings and arbitrations][70]
 
-[56][70] [Public policy exception for limitation law of foreign countries other than Australia][70]
+[56][71][][71][Public policy exception for limitation law of foreign countries other than Australia][71]
 
-[Repeal, consequential amendments, and saving][71]
+[Repeal, consequential amendments, and saving][72]
 
-[57][72] [Limitation Act 1950 repealed][72]
+[57][73][][73][Limitation Act 1950 repealed][73]
 
-[58][73] [Consequential amendments][73]
+[58][74][][74][Consequential amendments][74]
 
-[59][74] [Actions based on acts or omissions before 1 January 2011][74]
+[59][75][][75][Actions based on acts or omissions before 1 January 2011][75]
 
-[Amendments relating to actions based on acts or omissions before 1 January 2011][75]
+[Amendments relating to actions based on acts or omissions before 1 January 2011][76]
 
-[60][76] [Amendments to Limitation Act 1950][76]
+[60][77][][77][Amendments to Limitation Act 1950][77]
 
-[61][77] [New section 2A inserted][77]
+[61][78][][78][New section 2A inserted][78]
 
-[2A][78] [Act continues to apply despite its repeal to actions based on acts or omissions before 1 January 2011][78]
+[2A][79][][79][Act continues to apply despite its repeal to actions based on acts or omissions before 1 January 2011][79]
 
-[62][79] [New heading and sections 23A to 23D][79]
+[62][80][][80][New heading and sections 23A to 23D][80]
 
-[Longstop period of limitation][80]
+[Longstop period of limitation][81]
 
-[23A][81] [Actions to which longstop period of limitation applies][81]
+[23A][82][][82][Actions to which longstop period of limitation applies][82]
 
-[23B][82] [Longstop period of limitation][82]
+[23B][83][][83][Longstop period of limitation][83]
 
-[23C][83] [Discretion to allow relief for action of abuse of infant or of gradual process, disease, or infection injury][83]
+[23C][84][][84][Discretion to allow relief for action of abuse of infant or of gradual process, disease, or infection injury][84]
 
-[23D][84] [Matters to be taken into account under section 23C][84]
+[23D][85][][85][Matters to be taken into account under section 23C][85]
 
-[Schedule  ][85]  
-[Consequential amendments][85]
+[Schedule][86]  
+[Consequential amendments][86]
 
 ---
 
@@ -206,7 +221,7 @@ Preliminary provisions
 
 ##### 4 Interpretation
     
-*   In this Act, unless the context otherwise requires,--- 
+*   In this Act, unless the context otherwise requires,---
     
     _ancillary claim_ means a claim that relates to, or is connected with, the act or omission on which another claim (the _original claim_) is based, and is---
         
@@ -222,7 +237,7 @@ Preliminary provisions
     
     *   (f) any other claim that is ancillary to the original claim
     
-    _arbitration_ has the meaning given to it by [section 39(1)][47]
+    _arbitration_ has the meaning given to it by [section 39(1)][48]
     
     _civil penalty_ means a sum that is recoverable under an enactment and is, or is by way of, a forfeiture or a penalty, but does not include the following to which a person is liable on conviction for an offence:
         
@@ -240,25 +255,25 @@ Preliminary provisions
     
     _claim to recover land_ includes a claim to exercise a right to enter into possession of the land
     
-    _claimant_ means the person on whose behalf a claim is made (whether by that person or another person), but does not include an individual (in [section 53][66] called the _deceased_) who has died
+    _claimant_ means the person on whose behalf a claim is made (whether by that person or another person), but does not include an individual (in [section 53][67] called the _deceased_) who has died
     
     _country_ includes a state, territory, province, or other part of a country
     
-    _date of the act or omission on which the claim is based_, for a claim of a kind specified in a paragraph of [section 5(1)][5], has the meaning given to it by that paragraph
+    _date of the act or omission on which the claim is based_, for a claim of a kind specified in a paragraph of [section 5(1)][6], has the meaning given to it by that paragraph
     
-    _date on which the claim is filed_ has the meaning given to it by [section 6][6]
+    _date on which the claim is filed_ has the meaning given to it by [section 6][7]
     
     _defendant_ means a person against whom a claim is made
     
     _Disputes Tribunal_ means---
         
-    *   (a) a Disputes Tribunal established under [section 4][86] of the Disputes Tribunals Act 1988; or
+    *   (a) a Disputes Tribunal established under [section 4][87] of the Disputes Tribunals Act 1988; or
     
-    *   (b) a Motor Vehicle Disputes Tribunal exercising under [section 89(1)(b)(iii) or (iv)][87] of the Motor Vehicle Sales Act 2003 a Disputes Tribunal's jurisdiction under---
+    *   (b) a Motor Vehicle Disputes Tribunal exercising under [section 89(1)(b)(iii) or (iv)][88] of the Motor Vehicle Sales Act 2003 a Disputes Tribunal's jurisdiction under---
             
-        *   (i) [section 39][88] or [47][89] of the Consumer Guarantees Act 1993; or
+        *   (i) [section 39][89] or [47][90] of the Consumer Guarantees Act 1993; or
         
-        *   (ii) [section 9][90] of the Contractual Remedies Act 1979
+        *   (ii) [section 9][91] of the Contractual Remedies Act 1979
         
         
     
@@ -278,9 +293,9 @@ Preliminary provisions
     
     *   (b) does not include an easement or a _profit à prendre_
     
-    _late knowledge period_ has the meaning given to it by [section 11(3)(a)][12]
+    _late knowledge period_ has the meaning given to it by [section 11(3)(a)][13]
     
-    _limitation enactments_ has the meaning given to it by [section 39(1)][47]
+    _limitation enactments_ has the meaning given to it by [section 39(1)][48]
     
     _limitation law_ means---
         
@@ -288,7 +303,7 @@ Preliminary provisions
     
     *   (b) a law that provides that civil proceedings in respect of a matter may be commenced within an indefinite period
     
-    _longstop period_ has the meaning given to it by [section 11(3)(b)][12]
+    _longstop period_ has the meaning given to it by [section 11(3)(b)][13]
     
     _make_ means to bring a claim by---
         
@@ -296,15 +311,15 @@ Preliminary provisions
     
     *   (b) referring the dispute relating to the claim to arbitration
     
-    _Maori customary land_ means Maori customary land within the meaning of [Te Ture Whenua Maori Act 1993][91]
+    _Maori customary land_ means Maori customary land within the meaning of [Te Ture Whenua Maori Act 1993][92]
     
     _money_ means currency that is or has been authorised as a medium of exchange by the law of New Zealand or of any other country
     
-    _money claim_ has the meaning given to it by [section 12][13]
+    _money claim_ has the meaning given to it by [section 12][14]
     
     _mortgage_ includes a charge or an encumbrance
     
-    _Part 3 period_, for a claim that is not a money claim, means the period prescribed for the claim by [Part 3][20]
+    _Part 3 period_, for a claim that is not a money claim, means the period prescribed for the claim by [Part 3][21]
     
     _personal property_---
         
@@ -312,7 +327,7 @@ Preliminary provisions
     
     *   (b) does not include money or an interest under a lease of real property
     
-    _primary period_ has the meaning given to it by [section 11(1)][12]
+    _primary period_ has the meaning given to it by [section 11(1)][13]
     
     _specified court or tribunal_ means---
         
@@ -322,9 +337,9 @@ Preliminary provisions
     
     _start date_, in relation to a period prescribed by this Act for a claim, means the date---adjusted in accordance with all relevant exceptions and modifications (if any) set out in this Act---on or after which the period starts
     
-    _trust_ and _trustee_ have the same meanings respectively as in the [Trustee Act 1956][92] as for the time being extended by any other enactment.
+    _trust_ and _trustee_ have the same meanings respectively as in the [Trustee Act 1956][93] as for the time being extended by any other enactment.
     
-    Compare: 1950 No 65 [ss 2(1), (5), (6)][93], [4(5)][94], [7A][95], [28A][96], [30][97]
+    Compare: 1950 No 65 [ss 2(1), (5), (6)][94], [4(5)][95], [7A][96], [28A][97], [30][98]
 
 ##### 5 Date of act or omission on which claim is based defined for certain claims
     
@@ -332,17 +347,19 @@ Preliminary provisions
         
     *   (a) a claim based on an obligation not enforceable until a demand is made---the date on which the defendant defaulted after demand was made; and
     
-    *   (b) a claim in respect of an infringement after publication of the complete specification and before sealing of a patent sealed under the [Patents Act 1953][98]---the date on which the patent was sealed; and
+    *   (b) a claim in respect of an infringement after publication of the complete specification and before sealing of a patent sealed under the [Patents Act 1953][99]---the date on which the patent was sealed; and
+    
+    *   (ba) a claim in respect of an infringement after the complete specification becomes open to public inspection and before the patent is granted under the [Patents Act 2013][100]---the date on which the patent was granted; and
     
     *   (c) a claim in respect of an infringement (of a registered design or trade mark) in subsection (2)---the date on which the infringement was committed or occurred.
     
     (2) Subsection (1)(c) applies to---
         
-    *   (a) an infringement of a design registered under the [Designs Act 1953][99] and in respect of which proceedings may be taken in accordance with the proviso to [section 7(5)][100] or the proviso to [section 21(2)][101] of that Act because the infringement was committed on or after the date on which the certificate of registration is issued; and
+    *   (a) an infringement of a design registered under the [Designs Act 1953][101] and in respect of which proceedings may be taken in accordance with the proviso to [section 7(5)][102] or the proviso to [section 21(2)][103] of that Act because the infringement was committed on or after the date on which the certificate of registration is issued; and
     
-    *   (b) an infringement of a registered trade mark (as defined in [section 5(1)][102] of the Trade Marks Act 2002) and in respect of which proceedings may be brought in accordance with [section 100(a) or (b)][103] of that Act because the infringement occurred on or after the date specified in whichever of those paragraphs applies.
+    *   (b) an infringement of a registered trade mark (as defined in [section 5(1)][104] of the Trade Marks Act 2002) and in respect of which proceedings may be brought in accordance with [section 100(a) or (b)][105] of that Act because the infringement occurred on or after the date specified in whichever of those paragraphs applies.
     
-    
+    Section 5(1)(ba): inserted, on 13 September 2014, by [section 249][106] of the Patents Act 2013 (2013 No 68).
 
 ##### 6 Date on which claim is filed defined
     
@@ -372,19 +389,19 @@ Preliminary provisions
     
 *   This Act binds the Crown.
     
-    Compare: 1950 No 65 [ss 32][104], [33(1)][105]
+    Compare: 1950 No 65 [ss 32][107], [33(1)][108]
 
 ##### 8 Act does not affect jurisdiction to refuse relief
     
 *   Nothing in this Act limits or affects any equitable or other jurisdiction to refuse relief, whether on the ground of acquiescence or delay, or on any other ground.
     
-    Compare: 1950 No 65 [s 31][106]
+    Compare: 1950 No 65 [s 31][109]
 
 ##### 9 Act may be applied by analogy to equitable claims
     
 *   Nothing in this Act prevents it from being applied by analogy to a claim in equity to which no defence prescribed by this Act applies.
     
-    Compare: 1950 No 65 [s 4(9)][94]
+    Compare: 1950 No 65 [s 4(9)][95]
 
 ##### 10 Defences: application, exceptions, and modifications
     
@@ -394,7 +411,7 @@ Preliminary provisions
             
         *   (i) based on an act or omission after 31 December 2010; and
         
-        *   (ii) made in a civil proceeding in a specified court or tribunal, or in an arbitration (_see_ [section 39][47]); and
+        *   (ii) made in a civil proceeding in a specified court or tribunal, or in an arbitration (_see_ [section 39][48]); and
         
         
     
@@ -411,7 +428,7 @@ Defence to money claims
     
     (2) However, subsection (3) applies to a money claim instead of subsection (1) (whether or not a defence to the claim has been raised or established under subsection (1)) if---
         
-    *   (a) the claimant has late knowledge of the claim, and so the claim has a late knowledge date (_see_ [section 14][15]); and
+    *   (a) the claimant has late knowledge of the claim, and so the claim has a late knowledge date (_see_ [section 14][16]); and
     
     *   (b) the claim is made after its primary period.
     
@@ -433,7 +450,7 @@ Defence to money claims
     
     *   (b) for, or for arrears of, or for damages in respect of arrears of, interest in respect of a judgment debt; or
     
-    *   (c) for monetary relief for a breach of the [New Zealand Bill of Rights Act 1990][107]; or
+    *   (c) for monetary relief for a breach of the [New Zealand Bill of Rights Act 1990][110]; or
     
     *   (d) to have imposed, or recover, a civil penalty; or
     
@@ -441,23 +458,23 @@ Defence to money claims
     
     (3) A claim for monetary relief does not include a claim---
         
-    *   (a) for damages in respect of any trespass or injury to Maori customary land (_see_ [section 28][31]); or
+    *   (a) for damages in respect of any trespass or injury to Maori customary land (_see_ [section 28][32]); or
     
-    *   (b) for an account if, and only insofar as, the claim seeks relief that is not monetary relief (_see_ [section 32][36]); or
+    *   (b) for an account if, and only insofar as, the claim seeks relief that is not monetary relief (_see_ [section 32][37]); or
     
-    *   (c) for contribution from another tortfeasor or joint obligor (_see_ [section 34][38]); or
+    *   (c) for contribution from another tortfeasor or joint obligor (_see_ [section 34][39]); or
     
-    *   (d) on a judgment, or to enforce an arbitral award (_see_ [sections 35][39] and [36][40]); or
+    *   (d) on a judgment, or to enforce an arbitral award (_see_ [sections 35][40] and [36][41]); or
     
-    *   (e) under the [Criminal Proceeds (Recovery) Act 2009][108]; or
+    *   (e) under the [Criminal Proceeds (Recovery) Act 2009][111]; or
     
-    *   (f) under the [Terrorism Suppression Act 2002][109].
+    *   (f) under the [Terrorism Suppression Act 2002][112].
     
     
 
 ##### 13 Damages as well as, or in substitution for, injunction or specific performance
     
-*   Nothing in [section 11][12] applies to damages under [section 16A][110] of the Judicature Act 1908\.
+*   Nothing in [section 11][13] applies to damages under [section 16A][113] of the Judicature Act 1908\.
 
 ##### 14 Late knowledge date (when claimant has late knowledge) defined
     
@@ -481,17 +498,17 @@ Defence to money claims
 
 ##### 15 Defamation claims: primary period and late knowledge period each 2 years
     
-*   For a claim for defamation, ""6 years"" in [section 11(1)][12] and ""3 years"" in section 11(3)(a) must each be read as ""2 years"".
+*   For a claim for defamation, ""6 years"" in [section 11(1)][13] and ""3 years"" in section 11(3)(a) must each be read as ""2 years"".
     
-    Compare: 1950 No 65 [s 4(6A), (6B)][94]
+    Compare: 1950 No 65 [s 4(6A), (6B)][95]
 
 ##### 16 Special start dates for various money claims
     
-*   (1) For the purposes of [section 11(1) and (3)(b)][12], the primary and longstop periods of a claim specified in one of the following paragraphs have the start date specified in that paragraph:
+*   (1) For the purposes of [section 11(1) and (3)(b)][13], the primary and longstop periods of a claim specified in one of the following paragraphs have the start date specified in that paragraph:
         
     *   (a) a claim for, or for arrears of, or for damages in respect of arrears of, interest or rent---the date on which the interest, rent, or arrears became payable:
     
-    *   (b) a claim for conversion or wrongful detention made in respect of goods that have been the subject of 1 or more earlier instances of conversion or wrongful detention, and made by a person referred to in [section 30][34] as the original claimant---the date of the original or first conversion or (as the case requires) wrongful detention:
+    *   (b) a claim for conversion or wrongful detention made in respect of goods that have been the subject of 1 or more earlier instances of conversion or wrongful detention, and made by a person referred to in [section 30][35] as the original claimant---the date of the original or first conversion or (as the case requires) wrongful detention:
     
     *   (c) a claim to recover a principal sum of money secured by a mortgage over property that is or includes a future interest, or a life insurance policy, that has not matured or been determined---the date on which the interest or policy matures or is determined:
     
@@ -501,17 +518,17 @@ Defence to money claims
     
     *   (f) a claim to, or for a share or interest in, the personal estate (whether under a will or on an intestacy) of an individual who has died---the date on which the right to receive the share or interest accrued:
     
-    *   (g) a claim for cancellation of an irregular transaction and for an order under [section 207][111] of the Insolvency Act 2006---the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
+    *   (g) a claim for cancellation of an irregular transaction and for an order under [section 207][114] of the Insolvency Act 2006---the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
     
-    *   (h) a claim under [section 213][112] of the Insolvency Act 2006---the date on which the assignee of the bankrupt was appointed:
+    *   (h) a claim under [section 213][115] of the Insolvency Act 2006---the date on which the assignee of the bankrupt was appointed:
     
-    *   (i) a claim under [section 301][113] of the Companies Act 1993---the date on which the liquidator of the company or overseas company was appointed:
+    *   (i) a claim under [section 301][116] of the Companies Act 1993---the date on which the liquidator of the company or overseas company was appointed:
     
-    *   (j) a claim under [section 54][114] of the Corporations (Investigation and Management) Act 1989 or [section 138][115] of the Reserve Bank of New Zealand Act 1989---the date on which the corporation or bank was declared to be subject to statutory management.
+    *   (j) a claim under [section 54][117] of the Corporations (Investigation and Management) Act 1989 or [section 138][118] of the Reserve Bank of New Zealand Act 1989---the date on which the corporation or bank was declared to be subject to statutory management.
     
-    (2) When [section 301][113] of the Companies Act 1993 applies, in accordance with [section 55][116] of the Corporations (Investigation and Management) Act 1989 or [section 139][117] of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+    (2) When [section 301][116] of the Companies Act 1993 applies, in accordance with [section 55][119] of the Corporations (Investigation and Management) Act 1989 or [section 139][120] of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(i) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
     
-    Compare: 1950 No 65 [ss 2(7)(c)][93], [4(4)][94], [5(1)][118], [19][119], [20(3)][120], proviso to [21(2)][121], [22][122]
+    Compare: 1950 No 65 [ss 2(7)(c)][94], [4(4)][95], [5(1)][121], [19][122], [20(3)][123], proviso to [21(2)][124], [22][125]
 
 ##### 17 Discretion to allow relief for claim of abuse of minor or of gradual process, disease, or infection injury
     
@@ -547,7 +564,7 @@ Defence to money claims
 
 ##### 18 Matters to be taken into account under section 17
     
-*   In determining whether to make an order under [section 17][18], the specified court or tribunal must take into account---
+*   In determining whether to make an order under [section 17][19], the specified court or tribunal must take into account---
         
     *   (a) any hardship that would be caused,---
             
@@ -561,7 +578,7 @@ Defence to money claims
     
     *   (c) any effects or likely effects of the delay on---
             
-        *   (i) the defendant's ability to defend the claim; and 
+        *   (i) the defendant's ability to defend the claim; and
         
         *   (ii) the cogency of the evidence offered, or likely to be offered, by A or the defendant; and
         
@@ -584,19 +601,19 @@ Defences to other claims
 
 ##### 19 How Act applies to land
     
-*   (1) This Act applies to land, including Crown land, land subject to the [Land Transfer Act 1952][123], and land registered under the Deeds Registration Act 1908\.
+*   (1) This Act applies to land, including Crown land, land subject to the [Land Transfer Act 1952][126], and land registered under the Deeds Registration Act 1908\.
     
-    (2) However, no provision in [Parts 2][11] and [3][20], except [section 28][31], applies to Maori customary land.
+    (2) However, no provision in [Parts 2][12] and [3][21], except [section 28][32], applies to Maori customary land.
     
-    (3) In the event of any inconsistency between this Act and the [Land Act 1948][124], the [Land Transfer Act 1952][123] or, as the case may be, [section 51][125] of the Public Works Act 1981, that Act or section prevails.
+    (3) In the event of any inconsistency between this Act and the [Land Act 1948][127], the [Land Transfer Act 1952][126] or, as the case may be, [section 51][128] of the Public Works Act 1981, that Act or section prevails.
     
-    Compare: 1950 No 65 [s 6(2)][126]
+    Compare: 1950 No 65 [s 6(2)][129]
 
 ##### 20 Crown owned minerals unaffected
     
-*   Nothing in this Act affects any property or title in, right to, or ownership of, any Crown owned minerals (as defined in [section 2(1)][127] of the Crown Minerals Act 1991).
+*   Nothing in this Act affects any property or title in, right to, or ownership of, any Crown owned minerals (as defined in [section 2(1)][130] of the Crown Minerals Act 1991).
     
-    Compare: 1950 No 65 [s 6(3)][126]
+    Compare: 1950 No 65 [s 6(3)][129]
 
 ##### 21 Claim to recover land (based on adverse possession)
     
@@ -610,7 +627,7 @@ Defences to other claims
     
     (3) For the purposes of this section, 1 or more joint tenants or tenants in common of any land can take adverse possession of the land as against the other tenant or tenants.
     
-    Compare: 1950 No 65 [ss 7][128], [13][129]
+    Compare: 1950 No 65 [ss 7][131], [13][132]
 
 ##### 22 When claims accrue: current interests in land
     
@@ -626,7 +643,7 @@ Defences to other claims
     
     *   (b) in the case of a rentcharge created by will or taking effect on the deceased's death, in possession of the land charged, and was the last person entitled to the land to be in possession of that land.
     
-    Compare: 1950 No 65 [s 8][130]
+    Compare: 1950 No 65 [s 8][133]
 
 ##### 23 When claims accrue: future interests in land
     
@@ -652,7 +669,7 @@ Defences to other claims
     
     (4) If a person (_A_) is entitled to an estate or interest in land in possession and, while so entitled, is also entitled to a future estate or interest in that land, and this Act prevents relief from being granted in respect of A's claim to recover the estate or interest in possession, no relief may be granted in respect of a claim made by A, or by any person claiming through A, in respect of the future estate or interest, unless in the meantime possession of the land has been recovered by a person entitled to an intermediate estate or interest.
     
-    Compare: 1950 No 65 [s 9][131]
+    Compare: 1950 No 65 [s 9][134]
 
 ##### 24 When claims accrue: land held on trust
     
@@ -660,17 +677,17 @@ Defences to other claims
     
     (2) Accordingly a claim to recover the land is, for the purposes only of this Act, deemed to accrue to a person entitled in possession to an equitable interest of that kind in the same way and circumstances and on the same date as it would accrue if the person's interest were a legal estate in the land.
     
-    (3) If land is held by a trustee (including one who is also tenant for life) on trust, including a trust for sale, and the period in [section 21(1)(a) or (b)][24] for the trustee to make a claim to recover the land has expired, the estate of the trustee is extinguished only if, and when, the claim to recover the land of every person entitled to a beneficial interest in the land or in the proceeds of sale has accrued and may be the subject of a defence under section 21\.
+    (3) If land is held by a trustee (including one who is also tenant for life) on trust, including a trust for sale, and the period in [section 21(1)(a) or (b)][25] for the trustee to make a claim to recover the land has expired, the estate of the trustee is extinguished only if, and when, the claim to recover the land of every person entitled to a beneficial interest in the land or in the proceeds of sale has accrued and may be the subject of a defence under section 21\.
     
     (4) If land held on trust for sale is in the possession of a person entitled to a beneficial interest in the land or in the proceeds of sale, not being a person solely and absolutely entitled to the land or the proceeds, no claim to recover the land is for the purposes of this Act deemed to accrue during that possession to a person in whom the land is vested as tenant for life, person having the powers of a tenant for life, or trustee, or to any person entitled to a beneficial interest in the land or the proceeds.
     
-    Compare: 1950 No 65 [s 10][132]
+    Compare: 1950 No 65 [s 10][135]
 
 ##### 25 Restriction on redemption of mortgaged land
     
 *   (1) This section applies to a mortgage of land---
         
-    *   (a) only if none of that land is subject to the [Land Transfer Act 1952][123]; and
+    *   (a) only if none of that land is subject to the [Land Transfer Act 1952][126]; and
     
     *   (b) only if, and after, the mortgagee has been in possession of all or any of that land for 12 years.
     
@@ -680,23 +697,23 @@ Defences to other claims
     
     *   (b) made by, or by a person claiming through, the mortgagor.
     
-    (3) This section overrides anything to the contrary in [section 97][133] of the Property Law Act 2007 or in any other enactment.
+    (3) This section overrides anything to the contrary in [section 97][136] of the Property Law Act 2007 or in any other enactment.
     
-    Compare: 1950 No 65 [s 16][134]
+    Compare: 1950 No 65 [s 16][137]
 
 ##### 26 No claims preserved by formal entry or continual claim
     
 *   For the purposes of this Act, no person is deemed to have been in possession of land by reason only of having made a formal entry on that land, and no continual or other claim upon or near land preserves a claim to recover that land.
     
-    Compare: 1950 No 65 [s 17][135]
+    Compare: 1950 No 65 [s 17][138]
 
 ##### 27 Extinguishment of owner's title after specified period
     
-*   (1) A person's title to land is extinguished if the period in [section 21(1)(a) or (b)][24] ends before the person makes a claim to recover the land.
+*   (1) A person's title to land is extinguished if the period in [section 21(1)(a) or (b)][25] ends before the person makes a claim to recover the land.
     
-    (2) This section overrides [section 43][52].
+    (2) This section overrides [section 43][53].
     
-    Compare: 1950 No 65 [s 18][136]
+    Compare: 1950 No 65 [s 18][139]
 
 ##### 28 Claims relating to Maori customary land
     
@@ -714,15 +731,15 @@ Defences to other claims
     
     (3) For the purposes of this section, the date on which the claim accrued is the date, after 31 December 2010, on which the wrong occurred.
     
-    (4) Nothing in this Act limits or affects [section 344][137] of Te Ture Whenua Maori Act 1993, or any jurisdiction---
+    (4) Nothing in this Act limits or affects [section 344][140] of Te Ture Whenua Maori Act 1993, or any jurisdiction---
         
     *   (a) to investigate and ascertain title to Maori customary land, or to determine whether any parcel of land has the status of Maori customary land; and
     
-    *   (b) that is conferred on the Maori Land Court or the Maori Appellate Court by any provision of [Te Ture Whenua Maori Act 1993][91] or of any other Act.
+    *   (b) that is conferred on the Maori Land Court or the Maori Appellate Court by any provision of [Te Ture Whenua Maori Act 1993][92] or of any other Act.
     
-    (5) This section is the only provision of [Parts 2][11] and [3][20] that applies to Maori customary land.
+    (5) This section is the only provision of [Parts 2][12] and [3][21] that applies to Maori customary land.
     
-    Compare: 1950 No 65 [ss 6(1), (1A), (2)][126], [7A][95]
+    Compare: 1950 No 65 [ss 6(1), (1A), (2)][129], [7A][96]
 
 #### Claims in respect of personal property,  
 accounts, wills, contribution, and  
@@ -736,11 +753,11 @@ judgments or awards
         
     *   (a) is a further conversion or wrongful detention claim (that is, one made in respect of goods that have been the subject of 1 or more earlier instances of conversion or wrongful detention); and
     
-    *   (b) is made by a person referred to in [section 30][34] as the original claimant.
+    *   (b) is made by a person referred to in [section 30][35] as the original claimant.
     
-    (3) This section does not apply to a conversion or detinue claim made by or on behalf of a beneficiary to recover goods held on trust (_see_ [section 31][35]).
+    (3) This section does not apply to a conversion or detinue claim made by or on behalf of a beneficiary to recover goods held on trust (_see_ [section 31][36]).
     
-    Compare: 1950 No 65 [s 5(1), (2)][118]
+    Compare: 1950 No 65 [s 5(1), (2)][121]
 
 ##### 30 Extinguishment of title of owner of converted goods
     
@@ -752,15 +769,15 @@ judgments or awards
     
     (2) The original claimant's title to the goods is extinguished if the period for the original claim ends before the original claimant makes the original claim.
     
-    (3) This section overrides [section 43][52].
+    (3) This section overrides [section 43][53].
     
     (4) However, this section does not limit or affect---
         
-    *   (a) [section 26(1)][138] of the Sale of Goods Act 1908 (which ensures that, if goods have been stolen and the offender is prosecuted to conviction, the property in the goods so stolen revests in the person who was the owner of the goods, or that person's personal representative); or
+    *   (a) [section 26(1)][141] of the Sale of Goods Act 1908 (which ensures that, if goods have been stolen and the offender is prosecuted to conviction, the property in the goods so stolen revests in the person who was the owner of the goods, or that person's personal representative); or
     
-    *   (b) monetary relief in respect of a claim for conversion or wrongful detention when the granting of that relief is not prevented by [section 43(a)][52].
+    *   (b) monetary relief in respect of a claim for conversion or wrongful detention when the granting of that relief is not prevented by [section 43(a)][53].
     
-    Compare: 1950 No 65 [s 5(2), (3)][118]
+    Compare: 1950 No 65 [s 5(2), (3)][121]
 
 ##### 31 Claim to recover personal property held on trust
     
@@ -770,25 +787,25 @@ judgments or awards
     
     *   (b) if the claim is to recover personal property otherwise held on trust, the date on which the cause of action accrued.
     
-    (2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][12] and [14][15] apply to it,---
+    (2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][13] and [14][16] apply to it,---
         
     *   (a) as if it were a money claim; and
     
     *   (b) as if the period in subsection (1) were its primary period.
     
-    Compare: 1950 No 65 [ss 21(2)][121], [22][122]
+    Compare: 1950 No 65 [ss 21(2)][124], [22][125]
 
 ##### 32 Claim for account
     
 *   (1) It is a defence to a claim for an account (whether at common law, in equity, or under an enactment) if the defendant proves that the date on which the claim is filed is at least 6 years after the date the matter arose in respect of which the account is sought.
     
-    (2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][12] and [14][15] apply to it,---
+    (2) A claim to which subsection (1) applies has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][13] and [14][16] apply to it,---
         
     *   (a) as if it were a money claim; and
     
     *   (b) as if the period in subsection (1) were its primary period.
     
-    Compare: 1950 No 65 [ss 2(7)(a)][93], [4(2), (9)][94]
+    Compare: 1950 No 65 [ss 2(7)(a)][94], [4(2), (9)][95]
 
 ##### 33 Claim to have will declared invalid on specified grounds
     
@@ -796,11 +813,11 @@ judgments or awards
     
     (2) It is a defence to a claim seeking to have the will declared or adjudicated to be invalid on the ground of the will-maker's lack of testamentary capacity, or on the ground of undue influence, if the defendant proves that the date on which the claim is filed is at least 6 years after the date of the grant of probate or letters of administration.
     
-    Compare: 1950 No 65 [s 4(6)][94]
+    Compare: 1950 No 65 [s 4(6)][95]
 
 ##### 34 Claim for contribution from another tortfeasor or joint obligor
     
-*   (1) This section applies to a claim under [section 17][139] of the Law Reform Act 1936---
+*   (1) This section applies to a claim under [section 17][142] of the Law Reform Act 1936---
         
     *   (a) by a tortfeasor (_A_) liable in tort to another person (_B_) in respect of damage; and
     
@@ -820,7 +837,7 @@ judgments or awards
     
     (4) It is a defence to A's claim for contribution from C if C proves that the date on which the claim is filed is at least 2 years after the date on which A's liability to B is quantified by an agreement, award, or judgment.
     
-    Compare: 1950 No 65 [s 14][140]; Limitation Act 1980 s 30 (UK)
+    Compare: 1950 No 65 [s 14][143]; Limitation Act 1980 s 30 (UK)
 
 ##### 35 Claim to enforce judgment by action
     
@@ -850,7 +867,7 @@ judgments or awards
     
     (6) The application for the order must be made before the specified court or tribunal has decided whether the defendant has established a defence under this Part against the claim.
     
-    Compare: 1950 No 65 [ss 2(7)(b)][93], [4(4)][94]; Limitation Act 1980 s 24(1) (UK)
+    Compare: 1950 No 65 [ss 2(7)(b)][94], [4(4)][95]; Limitation Act 1980 s 24(1) (UK)
 
 ##### 36 Claim to enforce arbitral award by action or for entry of arbitral award as judgment
     
@@ -868,7 +885,7 @@ judgments or awards
     
     (5) The application for the order must be made before the specified court or tribunal has decided whether the defendant has established a defence under this Part against the claim.
     
-    Compare: 1950 No 65 [ss 2(1)][93], [4(1)(c)][94]
+    Compare: 1950 No 65 [ss 2(1)][94], [4(1)(c)][95]
 
 #### Claims under contracts statutes
 
@@ -876,21 +893,21 @@ judgments or awards
     
 *   (1) This section applies to a claim for relief (other than any form of monetary relief or declaratory relief) under all or any of the following Acts:
         
-    *   (a) [Contracts (Privity) Act 1982][141]:
+    *   (a) [Contracts (Privity) Act 1982][144]:
     
-    *   (b) [Contractual Mistakes Act 1977][142]:
+    *   (b) [Contractual Mistakes Act 1977][145]:
     
-    *   (c) [Contractual Remedies Act 1979][143]:
+    *   (c) [Contractual Remedies Act 1979][146]:
     
-    *   (d) [Frustrated Contracts Act 1944][144]:
+    *   (d) [Frustrated Contracts Act 1944][147]:
     
-    *   (e) [Illegal Contracts Act 1970][145]:
+    *   (e) [Illegal Contracts Act 1970][148]:
     
-    *   (f) [Minors' Contracts Act 1969][146].
+    *   (f) [Minors' Contracts Act 1969][149].
     
     (2) It is a defence to the claim if the defendant proves that the date on which the claim is filed is at least 6 years after the date of the act or omission on which the claim is based.
     
-    (3) The claim has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][12], and [14][15] apply to it,---
+    (3) The claim has both a late knowledge period and a longstop period, and [sections 11(3)(a) and (b)][13], and [14][16] apply to it,---
         
     *   (a) as if it were a money claim; and
     
@@ -902,21 +919,21 @@ judgments or awards
 
 ##### 38 Special start dates for various other claims
     
-*   (1) For the purposes of [sections 29][33] to [32][36], a period for a claim specified in one of the following paragraphs has the start date specified in that paragraph:
+*   (1) For the purposes of [sections 29][34] to [32][37], a period for a claim specified in one of the following paragraphs has the start date specified in that paragraph:
         
     *   (a) a claim in respect of a beneficiary's future interest in a trust---the date on which the beneficiary's interest in the trust falls into possession:
     
     *   (b) a claim in respect of a beneficiary's discretionary interest in a trust---the date on which the beneficiary first becomes entitled to trust income or property because of the trustees' discretion being exercised in the beneficiary's favour:
     
-    *   (c) a claim for cancellation of an irregular transaction and for an order under [section 207][111] of the Insolvency Act 2006---the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
+    *   (c) a claim for cancellation of an irregular transaction and for an order under [section 207][114] of the Insolvency Act 2006---the date on which the assignee of the bankrupt, or appointee of the estate of the deceased debtor, was appointed:
     
-    *   (d) a claim under [section 301][113] of the Companies Act 1993---the date on which the liquidator of the company or overseas company was appointed:
+    *   (d) a claim under [section 301][116] of the Companies Act 1993---the date on which the liquidator of the company or overseas company was appointed:
     
-    *   (e) a claim under [section 54][114] of the Corporations (Investigation and Management) Act 1989 or [section 138][115] of the Reserve Bank of New Zealand Act 1989---the date on which the corporation or bank was declared to be subject to statutory management.
+    *   (e) a claim under [section 54][117] of the Corporations (Investigation and Management) Act 1989 or [section 138][118] of the Reserve Bank of New Zealand Act 1989---the date on which the corporation or bank was declared to be subject to statutory management.
     
-    (2) When [section 301][113] of the Companies Act 1993 applies, in accordance with [section 55][116] of the Corporations (Investigation and Management) Act 1989 or [section 139][117] of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
+    (2) When [section 301][116] of the Companies Act 1993 applies, in accordance with [section 55][119] of the Corporations (Investigation and Management) Act 1989 or [section 139][120] of the Reserve Bank of New Zealand Act 1989, to a corporation or a registered bank subject to statutory management, the date in subsection (1)(d) must be read as the date on which the corporation or bank was declared to be subject to statutory management.
     
-    Compare: 1950 No 65 [s 5(1)][118], proviso to [s 21(2)][121]
+    Compare: 1950 No 65 [s 5(1)][121], proviso to [s 21(2)][124]
 
 ## Part 4  
 General provisions
@@ -929,15 +946,15 @@ General provisions
     
     (2) Limitation enactments apply to claims made in arbitrations as they apply to claims made in a civil proceeding commenced in a specified court or tribunal.
     
-    (3) An arbitration must, for the purposes of a limitation enactment, be treated as being commenced in the same manner as provided in [Article 21][147] of Schedule 1 of the Arbitration Act 1996\.
+    (3) An arbitration must, for the purposes of a limitation enactment, be treated as being commenced in the same manner as provided in [Article 21][150] of Schedule 1 of the Arbitration Act 1996\.
     
     (4) If the High Court orders that an award be set aside, it may also order that the period between the commencement of the arbitration and the date of the setting aside order must be excluded in computing the time prescribed by a limitation enactment for the commencement of civil proceedings (including arbitration) with respect to the dispute referred.
     
-    Compare: 1950 No 65 [s 29][148]
+    Compare: 1950 No 65 [s 29][151]
 
 ##### 40 Other enactments may displace or affect defences
     
-*   (1) A defence under [Part 2][11] or [3][20] does not apply to a claim if an enactment other than this Act---
+*   (1) A defence under [Part 2][12] or [3][21] does not apply to a claim if an enactment other than this Act---
         
     *   (a) prescribes for the claim a limitation period or any other kind of limitation defence; or
     
@@ -949,7 +966,7 @@ General provisions
     
     *   (b) alter, extend, limit, or prevent this Act's application or operation.
     
-    Compare: 1950 No 65 [s 33(1)][105]
+    Compare: 1950 No 65 [s 33(1)][108]
 
 ##### 41 Contracting out of defences
     
@@ -963,7 +980,7 @@ General provisions
 
 ##### 43 Established defence bars relief, not underlying right
     
-*   If the defendant establishes a defence under this Act against a claim, and no order under [section 17][18], [35(5)][39], [36(4)][40], or [50][61] applies to the claim,---
+*   If the defendant establishes a defence under this Act against a claim, and no order under [section 17][19], [35(5)][40], [36(4)][41], or [50][62] applies to the claim,---
         
     *   (a) a court or tribunal must not grant the relief sought by the claim; but
     
@@ -975,17 +992,17 @@ General provisions
 
 ##### 44 Minority
     
-*   If the claimant proves that, at the close of the start date of a claim's primary period, longstop period, or [Part 3][20] period the claimant was younger than 18 years old, the period does not start to run until the day after the date on which the claimant becomes 18 years of age.
+*   If the claimant proves that, at the close of the start date of a claim's primary period, longstop period, or [Part 3][21] period the claimant was younger than 18 years old, the period does not start to run until the day after the date on which the claimant becomes 18 years of age.
 
 ##### 45 Incapacity
     
 *   (1) This section applies to a claimant who proves either or both of the following:
         
-    *   (a) that the claimant was incapacitated at the close of the start date of a claim's primary period, longstop period, or [Part 3][20] period:
+    *   (a) that the claimant was incapacitated at the close of the start date of a claim's primary period, longstop period, or [Part 3][21] period:
     
-    *   (b) that the claimant became incapacitated during a claim's primary period, longstop period, or [Part 3][20] period.
+    *   (b) that the claimant became incapacitated during a claim's primary period, longstop period, or [Part 3][21] period.
     
-    (2) If this section applies to a claimant, the specified court or tribunal may, if it thinks it just to do so on an application made to it (before or after the end of the period) for the purpose, order that a claim's primary period, longstop period, or [Part 3][20] period is extended to the close of a date stated in the order.
+    (2) If this section applies to a claimant, the specified court or tribunal may, if it thinks it just to do so on an application made to it (before or after the end of the period) for the purpose, order that a claim's primary period, longstop period, or [Part 3][21] period is extended to the close of a date stated in the order.
     
     (3) In determining whether to make an order under this section, the specified court or tribunal must take into account---
         
@@ -1013,7 +1030,7 @@ General provisions
 
 ##### 46 Incapacitated and related terms defined
     
-*   In [section 45][55] and this section,---
+*   In [section 45][56] and this section,---
     
     _incapacitated_ means that a claimant or a personal representative is not capable of understanding the issues on which his or her decision would be required as a litigant conducting proceedings with respect to the act or omission on which the claim is based, or is unable to give sufficient instructions to issue, defend, or compromise proceedings of that kind, because of all or any of the following:
         
@@ -1021,19 +1038,19 @@ General provisions
     
     *   (b) lawful or unlawful detention:
     
-    *   (c) a situation that is, or circumstances that arise from, war, another similar emergency, or a state of emergency declared under the [Civil Defence Emergency Management Act 2002][149]
+    *   (c) a situation that is, or circumstances that arise from, war, another similar emergency, or a state of emergency declared under the [Civil Defence Emergency Management Act 2002][152]
     
     _intellectual or mental impairment_ means a clinically recognisable intellectual or mental impairment, whether or not it is or includes---
         
-    *   (a) an intellectual disability as defined in [section 7][150] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+    *   (a) an intellectual disability as defined in [section 7][153] of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
     
-    *   (b) a mental disorder as defined in [section 2(1)][151] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+    *   (b) a mental disorder as defined in [section 2(1)][154] of the Mental Health (Compulsory Assessment and Treatment) Act 1992
     
     _personal representative_ means an executor, administrator, or trustee of the estate of an individual who has died.
 
 ##### 47 Acknowledgment or part payment
     
-*   (1) This section applies if the claimant proves that, after the start date of a claim's primary period, longstop period, or [Part 3][20] period, the defendant---
+*   (1) This section applies if the claimant proves that, after the start date of a claim's primary period, longstop period, or [Part 3][21] period, the defendant---
         
     *   (a) acknowledged to the claimant in writing a liability to, or the right or title of, the claimant; or
     
@@ -1049,11 +1066,11 @@ General provisions
     
     (4) Payment or part payment of interest by the defendant must be treated for the purposes of this section as an acknowledgment by the defendant to the claimant in writing of the defendant's liability to pay the claimant both that interest and the principal in respect of which it is paid.
     
-    Compare: 1950 No 65 [ss 25--27][152]
+    Compare: 1950 No 65 [ss 25--27][155]
 
 ##### 48 Fraud
     
-*   (1) A claim's longstop period or [Part 3][20] period does not apply to the claim if the claimant proves that, because of fraud by or on behalf of the defendant, at the close of the start date of that period the claimant neither knew nor ought reasonably to have known all or any of the following facts:
+*   (1) A claim's longstop period or [Part 3][21] period does not apply to the claim if the claimant proves that, because of fraud by or on behalf of the defendant, at the close of the start date of that period the claimant neither knew nor ought reasonably to have known all or any of the following facts:
         
     *   (a) the fact that the act or omission on which the claim is based had occurred:
     
@@ -1065,27 +1082,27 @@ General provisions
     
     *   (e) if the defendant's liability or alleged liability is dependent on the act or omission on which the claim is based having been induced by fraud or, as the case may be, by a mistaken belief, the fact that the act or omission on which the claim is based is one that was induced by fraud or, as the case may be, by a mistaken belief.
     
-    (2) It is a defence to a claim whose [Part 3][20] period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of all of the facts specified in subsection (1)(a) to (e).
+    (2) It is a defence to a claim whose [Part 3][21] period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of all of the facts specified in subsection (1)(a) to (e).
     
     (3) The fact that a claimant did not know (or had not gained knowledge), nor ought reasonably to have known (or to have gained knowledge), of a particular fact may be attributable to causes that are or include fraud or a mistake of fact or law (other than a mistake of law as to the effect of this Act).
     
-    (4) [Sections 44][54] to [47][57] apply to the 3-year period prescribed for a claim by subsection (2) of this section as if that period were a [Part 3][20] period.
+    (4) [Sections 44][55] to [47][58] apply to the 3-year period prescribed for a claim by subsection (2) of this section as if that period were a [Part 3][21] period.
     
-    Compare: 1950 No 65 [ss 4(6B), (7)][94], [21(1)(a)][121], [28][153]
+    Compare: 1950 No 65 [ss 4(6B), (7)][95], [21(1)(a)][124], [28][156]
 
 ##### 49 Trust property possessed or converted by trustee
     
-*   (1) A claim's longstop period or [Part 3][20] period does not apply to the claim if it is one by a beneficiary of a trust to recover from the trustee either or both of the following:
+*   (1) A claim's longstop period or [Part 3][21] period does not apply to the claim if it is one by a beneficiary of a trust to recover from the trustee either or both of the following:
         
     *   (a) trust property, the proceeds of trust property, or both in the trustee's possession:
     
     *   (b) trust property, the proceeds of trust property, or both previously received by the trustee and converted to the trustee's use.
     
-    (2) It is a defence to a claim whose [Part 3][20] period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of the trustee's breach of the trust.
+    (2) It is a defence to a claim whose [Part 3][21] period is disapplied by subsection (1), and that does not have a late knowledge period, if the defendant proves that the date on which the claim is filed is at least 3 years after the date on which the claimant gained knowledge (or, if earlier, the date on which the claimant ought reasonably to have gained knowledge) of the trustee's breach of the trust.
     
-    (3) [Sections 44][54] to [47][57] apply to the 3-year period prescribed for a claim by subsection (2) of this section as if that period were a [Part 3][20] period.
+    (3) [Sections 44][55] to [47][58] apply to the 3-year period prescribed for a claim by subsection (2) of this section as if that period were a [Part 3][21] period.
     
-    Compare: 1950 No 65 [s 21(1)(b)][121]
+    Compare: 1950 No 65 [s 21(1)(b)][124]
 
 #### Ancillary claims
 
@@ -1093,13 +1110,13 @@ General provisions
     
 *   (1) This section applies to an ancillary claim made in a civil proceeding commenced in a specified court or tribunal if, and only if,---
         
-    *   (a) relief may be granted in respect of the original claim, because no defence under [Part 2][11] or [3][20] has been or could be established against it, or because of an order under [section 17][18], [35(5)][39], or [36(4)][40]; but
+    *   (a) relief may be granted in respect of the original claim, because no defence under [Part 2][12] or [3][21] has been or could be established against it, or because of an order under [section 17][19], [35(5)][40], or [36(4)][41]; but
     
-    *   (b) relief cannot be granted in respect of the ancillary claim because a defence under Part 2 or 3 has been or could be established against it, and because no order under [section 17][18], [35(5)][39], or [36(4)][40] allows a court or tribunal to grant monetary relief in respect of it.
+    *   (b) relief cannot be granted in respect of the ancillary claim because a defence under Part 2 or 3 has been or could be established against it, and because no order under [section 17][19], [35(5)][40], or [36(4)][41] allows a court or tribunal to grant monetary relief in respect of it.
     
-    (2) The specified court or tribunal may, if it thinks it just to do so on an application made to it for the purpose, order that relief may be granted in respect of the ancillary claim as if no defence under [Part 2][11] or [3][20] applies to it.
+    (2) The specified court or tribunal may, if it thinks it just to do so on an application made to it for the purpose, order that relief may be granted in respect of the ancillary claim as if no defence under [Part 2][12] or [3][21] applies to it.
     
-    (3) The application for the order must be made before the specified court or tribunal has decided whether the defendant has established a defence under [Part 2][11] or [3][20] against the ancillary claim.
+    (3) The application for the order must be made before the specified court or tribunal has decided whether the defendant has established a defence under [Part 2][12] or [3][21] against the ancillary claim.
 
 #### Interest in respect of judgment debts
 
@@ -1107,7 +1124,7 @@ General provisions
     
 *   No arrears of interest in respect of a judgment debt may be recovered after 6 years from the date on which the interest became due.
     
-    Compare: 1950 No 65 [s 4(4)][94]; Limitation Act 1980 s 24(2) (UK)
+    Compare: 1950 No 65 [s 4(4)][95]; Limitation Act 1980 s 24(2) (UK)
 
 #### Purchasers, deceased estates, and trust beneficiaries
 
@@ -1115,19 +1132,19 @@ General provisions
     
 *   No provision of this Act operates, or may be applied, to the detriment of the title of a bona fide purchaser for value.
     
-    Compare: 1950 No 65 [s 28(d), (e)][153]
+    Compare: 1950 No 65 [s 28(d), (e)][156]
 
 ##### 53 Personal representative making or defending claim on behalf of deceased's estate
     
 *   (1) _Personal representative_, in this section and for an individual who has died (the _deceased_), means a person who is the executor, administrator, or trustee of, and is making or defending a claim on behalf of, the deceased's estate.
     
-    (2) A personal representative may take advantage of 1 or more exceptions or modifications set out in this Act that would have been available to the deceased, except that a period that under [section 44][54] does not start to run because of the claimant's minority is treated as starting at the time of the deceased's death.
+    (2) A personal representative may take advantage of 1 or more exceptions or modifications set out in this Act that would have been available to the deceased, except that a period that under [section 44][55] does not start to run because of the claimant's minority is treated as starting at the time of the deceased's death.
     
-    (3) A personal representative may take advantage of any late knowledge period that the deceased could have sought to use had he or she not died and, if the personal representative does so, [section 14][15] applies as if facts that the claimant knew, or ought to have known, include any facts that the personal representative gained knowledge of, or ought to have gained knowledge of, after the time of the deceased's death.
+    (3) A personal representative may take advantage of any late knowledge period that the deceased could have sought to use had he or she not died and, if the personal representative does so, [section 14][16] applies as if facts that the claimant knew, or ought to have known, include any facts that the personal representative gained knowledge of, or ought to have gained knowledge of, after the time of the deceased's death.
     
-    (4) [Section 45][55] applies to any incapacity of the personal representative after the time of the deceased's death in the same way as it applies to any incapacity of the deceased before that time.
+    (4) [Section 45][56] applies to any incapacity of the personal representative after the time of the deceased's death in the same way as it applies to any incapacity of the deceased before that time.
     
-    (5) A personal representative may take advantage of any discretion in [section 17][18], [35][39], [36][40], or [50][61] that the deceased could have sought to use had he or she not died.
+    (5) A personal representative may take advantage of any discretion in [section 17][19], [35][40], [36][41], or [50][62] that the deceased could have sought to use had he or she not died.
 
 ##### 54 Trust beneficiaries cannot derive benefit indirectly
     
@@ -1137,7 +1154,7 @@ General provisions
     
     *   (b) this Act had been pleaded in defence to the claim made by A.
     
-    Compare: 1950 No 65 [s 21(3)][121]
+    Compare: 1950 No 65 [s 21(3)][124]
 
 #### Application of limitation law of  
 foreign countries
@@ -1154,13 +1171,13 @@ foreign countries
     
     (5) Subsection (4) does not apply insofar as the matter being determined in that proceeding or arbitration is one in the determination of which both the law of New Zealand and the law of a foreign country fall to be taken into account.
     
-    Compare: 1950 No 65 [ss 28B][154], [28C][155]; Choice of Law (Limitation Periods) Act 1993 ss 5, 6 (NSW); Foreign Limitation Periods Act 1984 s 1(1)(b), (2) (UK)
+    Compare: 1950 No 65 [ss 28B][157], [28C][158]; Choice of Law (Limitation Periods) Act 1993 ss 5, 6 (NSW); Foreign Limitation Periods Act 1984 s 1(1)(b), (2) (UK)
 
 ##### 56 Public policy exception for limitation law of foreign countries other than Australia
     
-*   (1) [Section 55][69] does not apply to the extent that its application would conflict (whether under subsection (2) or otherwise) with public policy.
+*   (1) [Section 55][70] does not apply to the extent that its application would conflict (whether under subsection (2) or otherwise) with public policy.
     
-    (2) A conflict with public policy exists for the purposes of subsection (1) when, and insofar as, the application of [section 55][69] would cause undue hardship to a person who is, or might be made, a party to the proceeding or arbitration.
+    (2) A conflict with public policy exists for the purposes of subsection (1) when, and insofar as, the application of [section 55][70] would cause undue hardship to a person who is, or might be made, a party to the proceeding or arbitration.
     
     (3) Nothing in this section applies in respect of any limitation law that is, or has been, in force in Australia.
     
@@ -1170,17 +1187,17 @@ foreign countries
 
 ##### 57 Limitation Act 1950 repealed
     
-*   The [Limitation Act 1950][156] (1950 No 65) is repealed---
+*   The [Limitation Act 1950][159] (1950 No 65) is repealed---
         
-    *   (a) immediately after it is amended by [sections 61][77] and [62][79]; and
+    *   (a) immediately after it is amended by [sections 61][78] and [62][80]; and
     
-    *   (b) subject to the saving in [section 59][74].
+    *   (b) subject to the saving in [section 59][75].
     
     
 
 ##### 58 Consequential amendments
     
-*   The enactments specified in the [Schedule][85] are amended in the manner indicated in that schedule.
+*   The enactments specified in the [Schedule][86] are amended in the manner indicated in that schedule.
 
 ##### 59 Actions based on acts or omissions before 1 January 2011
     
@@ -1188,15 +1205,15 @@ foreign countries
         
     *   (a) based on an act or omission before 1 January 2011; and
     
-    *   (b) to which the [Limitation Act 1950][156] applied immediately before its repeal.
+    *   (b) to which the [Limitation Act 1950][159] applied immediately before its repeal.
     
-    (2) The action, cause of action, or right of action must, despite the repeal of the [Limitation Act 1950][156] and unless the parties agree otherwise, be dealt with or continue to be dealt with in accordance with the Limitation Act 1950 as in force at the time of its repeal.
+    (2) The action, cause of action, or right of action must, despite the repeal of the [Limitation Act 1950][159] and unless the parties agree otherwise, be dealt with or continue to be dealt with in accordance with the Limitation Act 1950 as in force at the time of its repeal.
     
-    (3) Nothing in this section prevents any provision of the [Limitation Act 1950][156] as in force at the time of its repeal from being applied, after 31 December 2010, and by analogy, to any claim for equitable relief---
+    (3) Nothing in this section prevents any provision of the [Limitation Act 1950][159] as in force at the time of its repeal from being applied, after 31 December 2010, and by analogy, to any claim for equitable relief---
         
     *   (a) based on an act or omission before 1 January 2011; and
     
-    *   (b) to which the [Limitation Act 1950][156] immediately before its repeal did not apply directly.
+    *   (b) to which the [Limitation Act 1950][159] immediately before its repeal did not apply directly.
     
     
 
@@ -1204,11 +1221,11 @@ foreign countries
 
 ##### 60 Amendments to Limitation Act 1950
     
-*   [Sections 61][77] and [62][79] amend the [Limitation Act 1950][156].
+*   [Sections 61][78] and [62][80] amend the [Limitation Act 1950][159].
 
 ##### 61 New section 2A inserted
     
-*   The following section is inserted after [section 2][93]:
+*   The following section is inserted after [section 2][94]:
     
     > ##### "2A Act continues to apply despite its repeal to actions based on acts or omissions before 1 January 2011
     >     
@@ -1234,7 +1251,7 @@ foreign countries
 
 ##### 62 New heading and sections 23A to 23D
     
-*   The following heading and sections are inserted above the heading to [Part 2][157]:
+*   The following heading and sections are inserted above the heading to [Part 2][160]:
     
     > #### "Longstop period of limitation
     > 
@@ -1270,7 +1287,7 @@ foreign countries
     >     
     >     *   "(b) that the defendant could establish, or has established, is an action to which the longstop period of limitation in section 23B applies; and
     >     
-    >     *   "(c) that is not an action that, at the close of 31 December 2010,--- 
+    >     *   "(c) that is not an action that, at the close of 31 December 2010,---
     >             
     >         *   "(i) was otherwise barred because of an applicable period of limitation; and
     >         
@@ -1316,7 +1333,7 @@ foreign countries
     >     
     >     *   "(c) any effects or likely effects of the delay on---
     >             
-    >         *   "(i) the defendant's ability to defend the action; and 
+    >         *   "(i) the defendant's ability to defend the action; and
     >         
     >         *   "(ii) the cogency of the evidence offered, or likely to be offered, by A or the defendant; and
     >         
@@ -1338,24 +1355,24 @@ foreign countries
 
 ---
 
-## Schedule    
+## Schedule  
 Consequential amendments
 
-[s 58][73]
+[s 58][74]
 
 ##### Arbitration Act 1996 (1996 No 99)
 
-Item relating to the Limitation Act 1950 in [Schedule 4][158]: omit.
+Item relating to the Limitation Act 1950 in [Schedule 4][161]: omit.
 
 ##### Building Act 2004 (2004 No 72)
 
-[Section 393(1)][159]: omit ""provisions of the Limitation Act 1950 apply"" and substitute ""Limitation Act 2010 applies"".
+[Section 393(1)][162]: omit ""provisions of the Limitation Act 1950 apply"" and substitute ""Limitation Act 2010 applies"".
 
-[Section 393(2)][159]: omit ""civil proceedings relating to building work may not be brought"" and substitute ""no relief may be granted in respect of civil proceedings relating to building work if those proceedings are brought"".
+[Section 393(2)][162]: omit ""civil proceedings relating to building work may not be brought"" and substitute ""no relief may be granted in respect of civil proceedings relating to building work if those proceedings are brought"".
 
 ##### Child Support Act 1991 (1991 No 142)
 
-[Section 203][160]: repeal and substitute:
+[Section 203][163]: repeal and substitute:
 
 > ##### "203 No limitation of action to recover financial support
 >     
@@ -1371,7 +1388,7 @@ Item relating to the Limitation Act 1950 in [Schedule 4][158]: omit.
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-[Section 91I(5)][161]: repeal and substitute:
+[Section 91I(5)][164]: repeal and substitute:
 
 > *   "(5) Subsections (1) to (4) and the provisions of Article 35 of the Montreal Convention and Article 29 of the amended Convention have effect as if references in those provisions to an action included references to an arbitration.
 > 
@@ -1387,7 +1404,7 @@ Item relating to the Limitation Act 1950 in [Schedule 4][158]: omit.
 
 ##### Construction Contracts Act 2002 (2002 No 46)
 
-[Section 71(1)][162]: repeal and substitute:
+[Section 71(1)][165]: repeal and substitute:
 
 > *   "(1) The Limitation Act 2010 applies to adjudications as it applies to claims (as defined in section 4 of that Act)."
 > 
@@ -1395,11 +1412,11 @@ Item relating to the Limitation Act 1950 in [Schedule 4][158]: omit.
 
 ##### Contractual Remedies Act 1979 (1979 No 11)
 
-[Section 15(f)][163]: repeal.
+[Section 15(f)][166]: repeal.
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-[Section 4][164]: repeal and substitute:
+[Section 4][167]: repeal and substitute:
 
 > ##### "4 Limitation of actions by or against the Crown
 >     
@@ -1415,7 +1432,7 @@ Item relating to the Limitation Act 1950 in [Schedule 4][158]: omit.
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-Insert before [section 275][165]:
+Insert before [section 275][168]:
 
 > ##### "274E No limitation of claims by Crown to recover duties or interest on duties, or on forfeiture proceedings, under this Act
 >     
@@ -1429,15 +1446,15 @@ Insert before [section 275][165]:
 > 
 > 
 
-Item relating to the Limitation Act 1950 in [Schedule 5][166]: omit.
+Item relating to the Limitation Act 1950 in [Schedule 5][169]: omit.
 
 ##### Defamation Act 1992 (1992 No 105)
 
-[Section 55][167]: repeal.
+[Section 55][170]: repeal.
 
 ##### Disputes Tribunals Act 1988 (1988 No 110)
 
-[Section 10(5)][168]: repeal and substitute:
+[Section 10(5)][171]: repeal and substitute:
 
 > *   "(5) The Limitation Act 2010 prescribes defences in respect of claims based on an act or omission after 31 December 2010\."
 > 
@@ -1445,13 +1462,13 @@ Item relating to the Limitation Act 1950 in [Schedule 5][166]: omit.
 
 ##### Government Roading Powers Act 1989 (1989 No 75)
 
-[Section 54(9)][169]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 54(9)][172]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
 ##### Land Act 1948 (1948 No 64)
 
-[Section 172(2)][170]: omit ""Notwithstanding any statute of limitation, no"" and substitute ""No"".
+[Section 172(2)][173]: omit ""Notwithstanding any statute of limitation, no"" and substitute ""No"".
 
-[Section 172][170]: add:
+[Section 172][173]: add:
 
 > *   "(3) Subsection (2) applies despite any enactment that prescribes a limitation period or other limitation defence."
 > 
@@ -1459,7 +1476,7 @@ Item relating to the Limitation Act 1950 in [Schedule 5][166]: omit.
 
 ##### Land Transfer Act 1952 (1952 No 52)
 
-[Section 112(1)][171]: repeal and substitute:
+[Section 112(1)][174]: repeal and substitute:
 
 > *   "(1) The High Court may make an order directing a registered mortgage to be discharged if, on an application for the purpose made to it by the registered proprietor of an estate or interest in land subject to the mortgage, it is satisfied---
 >         
@@ -1477,25 +1494,25 @@ Item relating to the Limitation Act 1950 in [Schedule 5][166]: omit.
 > 
 > 
 
-[Section 197][172]: omit ""Limitation Act 1950 or any other statute of limitation"" and substitute ""Limitation Act 2010 or any other enactment that prescribes a limitation period or other limitation defence"".
+[Section 197][175]: omit ""Limitation Act 1950 or any other statute of limitation"" and substitute ""Limitation Act 2010 or any other enactment that prescribes a limitation period or other limitation defence"".
 
-[Section 199(3)][173]: omit ""under the Limitation Act 1950"".
+[Section 199(3)][176]: omit ""under the Limitation Act 1950"".
 
-Item relating to the Limitation Act 1950 in [Schedule 8][174]: omit.
+Item relating to the Limitation Act 1950 in [Schedule 8][177]: omit.
 
 ##### Law Reform Act 1936 (1936 No 31)
 
-[Section 3(3A)][175]: omit ""the date when the cause of action arose"" and substitute ""the start date of the claim's primary period (as specified in section 11(1) of, and adjusted in accordance with all relevant exceptions and modifications (if any) set out in, the Limitation Act 2010)"".
+[Section 3(3A)][178]: omit ""the date when the cause of action arose"" and substitute ""the start date of the claim's primary period (as specified in section 11(1) of, and adjusted in accordance with all relevant exceptions and modifications (if any) set out in, the Limitation Act 2010)"".
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-[Section 66(2)][176]: omit ""Section 20 of the Limitation Act 1950"" and substitute ""The Limitation Act 2010"".
+[Section 66(2)][179]: omit ""Section 20 of the Limitation Act 1950"" and substitute ""The Limitation Act 2010"".
 
-[Section 105(2)][177]: omit ""section 20 of the Limitation Act 1950"" and substitute ""the Limitation Act 2010"".
+[Section 105(2)][180]: omit ""section 20 of the Limitation Act 1950"" and substitute ""the Limitation Act 2010"".
 
 ##### Motor Vehicle Sales Act 2003 (2003 No 12)
 
-[Section 89][87]: add:
+[Section 89][88]: add:
 
 > *   "(5) The Limitation Act 2010 prescribes defences in respect of claims based on an act or omission after 31 December 2010\."
 > 
@@ -1503,9 +1520,9 @@ Item relating to the Limitation Act 1950 in [Schedule 8][174]: omit.
 
 ##### Patents Act 1953 (1953 No 64)
 
-[Section 20(5)][178]: repeal.
+[Section 20(5)][181]: repeal.
 
-[Section 85(3)][179]: repeal and substitute:
+[Section 85(3)][182]: repeal and substitute:
 
 > *   "(3) Nothing in this section enables a person to obtain any relief the granting of which is prevented by the Limitation Act 2010, and nothing in section 40 of that Act excludes the operation of that Act in any case where proceedings may be barred under this section."
 > 
@@ -1513,35 +1530,35 @@ Item relating to the Limitation Act 1950 in [Schedule 8][174]: omit.
 
 ##### Prisoners' and Victims' Claims Act 2005 (2005 No 74)
 
-[Section 63(2)(b)][180]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 63(2)(b)][183]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
-Heading above [section 73][181]: repeal.
+Heading above [section 73][184]: repeal.
 
-[Section 73][181]: repeal.
+[Section 73][184]: repeal.
 
 ##### Property Law Act 2007 (2007 No 91)
 
-[Section 52(5)(b)][182]: add ""in order to avoid a limitation defence applying to a claim made in the proceedings"".
+[Section 52(5)(b)][185]: add ""in order to avoid a limitation defence applying to a claim made in the proceedings"".
 
-[Section 296(4)][183]: omit ""Limitation Act 1950, an action may be brought at any time"" and substitute ""Limitation Act 2010, a claim may be made at any time, and relief may be granted in respect of a claim made at any time,"".
+[Section 296(4)][186]: omit ""Limitation Act 1950, an action may be brought at any time"" and substitute ""Limitation Act 2010, a claim may be made at any time, and relief may be granted in respect of a claim made at any time,"".
 
-Item relating to the Limitation Act 1950 in [Schedule 7][184]: omit. 
+Item relating to the Limitation Act 1950 in [Schedule 7][187]: omit.
 
 ##### Protected Objects Act 1975 (1975 No 41)
 
-[Section 10E(5)][185]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 10E(5)][188]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
 ##### Public Trust Act 2001 (2001 No 100)
 
-Heading to [section 117][186]: omit ""**Limitation Act 1950**"" and substitute ""**Limitation Act 2010**"".
+Heading to [section 117][189]: omit ""**Limitation Act 1950**"" and substitute ""**Limitation Act 2010**"".
 
-[Section 117][186]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 117][189]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
 ##### Public Works Act 1981 (1981 No 35)
 
-[Section 51(1)][125]: omit ""Notwithstanding any statute of limitation, no"" and substitute ""No"".
+[Section 51(1)][128]: omit ""Notwithstanding any statute of limitation, no"" and substitute ""No"".
 
-[Section 51][125]: insert after subsection (1):
+[Section 51][128]: insert after subsection (1):
 
 > *   "(1A) Subsection (1) applies despite any enactment that prescribes a limitation period or other limitation defence."
 > 
@@ -1549,29 +1566,29 @@ Heading to [section 117][186]: omit ""**Limitation Act 1950**"" and substitute "
 
 ##### Securities Act 1978 (1978 No 103)
 
-[Section 37(7)][187]: repeal.
+[Section 37(7)][190]: repeal.
 
-[Section 37A(8)][188]: repeal.
+[Section 37A(8)][191]: repeal.
 
 ##### Sharemilking Agreements Act 1937 (1937 No 37)
 
-[Section 3(4)][189]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 3(4)][192]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
 ##### Social Security Act 1964 (1964 No 136)
 
-[Section 86A(1A)][190]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 86A(1A)][193]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Item relating to the Limitation Act 1950 in [Schedule 4][191]: omit.
+Item relating to the Limitation Act 1950 in [Schedule 4][194]: omit.
 
 ##### Tariff Act 1988 (1988 No 155)
 
-[Section 12(2)][192]: omit ""period of limitation established by any Act, any cause of action that is subject to subsection (1) of this section shall"" and substitute ""limitation period or other limitation defence prescribed by an enactment, any claim that is subject to subsection (1) must"".
+[Section 12(2)][195]: omit ""period of limitation established by any Act, any cause of action that is subject to subsection (1) of this section shall"" and substitute ""limitation period or other limitation defence prescribed by an enactment, any claim that is subject to subsection (1) must"".
 
 ##### Tax Administration Act 1994 (1994 No 166)
 
-[Section 163][193]: repeal and substitute:
+[Section 163][196]: repeal and substitute:
 
 > ##### "163 No limitation of action to recover tax
 >     
@@ -1587,7 +1604,7 @@ Item relating to the Limitation Act 1950 in [Schedule 4][191]: omit.
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-[Section 344][137]: omit and substitute:
+[Section 344][140]: omit and substitute:
 
 > ##### "344 Co-owners of Maori land not bound by Limitation Act 2010 or other limitation enactments
 >     
@@ -1599,231 +1616,244 @@ Item relating to the Limitation Act 1950 in [Schedule 4][191]: omit.
 > 
 > 
 
-[Sections 360][194] and [361][195]: repeal.
+[Sections 360][197] and [361][198]: repeal.
 
 ##### Trustee Act 1956 (1956 No 61)
 
-Item relating to the Limitation Act 1950 in [Schedule 2][196]: omit.
+Item relating to the Limitation Act 1950 in [Schedule 2][199]: omit.
 
 ##### Weathertight Homes Resolution Services Act 2006 (2006 No 84)
 
-Heading to [section 37][197]: omit ""**Limitation Act 1950**"" and substitute ""**Limitation Act 2010**"".
+Heading to [section 37][200]: omit ""**Limitation Act 1950**"" and substitute ""**Limitation Act 2010**"".
 
-[Section 37(1)][197]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
+[Section 37(1)][200]: omit ""Limitation Act 1950"" and substitute ""Limitation Act 2010"".
 
----
-
-## Legislative history
-
-2 June 2009Introduction (Bill 33--1)
-
-4 August 2009First reading and referral to Justice and Electoral Committee
-
-5 July 2010Reported from Justice and Electoral Committee (Bill 33--2)
-
-24 August 2010Second reading, committee of the whole House, third reading
-
-7 September 2010Royal assent
+#### 
 
 ---
 
-This Act is administered by the Ministry of Justice.
+##### Reprints notes
 
-[0]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033123
-[1]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033124
-[2]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033125
-[3]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033126
-[4]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033127
-[5]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033190
-[6]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033192
-[7]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033196
-[8]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033197
-[9]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074505
-[10]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033198
-[11]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033199
-[12]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033200
-[13]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033204
-[14]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033206
-[15]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033207
-[16]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033209
-[17]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033210
-[18]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033211
-[19]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074512
-[20]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033212
-[21]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033213
-[22]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033214
-[23]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033215
-[24]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033216
-[25]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033218
-[26]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033220
-[27]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033222
-[28]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033223
-[29]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033224
-[30]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033225
-[31]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033226
-[32]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033227
-[33]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033228
-[34]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033229
-[35]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033232
-[36]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033233
-[37]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033234
-[38]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033235
-[39]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033242
-[40]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033244
-[41]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033245
-[42]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033246
-[43]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033247
-[44]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033248
-[45]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033249
-[46]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033250
-[47]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033251
-[48]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033254
-[49]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033255
-[50]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033256
-[51]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033257
-[52]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033258
-[53]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033259
-[54]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033260
-[55]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033261
-[56]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033262
-[57]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033269
-[58]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033270
-[59]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033271
-[60]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033272
-[61]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033273
-[62]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033274
-[63]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033275
-[64]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033276
-[65]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033277
-[66]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033278
-[67]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033281
-[68]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033282
-[69]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033283
-[70]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033284
-[71]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033285
-[72]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033286
-[73]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033287
-[74]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033288
-[75]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074513
-[76]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074514
-[77]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074515
-[78]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074516
-[79]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074517
-[80]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074518
-[81]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074519
-[82]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074520
-[83]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074521
-[84]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074528
-[85]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033289
-[86]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM133619
-[87]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM188866
-[88]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM312853
-[89]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM312870
-[90]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM31589
-[91]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM289881
-[92]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM304703
-[93]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262442
-[94]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262472
-[95]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262485
-[96]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262626
-[97]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262639
-[98]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280030
-[99]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281070
-[100]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281718
-[101]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281741
-[102]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM164249
-[103]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM164697
-[104]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262641
-[105]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262644
-[106]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262640
-[107]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM224791
-[108]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=BILL-SCDRAFT-7242
-[109]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM151490
-[110]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM145729
-[111]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM386968
-[112]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM386967
-[113]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM322323
-[114]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM144984
-[115]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM201294
-[116]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM144986
-[117]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM201297
-[118]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262479
-[119]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262602
-[120]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262604
-[121]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262606
-[122]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262607
-[123]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM269031
-[124]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM250585
-[125]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM46306
-[126]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262481
-[127]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM242543
-[128]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262484
-[129]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262493
-[130]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262487
-[131]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262488
-[132]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262489
-[133]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969267
-[134]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262497
-[135]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262600
-[136]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262601
-[137]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293001
-[138]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM174646
-[139]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM219807
-[140]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262495
-[141]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM63970
-[142]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM443633
-[143]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM31565
-[144]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM236924
-[145]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM396434
-[146]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM392349
-[147]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM405711
-[148]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262637
-[149]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM149788
-[150]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM225179
-[151]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262181
-[152]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262617
-[153]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262623
-[154]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262632
-[155]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262634
-[156]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262436
-[157]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262610
-[158]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM405820
-[159]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM309055
-[160]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM257068
-[161]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM218074
-[162]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM163468
-[163]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM32009
-[164]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM261922
-[165]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM379981
-[166]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM380404
-[167]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281276
-[168]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM133638
-[169]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM175293
-[170]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM253213
-[171]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271021
-[172]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271930
-[173]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271932
-[174]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM272860
-[175]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM219557
-[176]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM132725
-[177]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM132795
-[178]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280441
-[179]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280776
-[180]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM351702
-[181]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM351719
-[182]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969200
-[183]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969517
-[184]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM1435102
-[185]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM432414
-[186]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM124046
-[187]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM28302
-[188]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM28351
-[189]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM222514
-[190]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM364857
-[191]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM314550
-[192]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM137095
-[193]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM357429
-[194]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293023
-[195]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293024
-[196]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM305828
-[197]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM403970
+###### 1 General
+    
+*   This is a reprint of the Limitation Act 2010 that incorporates all the amendments to that Act as at the date of the last amendment to it.
+
+###### 2 Legal status
+    
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][201] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][202] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+
+###### 3 Editorial and format changes
+    
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][203] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][204] ![](/images/external_link.gif).
+
+###### 4 Amendments incorporated in this reprint
+    
+*   Patents Act 2013 (2013 No 68): [section 249][106]
+
+
+
+[0]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM2998524
+[1]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033123
+[2]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033124
+[3]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033125
+[4]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033126
+[5]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033127
+[6]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033190
+[7]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033192
+[8]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033196
+[9]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033197
+[10]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074505
+[11]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033198
+[12]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033199
+[13]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033200
+[14]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033204
+[15]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033206
+[16]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033207
+[17]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033209
+[18]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033210
+[19]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033211
+[20]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074512
+[21]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033212
+[22]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033213
+[23]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033214
+[24]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033215
+[25]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033216
+[26]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033218
+[27]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033220
+[28]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033222
+[29]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033223
+[30]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033224
+[31]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033225
+[32]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033226
+[33]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033227
+[34]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033228
+[35]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033229
+[36]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033232
+[37]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033233
+[38]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033234
+[39]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033235
+[40]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033242
+[41]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033244
+[42]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033245
+[43]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033246
+[44]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033247
+[45]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033248
+[46]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033249
+[47]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033250
+[48]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033251
+[49]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033254
+[50]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033255
+[51]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033256
+[52]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033257
+[53]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033258
+[54]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033259
+[55]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033260
+[56]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033261
+[57]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033262
+[58]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033269
+[59]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033270
+[60]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033271
+[61]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033272
+[62]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033273
+[63]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033274
+[64]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033275
+[65]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033276
+[66]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033277
+[67]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033278
+[68]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033281
+[69]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033282
+[70]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033283
+[71]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033284
+[72]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033285
+[73]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033286
+[74]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033287
+[75]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033288
+[76]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074513
+[77]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074514
+[78]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074515
+[79]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074516
+[80]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074517
+[81]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074518
+[82]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074519
+[83]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074520
+[84]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074521
+[85]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM3074528
+[86]: http://www.legislation.govt.nz/act/public/2010/0110/latest/whole.html#DLM2033289
+[87]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM133619
+[88]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM188866
+[89]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM312853
+[90]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM312870
+[91]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM31589
+[92]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM289881
+[93]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM304703
+[94]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262442
+[95]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262472
+[96]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262485
+[97]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262626
+[98]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262639
+[99]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280030
+[100]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM1419000
+[101]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281070
+[102]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281718
+[103]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281741
+[104]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM164249
+[105]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM164697
+[106]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM1419624
+[107]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262641
+[108]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262644
+[109]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262640
+[110]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM224791
+[111]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=BILL-SCDRAFT-7242
+[112]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM151490
+[113]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM145729
+[114]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM386968
+[115]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM386967
+[116]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM322323
+[117]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM144984
+[118]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM201294
+[119]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM144986
+[120]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM201297
+[121]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262479
+[122]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262602
+[123]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262604
+[124]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262606
+[125]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262607
+[126]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM269031
+[127]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM250585
+[128]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM46306
+[129]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262481
+[130]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM242543
+[131]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262484
+[132]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262493
+[133]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262487
+[134]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262488
+[135]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262489
+[136]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969267
+[137]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262497
+[138]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262600
+[139]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262601
+[140]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293001
+[141]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM174646
+[142]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM219807
+[143]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262495
+[144]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM63970
+[145]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM443633
+[146]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM31565
+[147]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM236924
+[148]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM396434
+[149]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM392349
+[150]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM405711
+[151]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262637
+[152]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM149788
+[153]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM225179
+[154]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262181
+[155]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262617
+[156]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262623
+[157]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262632
+[158]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262634
+[159]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262436
+[160]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM262610
+[161]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM405820
+[162]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM309055
+[163]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM257068
+[164]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM218074
+[165]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM163468
+[166]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM32009
+[167]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM261922
+[168]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM379981
+[169]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM380404
+[170]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM281276
+[171]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM133638
+[172]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM175293
+[173]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM253213
+[174]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271021
+[175]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271930
+[176]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM271932
+[177]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM272860
+[178]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM219557
+[179]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM132725
+[180]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM132795
+[181]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280441
+[182]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM280776
+[183]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM351702
+[184]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM351719
+[185]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969200
+[186]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM969517
+[187]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM1435102
+[188]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM432414
+[189]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM124046
+[190]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM28302
+[191]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM28351
+[192]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM222514
+[193]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM364857
+[194]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM314550
+[195]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM137095
+[196]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM357429
+[197]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293023
+[198]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM293024
+[199]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM305828
+[200]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM403970
+[201]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM2998516
+[202]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM2998515
+[203]: http://www.legislation.govt.nz/act/public/2010/0110/latest/link.aspx?id=DLM2998532
+[204]: http://www.pco.parliament.govt.nz/editorial-conventions/
