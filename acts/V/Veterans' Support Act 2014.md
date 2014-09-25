@@ -8204,9 +8204,9 @@ In [section MC 6(a)][708], replace ""a parent's allowance under section 32(2) of
 
 In [section MC 6(b)(iii)][708], after ""a parent's allowance"", insert ""or a children's pension"".
 
-Replace [section MD 8(a)][709], with:
+Replace [section MD 8(c)][709], with:
 
-> *   "(a) a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act; or".
+> *   "(c) a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act.".
 > 
 > 
 
