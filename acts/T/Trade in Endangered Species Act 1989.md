@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 14 September 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Conservation.
 
@@ -1335,11 +1335,11 @@ Species endangered by trade
 
 [s 3(1)][4]
 
-*   Schedule 1: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 1: replaced, on 14 September 2014, by [clause 3][124] of the Trade in Endangered Species Order 2014 (LI 2014/259).
 
-The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
+The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention.
 
-The entries in the column headed "Exceptions/limitations" have the effect of either---
+The entries in the column headed "**Exceptions/limitations**" have the effect of---
     
 *   (a) excluding nominated populations in the listed species; or
 
@@ -1349,17 +1349,22 @@ The entries in the column headed "Exceptions/limitations" have the effect of eit
 
 *   (d) excluding nominated varieties of specimens of the listed species.
 
+## Part 1  
+Fauna (animals)
+
+#### Phylum---Chordata
+
+##### Class---Mammalia (mammals)
+
 **Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-**MAMMALIA---MAMMALS**
-
-Artiodactyla---Even-toed ungulates Antilocapridae---Pronghorn _Antilocapra americana_ Pronghorn Only population of Mexico; no other population is included in the Schedules. 
+Artiodactyla---Even-toed ungulates Antilocapridae---Pronghorn _Antilocapra americana_ Pronghorn Only population of Mexico. No other population is included in the schedules 
 
 Bovidae---Antelopes, cattle, duikers, gazelles, goats, sheep, etc _Addax nasomaculatus_ Addax 
 
-_Bos gaurus_ Gaur Excludes domesticated form, referenced as _Bos frontalis_.
+_Bos gaurus_ Gaur Excludes domesticated form, referenced as _Bos frontalis_
 
-_Bos mutus_ Wild Yak Excludes domesticated form, referenced as _Bos grunniens_.
+_Bos mutus_ Wild Yak Excludes domesticated form, referenced as _Bos grunniens_
 
 _Bos sauveli_ Kouprey 
 
@@ -1389,7 +1394,7 @@ _Hippotragus niger variani_ Giant Sable Antelope
 
 _Naemorhedus baileyi_ Red Goral 
 
-_Naemorhedus caudatus_ Chinese Goral 
+_Naemorhedus caudatus_ Long-tailed Goral 
 
 _Naemorhedus goral_ Goral 
 
@@ -1413,9 +1418,7 @@ _Pantholops hodgsonii_ Tibetan Antelope
 
 _Pseudoryx nghetinhensis_ Vu Quang Ox 
 
-_Rupicapra pyrenaica ornata_ Abruzzo Chamois 
-
-Camelidae---Guanaco, Vicuna _Vicugna vicugna_ Vicuna Except populations of: Argentina (populations of Provinces of Jujuy and Catamarca and semi-captive populations of Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan); Bolivia (whole population); Chile (population of Primera Region) and the whole population of Peru; which are included in Schedule 2\.
+Camelidae---Guanaco, vicuna _Vicugna vicugna_ Vicugna Except populations of Argentina (populations of provinces of Jujuy and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (population of Primera Región), Ecuador (whole population), Peru (whole population), and the Plurinational State of Bolivia (whole population), which are included in [Schedule 2][76]
 
 Cervidae---Deer, guemals, muntjacs, pudus _Axis calamianensis_ Calamian Hog Deer 
 
@@ -1429,7 +1432,7 @@ _Cervus elaphus hanglu_ Kashmir Red Deer
 
 _Dama dama mesopotamica_ Persian Fallow Deer 
 
-_Hippocamelus_ spp. guemals, huemuls 
+_Hippocamelus_ spp Guemals, Huemuls 
 
 _Muntiacus crinifrons_ Black Muntjac 
 
@@ -1443,7 +1446,7 @@ _Rucervus duvaucelii_ Swamp Deer
 
 _Rucervus eldii_ Eld's Deer 
 
-Moschidae---Musk deer _Moschus_ spp. Musk Deer Only populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan; all other populations are included in Schedule 2\.
+Moschidae---Musk deer _Moschus_ spp Musk Deer Only populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan. All other populations are included in [Schedule 2][76]
 
 Suidae---Babirusa, pygmy hog _Babyrousa babyrussa_ Golden Babirusa 
 
@@ -1458,15 +1461,15 @@ _Sus salvanius_ Pygmy Hog
 Tayassuidae---Peccaries _Catagonus wagneri_ Chacco Peccary 
 
 Carnivora---  
-Carnivores Ailuridae---Red Panda _Ailurus fulgens_ Red Panda 
+Carnivores Ailuridae---Red panda _Ailurus fulgens_ Red Panda 
 
-Canidae---Bush Dog, foxes, wolves _Canis lupus_ Grey Wolf Only populations of Bhutan, India, Nepal, and Pakistan; all other populations are included in Schedule 2\. Excludes the domesticated form and the dingo, which are referenced as _Canus lupus familiaris_ and _Canus lupus dingo_.
+Canidae---Bush dog, foxes, wolves _Canis lupus_ Grey Wolf Only populations of Bhutan, India, Nepal, and Pakistan. All other populations are included in [Schedule 2][76]. Excludes domesticated form and dingo, which are referenced as _Canus lupus familiaris_ and _Canus lupus dingo_
 
 _Speothos venaticus_ Bush Dog 
 
-Felidae---Cats _Acinonyx jubatus_ Cheetah Subject to annual export quotas for live specimens and hunting trophies for Botswana, Namibia, and Zimbabwe.
+Felidae---Cats _Acinonyx jubatus_ Cheetah Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana (5), Namibia (150), and Zimbabwe (50). Trade in such specimens is subject to provisions of Article III of Convention. Consult Department of Conservation for details 
 
-_Caracal caracal_ Caracal Only population of Asia; all other populations are included in Schedule 2\.
+_Caracal caracal_ Caracal Only population of Asia. All other populations are included in [Schedule 2][76]
 
 _Catopuma temminckii_ Temminck's Golden Cat 
 
@@ -1496,11 +1499,11 @@ _Panthera tigris_ Tiger
 
 _Pardofelis marmorata_ Marbled Cat 
 
-_Prionailurus bengalensis bengalensis_ Leopard Cat Only the populations of Bangladesh, India, and Thailand; all other populations are included in Schedule 2\.
+_Prionailurus bengalensis bengalensis_ Leopard Cat Only populations of Bangladesh, India, and Thailand. All other populations are included in [Schedule 2][76]
 
 _Prionailurus planiceps_ Flat-headed Cat 
 
-_Prionailurus rubiginosus_ Rusty-spotted Cat Only the population of India; all other populations are included in Schedule 2\.
+_Prionailurus rubiginosus_ Rusty-spotted Cat Only population of India. All other populations are included in [Schedule 2][76]
 
 _Puma concolor coryi_ Florida Cougar 
 
@@ -1508,11 +1511,11 @@ _Puma concolor costaricensis_ Costa Rica Cougar
 
 _Puma concolor cougar_ Eastern Puma 
 
-_Puma yagouaroundi_ Jaguarundi Only the populations of Central and North America; all other populations are included in Schedule 2\.
+_Puma yagouaroundi_ Jaguarundi Only populations of Central and North America. All other populations are included in [Schedule 2][76]
 
 _Uncia uncia_ Snow Leopard 
 
-Mustelidae---Badgers, martens, weasels, etc _Aonyx capensis microdon_ African Clawless Otter Only populations of Cameroon and Nigeria; all other populations are included in Schedule 2\.
+Mustelidae---Badgers, martens, weasels, etc _Aonyx capensis microdon_ African Clawless Otter Only populations of Cameroon and Nigeria. All other populations are included in [Schedule 2][76]
 
 _Enhydra lutris nereis_ Southern Sea Otter 
 
@@ -1530,9 +1533,9 @@ _Pteronura brasiliensis_ Giant Otter
 
 Mustelinae---Grisons, honey badger, martens, tayra, weasels _Mustela nigripes_ Black-footed Ferret 
 
-Otariidae---Fur seals, sealions _Arctocephalus townsendi_ Guadelupe Fur Seal 
+Otariidae---Fur seals, sea lions _Arctocephalus townsendi_ Guadelupe Fur Seal 
 
-Phocidae---Seals _Monachus_ spp. monk seals 
+Phocidae---Seals _Monachus_ spp Monk Seals 
 
 Ursidae---Bears, giant panda _Ailuropoda melanoleuca_ Giant Panda 
 
@@ -1542,19 +1545,19 @@ _Melursus ursinus_ Indian Sloth Bear
 
 _Tremarctos ornatus_ Spectacled Bear 
 
-_Ursus arctos_ Brown Bear Only populations of Bhutan, China, Mexico, and Mongolia; all other populations are included in Schedule 2\.
+_Ursus arctos_ Brown Bear Only populations of Bhutan, China, Mexico, and Mongolia. All other populations are included in [Schedule 2][76]
 
 _Ursus arctos isabellinus_ Red or Himalayan Brown Bear 
 
 _Ursus thibetanus_ Asiatic Black Bear 
 
-Viverridae---Binturong, civets, linsangs, Otter-civet, palm civets _Prionodon pardicolor_ Spotted Linsang 
+Viverridae---Binturong, civets, linsangs, otter-civet, palm civets _Prionodon pardicolor_ Spotted Linsang 
 
-Cetacea---Dolphins, porpoises, whales Balaenidae---Bowhead Whale, right whales _Balaena mysticetus_ Bowhead Whale 
+Cetacea---Dolphins, porpoises, whales Balaenidae---Bowhead whale, right whales _Balaena mysticetus_ Bowhead Whale 
 
-_Eubalaena_ spp. right whales 
+_Eubalaena_ spp Right Whales 
 
-Balaenopteridae---Humpback Whale, rorquals _Balaenoptera acutorostrata_ Northern Minke Whale Except population of West Greenland which is included in Schedule 2\.
+Balaenopteridae---Humpback whale, rorquals _Balaenoptera acutorostrata_ Northern Minke Whale Except population of West Greenland, which is included in [Schedule 2][76]
 
 _Balaenoptera bonaerensis_ Southern Minke Whale 
 
@@ -1572,17 +1575,17 @@ _Megaptera novaeangliae_ Humpback Whale
 
 Delphinidae---Dolphins _Orcaella brevirostris_ Irrawaddy Dolphin 
 
-_Orcaella heinsohni_ Australian Snubnose Dolphin 
+_Orcaella heinsohni_ Australian Snubfin Dolphin 
 
-_Sotalia_ spp. river dolphins, Tucuxi 
+_Sotalia_ spp River Dolphins, Tucuxi 
 
-_Sousa_ spp. humpback dolphins 
+_Sousa_ spp Humpback Dolphins 
 
-Eschrichtiidae---Grey Whale _Eschrichtius robustus_ Grey Whale 
+Eschrichtiidae---Grey whale _Eschrichtius robustus_ Grey Whale 
 
 Iniidae---River dolphins _Lipotes vexillifer_ Baiji, Yangtse River Dolphin 
 
-Neobalaenidae---Pygmy Right Whale _Caperea marginata_ Pygmy Right Whale 
+Neobalaenidae---Pygmy right whale _Caperea marginata_ Pygmy Right Whale 
 
 Phocoenidae---Porpoises _Neophocaena phocaenoides_ Black Finless Porpoise 
 
@@ -1590,11 +1593,11 @@ _Phocoena sinus_ Pacific Harbour Porpoise
 
 Physteridae---Sperm whales _Physeter macrocephalus_ Sperm Whale 
 
-Platanistidae---River dolphins _Platanista_ spp. Ganges and Indus dolphins 
+Platanistidae---River dolphins _Platanista_ spp Ganges and Indus dolphins 
 
-Ziphiidae---Beaked whales, bottle-nosed dolphins _Berardius_ spp. beaked whales 
+Ziphiidae---Beaked whales, bottle-nosed whales _Berardius_ spp Beaked Whales 
 
-_Hyperoodon_ spp. bottle-nose whales 
+_Hyperoodon_ spp Bottle-nose Whales 
 
 Chiroptera---Bats Pteropodidae---Fruit bats, flying foxes _Acerodon jubatus_ Golden-capped Fruit Bat 
 
@@ -1625,8 +1628,6 @@ Carniverous marsupials Dasyuridae---Dunnarts _Sminthopsis longicaudata_ Long-tai
 
 _Sminthopsis psammophila_ Large Desert Marsupial-mouse 
 
-Thylacinidae---Tasmanian wolf, Thylacine _Thylacinus cynocephalus_ Tasmanian Tiger Possibly extinct.
-
 Diprotodontia---  
 Kangaroos, wallabies, possums, koala, wombats, and relatives Macropodidae---Kangaroos, Wallabies _Lagorchestes hirsutus_ Western Hare Wallaby 
 
@@ -1634,29 +1635,21 @@ _Lagostrophus fasciatus_ Banded Hare Wallaby
 
 _Onychogalea fraenata_ Bridled Nailtail Wallaby 
 
-_Onychogalea lunata_ Crescent Nailtail Wallaby 
-
-Potoroidae---Rat-kangaroos _Bettongia_ spp. rat-kangaroos 
-
-_Caloprymnus campestris_ Desert Rat-kangaroo Possibly extinct.
+Potoroidae---Rat-kangaroos _Bettongia_ spp Rat-Kangaroos 
 
 Vombatidae---Northern Hairy-nosed Wombat _Lasiorhinus krefftii_ Northern Hairy-nosed Wombat 
 
-Lagomorpha---Hares, pikas, rabbits Leporidae---Hispid Hare, Volcano Rabbit _Caprolagus hispidus_ Assam Rabbit, Hispid Hare 
+Lagomorpha---Hares, pikas, rabbits Leporidae---Hispid hare, volcano rabbit _Caprolagus hispidus_ Assam Rabbit, Hispid Hare 
 
 _Romerolagus diazi_ Volcano Rabbit 
 
 Peramelemorphia---  
-Bandicoots, bilbies Chaeropodidae---Pig-footed Bandicoot _Chaeropus ecaudatus_ Pig-footed Bandicoot Possibly extinct.
-
-Peramelidae---Bandicoots _Perameles bougainville_ Barred Bandicoot 
+Bandicoots, bilbies Peramelidae---Bandicoots _Perameles bougainville_ Barred Bandicoot 
 
 Thylacomyidae---Bilbies _Macrotis lagotis_ Bilby 
 
-_Macrotis leucura_ Lesser Bilby 
-
 Perissodactyla---  
-Horses, rhinoceroses, tapirs Equidae---Horses, wild asses, zebras _Equus africanus_ African Wild Ass Excludes _Equus asinus_, the domesticated form.
+Horses, rhinoceroses, tapirs Equidae---Horses, wild asses, zebras _Equus africanus_ African Wild Ass Excludes domesticated form, referenced as _Equus asinus_
 
 _Equus grevyi_ Grevy's Zebra 
 
@@ -1669,15 +1662,15 @@ _Equus przewalskii_ Przewalski's Wild Horse
 _Equus zebra zebra_ Cape Mountain Zebra 
 
 Rhinocerotidae---  
-Rhinoceroses Rhinocerotidae spp. rhinoceroses Except the subspecies included in Schedule 2\.
+Rhinoceroses Rhinocerotidae spp Rhinoceroses Except subspecies included in [Schedule 2][76]
 
-Tapiridae---Tapirs Tapiridae spp. tapirs Except the species included in Schedule 2\.
+Tapiridae---Tapirs Tapiridae spp Tapirs Except species included in [Schedule 2][76]
 
-Primates---Apes, monkeys Atelidae---Howler and prehensile-tailed monkeys _Alouatta coibensis_ Coiba Island Howler-monkey 
+Primates---Apes, monkeys Atelidae---Howler and prehensile-tailed monkeys _Alouatta coibensis_ Coiba Island Howler Monkey 
 
-_Alouatta palliata_ Mantled Howler-monkey 
+_Alouatta palliata_ Mantled Howler Monkey 
 
-_Alouatta pigra_ Guatemalean Mantled Howler-monkey 
+_Alouatta pigra_ Guatemalan Mantled Howler Monkey 
 
 _Ateles geoffroyi frontatus_ Black-browed Spider Monkey 
 
@@ -1695,7 +1688,7 @@ _Callithrix aurita_ White-eared Marmoset
 
 _Callithrix flaviceps_ Buff-headed Marmoset 
 
-_Leontopithecus_ spp. lion tamarins 
+_Leontopithecus_ spp Lion Tamarins 
 
 _Saguinus bicolor_ Brazilian Bare-faced Tamarin 
 
@@ -1729,9 +1722,9 @@ _Piliocolobus rufomitratus_ Tana River Colobus
 
 _Presbytis potenziani_ Mentawi Leaf-monkey 
 
-_Pygathrix_ spp. langurs 
+_Pygathrix_ spp Langurs 
 
-_Rhinopithecus_ spp. snub-nosed monkeys 
+_Rhinopithecus_ spp Snub-nosed Monkeys 
 
 _Semnopithecus ajax_ Kashmir Grey Langur 
 
@@ -1755,7 +1748,7 @@ _Trachypithecus pileatus_ Capped Langur
 
 _Trachypithecus shortridgei_ Shortridge's Langur 
 
-Cheirogaleidae---Dwarf lemurs Cheirogaleidae spp. dwarf lemurs, mouse lemurs 
+Cheirogaleidae---Dwarf lemurs Cheirogaleidae spp Dwarf Lemurs, Mouse Lemurs 
 
 Daubentoniidae---Aye-aye _Daubentonia madagascariensis_ Aye-aye 
 
@@ -1763,32 +1756,32 @@ Hominidae---Chimpanzees, gorilla, orang-utan _Gorilla beringei_ Mountain Gorilla
 
 _Gorilla gorilla_ Gorilla 
 
-_Pan_ spp. chimpanzees 
+_Pan_ spp Chimpanzees 
 
 _Pongo abelii_ Sumatran Orang-utan 
 
 _Pongo pygmaeus_ Orang-utan 
 
-Hylobatidae---Gibbons Hylobatidae spp. gibbons 
+Hylobatidae---Gibbons Hylobatidae spp Gibbons 
 
-Indriidae---Avahi, indris, sifakas, woolly lemurs Indriidae spp. sifakas, indris 
+Indriidae---Avahi, indris, sifakas, woolly lemurs Indriidae spp Sifakas, Indris 
 
-Lemuridae---Large lemurs Lemuridae spp. lemurs 
+Lemuridae---Large lemurs Lemuridae spp Lemurs 
 
-Lepilemuridae---Sportive lemurs Lepilemuridae spp. sportive lemurs 
+Lepilemuridae---Sportive lemurs Lepilemuridae spp Sportive Lemurs 
 
-Lorisidae---Lorises _Nycitebus_ spp. slow lorises 
+Lorisidae---Lorises _Nycticebus_ spp Slow Lorises 
 
-Pithecidae---Sakis, uakaris _Cacajao_ spp. uakaris 
+Pithecidae---Sakis, uakaris _Cacajao_ spp Uakaris 
 
 _Chiropotes albinasus_ White-nosed Saki 
 
 Proboscidea---  
 Elephants Elephantidae---Elephants _Elephas maximus_ Asiatic Elephant 
 
-_Loxodonta africana_ African Elephant Except the populations of Botswana, Namibia, South Africa, and Zimbabwe, which are included in Schedule 2\.
+_Loxodonta africana_ African Elephant Except populations of Botswana, Namibia, South Africa, and Zimbabwe, which are included in [Schedule 2][76]
 
-Rodentia---Rodents Chinchillidae---Chinchillas _Chinchilla_ spp. chinchillas Except all domesticated specimens.
+Rodentia---Rodents Chinchillidae---Chinchillas _Chinchilla_ spp Chinchillas Except all specimens of domesticated form
 
 Muridae---Mice, rats _Leporillus conditor_ Stick Nest Rat 
 
@@ -1804,9 +1797,13 @@ Sirenia---Sirenians (sea cows) Dugongidae---Dugong _Dugong dugon_ Dugong
 
 Trichechidae---Manatees _Trichechus inunguis_ South American Manatee 
 
-_Trichechus manatus_ West Indian Manatee  
+_Trichechus manatus_ West Indian Manatee 
 
-**AVES---BIRDS**
+_Trichechus senegalensis_ West African Manatee 
+
+##### Class---Aves (birds)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Anseriformes---  
 Waterfowl Anatidae---Ducks, geese, swans, etc _Anas aucklandica_ Auckland Island Teal 
@@ -1823,7 +1820,7 @@ _Branta canadensis leucopareia_ Aleutian Canada Goose
 
 _Branta sandvicensis_ Hawaiian Goose, Nene 
 
-_Rhodonessa caryophyllacea_ Pink-headed Duck Possibly extinct.
+_Rhodonessa caryophyllacea_ Pink-headed Duck Possibly extinct
 
 Apodiformes---  
 Swifts, hummingbirds Trochilidae---Hummingbirds _Glaucis dohrnii_ Hook-billed Hermit 
@@ -1883,7 +1880,7 @@ Falconidae---Falcons _Falco araeus_ Seychelles Kestrel
 
 _Falco jugger_ Laggar Falcon 
 
-_Falco newtoni_ Aldabra Kestrel Only the population of the Seychelles.
+_Falco newtoni_ Aldabra Kestrel Only population of Seychelles
 
 _Falco pelegrinoides_ Barbary Falcon 
 
@@ -1906,7 +1903,7 @@ _Pipile jacutinga_ Black-fronted Piping Guan
 
 _Pipile pipile_ Trinidad Piping Guan 
 
-Megapodidae---Megapodes, scrubfowl _Macrocephalon maleo_ Maleo (fowl) 
+Megapodiidae---Megapodes, scrubfowl _Macrocephalon maleo_ Maleo (Fowl) 
 
 Phasianidae---Grouse, guineafowl, partridges, pheasants, tragopans _Catreus wallichii_ Cheer Pheasant 
 
@@ -1923,8 +1920,6 @@ _Lophophorus lhuysii_ Chinese Monal Pheasant
 _Lophophorus sclateri_ Sclater's Monal Pheasant 
 
 _Lophura edwardsi_ Edward's Pheasant 
-
-_Lophura imperialis_ Imperial Pheasant 
 
 _Lophura swinhoii_ Swinhoes's Pheasant 
 
@@ -1947,8 +1942,6 @@ _Tragopan blythii_ Blyth's Tragopan, Grey-bellied Tragopan
 _Tragopan caboti_ Cabot's Tragopan, Yellow-billed Tragopan 
 
 _Tragopan melanocephalus_ Western Tragopan, Western Horned Pheasant 
-
-_Tympanuchus cupido attwateri_ Attwater's Prairie Chicken 
 
 Gruiformes---Coots, cranes, rails Gruidae---Cranes _Grus americana_ Whooping Crane 
 
@@ -1979,7 +1972,7 @@ Rallidae---Rail _Gallirallus sylvestris_ Lord Howe Woodrail
 Rhynochetidae---Kagu _Rhynochetos jubatus_ Kagu 
 
 Passeriformes---  
-Passerines (perching birds) Atrichornithidae---Scrub bird _Atrichornis clamosus_ Noisy Scrub-bird 
+Passerines (perching birds) Atrichornithidae---Scrub-bird _Atrichornis clamosus_ Noisy Scrub-bird 
 
 Cotingidae---Cotingas _Cotinga maculata_ Banded Cotinga 
 
@@ -1993,7 +1986,7 @@ Icteridae---Blackbird _Xanthopsar flavus_ Saffron-cowled Blackbird
 
 Meliphagidae---Honeyeater _Lichenostomus melanops cassidix_ Helmeted Honeyeater 
 
-Muscicapidae---Old World flycatchers _Dasyornis broadbenti litoralis_ Western Rufous Bristlebird Possibly extinct.
+Muscicapidae---Old World flycatchers _Dasyornis broadbenti litoralis_ Western Rufous Bristlebird Possibly extinct
 
 _Dasyornis longirostris_ Western Bristlebird 
 
@@ -2005,7 +1998,7 @@ Pittidae---Pittas _Pitta gurneyi_ Guerney's Pitta
 
 _Pitta kochi_ Koch's Pitta 
 
-Sturnidae---Mynahs (starlings) _Leucopsar rothschildi_ Bali Starling, Rothschild's Mynah 
+Sturnidae---Mynahs (Starlings) _Leucopsar rothschildi_ Bali Starling, Rothschild's Mynah 
 
 Zosteropidae---White-eye _Zosterops albogularis_ Norfolk White-throated White-eye 
 
@@ -2016,9 +2009,7 @@ Pelecanidae---Pelican _Pelecanus crispus_ Dalmatian Pelican
 
 Sulidae---Booby _Papasula abbotti_ Abbott's Booby 
 
-Piciformes---Woodpeckers and relatives Picidae---Woodpeckers _Campephilus imperialis_ Imperial Woodpecker 
-
-_Dryocopus javensis richardsi_ Tristram's White-bellied Woodpecker 
+Piciformes---Woodpeckers and relatives Picidae---Woodpeckers _Dryocopus javensis richardsi_ Tristram's Woodpecker 
 
 Podicipediformes---  
 Grebes Podicipedidae---Grebe _Podilymbus gigas_ Atitlan Grebe 
@@ -2074,17 +2065,17 @@ _Amazona viridigenalis_ Green-cheeked Amazon, Green-cheeked Parrot
 
 _Amazona vittata_ Puerto Rican Amazon, Puerto Rican Parrot 
 
-_Anodorhynchus_ spp. Glaucous, Hyacinth, and Lear's Macaws 
+_Anodorhynchus_ spp Glaucous, Hyacinth, and Lear's Macaws 
 
 _Ara ambiguus_ Great Green Macaw 
 
-_Ara glaucogularis_ Caninde Macaw Often traded under the incorrect designation _Ara caninde_.
+_Ara glaucogularis_ Caninde Macaw 
 
 _Ara macao_ Scarlet Macaw 
 
 _Ara militaris_ Military Macaw 
 
-_Ara rubrogenys_ Red-Fronted Macaw 
+_Ara rubrogenys_ Red-fronted Macaw 
 
 _Cyanopsitta spixii_ Spix's Macaw 
 
@@ -2106,7 +2097,7 @@ _Neophema chrysogaster_ Orange-bellied Parakeet
 
 _Ognorhynchus icterotis_ Yellow-eared Conure 
 
-_Pezoporus occidentalis_ Night Parrot Possibly extinct.
+_Pezoporus occidentalis_ Night Parrot Possibly extinct
 
 _Pezoporus wallicus_ Ground Parrot 
 
@@ -2120,17 +2111,17 @@ _Psephotus chrysopterygius_ Golden-shouldered Parrot
 
 _Psephotus dissimilis_ Hooded Parrot 
 
-_Psephotus pulcherrimus_ Paradise Parrot Possibly extinct.
+_Psephotus pulcherrimus_ Paradise Parrot Possibly extinct
 
 _Psittacula echo_ Mauritius Parakeet 
 
-_Pyrrhura cruentata_ Blue-Throated Conure 
+_Pyrrhura cruentata_ Blue-throated Conure 
 
-_Rhynchopsitta_ spp. Thick-billed Parrot, Maroon-fronted Parrot 
+_Rhynchopsitta_ spp Thick-billed Parrot, Maroon-fronted Parrot 
 
 _Strigops habroptilus_ Kakapo 
 
-Rheiformes---Rheas Rheidae---Rheas _Pterocnemia pennata_ Darwin's Rhea Except_Pterocnemia pennata pennata_ which is included in Schedule 2\.
+Rheiformes---Rheas Rheidae---Rheas _Pterocnemia pennata_ Darwin's Rhea Except_Pterocnemia pennata pennata_, which is included in [Schedule 2][76]
 
 Sphenisciformes---  
 Penguins Spheniscidae---Penguins _Spheniscus humboldti_ Humboldt Penguin 
@@ -2146,27 +2137,28 @@ _Ninox novaeseelandiae undulata_ Norfolk Island Boobook Owl
 Tytonidae---Barn owls _Tyto soumagnei_ Madagascar Owl 
 
 Struthioniformes---  
-Ostriches, emus, cassowaries, kiwis Struthionidae---Ostrich _Struthio camelus_ Ostrich Only populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, Niger, Nigeria, Senegal, and Sudan. All other populations are not included in the Schedules.
+Ostriches, emus, cassowaries, kiwis Struthionidae---Ostrich _Struthio camelus_ Ostrich Only populations of Algeria, Burkina Faso, Cameroon, Central African Republic, Chad, Mali, Mauritania, Morocco, Niger, Nigeria, Senegal, and Sudan. No other populations are included in the schedules
 
 Tinamiformes---  
 Paleognath birds Tinamidae---Tinamous _Tinamus solitarius_ Solitary Tinamou 
 
 Trogoniformes---  
-Trogons  
-Trogonidae---Quetzals _Pharomachrus mocinno_ Resplendent Quetzal 
+Trogons Trogonidae---Quetzals _Pharomachrus mocinno_ Resplendent Quetzal 
 
-**REPTILIA---REPTILES**
+##### Class---Reptilia (reptiles)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Crocodylia---  
 Alligators, caimans, crocodiles Alligatoridae---Alligators, caimans _Alligator sinensis_ Chinese Alligator 
 
 _Caiman crocodilus apaporiensis_ Rio Apaporis Spectacled Caiman 
 
-_Caiman latirostris_ Broad-snouted Caiman Except the population of Argentina, which is included in Schedule 2\.
+_Caiman latirostris_ Broad-snouted Caiman Except population of Argentina, which is included in [Schedule 2][76]
 
-_Melanosuchus niger_ Black Caiman Except the population of Brazil, which is included in Schedule 2, and the population of Ecuador, which is included in Schedule 2 and is subject to a zero annual export quota until an annual export quota has been approved by the CITES Secretariat and the IUCN/SSC Crocodile Specialist Group.
+_Melanosuchus niger_ Black Caiman Except population of Brazil, which is included in [Schedule 2][76], and population of Ecuador, which is included in Schedule 2 and is subject to zero annual export quota until annual export quota has been approved by CITES Secretariat and IUCN/SSC Crocodile Specialist Group
 
-Crocodylidae---Crocodiles _Crocodylus acutus_ American Crocodile Except the population of Cuba, which is included in Schedule 2\.
+Crocodylidae---Crocodiles _Crocodylus acutus_ American Crocodile Except population of Cuba, which is included in [Schedule 2][76]
 
 _Crocodylus cataphractus_ African Slender-snouted Crocodile 
 
@@ -2174,13 +2166,13 @@ _Crocodylus intermedius_ Orinoco Crocodile
 
 _Crocodylus mindorensis_ Mindoro Crocodile 
 
-_Crocodylus moreletii_ Belize Crocodile Except the populations of Belize and Mexico, which are included in Schedule 2 with a zero quota for wild specimens traded for commercial purposes.
+_Crocodylus moreletii_ Belize Crocodile Except populations of Belize and Mexico, which are included in [Schedule 2][76] with zero quota for wild specimens traded for commercial purposes
 
-_Crocodylus niloticus_ Nile Crocodile Except the populations of Botswana, Egypt (subject to a zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, United Republic of Tanzania (subject to an annual export quota of no more than 1 600 wild specimens including hunting trophies, in addition to ranched specimens), Zambia, and Zimbabwe; these populations are included in Schedule 2\.
+_Crocodylus niloticus_ Nile Crocodile Except populations of Botswana, Egypt (subject to zero quota for wild specimens traded for commercial purposes), Ethiopia, Kenya, Madagascar, Malawi, Mozambique, Namibia, South Africa, Uganda, United Republic of Tanzania (subject to annual export quota of no more than 1 600 wild specimens, including hunting trophies, in addition to ranched specimens), Zambia, and Zimbabwe, which are included in [Schedule 2][76]
 
 _Crocodylus palustris_ Marsh Crocodile 
 
-_Crocodylus porosus_ Saltwater Crocodile Except populations of Australia, Indonesia, and Papua New Guinea, which are included in Schedule 2\.
+_Crocodylus porosus_ Saltwater Crocodile Except populations of Australia, Indonesia, and Papua New Guinea, which are included in [Schedule 2][76]
 
 _Crocodylus rhombifer_ Cuban Crocodile 
 
@@ -2188,20 +2180,20 @@ _Crocodylus siamensis_ Siamese Crocodile
 
 _Osteolaemus tetraspis_ Dwarf Crocodile 
 
-_Tomistoma schlegelii_ False Gharial 
+_Tomistoma schlegelii_ False Gavial 
 
 Gavialidae---Gavial _Gavialis gangeticus_ Gharial 
 
 Rhynchocephalia---  
-Tuatara Sphenodontidae---Tuatara _Sphenodon_ spp. tuatara 
+Tuatara Sphenodontidae---Tuatara _Sphenodon_ spp Tuatara 
 
 Sauria---Lizards Chamaeleonidae---Chameleons _Brookesia perarmata_ Antsingy Leaf Chameleon 
 
 Helodermatidae---Beaded lizards, gila monster _Heloderma horridum charlesbogerti_ Guatemalan Beaded Lizard, Blue Beaded Lizard 
 
-Iguanidae---Iguanas _Brachylophus_ spp. Fiji iguanas 
+Iguanidae---Iguanas _Brachylophus_ spp Fiji Iguanas 
 
-_Cyclura_ spp. Ground iguanas 
+_Cyclura_ spp Ground Iguanas 
 
 _Sauromalus varius_ Piebald Chuckwalla 
 
@@ -2217,7 +2209,7 @@ _Varanus komodoensis_ Komodo Dragon
 
 _Varanus nebulosus_ Bengal Monitor 
 
-Serpentes---Snakes Boidae---Boas _Acrantophis_ spp. Madagascar boas 
+Serpentes---Snakes Boidae---Boas _Acrantophis_ spp Madagascar Boas 
 
 _Boa constrictor occidentalis_ Argentine Boa Constrictor 
 
@@ -2235,14 +2227,14 @@ _Casarea dussumieri_ Round Island Keel-scaled Boa
 
 Pythonidae---Pythons _Python molurus molurus_ Indian Python, Rock Python 
 
-Viperidae---Vipers _Vipera ursinii_ Orsini's Viper Only the population of Europe, except the area that formerly constituted the USSR; these latter populations are not included in the schedules.
+Viperidae---Vipers _Vipera ursinii_ Orsini's Viper Only population of Europe, except area that formerly constituted USSR; populations in that area are not included in the schedules
 
 Testudines---Turtles, tortoises Chelidae---Austro-American side-necked turtles _Pseudemydura umbrina_ Western Swamp Turtle 
 
-Cheloniidae---Marine turtles Cheloniidae spp. sea turtles 
+Cheloniidae---Marine turtles Cheloniidae spp Sea Turtles 
 
 Dermochelyidae---  
-Leatherback Turtle _Dermochelys coriacea_ Leatherback Turtle 
+Leatherback turtle _Dermochelys coriacea_ Leatherback Turtle 
 
 Emydidae---Box turtles, freshwater turtles _Glyptemis muhlenbergii_ Muhlenberg's Turtle, Bog Turtle 
 
@@ -2250,7 +2242,7 @@ _Terrapene coahuila_ Aquatic Box Turtle
 
 Geoemydidae---Box turtles, freshwater turtles _Batagur affinis_ Southern River Terrapin 
 
-_Batagur baska_ Common Batagur Turtle 
+_Batagur baska_ Batagur, Four-toed Terrapin, River Terrapin 
 
 _Geoclemys hamiltonii_ Black Pond Turtle 
 
@@ -2260,11 +2252,15 @@ _Morenia ocellata_ Bengal Eyed Terrapin
 
 _Pangshura tecta_ Indian Sawback Turtle, Dura Turtle, Indian Pond Turtle 
 
+Platysternidae---Big-headed Turtles _Platysternidae_ spp Big-headed Turtle 
+
 Testudinidae---Tortoises _Astrochelys radiata_ Radiated Tortoise 
 
 _Astrochelys yniphora_ Madagascar Tortoise 
 
 _Chelonoidis nigra_ Galapagos Giant Tortoise 
+
+_Geochelone platynota_ Burmese Star Tortoise 
 
 _Gopherus flavomarginatus_ Yellow-bordered Tortoise 
 
@@ -2276,42 +2272,49 @@ _Pyxis planicauda_ Flat-backed Spider Tortoise
 
 _Testudo kleinmanni_ Egyptian Tortoise 
 
-Trionychidae---Softshell turtles, terrapins _Apalone spinifera atra_ Cuatro Cienegas Soft-shell Turtle 
+Trionychidae---Softshell turtles, terrapins _Apalone spinifera atra_ Cuatro Cienegas Softshell Turtle 
 
-_Aspideretes gangeticus_ Indian Soft-shell Turtle 
+_Chitra chitra_ Southest Asian Narrow-headed Softshell Turtle 
 
-_Aspideretes hurum_ Peacock Soft-shell Turtle 
+_Chitra Vandijki_ Burmese Narrow-headed Softshell Turtle 
 
-_Aspideretes nigricans_ Dark Soft-shell Turtle  
+_Nilssonia gangetica_ Indian Softshell Turtle 
 
-**AMPHIBIA---AMPHIBIANS**
+_Nilssonia hurum_ Indian Peacock Softshell Turtle 
 
-Anura---Frogs, toads Bufonidae---Toads _Altiphrynoides_ spp. Ethiopian toads 
+_Nilssonia nigricans_ Dark Softshell Turtle 
+
+##### Class---Amphibia (amphibians)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
+
+Anura---Frogs, toads Bufonidae---Toads _Amietophrynus superciliaris_ Cameroon Toad, Zaire Toad 
+
+_Altiphrynoides_ spp Ethiopian Toads 
 
 _Atelopus zeteki_ Golden Arrow Poison Frog 
 
-_Bufo periglenes_ Golden Toad 
+_Incilius periglenes_ Golden Toad 
 
-_Bufo superciliaris_ Cameroon Toad 
+_Nectophrynoides_ spp Viviparous Toads 
 
-_Nectophrynoides_ spp. Viviparous toads 
-
-_Nimbaphrynoides_ spp. Nimba toads 
-
-_Spinophrynoides_ spp. Osgood's Ethiopian Toad 
+_Nimbaphrynoides_ spp Nimba Toads 
 
 Microhylidae---Red rain frog, tomato frog _Dyscophus antongilii_ Tomato Frog 
 
-Caudata---Salamanders Cryptobranchidae---Giant salamanders _Andrias_ spp. giant salamanders 
+Caudata---Salamanders Cryptobranchidae---Hellbender and giant salamanders _Andrias_ spp Giant Salamanders 
 
-Salamandridae---Newts and salamanders  
-_Neurergus kaiseri_ Kaiser's Spotted Newt 
+Salamandridae---Newts, salamanders _Neurergus kaiseri_ Kaiser's Spotted Newt 
 
-**ELASMOBRANCHII---SHARKS**
+##### Class---Elasmobranchii (sharks)
 
-Rajiformes---Skates Pristidae---Sawfishes _Pristidae_ spp. sawfishes Except the species included in Schedule 2\.  
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-**ACTINOPTERYGII---FISH**
+Pristiformes---Skates Pristidae---Sawfishes _Pristidae_ spp Sawfishes 
+
+##### Class---Actinopterygii (fish)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Acipenseriformes---  
 Paddlefish, sturgeons Acipenseridae---Sturgeons _Acipenser brevirostrum_ Shortnose Sturgeon 
@@ -2324,21 +2327,25 @@ Minnows, suckers Catostomidae---Cui-ui _Chasmistes cujus_ Cui-ui
 Cyprinidae---Blind carps, Plaeesok _Probarbus jullieni_ Ikan Temoleh 
 
 Osteoglossiformes---  
-Bonytongues Osteoglossidae---Arapaima, Bonytongue _Scleropages formosus_ Asian Arowana 
+Bonytongues Osteoglossidae---Bonytongue _Scleropages formosus_ Asian Arowana Includes taxon _Scleropages inscriptus_
 
 Perciformes---  
 Perch-like fishes Sciaenidae---Totoaba _Totoaba macdonaldi_ Macdonald's Weakfish, Totoaba 
 
-Siluriformes---Catfish Pangasiidae---Pangasid catfish  
-_Pangasianodon gigas_ Giant Catfish 
+Siluriformes---Catfish Pangasiidae---Pangasid catfish _Pangasianodon gigas_ Giant Catfish 
 
-**SARCOPTERYGII---LUNGFISHES**
+##### Class---Sarcopterygii (lungfishes)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Coelacanthiformes---  
-Coelacanths  
-Latimeriidae---Coelacanths _Latimeria_ spp. coelacanths 
+Coelacanths Latimeriidae---Coelacanths _Latimeria_ spp Coelacanths 
 
-**INSECTA---INSECTS**
+#### Phylum---Arthropoda
+
+##### Class---Insecta (insects)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Lepidoptera---Butterflies, moths Papilionidae---Birdwing butterflies, swallowtail butterflies _Ornithoptera alexandrae_ Queen Alexandra's Birdwing 
 
@@ -2346,9 +2353,11 @@ _Papilio chikae_ Luzon Peacock Swallowtail
 
 _Papilio homerus_ Homerus Swallowtail 
 
-_Papilio hospiton_ Corsican Swallowtail  
+#### Phylum---Mullusca
 
-**BIVALVIA---CLAMS, MUSSELS**
+##### Class---Bivalvia (clams and mussels)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Unionida---Freshwater mussels Unionidae---Freshwater mussels, pearly mussels _Conradilla caelata_ Birdwing Pearl Mussel 
 
@@ -2364,7 +2373,7 @@ _Epioblasma sulcata perobliqua_ White Catspaw Mussel
 
 _Epioblasma torulosa gubernaculum_ Green-blossom Pearly Mussel 
 
-_Epioblasma torulosa torulosa_ Turberculed Pearly Mussel 
+_Epioblasma torulosa torulosa_ Tuberculed-blossom Pearly Mussel 
 
 _Epioblasma turgidula_ Turgid Blossom Pearly Mussel 
 
@@ -2400,102 +2409,107 @@ _Unio nickliniana_ Nicklin's Pearly Mussel
 
 _Unio tampicoensis tecomatensis_ Tampico Pearly Mussel 
 
-_Villosa trabalis_ Cumberland Bean Pearly Mussel  
+_Villosa trabalis_ Cumberland Bean Pearly Mussel 
 
-**GASTROPODA---SNAILS AND CONCHES**
+##### Class---Gastropoda (snails and conches)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Stylommatophora---  
-Terrestrial snails and slugs  
-Achatinellidae---Agate snails, Oahu tree snails _Achatinella_ spp. agate shells, tree snails 
+Terrestrial snails and slugs Achatinellidae---Agate snails, Oahu tree snails _Achatinella_ spp Agate Shells, Tree Snails 
 
-**FLORA---PLANTS**
+## Part 2  
+Flora (plants)
 
-Agavaceae---Agaves _Agave parviflora_ Santa Cruz striped agave 
+**Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-Apocynaceae---Elephant trunks, hoodias _Pachypodium ambongense_ 
+Agavaceae---Agaves _Agave parviflora_ Santa Cruz Striped Agave 
+
+Apocynaceae---  
+Elephant trunks, hoodias _Pachypodium ambongense_ 
 
 _Pachypodium baronii_ 
 
 _Pachypodium decaryi_ 
 
 Araucariaceae---  
-Monkey-puzzle tree _Araucaria araucana_ monkey-puzzle tree 
+Monkey-puzzle tree _Araucaria araucana_ Monkey-puzzle Tree 
 
-Cactaceae---Cacti _Ariocarpus_ spp. living rock cactus 
+Cactaceae---Cacti _Ariocarpus_ spp Living Rock Cactus 
 
-_Astrophytum asterias_ star cactus 
+_Astrophytum asterias_ Star Cactus 
 
 _Aztekium ritteri_ Aztec Cactus 
 
-_Coryphantha werdermannii_ Jabali pincushion cactus 
+_Coryphantha werdermannii_ Jabali Pincushion Cactus 
 
-_Discocactus_ spp. discocacti 
+_Discocactus_ spp Discocacti 
 
-_Echinocereus ferreirianus_ ssp. _lindsayi_ Lindsay's cactus 
+_Echinocereus ferreirianus_ ssp _lindsayi_ Lindsay's Cactus 
 
-_Echinocereus schmollii_ lamb's-tail cactus 
+_Echinocereus schmollii_ Lamb's-tail Cactus 
 
-_Escobaria minima_ Nellie's cory cactus 
+_Escobaria minima_ Nellie's Cory Cactus 
 
-_Escobaria sneedii_ Lee pincushion cactus, Sneed's cory cactus 
+_Escobaria sneedii_ Lee Pincushion Cactus, Sneed's Cory Cactus 
 
 _Mammillaria pectinifera_ 
 
 _Mammillaria solisioides_ 
 
-_Melocactus conoideus_ conelike Turk's-cap cactus 
+_Melocactus conoideus_ Conelike Turk's-cap Cactus 
 
-_Melocactus deinacanthus_ wonderfully-bristled Turk's-cap cactus 
+_Melocactus deinacanthus_ Wonderfully-bristled Turk's-cap Cactus 
 
-_Melocactus glaucescens_ woolly waxy-stemmed Turk's-cap cactus 
+_Melocactus glaucescens_ Woolly Waxy-stemmed Turk's-cap Cactus 
 
-_Melocactus paucispinus_ few-spined Turk's-cap cactus 
+_Melocactus paucispinus_ Few-spined Turk's-cap Cactus 
 
-_Obregonia denegrii_ artichoke cactus 
+_Obregonia denegrii_ Artichoke Cactus 
 
-_Pachycereus militaris_ grenadier's cap, teddy-bear cactus 
+_Pachycereus militaris_ Grenadier's Cap, Teddy-bear Cactus 
 
-_Pediocactus bradyi_ Brady's pincushion cactus 
+_Pediocactus bradyi_ Brady's Pincushion Cactus 
 
-_Pediocactus knowltonii_ Knowlton's cactus 
+_Pediocactus knowltonii_ Knowlton's Cactus 
 
-_Pediocactus paradinei_ Park pincushion cactus, Houserock Valley cactus 
+_Pediocactus paradinei_ Park Pincushion Cactus, Houserock Valley Cactus 
 
-_Pediocactus peeblesianus_ Fickeisen hedgehog cactus 
+_Pediocactus peeblesianus_ Fickeisen Hedgehog Cactus 
 
-_Pediocactus sileri_ Siler's pincushion cactus 
+_Pediocactus sileri_ Siler's Pincushion Cactus 
 
-_Pelecyphora_ spp. hatchet cacti 
+_Pelecyphora_ spp Hatchet Cacti 
 
-_Sclerocactus brevihamatus_ ssp. _tobuschii_ 
+_Sclerocactus brevihamatus_ ssp _tobuschii_ 
 
-_Sclerocactus erectocentrus_ Acuna cactus 
+_Sclerocactus erectocentrus_ Acuna Cactus 
 
-_Sclerocactus glaucus_ Vinta Basin hookless cactus 
+_Sclerocactus glaucus_ Vinta Basin Hookless Cactus 
 
-_Sclerocactus mariposensis_ Lloyd's mariposa cactus 
+_Sclerocactus mariposensis_ Lloyd's Mariposa Cactus 
 
-_Sclerocactus mesae-verdae_ Mesa-Verde cactus 
+_Sclerocactus mesae-verdae_ Mesa-verde Cactus 
 
-_Sclerocactus nyensis_ Tonopah fishhook cactus 
+_Sclerocactus nyensis_ Tonopah Fishhook Cactus 
 
-_Sclerocactus papyracanthus_ paper-spine pincushion cactus 
+_Sclerocactus papyracanthus_ Paper-spine Pincushion Cactus 
 
 _Sclerocactus pubispinus_ 
 
-_Sclerocactus wrightiae_ Wright's fishhook cactus 
+_Sclerocactus wrightiae_ Wright's Fishhook Cactus 
 
-_Strombocactus_ spp. 
+_Strombocactus_ spp 
 
-_Turbinicarpus_ spp. turbinicarps 
+_Turbinicarpus_ spp Turbinicarps 
 
-_Uebelmannia_ spp. 
+_Uebelmannia_ spp 
 
 Compositae---  
-(Asteraceae) kuth _Saussurea costus_ costus root 
+(Asteraceae) kuth _Saussurea costus_ Costus Root 
 
 Cupressaceae---  
-Alerce, cypresses _Fitzroya cupressoides_ alerce, Chilean false larch 
+Alerce, cypresses _Fitzroya cupressoides_ Alerce, Chilean False Larch 
 
 _Pilgerodendron uviferum_ Pilgerodendron, Cipres de las Guaitecas 
 
@@ -2506,15 +2520,15 @@ Euphorbias _Euphorbia ambovombensis_
 
 _Euphorbia capsaintemariensis_ 
 
-_Euphorbia cremersii_ Includes the _forma viridfolia_ and the var. _rakotozafyi_.
+_Euphorbia cremersii_ Includes _forma viridfolia_ and var _rakotozafyi_
 
-_Euphorbia cylindrifolia_ Includes _Euphorbia cylindrifolia_ ssp. _Tuberifera_.
+_Euphorbia cylindrifolia_ Includes _Euphorbia cylindrifolia_ ssp _tuberifera_
 
-_Euphorbia decaryi_ Includes _Euphorbia decaryi_ vars. _ampanihyensis, robinsonii_, and_spirosticha_.
+_Euphorbia decaryi_ Includes _Euphorbia decaryi_ vars _ampanihyensis, robinsonii_, and_spirosticha_
 
 _Euphorbia francoisii_ 
 
-_Euphorbia moratii_ Includes _Euphorbia moratii_ vars. _antsingiensis, bemarahensis_, and _multiflora_.
+_Euphorbia moratii_ Includes _Euphorbia moratii_ vars _antsingiensis, bemarahensis_, and _multiflora_
 
 _Euphorbia parvicyathophora_ 
 
@@ -2528,7 +2542,7 @@ Ocotillos _Fouquieria fasciculata_
 _Fouquieria purpusii_ 
 
 Leguminosae (Fabaceae)---  
-Afrormosia, cristobal, rosewood, sandalwood _Dalbergia nigra_ Brazilian rosewood 
+Afrormosia, cristobal, rosewood, sandalwood _Dalbergia nigra_ Brazilian Rosewood 
 
 Liliaceae---Aloes _Aloe albida_ 
 
@@ -2542,7 +2556,7 @@ _Aloe bellatula_
 
 _Aloe calcairophila_ 
 
-_Aloe compressa_ Includes _Aloe compressa_ var. _rugosquamosa_, var. _schistophila_, and var._paucituberculata_.
+_Aloe compressa_ Includes vars _paucituberculata_, _rugosquamosa_, and _schistophila_
 
 _Aloe delphinensis_ 
 
@@ -2550,11 +2564,11 @@ _Aloe descoingsii_
 
 _Aloe fragilis_ 
 
-_Aloe haworthioides_ Includes _Aloe haworthioides_ var. _aurantiaca_.
+_Aloe haworthioides_ Includes _Aloe haworthioides_ var _aurantiaca_
 
 _Aloe helenae_ 
 
-_Aloe laeta_ Includes _Aloe laeta_ var. _maniaensis_.
+_Aloe laeta_ Includes _Aloe laeta_ var _maniaensis_
 
 _Aloe parallelifolia_ 
 
@@ -2562,7 +2576,7 @@ _Aloe parvula_
 
 _Aloe pillansii_ 
 
-_Aloe polyphylla_ spiral aloe 
+_Aloe polyphylla_ Spiral Aloe 
 
 _Aloe rauhii_ 
 
@@ -2572,51 +2586,51 @@ _Aloe versicolor_
 
 _Aloe vossii_ 
 
-Nepenthaceae---Pitcher plants (Old World) _Nepenthes khasiana_ Indian pitcher plant 
+Nepenthaceae---Pitcher plants (Old World) _Nepenthes khasiana_ Indian Pitcher Plant 
 
-_Nepenthes rajah_ giant tropical pitcher plant 
+_Nepenthes rajah_ Giant Tropical Pitcher Plant 
 
-Orchidaceae---Orchids _Aerangis ellisii_ Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+Orchidaceae---Orchids _Aerangis ellisii_ Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Dendrobium cruentum_ Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Dendrobium cruentum_ Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Laelia jongheana_ Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Laelia jongheana_ Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Laelia lobata_ Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Laelia lobata_ Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Paphiopedilum_ spp. slipper orchids, Asian slipper orchids Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Paphiopedilum_ spp Slipper Orchids, Asian Slipper Orchids Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Peristeria elata_ dove orchid or holy ghost orchid Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Peristeria elata_ Dove Orchid or Holy Ghost Orchid Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Phragmipedium_ spp. slipper orchids, South American slipper orchids Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Phragmipedium_ spp Slipper Orchids, South American Slipper Orchids Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
-_Renanthera imschootiana_ red vanda Seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers are not subject to the provisions of the Act, but only if the specimens meet the definition of "artificially propagated" agreed by the Conference of the Parties.
+_Renanthera imschootiana_ Red Vanda Seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers are not subject to provisions of this Act, but only if specimens meet definition of artificially propagated agreed by Conference of the Parties
 
 Palmae (Arecaceae)  
----Palms _Chrysalidocarpus decipiens_ butterfly palm 
+---Palms _Chrysalidocarpus decipiens_ Butterfly Palm 
 
-Pinaceae---Guatemala fir _Abies guatemalensis_ Guatemala fir or pinabete 
+Pinaceae---Firs and pines _Abies guatemalensis_ Guatemala Fir or Pinabete 
 
 Podocarpaceae---  
-Podocarps _Podocarpus parlatorei_ Parlatore's podocarp 
+Podocarps _Podocarpus parlatorei_ Parlatore's Podocarp 
 
-Rubiaceae---Ayuque _Balmea stormiae_ Ayugue 
+Rubiaceae---Ayuque _Balmea stormiae_ Ayuque 
 
 Sarraceniaceae---  
-Pitcher plants (New World) _Sarracenia oreophila_ green pitcher-plant 
+Pitcher plants (New World) _Sarracenia oreophila_ Green Pitcher Plant 
 
-_Sarracenia rubra_ ssp. _alabamensis_ Alabama canebrake pitcher-plant 
+_Sarracenia rubra_ ssp _alabamensis_ Alabama Canebrake Pitcher Plant 
 
-_Sarracenia rubra_ ssp. _jonesii_ Jones' pitcher-plant, mountain sweet pitcherplant 
+_Sarracenia rubra_ ssp _jonesii_ Jones' Pitcher Plant, Mountain Sweet Pitcher Plant 
 
 Stangeriacea---  
-Stangerias _Stangeria eriopus_ Hottentot's head 
+Stangerias _Stangeria eriopus_ Hottentot's Head 
 
-Zamiaceae---Cycads _Ceratozamia_ spp. 
+Zamiaceae---Cycads _Ceratozamia_ spp 
 
-_Chigua_ spp. 
+_Chigua_ spp 
 
-_Encephalartos_ spp. bread trees or bread palms 
+_Encephalartos_ spp Bread Trees or Bread Palms 
 
 _Microcycas calocoma_ 
 
@@ -2627,11 +2641,11 @@ Species threatened by trade
 
 [s 3(1)][4]
 
-*   Schedule 2: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 2: replaced, on 14 September 2014, by [clause 3][124] of the Trade in Endangered Species Order 2014 (LI 2014/259).
 
-The classes, families and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
+The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention.
 
-The entries in the column headed "Exceptions/limitations" have the effect of either---
+The entries in the column headed "**Exceptions/limitations**" have the effect of---
     
 *   (a) excluding nominated populations in the listed species; or
 
@@ -2643,20 +2657,25 @@ The entries in the column headed "Exceptions/limitations" have the effect of eit
 
 *   (e) limiting the application of the listed species to only those categories of specimens nominated.
 
+## Part 1  
+Fauna (animals)
+
+#### Phylum---Chordata
+
+##### Class---Mammalia (mammals)
+
 **Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-**MAMMALIA---MAMMALS**
-
 Artiodactyla---  
-Even-toed ungulates Bovidae---Antelopes, cattle, duikers, gazelles, goats, sheep, etc _Ammotragus lervia_ Barbary Sheep, Aoudad 
+Even-toed ungulates Bovidae---Antelopes, cattle, duikers, gazelles, goats, sheep, etc _Ammotragus lervia_ Barbary Sheep 
 
 _Bison bison athabascae_ Wood Bison 
 
 _Budorcas taxicolor_ Takin 
 
-_Cephalophus dorsalis_ Bay Duiker 
-
 _Cephalophus brookei_ Brook's Duiker 
+
+_Cephalophus dorsalis_ Bay Duiker 
 
 _Cephalophus ogilbyi_ Ogilby's Duiker 
 
@@ -2668,13 +2687,15 @@ _Damaliscus pygargus pygargus_ Bontebok
 
 _Kobus leche_ Lechwe 
 
-_Ovis ammon_ Argali Except the subspecies included in Schedule 1\.
+_Ovis ammon_ Argali Except subspecies included in [Schedule 1][75]
 
-_Ovis canadensis_ Desert Bighorn Only population of Mexico.
+_Ovis canadensis_ Desert Bighorn Only population of Mexico. No other population is included in the schedules
 
-_Ovis vignei_ Urial, Red Sheep Except the subspecies included in Schedule 1\.
+_Ovis vignei_ Urial, Red Sheep Except subspecies included in [Schedule 1][75]
 
 _Philantomba monticola_ Blue Duiker 
+
+_Rupicapra pyrenaica ornata_ Abruzzo Chamois 
 
 _Saiga borealis_ Mongolian Saiga 
 
@@ -2682,7 +2703,7 @@ _Saiga tatarica_ Saiga Antelope
 
 Camelidae---Guanaco, vicuna _Lama guanicoe_ Guanaco 
 
-_Vicugna vicugna_ Vicuna Only certain wool, cloth, and products derived therefrom from Argentina (populations of Provinces of Jujuy and Catamarca and semi-captive populations of Provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Bolivia (whole population), Chile (population of the Primera region), and Peru (whole population); all other populations are included in Schedule 1\.
+_Vicugna vicugna_ Vicugna Only populations of Argentina (populations of provinces of Jujuy and Catamarca and semi-captive populations of provinces of Jujuy, Salta, Catamarca, La Rioja, and San Juan), Chile (population of Primera Región), Ecuador (whole population), Peru (whole population), and Plurinational State of Bolivia (whole population). All other populations are included in [Schedule 1][75]. Consult Department of Conservation about labelling conditions
 
 Cervidae---Deer, guemals, muntjacs, pudus _Cervus elaphus bactrianus_ Bactrian Wapiti 
 
@@ -2693,12 +2714,12 @@ Hippotamuses _Hexaprotodon liberiensis_ Pygmy Hippopotamus
 
 _Hippopotamus amphibius_ Hippopotamus 
 
-Moschidae---Musk deer _Moschus_ spp. musk deer Except populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan, which are included in Schedule 1\.
+Moschidae---Musk deer _Moschus_ spp Musk Deer Except populations of Afghanistan, Bhutan, India, Myanmar, Nepal, and Pakistan, which are included in [Schedule 1][75]
 
-Tayassuidae---Peccaries Tayassuidae spp. peccaries Except species included in Schedule 1 and the populations of _Pecari tajacu_ of Mexico and USA which are not included in the schedules.
+Tayassuidae---Peccaries Tayassuidae spp Peccaries Except species included in [Schedule 1][75] and populations of _Pecari tajacu_ of Mexico and United States of America, which are not included in the schedules
 
 Carnivora---  
-Carnivores Canidae---Bush dog, foxes, wolves _Canis lupus_ Grey Wolf Except the populations of Bhutan, India, Nepal, and Pakistan, which are included in Schedule 1\.
+Carnivores Canidae---Bush dog, foxes, wolves _Canis lupus_ Grey Wolf Except populations of Bhutan, India, Nepal, and Pakistan, which are included in [Schedule 1][75]. Excludes domesticated form and dingo, which are referenced as _Canus lupus familiaris_ and _Canus lupus dingo_
 
 _Cerdocyon thous_ Crab-eating Fox 
 
@@ -2724,17 +2745,17 @@ _Eupleres goudotii_ Falanouc
 
 _Fossa fossana_ Malagasy Civet 
 
-Felidae---Cats Felidae spp. all cat species Except the species included in Schedule 1\. Specimens of the domesticated form are not subject to the provisions of the Act.
+Felidae---Cats Felidae spp All cat species Except species included in [Schedule 1][75]. Specimens of domesticated form are not subject to provisions of this Act
 
-Mephitidae---Hog-nosed skunk _Conepatus humboldtii_ Humboldt's/Patagonian Hog-nosed Skunk 
+Mephitidae---Hog-nosed skunk _Conepatus humboldtii_ Humboldt's and Patagonian Hog-nosed Skunk 
 
-Mustelidae---Badgers, martens, weasels, etc Lutrinae spp. otters Except the species included in Schedule 1\.
+Mustelidae---Badgers, martens, weasels, etc Lutrinae spp Otters Except species included in [Schedule 1][75]
 
-Otariidae---Fur seals, sealions _Arctocephalus_ spp. fur seals Except the species included in Schedule 1\.
+Otariidae---Fur seals, sea lions _Arctocephalus_ spp Fur Seals Except species included in [Schedule 1][75]
 
 Phocidae---Seals _Mirounga leonina_ Southern Elephant Seal 
 
-Ursidae---Bears, giant panda Ursidae spp. bears Except the populations or species included in Schedule 1\.
+Ursidae---Bears, giant panda Ursidae spp Bears Except species included in [Schedule 1][75]
 
 Viverridae---Binturong, civets, linsangs, otter-civet, palm civets _Cynogale bennettii_ Otter-civet 
 
@@ -2742,13 +2763,16 @@ _Hemigalus derbyanus_ Banded Palm Civet
 
 _Prionodon linsang_ Banded Linsang 
 
-Cetacea---Dolphins, porpoises, whales CETACEA spp. whales, dolphins, porpoises Except the species included in Schedule 1\. Zero annual export quota for live specimens from the Black Sea population of _Tursiops truncatus_ removed from the wild and traded for primarily commercial purposes.
+Cetacea---  
+Dolphins, porpoises, whales Cetacea spp Whales, Dolphins, Porpoises Except species included in [Schedule 1][75]. Zero annual export quota for live specimens from Black Sea population of _Tursiops truncatus_ removed from the wild and traded for primarily commercial purposes
 
-Chiroptera---Bats Pteropodidae---Fruit bats, flying foxes _Acerodon_ spp. flying foxes Except the species included in Schedule 1\.
+Chiroptera---  
+Bats Pteropodidae---Fruit bats, flying foxes _Acerodon_ spp Flying Foxes Except species included in [Schedule 1][75]
 
-_Pteropus_ spp. flying foxes Except the species included in Schedule 1\.
+_Pteropus_ spp Flying Foxes Except _Pteropus brunneus_ and species included in [Schedule 1][75]
 
-Cingulata---Armadillos Dasypodidae---Armadillos _Chaetophractus nationi_ Andean Hairy Armadillo Zero annual export quota. All specimens shall be deemed to be specimens of species included in Schedule 1 and trade in them regulated accordingly.
+Cingulata---  
+Armadillos Dasypodidae---Armadillos _Chaetophractus nationi_ Andean Hairy Armadillo Zero annual export quota. All specimens are deemed to be specimens of species included in [Schedule 1][75], and trade in them is regulated accordingly
 
 Diprotodontia---  
 Kangaroos, wallabies, possums, koala, wombats, and relatives Macropodidae---Kangaroos, wallabies _Dendrolagus inustus_ Grizzled Grey Tree Kangaroo 
@@ -2768,56 +2792,61 @@ _Spilocuscus maculatus_ Common Spotted Cuscus
 _Spilocuscus papuensis_ Black Spotted Cuscus, Waigeao Cuscus 
 
 Monotremata---  
-Monotremes (egg-laying mammals) Tachyglossidae---Echidnas, spiny anteaters _Zaglossus_ spp. New Guinea long-nosed echidnas 
+Monotremes (egg-laying mammals) Tachyglossidae---Echidnas, spiny anteaters _Zaglossus_ spp New Guinea Long-nosed Echidnas 
 
 Perissodactyla---  
-Horses, rhinoceroses, tapirs Equidae---Horses, wild asses, zebras _Equus hemionus_ Asiatic Wild Ass 
+Horses, rhinoceroses, tapirs Equidae---Horses, wild asses, zebras _Equus hemionus_ Asiatic Wild Ass Except subspecies included in [Schedule 1][75]
 
 _Equus kiang_ Kiang 
 
 _Equus zebra hartmannae_ Hartmann's Mountain Zebra 
 
 Rhinocerotidae---  
-Rhinoceroses _Ceratotherium simum simum_ White Rhinoceros Only populations of South Africa and Swaziland for the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Schedule 1 and trade in them is regulated accordingly.
+Rhinoceroses _Ceratotherium simum simum_ White Rhinoceros Only populations of South Africa and Swaziland. All other populations are included in [Schedule 1][75]. For exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens are deemed to be specimens of species included in Schedule 1 and trade in them is regulated accordingly
 
 Tapiridae---Tapirs _Tapirus terrestris_ Brazilian Tapir 
 
 Pholidota---  
-Pangolins Manidae---Pangolins _Manis_ spp. pangolins Zero annual export quota for _Manis crassicaudata_, _M. culionensis_, _M. javanica_, and_M. pentadactyla_ for specimens removed from the wild and traded for primarily commercial purposes.
+Pangolins Manidae---Pangolins _Manis_ spp Pangolins Zero annual export quota for _Manis crassicaudata_, _Manis culionensis_, _Manis javanica_, and_Manis pentadactyla_ for specimens removed from the wild and traded for primarily commercial purposes
 
-Pilosa---Anteaters, Sloths Bradypodidae---Three-toed sloth _Bradypus variegatus_ Bolivian Three-toed Sloth 
+Pilosa---Anteaters, Sloths Bradypodidae---Three-toed sloth _Bradypus pygmaeus_ Pygmy Three-toed Sloth 
+
+_Bradypus variegatus_ Bolivian Three-toed Sloth 
 
 Myrmecophagidae---  
 American anteaters _Myrmecophaga tridactyla_ Giant Anteater 
 
-Primates---Apes, monkeys PRIMATES spp. all monkeys, lemurs, etc Except the species listed in Schedule 1\.
+Primates---Apes, monkeys Primates spp All Monkeys, Lemurs, etc Except species listed in [Schedule 1][75]
 
 Proboscidea---  
-Elephants Elephantidae---elephants _Loxodonta africana_ African Elephant Populations of Botswana, Namibia, South Africa, and Zimbabwe exclusively for---
+Elephants Elephantidae---elephants _Loxodonta africana_ African Elephant Populations of Botswana, Namibia, South Africa, and Zimbabwe only (all other populations are included in [Schedule 1][75]), for the exclusive purpose of allowing---
 
-(1)trade in hunting trophies for non-commercial purposes;
+(a)trade in hunting trophies for non-commercial purposes:
 
-(2)trade in live animals for _in situ_ conservation programmes (Namibia and South Africa) or to appropriate and acceptable destinations (Botswana and Zimbabwe);
+(b)trade in live animals to appropriate and acceptable destinations as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for _in situ_ conservation programmes for Namibia and South Africa:
 
-(3) trade in hides;
+(c) trade in hides:
 
-(4)trade in leather goods: for non-commercial purposes for Zimbabwe; for commercial or non-commercial purposes for Botswana, Namibia, and South Africa;
+(d)trade in hair:
 
-(5) trade in hair;
+(e)trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia, and South Africa and for non-commercial purposes for Zimbabwe:
 
-(6)trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe;
+(f)trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia, and ivory carvings for non-commercial purposes for Zimbabwe:
 
-(7)trade in registered raw ivory (for Botswana, Namibia, South Africa, and Zimbabwe, whole tusks and pieces: subject to certain conditions (consult DOC for details)). All other specimens from these 3 countries are included in Schedule 1\.
+(g)trade in registered raw ivory (for Botswana, Namibia, South Africa, and Zimbabwe, whole tusks and pieces) subject to certain conditions (consult Department of Conservation for details):
 
-Rodentia---Rodents Sciuridae---Ground squirrels, tree squirrels _Ratufa_ spp. giant squirrels 
+(h)no further proposals to allow trade in elephant ivory from populations included in Schedule 2 may be submitted for a specified period of time (consult Department of Conservation for details)
+
+On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations. All other specimens are deemed to be specimens of species included in [Schedule 1][75] and the trade in them is regulated accordingly
+
+Rodentia---Rodents Sciuridae---Ground squirrels, tree squirrels _Ratufa_ spp Giant Squirrels 
 
 Scandentia---  
-Tree shrews Tupaiidae---Tree shrews SCANDENTIA spp. tree shrews 
+Tree shrews Scandentia spp Tree Shrews 
 
-Sirenia---Sirenians (sea cows)  
-Trichechidae---Manatees _Trichechus senegalensis_ West African Manatee 
+##### Class---Aves (birds)
 
-**AVES---BIRDS**
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Anseriformes---  
 Waterfowl Anatidae---Ducks, geese, swans, etc _Anas bernieri_ Madagascar Teal 
@@ -2837,14 +2866,14 @@ _Oxyura leucocephala_ White-headed Duck
 _Sarkidiornis melanotos_ Comb Duck, Knob-billed Goose 
 
 Apodiformes---  
-Swifts, hummingbirds Trochilidae---Hummingbirds Trochilidae spp. hummingbirds Except the species included in Schedule 1\.
+Swifts, hummingbirds Trochilidae---Hummingbirds Trochilidae spp Hummingbirds Except species included in [Schedule 1][75]
 
 Ciconiiformes---  
 Storks, herons, bitterns, etc Balaenicipitidae---Shoebill, whale-headed stork _Balaeniceps rex_ Shoebill, Whale-headed Stork 
 
 Ciconiidae---Storks _Ciconia nigra_ Black Stork 
 
-Phoenicopteridae---Flamingos Phoenicopteridae spp. flamingos 
+Phoenicopteridae---Flamingos Phoenicopteridae spp Flamingos 
 
 Threskiornithidae---Ibises, spoonbills _Eudocimus ruber_ Scarlet Ibis 
 
@@ -2855,28 +2884,29 @@ _Platalea leucorodia_ Eurasian Spoonbill, White Spoonbill
 Columbiformes---  
 Doves, pigeons Columbidae---Doves, pigeons _Gallicolumba luzonica_ Bleeding Heart Pigeon 
 
-_Goura_ spp. Crowned or Goura Pigeons 
+_Goura_ spp Crowned or Goura Pigeons 
 
 Coraciiformes---  
-Kingfishers and relatives Bucerotida---Hornbills _Aceros_ spp. hornbills Except the species included in Schedule 1\.
+Kingfishers and relatives Bucerotida---Hornbills _Aceros_ spp Hornbills Except species included in [Schedule 1][75]
 
-_Anorrhinus_ spp. hornbills 
+_Anorrhinus_ spp Hornbills 
 
-_Anthracoceros_ spp. hornbills 
+_Anthracoceros_ spp Hornbills 
 
-_Berenicornis_ spp. hornbills 
+_Berenicornis_ spp Hornbills 
 
-_Buceros_ spp. hornbills Except the species included in Schedule 1\.
+_Buceros_ spp Hornbills Except species included in [Schedule 1][75]
 
-_Penelopides_ spp. hornbills 
+_Penelopides_ spp Hornbills 
 
-_Rhyciteros_ spp. hornbills Except the species included in Schedule 1\.
+_Rhyticeros_ spp Hornbills Except species included in [Schedule 1][75]
 
 Cuculiformes---  
-Cuckoos and relatives Musophagidae---Turacos _Tauraco_ spp. all species of turaco 
+Cuckoos and relatives Musophagidae---  
+Turacos _Tauraco_ spp All species of Turaco 
 
 Falconiformes---  
-Eagles, falcons, hawks, vultures FALCONIFORMES spp. all birds of prey Except the species included in Schedules 1 and 3 and the species of the family Cathartidae.
+Eagles, falcons, hawks, vultures Falconiformes spp All birds of prey Except _Caracara lutosa_ and the species of the family Cathartidae, which are not included in the schedules, and the species included in [Schedules 1][75] and [3][77]
 
 Galliformes---  
 Megapodes, curassows, pheasants, quails, and relatives Phasianidae---Grouse, guineafowl, partridges, pheasants, tragopans _Argusianus argus_ Great Argus 
@@ -2895,12 +2925,14 @@ _Polyplectron malacense_ Malay Peacock Pheasant
 
 _Polyplectron schleiermacheri_ Bornean Peacock Pheasant 
 
-Gruiformes---Coots, cranes, rails Gruidae---Cranes Gruidae spp. cranes Except the species included in Schedule 1\.
+_Tympanuchus cupido attwateri_ Attwater's Prairie Chicken 
 
-Otididae---Bustards Otididae spp. bustards Except the species included in Schedule 1\.
+Gruiformes---Coots, cranes, rails Gruidae---Cranes Gruidae spp Cranes Except species included in [Schedule 1][75]
+
+Otididae---Bustards Otididae spp Bustards Except species included in [Schedule 1][75]
 
 Passeriformes---  
-Passerines (perching birds) Cotingidae---Cotingas _Rupicola_ spp. cocks-of-the-rock 
+Passerines (perching birds) Cotingidae---Cotingas _Rupicola_ spp Cocks-of-the-rock 
 
 Emberizidae---Cardinals, tanagers _Gubernatrix cristata_ Yellow Cardinal 
 
@@ -2930,17 +2962,19 @@ _Leiothrix lutea_ Pekin Robin
 
 _Liocichla omeiensis_ Mount Omei Liocichla 
 
-Paradisaeidae---Birds of paradise Paradisaeidae spp. birds of paradise 
+Paradisaeidae---Birds of paradise Paradisaeidae spp Birds of Paradise 
 
 Pittidae---Pittas _Pitta guajana_ Blue-tailed Pitta 
 
 _Pitta nympha_ Fairy Pitta 
 
-Pycnonotidae---Bulbul _Pycnonotus zeylanicus_ Straw-crowned Bulbul 
+Pycnonotidae---  
+Bulbul _Pycnonotus zeylanicus_ Straw-crowned Bulbul 
 
 Sturnidae---Mynahs (starlings) _Gracula religiosa_ Hill Myna 
 
-Piciformes---Woodpeckers and relatives Ramphastidae---Toucans _Pteroglossus aracari_ Black-necked Aracari 
+Piciformes---Woodpeckers and relatives Ramphastidae---  
+Toucans _Pteroglossus aracari_ Black-necked Aracari 
 
 _Pteroglossus viridis_ Green Aracari 
 
@@ -2953,7 +2987,7 @@ _Ramphastos tucanus_ Red-billed Toucan
 _Ramphastos vitellinus_ Channel-billed Toucan 
 
 Psittaciformes---  
-Parrots PSITTACIFORMES spp. all parrots and allies Except the species included in Schedule 1 and Schedule 3, and excluding _Agapornis roseicollis_ (Peach-faced or Rosy-faced Lovebird), _Melopsittacus undulatus_ (Budgerigar), _Nymphicus hollandicus_ (Cockatiel), and _Psittacula krameri _(Ring-necked Parakeet), which are not included in the schedules.
+Parrots Psittaciformes spp All parrots and allies Except species included in [Schedule 1][75], and _Agapornis roseicollis_ (Peach-faced or Rosy-faced Lovebird), _Melopsittacus undulatus_ (Budgerigar), _Nymphicus hollandicus_ (Cockatiel), and _Psittacula krameri _(Ring-necked Parakeet), which are not included in the schedules
 
 Rheiformes---Rheas Rheidae---Rheas _Pterocnemia pennata pennata_ Southern Lesser Rhea 
 
@@ -2962,52 +2996,64 @@ _Rhea americana_ Greater Rhea
 Sphenisciformes---  
 Penguins Spheniscidae---Penguins _Spheniscus demersus_ Jackass Penguin 
 
-Strigiformes---Owls STRIGIFORMES spp. owls Except the species included in Schedule 1\.  
+Strigiformes---Owls Strigiformes spp Owls Except _Sceloglaux albifacies_ and species included in [Schedule 1][75]
 
-**REPTILIA---REPTILES**
+##### Class---Reptilia (reptiles)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Crocodylia---  
-Alligators, caimans, crocodiles CROCODYLIA spp. crocodiles, alligators, caimans, and gharials Except the species included in Schedule 1\.
+Alligators, caimans, crocodiles Crocodylia spp Crocodiles, Alligators, Caimans, Gharials Except species included in [Schedule 1][75]
 
-Sauria---Lizards Agamidae---Agamas, mastigures _Uromastyx_ spp. spiny-tailed lizards 
+Sauria---  
+Lizards Agamidae---Agamas, mastigures _Saara_ spp Spiny-tailed Lizards 
 
-Chamaeleonidae---Chameleons _Bradypodion_ spp. dwarf chameleons 
+_Uromastyx_ spp Spiny-tailed Lizards 
 
-_Brookesia_ spp. leaf chameleons Except the species included in Schedule 1\.
+Chamaeleonidae---  
+Chameleons _Archaius_ spp Seychelles Tiger Chameleon 
 
-_Calumma_ spp. chameleons 
+_Bradypodion_ spp Dwarf Chameleons 
 
-_Chamaeleo_ spp. chameleons 
+_Brookesia_ spp Leaf Chameleons Except species included in [Schedule 1][75]
 
-_Furcifer_ spp. chameleons 
+_Calumma_ spp Chameleons 
 
-_Kinyongia_ spp. chameleons 
+_Chamaeleo_ spp Chameleons 
 
-_Nadzikambia_ spp. chameleons 
+_Furcifer_ spp Chameleons 
 
-Cordylidae---Spiny-tailed lizards _Cordylus_ spp. crag lizards, girdled lizards, spiny-tailed lizards 
+_Kinyongia_ spp Chameleons 
 
-Gekkonidae---Geckos _Cyrtodactylus serpensinsula_ Serpent Island Gecko 
+_Nadzikambia_ spp Chameleons 
 
-_Phelsuma_ spp. day geckos 
+_Trioceros_ spp Chameleons 
 
-_Uroplatus_ spp. leaf-tailed geckos 
+Cordylidae---Spiny-tailed lizards _Cordylus_ spp Crag Lizards, Girdled Lizards, Spiny-tailed Lizards 
 
-Helodermatidae---Beaded lizards, gila monster _Heloderma_ spp. poisonous lizards Except the subspecies included in Schedule 1\.
+Gekkonidae---Geckos _Nactus serpensinsula_ Serpent Island Gecko 
+
+_Naultinus_ spp New Zealand Tree Geckos 
+
+_Phelsuma_ spp Day Geckos 
+
+_Uroplatus_ spp Leaf-tailed Geckos 
+
+Helodermatidae---Beaded lizards, gila monster _Heloderma_ spp Poisonous Lizards Except subspecies included in [Schedule 1][75]
 
 Iguanidae---Iguanas _Amblyrhynchus cristatus_ Galapagos Marine Iguana 
 
-_Conolophus_ spp. Galapagos land iguanas 
+_Conolophus_ spp Galapagos Land Iguanas 
 
 _Ctenosaura bakeri_ Utila Spiny-tailed Iguana 
 
-_Ctenosaura melanosterna_ Rio Agua Spiny-tailed Iguana 
+_Ctenosaura melanosterna_ Rio Aguá Spiny-tailed Iguana 
 
 _Ctenosaura oedirhina_ Roatan Spiny-tailed Iguana 
 
-_Ctenosaura palearis_ Guatemalan Black Iguana / Spiny-tailed Iguana 
+_Ctenosaura palearis_ Guatemalan Black Iguana, Spiny-tailed Iguana 
 
-_Iguana_ spp. iguanas 
+_Iguana_ spp Iguanas 
 
 _Phrynosoma blainvillii_ Blainville's Horned Lizard, San Diego Horned Lizard 
 
@@ -3021,19 +3067,22 @@ Lacertidae---Lizards _Podarcis lilfordi_ Lilford's Wall Lizard
 
 _Podarcis pityusensis_ Ibiza Wall Lizard 
 
+Scincidae---Skinks _Corucia zebrata_ Prehensile-tailed Skink 
+
 Teiidae---Caiman lizards, tegu lizards _Crocodilurus amazonicus_ Crocodile Tegu 
 
-_Dracaena_ spp. Caiman lizards 
+_Dracaena_ spp Caiman lizards 
 
-_Tupinambis_ spp. tegus 
+_Tupinambis_ spp Tegus 
 
-Varanidae---Monitor lizards _Varanus_ spp. monitors Except the species included in Schedule 1\.
+Varanidae---Monitor lizards _Varanus_ spp Monitors Except species included in [Schedule 1][75]
 
-Xenosauridae---Knob-scaled lizards _Shinisaurus crocodilurus_ Chinese Crocodile Lizard 
+Xenosauridae---Chinese crocodile lizards _Shinisaurus crocodilurus_ Chinese Crocodile Lizard 
 
-Serpentes---Snakes Boidae---Boas Boidae spp. all boas, pythons, anacondas Except the species included in Schedule 1\.
+Serpentes---  
+Snakes Boidae---Boas Boidae spp All Boas, Pythons, Anacondas Except species included in [Schedule 1][75]
 
-Bolyeriidae---Round Island boas Bolyeriidae spp. Round Island boas Except the species included in Schedule 1\.
+Bolyeriidae---Round Island boas Bolyeriidae spp Round Island Boas Except species included in [Schedule 1][75]
 
 Colubridae---Typical snakes, water snakes, whipsnakes _Clelia clelia_ Mussurana 
 
@@ -3069,206 +3118,319 @@ _Naja sumatrana_ Sumatran Cobra, Equatorial Spitting Cobra
 
 _Ophiophagus hannah_ King Cobra 
 
-Loxocemidae---Burrowing python Loxocemidae spp. Burrowing Python 
+Loxocemidae---Mexican dwarf boa Loxocemidae spp New World pythons 
 
-Pythonidae---Pythons Pythonidae spp. true pythons Except the species included in Schedule 1\.
+Pythonidae---Pythons Pythonidae spp True Pythons Except subspecies included in [Schedule 1][75]
 
-Tropidophiidae---Wood boas Tropidophiidae spp. wood boas 
+Tropidophiidae---Wood boas Tropidophiidae spp Wood Boas 
 
-Viperidae---Vipers _Vipera wagneri_ Iranian Viper 
+Viperidae---Vipers _Trimeresurus mangshanensis_ Mangshan Pit Viper 
 
-Testudines ---Turtles, tortoises Carettochelyidae---Pig-nosed turtles _Carettochelys insculpta_ Pig-nosed Turtle 
+_Vipera wagneri_ Iranian Viper 
 
-Chelidae---Austro-American side-necked turtles _Chelodina mccordi_ Roti Snake-necked Turtle 
+Testudines---  
+Turtles, tortoises Carettochelyidae---Pig-nosed turtles _Carettochelys insculpta_ Pig-nosed Turtle 
+
+Chelidae---Austro-American side-necked turtles _Chelodina mccordi_ Roti Snake-necked Turtle Zero export quota from the wild
 
 Dermatemydidae---  
 Central American river turtle _Dermatemys mawii_ Central American River Turtle 
 
-Emydidae---Box turtles, freshwater turtles _Glyptemys insculpta_ Wood Turtle 
+Emydidae---Box turtles, freshwater turtles _Clemmys guttata_ Spotted Turtle 
 
-_Terrapene_ spp. American box turtles Except the species included in Schedule 1\.
+_Emydoidea blandingii_ Blanding's Turtle 
 
-Geoemydidae ---Box turtles, freshwater turtles _Batagur_ spp. box turtles 
+_Glyptemys insculpta_ Wood Turtle 
 
-_Cuora_ spp. Asian box turtles 
+_Malaclemys terrapin_ Diamondback Terrapin 
 
-_Heosemys annandalii_ Yellow-headed Temple Turtle 
+_Terrapene_ spp American Box Turtles Except species included in [Schedule 1][75]
 
-_Heosemys depressa_ Arakan Forest Turtle 
+Geoemydidae---Box turtles, freshwater turtles _Batagur borneoensis_ Painted Batagur, Painted Terrapin, Saw-jawed Turtle, Three-striped Batagur Zero quota for wild specimens for commercial purposes
+
+_Batagur dhongoka_ Three-striped Roof Turtle 
+
+_Batagur kachuga_ Bengal Roof Turtle, Red-crowned Roofed Turtle, Sail Terrapin 
+
+_Batagur trivittata_ Burmese Roofed Turtle Zero quota for wild specimens for commercial purposes
+
+_Cuora_ spp Asian Box Turtles Zero quota for wild specimens for commercial purposes for_Cuora aurocapitata, Cuora flavomarginata, Cuora galbinifrons, Cuora mccordi, Cuora mouhotii, Cuora pani, Cuora trifasciata, Cuora yunnanensis_, and _Cuora zhoui_
+
+_Cyclemys_ spp Asian Leaf Turtles 
+
+_Geoemyda japonica_ Ryukyu Black-breasted Leaf Turtle 
+
+_Geoemyda spengleri_ Black-breasted Leaf Turtle 
+
+_Hardella thurjii_ Brahminy River Turtle 
+
+_Heosemys annandalii_ Yellow-headed Temple Turtle Zero quota for wild specimens for commercial purposes
+
+_Heosemys depressa_ Arakan Forest Turtle Zero quota for wild specimens for commercial purposes
 
 _Heosemys grandis_ Giant Asian Pond Turtle 
 
 _Heosemys spinosa_ Spiny Terrapin, Spiny Turtle, Sunburst Turtle 
 
-_Kachuga_ spp. roofed turtles 
-
 _Leucocephalon yuwonoi_ Sulawesi Forest Turtle 
 
-_Malayemys macrocephala_ Snail-eating Turtle 
+_Malayemys macrocephala_ Malayan Snail-eating Turtle 
 
-_Malayemys subtrijuga_ Ricefield Turtle 
+_Malayemys subtrijuga_ Malayan Snail-eating Turtle 
 
-_Mauremys annamensis_ Annam Leaf Turtle, Annam Pond Turtle 
+_Mauremys annamensis_ Annam Leaf Turtle, Annam Pond Turtle Zero quota for wild specimens for commercial purposes
+
+_Mauremys japonica_ Japanese Pond Turtle 
 
 _Mauremys mutica_ Yellow Pond Turtle 
 
+_Mauremys nigricans_ Red-necked Pond turtle, Kwangchung River Turtle 
+
+_Melanochelys trijuga_ Indian Black Turtle 
+
+_Morenia petersi_ Indian Eyed Turtle 
+
 _Notochelys platynota_ Malayan Flat-shelled Turtle 
 
-_Orlitia borneensis_ Bornean River Turtle, Malaysian Giant Turtle 
+_Orlitia borneensis_ Bornean River Turtle, Malaysian Giant Turtle Zero quota for wild specimens for commercial purposes
 
-_Pangshura_ spp. Indian roofed turtles Except the species included in Schedule 1\.
+_Pangshura_ spp Indian Roofed Turtles Except species included in [Schedule 1][75]
+
+_Sacalia bealei_ Beal's Eyed Turtle, Eye-spotted Turtle 
+
+_Sacalia quadriocellata_ Four-eyed Turtle 
 
 _Siebenrockiella crassicollis_ Black Marsh Turtle 
 
 _Siebenrockiella leytensis_ Leyte Pond Turtle 
 
-Platysternidae---Big-headed turtle _Platysternon megacephalum_ Big-headed Turtle 
+_Vijayachelys silvatica_ Cane Turtle, Kavalai Forest Turtle 
 
 Podocnemididae---Afro-American side-necked turtles _Erymnochelys madagascariensis_ Madagascar Big-headed Side-neck Turtle 
 
 _Peltocephalus dumerilianus_ Big-headed Amazon River Turtle 
 
-_Podocnemis_ spp. South American river turtles 
+_Podocnemis_ spp South American River Turtles 
 
-Testudinidae---Tortoises Testudinidae spp. tortoises Except the species included in Schedule 1\. A zero annual export quota has been established for _Geochelone sulcata_ for specimens removed from the wild and traded for primarily commercial purposes.
+Testudinidae---Tortoises Testudinidae spp Tortoises Except species included in [Schedule 1][75]. Zero annual export quota has been established for _Geochelone sulcata_ for specimens removed from the wild and traded for primarily commercial purposes
 
 Trionychidae---Softshell turtles, terrapins _Amyda cartilaginea_ South-East Asian Softshell Turtle 
 
-_Chitra_ spp. narrow-headed softshell turtles 
+_Chitra_ spp Narrow-headed Softshell Turtles Except species included in [Schedule 1][75]
 
-_Lissemys punctata_ Indian Flap-shelled Turtle 
+_Dogania subplana_ Malayan Softshell Turtle 
+
+_Lissemys celonensis_ Sri Lankan Flapshell Turtle 
+
+_Lissemys punctata_ Indian Flapshell Turtle 
 
 _Lissemys scutata_ Burmese Flapshell Turtle 
 
-_Pelochelys_ spp. giant softshell turtles  
+_Nilssonia formosa_ Burmese Peacock Softshell 
 
-**AMPHIBIA---AMPHIBIANS**
+_Nilssonia leithii_ Leith's Softshell Turtle 
 
-Anura---Frogs, toads Dendrobatidae---Poison frogs _Allobates femoralis_ Brilliant-thighed Poison Frog 
+_Palea steindachneri_ Wattle-necked Softshell Turtle 
 
-_Allobates zaparo_ Sanguine Poison Frog 
+_Pelochelys_ spp Giant Softshell Turtles 
 
-_Cryptophyllobates azureiventris_ Sky-blue Poison Frog 
+_Pelodiscus axenaria_ Chinese Softshell Turtle 
 
-_Dendrobates_ spp. poison frogs 
+_Pelodiscus maackii_ Chinese Softshell Turtle 
 
-_Epipedobates_ spp. poison frogs 
+_Pelodiscus parviformis_ Chinese Softshell Turtle 
 
-_Phyllobates_ spp. poison frogs 
+_Rafetus swinhoei_ Yangtze Softshell Turtle 
 
-Hylidae---Tree frogs _Agalychnis_ spp. Central American tree frogs 
+##### Class---Amphibia (amphibians)
 
-Mantellidae---Mantellas _Mantella_ spp. Mantellas 
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-Microhylidae---Red rain frog, tomato frog _Scaphiophryne gottlebei_ Rainbow Burrowing Frog 
+Anura---Frogs, toads Aromobatidae---  
+Fragrant frogs _Allobates femoralis_ Brilliant-thighed Poison Frog 
 
-Ranidae---Frogs _Euphlyctis hexadactylus_ Six-fingered Frog 
+_Allobates hodli_ Poison Frog 
+
+_Allobates myersi_ Myers's Poison Frog 
+
+_Allobates rufulus_ Chimantá Poison Frog, Gorzula's Poison Frog, Tepui Poison Frog 
+
+_Allobates zaparo_ Sanguine Poison Frog, Zaparo's Poison Frog 
+
+Dendrobatidae---  
+Poison frogs _Adelphobates_ spp Poison Dart Frogs 
+
+_Ameerega_ spp Poison Dart Frogs 
+
+_Andinobates_ spp Poison Dart Frogs 
+
+_Dendrobates_ spp Poison Dart Frogs 
+
+_Epipedobates_ spp Poison Dart Frogs 
+
+_Excidobates_ spp Poison Dart Frogs 
+
+_Hyloxalus azureiventris_ Sky-blue Poison Frog 
+
+_Minyobates_ spp Poison Dart Frogs 
+
+_Oophaga_ spp Poison Dart Frogs 
+
+_Phyllobates_ spp Poison Dart Frogs 
+
+_Ranitomeya_ spp Poison Dart Frogs 
+
+Dicroglossidae---Frogs _Euphlyctis hexadactylus_ Six-fingered Frog 
 
 _Hoplobatrachus tigerinus_ Indian Bullfrog 
 
-Rheobatrachidae---Gastric-brooding frogs _Rheobatrachus_ spp. gastric-brooding frogs 
+Hylidae---Tree frogs _Agalychnis_ spp Central American Tree Frogs 
 
-Caudata---Salamanders Ambystomidae---Axolotls _Ambystoma dumerilii_ Lake Patzcuaro Salamander 
+Mantellidae---Mantellas _Mantella_ spp Mantellas 
 
-_Ambystoma mexicanum_  
-Axolotl 
+Microhylidae---Red rain frog, tomato frog _Scaphiophryne gottlebei_ Rainbow Burrowing Frog 
 
-**ELASMOBRANCHII---SHARKS**
+Rheobatrachidae---Gastric-brooding frogs _Rheobatrachus_ spp Gastric-brooding Frogs Except _Rheobatrachus silus_ and _Rheobatrachus vitellinus_
+
+Caudata---Salamanders Ambystomidae---  
+Axolotls _Ambystoma dumerilii_ Lake Patzcuaro Salamander 
+
+_Ambystoma mexicanum_ Axolotl 
+
+##### Class---Elasmobranchii (sharks)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
+
+Carcharhiniformes---Ground sharks Carcharhinidae---  
+Requim sharks _Carcharhinus longimanus_ Oceanic Whitetip Shark 
+
+Sphyrnidae---  
+Hammerhead sharks _Sphyrna lewini_ Scalloped Hammerhead 
+
+_Sphyrna mokarran_ Great Hammerhead 
+
+_Sphyrna zygaena_ Smooth Hammerhead 
 
 Lamniformes---  
-Mackerel sharks Cetorhinidae---Basking Shark _Cetorhinus maximus_ Basking Shark 
+Mackerel sharks Cetorhinidae---Basking shark _Cetorhinus maximus_ Basking Shark 
 
-Lamnidae---Great White Shark _Carcharodon carcharias_ Great White Shark 
+Lamnidae---Mackerel sharks _Carcharodon carcharias_ Great White Shark 
+
+_Lamna nasus_ Porbeagle 
 
 Orectolobiformes---  
-Carpet sharks Rhincodontidae---Whale Shark _Rhincodon typus_ Whale Shark 
+Carpet sharks Rhincodontidae---Whale shark _Rhincodon typus_ Whale Shark 
 
-Rajiformes---Skates Pristidae---Sawfishes _Pristis microdon_ Freshwater Sawfish For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable aquaria for primarily conservation purposes.  
+Rajiformes---Rays, skates Mobulidae---Mobulid rays _Manta_ spp Manta Ray 
 
-**ACTINOPTERYGII---FISH**
+##### Class---Actinopterygii (fish)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Acipenseriformes---  
-Paddlefish, sturgeons ACIPENSERIFORMES spp. sturgeons Except the species included in Schedule 1\.
+Paddlefish, sturgeons Acipenseriformes spp Sturgeons Except species included in [Schedule 1][75]
 
 Anguilliformes---  
-Eels _Anguilla anguilla_ European Eel 
+Eels Anguillidae---Freshwater eels _Anguilla anguilla_ European Eel 
 
 Cypriniformes---  
-Minnows, suckers Cyprinidae---Blind carps, plaeesok _Caeocobarbus geertsi_ African Blind Barb 
+Minnows, suckers Cyprinidae---Blind carps, plaeesok _Caeocobarbus geertsi_ African Blind Barb Fish 
 
 Osteoglossiformes---  
-Bonytongues Osteoglossidae---Arapaima, Bonytongue _Arapaima gigas_ Arapaima 
+Bonytongues Arapaimidae---Arapaimas _Arapaima gigas_ Arapaima 
 
 Perciformes---  
 Perch-like fishes Labridae---Wrasses _Cheilinus undulatus_ Humphead Wrasse 
 
 Syngnathiformes---  
-Pipefishes, seahorses  
-Syngnathidae---Pipefishes, seahorses _Hippocampus_ spp. seahorses 
+Pipefishes, seahorses Syngnathidae---Pipefishes, seahorses _Hippocampus_ spp Seahorses 
 
-**SARCOPTERYGII---LUNGFISHES**
+##### Class---Sarcopterygii (lungfishes)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Ceratodontiformes---  
-Australian Lungfish  
-Ceratodontidae---Australian lungfish _Neoceratodus forsteri_ Australian Lungfish 
+Australian Lungfish Ceratodontidae---Australian lungfish _Neoceratodus forsteri_ Australian Lungfish 
 
-**ARACHNIDA---SPIDERS**
+#### Phylum---Arthropoda
 
-Araneae---Spiders Theraposidae---Red-kneed tarantulas, tarantulas _Aphonopelma albiceps_ Curly-hair Tarantula 
+##### Class---Arachnida (scorpions and spiders)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
+
+Araneae---  
+Spiders Theraposidae---Red-kneed tarantulas, tarantulas _Aphonopelma albiceps_ Curly-hair Tarantula 
 
 _Aphonopelma pallidum_ Mexican Grey Tarantula 
 
-_Brachypelma_ spp. Mexican/Central American tarantulas 
+_Brachypelma_ spp Mexican and Central American Tarantulas 
 
 Scorpiones---  
 Scorpions _Pandinus dictator_ Scorpion 
 
 _Pandinus gambiensis_ Giant Senegalese Scorpion 
 
-_Pandinus imperator_  
-Emperor Scorpion 
+_Pandinus imperator_ Emperor Scorpion 
 
-**INSECTA---INSECTS**
+##### Class---Insecta (insects)
 
-Coleoptera---Beetles Scarabaeidae---Scarab beetles _Dynastes satanas_ Satanas Beetle 
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-Lepidoptera---Butterflies, moths Papilionidae---Birdwing butterflies, swallowtail butterflies _Atrophaneura jophon_ Sri Lankan Rose, Ceylon Rose 
+Coleoptera---  
+Beetles Scarabaeidae---Scarab beetles _Dynastes satanas_ Satanas Beetle 
+
+Lepidoptera---  
+Butterflies, moths Papilionidae---Birdwing butterflies, swallowtail butterflies _Atrophaneura jophon_ Sri Lankan Rose, Ceylon Rose 
 
 _Atrophaneura pandiyana_ 
 
-_Bhutanitis_ spp. swallowtail butterflies 
+_Bhutanitis_ spp Swallowtail Butterflies 
 
-_Ornithoptera_ spp. birdwing butterflies Except the species included in Schedule 1\.
+_Ornithoptera_ spp Birdwing Butterflies Except species included in [Schedule 1][75]
+
+_Papilio hospiton_ Corsican Swallowtail 
 
 _Parnassius apollo_ Apollo Butterfly 
 
-_Teinopalpus_ spp. kaiserihinds 
+_Teinopalpus_ spp Kaiserihinds 
 
-_Trogonoptera_ spp. birdwing butterflies 
+_Trogonoptera_ spp Birdwing Butterflies 
 
-_Troides_ spp. birdwing butterflies  
+_Troides_ spp Birdwing Butterflies 
 
-**HIRUDINOIDEA---LEECHES**
+#### Phylum---Annelida
+
+##### Class---Hirudinoidea (leeches)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Arhynchobdellida---  
 Leeches Hirudinidae---Medicinal leech _Hirudo medicinalis_ Medicinal Leech 
 
-_Hirudo verbana_ Southern Medicinal Leech  
+_Hirudo verbana_ Southern Medicinal Leech 
 
-**BIVALVIA---CLAMS, MUSSELS**
+#### Phylum---Mollusca
 
-Mytiloida---Common mussels Mytilidae---Marine mussels _Lithophaga lithophaga_ Mediterranean Date Mussel 
+##### Class---Bivalvia (clams and mussels)
 
-Unionida---Freshwater mussels Unionidae---Freshwater mussels, pearly mussels _Cyprogenia aberti_ Edible Pearly Mussel 
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
+
+Mytiloida---  
+Common mussels Mytilidae---Marine mussels _Lithophaga lithophaga_ Mediterranean Date Mussel 
+
+Unionida---  
+Freshwater mussels Unionidae---Freshwater mussels, pearly mussels _Cyprogenia aberti_ Edible Pearly Mussel 
 
 _Epioblasma torulosa rangiana_ Tan-blossomed Pearly Mussel 
 
 _Pleurobema clava_ Clubshell Pearly Mussel 
 
-Veneroida---clams, cockles, zebra mussels  
-Tridacnidae---Giant Clams Tridacnidae spp. giant clams 
+Veneroida---  
+Clams, cockles, zebra mussels Tridacnidae---Giant Clams Tridacnidae spp Giant Clams 
 
-**GASTROPODA---SNAILS AND CONCHES**
+##### Class---Gastropoda (snails and conches)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Mesogastropoda---  
 Prosobranchs Strombidae---Queen Conch _Strombus gigas_ Queen Conch 
@@ -3277,207 +3439,238 @@ Stylommatophora---
 Terrestrial snails and slugs  
 Camaenidae---Green tree snail _Papustyla pulcherrima_ Manus Green Tree Snail 
 
-**ANTHOZOA---CORALS, SEA ANEMOMES**
+#### Phylum---Cnidaria
+
+##### Class---Anthozoa (corals and sea anemones)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
 Antipatharia---  
-Black corals ANTIPATHARIA spp. all black corals 
+Black corals Antipatharia spp All Black Corals 
 
 Helioporacea---  
-Blue corals Helioporidae---Blue corals Helioporidae spp. blue corals, blue ridge corals Excluding fossils; includes only the species _Heliopora coerulea_.
+Blue corals Helioporidae---Blue corals Helioporidae spp Blue Corals, Blue Ridge Corals Excluding fossils; includes only species _Heliopora coerulea_
 
 Scleractinia---  
-Stony corals SCLERACTINIA spp. all brown stem cluster corals, brush corals, rose tree corals, white lace corals, cauliflower corals Excluding fossils.
+Stony corals Scleractinia spp All Brown Stem Cluster Corals, Brush Corals, Rose Tree Corals, White Lace Corals, Cauliflower Corals Excluding fossils
 
 Stolonifera---  
-Organ-pipe corals  
-Tubiporidae---Organ-pipe corals Tubiporidae spp. organpipe corals Excluding fossils.
+Organ-pipe corals Tubiporidae---Organ-pipe corals Tubiporidae spp Organpipe Corals Excluding fossils
 
-**HYDROZOA---SEA FERNS, FIRE CORALS, STINGING MEDUSAE**
+##### Class---Hydrozoa (sea ferns, fire corals, and stinging medusae)
 
-Milleporina---Fire corals Milleporidae---Fire corals Milleporidae spp. fire corals, yellow fire corals, stinging corals Excluding fossils.
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
+
+Milleporina---Fire corals Milleporidae---Fire corals Milleporidae spp Fire Corals, Yellow Fire Corals, Stinging Corals Excluding fossils
 
 Stylasterina---  
-Lace corals  
-Stylasteridae---Lace corals Stylasteridae spp. lace corals Excluding fossils.
+Lace corals Stylasteridae---Lace corals Stylasteridae spp Lace Corals Excluding fossils
 
-**FLORA---PLANTS**
+## Part 2  
+Flora (plants)
 
-Agavaceae---Agaves _Agave victoriae-reginae_ queen agave \#4
+**Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations**
 
-_Nolina interrata_ Dehesa bear-grass, San Diego bear grass 
+Agavaceae---Agaves _Agave victoriae-reginae_ Queen Agave \#4
 
-Amaryllidaceae---Snowdrops, sternbergias _Galanthus_ spp. snowdrops \#4
+_Nolina interrata_ Dehesa Bear-grass, San Diego Bear Grass 
 
-_Sternbergia_ spp. sternbergias \#4
+_Yucca queretaroensis_ Queretaro Yucca 
 
-Anacardiaceae---Cashews _Operculicarya hyphaenoides_ jabihy 
+Amaryllidaceae---Snowdrops, sternbergias _Galanthus_ spp Snowdrops \#4
 
-_Operculicarya pachypus_ tabily 
+_Sternbergia_ spp Sternbergias \#4
 
-Apocynaceae---Elephant trunks, hoodias _Hoodia_ spp. Hoodia \#9
+Anacardiaceae---Cashews _Operculicarya decaryi_ Jabily, Elephant Tree 
 
-_Pachypodium_ spp. elephant trunks \#4; except the species included in Schedule 1\.
+_Operculicarya hyphaenoides_ Jabihy 
 
-_Rauvolfia serpentina_ snake-root, devil-pepper \#2
+_Operculicarya pachypus_ Tabily 
 
-Araliaceae---Ginseng _Panax ginseng_ red ginseng \#3; only the population of the Russian Federation; no other population is included in the schedules.
+Apocynaceae---Elephant trunks, hoodias _Hoodia_ spp Hoodia \#9
 
-_Panax quinquefolius_ American ginseng \#3
+_Pachypodium_ spp Elephant Trunks \#4; except species included in [Schedule 1][75]
 
-Berberidaceae---May-Apple _Podophyllum hexandrum_ Himalayan may-apple \#2
+_Rauvolfia serpentina_ Snake-root, Devil-pepper \#2
 
-Bromeliaceae---Air plants, bromelias _Tillandsia harrisii_ Harris' tillandsia \#4
+Araliaceae---Ginseng _Panax ginseng_ Red Ginseng \#3; only population of Russian Federation. No other population is included in the schedules
 
-_Tillandsia kammii_ Kamm's tillandsia \#4
+_Panax quinquefolius_ American Ginseng \#3
 
-_Tillandsia kautskyi_ Kautsky's tillandsia \#4
+Berberidaceae---May-apple _Podophyllum hexandrum_ Himalayan May-apple \#2
 
-_Tillandsia mauryana_ Maury's tillandsia \#4
+Bromeliaceae---Air plants, bromelias _Tillandsia harrisii_ Harris' Tillandsia \#4
 
-_Tillandsia sprengeliana_ Sprengei's tillandsia \#4
+_Tillandsia kammii_ Kamm's Tillandsia \#4
 
-_Tillandsia sucrei_ sucrei tillandsia \#4
+_Tillandsia mauryana_ Maury's Tillandsia \#4
 
-_Tillandsia xerographica_ xerographic tillandsia \#4
+_Tillandsia xerographica_ Xerographic Tillandsia \#4
 
-Cactaceae---Cacti CACTACEAE spp. cactus plants \#4; except species included in Schedule 1 and except _Pereskia_ spp., _Pereskiopsis_ spp., and _Quiabentia_ spp. Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Act: _Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata _(cultivars); Cactaceae spp. colour mutants lacking chlorophyll, grafted on the following grafting stocks: _Harrisia_ "Jusbertii", _Hylocereus trigonus _or _Hylocereus undatus_; _Opuntia microdasys_ (cultivars).
+Cactaceae---Cacti Cactaceae spp Cactus Plants \#4; except species included in [Schedule 1][75] and except _Pereskia_ spp, _Pereskiopsis_ spp, and _Quiabentia_ spp. Artificially propagated specimens of the following hybrids and cultivars are not subject to provisions of this Act: _Hatiora x graeseri; Schlumbergera x buckleyi; Schlumbergera russelliana x Schlumbergera truncata; Schlumbergera orssichiana x Schlumbergera truncata; Schlumbergera opuntioides x Schlumbergera truncata; Schlumbergera truncata _(cultivars); Cactaceae spp colour mutants grafted on the following grafting stocks: _Harrisia_ "Jusbertii", _Hylocereus trigonus _or _Hylocereus undatus_; _Opuntia microdasys_ (cultivars)
 
-Caryocaraceae---Ajo _Caryocar costaricense_ costus \#4
+Caryocaraceae---Ajo _Caryocar costaricense_ Costus \#4
 
-Crassulaceae---Dudleyas _Dudleya stolonifera_ Laguna Beach dudleya 
+Cucurbitaceae---melons, gourds, cucurbits _Zygosicyos pubescens_ Tobory 
 
-_Dudleya traskiae_ Santa Barbara Island dudleya 
+_Zygosicyos tripartitus_ Betoboky 
 
-Cucurbitaceae---melons, gourds, cucurbits _Zygosicyos pubescens_ tobory 
+Cyatheaceae---Tree ferns _Cyathea_ spp Tree Ferns \#4
 
-_Zygosicyos tripartitus_ betoboky 
-
-Cyatheaceae---Tree ferns _Cyathea_ spp. tree ferns \#4
-
-Cycadaceae---Cycads CYCADACEAE spp. cycads \#4; except the species included in Schedule 1\.
+Cycadaceae---Cycads Cycadaceae spp Cycads \#4; except species included in [Schedule 1][75]
 
 Dicksoniaceae---Tree ferns _Cibotium barometz_ \#4
 
-_Dicksonia_ spp. tree ferns \#4; only the population of the Americas; no other population is included in the schedules.
+_Dicksonia_ spp Tree Ferns \#4; only population of Americas. No other population is included in the schedules
 
-Didieraceae---Allaudias, didiereas DIDIEREACEAE spp. allaudias, didiereas \#4
+Didiereaceae---Allaudias, didiereas Didiereaceae spp Allaudias, Didiereas \#4
 
-Dioscoreaceae---elephant's foot, kniss _Dioscorea deltoidea_ elephant's foot \#4
+Dioscoreaceae---elephant's foot, kniss _Dioscorea deltoidea_ Elephant's Foot \#4
 
-Droseraceae---Venus' flytrap _Dionaea muscipula_ Venus' flytrap \#4
+Droseraceae---Venus flytrap _Dionaea muscipula_ Venus Flytrap \#4
 
-Euphoribiaceae---Euphorbias _Euphorbia_ spp. euphorbias \#4; succulent species only, except _Euphorbia misera_ and the species included in Schedule 1\. Artificially propagated specimens on cultivars of _Euphorbia trigona_, artificially propagated specimens of crested, fan-shaped, or colour mutants of _Eurphorbia lactea_, when grafted on artificially propagated root stock of _Euphorbia neriifolia_, and artificially propagated specimens of cultivars of _Euphorbia_ "Milii" when they are traded in shipments of 100 or more plants and readily recognisable as artificially propagated specimens, are not subject to the provisions of the Act.
+Ebenaceae---Ebony _Diospyros_ spp Ebonies, Persimmon Trees \#5\. Populations of Madagascar
 
-Fouquieriaceae---Ocotillos _Fouquieria columnaris_ boojum tree \#4
+Euphoribiaceae---Euphorbias _Euphorbia_ spp Euphorbias \#4; succulent species only, except _Euphorbia misera_ and the species included in [Schedule 1][75]. The following are not subject to provisions of this Act: artificially propagated specimens of cultivars of _Euphorbia trigona_, artificially propagated specimens of crested, fan-shaped, or colour mutants of _Euphorbia lactea_, when grafted on artificially propagated root stock of _Euphorbia neriifolia_, and artificially propagated specimens of cultivars of _Euphorbia_ "Milii", when they are traded in shipments of 100 or more plants and readily recognisable as artificially propagated 
 
-Juglandaceae---Gavilan _Oreomunnea pterocarpa_ gavilan \#4
+Fouquieriaceae---Ocotillos _Fouquieria columnaris_ Boojum Tree \#4
 
-Lauraceae---Laurels _Aniba rosaeodora_ Brazilian rosewood \#12
+Juglandaceae---Gavilan _Oreomunnea pterocarpa_ Gavilan \#4
+
+Lauraceae---Laurels _Aniba rosaeodora_ Brazilian Rosewood \#12
 
 Leguminosae (Fabaceae)---  
-Afrormosia, cristobal, rosewood, sandalwood _Caesalpinia echinata_ Brazil wood \#10
+Afrormosia, cristobal, rosewood, sandalwood _Caesalpinia echinata_ Brazil Wood \#10
 
-_Pericopsis elata_ African teak \#5
+_Dalbergia _spp \#5\. Populations of Madagascar
 
-_Platymiscium pleiostachyum_ quira, macawood \#4
+_Dalbergia cochinchinensis_ Thai Rosewood \#5
 
-_Pterocarpus santalinus_ red sanders \#7
+_Dalbergia granadillo_ Granadillo \#6
 
-Liliaceae---Aloes _Aloe_ spp. aloes \#4; except the species included in Schedule 1; also excludes _Aloe vera_, also referenced as _Aloe barbadensis_, which is not included in the schedules.
+_Dalbergia retusa_ Cocobolo \#6
 
-Meliaceae---mahoganies, Spanish cedar _Swietenia humilis_ Mexican mahogany, Honduras mahogany \#4
+_Dalbergia stevensonii_ Honduras Rosewood \#6
 
-_Swietenia macrophylla_ big-leaf mahogany \#6; populations of the Neotropics.
+_Pericopsis elata_ African Teak \#5 
 
-_Swietenia mahogani_ American mahogany \#5
+_Platymiscium pleiostachyum_ Quira, Macawood \#4 
 
-Nepenthaceae---pitcher plants (Old World) _Nepenthes_ spp. pitcher plants \#4; except the species included in Schedule 1\.
+_Pterocarpus santalinus_ Red Sanders \#7 
 
-Orchidaceae---orchids ORCHIDACEAE spp. orchids \#4; except species included in Schedule 1\. Artificially propagated hybrids of the genera _Cymbidium_, _Dendrobium_, _Phalaenopsis_, and _Vanda_ are not subject to the provisions of the Act when:
+_Senna meridionalis_ 
 
-(a) specimens are readily recognisable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and 
+Liliaceae---Aloes _Aloe_ spp Aloes \#4; except species included in [Schedule 1][75]; also excludes _Aloe vera_, also referenced as _Aloe barbadensis_, which is not included in the schedules
 
-(b) (i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as invoice, which clearly states the number of plants of each hybrid; or
+Meliaceae---Mahoganies, West Indian cedar _Swietenia humilis_ Mexican Mahogany, Honduras Mahogany \#4
 
-(b) (ii) when shipped in flowering state, with at least 1 fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, eg, labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification. **Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents.**
+_Swietenia macrophylla_ Big-leaf Mahogany \#6; populations of Neotropics
 
-Orobanchaceae---Broomrape _Cistanche deserticola_ desert cistanche \#4
+_Swietenia mahagani_ American Mahogany \#5
 
-Palmae (Arecaceae)---Palms _Beccariophoenix madagascariensis_ Manarano palm, Maruala palm \#4
+Nepenthaceae---Pitcher plants (Old World) _Nepenthes_ spp Pitcher Plants \#4; except species included in [Schedule 1][75].
 
-_Lemurophoenix halleuxii_ red lemur palm 
+Orchidaceae---Orchids Orchidaceae spp Orchids \#4; except species included in [Schedule 1][75]. Artificially propagated hybrids of the genera _Cymbidium_, _Dendrobium_, _Phalaenopsis_, and _Vanda_ are not subject to provisions of this Act when---
 
-_Marojejya darianii_ big leaf palm, Madagascar palm 
+(a) specimens are readily recognisable as artificially propagated and do not show any signs of having been collected in the wild, such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
 
-_Neodypsis decaryi_ triangle palm \#4
+(b) (i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates, or individual shelves of CC-containers), each containing 20 or more plants of 
+
+the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, that clearly states the number of plants of each hybrid; or
+
+(b) (ii) when shipped in flowering state, with at least 1 fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, eg, labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.
+
+Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents
+
+Orobanchaceae---Broomrape _Cistanche deserticola_ Desert Cistanche \#4
+
+Palmae (Arecaceae)---Palms _Beccariophoenix madagascariensis_ Manarano Palm, Maruala Palm \#4
+
+_Lemurophoenix halleuxii_ Red Lemur Palm 
+
+_Marojejya darianii_ Big Leaf Palm, Madagascar Palm 
+
+_Neodypsis decaryi_ Triangle Palm \#4
 
 _Ravenea louvelii_ 
 
-_Ravenea rivularis_ majesty palm 
+_Ravenea rivularis_ Majesty Palm 
 
-_Satranala decussilvae_ Satranabe palm 
+_Satranala decussilvae_ Satranabe Palm 
 
-_Voanioala gerardii_ forest coconut 
+_Voanioala gerardii_ Forest Coconut 
 
-Passifloraceae---Passionflowers _Adenia olaboensis_ adenia 
+Passifloraceae---Passionflowers _Adenia firingalavensis_ 
 
-Portulaceae---lewisias, portulacas, purslanes _Anacampseros_ spp. purselanes \#4
+_Adenia olaboensis_ Adenia 
 
-_Avonia_ spp. \#4
+_Adenia subsessilifolia_ 
 
-_Lewisia serrata_ saw-toothed lewisia \#4
+Pedaliaceae---Sesames _Uncarina grandidieri_ 
 
-Primulaceae---Cyclamens _Cyclamen_ spp. cyclamens \#4; except artificially propagated cultivars of _Cyclamen persicum_ (cultivars). Exemption does not apply to specimens traded as dormant tubers.
+_Uncarina stellulifera_ 
 
-Ranunculaceae---golden seals, yellow adonis, yellow root _Adonis vernalis_ yellow adonis, spring adonis \#2
+Portulaceae---Lewisias, portulacas, purslanes _Anacampseros_ spp Purselanes \#4
 
-_Hydrastis canadensis_ goldenseal \#8
+_Avonia_ spp \#4
 
-Rosaceae---African cherry, stinkwood _Prunus africana_ African stinkwood \#4
+_Lewisia serrata_ Saw-toothed Lewisia \#4
 
-Sarracenaceae---Pitcher plants (New World) _Sarracenia_ spp. pitcher-plants \#4; except the species included in Schedule 1\.
+Primulaceae---Cyclamens _Cyclamen_ spp Cyclamens \#4; except artificially propagated cultivars of _Cyclamen persicum_ (cultivars). Exemption does not apply to specimens traded as dormant tubers
 
-Scrophulariaceae---Kutki _Picrorhiza kurrooa_ \#2; excludes _Picrorhiza scrophulariiflora_.
+Ranunculaceae---Golden seals, yellow adonis, yellow root _Adonis vernalis_ Yellow Adonis, Spring Adonis \#2
 
-Stangeriaceae---Stangerias _Bowenia_ spp. \#4
+_Hydrastis canadensis_ Goldenseal \#8
+
+Rosaceae---African cherry, stinkwood _Prunus africana_ African Stinkwood \#4
+
+Santalaceae---Sandalwoods _Osyris lanceolata_ African Sandalwood \#2; Populations of Burundi, Ethiopia, Kenya, Rwanda, Uganda, and United Republic of Tanzania
+
+Sarracenaceae---Pitcher plants (New World) _Sarracenia_ spp Pitcher Plants \#4; except species included in [Schedule 1][75]
+
+Scrophulariaceae---Kutki _Picrorhiza kurrooa_ \#2; excludes _Picrorhiza scrophulariiflora_
+
+Stangeriaceae---Stangerias _Bowenia_ spp \#4
 
 Taxaceae---Himalayan yew _Taxus chinensis_ and infraspecific taxa of this species \#2
 
-_Taxus cuspidata_ and infraspecific taxa of this species \#2\. Artificially propagated hybrids and cultivars of _Taxus cuspidata_, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text "artificially propagated", are not subject to the provisions of the Act.
+_Taxus cuspidata_ and infraspecific taxa of this species \#2\. The following are not subject to provisions of this Act: artificially propagated hybrids and cultivars of _Taxus cuspidata_, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text "artificially propagated"
 
 _Taxus fuana_ and infraspecific taxa of this species \#2
 
 _Taxus sumatrana_ and infraspecific taxa of this species \#2
 
-_Taxus wallichiana_ Himalayan yew \#2
+_Taxus wallichiana_ Himalayan Yew \#2
 
-Thymelaeaceae (Aquilaraceae)---Agarwood, Ramin _Aquilaria_ spp. agarwood \#4
+Thymelaeaceae (Aquilaraceae)---Agarwood, ramin _Aquilaria_ spp Agarwood \#14
 
-_Gonystylus_ spp. ramin \#4
+_Gonystylus_ spp Ramin \#4
 
-_Gyrinops_ spp. agarwood \#4
+_Gyrinops_ spp Agarwood \#14
 
-Valeranciaceae---Himalayan Spikenard _Nardostachys grandiflora_ Himalayan spikenard \#2
+Valeranciaceae---Himalayan spikenard _Nardostachys grandiflora_ Himalayan Spikenard \#2
 
-Vitaceae---Grapes _Cyphostemma elephantopus_ elephant foot grape tree 
+Vitaceae---Grapes _Cyphostemma elephantopus_ Elephant Foot Grape Tree 
 
-_Cyphostemma montagnacii_ lazambohitra 
+_Cyphostemma laza_ Laza 
+
+_Cyphostemma montagnacii_ Lazambohitra 
 
 Welwitschiaceae---  
 Welwitschia _Welwitschia mirabilis_ Welwitschia \#4
 
-Zamiaceae---Cycads ZAMIACEAE spp. cycads \#4; except the species included in Schedule 1\.
+Zamiaceae---Cycads Zamiaceae spp Cycads \#4; except species included in [Schedule 1][75]
 
-Zingiberaceae---Ginger lily _Hedychium philippinense_ Philippine garland-flower \#4
+Zingiberaceae---Ginger lily _Hedychium philippinense_ Philippine Garland-flower \#4
 
 Zygophyllaceae---  
-Lignum-vitae _Bulnesia sarmientoi_ palo santo, verawood \#11
+Lignum-vitae _Bulnesia sarmientoi_ Palo Santo, Verawood \#11
 
-_Guaiacum_ spp. lignum-vitae \#2
+_Guaiacum_ spp Lignum-vitae \#2
 
 **Notes**
 
-When a species is included in one of the schedules, all parts and derivatives of the species are also included in the same schedule unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol \# followed by a number placed against the name of a species or higher taxon included in Schedule 2 or 3 refers to a footnote that indicates the parts or derivatives of plants that are designated as "specimens" subject to the provisions of CITES.
+When a species is included in this schedule, all parts and derivatives of the species are also included in the schedule unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol \# followed by a number placed against the name of a species or higher taxon included in this schedule refers to a footnote that indicates the parts or derivatives of plants that are designated as specimens subject to the provisions of this Act.
 
 1
 
@@ -3489,7 +3682,7 @@ All parts and derivatives except---
 
 *   (c) cut flowers of artificially propagated plants; and
 
-*   (d) fruits and parts and derivatives thereof of naturalised or artificially propagated plants of the genus _Vanilla_.
+*   (d) fruits, and parts and derivatives thereof, of artificially propagated plants of the genus _Vanilla_.
 
 2
 
@@ -3501,23 +3694,23 @@ All parts and derivatives except---
 
 3
 
-Whole and sliced roots and parts of roots.
+Whole and sliced roots and parts of roots, excluding manufactured parts or derivatives, such as powders, pills, extracts, tonics, teas, and confectionery.
 
 4
 
 All parts and derivatives except---
     
-*   (a) seeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from _Beccariophoenix madagascarensis_ and _Neodypsis decaryi_ exported from Madagascar; and
+*   (a) seeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp exported from Mexico, or to seeds from _Beccariophoenix madagascarensis_ and _Neodypsis decaryi_ exported from Madagascar; and
 
 *   (b) seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers; and
 
 *   (c) cut flowers of artificially propagated plants; and
 
-*   (d) fruits and parts and derivatives thereof of naturalised or artificially propagated plants of the genus _Vanilla_ (Orchidaceae) and of the family Cactaceae; and
+*   (d) fruits, and parts and derivatives thereof, of naturalised or artificially propagated plants of the genus _Vanilla_ (Orchidaceae) and of the family Cactaceae; and
 
-*   (e) stems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera _Opuntia_ subgenus _Opuntia_ and _Selenicereus_ (Cactaceae); and
+*   (e) stems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera _Opuntia_, subgenus _Opuntia_ and _Selenicereus_ (Cactaceae); and
 
-*   (f) finished products of Euphorbia antisyphilitica packaged and ready for retail sale.
+*   (f) finished products of _Euphorbia antisyphilitica_ packaged and ready for retail trade.
 
 5
 
@@ -3537,7 +3730,7 @@ Underground parts (ie, roots, rhizomes): whole, parts, and powdered.
 
 9
 
-All parts and derivatives except those bearing a label "Produced from Hoodia spp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx".
+All parts and derivatives except those bearing a label "Produced from _Hoodia_ spp material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of \[Botswana under agreement No. BW/xxxxxx\] \[Namibia under agreement No. NA/xxxxxx\] \[South Africa under agreement No. ZA/xxxxxx\]".
 
 10
 
@@ -3549,11 +3742,27 @@ Logs, sawn wood, veneer sheets, plywood, powder, and extracts.
 
 12
 
-Logs, sawn wood, veneer sheets, plywood, and essential oil (excluding finished products packaged and ready for retail trade).
+Logs, sawn wood, veneer sheets, plywood, and extracts. Finished products containing such extracts as ingredients, including fragrances, are not considered to be covered by this annotation.
 
 13
 
-Kernel and any derivative thereof.
+The kernel (also known as endosperm, pulp, or copra) and any derivative thereof.
+
+14
+
+All parts and derivatives except---
+    
+*   (a) seeds and pollen; and
+
+*   (b) seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers; and
+
+*   (c) fruits; and
+
+*   (d) leaves; and
+
+*   (e) exhausted agarwood powder, including compressed powder in all shapes; and
+
+*   (f) finished products packaged and ready for retail trade, this exemption does not apply to beads, prayer beads, and carvings.
 
 ---
 
@@ -3562,25 +3771,42 @@ Species exploited by trade
 
 [s 3(1)][4]
 
-*   Schedule 3: substituted, on 10 November 2011, by [clause 3][124] of the Trade in Endangered Species Order 2011 (SR 2011/369).
+*   Schedule 3: replaced, on 14 September 2014, by [clause 3][124] of the Trade in Endangered Species Order 2014 (LI 2014/259).
 
-The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention on International Trade in Endangered Species of Wild Fauna and Flora (**CITES**).
+The classes, families, and species listed in this schedule are arranged in descending order by class then in alphabetical order by order, family, and species. This order of arrangement is adopted in the Convention.
 
-The countries listed in the column headed "Exceptions/limitations and Countries requiring export permit" are parties to the Convention on International Trade in Endangered Species of Wild Fauna and Flora that require an export permit to authorise trade in the species listed in the schedule. Trade in the species in relation to other countries that are party to the Convention requires a certificate of origin.
+The countries listed in the column headed "**Exceptions/limitations and Countries requiring export permit**" are parties to the Convention on International Trade in Endangered Species of Wild Fauna and Flora that require an export permit to authorise trade in the species listed in this schedule. Trade in those species in relation to other countries that are party to the Convention requires a certificate of origin.
+
+## Part 1  
+Fauna (animals)
+
+#### Phylum---Chordata
+
+##### Class---Mammalia (mammals)
 
 **Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
-**MAMMALIA---MAMMALS**
+Artiodactyla---Even-toed ungulates Bovidae---Antelopes, cattle, duikers, gazelles, goats, sheep, etc _Antilope cervicapra_ Blackbuck Nepal, Pakistan
 
-Artiodactyla---Even-toed ungulates Bovidae---Antelopes, cattle, duikers, gazelles, goats, sheep, etc _Antilope cervicapra_ Blackbuck Nepal 
+_Boselaphus tragocamelus_ Nilgai Pakistan
 
-_Bubalus arnee_ Asiatic Buffalo Nepal; excludes domesticated form, referenced as _Bubalus bubalis_.
+_Bubalus arnee_ Asiatic Buffalo Nepal; excludes domesticated form, referenced as _Bubalus bubalis_
+
+_Capra hircus aegagrus_ Domestic Goat Pakistan
+
+_Capra sibirica_ Siberian Ibex Pakistan
+
+_Gazella bennettii_ Chinkara, Indian Gazelle Pakistan
 
 _Gazella dorcas_ Dorcas Gazelle Algeria, Tunisia
 
+_Pseudois nayaur_ Bharal, Himalayan Blue Sheep, Naur Pakistan
+
 _Tetracerus quadricornis_ Four-horned Antelope Nepal
 
-Cervidae---Deer, guemals, muntjacs, pudus _Cervus elaphus barbarus_ Tunisian Deer Algeria, Tunisia
+Cervidae---Deer, guemals, muntjacs, pudus _Axis porcinus_ Hog Deer Pakistan; except subspecies included in [Schedule 1][75]
+
+_Cervus elaphus barbarus_ Tunisian Deer Algeria, Tunisia
 
 _Mazama temama cerasina_ Red Brocket Deer Guatemala
 
@@ -3597,9 +3823,11 @@ _Vulpes vulpes montana_ Red Fox India
 
 _Vulpes vulpes pusilla_ Red Fox India
 
-Herpestidae---Mongooses _Herpestes edwardsi_ Indian Grey Mongoose India
+Herpestidae---Mongooses _Herpestes edwardsii_ Indian Grey Mongoose India, Pakistan
 
 _Herpestes fuscus_ Indian Brown Mongoose India
+
+_Herpestes javanicus_ Small Asian Mongoose Pakistan
 
 _Herpestes javanicus auropunctatus_ Small Indian Mongoose India
 
@@ -3609,7 +3837,9 @@ _Herpestes urva_ Crab-eating Mongoose India
 
 _Herpestes vitticollis_ Stripe-necked Mongoose India
 
-Hyaenidae---Aardwolf _Proteles cristata_ Aardwolf Botswana
+Hyaenidae---Aardwolf _Hyaena hyaena_ Striped Hyena Pakistan
+
+_Proteles cristata_ Aardwolf Botswana
 
 Mustelinae---Grisons, honey badger, martens, tayra, weasels _Eira barbara_ Tayra Honduras
 
@@ -3643,7 +3873,7 @@ _Nasua nasua solitaria_ South Brazilian Coati Uruguay
 
 _Potos flavus_ Kinkajou Honduras
 
-Viverridae---Binturong, civets, linsangs, Otter-civet, palm civets _Arctictis binturong_ Binturong India
+Viverridae---Binturong, civets, linsangs, otter-civet, palm civets _Arctictis binturong_ Binturong India
 
 _Civettictis civetta_ African Civet Botswana
 
@@ -3665,7 +3895,7 @@ Cingulata---Armadillos Dasypodidae---Armadillos _Cabassous centralis_ Naked-tail
 
 _Cabassous tatouay_ Greater Naked-tailed Armadillo Uruguay
 
-Pilosa---Anteaters, Sloths _Choloepus hoffmanni_ Hoffman's Sloth Costa Rica
+Pilosa---Anteaters, sloths Megalonychidae---Two-toed sloth _Choloepus hoffmanni_ Hoffman's Sloth Costa Rica
 
 Myrmecophagidae---  
 American anteaters _Tamandua mexicana_ Northern Tamandua Guatemala
@@ -3682,10 +3912,11 @@ Sciuridae---Ground squirrels, tree squirrels _Marmota caudata_ Longtailed Marmot
 
 _Marmota himalayana_ Himalayan Marmot India
 
-_Sciurus deppei_  
-Deppe's Squirrel Costa Rica
+_Sciurus deppei_ Deppe's Squirrel Costa Rica
 
-**AVES---BIRDS**
+##### Class---Aves (birds)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
 Anseriformes---  
 Waterfowl Anatidae---Ducks, geese, swans, etc _Cairina moschata_ Muscovy Duck Honduras
@@ -3704,7 +3935,7 @@ Falconiformes---
 Eagles, falcons, hawks, vultures Cathartidae---New World vultures _Sarcoramphus papa_ King Vulture Honduras
 
 Galliformes---  
-megapodes, curassows, pheasants, quails, and relatives Cracidae---Chachalacas, curassows, guans _Crax alberti_ Blue-knobbed Curassow Colombia
+Megapodes, curassows, pheasants, quails, and relatives Cracidae---Chachalacas, curassows, guans _Crax alberti_ Blue-knobbed Curassow Colombia
 
 _Crax daubentoni_ Yellow-knobbed Curassow Colombia
 
@@ -3720,12 +3951,18 @@ _Penelope purpurascens_ Crested Guan Honduras
 
 _Penelopina nigra_ Highland Guan Guatemala
 
-Phasianidae---Grouse, guineafowl, partridges, pheasants, tragopans _Meleagris ocellata_ Ocellated Turkey Guatemala
+Phasianidae---Grouse, guineafowl, partridges, pheasants, tragopans _Lophura leucomelanos_ Kalij Pheasant Pakistan
+
+_Meleagris ocellata_ Ocellated Turkey Guatemala
+
+_Pavo cristatus_ Indian Peafowl, Blue Peafowl Pakistan
+
+_Pucrasia macrolopha_ Koklass Pheasant Pakistan
 
 _Tragopan satyra_ Satyr Tragopan, Indian Tragopan, Crimson Horned Pheasant Nepal
 
 Passeriformes---  
-Passerines (perching birds) Cotingidae---Cotingas _Cephalopterus ornatus_ Amazonian Umbrellabird, Ornate Umbrellabird Colombia
+Passerines (Perching birds) Cotingidae---Cotingas _Cephalopterus ornatus_ Amazonian Umbrellabird, Ornate Umbrellabird Colombia
 
 _Cephalopterus penduliger_ Long-wattled Umbrellabird Colombia
 
@@ -3735,20 +3972,19 @@ _Terpsiphone bourbonnensis_ Mascarene Paradise-flycatcher Mauritius
 
 Piciformes---Woodpeckers and relatives Capitonidae---Barbet _Semnornis ramphastinus_ Toucan Barbet Colombia
 
-Ramphastidae---Toucans _Baillonius bailloni_ Safffron Toucanet Argentina
+Ramphastidae---Toucans _Baillonius bailloni_ Saffron Toucanet Argentina
 
 _Pteroglossus castanotis_ Chestnut-eared Aracari Argentina
 
 _Ramphastos dicolorus_ Red-breasted Toucan Argentina
 
-_Selenidera maculirostris_  
-Spot-billed Toucanet Argentina
+_Selenidera maculirostris_ Spot-billed Toucanet Argentina
 
-**REPTILIA---REPTILES**
+##### Class---Reptilia (reptiles)
 
-Sauria---Lizards Gekkonidae---Geckos _Hoplodactylus_ spp. New Zealand brown geckos, sticky-toed geckos New Zealand
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
-_Naultinus_ spp. New Zealand tree geckos New Zealand
+Sauria---Lizards Gekkonidae---Geckos _Hoplodactylus_ spp New Zealand Brown Geckos, Sticky-toed Geckos New Zealand
 
 Serpentes---Snakes Colubridae---Typical snakes, water snakes, whipsnakes _Atretium schistosum_ Olive Keel-back Snake India
 
@@ -3762,19 +3998,15 @@ _Micrurus nigrocinctus_ Black-banded Coral Snake Honduras
 
 Viperidae---Vipers _Crotalus durissus_ Tropical Rattlesnake Honduras
 
-_Daboia russellii_ Russell's Viper India
+_Daboia russelii_ Russell's Viper India
 
 Testudines---Turtles, tortoises Chelydridae---Snapping turtles _Macrochelys temminckii_ Alligator Snapping Turtle United States of America
 
-Emydidae---Box turtles, freshwater turtles _Graptemys_ spp. map turtles United States of America
+Emydidae---Box turtles, freshwater turtles _Graptemys_ spp Map Turtles United States of America
 
-Geoemydidae---Box turtles, freshwater turtles _Geoemyda spengleri_ Black-breasted Leaf Turtle China
-
-_Mauremys iversoni_ Iverson's Pond Turtle, Fujian Pond Turtle China
+Geoemydidae---Box turtles, freshwater turtles _Mauremys iversoni_ Iverson's Pond Turtle, Fujian Pond Turtle China
 
 _Mauremys megalocephala_ Chinese Broad-headed Pond Turtle China
-
-_Mauremys nigricans_ Red-necked Pond Turtle, Kwangchung River Turtle China
 
 _Mauremys pritchardi_ Pritchard's Pond Turtle, Lashio Pond Turtle China
 
@@ -3786,93 +4018,99 @@ _Ocadia glyphistoma_ Guanxi Stripe-necked Turtle China
 
 _Ocadia philippeni_ Philippen's Stripe-necked Turtle China
 
-_Sacalia bealei_ Beal's Eeyed Turtle, Eye-spotted Turtle China
+_Sacalia pseudocellata_ Chinese False-eyed Turtle China
 
-_Sacalia pseudocellata_ Chinese False Eyed Turtle China
+##### Class---Amphibia (amphibians)
 
-_Sacalia quadriocellata_ Four-eyed Turtle China
-
-Trionychidae---Softshell turtles, terrapins _Palea steindachneri_ Wattle-necked Softshell Turtle China
-
-_Pelodiscus axenaria_ Chinese Softshell Turtle China
-
-_Pelodiscus maackii_ Chinese Softshell Turtle China
-
-_Pelodiscus parviformis_ Chinese Softshell Turtle China
-
-_Rafetus swinhoei_ Yangtze Softshell Turtle  
-China
-
-**AMPHIBIA---AMPHIBIANS**
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
 Anura---Frogs, toads Calyptocephalellidae---  
-Helmeted frogs _Calyptocephalella gayi_ Helmeted Water Toad, Chilean Helmeted Bull Frog, Wide Mouth Toad  
-Chile
+Chilean toads _Calyptocephalella gayi_ Helmeted Water Toad, Chilean Helmeted Bull Frog, Wide Mouth Toad Chile
 
-**HOLOTHUROIDEA---SEA CUCUMBERS**
+Caudata---Salamanders Cryptobranchidae---Giant salamanders _Cryptobranchus alleganiensis_ Hellbender Salamander United States of America
+
+Hynobiidae---Asiatic salamanders _Hynobius amjiensis_ Amji's Salamander China
+
+#### Phylum---Echinodermata
+
+##### Class---Holothuroidea (sea cucumbers)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
 Aspidochirotida---  
-Sea cucumbers  
-Stichopodidae---Sea cucumbers _Isostichopus fuscus_ Ecuador
+Sea cucumbers Stichopodidae---Sea cucumbers _Isostichopus fuscus_ Ecuador
 
-**INSECTA---INSECTS**
+#### Phylum---Arthropoda
 
-Coleoptera---Beetles Lucanidae---Cape stag beetles _Colophon_ spp. Cape stag beetles South Africa
+##### Class---Insecta (insects)
 
-Lepidoptera---Butterflies, Moths Nymphalidae---Brush-footed butterflies _Agrias amydon boliviensis_ Bolivia
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
-_Morpho godartii lachaumei_ Bolivia
+Coleoptera---Beetles Lucanidae---Cape stag beetles _Colophon_ spp Cape Stag Beetles South Africa
 
-_Prepona praeneste buckleyana_  
-Bolivia
+Lepidoptera---Butterflies, Moths Nymphalidae---Brush-footed butterflies _Agrias amydon boliviensis_ Plurinational State of Bolivia
 
-**ANTHOZOA---CORALS, SEA ANEMONES**
+_Morpho godartii lachaumei_ Plurinational State of Bolivia
+
+_Prepona praeneste buckleyana_ Plurinational State of Bolivia
+
+#### Phylum---Cnidaria
+
+##### Class---Anthozoa (corals and sea anemones)
+
+**Order** **Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
 
 Gorgonaceae---Sea feathers, sea fans Coralliidae---Red corals _Corallium elatius_ China
 
 _Corallium japonicum_ China
 
-_Corallium konjoi_ China
+_Corallium konjoi_ White Coral China
 
-_Corallium secundum_  
-China
+_Corallium secundum_ Angelskin Coral, Formosa Pink Coral, Pink Coral China
 
-**FLORA---PLANTS**
+## Part 2  
+Flora (plants)
+
+**Family** **Genus, species, or subspecies** **Common name** **Exceptions/limitations and Countries requiring export permit**
+
+Fagaceae---Beech, oak _Quercus mongolica_ Mongolian oak \#5; Russian Federation
 
 Gnetaceae---Gnetums _Gnetum montanum_ \#1; Nepal 
 
-Leguminosae (Fabaceae)---Afrormosia, cristobal, rosewood, sandalwood _Dalbergia retusa_ Hemdl cocobolo \#5; Guatemala; population of Guatemala.
+Leguminosae (Fabaceae)---Afrormosia, cristobal, rosewood, sandalwood _Dalbergia darienensis_ \#2; Population of Panama (Panama).
 
-_Dalbergia stevensonii_ Standl Honduras rosewood \#5; Guatemala; population of Guatemala.
+_Dalbergia tucurensis_ \#6; Nicaragua
 
 _Dipteryx panamensis_ Costa Rica, Nicaragua
 
 Magnoliaceae---  
-Magnolias _Magnolia liliifora_ var. _obovata_ \#1; Nepal
+Magnolias _Magnolia liliifora_ var _obovata_ \#1; Nepal
 
-Meliaceae---Mahoganies, Spanish cedar _Cedrela fissilis_ \#5; Bolivia
+Meliaceae---Mahoganies, West Indian cedar _Cedrela fissilis_ \#5; Plurinational State of Bolivia
 
-_Cedrela lilloi_ \#5; Bolivia
+_Cedrela lilloi_ \#5; Plurinational State of Bolivia
 
-_Cedrela odorata_ red cedar, cigar-box wood, Spanish cedar \#5; Bolivia, population of Bolivia; Brazil, population of Brazil; Colombia, population of Colombia; Guatemala, population of Guatemala; Peru, population of Peru.
+_Cedrela odorata_ Red Cedar, Cigar-box Wood, Spanish Cedar \#5; Brazil and Plurinational State of Bolivia; Colombia, population of Colombia; Guatemala, population of Guatemala; Peru, population of Peru.
 
-Palmae (Arecaceae)---Palms _Lodoicea maldivica_ coco de mer \#13; Seychelles
+Oleaceae---Ash, olive, jasmine, lilac _Fraxinus mandshurica_ Manchurian Ash \#5; Russian Federation
+
+Palmae (Arecaceae)---Palms _Lodoicea maldivica_ Coco de Mer \#13; Seychelles
 
 Papaveraceae---  
-Poppies _Meconopsis regia_ Himalayan poppy \#1; Nepal
+Poppies _Meconopsis regia_ Himalayan Poppy \#1; Nepal
 
-Pinaceae---Pines _Pinus koraiensis_ Korean pine \#5; Russian Federation
+Pinaceae---Pines _Pinus koraiensis_ Korean Pine \#5; Russian Federation
 
 Podocarpaceae---  
-Podocarps _Podocarpus neriifolius_ yellow wood \#1; Nepal 
+Podocarps _Podocarpus neriifolius_ Yellow Wood \#1; Nepal 
 
 Trochodendraceae  
 (Tetracentraceae)---  
-Tetracentron _Tetracentron sinense_ \#1; Nepal 
+Tetracentron _Tetracentron sinense_ \#1; Nepal
 
 **Notes**
 
-When a species is included in one of the schedules, all parts and derivatives of the species are also included in the same Schedule unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol \# followed by a number placed against the name of a species or higher taxon included in Schedules 2 or 3 refers to a footnote that indicates the parts or derivatives of plants that are designated as "specimens" subject to the provisions of CITES.
+When a species is included in this schedule, all parts and derivatives of the species are also included in the schedule unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol \# followed by a number placed against the name of a species or higher taxon included in this schedule refers to a footnote that indicates the parts or derivatives of plants that are designated as specimens subject to the provisions of this Act.
 
 1
 
@@ -3884,7 +4122,7 @@ All parts and derivatives except---
 
 *   (c) cut flowers of artificially propagated plants; and
 
-*   (d) fruits and parts and derivatives thereof of naturalised or artificially propagated plants of the genus _Vanilla_.
+*   (d) fruits, and parts and derivatives thereof, of artificially propagated plants of the genus _Vanilla_.
 
 2
 
@@ -3896,23 +4134,23 @@ All parts and derivatives except---
 
 3
 
-Whole and sliced roots and parts of roots.
+Whole and sliced roots and parts of roots, excluding manufactured parts or derivatives, such as powders, pills, extracts, tonics, teas, and confectionery.
 
 4
 
 All parts and derivatives except---
     
-*   (a) seeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from _Beccariophoenix madagascarensis_ and _Neodypsis decaryi_ exported from Madagascar; and
+*   (a) seeds (including seedpods of Orchidaceae), spores, and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp exported from Mexico, or to seeds from _Beccariophoenix madagascarensis_ and _Neodypsis decaryi_ exported from Madagascar; and
 
 *   (b) seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers; and
 
 *   (c) cut flowers of artificially propagated plants; and
 
-*   (d) fruits and parts and derivatives thereof of naturalised or artificially propagated plants of the genus _Vanilla_ (Orchidaceae) and of the family Cactaceae; and
+*   (d) fruits, and parts and derivatives thereof, of naturalised or artificially propagated plants of the genus _Vanilla_ (Orchidaceae) and of the family Cactaceae; and
 
-*   (e) stems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera _Opuntia_ subgenus _Opuntia_ and _Selenicereus_ (Cactaceae); and
+*   (e) stems, flowers, and parts and derivatives thereof of naturalised or artificially propagated plants of the genera _Opuntia_, subgenus _Opuntia_ and _Selenicereus_ (Cactaceae); and
 
-*   (f) finished products of Euphorbia antisyphilitica packaged and ready for retail sale.
+*   (f) finished products of _Euphorbia antisyphilitica_ packaged and ready for retail trade.
 
 5
 
@@ -3932,7 +4170,7 @@ Underground parts (ie, roots, rhizomes): whole, parts, and powdered.
 
 9
 
-All parts and derivatives except those bearing a label "Produced from Hoodia spp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx".
+All parts and derivatives except those bearing a label "Produced from _Hoodia_ spp material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of \[Botswana under agreement No. BW/xxxxxx\] \[Namibia under agreement No. NA/xxxxxx\] \[South Africa under agreement No. ZA/xxxxxx\]".
 
 10
 
@@ -3944,80 +4182,53 @@ Logs, sawn wood, veneer sheets, plywood, powder, and extracts.
 
 12
 
-Logs, sawn wood, veneer sheets, plywood, and essential oil (excluding finished products packaged and ready for retail trade).
+Logs, sawn wood, veneer sheets, plywood, and extracts. Finished products containing such extracts as ingredients, including fragrances, are not considered to be covered by this annotation.
 
 13
 
-Kernel and any derivative thereof.
+The kernel (also known as endosperm, pulp, or copra) and any derivative thereof.
 
----
+14
 
-#### Contents
+All parts and derivatives except---
     
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+*   (a) seeds and pollen; and
+
+*   (b) seedling or tissue cultures obtained _in vitro_, in solid or liquid media, transported in sterile containers; and
+
+*   (c) fruits; and
+
+*   (d) leaves; and
+
+*   (e) exhausted agarwood powder, including compressed powder in all shapes; and
+
+*   (f) finished products packaged and ready for retail trade, this exemption does not apply to beads, prayer beads, and carvings.
+
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Trade in Endangered Species Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][125] ![](/images/external_link.gif).
+*   This is a reprint of the Trade in Endangered Species Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][125] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][126] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][127] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][127] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][128] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][128] and [17E][129] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Trade in Endangered Species Order 2014][129] (LI 2014/259)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 303][100]
+    Search and Surveillance Act 2012 (2012 No 24): [section 303][100]
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][112]
-    
-    [Trade in Endangered Species Order 2011][130] (SR 2011/369)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][87]
     
@@ -4031,7 +4242,7 @@ Kernel and any derivative thereof.
     
     Trade in Endangered Species Amendment Act 1999 (1999 No 50)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][131]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][130]
     
     Trade in Endangered Species Amendment Act 1998 (1998 No 17)
     
@@ -4051,7 +4262,7 @@ Kernel and any derivative thereof.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0018/latest/whole.html#DLM145968
 [2]: http://www.legislation.govt.nz/act/public/1989/0018/latest/whole.html#DLM145970
 [3]: http://www.legislation.govt.nz/act/public/1989/0018/latest/whole.html#DLM145971
@@ -4175,11 +4386,10 @@ Kernel and any derivative thereof.
 [121]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425617
 [122]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM425618
 [123]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM107200
-[124]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063906
-[125]: http://www.pco.parliament.govt.nz/reprints/
-[126]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195439
-[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[128]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195468
-[129]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM195470
-[130]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM4063910
-[131]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM427920
+[124]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM6217705
+[125]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM2998516
+[126]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM2998515
+[127]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM2998532
+[128]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[129]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM6217709
+[130]: http://www.legislation.govt.nz/act/public/1989/0018/latest/link.aspx?id=DLM427920
