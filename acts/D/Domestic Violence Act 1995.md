@@ -1,5 +1,5 @@
 Reprint  
-as at 31 March 2014
+as at 1 October 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -107,41 +107,43 @@ This Act is administered by the Ministry of Justice.
 
 [Programmes][41]
 
-[29][42][][42][Programmes for protected persons][42]
+\[Repealed\]
 
-[30][43][][43][Commencement of section 29][43]
+[29][42][][42][Programmes for protected persons][42] \[Repealed\]
 
-[31][44][][44][Joint programme sessions][44]
+[30][43][][43][Commencement of section 29][43] \[Repealed\]
 
-[32][45][][45][Power to direct respondent or associated respondent to attend programme][45]
+[31][44][][44][Joint programme sessions][44] \[Repealed\]
 
-[33][46][][46][Terms of direction that respondent or associated respondent attend programme][46]
+[32][45][][45][Power to direct respondent or associated respondent to attend programme][45] \[Repealed\]
 
-[34][47][][47][Registrar to notify programme provider to whom respondent or associated respondent is referred][47]
+[33][46][][46][Terms of direction that respondent or associated respondent attend programme][46] \[Repealed\]
 
-[35][48][][48][Programme provider to arrange meeting with respondent or associated respondent][48]
+[34][47][][47][Registrar to notify programme provider to whom respondent or associated respondent is referred][47] \[Repealed\]
 
-[36][49][][49][Direction to attend programme made on application without notice][49]
+[35][48][][48][Programme provider to arrange meeting with respondent or associated respondent][48] \[Repealed\]
 
-[37][50][][50][Court may confirm or discharge direction][50]
+[36][49][][49][Direction to attend programme made on application without notice][49] \[Repealed\]
 
-[38][51][][51][Respondent or associated respondent excused from attending][51]
+[37][50][][50][Court may confirm or discharge direction][50] \[Repealed\]
 
-[39][52][][52][Notice of absence from programme][52]
+[38][51][][51][Respondent or associated respondent excused from attending][51] \[Repealed\]
 
-[40][53][][53][Notice of conclusion of programme][53]
+[39][52][][52][Notice of absence from programme][52] \[Repealed\]
 
-[41][54][][54][Programme provider may request variation of direction][54]
+[40][53][][53][Notice of conclusion of programme][53] \[Repealed\]
 
-[41A][55][][55][Powers of Registrar on receipt of notice under section 39 or 41][55]
+[41][54][][54][Programme provider may request variation of direction][54] \[Repealed\]
 
-[42][56][][56][Judge may call respondent or associated respondent before court][56]
+[41A][55][][55][Powers of Registrar on receipt of notice under section 39 or 41][55] \[Repealed\]
 
-[42A][57][][57][Respondent or associated respondent called before court][57]
+[42][56][][56][Judge may call respondent or associated respondent before court][56] \[Repealed\]
 
-[43][58][][58][Confidentiality of information disclosed to programme provider][58]
+[42A][57][][57][Respondent or associated respondent called before court][57] \[Repealed\]
 
-[44][59][][59][Programme providers' fees and expenses][59]
+[43][58][][58][Confidentiality of information disclosed to programme provider][58] \[Repealed\]
+
+[44][59][][59][Programme providers' fees and expenses][59] \[Repealed\]
 
 [Duration, variation, and discharge of protection orders][60]
 
@@ -157,7 +159,7 @@ This Act is administered by the Ministry of Justice.
 
 [49][66][][66][Offence to breach protection order][66]
 
-[49A][67][][67][Offence to fail to comply with direction][67]
+[49A][67][][67][Offence to fail to comply with direction][67] \[Repealed\]
 
 [50][68][][68][Power to arrest for breach of protection order][68]
 
@@ -172,281 +174,341 @@ This Act is administered by the Ministry of Justice.
 
 [51B][73][][73][Service providers][73]
 
-[Part 3][74]  
-[Orders relating to property][74]
+[Safety programmes][74]
 
-[Occupation orders][75]
+[51C][75][][75][Safety programmes for protected persons][75]
 
-[52][76][][76][Application for occupation order][76]
+[Non-violence programmes][76]
 
-[53][77][][77][Power to make occupation order][77]
+[51D][77][][77][Direction to attend assessment and non-violence programme][77]
 
-[54][78][][78][Effect of occupation order][78]
+[51E][78][][78][Direction to attend non-violence programme made on application without notice][78]
 
-[55][79][][79][Power to vary or discharge occupation order][79]
+[51F][79][][79][Court may confirm or discharge direction after considering objection made under section 51E][79]
 
-[Tenancy orders][80]
+[51G][80][][80][Referral of respondent to service provider][80]
 
-[56][81][][81][Application for tenancy order][81]
+[51H][81][][81][Service provider to meet with respondent][81]
 
-[57][82][][82][Power to make tenancy order][82]
+[51I][82][][82][Service provider to notify Registrar about safety concerns][82]
 
-[58][83][][83][Effect of tenancy order][83]
+[51J][83][][83][Referral to different service provider][83]
 
-[59][84][][84][Power to discharge tenancy order and revest tenancy][84]
+[51K][84][][84][Judge may discharge direction to attend non-violence programme in certain cases][84]
 
-[General provisions relating to occupation orders and tenancy orders][85]
+[51L][85][][85][Service provider and respondent to settle terms of attendance at non-violence programme][85]
 
-[60][86][][86][Application without notice for occupation order or tenancy order][86]
+[51M][86][][86][Notice to be given to court if continued provision of non-violence programme inappropriate][86]
 
-[61][87][][87][Procedure for occupation orders and tenancy orders][87]
+[Non-compliance with direction to attend assessment and non-violence programme][87]
 
-[Ancillary furniture orders][88]
+[51N][88][][88][Notice of non-compliance with direction][88]
 
-[62][89][][89][Application for ancillary furniture order][89]
+[51O][89][][89][Powers of Registrar on receipt of notice under section 51N][89]
 
-[63][90][][90][Power to make ancillary furniture order][90]
+[51P][90][][90][Judge may call respondent before court][90]
 
-[64][91][][91][Effect of ancillary furniture order][91]
+[51Q][91][][91][Respondent called before court][91]
 
-[65][92][][92][Power to vary or discharge ancillary furniture order][92]
+[Completion of non-violence programme][92]
 
-[Furniture orders][93]
+[51R][93][][93][Notice of completion and outcome of non-violence programme][93]
 
-[66][94][][94][Application for furniture order][94]
+[Confidentiality of information][94]
 
-[67][95][][95][Power to make furniture order][95]
+[51S][95][][95][Confidentiality of information disclosed to service provider][95]
 
-[68][96][][96][Effect of furniture order][96]
+[Enforcement of directions][96]
 
-[69][97][][97][Power to vary or discharge furniture order][97]
+[51T][97][][97][Offence to fail to comply with direction][97]
 
-[Applications without notice for furniture orders][98]
+[Part 3][98]  
+[Orders relating to property][98]
 
-[70][99][][99][Application without notice for ancillary furniture order or furniture order][99]
+[Occupation orders][99]
 
-[General provisions relating to property orders][100]
+[52][100][][100][Application for occupation order][100]
 
-[71][101][][101][Applications for property orders by minors][101]
+[53][101][][101][Power to make occupation order][101]
 
-[72][102][][102][Applications for property orders against minors][102]
+[54][102][][102][Effect of occupation order][102]
 
-[73][103][][103][Applications for property orders on behalf of persons other than children][103]
+[55][103][][103][Power to vary or discharge occupation order][103]
 
-[74][104][][104][Notice to persons with interest in property affected][104]
+[Tenancy orders][104]
 
-[75][105][][105][Protection of mortgagees, etc][105]
+[56][105][][105][Application for tenancy order][105]
 
-[Part 4][106]  
-[Procedure][106]
+[57][106][][106][Power to make tenancy order][106]
 
-[Temporary orders][107]
+[58][107][][107][Effect of tenancy order][107]
 
-[76][108][][108][Respondent to notify intention to appear][108]
+[59][108][][108][Power to discharge tenancy order and revest tenancy][108]
 
-[77][109][][109][Procedure where respondent does not require hearing][109]
+[General provisions relating to occupation orders and tenancy orders][109]
 
-[78][110][][110][Court may require hearing before order becomes final][110]
+[60][110][][110][Application without notice for occupation order or tenancy order][110]
 
-[79][111][][111][Application of sections 76 to 78 to other affected persons][111]
+[61][111][][111][Procedure for occupation orders and tenancy orders][111]
 
-[79A][112][][112][Review of contact arrangements][112]
+[Ancillary furniture orders][112]
 
-[80][113][][113][Procedure where hearing required][113]
+[62][113][][113][Application for ancillary furniture order][113]
 
-[80A][114][][114][Temporary order discharged when made final order under section 80(1)][114]
+[63][114][][114][Power to make ancillary furniture order][114]
 
-[General provisions][115]
+[64][115][][115][Effect of ancillary furniture order][115]
 
-[81][116][][116][Court may appoint lawyer][116]
+[65][116][][116][Power to vary or discharge ancillary furniture order][116]
 
-[82][117][][117][Power of court to call witnesses][117]
+[Furniture orders][117]
 
-[83][118][][118][Conduct of proceedings][118]
+[66][118][][118][Application for furniture order][118]
 
-[84][119][][119][Evidence][119] \[Repealed\]
+[67][119][][119][Power to make furniture order][119]
 
-[85][120][][120][Standard of proof][120]
+[68][120][][120][Effect of furniture order][120]
 
-[86][121][][121][Orders by consent][121]
+[69][121][][121][Power to vary or discharge furniture order][121]
 
-[87][122][][122][Explanation of orders][122]
+[Applications without notice for furniture orders][122]
 
-[88][123][][123][Copies of orders to be sent to Police][123]
+[70][123][][123][Application without notice for ancillary furniture order or furniture order][123]
 
-[89][124][][124][Information on service of certain orders to be communicated to Police][124]
+[General provisions relating to property orders][124]
 
-[90][125][][125][Police to consider exercise of powers under Arms Act 1983][125]
+[71][125][][125][Applications for property orders by minors][125]
 
-[Appeals][126]
+[72][126][][126][Applications for property orders against minors][126]
 
-[91][127][][127][Appeals to High Court][127]
+[73][127][][127][Applications for property orders on behalf of persons other than children][127]
 
-[92][128][][128][Application of provisions relating to minors, etc][128]
+[74][128][][128][Notice to persons with interest in property affected][128]
 
-[93][129][][129][Appeals to Court of Appeal][129]
+[75][129][][129][Protection of mortgagees, etc][129]
 
-[94][130][][130][Appeals to be heard as soon as practicable][130]
+[Part 4][130]  
+[Procedure][130]
 
-[95][131][][131][Effect of appeal][131]
+[Temporary orders][131]
 
-[Part 5][132]  
-[Enforcement of protection orders overseas and foreign protection orders][132]
+[76][132][][132][Respondent to notify intention to appear][132]
 
-[Enforcement of New Zealand orders overseas][133]
+[77][133][][133][Procedure where respondent does not require hearing][133]
 
-[96][134][][134][Enforcement of New Zealand orders overseas][134]
+[78][134][][134][Court may require hearing before order becomes final][134]
 
-[Enforcement of foreign protection orders][135]
+[79][135][][135][Application of sections 76 to 78 to other affected persons][135]
 
-[97][136][][136][Registration of foreign protection orders][136]
+[79A][136][][136][Review of contact arrangements][136]
 
-[98][137][][137][Copies of registered foreign protection orders to be sent to Police][137]
+[80][137][][137][Procedure where hearing required][137]
 
-[99][138][][138][Effect of registration][138]
+[80A][138][][138][Temporary order discharged when made final order under section 80(1)][138]
 
-[100][139][][139][Variation of registered foreign protection order][139]
+[General provisions][139]
 
-[101][140][][140][Registered foreign protection orders not to be enforced in certain circumstances][140]
+[81][140][][140][Court may appoint lawyer][140]
 
-[102][141][][141][Evidence taken overseas][141]
+[82][141][][141][Power of court to call witnesses][141]
 
-[103][142][][142][Proof of documents][142]
+[83][142][][142][Conduct of proceedings][142]
 
-[104][143][][143][Depositions to be evidence][143]
+[84][143][][143][Evidence][143] \[Repealed\]
 
-[105][144][][144][Prescribed foreign countries][144]
+[85][144][][144][Standard of proof][144]
 
-[106][145][][145][Evidence of orders made in foreign country][145]
+[86][145][][145][Orders by consent][145]
 
-[Part 6][146]  
-[Non-publication of information relating to protected person on public registers][146]
+[87][146][][146][Explanation of orders][146]
 
-[Interpretation][147]
+[88][147][][147][Copies of orders to be sent to Police][147]
 
-[107][148][][148][Interpretation][148]
+[89][148][][148][Information on service of certain orders to be communicated to Police][148]
 
-[Applications for directions][149]
+[90][149][][149][Police to consider exercise of powers under Arms Act 1983][149]
 
-[108][150][][150][Protected person may apply for direction that identifying information on public register not be publicly available][150]
+[Appeals][150]
 
-[109][151][][151][Agency to determine application][151]
+[91][151][][151][Appeals to High Court][151]
 
-[110][152][][152][Agency to notify applicant of decision][152]
+[92][152][][152][Application of provisions relating to minors, etc][152]
 
-[111][153][][153][Information not to be disclosed pending determination of application or complaint][153]
+[93][153][][153][Appeals to Court of Appeal][153]
 
-[Effect of direction][154]
+[94][154][][154][Appeals to be heard as soon as practicable][154]
 
-[112][155][][155][Effect of direction][155]
+[95][155][][155][Effect of appeal][155]
 
-[113][156][][156][Direction not applicable to relevant information subsequently included in register][156]
+[Part 5][156]  
+[Enforcement of protection orders overseas and foreign protection orders][156]
 
-[Duration of direction][157]
+[Enforcement of New Zealand orders overseas][157]
 
-[114][158][][158][Duration of direction][158]
+[96][158][][158][Enforcement of New Zealand orders overseas][158]
 
-[115][159][][159][Registrar to notify agency of making or discharge of protection order][159]
+[Enforcement of foreign protection orders][159]
 
-[Disclosure of relevant information with consent][160]
+[97][160][][160][Registration of foreign protection orders][160]
 
-[116][161][][161][Disclosure of relevant information with consent of protected person][161]
+[98][161][][161][Copies of registered foreign protection orders to be sent to Police][161]
 
-[Other enactments not affected][162]
+[99][162][][162][Effect of registration][162]
 
-[117][163][][163][Other enactments not affected][163]
+[100][163][][163][Variation of registered foreign protection order][163]
 
-[Complaints to Privacy Commissioner][164]
+[101][164][][164][Registered foreign protection orders not to be enforced in certain circumstances][164]
 
-[118][165][][165][Complaints to Privacy Commissioner][165]
+[102][165][][165][Evidence taken overseas][165]
 
-[119][166][][166][Investigation of complaint][166]
+[103][166][][166][Proof of documents][166]
 
-[120][167][][167][Application of certain provisions of Privacy Act 1993][167]
+[104][167][][167][Depositions to be evidence][167]
 
-[Regulations][168]
+[105][168][][168][Prescribed foreign countries][168]
 
-[121][169][][169][Regulations][169]
+[106][169][][169][Evidence of orders made in foreign country][169]
 
-[Codes of practice][170]
+[Part 6][170]  
+[Non-publication of information relating to protected person on public registers][170]
 
-[122][171][][171][Codes of practice][171]
+[Interpretation][171]
 
-[123][172][][172][Application of certain provisions of Privacy Act 1993][172]
+[107][172][][172][Interpretation][172]
 
-[124][173][][173][Effect of code][173]
+[Applications for directions][173]
 
-[Part 6A][174]  
-[Police safety orders][174]
+[108][174][][174][Protected person may apply for direction that identifying information on public register not be publicly available][174]
 
-[124A][175][][175][Interpretation][175]
+[109][175][][175][Agency to determine application][175]
 
-[124B][176][][176][Qualified constable may issue Police safety order][176]
+[110][176][][176][Agency to notify applicant of decision][176]
 
-[124C][177][][177][Consent to issue of Police safety order not required][177]
+[111][177][][177][Information not to be disclosed pending determination of application or complaint][177]
 
-[124D][178][][178][Police safety order not to be issued against child][178]
+[Effect of direction][178]
 
-[124E][179][][179][Effect of Police safety order][179]
+[112][179][][179][Effect of direction][179]
 
-[124F][180][][180][Suspension of firearms licence on issue of Police safety order][180]
+[113][180][][180][Direction not applicable to relevant information subsequently included in register][180]
 
-[124G][181][][181][Suspension of parenting orders, etc][181]
+[Duration of direction][181]
 
-[124H][182][][182][Prompt service of Police safety order required][182]
+[114][182][][182][Duration of direction][182]
 
-[124I][183][][183][Detention by constable][183]
+[115][183][][183][Registrar to notify agency of making or discharge of protection order][183]
 
-[124J][184][][184][Police safety order to be explained][184]
+[Disclosure of relevant information with consent][184]
 
-[124K][185][][185][Duration of Police safety order][185]
+[116][185][][185][Disclosure of relevant information with consent of protected person][185]
 
-[124L][186][][186][Contravention of Police safety order][186]
+[Other enactments not affected][186]
 
-[124M][187][][187][Issue of summons where person cannot be brought before District Court within 24 hours][187]
+[117][187][][187][Other enactments not affected][187]
 
-[124N][188][][188][Jurisdiction of District Court][188]
+[Complaints to Privacy Commissioner][188]
 
-[124O][189][][189][Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings][189]
+[118][189][][189][Complaints to Privacy Commissioner][189]
 
-[124P][190][][190][Protection order to be issued and served][190]
+[119][190][][190][Investigation of complaint][190]
 
-[124Q][191][][191][Protection order to be sent to Family Court][191]
+[120][191][][191][Application of certain provisions of Privacy Act 1993][191]
 
-[124R][192][][192][Protection order treated as if made by Family Court][192]
+[Regulations][192]
 
-[124S][193][][193][Police employees, etc, protected from proceedings][193]
+[121][193][][193][Regulations][193]
 
-[Part 7][194]  
-[Miscellaneous provisions][194]
+[Codes of practice][194]
 
-[Restriction on publication][195]
+[122][195][][195][Codes of practice][195]
 
-[125][196][][196][Restriction of publication of reports of proceedings][196]
+[123][196][][196][Application of certain provisions of Privacy Act 1993][196]
 
-[Rules and regulations][197]
+[124][197][][197][Effect of code][197]
 
-[126][198][][198][Rules of court][198]
+[Part 6A][198]  
+[Police safety orders][198]
 
-[127][199][][199][Regulations][199]
+[124A][199][][199][Interpretation][199]
 
-[Saving][200]
+[124B][200][][200][Qualified constable may issue Police safety order][200]
 
-[128][201][][201][Property (Relationships) Act 1976 not affected][201]
+[124C][201][][201][Consent to issue of Police safety order not required][201]
 
-[Repeals and consequential amendments][202]
+[124D][202][][202][Police safety order not to be issued against child][202]
 
-[129][203][][203][Repeals][203]
+[124E][203][][203][Effect of Police safety order][203]
 
-[130][204][][204][Amendments to Arms Act 1983][204]
+[124F][204][][204][Suspension of firearms licence on issue of Police safety order][204]
 
-[131][205][][205][Amendment to Children, Young Persons, and Their Families Act 1989][205]
+[124G][205][][205][Suspension of parenting orders, etc][205]
 
-[132][206][][206][Amendment to Electoral Act 1993][206]
+[124H][206][][206][Prompt service of Police safety order required][206]
 
-[Transitional provisions][207]
+[124I][207][][207][Detention by constable][207]
 
-[133][208][][208][Transitional provisions][208]
+[124J][208][][208][Police safety order to be explained][208]
+
+[124K][209][][209][Duration of Police safety order][209]
+
+[124L][210][][210][Contravention of Police safety order][210]
+
+[124M][211][][211][Issue of summons where person cannot be brought before District Court within 24 hours][211]
+
+[124N][212][][212][Jurisdiction of District Court][212]
+
+[124O][213][][213][Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings][213]
+
+[124P][214][][214][Protection order to be issued and served][214]
+
+[124Q][215][][215][Protection order to be sent to Family Court][215]
+
+[124R][216][][216][Protection order treated as if made by Family Court][216]
+
+[124S][217][][217][Police employees, etc, protected from proceedings][217]
+
+[Part 7][218]  
+[Miscellaneous provisions][218]
+
+[Restriction on publication][219]
+
+[125][220][][220][Restriction of publication of reports of proceedings][220]
+
+[Rules and regulations][221]
+
+[126][222][][222][Rules of court][222]
+
+[127][223][][223][Regulations][223]
+
+[Saving][224]
+
+[128][225][][225][Property (Relationships) Act 1976 not affected][225]
+
+[Repeals and consequential amendments][226]
+
+[129][227][][227][Repeals][227]
+
+[130][228][][228][Amendments to Arms Act 1983][228]
+
+[131][229][][229][Amendment to Children, Young Persons, and Their Families Act 1989][229]
+
+[132][230][][230][Amendment to Electoral Act 1993][230]
+
+[Transitional provisions on enactment of this Act][231]
+
+[133][232][][232][Transitional provisions][232]
+
+[Transitional provisions applying on enactment of Domestic Violence Amendment Act 2013][233]
+
+[134][234][][234][Programmes requested or directed before commencement of this section][234]
+
+[135][235][][235][Referrals to programme providers before commencement of this section][235]
+
+[136][236][][236][Programmes arranged or in progress before commencement of this section][236]
+
+[137][237][][237][Proceedings commenced before commencement of this section but not completed][237]
+
+[138][238][][238][Approval panel disestablished][238]
 
 ---
 
@@ -458,11 +520,11 @@ An Act to provide greater protection from domestic violence
     
     (2) Except as provided in subsection (3) and [section 30][43], this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    (3) [Part 6][146] shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and for different purposes.
+    (3) [Part 6][170] shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions and for different purposes.
     
-    Section 1: this Act (but section 29 only to the extent that it authorises the provision of programmes to persons who are not children, and sections 108--120 only for the purposes of the public registers maintained under the public register provisions specified in this order) brought into force, on 1 July 1996, by the [Domestic Violence Act Commencement Order 1996][209] (SR 1996/142).
+    Section 1: this Act (but section 29 only to the extent that it authorises the provision of programmes to persons who are not children, and sections 108--120 only for the purposes of the public registers maintained under the public register provisions specified in this order) brought into force, on 1 July 1996, by the [Domestic Violence Act Commencement Order 1996][239] (SR 1996/142).
     
-    Section 1: sections 108--120 brought into force only for the purposes of the public registers maintained under the public register provisions specified in this order, on 15 December 1998, by the [Domestic Violence Act Commencement Order 1998][210] (SR 1998/343).
+    Section 1: sections 108--120 brought into force only for the purposes of the public registers maintained under the public register provisions specified in this order, on 15 December 1998, by the [Domestic Violence Act Commencement Order 1998][240] (SR 1998/343).
 
 ## Part 1  
 Preliminary provisions
@@ -471,17 +533,15 @@ Preliminary provisions
     
 *   In this Act, unless the context otherwise requires,---
     
-    _ancillary furniture order_ means an order made under [section 63][90]; and includes a temporary order made under that section
+    _ancillary furniture order_ means an order made under [section 63][114]; and includes a temporary order made under that section
     
     _applicant_ means---
         
     *   (a) a person who applies for an order under this Act on his or her own behalf:
     
-    *   (b) the person on whose behalf an application for an order is made pursuant to [section 9][13] or [section 11][15] or [section 12][16] or [section 73][103]
+    *   (b) the person on whose behalf an application for an order is made pursuant to [section 9][13] or [section 11][15] or [section 12][16] or [section 73][127]
     
     _application without notice_ means an application made without notice to the person or persons against whom the application is made
-    
-    _approved agency_ means any organisation (whether incorporated or unincorporated) that is for the time being approved, in accordance with regulations made under this Act, to provide programmes
     
     _associated respondent_ means a person against whom a protection order applies by virtue of a direction made pursuant to [section 17][22]
     
@@ -489,13 +549,13 @@ Preliminary provisions
     
     _child of the applicant's family_ means a child who ordinarily or periodically resides with the applicant (whether or not the child is a child of the applicant and the respondent or of either of them)
     
-    _contact_ has the meaning given to it by [section 8][211] of the Care of Children Act 2004
+    _contact_ has the meaning given to it by [section 8][241] of the Care of Children Act 2004
     
     _country_ includes any State, territory, province, or other part of a country
     
     _court_ means a Family Court or a District Court; and includes a Judge of any such court
     
-    _day-to-day care_ has the meaning given to it by [section 8][211] of the Care of Children Act 2004
+    _day-to-day care_ has the meaning given to it by [section 8][241] of the Care of Children Act 2004
     
     _domestic relationship_ means one of the relationships set out in [section 4(1)][6]
     
@@ -503,7 +563,7 @@ Preliminary provisions
     
     _dwellinghouse_ includes---
         
-    *   (a) any flat or town house, whether or not occupied pursuant to a licence to occupy within the meaning of [section 121A][212] of the Land Transfer Act 1952:
+    *   (a) any flat or town house, whether or not occupied pursuant to a licence to occupy within the meaning of [section 121A][242] of the Land Transfer Act 1952:
     
     *   (b) any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land
     
@@ -517,7 +577,7 @@ Preliminary provisions
     
     *   (c) \[Repealed\]
     
-    _firearms licence_ means a firearms licence issued under [section 24][213] of the Arms Act 1983
+    _firearms licence_ means a firearms licence issued under [section 24][243] of the Arms Act 1983
     
     _foreign protection order_,---
         
@@ -539,13 +599,13 @@ Preliminary provisions
         
         
     
-    _furniture order_ means an order made under [section 67][95]; and includes a temporary order made under that section
+    _furniture order_ means an order made under [section 67][119]; and includes a temporary order made under that section
     
-    _lawyer_ has the meaning given to it by [section 6][214] of the Lawyers and Conveyancers Act 2006
+    _lawyer_ has the meaning given to it by [section 6][244] of the Lawyers and Conveyancers Act 2006
     
-    _occupation order_ means an order made under [section 53][77]; and includes a temporary order made under that section
+    _occupation order_ means an order made under [section 53][101]; and includes a temporary order made under that section
     
-    _parenting order_ has the meaning given to it by [section 8][211] of the Care of Children Act 2004
+    _parenting order_ has the meaning given to it by [section 8][241] of the Care of Children Act 2004
     
     _partner_, in the phrase ""spouse or partner"" and in related contexts, means, in relation to a person,---
         
@@ -561,25 +621,7 @@ Preliminary provisions
     
     *   (b) any state or territory of Australia; or
     
-    *   (c) any other country outside New Zealand that is declared, by Order in Council made under [section 105][144], to be a prescribed foreign country
-    
-    _programme_ means a programme---
-        
-    *   (a) that is for the time being approved in accordance with regulations made under this Act; and
-    
-    *   (b) that is provided by a programme provider; and
-    
-    *   (c) that,---
-            
-        *   (i) in the case of a programme provided to a protected person (other than a child), has the primary objective of promoting (whether by education, information, support, or otherwise) the protection of that person from domestic violence:
-        
-        *   (ii) in the case of a programme provided to a protected person who is a child, has the primary objective of assisting the child to deal with the effects of domestic violence:
-        
-        *   (iii) in the case of a programme provided to a respondent or an associated respondent, has the primary objective of stopping or preventing domestic violence on the part of the respondent or, as the case requires, the associated respondent
-        
-        
-    
-    _programme provider_ means a person who is for the time being approved, in accordance with regulations made under this Act, to provide programmes; and includes a person who, in accordance with the terms of the approval of any approved agency, is for the time being authorised to provide programmes
+    *   (c) any other country outside New Zealand that is declared, by Order in Council made under [section 105][168], to be a prescribed foreign country
     
     _property_, in relation to a person, means property that---
         
@@ -607,7 +649,7 @@ Preliminary provisions
     
     _protection order_ means an order made under [section 14][19]; and includes a temporary order made under that section
     
-    _registered foreign protection order_ means a foreign protection order that is registered in a court pursuant to [section 97][136]
+    _registered foreign protection order_ means a foreign protection order that is registered in a court pursuant to [section 97][160]
     
     _Registrar_ means the Registrar of a court; and includes a Deputy Registrar of a court
     
@@ -631,7 +673,7 @@ Preliminary provisions
     
     _temporary order_ means an order of limited duration that is made on an application without notice
     
-    _tenancy order_ means an order made under [section 57][82]; and includes a temporary order made under that section
+    _tenancy order_ means an order made under [section 57][106]; and includes a temporary order made under that section
     
     _tenant_, in relation to any dwellinghouse, includes any person---
         
@@ -643,29 +685,35 @@ Preliminary provisions
     
     _use domestic violence_, in relation to any person, means to engage in behaviour that amounts to domestic violence against that person
     
-    _weapon_ means any firearm, airgun, pistol, restricted weapon, ammunition, or explosive, as those terms are defined in the [Arms Act 1983][215].
+    _weapon_ means any firearm, airgun, pistol, restricted weapon, ammunition, or explosive, as those terms are defined in the [Arms Act 1983][245].
     
-    Compare: 1982 No 120 [s 2][216]
+    Compare: 1982 No 120 [s 2][246]
     
-    Section 2 **child**: amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **approved agency**: repealed, on 1 October 2014, by [section 4(2)][247] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 2 **contact**: inserted, on 31 March 2014, by [section 4(1)][218] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 2 **child**: amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **day-to-day care**: inserted, on 16 November 2011, by [section 5][219] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 2 **contact**: inserted, on 31 March 2014, by [section 4(1)][247] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 2 **family member** paragraph (a): replaced, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **day-to-day care**: inserted, on 16 November 2011, by [section 5][249] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 2 **family member** paragraph (c): repealed, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **family member** paragraph (a): replaced, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **lawyer**: replaced, on 1 August 2008, by [section 348][220] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 2 **family member** paragraph (c): repealed, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **parenting order**: inserted, on 16 November 2011, by [section 5][219] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 2 **lawyer**: replaced, on 1 August 2008, by [section 348][250] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 2 **partner**: replaced, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **parenting order**: inserted, on 16 November 2011, by [section 5][249] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 2 **representative** paragraph (a): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 2 **partner**: replaced, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2 **Secretary**: amended, on 1 October 2003, pursuant to [section 14(2)][221] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 2 **programme**: repealed, on 1 October 2014, by [section 4(2)][247] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 2 **programme provider**: repealed, on 1 October 2014, by [section 4(2)][247] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 2 **representative** paragraph (a): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 2 **Secretary**: amended, on 1 October 2003, pursuant to [section 14(2)][251] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 3 Meaning of domestic violence
     
@@ -709,7 +757,7 @@ Preliminary provisions
     
     (5) Behaviour may be psychological abuse for the purposes of subsection (2)(c) which does not involve actual or threatened physical or sexual abuse.
     
-    Section 3(2)(c)(iva): inserted, on 25 September 2013, by [section 5][222] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 3(2)(c)(iva): inserted, on 25 September 2013, by [section 5][252] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 4 Meaning of domestic relationship
     
@@ -759,7 +807,7 @@ Preliminary provisions
     
     *   (b) the duration of the relationship.
     
-    Section 4(1)(a): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 4(1)(a): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 5 Object
     
@@ -775,13 +823,17 @@ Preliminary provisions
     
     *   (b) ensuring that access to the court is as speedy, inexpensive, and simple as is consistent with justice:
     
-    *   (c) providing, for persons who are victims of domestic violence, appropriate programmes:
+    *   (c) providing, for persons who are victims of domestic violence, appropriate safety programmes:
     
-    *   (d) requiring respondents and associated respondents to attend programmes that have the primary objective of stopping or preventing domestic violence:
+    *   (d) requiring respondents and associated respondents to attend non-violence programmes that have the primary objective of stopping or preventing domestic violence:
     
     *   (e) providing more effective sanctions and enforcement in the event that a protection order is breached.
     
     (3) Any court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1).
+    
+    Section 5(2)(c): amended, on 1 October 2014, by [section 6(1)][253] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 5(2)(d): amended, on 1 October 2014, by [section 6(2)][253] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 6 Act to bind the Crown
     
@@ -802,9 +854,9 @@ Protection orders
     
     (4) Where the person who is eligible to apply for a protection order is aged 16 years or older but is unable, in the circumstances specified in [section 12(1)(b)][16], to make the application personally, an application may be made on that person's behalf by a representative appointed in accordance with section 12\.
     
-    Section 7(2): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 7(2): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 7(4): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 7(4): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 8 Contents of application
     
@@ -834,17 +886,17 @@ Protection orders
     
     must make the application on his or her own behalf, without a next friend or guardian _ad litem_, and orders may be made on the application, and enforced, as if the minor were of full age.
     
-    Compare: 1980 No 94 [s 158][223]
+    Compare: 1980 No 94 [s 158][254]
     
-    Section 9(1): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(1): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(2): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(2): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(2A): inserted, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(2A): inserted, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(3): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(3): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(4)(a): replaced, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(4)(a): replaced, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 10 Applications against minors
     
@@ -860,11 +912,11 @@ Protection orders
     
     as if the minor were of full age.
     
-    Section 10(1): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(1): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 10(2): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(2): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 10(3)(a): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 10(3)(a): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 11 Applications on behalf of persons lacking capacity
     
@@ -876,15 +928,15 @@ Protection orders
     
     (2) Where a person to whom this section applies is eligible to apply for a protection order, then, in any of the circumstances referred to in any of paragraphs (a) to (c), the application must be made, on that person's behalf, by a representative in accordance with rules of court:
         
-    *   (a) in any case where no one has power, under an appointment made under the [Protection of Personal and Property Rights Act 1988][224], to make such an application on the first-mentioned person's behalf:
+    *   (a) in any case where no one has power, under an appointment made under the [Protection of Personal and Property Rights Act 1988][255], to make such an application on the first-mentioned person's behalf:
     
     *   (b) even though a person has power, under such an appointment, to make such an application, in any case where the person so appointed has refused or failed to do so:
     
     *   (c) in any case where the first-mentioned person is a minor who is not a child.
     
-    (3) Notwithstanding anything in the [Protection of Personal and Property Rights Act 1988][224], an application must not be made under that Act for an order under [section 10(1)(i)][225] of that Act solely for the purpose of the commencement of proceedings under this Act.
+    (3) Notwithstanding anything in the [Protection of Personal and Property Rights Act 1988][255], an application must not be made under that Act for an order under [section 10(1)(i)][256] of that Act solely for the purpose of the commencement of proceedings under this Act.
     
-    Section 11(1): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 11(1): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 12 Applications on behalf of certain other persons
     
@@ -932,7 +984,7 @@ Protection orders
     
     then, unless the court is satisfied that the objection is not freely made, no further steps may be taken in the proceedings.
     
-    Section 12(1)(a): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 12(1)(a): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 13 Application without notice for protection order
     
@@ -950,11 +1002,11 @@ Protection orders
     
     *   (b) the effect of that behaviour on the applicant or a child of the applicant's family, or both.
     
-    (3) A protection order made on an application without notice is a temporary order that, subject to [sections 76 to 80][108], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+    (3) A protection order made on an application without notice is a temporary order that, subject to [sections 76 to 80][132], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
     
     (4) Where a protection order is made on an application without notice, the respondent may,---
         
-    *   (a) notify the court, in accordance with [section 76][108], that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order:
+    *   (a) notify the court, in accordance with [section 76][132], that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order:
     
     *   (b) apply pursuant to [section 22][29] for the modification or discharge of the standard condition relating to weapons:
     
@@ -962,11 +1014,11 @@ Protection orders
     
     *   (d) apply pursuant to [section 47][63] for the protection order to be discharged:
     
-    *   (e) where a direction is made pursuant to [section 32][45] in respect of the respondent, notify the court, in accordance with [section 36][49], that he or she objects to the direction.
+    *   (e) where a direction is made under [section 51D][77], in respect of the respondent, notify the court, in accordance with [section 51E][78], that he or she objects to the direction.
     
     (5) Where a protection order is made on an application without notice and, pursuant to [section 17][22], the court directs that the order applies against another person, that associated respondent may,---
         
-    *   (a) notify the court, in accordance with [section 76][108] (as applied by [section 79][111]), that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order, in so far as the order relates to him or her:
+    *   (a) notify the court, in accordance with [section 76][132] (as applied by [section 79][135]), that he or she wishes to be heard on whether a final order should be substituted for the temporary protection order, in so far as the order relates to him or her:
     
     *   (b) apply pursuant to [section 22][29] for the modification or discharge of the standard condition relating to weapons, in so far as the standard condition relates to him or her:
     
@@ -974,9 +1026,13 @@ Protection orders
     
     *   (d) apply pursuant to [section 47][63] for the protection order to be discharged, in so far as the order relates to him or her:
     
-    *   (e) where a direction is made pursuant to [section 32][45] in respect of the associated respondent, notify the court, in accordance with [section 36][49], that he or she objects to the direction.
+    *   (e) where a direction is made under [section 51D][77], in respect of the associated respondent, notify the court, in accordance with [section 51E][78], that he or she objects to the direction.
     
     Compare: 1982 No 120 s 5
+    
+    Section 13(4)(e): replaced, on 1 October 2014, by [section 7(1)][257] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 13(5)(e): replaced, on 1 October 2014, by [section 7(2)][257] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 #### Scope of protection orders
 
@@ -1006,7 +1062,7 @@ Protection orders
     
 *   A court must not decline to make a protection order merely because of the existence of other proceedings (including, but not limited to, proceedings relating to the role of providing day-to-day care for, or contact with, or custody of a minor) between or relating to the parties, whether or not those proceedings also relate to any other person.
     
-    Section 15: amended, on 1 July 2005, by [section 151][226] of the Care of Children Act 2004 (2004 No 90).
+    Section 15: amended, on 1 July 2005, by [section 151][258] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 16 Protection of persons other than applicant
     
@@ -1046,13 +1102,13 @@ Protection orders
     
     (6) Subsections (1A), (1B), and (5) apply in respect of a protection order regardless of whether the protection order is made before or after the commencement of those subsections.
     
-    Section 16(1A): inserted, on 16 November 2011, by [section 6(1)][227] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 16(1A): inserted, on 16 November 2011, by [section 6(1)][259] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 16(1B): inserted, on 16 November 2011, by [section 6(1)][227] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 16(1B): inserted, on 16 November 2011, by [section 6(1)][259] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 16(5): inserted, on 16 November 2011, by [section 6(2)][227] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 16(5): inserted, on 16 November 2011, by [section 6(2)][259] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 16(6): inserted, on 16 November 2011, by [section 6(2)][227] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 16(6): inserted, on 16 November 2011, by [section 6(2)][259] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 17 Protection from respondent's associates
     
@@ -1106,9 +1162,9 @@ Protection orders
         
         *   (iii) as is permitted under any special condition of the protection order; or
         
-        *   (iv) as is necessary for the purposes of attending a family group conference within the meaning of [section 2][228] of the Children, Young Persons, and Their Families Act 1989; or
+        *   (iv) as is necessary for the purposes of attending a family group conference within the meaning of [section 2][260] of the Children, Young Persons, and Their Families Act 1989; or
         
-        *   (v) as is necessary for the purposes of attending a settlement conference convened under [section 46Q][229] of the Care of Children Act 2004\.
+        *   (v) as is necessary for the purposes of attending a settlement conference convened under [section 46Q][261] of the Care of Children Act 2004\.
         
         
     
@@ -1118,13 +1174,13 @@ Protection orders
     
     Compare: 1982 No 120 ss 7, 16
     
-    Section 19(2)(e): amended, on 28 October 2009, by [section 4][230] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 19(2)(e): amended, on 28 October 2009, by [section 4][262] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 19(2)(e)(ii): amended, on 1 July 2005, by [section 151][226] of the Care of Children Act 2004 (2004 No 90).
+    Section 19(2)(e)(ii): amended, on 1 July 2005, by [section 151][258] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 19(2)(e)(iv): amended, on 31 March 2014, by [section 8(1)][231] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 19(2)(e)(iv): amended, on 31 March 2014, by [section 8(1)][263] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 19(2)(e)(v): inserted, on 31 March 2014, by [section 8(2)][231] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 19(2)(e)(v): inserted, on 31 March 2014, by [section 8(2)][263] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 20 Further provisions relating to standard condition prohibiting contact
     
@@ -1196,9 +1252,9 @@ Protection orders
     
     (5) Subject to [section 22][29], where, pursuant to a direction made under [section 17][22], a protection order applies against an associated respondent, the provisions of this section apply, with all necessary modifications, in respect of the associated respondent.
     
-    Section 21(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 21(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
     
-    Section 21(1)(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 21(1)(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
 
 ##### 22 Court may dispense with, modify, discharge, or re-impose standard condition relating to weapons
     
@@ -1206,7 +1262,7 @@ Protection orders
         
     *   (a) the court makes a final protection order on an application on notice; or
     
-    *   (b) pursuant to [section 80(1)][113], the court---
+    *   (b) pursuant to [section 80(1)][137], the court---
             
         *   (i) discharges a temporary protection order and makes a final protection order in its place; or
         
@@ -1326,13 +1382,13 @@ Protection orders
     
     does not oblige any Police employee to issue a firearms licence to any person to whom that standard condition applied or, as the case requires, applies.
     
-    Section 23(6): amended, on 1 October 2008, by [section 130(1)][233] of the Policing Act 2008 (2008 No 72).
+    Section 23(6): amended, on 1 October 2008, by [section 130(1)][265] of the Policing Act 2008 (2008 No 72).
 
 ##### 24 Further provisions relating to effect of standard condition relating to weapons
     
 *   (1) Where---
         
-    *   (a) a temporary protection order becomes a final order in accordance with [section 77(1)][109]; and
+    *   (a) a temporary protection order becomes a final order in accordance with [section 77(1)][133]; and
     
     *   (b) at the time the order becomes final, any firearms licence held by the respondent or an associated respondent is suspended pursuant to [section 21(2)][28],---
     
@@ -1344,11 +1400,11 @@ Protection orders
     
     *   (b) immediately on that suspension ceasing to be in force, then, except where the firearms licence is revoked (whether pursuant to subsection (1) or otherwise) or ceases to be in force, that firearms licence revives.
     
-    (3) Where, pursuant to subsection (1) or [section 21][28] of this Act, a firearms licence is revoked or deemed to be revoked, that revocation has effect as if the firearms licence had been revoked pursuant to [section 27][234] of the Arms Act 1983, except that nothing in this subsection---
+    (3) Where, pursuant to subsection (1) or [section 21][28] of this Act, a firearms licence is revoked or deemed to be revoked, that revocation has effect as if the firearms licence had been revoked pursuant to [section 27][266] of the Arms Act 1983, except that nothing in this subsection---
         
     *   (a) limits the terms of the standard condition relating to weapons; or
     
-    *   (b) confers on any person any right to appeal to any court, other than under [section 91][127], against the revocation of that firearms licence.
+    *   (b) confers on any person any right to appeal to any court, other than under [section 91][151], against the revocation of that firearms licence.
     
     
 
@@ -1364,9 +1420,9 @@ Protection orders
         
         
     
-    *   (b) in any case where the person's firearms licence is revoked by virtue of [section 21(2)][28] or [section 24(1)][31] of this Act, then, subject to paragraph (c) of this subsection, subsections (2) to (4) of [section 28][235] of the Arms Act 1983 apply, with all necessary modifications, as if the weapon were a firearm that had been delivered to a constable pursuant to section 28 of the Arms Act 1983:
+    *   (b) in any case where the person's firearms licence is revoked by virtue of [section 21(2)][28] or [section 24(1)][31] of this Act, then, subject to paragraph (c) of this subsection, subsections (2) to (4) of [section 28][267] of the Arms Act 1983 apply, with all necessary modifications, as if the weapon were a firearm that had been delivered to a constable pursuant to section 28 of the Arms Act 1983:
     
-    *   (c) if, at the time of the surrender of the weapon, the person was not lawfully entitled to possess the weapon (disregarding, for that purpose, the effect of the standard condition relating to weapons), the weapon is deemed to have been seized and detained pursuant to the [Arms Act 1983][215], and the provisions of [sections 65][236] and [70][237] of that Act apply accordingly:
+    *   (c) if, at the time of the surrender of the weapon, the person was not lawfully entitled to possess the weapon (disregarding, for that purpose, the effect of the standard condition relating to weapons), the weapon is deemed to have been seized and detained pursuant to the [Arms Act 1983][245], and the provisions of [sections 65][268] and [70][269] of that Act apply accordingly:
     
     *   (d) in any other case,---
             
@@ -1378,19 +1434,19 @@ Protection orders
     
     (2) Where a person's firearms licence is suspended pursuant to subsection (2) of [section 21][28], and that person surrenders that licence to a constable pursuant to that section, the Police must detain that licence for the period of the suspension, and, except where the licence is revoked or ceases to be in force, or may lawfully be retained pursuant to any other enactment, must return the licence to the person as soon as practicable after that suspension ceases to be in force.
     
-    Section 25(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 25(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
     
-    Section 25(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 25(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
     
-    Section 25(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 25(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
     
-    Section 25(1)(d)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 25(1)(d)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
     
-    Section 25(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][232] of the Policing Act 2008 (2008 No 72).
+    Section 25(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][264] of the Policing Act 2008 (2008 No 72).
 
 ##### 26 Arms Act 1983 not affected
     
-*   (1) Nothing in any of [sections 21 to 25][28] of this Act limits or affects any provision of the [Arms Act 1983][215] that authorises or permits---
+*   (1) Nothing in any of [sections 21 to 25][28] of this Act limits or affects any provision of the [Arms Act 1983][245] that authorises or permits---
         
     *   (a) the revocation of any firearms licence; or
     
@@ -1400,7 +1456,7 @@ Protection orders
         
     *   (a) a person's firearms licence is suspended pursuant to [section 21(2)][28]; and
     
-    *   (b) during the period of that suspension, that firearms licence is revoked pursuant to the [Arms Act 1983][215],---
+    *   (b) during the period of that suspension, that firearms licence is revoked pursuant to the [Arms Act 1983][245],---
     
     that suspension ceases to be in force.
 
@@ -1454,7 +1510,7 @@ Protection orders
 
 #### Interim care and contact orders
     
-*   Heading: inserted, on 16 November 2011, by [section 7][238] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+*   Heading: inserted, on 16 November 2011, by [section 7][270] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 28B Interim orders in respect of child of applicant's family
     
@@ -1472,7 +1528,7 @@ Protection orders
     
     (3) An order must not be made under subsection (2) in respect of a child of the applicant's family of or over the age of 16 years unless there are special circumstances.
     
-    Section 28B: inserted, on 16 November 2011, by [section 7][238] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 28B: inserted, on 16 November 2011, by [section 7][270] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 28C Duration of interim order
     
@@ -1482,347 +1538,129 @@ Protection orders
     
     *   (b) the date that the child attains the age of 16 years, unless the Family Court in special circumstances orders otherwise on or after making the order.
     
-    Section 28C: inserted, on 16 November 2011, by [section 7][238] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 28C: inserted, on 16 November 2011, by [section 7][270] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 28D Application for parenting order under Care of Children Act 2004 must be made
     
-*   (1) Where 1 or more interim orders have been made under [section 28B][38], a party in whose favour an order has been made must as soon as possible (if that party has not already done so) make an application under the [Care of Children Act 2004][239] for a parenting order.
+*   (1) Where 1 or more interim orders have been made under [section 28B][38], a party in whose favour an order has been made must as soon as possible (if that party has not already done so) make an application under the [Care of Children Act 2004][271] for a parenting order.
     
-    (2) For the purposes of [section 16(1)][240] of the Legal Services Act 2000, proceedings that relate to, or arise out of, an application for a protection order under [Part 2][9] of the Domestic Violence Act 1995 include proceedings commenced pursuant to an application referred to in subsection (1).
+    (2) For the purposes of [section 16(1)][272] of the Legal Services Act 2000, proceedings that relate to, or arise out of, an application for a protection order under [Part 2][9] of the Domestic Violence Act 1995 include proceedings commenced pursuant to an application referred to in subsection (1).
     
-    Section 28D: inserted, on 16 November 2011, by [section 7][238] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 28D: inserted, on 16 November 2011, by [section 7][270] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 #### Programmes
 
+\[Repealed\]
+    
+*   Heading: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
 ##### 29 Programmes for protected persons
     
-*   (1) Subject to subsection (4), where the court makes a protection order, the applicant may request a Registrar to authorise the provision of a programme to all or any of the following persons:
-        
-    *   (a) the applicant:
+*   \[Repealed\]
     
-    *   (b) a child of the applicant's family:
-    
-    *   (c) a specified person.
-    
-    (2) Subject to subsection (4), where the court makes a protection order, a specified person (other than a child) may request a Registrar to authorise the provision of a programme to that specified person.
-    
-    (3) Subject to subsection (4), where a request is made to a Registrar under subsection (1) or subsection (2), the Registrar must arrange for the matter to be referred to a programme provider without delay.
-    
-    (4) The following provisions apply with respect to the making of a request pursuant to this section, and with respect to the authorising of the provision of a programme in response to such a request:
-        
-    *   (a) where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or Registrar must cause the applicant to be informed of the applicant's right to make such a request:
-    
-    *   (b) a request may be made under this section, on behalf of an applicant, by a representative:
-    
-    *   (c) subject to paragraphs (d) and (g), a request may be made under this section at any time while the protection order remains in force:
-    
-    *   (d) a Registrar may not act on any request made after the protection order has been in force for 3 years or more, unless the Registrar is satisfied that there are special circumstances justifying the Registrar so acting:
-    
-    *   (e) subject to paragraphs (d) and (g), 1 or more requests may be made under this section, by the applicant, in relation to the same protection order:
-    
-    *   (f) a specified person may not make a request if the applicant has already made a request for a programme to be provided to the specified person:
-    
-    *   (g) no person is entitled to the provision of more than 1 programme in relation to the same protection order.
-    
-    (5) Where, pursuant to this section, a Registrar authorises the provision of a programme to a protected person, the number of programme sessions to be provided are to be determined in accordance with regulations made under this Act, or if no such regulations apply, by the Registrar.
-    
-    (6) Every lawyer acting for an applicant for a protection order must,---
-        
-    *   (a) ensure that the applicant is aware of the applicant's right to make a request under this section; and
-    
-    *   (b) where the applicant wishes to exercise that right, take such further steps as the lawyer considers necessary to enable the applicant to do so.
-    
-    Compare: 1982 No 120 ss 37, 37C; 1994 No 30 s 2
+    Section 29: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 30 Commencement of section 29
     
-*   (1) [Section 29][42], in so far as that section provides for Registrars to authorise the provision of programmes to persons who are not children, shall come into force on the date appointed pursuant to [section 1(2)][2] as the date on which this Act shall come into force.
+*   \[Repealed\]
     
-    (2) Subject to subsection (4), [section 29][42], in so far as that section provides for Registrars to authorise the provision of programmes to children, shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different purposes.
-    
-    (3) Without limiting the generality of subsection (2), 1 or more Orders in Council may be made under that subsection appointing different dates in respect of different areas of New Zealand, or in respect of different courts.
-    
-    (4) Except where [section 29][42] comes into force, for all purposes, at an earlier date, that section shall, notwithstanding subsection (2) of this section, come into force for all purposes on the expiry of the period of 2 years after the date appointed pursuant to [section 1(2)][2] as the date on which this Act shall come into force.
+    Section 30: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 31 Joint programme sessions
     
-*   A protected person and a respondent, or, as the case may be, a protected person and an associated respondent, cannot be required to attend programme sessions at which the other person is also present.
+*   \[Repealed\]
+    
+    Section 31: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 32 Power to direct respondent or associated respondent to attend programme
     
-*   (1) On making a protection order, the court must direct the respondent to attend a specified programme, unless the court considers that there is good reason for not making such a direction.
+*   \[Repealed\]
     
-    (2) Where the court makes a direction pursuant to [section 17][22] that a protection order apply against an associated respondent, the court may, if it considers it appropriate in all the circumstances to do so, direct the associated respondent to attend a specified programme.
-    
-    (3) \[Repealed\]
-    
-    (4) Without limiting subsection (1), there is good reason not to make a direction under that subsection if there is no programme available that is appropriate for the respondent, having regard to his or her character and personal history and to any other relevant circumstances.
-    
-    Compare: 1982 No 120 s 37A(1); 1986 No 85 s 3
-    
-    Section 32(3): repealed, on 28 October 2009, by [section 5][241] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 32: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 33 Terms of direction that respondent or associated respondent attend programme
     
-*   (1) When the court makes a direction under [section 32][45], it must state in the direction that the respondent or associated respondent, as the case requires,---
-        
-    *   (a) attend the programme---
-            
-        *   (i) for a specified number of sessions in each month; or
-        
-        *   (ii) for 1 session in each month and for such other session or sessions in each month as the programme provider may from time to time specify; or
-        
-        *   (iii) for such number of sessions in each month as the programme provider may from time to time specify in accordance with regulations made under this Act, or if no such regulations apply, as determined by the Registrar; and
-        
-        
+*   \[Repealed\]
     
-    *   (b) attend the programme for the first time---
-            
-        *   (i) on the date and at the time and place specified in the direction; or
-        
-        *   (ii) on a date and at a time and place to be advised by the programme provider as soon as practicable after the direction is made.
-        
-        
-    
-    (1A) Subsection (1B) applies if---
-        
-    *   (a) the court makes a direction under [section 32][45]; and
-    
-    *   (b) the respondent or associated respondent, as the case requires, has not been served with a copy of the protection order at least 10 working days prior to the date specified in the direction for his or her first attendance at the programme.
-    
-    (1B) The Registrar may amend the direction made under [section 32][45] to specify that the respondent or associated respondent, as the case requires, attend the programme for the first time on a later date and, if necessary, at a different---
-        
-    *   (a) time:
-    
-    *   (b) place.
-    
-    (2) The number of programme sessions that are or may be specified under subsection (1) must be determined in accordance with regulations made under this Act (if any).
-    
-    Compare: 1982 No 120 s 37C; 1994 No 30 s 3
-    
-    Section 33(1A): inserted, on 16 November 2011, by [section 8][242] of the Domestic Violence Amendment Act 2011 (2011 No 58).
-    
-    Section 33(1B): inserted, on 16 November 2011, by [section 8][242] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 33: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 34 Registrar to notify programme provider to whom respondent or associated respondent is referred
     
-*   Where the court makes a direction under [section 32][45], the Registrar must ensure that the programme provider to whom the respondent or, as the case requires, the associated respondent is referred is notified, without delay,---
-        
-    *   (a) that the direction has been made and of the terms of the direction; and
+*   \[Repealed\]
     
-    *   (b) of such other information (if any) as is prescribed for the purposes of this paragraph by regulations made under this Act.
-    
-    
+    Section 34: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 35 Programme provider to arrange meeting with respondent or associated respondent
     
-*   Where, in any direction made under [section 32][45], the court states, pursuant to [section 33(1)(b)(ii)][46], that the programme provider is to arrange the date on which, and the time and place at which, the respondent or associated respondent is to attend the programme for the first time, then after being notified pursuant to [section 34][47], the programme provider must, without delay,---
-        
-    *   (a) arrange to meet the respondent or associated respondent, as the case may be, at such time and place as the programme provider thinks fit; or
+*   \[Repealed\]
     
-    *   (b) by notice given in such manner as is prescribed by regulations made under this Act, request the respondent or associated respondent, as the case may be, to attend before the programme provider at a specified time and place.
-    
-    Compare: 1982 No 120 s 37A; 1986 No 85 s 3
+    Section 35: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 36 Direction to attend programme made on application without notice
     
-*   (1) This section applies where the court makes a direction under [section 32][45] on an application without notice.
+*   \[Repealed\]
     
-    (2) Where this section applies,---
-        
-    *   (a) the direction does not take effect until 10 working days after a copy of the direction is served on the person to whom it relates; and
-    
-    *   (b) that person may, within those 10 days, notify the court that he or she objects to the direction.
-    
-    (3) Where the respondent or associated respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,---
-        
-    *   (a) the Registrar must, if the respondent or associated respondent wishes to be heard, assign a hearing date, which must be---
-            
-        *   (i) as soon as practicable; and
-        
-        *   (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
-        
-        
-    
-    *   (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the person's objection, confirms the direction (whether with or without variation).
-    
-    (4) Nothing in this section or [section 37][50] gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits [section 76][108] or [section 79][111].
-    
-    Section 36(2): replaced, on 16 November 2011, by [section 9][243] of the Domestic Violence Amendment Act 2011 (2011 No 58).
-    
-    Section 36(3): replaced, on 16 November 2011, by [section 9][243] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 36: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 37 Court may confirm or discharge direction
     
-*   (1) After considering an objection made, pursuant to [section 36][49], to a direction, the court may---
-        
-    *   (a) confirm the direction; or
+*   \[Repealed\]
     
-    *   (b) confirm the direction but vary the terms of the direction; or
-    
-    *   (c) discharge the direction.
-    
-    (2) Where, pursuant to subsection (1), the court confirms or varies a direction, then, if the person to whom the direction relates is before the court, the Judge must warn that person that non-compliance with the direction is an offence punishable by imprisonment.
-    
-    (3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+    Section 37: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 38 Respondent or associated respondent excused from attending
     
-*   (1) Where, pursuant to a direction made under [section 32][45], a respondent or an associated respondent is required to attend a programme, a programme provider may in special circumstances, excuse the respondent or, as the case requires, the associated respondent from attendance at any session or sessions.
+*   \[Repealed\]
     
-    (2) Without limiting subsection (1), if a respondent or an associated respondent is unable to attend any session or sessions because of illness or injury, the programme provider, on being satisfied (whether before or after the failure to attend) with the circumstances of the case, may excuse the person from attending that session or those sessions.
-    
-    (3) Where, pursuant to this section, a person is excused from attendance at any session, that person must make up the missed session with an additional session, unless the programme provider considers that the person's absence has not significantly affected the person's ability to benefit fully from the programme.
+    Section 38: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 39 Notice of absence from programme
     
-*   (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under [section 32][45] must, where the respondent or the associated respondent fails to attend any session (except where he or she has been excused from attendance pursuant to [section 38][51]), within 7 days of that failure, notify that fact, in writing, to the Registrar.
+*   \[Repealed\]
     
-    (2) \[Repealed\]
-    
-    Section 39(2): repealed, on 18 May 2009, by [section 7][244] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 39: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 40 Notice of conclusion of programme
     
-*   (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under [section 32][45] must, when the programme concludes, notify that fact, in writing and without delay, to the Registrar.
+*   \[Repealed\]
     
-    (2) The notice given under subsection (1) to the Registrar must also state whether or not the respondent or the associated respondent, as the case requires,---
-        
-    *   (a) was excused from attending any session or sessions, and the reasons for that non-attendance:
-    
-    *   (b) participated fully in the programme, in particular, by completing any tasks set as part of the programme.
-    
-    (3) On receiving notification, pursuant to subsection (1), that the programme has concluded, the Registrar must notify that fact, in writing and without delay, to the applicant for the protection order, or to the applicant's lawyer.
-    
-    Compare: 1982 No 120 s 37B; 1986 No 85 s 3
+    Section 40: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 41 Programme provider may request variation of direction
     
-*   (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under [section 32][45] may, at any time during the course of the programme, if the programme provider---
-        
-    *   (a) believes, on reasonable grounds, that the programme is not appropriate for the respondent or, as the case requires, the associated respondent, having regard to his or her character and personal history and to any other relevant circumstances; or
+*   \[Repealed\]
     
-    *   (b) considers that the respondent or, as the case requires, the associated respondent is not participating fully in the programme, and that this is significantly affecting his or her ability to benefit fully from the programme,---
-    
-    by notice in writing to the Registrar, request that the direction be varied by substituting a different programme.
-    
-    (2) \[Repealed\]
-    
-    Section 41(2): repealed, on 18 May 2009, by [section 8][245] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 41: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 41A Powers of Registrar on receipt of notice under section 39 or 41
     
-*   (1) On receiving a notice under [section 39][52] or [41][54], the Registrar must, without delay, either---
-        
-    *   (a) exercise the powers under [section 82][117], as if he or she were the court referred to in that section, to call the respondent or, as the case may be, the associated respondent before the court; or
+*   \[Repealed\]
     
-    *   (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by [section 42][56] in relation to the respondent or, as the case may be, the associated respondent.
-    
-    (2) Where the Registrar exercises the powers under [section 82][117] in the manner allowed by subsection (1)(a) then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent or, as the case may be, the associated respondent, were a witness in the proceedings.
-    
-    Section 41A: inserted, on 18 May 2009, by [section 9][246] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 41A: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 42 Judge may call respondent or associated respondent before court
     
-*   (1) Where,---
-        
-    *   (a) a respondent or an associated respondent fails to comply in 1 or more respects with a direction made under [section 32(1)][45] or section 32(2); or
+*   \[Repealed\]
     
-    *   (b) pursuant to [section 41A(1)(b)][55], a Registrar brings a matter to the attention of a Judge,---
-    
-    a Judge may exercise the powers under [section 82][117] to call the respondent or, as the case may be, the associated respondent before the court; and, subject to any regulations made under this Act, section 82 applies, so far as applicable and with the necessary modifications, as if the person were a witness in proceedings.
-    
-    (2) \[Repealed\]
-    
-    (3) \[Repealed\]
-    
-    (4) \[Repealed\]
-    
-    (5) \[Repealed\]
-    
-    Compare: 1982 No 120 s 37A(5); 1986 No 85 s 3
-    
-    Section 42(1)(b): amended, on 18 May 2009, by [section 10(1)][247] of the Domestic Violence Amendment Act 2008 (2008 No 77).
-    
-    Section 42(2): repealed, on 18 May 2009, by [section 10(2)][247] of the Domestic Violence Amendment Act 2008 (2008 No 77).
-    
-    Section 42(3): repealed, on 18 May 2009, by [section 10(2)][247] of the Domestic Violence Amendment Act 2008 (2008 No 77).
-    
-    Section 42(4): repealed, on 18 May 2009, by [section 10(2)][247] of the Domestic Violence Amendment Act 2008 (2008 No 77).
-    
-    Section 42(5): repealed, on 18 May 2009, by [section 10(2)][247] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 42: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 42A Respondent or associated respondent called before court
     
-*   (1) Where a respondent or an associated respondent appears before the court under [section 41A(1)(a)][55] or [section 42][56], the court may, after hearing the respondent or the associated respondent, confirm, vary, or discharge the direction.
+*   \[Repealed\]
     
-    (2) The court may not vary or discharge a direction confirmed or varied under [section 37][50] unless a variation of that direction has been requested under [section 41][54].
-    
-    (3) Where the court confirms or varies a direction under subsection (1) and the respondent or, as the case may be, the associated respondent is before the court, the Judge must warn him or her that non-compliance with the direction is an offence punishable by imprisonment.
-    
-    (4) Failure to give the warning required by subsection (3) does not affect the validity of the direction confirmed or varied.
-    
-    Section 42A: inserted, on 18 May 2009, by [section 11][248] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 42A: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 43 Confidentiality of information disclosed to programme provider
     
-*   (1) In this section, unless the context otherwise requires,---
+*   \[Repealed\]
     
-    _authority_ means an authority given pursuant to [section 29][42]
-    
-    _direction_ means a direction made under [section 32][45]
-    
-    _information_ includes any statement or admission.
-    
-    (2) Subject to subsection (4), a programme provider must not disclose to any other person any information received by the programme provider in the course of carrying out that person's functions pursuant to any authority or direction.
-    
-    (3) Subject to subsection (4), no evidence is admissible in any court, or before any person acting judicially, of any information received by a programme provider in the course of carrying out that person's functions pursuant to any authority or direction.
-    
-    (4) Where any information is received by a programme provider (in this subsection referred to as the principal programme provider) in the course of carrying out that person's functions pursuant to any authority given, or direction made, in relation to a protection order, nothing in subsection (2) or subsection (3) prohibits the disclosure of that information, where that disclosure is made---
-        
-    *   (a) for the purposes of giving a notification pursuant to [section 39][52] or [section 40][53] or [section 41][54]; or
-    
-    *   (b) for the purposes of any proceedings under [section 42][56]; or
-    
-    *   (c) for the purposes of the investigation or prosecution of---
-            
-        *   (i) an offence against [section 49A][67]; or
-        
-        *   (ii) an offence committed or alleged to have been committed in the course of a programme provided by the principal programme provider; or
-        
-        
-    
-    *   (d) in circumstances in which the principal programme provider believes, on reasonable grounds, that the disclosure is necessary to prevent or lessen a serious and imminent threat to public safety or the safety of any person; or
-    
-    *   (e) with the authority of the person who disclosed the information to the principal programme provider; or
-    
-    *   (f) to another programme provider---
-            
-        *   (i) who is providing, or is to provide, a programme, pursuant to any authority or direction, to the person who disclosed the information; or
-        
-        *   (ii) who is providing, or is to provide, a programme, pursuant to an authority, to a person who is a protected person under the protection order; or
-        
-        *   (iii) who is providing, or is to provide, a programme, pursuant to a direction, to a person who is a respondent or an associated respondent under the protection order,---
-        
-        in each case where the principal programme provider reasonably considers that the disclosure of the information is necessary for the purpose of furthering the primary objective of the programme in relation to which the information is disclosed.
-    
-    (5) Where any information is disclosed, pursuant to subsection (4)(f), to a programme provider, subsections (2) to (4), so far as applicable and with the necessary modifications, apply as if that information had been received by that programme provider in the course of carrying out that person's functions pursuant to an authority or a direction.
-    
-    Compare: 1982 No 120 s 37A(6)--(7); 1986 No 85 s 3
-    
-    Section 43(4)(c)(i): amended, on 28 October 2009, by [section 6][249] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 43: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 44 Programme providers' fees and expenses
     
-*   Fees for programmes provided pursuant to [section 29][42] or [section 32][45], and reasonable expenses incurred,---
-        
-    *   (a) may be determined in accordance with regulations made under this Act; and
+*   \[Repealed\]
     
-    *   (b) are payable out of public money appropriated by Parliament for the purpose.
-    
-    Compare: 1982 No 120 s 37D; 1994 No 30 s 2
-    
-    Section 44(b): replaced, on 3 June 1998, by [section 2][250] of the Domestic Violence Amendment Act 1998 (1998 No 41).
+    Section 44: repealed, on 1 October 2014, by [section 9][273] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 #### Duration, variation, and discharge of protection orders
 
@@ -1830,11 +1668,11 @@ Protection orders
     
 *   (1) A temporary protection order continues in force until---
         
-    *   (a) the order becomes a final order in accordance with [section 77(1)][109]; or
+    *   (a) the order becomes a final order in accordance with [section 77(1)][133]; or
     
-    *   (b) the order lapses pursuant to [section 77(4)][109]; or
+    *   (b) the order lapses pursuant to [section 77(4)][133]; or
     
-    *   (c) the order is discharged pursuant to [section 80][113].
+    *   (c) the order is discharged pursuant to [section 80][137].
     
     (2) A final protection order continues in force until it is discharged pursuant to [section 47][63].
 
@@ -1846,9 +1684,9 @@ Protection orders
     
     *   (b) by imposing any special condition:
     
-    *   (c) by varying or discharging a direction made pursuant to [section 32][45]:
+    *   (c) by varying or discharging a direction made pursuant to [section 51D][77]:
     
-    *   (d) by making a direction pursuant to [section 32][45].
+    *   (d) by making a direction pursuant to [section 51D][77].
     
     (2) Where a protection order applies against an associated respondent, the court may, if it thinks fit, on the application of the applicant or the associated respondent, vary the protection order, in so far as it relates to the associated respondent,---
         
@@ -1856,9 +1694,9 @@ Protection orders
     
     *   (b) by imposing any special condition:
     
-    *   (c) by varying or discharging a direction made pursuant to [section 32][45]:
+    *   (c) by varying or discharging a direction made pursuant to [section 51D][77]:
     
-    *   (d) by making a direction pursuant to [section 32][45].
+    *   (d) by making a direction pursuant to [section 51D][77].
     
     (3) The court may, if it thinks fit, on the application of the applicant, vary a protection order---
         
@@ -1878,7 +1716,13 @@ Protection orders
     
     *   (b) unless there are special circumstances, in no case later than 42 days after the application is made.
     
+    Section 46(1)(c): amended, on 1 October 2014, by [section 10(1)][274] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
+    Section 46(1)(d): amended, on 1 October 2014, by [section 10(1)][274] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 46(2)(c): amended, on 1 October 2014, by [section 10(2)][274] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 46(2)(d): amended, on 1 October 2014, by [section 10(2)][274] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 47 Power to discharge protection order
     
@@ -1934,23 +1778,21 @@ Protection orders
     
     (3) Every person who is convicted of an offence against this section is liable to imprisonment for a term not exceeding 3 years.
     
-    (4) To avoid doubt, a failure to comply with a direction made under [section 32(1) or (2)][45] to attend a specified programme is not a breach of a protection order under subsection (1)(b).
+    (4) To avoid doubt, a failure to comply with a direction made under [section 51D][77] is not a breach of a protection order under subsection (1)(b).
     
-    Section 49: replaced, on 28 October 2009, by [section 7(1)][251] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 49: replaced, on 28 October 2009, by [section 7(1)][275] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 49(3): amended, on 25 September 2013, by [section 11(1)][252] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 49(3): amended, on 25 September 2013, by [section 11(1)][276] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 49(3): amended, on 1 July 2013, by [section 413][253] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49(3): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 49(4): amended, on 1 October 2014, by [section 11(2)][276] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 49A Offence to fail to comply with direction
     
-*   (1) Every person commits an offence who, without reasonable excuse, fails on any occasion to comply with a direction made under [section 32(1) or (2)][45] to attend a specified programme.
+*   \[Repealed\]
     
-    (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $5,000\.
-    
-    Section 49A: inserted, on 28 October 2009, by [section 7(1)][251] of the Domestic Violence Amendment Act 2009 (2009 No 43).
-    
-    Section 49A(2): amended, on 1 July 2013, by [section 413][253] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 49A: repealed, on 1 October 2014, by [section 12][278] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 50 Power to arrest for breach of protection order
     
@@ -1960,18 +1802,18 @@ Protection orders
     
     *   (b) failed to comply with any condition of the protection order.
     
-    Section 50: replaced, on 28 October 2009, by [section 8][254] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 50: replaced, on 28 October 2009, by [section 8][279] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 51 Release of person arrested
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 January 2001, by [section 74(2)][255] of the Bail Act 2000 (2000 No 38).
+    Section 51: repealed, on 1 January 2001, by [section 74(2)][280] of the Bail Act 2000 (2000 No 38).
 
 ## Part 2A  
 Programmes
     
-*   Part 2A: inserted, on 25 September 2013, by [section 13][256] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+*   Part 2A: inserted, on 25 September 2013, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 51A Interpretation
     
@@ -2015,23 +1857,411 @@ Programmes
     
     *   (b) provide programmes.
     
-    Section 51A: inserted, on 25 September 2013, by [section 13][256] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 51A: inserted, on 25 September 2013, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 #### Approval of service providers
     
-*   Heading: inserted, on 25 September 2013, by [section 13][256] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+*   Heading: inserted, on 25 September 2013, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 51B Service providers
     
 *   (1) The Secretary may decide to grant, suspend, or cancel an approval of a person or an organisation as a service provider.
     
-    (2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under [section 127(a)(i)][199].
+    (2) A person or an organisation seeking an approval under subsection (1) must follow the process (if any) prescribed by regulations made under [section 127(a)(i)][223].
     
-    (3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under [section 127(a)(ii)][199].
+    (3) In deciding whether to grant, suspend, or cancel an approval under subsection (1), the Secretary must apply the criteria (if any) prescribed by regulations made under [section 127(a)(ii)][223].
     
     (4) The Secretary must publish on an Internet site maintained by or on behalf of the Ministry of Justice a list of service providers.
     
-    Section 51B: inserted, on 25 September 2013, by [section 13][256] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 51B: inserted, on 25 September 2013, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Safety programmes
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51C Safety programmes for protected persons
+    
+*   (1) Where the court makes a protection order,---
+        
+    *   (a) the applicant, or the applicant's representative, may request the Registrar to authorise the provision of a safety programme to all or any of the following persons:
+            
+        *   (i) the applicant:
+        
+        *   (ii) a child of the applicant's family:
+        
+        *   (iii) a specified person; and
+        
+        
+    
+    *   (b) a specified person (other than a child) may request the Registrar to authorise the provision of a safety programme to that specified person if no request has been made under paragraph (a)(iii).
+    
+    (2) Where, at the time the protection order is made, the applicant has not made a request pursuant to this section, and the applicant is not legally represented, the Judge or the Registrar must cause the applicant to be informed of the applicant's right to make such a request.
+    
+    (3) A request may be made under subsection (1) at any time while the protection order remains in force.
+    
+    (4) Where a request is made to a Registrar under subsection (1), the Registrar must arrange for the matter to be referred to a service provider without delay.
+    
+    (5) The number of safety programme sessions to be provided to a protected person by a service provider to whom a referral has been made under subsection (4) is to be determined by the Registrar following discussion with the service provider.
+    
+    (6) Every lawyer acting for an applicant for a protection order must---
+        
+    *   (a) ensure that the applicant is aware of the applicant's right to make a request under this section; and
+    
+    *   (b) where the applicant wishes to exercise that right, take such further steps as the lawyer considers necessary to enable the applicant to do so.
+    
+    Section 51C: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Non-violence programmes
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51D Direction to attend assessment and non-violence programme
+    
+*   (1) On making a protection order, the court must direct the respondent to---
+        
+    *   (a) undertake an assessment; and
+    
+    *   (b) attend a non-violence programme.
+    
+    (2) The court need not make a direction under subsection (1) if---
+        
+    *   (a) there is no service provider available; or
+    
+    *   (b) the court considers that there is any other good reason for not making a direction.
+    
+    Section 51D: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51E Direction to attend non-violence programme made on application without notice
+    
+*   (1) This section applies where the court makes a direction under [section 51D][77] on an application made without notice.
+    
+    (2) Where this section applies,---
+        
+    *   (a) the direction does not take effect until 10 working days after a copy of the direction is served on the respondent; and
+    
+    *   (b) the respondent may, within those 10 working days, notify the court that he or she objects to the direction.
+    
+    (3) Where the respondent notifies the court, in accordance with subsection (2)(b), that he or she objects to the direction,---
+        
+    *   (a) the Registrar must, if the respondent wishes to be heard, assign a hearing date, which must be---
+            
+        *   (i) as soon as practicable; and
+        
+        *   (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
+        
+        
+    
+    *   (b) the direction is suspended from the date on which the court receives the notice of objection until the court, after considering the respondent's objection, confirms (whether with or without variation) or discharges the direction.
+    
+    (4) Nothing in this section or [section 51F][79] gives the court power to review any order or decision other than the direction to which the notice relates, but nothing in this section limits [section 76][132] or [79][135].
+    
+    Section 51E: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51F Court may confirm or discharge direction after considering objection made under section 51E
+    
+*   (1) After considering an objection, made under [section 51E][78], to a direction, the court may---
+        
+    *   (a) confirm the direction; or
+    
+    *   (b) vary the direction; or
+    
+    *   (c) discharge the direction.
+    
+    (2) Where, pursuant to subsection (1), the court confirms or varies a direction, then, if the respondent is before the court, the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+    
+    (3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+    
+    Section 51F: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51G Referral of respondent to service provider
+    
+*   (1) After the court has made a direction under [section 51D][77], the Registrar must, without delay,---
+        
+    *   (a) arrange for the respondent to be referred to a service provider; and
+    
+    *   (b) notify the service provider of the direction made under [section 51D][77].
+    
+    (2) This section is subject to [section 51E][78].
+    
+    Section 51G: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51H Service provider to meet with respondent
+    
+*   As soon as possible after receiving a notification under [section 51G][80], the service provider must arrange to meet with the respondent to---
+        
+    *   (a) undertake an assessment of the respondent; and
+    
+    *   (b) determine whether there is an appropriate non-violence programme for the respondent to attend.
+    
+    Section 51H: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51I Service provider to notify Registrar about safety concerns
+    
+*   (1) This section applies if a service provider has concerns about the safety of a protected person---
+        
+    *   (a) after undertaking an assessment of the respondent; or
+    
+    *   (b) during the provision of a non-violence programme to a respondent.
+    
+    (2) The service provider must, without delay, notify the Registrar of those concerns.
+    
+    (3) On receiving a notification under subsection (2), the Registrar must---
+        
+    *   (a) forward a copy of the notification to a Judge; and
+    
+    *   (b) arrange for the protected person to be advised of the service provider's concerns.
+    
+    (4) On receiving a copy of a notification under subsection (3)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+    
+    Section 51I: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51J Referral to different service provider
+    
+*   (1) This section applies if a service provider, after undertaking an assessment of the respondent,---
+        
+    *   (a) determines that there is an appropriate non-violence programme for the respondent to attend; but
+    
+    *   (b) is not able to provide that programme to the respondent.
+    
+    (2) The service provider must---
+        
+    *   (a) notify the Registrar; and
+    
+    *   (b) send to the Registrar the following information:
+            
+        *   (i) the result of the assessment of the respondent undertaken by the service provider; and
+        
+        *   (ii) any other information relating to the respondent that is held by the service provider.
+        
+        
+    
+    (3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must make a new referral under [section 51G][80] to a service provider that is able to provide an appropriate programme to the respondent.
+    
+    Section 51J: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51K Judge may discharge direction to attend non-violence programme in certain cases
+    
+*   (1) This section applies if a service provider, after undertaking an assessment of a respondent, determines that---
+        
+    *   (a) there is an appropriate non-violence programme for the respondent to attend but that---
+            
+        *   (i) the respondent's attendance at the programme should be delayed to enable other matters to first be addressed; or
+        
+        *   (ii) it would not be appropriate for the respondent to attend the programme; or
+        
+        
+    
+    *   (b) there is not an appropriate non-violence programme for the respondent to attend.
+    
+    (2) The service provider must notify the Registrar, and the Registrar must bring the matter to the attention of a Judge.
+    
+    (3) When a matter is brought to the attention of a Judge under subsection (2), the Judge must---
+        
+    *   (a) discharge the direction made under [section 51D(1)(b)][77]; and
+    
+    *   (b) make such other orders or directions as the Judge thinks fit in the circumstances.
+    
+    Section 51K: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51L Service provider and respondent to settle terms of attendance at non-violence programme
+    
+*   (1) Before providing a non-violence programme to a respondent, the service provider must settle in writing with the respondent the terms of attendance, which must include---
+        
+    *   (a) the number of programme sessions that the respondent must attend; and
+    
+    *   (b) the place, date, and time of the first programme session, and all subsequent sessions, that the respondent must attend.
+    
+    (2) The service provider must provide to the Registrar a copy of the terms of attendance that the service provider has settled with the respondent.
+    
+    (3) If a service provider is not able to settle with a respondent the terms of attendance, the service provider must notify the Registrar.
+    
+    (4) On receipt of a notice under subsection (3), the Registrar must---
+        
+    *   (a) settle the terms of attendance with the respondent and the service provider; or
+    
+    *   (b) bring the matter to the attention of a Judge.
+    
+    (5) When a matter is brought to the attention of a Judge under subsection (4)(b), the Judge may make such further directions as the Judge thinks fit in the circumstances.
+    
+    Section 51L: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51M Notice to be given to court if continued provision of non-violence programme inappropriate
+    
+*   (1) Subsection (2) applies if at any time during the provision of a non-violence programme the service provider considers that---
+        
+    *   (a) it is no longer appropriate or practicable for the service provider to provide the programme to the respondent; or
+    
+    *   (b) the respondent is not participating fully in the programme, and that this is significantly affecting the respondent's ability to benefit fully from the programme.
+    
+    (2) The service provider must---
+        
+    *   (a) notify the Registrar; and
+    
+    *   (b) send to the Registrar all information relating to the respondent that is held by the service provider.
+    
+    (3) After receiving a notification under subsection (2)(a) and the information referred to in subsection (2)(b), the Registrar must---
+        
+    *   (a) make a new referral under [section 51G][80] to a different service provider; or
+    
+    *   (b) bring the matter to the attention of a Judge.
+    
+    (4) When a matter is brought to the attention of a Judge under subsection (3)(b), the Judge may make such other orders or directions as the Judge thinks fit in the circumstances.
+    
+    Section 51M: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Non-compliance with direction to attend assessment and non-violence programme
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51N Notice of non-compliance with direction
+    
+*   (1) This section applies if the court makes a direction under [section 51D][77] and the respondent fails to do either or both of the following:
+        
+    *   (a) undertake an assessment with the service provider to whom notice of the direction has been given under [section 51G][80]:
+    
+    *   (b) attend a non-violence programme in accordance with terms of attendance settled under [section 51L][85].
+    
+    (2) The service provider must give written notice to the Registrar of the respondent's failure.
+    
+    (3) Notice under subsection (2) must be given within 7 days of the respondent's failure.
+    
+    Section 51N: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51O Powers of Registrar on receipt of notice under section 51N
+    
+*   (1) On receiving a notice under [section 51N][88], the Registrar must, without delay,---
+        
+    *   (a) exercise the powers under [section 82][141], as if he or she were the court referred to in that section, to call the respondent before the court; or
+    
+    *   (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by [section 51P][90] in relation to the respondent.
+    
+    (2) If the Registrar exercises the powers under [section 82][141] in the manner allowed by subsection (1)(a), then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent were a witness in proceedings.
+    
+    Section 51O: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51P Judge may call respondent before court
+    
+*   (1) If, under [section 51O(1)(b)][89], a Registrar brings a matter to the attention of a Judge, subsection (2) applies.
+    
+    (2) A Judge may exercise the powers under [section 82][141] to call the respondent before the court.
+    
+    (3) If a Judge exercises the powers under [section 82][141], that section applies, so far as applicable and with all necessary modifications, as if the respondent were a witness in proceedings.
+    
+    Section 51P: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51Q Respondent called before court
+    
+*   (1) If a respondent appears before the court under [section 51O(1)(a)][89] or [51P(2)][90], the court may, after hearing from the respondent, confirm, vary, or discharge the direction or change the terms of attendance.
+    
+    (2) If the court confirms or varies a direction under subsection (1), the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
+    
+    (3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.
+    
+    Section 51Q: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Completion of non-violence programme
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51R Notice of completion and outcome of non-violence programme
+    
+*   (1) When a respondent has completed a non-violence programme, the service provider must, without delay, provide to the Registrar a report that---
+        
+    *   (a) states whether, in the opinion of the service provider, the respondent has achieved the objectives of the non-violence programme; and
+    
+    *   (b) advises of any concerns that the service provider has about the safety of any protected person.
+    
+    (2) On receiving a report under subsection (1), the Registrar must---
+        
+    *   (a) forward a copy of that report to a Judge; and
+    
+    *   (b) arrange for the protected person to be notified---
+            
+        *   (i) that the respondent has completed a non-violence programme; and
+        
+        *   (ii) that a report has been provided by the service provider of that non-violence programme under subsection (1); and
+        
+        *   (iii) of any concerns that the service provider has about the safety of the protected person advised in that report.
+        
+        
+    
+    (3) On receiving a copy of a report under subsection (2)(a), the Judge may make such orders or directions as the Judge thinks fit in the circumstances.
+    
+    Section 51R: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Confidentiality of information
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51S Confidentiality of information disclosed to service provider
+    
+*   (1) In this section, unless the context otherwise requires, _information_ includes any statement or admission.
+    
+    (2) Information received by a service provider in the course of providing a programme may not---
+        
+    *   (a) be disclosed to any other person; or
+    
+    *   (b) be admitted as evidence in any court or before any person acting judicially.
+    
+    (3) However, nothing in subsection (2) prohibits the disclosure of information received by a service provider in the course of providing a programme if that disclosure is made---
+        
+    *   (a) for the purpose of giving a notification to a Registrar under---
+            
+        *   (i) [section 51I(2)][82]:
+        
+        *   (ii) [section 51J(2)][83]:
+        
+        *   (iii) [section 51K(2)][84]:
+        
+        *   (iv) [section 51L(3)][85]:
+        
+        *   (v) [section 51M(2)][86]:
+        
+        
+    
+    *   (b) for the purpose of a Registrar making a referral under---
+            
+        *   (i) [section 51J(3)][83]:
+        
+        *   (ii) [section 51M(3)(a)][86]:
+        
+        
+    
+    *   (c) for the purpose of any proceedings under---
+            
+        *   (i) [section 51O][89]:
+        
+        *   (ii) [section 51P][90]:
+        
+        
+    
+    *   (d) for the purposes of investigating or prosecuting---
+            
+        *   (i) an offence against [section 51T][97]; or
+        
+        *   (ii) an offence committed or alleged to have been committed during the provision of a programme:
+        
+        
+    
+    *   (e) in circumstances in which the service provider believes, on reasonable grounds, that the disclosure is necessary to prevent or lessen a serious threat to public safety or the safety of any person:
+    
+    *   (f) with the authority of the person who disclosed the information to the service provider.
+    
+    Section 51S: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+#### Enforcement of directions
+    
+*   Heading: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 51T Offence to fail to comply with direction
+    
+*   A respondent who fails, without reasonable excuse, to comply with a direction made under [section 51D][77] commits an offence and is liable on conviction to---
+        
+    *   (a) a fine not exceeding $5,000; or
+    
+    *   (b) a term of imprisonment not exceeding 6 months.
+    
+    Section 51T: inserted, on 1 October 2014, by [section 13][281] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ## Part 3  
 Orders relating to property
@@ -2044,11 +2274,11 @@ Orders relating to property
     
     Compare: 1982 No 120 s 19
     
-    Section 52: amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 52: amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 53 Power to make occupation order
     
-*   (1) Subject to [section 74][104] of this Act and to subsection (2), on hearing an application for an occupation order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][257], make an order granting to the applicant the right to personally occupy a specified dwellinghouse.
+*   (1) Subject to [section 74][128] of this Act and to subsection (2), on hearing an application for an occupation order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][282], make an order granting to the applicant the right to personally occupy a specified dwellinghouse.
     
     (2) The court may make an order under subsection (1) only if it is satisfied that the order---
         
@@ -2074,13 +2304,13 @@ Orders relating to property
     
     Compare: 1982 No 120 s 21
     
-    Section 53(1): amended, on 1 February 2002, by [section 64(2)][258] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 53(1): amended, on 1 February 2002, by [section 64(2)][283] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 54 Effect of occupation order
     
 *   (1) The person in whose favour an occupation order is made is entitled, to the exclusion of the person against whom the order is made, to personally occupy the dwellinghouse to which the order relates, together with any land, buildings, or improvements appurtenant to that dwellinghouse which are used, or ordinarily would be used, for the purposes of a household.
     
-    (2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to [section 31(1)(d)][259] of the District Courts Act 1947\.
+    (2) An occupation order is enforceable as if it were an order for the recovery of land made pursuant to [section 31(1)(d)][284] of the District Courts Act 1947\.
     
     Compare: 1982 No 120 s 22
 
@@ -2088,9 +2318,9 @@ Orders relating to property
     
 *   (1) On the application of either party, or of the personal representative of either party, the court may, if it thinks fit, make an order---
         
-    *   (a) extending or reducing any period specified by the court pursuant to [section 53(5)][77]; or
+    *   (a) extending or reducing any period specified by the court pursuant to [section 53(5)][101]; or
     
-    *   (b) varying or discharging any terms and conditions imposed by the court pursuant to [section 53(5)][77]; or
+    *   (b) varying or discharging any terms and conditions imposed by the court pursuant to [section 53(5)][101]; or
     
     *   (c) discharging the occupation order.
     
@@ -2120,11 +2350,11 @@ Orders relating to property
     
     Compare: 1982 No 120 s 24; 1987 No 136 s 2
     
-    Section 56(1): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 56(1): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 57 Power to make tenancy order
     
-*   (1) Subject to [section 74][104] of this Act and to subsection (2), on hearing an application for a tenancy order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][257], make an order vesting in the applicant the tenancy of a specified dwellinghouse.
+*   (1) Subject to [section 74][128] of this Act and to subsection (2), on hearing an application for a tenancy order, the court may, notwithstanding anything in the [Property (Relationships) Act 1976][282], make an order vesting in the applicant the tenancy of a specified dwellinghouse.
     
     (2) The court may make an order under subsection (1) only if it is satisfied that the order---
         
@@ -2136,7 +2366,7 @@ Orders relating to property
     
     Compare: 1982 No 120 s 26
     
-    Section 57(1): amended, on 1 February 2002, by [section 64(2)][258] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 57(1): amended, on 1 February 2002, by [section 64(2)][283] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 58 Effect of tenancy order
     
@@ -2152,7 +2382,7 @@ Orders relating to property
         
     *   (a) limits or affects the operation of any enactment or rule of law for the time being applicable to---
             
-        *   (i) any tenancy to which [section 56][81] applies; or
+        *   (i) any tenancy to which [section 56][105] applies; or
         
         *   (ii) the dwellinghouse held under the tenancy; or
         
@@ -2160,9 +2390,9 @@ Orders relating to property
     
     *   (b) authorises the court to vary any express or implied term or condition of the tenancy except by---
             
-        *   (i) vesting the tenancy pursuant to [section 57][82]; or
+        *   (i) vesting the tenancy pursuant to [section 57][106]; or
         
-        *   (ii) revesting the tenancy pursuant to [section 59][84].
+        *   (ii) revesting the tenancy pursuant to [section 59][108].
         
         
     
@@ -2192,7 +2422,7 @@ Orders relating to property
     
     *   (b) the delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant's family to physical or sexual abuse.
     
-    (2) Any occupation order or tenancy order made on an application without notice is a temporary order that, subject to [sections 76 to 80][108], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+    (2) Any occupation order or tenancy order made on an application without notice is a temporary order that, subject to [sections 76 to 80][132], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
     
     (2A) When a temporary order becomes a final order pursuant to subsection (2), the final order comes into effect immediately.
     
@@ -2208,15 +2438,15 @@ Orders relating to property
     
     (5) Where an occupation order or a tenancy order is made on an application without notice, the respondent may,---
         
-    *   (a) notify the court, in accordance with [section 76][108], that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
+    *   (a) notify the court, in accordance with [section 76][132], that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
     
-    *   (b) in the case of an occupation order, apply pursuant to [section 55][79] for the order to be varied or discharged:
+    *   (b) in the case of an occupation order, apply pursuant to [section 55][103] for the order to be varied or discharged:
     
-    *   (c) in the case of a tenancy order, apply pursuant to [section 59][84] for the order to be discharged and the tenancy revested.
+    *   (c) in the case of a tenancy order, apply pursuant to [section 59][108] for the order to be discharged and the tenancy revested.
     
     Compare: 1982 No 120 s 20
     
-    Section 60(2A): inserted, on 16 November 2011, by [section 10][260] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 60(2A): inserted, on 16 November 2011, by [section 10][285] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 61 Procedure for occupation orders and tenancy orders
     
@@ -2226,7 +2456,7 @@ Orders relating to property
     
     *   (b) the making of a tenancy order is appropriate; and
     
-    *   (c) [section 74][104] has been complied with in respect of the making of a tenancy order other than a temporary order,---
+    *   (c) [section 74][128] has been complied with in respect of the making of a tenancy order other than a temporary order,---
     
     make a tenancy order (whether or not it makes an occupation order).
     
@@ -2236,7 +2466,7 @@ Orders relating to property
     
     *   (b) the making of an occupation order is appropriate; and
     
-    *   (c) [section 74][104] has been complied with in respect of the making of an occupation order other than a temporary order,---
+    *   (c) [section 74][128] has been complied with in respect of the making of an occupation order other than a temporary order,---
     
     make an occupation order (whether or not it makes a tenancy order).
     
@@ -2260,7 +2490,7 @@ Orders relating to property
 
 ##### 63 Power to make ancillary furniture order
     
-*   (1) Subject to [section 74][104] and to subsections (2) and (6), on or after making an occupation order or a tenancy order, the court may make an order granting to the applicant the use of all or any of the furniture, household appliances, and household effects in the dwellinghouse specified in the occupation order, or as the case may be, the tenancy order.
+*   (1) Subject to [section 74][128] and to subsections (2) and (6), on or after making an occupation order or a tenancy order, the court may make an order granting to the applicant the use of all or any of the furniture, household appliances, and household effects in the dwellinghouse specified in the occupation order, or as the case may be, the tenancy order.
     
     (2) The court may make an order under subsection (1) only if it is satisfied---
         
@@ -2292,11 +2522,11 @@ Orders relating to property
     
 *   (1) Subject to subsection (2), on the application of either party, or of the personal representative of either party, the court may, if it thinks fit, make an order---
         
-    *   (a) extending or reducing any period specified by the court pursuant to [section 63(6)][90]; or
+    *   (a) extending or reducing any period specified by the court pursuant to [section 63(6)][114]; or
     
     *   (b) varying the furniture, household appliances, and household effects to which the order relates; or
     
-    *   (c) varying or discharging any terms and conditions imposed by the court pursuant to [section 63(5)][90]; or
+    *   (c) varying or discharging any terms and conditions imposed by the court pursuant to [section 63(5)][114]; or
     
     *   (d) discharging the ancillary furniture order.
     
@@ -2304,7 +2534,7 @@ Orders relating to property
         
     *   (a) if the occupation order or tenancy order to which the ancillary furniture order relates is no longer in force; or
     
-    *   (b) in circumstances in which the court could not make an ancillary furniture order under [section 63][90].
+    *   (b) in circumstances in which the court could not make an ancillary furniture order under [section 63][114].
     
     (3) Where an application is made under this section in respect of a temporary ancillary furniture order, the Registrar must assign a hearing date, which must be---
         
@@ -2338,11 +2568,11 @@ Orders relating to property
     
     apply to the court for an order for the possession and use of all or any of the furniture, household appliances, and household effects in that dwellinghouse.
     
-    Section 66: amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 66: amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 67 Power to make furniture order
     
-*   (1) Subject to [section 74][104] and to subsections (2) and (6), but notwithstanding anything in the [Property (Relationships) Act 1976][257], on or after making a protection order, the court may also make an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in the dwellinghouse in which the parties live or have lived.
+*   (1) Subject to [section 74][128] and to subsections (2) and (6), but notwithstanding anything in the [Property (Relationships) Act 1976][282], on or after making a protection order, the court may also make an order granting to the applicant the possession and use of all or any of the furniture, household appliances, and household effects in the dwellinghouse in which the parties live or have lived.
     
     (2) The court may make an order under subsection (1) only if it is satisfied---
         
@@ -2362,7 +2592,7 @@ Orders relating to property
     
     *   (b) in any event, irrespective of its terms, the order expires if the protection order to which the order relates expires or is discharged.
     
-    Section 67(1): amended, on 1 February 2002, by [section 64(2)][258] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 67(1): amended, on 1 February 2002, by [section 64(2)][283] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 68 Effect of furniture order
     
@@ -2374,11 +2604,11 @@ Orders relating to property
     
 *   (1) On the application of either party, or of the personal representative of either party, the court may, if it thinks fit, make an order---
         
-    *   (a) extending or reducing any period specified by the court pursuant to [section 67(6)][95]; or
+    *   (a) extending or reducing any period specified by the court pursuant to [section 67(6)][119]; or
     
     *   (b) varying the furniture, household appliances, and household effects to which the order relates; or
     
-    *   (c) varying or discharging any terms and conditions imposed by the court pursuant to [section 67(5)][95]; or
+    *   (c) varying or discharging any terms and conditions imposed by the court pursuant to [section 67(5)][119]; or
     
     *   (d) discharging the furniture order.
     
@@ -2386,7 +2616,7 @@ Orders relating to property
         
     *   (a) if the protection order to which the furniture order relates is no longer in force; or
     
-    *   (b) in circumstances in which the court could not make a furniture order under [section 67][95].
+    *   (b) in circumstances in which the court could not make a furniture order under [section 67][119].
     
     (3) Where an application is made under this section in respect of a temporary furniture order, the Registrar must assign a hearing date, which must be---
         
@@ -2400,13 +2630,13 @@ Orders relating to property
 
 ##### 70 Application without notice for ancillary furniture order or furniture order
     
-*   (1) Subject to subsections (3) and (4), an order under [section 63][90] or [section 67][95] may be made on an application without notice if the court is satisfied---
+*   (1) Subject to subsections (3) and (4), an order under [section 63][114] or [section 67][119] may be made on an application without notice if the court is satisfied---
         
     *   (a) that the respondent has physically or sexually abused the applicant or a child of the applicant's family; and
     
     *   (b) that the delay that would be caused by proceeding on notice would or might expose the applicant or a child of the applicant's family to physical or sexual abuse.
     
-    (2) Any ancillary furniture order or furniture order made on an application without notice is a temporary order that, subject to [sections 76 to 80][108], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
+    (2) Any ancillary furniture order or furniture order made on an application without notice is a temporary order that, subject to [sections 76 to 80][132], and unless it is sooner discharged, becomes final by operation of law 3 months after the date on which it is made.
     
     (2A) When a temporary order becomes a final order pursuant to subsection (2), the final order comes into effect immediately.
     
@@ -2424,19 +2654,19 @@ Orders relating to property
     
     (6) Where an ancillary furniture order or a furniture order is made on an application without notice, the respondent may---
         
-    *   (a) notify the court, in accordance with [section 76][108], that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
+    *   (a) notify the court, in accordance with [section 76][132], that he or she wishes to be heard on whether a final order should be substituted for the temporary order:
     
-    *   (b) in the case of an ancillary furniture order, apply pursuant to [section 65][92] for the order to be varied or discharged:
+    *   (b) in the case of an ancillary furniture order, apply pursuant to [section 65][116] for the order to be varied or discharged:
     
-    *   (c) in the case of a furniture order, apply pursuant to [section 69][97] for the order to be varied or discharged.
+    *   (c) in the case of a furniture order, apply pursuant to [section 69][121] for the order to be varied or discharged.
     
-    Section 70(2A): inserted, on 16 November 2011, by [section 11][261] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 70(2A): inserted, on 16 November 2011, by [section 11][286] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 #### General provisions relating to property orders
 
 ##### 71 Applications for property orders by minors
     
-*   (1) Subject to [sections 11][15] and [12][16] (as applied by [section 73][103]), a minor---
+*   (1) Subject to [sections 11][15] and [12][16] (as applied by [section 73][127]), a minor---
         
     *   (a) who is aged 17 years or over; and
     
@@ -2446,11 +2676,11 @@ Orders relating to property
     
     (2) Subject to [sections 11][15] and [12][16], a minor aged 16 years may either make the application on his or her own behalf under subsection (1), or may make it by a representative pursuant to rules of court; and in either case orders may be made on the application, and enforced, as if the minor were of full age.
     
-    Section 71 heading: amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 71 heading: amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 71(1)(a): replaced, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 71(1)(a): replaced, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 71(2): inserted, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 71(2): inserted, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 72 Applications for property orders against minors
     
@@ -2464,9 +2694,9 @@ Orders relating to property
     
     as if the minor were of full age.
     
-    Section 72(1): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 72(1): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 72(2)(a): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 72(2)(a): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 73 Applications for property orders on behalf of persons other than children
     
@@ -2505,7 +2735,7 @@ Procedure
         
     *   (a) the respondent's right under subsection (1); and
     
-    *   (b) that, subject to [sections 36][49], [78][110], and [79][111], if the respondent does not take any steps in the proceedings, the temporary order becomes final in accordance with [section 77][109] by operation of law 3 months after the date on which it is made.
+    *   (b) that, subject to [sections 51E][78], [78][134], and [79][135], if the respondent does not take any steps in the proceedings, the temporary order becomes final in accordance with [section 77][133] by operation of law 3 months after the date on which it is made.
     
     (3) Where the respondent notifies the court, in accordance with subsection (1), that he or she wishes to be heard, the Registrar must assign a hearing date, which must be---
         
@@ -2513,11 +2743,11 @@ Procedure
     
     *   (b) unless there are special circumstances, in no case later than 42 days after the receipt of the respondent's notice.
     
-    
+    Section 76(2)(b): amended, on 1 October 2014, by [section 14][287] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 77 Procedure where respondent does not require hearing
     
-*   (1) Subject to [sections 36][49], [78][110], and [79][111] and to subsections (2) and (3), unless the respondent notifies the court in accordance with [section 76(1)][108] that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
+*   (1) Subject to [sections 51E][78], [78][134], and [79][135] and to subsections (2) and (3), unless the respondent notifies the court in accordance with [section 76(1)][132] that he or she wishes to be heard, or the order is sooner discharged, a temporary order becomes final by operation of law 3 months after the date on which it is made.
     
     (1A) When a temporary order becomes a final order pursuant to subsection (1), the final order comes into effect immediately.
     
@@ -2531,11 +2761,13 @@ Procedure
     
     (4) Where the period for service is extended pursuant to subsection (3), and, at the expiry of the period or periods, the temporary order has not been served, the order lapses.
     
-    Section 77(1A): inserted, on 16 November 2011, by [section 12][262] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 77(1): amended, on 1 October 2014, by [section 15][288] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 77(1A): inserted, on 16 November 2011, by [section 12][289] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 78 Court may require hearing before order becomes final
     
-*   (1) Where, on or after making a temporary order, the court considers that there is good reason why the order should not become final in accordance with [section 77][109] without a hearing at which the applicant or the respondent, or both, are present or represented, the court, of its own motion, may direct that there be a hearing.
+*   (1) Where, on or after making a temporary order, the court considers that there is good reason why the order should not become final in accordance with [section 77][133] without a hearing at which the applicant or the respondent, or both, are present or represented, the court, of its own motion, may direct that there be a hearing.
     
     (2) A direction made under subsection (1) may---
         
@@ -2543,21 +2775,21 @@ Procedure
     
     *   (b) be made even though the respondent does not wish to be heard.
     
-    (3) Where the direction under subsection (1) relates to specified parts of the order made or sought, the remaining parts of the order may become final in accordance with [section 77][109].
+    (3) Where the direction under subsection (1) relates to specified parts of the order made or sought, the remaining parts of the order may become final in accordance with [section 77][133].
     
     (4) Where, pursuant to subsection (1), the court directs that there be a hearing, the Registrar must assign a hearing date, which must be as soon as practicable.
     
-    (5) Without limiting [section 82][117], where the court makes a direction under subsection (1), it may issue a summons, in accordance with [section 82(4)][117], requiring the respondent to attend the court at a place and time specified in the summons.
+    (5) Without limiting [section 82][141], where the court makes a direction under subsection (1), it may issue a summons, in accordance with [section 82(4)][141], requiring the respondent to attend the court at a place and time specified in the summons.
 
 ##### 79 Application of sections 76 to 78 to other affected persons
     
-*   (1) The provisions of [sections 76][108], [77][109], and [78][110], so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were the respondent.
+*   (1) The provisions of [sections 76][132], [77][133], and [78][134], so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were the respondent.
     
-    (2) Where, pursuant to [section 76][108], the associated respondent notifies the court that he or she wishes to be heard, but the respondent does not do so, the temporary order becomes final in accordance with [section 77(1)][109] in so far as it relates to the respondent, even though a hearing is required on whether the order is to become final in respect of the associated respondent.
+    (2) Where, pursuant to [section 76][132], the associated respondent notifies the court that he or she wishes to be heard, but the respondent does not do so, the temporary order becomes final in accordance with [section 77(1)][133] in so far as it relates to the respondent, even though a hearing is required on whether the order is to become final in respect of the associated respondent.
     
     (3) No occupation order, tenancy order, ancillary furniture order, or furniture order that is a temporary order becomes final unless the court is satisfied that---
         
-    *   (a) notice has been given pursuant to [section 74][104] to any person having an interest in the property affected by the order; and
+    *   (a) notice has been given pursuant to [section 74][128] to any person having an interest in the property affected by the order; and
     
     *   (b) the person so notified takes no steps in the proceedings.
     
@@ -2583,9 +2815,9 @@ Procedure
     
     *   (d) a lawyer representing the respondent:
     
-    *   (e) a lawyer appointed under [section 81][116]:
+    *   (e) a lawyer appointed under [section 81][140]:
     
-    *   (f) any lawyer appointed under [section 7(1)][263] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
+    *   (f) any lawyer appointed under [section 7(1)][290] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
     
     *   (g) any other persons whom the Family Court Judge permits to be present.
     
@@ -2599,17 +2831,17 @@ Procedure
     
     (5) The provisions of this section, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were a respondent.
     
-    Section 79A: inserted, on 16 November 2011, by [section 13][264] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 79A: inserted, on 16 November 2011, by [section 13][291] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 80 Procedure where hearing required
     
-*   (1) Where, pursuant to [section 76][108] or [section 79][111], the respondent or an associated respondent or any person to whom section 79(3) applies notifies the court that he or she wishes to be heard, or in any other case where a hearing is required or held, the court may at the hearing---
+*   (1) Where, pursuant to [section 76][132] or [section 79][135], the respondent or an associated respondent or any person to whom section 79(3) applies notifies the court that he or she wishes to be heard, or in any other case where a hearing is required or held, the court may at the hearing---
         
     *   (a) discharge the temporary order; or
     
     *   (b) make the temporary order a final order (whether with or without variation); or
     
-    *   (c) in a case to which [section 78(3)][110] or [section 79(2)][111] applies and where part of the temporary order has become final in accordance with [section 77][109],---
+    *   (c) in a case to which [section 78(3)][134] or [section 79(2)][135] applies and where part of the temporary order has become final in accordance with [section 77][133],---
             
         *   (i) confirm the temporary order to the extent that it has not already become final:
         
@@ -2621,7 +2853,7 @@ Procedure
     
     *   (d) on good cause being shown, adjourn the hearing to a fixed time and place.
     
-    (2) Where, pursuant to subsection (1)(a), the court discharges a temporary tenancy order, the discharge of that order has effect as if the order had been discharged under [section 59][84], and the tenancy revests accordingly.
+    (2) Where, pursuant to subsection (1)(a), the court discharges a temporary tenancy order, the discharge of that order has effect as if the order had been discharged under [section 59][108], and the tenancy revests accordingly.
     
     (3) Where, pursuant to subsection (1)(c), the court confirms part of a temporary order (whether with or without variation), that part of the temporary order becomes final, but that confirmation does not affect the order to the extent that it has already become final.
     
@@ -2629,15 +2861,15 @@ Procedure
     
     (5) Where a hearing is adjourned pursuant to subsection (1)(d) to a specified date, the temporary order continues in force until that date.
     
-    Section 80(1)(b): replaced, on 16 November 2011, by [section 14][265] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 80(1)(b): replaced, on 16 November 2011, by [section 14][292] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 ##### 80A Temporary order discharged when made final order under section 80(1)
     
-*   (1) When a temporary order becomes a final order pursuant to [section 80(1)(b)][113], the temporary order is automatically discharged.
+*   (1) When a temporary order becomes a final order pursuant to [section 80(1)(b)][137], the temporary order is automatically discharged.
     
-    (2) Where the part of a temporary order not already a final order is confirmed under [section 80(1)(c)(i) or (ii)][113], the temporary order is automatically discharged.
+    (2) Where the part of a temporary order not already a final order is confirmed under [section 80(1)(c)(i) or (ii)][137], the temporary order is automatically discharged.
     
-    Section 80A: inserted, on 16 November 2011, by [section 15][266] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 80A: inserted, on 16 November 2011, by [section 15][293] of the Domestic Violence Amendment Act 2011 (2011 No 58).
 
 #### General provisions
 
@@ -2667,7 +2899,7 @@ Procedure
     
     (2A) The fees and expenses of a lawyer appointed under subsection (1)(a) or (b) must---
         
-    *   (a) be determined in accordance with regulations made under [section 16D][267] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+    *   (a) be determined in accordance with regulations made under [section 16D][294] of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
     
     *   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
     
@@ -2681,17 +2913,17 @@ Procedure
     
     (5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
     
-    Compare: 1968 No 63 s 30; 1983 No 76 s 3; 1994 No 35 [s 3(1)][268]
+    Compare: 1968 No 63 s 30; 1983 No 76 s 3; 1994 No 35 [s 3(1)][295]
     
-    Section 81(2): amended, on 31 March 2014, by [section 16(1)][269] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 81(2): amended, on 31 March 2014, by [section 16(1)][296] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 81(2A): inserted, on 31 March 2014, by [section 16(2)][269] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 81(2A): inserted, on 31 March 2014, by [section 16(2)][296] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 81(3): replaced, on 31 March 2014, by [section 16(3)][269] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 81(3): replaced, on 31 March 2014, by [section 16(3)][296] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 81(4): replaced, on 31 March 2014, by [section 16(4)][269] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 81(4): replaced, on 31 March 2014, by [section 16(4)][296] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 81(5): amended, on 31 March 2014, by [section 16(5)][269] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 81(5): amended, on 31 March 2014, by [section 16(5)][296] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 82 Power of court to call witnesses
     
@@ -2717,11 +2949,11 @@ Procedure
         
         *   (ii) by or on behalf of any party to the proceedings:
         
-        *   (iii) by any lawyer appointed pursuant to [section 81][116] in respect of the proceedings.
+        *   (iii) by any lawyer appointed pursuant to [section 81][140] in respect of the proceedings.
         
         
     
-    (4) [Sections 159][270] and [161 to 165][271] of the Criminal Procedure Act 2011, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
+    (4) [Sections 159][297] and [161 to 165][298] of the Criminal Procedure Act 2011, so far as applicable and with the necessary modifications, apply to every person called as a witness by the court under this section as if that person had been called by a party to the proceedings.
     
     (5) The expenses of any witness called by the court under this section are payable---
         
@@ -2729,11 +2961,11 @@ Procedure
     
     *   (b) in the first instance, out of public money appropriated by Parliament for the purpose.
     
-    Compare: [1980 No 94][272] s [165][273]
+    Compare: [1980 No 94][299] s [165][300]
     
-    Section 82(2)(b): amended, on 26 April 2005, by [section 7][217] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 82(2)(b): amended, on 26 April 2005, by [section 7][248] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 82(4): amended, on 1 July 2013, by [section 413][253] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 82(4): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 83 Conduct of proceedings
     
@@ -2745,9 +2977,9 @@ Procedure
     
     *   (c) any lawyer representing any party to the proceedings:
     
-    *   (d) any lawyer appointed pursuant to [section 81][116] in respect of the proceedings:
+    *   (d) any lawyer appointed pursuant to [section 81][140] in respect of the proceedings:
     
-    *   (da) any lawyer appointed under [section 7(1)][263] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
+    *   (da) any lawyer appointed under [section 7(1)][290] of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
     
     *   (e) where, pursuant to any provision of this Act, any person is bringing or defending the proceedings on behalf of another person,---
             
@@ -2781,19 +3013,19 @@ Procedure
     
     Compare: 1982 No 120 s 32
     
-    Section 83(1)(da): inserted, on 16 November 2011, by [section 16][274] of the Domestic Violence Amendment Act 2011 (2011 No 58).
+    Section 83(1)(da): inserted, on 16 November 2011, by [section 16][301] of the Domestic Violence Amendment Act 2011 (2011 No 58).
     
-    Section 83(1)(fa): inserted, on 18 May 2009, by [section 12(1)][275] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 83(1)(fa): inserted, on 18 May 2009, by [section 12(1)][302] of the Domestic Violence Amendment Act 2008 (2008 No 77).
     
-    Section 83(3): amended, on 18 May 2009, by [section 12(2)][275] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 83(3): amended, on 18 May 2009, by [section 12(2)][302] of the Domestic Violence Amendment Act 2008 (2008 No 77).
     
-    Section 83(5): replaced, on 18 May 2009, by [section 12(3)][275] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 83(5): replaced, on 18 May 2009, by [section 12(3)][302] of the Domestic Violence Amendment Act 2008 (2008 No 77).
 
 ##### 84 Evidence
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 31 March 2014, by [section 17A(e)][276] of the Family Courts Act 1980 (1980 No 161).
+    Section 84: repealed, on 31 March 2014, by [section 17A(e)][303] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 85 Standard of proof
     
@@ -2859,19 +3091,19 @@ Procedure
 
 ##### 90 Police to consider exercise of powers under Arms Act 1983
     
-*   (1) This section applies where a copy of an order, or a copy of a copy of an order, is made available to the officer in charge of a Police station in accordance with [section 88(2)][123], except where---
+*   (1) This section applies where a copy of an order, or a copy of a copy of an order, is made available to the officer in charge of a Police station in accordance with [section 88(2)][147], except where---
         
     *   (a) the order discharges a protection order, and no other protection order is made in substitution for that protection order; or
     
-    *   (b) the order discharges an order made under [Part 3][74], and no other order under that Part is made in substitution for that order; or
+    *   (b) the order discharges an order made under [Part 3][98], and no other order under that Part is made in substitution for that order; or
     
-    *   (c) the order varies an order made under [Part 3][74].
+    *   (c) the order varies an order made under [Part 3][98].
     
     (2) Where this section applies, the officer in charge of the Police station must immediately establish whether or not the respondent and any associated respondent named in the order hold a firearms licence.
     
-    (3) Where this section applies, and the officer in charge of the Police station knows that the respondent or any associated respondent, or both, hold a firearms licence (whether that knowledge arises from any inquiries carried out in accordance with subsection (2), or the terms of the protection order, or otherwise howsoever), then, except where the firearms licence is deemed to be revoked pursuant to [section 21(2)][28], the officer in charge must arrange for an appropriate person to consider immediately whether or not the powers conferred by [sections 27(1)][234] and [27A][277] of the Arms Act 1983 (which relate to the revocation of a firearms licence) should be exercised in that case.
+    (3) Where this section applies, and the officer in charge of the Police station knows that the respondent or any associated respondent, or both, hold a firearms licence (whether that knowledge arises from any inquiries carried out in accordance with subsection (2), or the terms of the protection order, or otherwise howsoever), then, except where the firearms licence is deemed to be revoked pursuant to [section 21(2)][28], the officer in charge must arrange for an appropriate person to consider immediately whether or not the powers conferred by [sections 27(1)][266] and [27A][304] of the Arms Act 1983 (which relate to the revocation of a firearms licence) should be exercised in that case.
     
-    (4) Where this section applies, the officer in charge of the Police station must, in every case, arrange for an appropriate person to consider immediately whether or not the powers conferred by [section 60A][278] of the Arms Act 1983 (which relates to the seizure of a firearm in cases of domestic violence) should be exercised in that case.
+    (4) Where this section applies, the officer in charge of the Police station must, in every case, arrange for an appropriate person to consider immediately whether or not the powers conferred by [section 60A][305] of the Arms Act 1983 (which relates to the seizure of a firearm in cases of domestic violence) should be exercised in that case.
 
 #### Appeals
 
@@ -2887,31 +3119,31 @@ Procedure
     
     (1) A party to proceedings in which there is made a decision to which subsection (1AA) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
     
-    (2) The [High Court Rules][279] and [sections 74 to 78][280] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][281] of that Act.
+    (2) The [High Court Rules][306] and [sections 74 to 78][307] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][308] of that Act.
     
-    (3) On the _ex parte_ application of the appellant, the court appealed from may order that the appellant must not be required under [section 74(1)][280] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (3) On the _ex parte_ application of the appellant, the court appealed from may order that the appellant must not be required under [section 74(1)][307] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (3A) Subsection (3) overrides subsection (2).
     
-    (4) Subject to [section 93][129], the decision of the High Court on an appeal to that court under this section is final.
+    (4) Subject to [section 93][153], the decision of the High Court on an appeal to that court under this section is final.
     
     Compare: 1982 No 120 s 38(1), (2), (6)
     
-    Section 91(1AA): inserted, on 24 November 2003, by [section 4][282] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 91(1AA): inserted, on 24 November 2003, by [section 4][309] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 91(1): replaced, on 24 November 2003, by [section 4][282] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 91(1): replaced, on 24 November 2003, by [section 4][309] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 91(2): replaced, on 24 November 2003, by [section 4][282] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 91(2): replaced, on 24 November 2003, by [section 4][309] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 91(3): replaced, on 24 November 2003, by [section 4][282] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 91(3): replaced, on 24 November 2003, by [section 4][309] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 91(3A): inserted, on 24 November 2003, by [section 4][282] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 91(3A): inserted, on 24 November 2003, by [section 4][309] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 92 Application of provisions relating to minors, etc
     
 *   [Sections 9][13], [11][15], and [12][16], so far as applicable and with the necessary modifications, apply in relation to---
         
-    *   (a) the making and prosecution of an appeal under [section 91][127] or [section 93][129]; and
+    *   (a) the making and prosecution of an appeal under [section 91][151] or [section 93][153]; and
     
     *   (b) the defending of any such appeal---
     
@@ -2919,7 +3151,7 @@ Procedure
 
 ##### 93 Appeals to Court of Appeal
     
-*   (1) A party to any appeal under [section 91][127] may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in that appeal.
+*   (1) A party to any appeal under [section 91][151] may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in that appeal.
     
     (2) On an appeal to the Court of Appeal under this section, the Court of Appeal has the same power to adjudicate on the proceedings as the High Court had.
     
@@ -2929,13 +3161,13 @@ Procedure
 
 ##### 94 Appeals to be heard as soon as practicable
     
-*   Every appeal under [section 91][127] or [section 93][129] must be heard as soon as practicable after the appeal is lodged.
+*   Every appeal under [section 91][151] or [section 93][153] must be heard as soon as practicable after the appeal is lodged.
 
 ##### 95 Effect of appeal
     
 *   Except where the court making the order appealed from otherwise directs,---
         
-    *   (a) the operation of an order made under this Act is not suspended by an appeal under [section 91][127] or [section 93][129]; and
+    *   (a) the operation of an order made under this Act is not suspended by an appeal under [section 91][151] or [section 93][153]; and
     
     *   (b) every order made under this Act may be enforced in the same manner in all respects as if no such appeal were pending.
     
@@ -3020,17 +3252,17 @@ Enforcement of protection orders overseas and foreign protection orders
 
 ##### 98 Copies of registered foreign protection orders to be sent to Police
     
-*   Where a foreign protection order is registered pursuant to [section 97][136], [sections 88 to 90][123] apply---
+*   Where a foreign protection order is registered pursuant to [section 97][160], [sections 88 to 90][147] apply---
         
     *   (a) in relation to that order; and
     
-    *   (b) in relation to any variation of that order pursuant to [section 99(c)][138],---
+    *   (b) in relation to any variation of that order pursuant to [section 99(c)][162],---
     
     as if the foreign protection order were a protection order made under this Act.
 
 ##### 99 Effect of registration
     
-*   Subject to [section 101][140], upon registration pursuant to [section 97][136], a foreign protection order---
+*   Subject to [section 101][164], upon registration pursuant to [section 97][160], a foreign protection order---
         
     *   (a) has effect; and
     
@@ -3044,7 +3276,7 @@ Enforcement of protection orders overseas and foreign protection orders
 
 ##### 100 Variation of registered foreign protection order
     
-*   (1) Where, pursuant to [section 99(c)][138], a court makes an order varying a foreign protection order, the Registrar of the court---
+*   (1) Where, pursuant to [section 99(c)][162], a court makes an order varying a foreign protection order, the Registrar of the court---
         
     *   (a) must, in the prescribed manner, notify the court or the appropriate authority in the country in which the order was made of the variation; and
     
@@ -3080,7 +3312,7 @@ Enforcement of protection orders overseas and foreign protection orders
 
 ##### 102 Evidence taken overseas
     
-*   Where, pursuant to [section 99][138], an application is heard in a court, the evidence of any person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand, and those rules, as far as they are applicable and with all necessary modifications, apply.
+*   Where, pursuant to [section 99][162], an application is heard in a court, the evidence of any person beyond New Zealand may be taken in accordance with the rules of the High Court covering the examination of witnesses beyond New Zealand, and those rules, as far as they are applicable and with all necessary modifications, apply.
     
     Compare: 1968 No 63 s 22H; 1979 No 52 s 2
 
@@ -3127,13 +3359,13 @@ Non-publication of information relating to protected person on public registers
     
 *   In this Part, unless the context otherwise requires,---
     
-    _code of practice_ or _code_ means a code of practice issued under [section 122][171]
+    _code of practice_ or _code_ means a code of practice issued under [section 122][195]
     
-    _direction_ means a direction made under [section 109][151]
+    _direction_ means a direction made under [section 109][175]
     
-    _Privacy Commissioner_ means the Privacy Commissioner appointed under the [Privacy Act 1993][283]
+    _Privacy Commissioner_ means the Privacy Commissioner appointed under the [Privacy Act 1993][310]
     
-    _public register_ has the same meaning as in [section 58][284] of the Privacy Act 1993
+    _public register_ has the same meaning as in [section 58][311] of the Privacy Act 1993
     
     _relevant information_, in relation to any person, means information that discloses, or is likely to disclose, the whereabouts of that person.
 
@@ -3159,15 +3391,15 @@ Non-publication of information relating to protected person on public registers
     
     (3) An agency to which an application is made under subsection (1) must, without delay, and in no case after the expiry of the prescribed period after receiving the application,---
         
-    *   (a) decide, in accordance with [section 109][151], whether the application is to be granted or declined; and
+    *   (a) decide, in accordance with [section 109][175], whether the application is to be granted or declined; and
     
-    *   (b) notify the applicant of its decision in accordance with [section 110][152].
+    *   (b) notify the applicant of its decision in accordance with [section 110][176].
     
     
 
 ##### 109 Agency to determine application
     
-*   Where an application is made under [section 108(1)][150] to an agency, the agency may make the direction sought if the agency is satisfied that---
+*   Where an application is made under [section 108(1)][174] to an agency, the agency may make the direction sought if the agency is satisfied that---
         
     *   (a) a protection order is in force in respect of the applicant; and
     
@@ -3177,25 +3409,25 @@ Non-publication of information relating to protected person on public registers
 
 ##### 110 Agency to notify applicant of decision
     
-*   (1) Where an agency makes a decision in respect of an application made under [section 108(1)][150], the agency must give written notice of its decision to the applicant.
+*   (1) Where an agency makes a decision in respect of an application made under [section 108(1)][174], the agency must give written notice of its decision to the applicant.
     
     (2) Where the application is declined, the notice under subsection (1) must---
         
     *   (a) specify the reasons for the decision; and
     
-    *   (b) notify the applicant of that person's right to complain to the Privacy Commissioner pursuant to [section 118][165], including the time within which that complaint must be made.
+    *   (b) notify the applicant of that person's right to complain to the Privacy Commissioner pursuant to [section 118][189], including the time within which that complaint must be made.
     
     (3) Where an agency makes a direction in relation to a protection order, the agency must also give written notice of that direction to the Registrar of the court that made that protection order.
 
 ##### 111 Information not to be disclosed pending determination of application or complaint
     
-*   Where an application is made, pursuant to [section 108(1)][150], to an agency, then unless the application is sooner withdrawn, [section 112][155] applies, as if the direction sought by the applicant had been made, from the expiry of the prescribed period after the date on which the application is received by the agency---
+*   Where an application is made, pursuant to [section 108(1)][174], to an agency, then unless the application is sooner withdrawn, [section 112][179] applies, as if the direction sought by the applicant had been made, from the expiry of the prescribed period after the date on which the application is received by the agency---
         
     *   (a) until the expiry of the prescribed period after notice of the agency's decision on that application is communicated to the applicant; and
     
-    *   (b) where, before the expiry of the period referred to in paragraph (a), the Privacy Commissioner extends the period within which a complaint relating to that decision may be made under [section 118][165], until the expiry of that period as so extended; and
+    *   (b) where, before the expiry of the period referred to in paragraph (a), the Privacy Commissioner extends the period within which a complaint relating to that decision may be made under [section 118][189], until the expiry of that period as so extended; and
     
-    *   (c) if a complaint relating to that decision is made under [section 118][165], until the complaint is finally dealt with or is withdrawn, whichever occurs first.
+    *   (c) if a complaint relating to that decision is made under [section 118][189], until the complaint is finally dealt with or is withdrawn, whichever occurs first.
     
     
 
@@ -3203,7 +3435,7 @@ Non-publication of information relating to protected person on public registers
 
 ##### 112 Effect of direction
     
-*   (1) Notwithstanding any other enactment, but subject to [section 116][161] and to any regulations made under this Act, where, in respect of any public register, an agency makes a direction in respect of any relevant information, and for as long as that direction remains in force,---
+*   (1) Notwithstanding any other enactment, but subject to [section 116][185] and to any regulations made under this Act, where, in respect of any public register, an agency makes a direction in respect of any relevant information, and for as long as that direction remains in force,---
         
     *   (a) that relevant information must not be included in---
             
@@ -3221,13 +3453,13 @@ Non-publication of information relating to protected person on public registers
     
     but that relevant information is, for all other purposes, deemed to be included on the public register.
     
-    (2) The references in paragraphs (a) to (c) of subsection (1) to relevant information relate only to such relevant information relating to the person to whom the direction relates as the agency concerned is reasonably able to identify, having regard to the information provided by the applicant for the direction in his or her application under [section 108(1)][150].
+    (2) The references in paragraphs (a) to (c) of subsection (1) to relevant information relate only to such relevant information relating to the person to whom the direction relates as the agency concerned is reasonably able to identify, having regard to the information provided by the applicant for the direction in his or her application under [section 108(1)][174].
 
 ##### 113 Direction not applicable to relevant information subsequently included in register
     
 *   (1) Where, in relation to a public register, a direction applies in relation to relevant information, then---
         
-    *   (a) paragraphs (a) and (b) of subsection (1) of [section 112][155] apply only in relation to relevant information included, or about to be included, on that public register at the date on which the direction is made; and
+    *   (a) paragraphs (a) and (b) of subsection (1) of [section 112][179] apply only in relation to relevant information included, or about to be included, on that public register at the date on which the direction is made; and
     
     *   (b) paragraph (c) of that subsection applies only in relation to an application of the kind referred to in that paragraph, where the application has been made before the date on which the direction is made.
     
@@ -3257,9 +3489,9 @@ Non-publication of information relating to protected person on public registers
     
     *   (d) if, before the expiry of the period referred to in paragraph (c),---
             
-        *   (i) the applicant for the direction supplies, to the agency by which the direction is made, satisfactory evidence that the temporary protection order has become final by operation of law in accordance with [section 77][109], or a copy of a copy of a final protection order made in substitution for the temporary protection order; or
+        *   (i) the applicant for the direction supplies, to the agency by which the direction is made, satisfactory evidence that the temporary protection order has become final by operation of law in accordance with [section 77][133], or a copy of a copy of a final protection order made in substitution for the temporary protection order; or
         
-        *   (ii) pursuant to [section 115][159], a Registrar notifies the agency that a final protection order has been made in substitution for the temporary protection order,---
+        *   (ii) pursuant to [section 115][183], a Registrar notifies the agency that a final protection order has been made in substitution for the temporary protection order,---
         
         then, unless the direction is sooner revoked or ceases to be in force pursuant to subsection (3), the direction continues in force and expires at the end of the period of 5 years after the date on which the direction is made.
     
@@ -3271,7 +3503,7 @@ Non-publication of information relating to protected person on public registers
             
         *   (i) the person on whose application the direction was made notifies that agency that the protection order has been discharged; or
         
-        *   (ii) pursuant to [section 115][159], a Registrar notifies the agency that the protection order has been discharged,---
+        *   (ii) pursuant to [section 115][183], a Registrar notifies the agency that the protection order has been discharged,---
         
         
     
@@ -3283,7 +3515,7 @@ Non-publication of information relating to protected person on public registers
 
 ##### 115 Registrar to notify agency of making or discharge of protection order
     
-*   Where, in accordance with [section 110(3)][152], an agency notifies a Registrar of a court that a direction has been made in relation to a protection order, then,---
+*   Where, in accordance with [section 110(3)][176], an agency notifies a Registrar of a court that a direction has been made in relation to a protection order, then,---
         
     *   (a) in the case of a temporary protection order, on the making of a final protection order in substitution for that temporary order; or
     
@@ -3295,9 +3527,9 @@ Non-publication of information relating to protected person on public registers
 
 ##### 116 Disclosure of relevant information with consent of protected person
     
-*   (1) This section applies to any information the disclosure or making available of which would otherwise be prohibited by [section 111][153] or [section 112][155].
+*   (1) This section applies to any information the disclosure or making available of which would otherwise be prohibited by [section 111][177] or [section 112][179].
     
-    (2) Notwithstanding [sections 111][153] and [112][155], but subject to subsection (3), where, in respect of any information to which this section applies, the person to whom the information relates---
+    (2) Notwithstanding [sections 111][177] and [112][179], but subject to subsection (3), where, in respect of any information to which this section applies, the person to whom the information relates---
         
     *   (a) is requested, in writing, to authorise the agency concerned to disclose or make available some or all of that information; and
     
@@ -3313,19 +3545,19 @@ Non-publication of information relating to protected person on public registers
     
 *   Nothing in this Part limits or affects---
         
-    *   (a) [section 115][285] of the Electoral Act 1993; or
+    *   (a) [section 115][312] of the Electoral Act 1993; or
     
-    *   (b) [section 239(2)][286] of the Land Transport Act 1998\.
+    *   (b) [section 239(2)][313] of the Land Transport Act 1998\.
     
-    Section 117(b): replaced, on 1 May 2011, by [section 35(4)][287] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 117(b): replaced, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 #### Complaints to Privacy Commissioner
 
 ##### 118 Complaints to Privacy Commissioner
     
-*   (1) Where any person makes an application to an agency pursuant to [section 108(1)][150], and that agency declines to make the direction sought by the applicant, the applicant may make a complaint to the Privacy Commissioner, and the Privacy Commissioner may investigate that complaint.
+*   (1) Where any person makes an application to an agency pursuant to [section 108(1)][174], and that agency declines to make the direction sought by the applicant, the applicant may make a complaint to the Privacy Commissioner, and the Privacy Commissioner may investigate that complaint.
     
-    (2) If, in relation to an application made, pursuant to subsection (1) of [section 108][150], to an agency, the agency fails, within the time limit fixed by subsection (3) of that section, to comply with paragraph (a) or paragraph (b) of subsection (3), then,---
+    (2) If, in relation to an application made, pursuant to subsection (1) of [section 108][174], to an agency, the agency fails, within the time limit fixed by subsection (3) of that section, to comply with paragraph (a) or paragraph (b) of subsection (3), then,---
         
     *   (a) for the purposes of subsection (1), that failure is deemed to be a decision declining to make the direction sought by the applicant; and
     
@@ -3337,29 +3569,29 @@ Non-publication of information relating to protected person on public registers
 
 ##### 119 Investigation of complaint
     
-*   On completing any investigation conducted pursuant to [section 118(1)][165], the Privacy Commissioner must report the Commissioner's findings to the chief administrative officer of the agency whose actions were the subject matter of the investigation, and any report may include a recommendation that the agency make the direction sought by the complainant.
+*   On completing any investigation conducted pursuant to [section 118(1)][189], the Privacy Commissioner must report the Commissioner's findings to the chief administrative officer of the agency whose actions were the subject matter of the investigation, and any report may include a recommendation that the agency make the direction sought by the complainant.
 
 ##### 120 Application of certain provisions of Privacy Act 1993
     
-*   [Sections 68][288], [70][289], [71][290], [73][291], [75][292], and [80][293], and [Parts 9][294] and [12][295], of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the making of a complaint pursuant to [section 118][165] and to any investigation conducted by the Privacy Commissioner pursuant to section 118 or [section 119][166].
+*   [Sections 68][315], [70][316], [71][317], [73][318], [75][319], and [80][320], and [Parts 9][321] and [12][322], of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the making of a complaint pursuant to [section 118][189] and to any investigation conducted by the Privacy Commissioner pursuant to section 118 or [section 119][190].
 
 #### Regulations
 
 ##### 121 Regulations
     
-*   (1) Without limiting [section 127][199], regulations may be made under that section for all or any of the following purposes:
+*   (1) Without limiting [section 127][223], regulations may be made under that section for all or any of the following purposes:
         
-    *   (a) prescribing the manner in which applications under [section 108(1)][150] must be made:
+    *   (a) prescribing the manner in which applications under [section 108(1)][174] must be made:
     
     *   (b) prescribing such forms as are necessary for the purposes of this Part, or authorising any specified person or persons to prescribe or approve forms, and requiring the use of such forms:
     
-    *   (c) prescribing the periods required to be prescribed for the purposes of [sections 108(3)][150], [111][153], [114(3)][158], and [118][165]:
+    *   (c) prescribing the periods required to be prescribed for the purposes of [sections 108(3)][174], [111][177], [114(3)][182], and [118][189]:
     
     *   (d) prescribing circumstances in which, and conditions on which, relevant information may be made available to the public even though a direction is in force in respect of that relevant information, while still ensuring, to the greatest possible extent, the protection of the person to whom the relevant information relates:
     
     *   (e) prescribing the manner in which any notice required by this Part to be given by or to any person is to be so given.
     
-    (2) Without limiting subsection (1) or [section 127][199], regulations made pursuant to subsection (1)---
+    (2) Without limiting subsection (1) or [section 127][223], regulations made pursuant to subsection (1)---
         
     *   (a) may make different provision for different agencies and different public registers:
     
@@ -3375,21 +3607,21 @@ Non-publication of information relating to protected person on public registers
     
     (2) A code of practice may,---
         
-    *   (a) to the extent that no regulations made pursuant to [section 121][169] apply,---
+    *   (a) to the extent that no regulations made pursuant to [section 121][193] apply,---
             
-        *   (i) prescribe the manner in which applications under [section 108(1)][150] must be made:
+        *   (i) prescribe the manner in which applications under [section 108(1)][174] must be made:
         
-        *   (ii) prescribe forms of applications for the purposes of [section 108(1)][150]:
+        *   (ii) prescribe forms of applications for the purposes of [section 108(1)][174]:
         
-        *   (iii) prescribe, for the purposes of [section 108(1)][150], information that must be provided by applicants for the purpose of enabling the location of relevant information:
+        *   (iii) prescribe, for the purposes of [section 108(1)][174], information that must be provided by applicants for the purpose of enabling the location of relevant information:
         
         
     
-    *   (b) prescribe how [section 109(b)][151] is to be applied:
+    *   (b) prescribe how [section 109(b)][175] is to be applied:
     
-    *   (c) prescribe how [section 112][155] is to apply, or is to be complied with:
+    *   (c) prescribe how [section 112][179] is to apply, or is to be complied with:
     
-    *   (d) prescribe how [section 113][156] is to apply:
+    *   (d) prescribe how [section 113][180] is to apply:
     
     *   (e) provide for the review of the code by the Privacy Commissioner:
     
@@ -3407,7 +3639,7 @@ Non-publication of information relating to protected person on public registers
 
 ##### 123 Application of certain provisions of Privacy Act 1993
     
-*   [Sections 47 to 52][296] of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the issuing of a code of practice under this Act, and in relation to any code of practice issued under this Act, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
+*   [Sections 47 to 52][323] of the Privacy Act 1993, so far as applicable and with all necessary modifications, apply in relation to the issuing of a code of practice under this Act, and in relation to any code of practice issued under this Act, as if the issuing were done, or, as the case may be, the code were issued, under that Act.
 
 ##### 124 Effect of code
     
@@ -3418,27 +3650,27 @@ Non-publication of information relating to protected person on public registers
 ## Part 6A  
 Police safety orders
     
-*   Part 6A: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+*   Part 6A: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124A Interpretation
     
 *   In this Part, unless the context otherwise requires,---
     
-    _constable_ has the meaning given to it by [section 4][298] of the Policing Act 2008
+    _constable_ has the meaning given to it by [section 4][325] of the Policing Act 2008
     
     _District Court_ includes a Justice or Justices, or a Community Magistrate or Community Magistrates, presiding over a District Court; but does not include a Registrar
     
-    _Police safety order_ or _order_ means an on-the-spot order issued by a qualified constable under [section 124B][176] in the prescribed form
+    _Police safety order_ or _order_ means an on-the-spot order issued by a qualified constable under [section 124B][200] in the prescribed form
     
     _qualified constable_ means a constable who is of or above the level of position of sergeant
     
     _Registrar_ means any Registrar of a District Court; and includes a Deputy Registrar.
     
-    Section 124A: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124A: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 124A **District Court**: inserted, on 25 February 2012, by [section 4(1)][299] of the Domestic Violence Amendment Act 2012 (2012 No 10).
+    Section 124A **District Court**: inserted, on 25 February 2012, by [section 4(1)][326] of the Domestic Violence Amendment Act 2012 (2012 No 10).
     
-    Section 124A **Registrar**: inserted, on 25 February 2012, by [section 4(2)][299] of the Domestic Violence Amendment Act 2012 (2012 No 10).
+    Section 124A **Registrar**: inserted, on 25 February 2012, by [section 4(2)][326] of the Domestic Violence Amendment Act 2012 (2012 No 10).
 
 ##### 124B Qualified constable may issue Police safety order
     
@@ -3468,19 +3700,19 @@ Police safety orders
     
     (3) A constable who is not a qualified constable may issue an order under this section only if he or she is specifically authorised by a qualified constable to issue that order.
     
-    Section 124B: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124B: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124C Consent to issue of Police safety order not required
     
 *   An order may be issued without the consent of the person for whose safety the order is proposed to be issued.
     
-    Section 124C: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124C: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124D Police safety order not to be issued against child
     
 *   An order may not be issued against a child.
     
-    Section 124D: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124D: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124E Effect of Police safety order
     
@@ -3522,7 +3754,7 @@ Police safety orders
     
     *   (b) any child residing with that person.
     
-    Section 124E: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124E: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124F Suspension of firearms licence on issue of Police safety order
     
@@ -3532,7 +3764,7 @@ Police safety orders
     
     *   (b) the person against whom the order is issued is deemed, for all purposes, not to be the holder of a firearms licence.
     
-    Section 124F: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124F: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124G Suspension of parenting orders, etc
     
@@ -3548,21 +3780,21 @@ Police safety orders
     
     (2) While an order continues in force against any person, the provisions of a parenting order or an agreement affording to that person the day-to-day care of, or contact with, a protected child are suspended.
     
-    Section 124G: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124G: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124H Prompt service of Police safety order required
     
-*   (1) An order issued under [section 124B][176] must be served by a constable as soon as practicable on the person against whom the order is issued.
+*   (1) An order issued under [section 124B][200] must be served by a constable as soon as practicable on the person against whom the order is issued.
     
-    (2) If an order issued under [section 124B][176] has not been served within 48 hours from the time of issue, the order lapses.
+    (2) If an order issued under [section 124B][200] has not been served within 48 hours from the time of issue, the order lapses.
     
-    Section 124H: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124H: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124I Detention by constable
     
-*   (1) A constable who is proposing to issue a Police safety order under [section 124B][176] against any person may detain that person for a period, not exceeding 2 hours, that may be necessary to enable the constable to do 1 or more of the following:
+*   (1) A constable who is proposing to issue a Police safety order under [section 124B][200] against any person may detain that person for a period, not exceeding 2 hours, that may be necessary to enable the constable to do 1 or more of the following:
         
-    *   (a) obtain authorisation under [section 124B(3)][176] to issue the order:
+    *   (a) obtain authorisation under [section 124B(3)][200] to issue the order:
     
     *   (b) issue the order:
     
@@ -3580,9 +3812,9 @@ Police safety orders
     
     (5) In this section, _detain_ includes move the person to a Police station.
     
-    Section 124I: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124I: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 124I(2)(a): amended, on 1 July 2013, by [section 413][253] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 124I(2)(a): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 124J Police safety order to be explained
     
@@ -3594,7 +3826,7 @@ Police safety orders
     
     (2) A constable who issues an order must also, either before or after issue and service of the order, explain to the person for whose safety the order is issued the matters set out in subsection (1)(a) and (b).
     
-    Section 124J: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124J: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124K Duration of Police safety order
     
@@ -3602,9 +3834,9 @@ Police safety orders
     
     (2) An order continues in force for the period specified in the order, but that period must not exceed 5 days.
     
-    (3) In considering the period to be specified in the order, the qualified constable must have regard to the matters set out in [section 124B(2)][176].
+    (3) In considering the period to be specified in the order, the qualified constable must have regard to the matters set out in [section 124B(2)][200].
     
-    Section 124K: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124K: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124L Contravention of Police safety order
     
@@ -3618,19 +3850,19 @@ Police safety orders
         
     *   (a) using such force as is reasonably necessary; or
     
-    *   (b) executing a warrant to arrest issued in respect of that person under [section 124O(1)(a)][189].
+    *   (b) executing a warrant to arrest issued in respect of that person under [section 124O(1)(a)][213].
     
-    (3) Where a person has been taken into custody under subsection (2), the constable may apply to a District Court, by making a complaint in the prescribed form, for a direction or an order under [section 124N][188].
+    (3) Where a person has been taken into custody under subsection (2), the constable may apply to a District Court, by making a complaint in the prescribed form, for a direction or an order under [section 124N][212].
     
     (4) A person who is taken into custody under subsection (2)(a) must be brought before a District Court within 24 hours.
     
-    Section 124L: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124L: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 124L(1): amended, on 25 February 2012, by [section 5][300] of the Domestic Violence Amendment Act 2012 (2012 No 10).
+    Section 124L(1): amended, on 25 February 2012, by [section 5][327] of the Domestic Violence Amendment Act 2012 (2012 No 10).
 
 ##### 124M Issue of summons where person cannot be brought before District Court within 24 hours
     
-*   (1) If a person who is taken into custody under [section 124L(2)(a)][186] is not brought before a District Court within 24 hours, that person must, at or before the expiry of that period,---
+*   (1) If a person who is taken into custody under [section 124L(2)(a)][210] is not brought before a District Court within 24 hours, that person must, at or before the expiry of that period,---
         
     *   (a) be released; and
     
@@ -3644,9 +3876,9 @@ Police safety orders
     
     *   (b) bring him or her before the court.
     
-    Section 124M: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124M: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 124M(3): amended, on 25 February 2012, by [section 6][301] of the Domestic Violence Amendment Act 2012 (2012 No 10).
+    Section 124M(3): amended, on 25 February 2012, by [section 6][328] of the Domestic Violence Amendment Act 2012 (2012 No 10).
 
 ##### 124N Jurisdiction of District Court
     
@@ -3700,7 +3932,7 @@ Police safety orders
     
     (6) Where the court makes a direction of the kind specified in subsection (1)(a) or (b), the court may direct that the person against whom the order is to be issued be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and served on that person.
     
-    Section 124N: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124N: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124O Issue of warrant to arrest person who contravenes Police safety order or fails to attend adjourned proceedings
     
@@ -3708,7 +3940,7 @@ Police safety orders
         
     *   (a) a person against whom a Police safety order is issued refuses or fails to comply with the order, or any condition of the order; or
     
-    *   (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under [section 124N(1)(c)(i)][188].
+    *   (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under [section 124N(1)(c)(i)][212].
     
     (2) A District Court or Registrar may issue a warrant in the prescribed form.
     
@@ -3734,15 +3966,15 @@ Police safety orders
     
     *   (c) if he or she is not in uniform, produce evidence that he or she is a constable.
     
-    (6) A person who is arrested under this section must, as soon as possible, be brought before a District Court to enable it to exercise its jurisdiction under [section 124N][188].
+    (6) A person who is arrested under this section must, as soon as possible, be brought before a District Court to enable it to exercise its jurisdiction under [section 124N][212].
     
-    Section 124O: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124O: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
     
-    Section 124O(2): amended, on 25 February 2012, by [section 7][302] of the Domestic Violence Amendment Act 2012 (2012 No 10).
+    Section 124O(2): amended, on 25 February 2012, by [section 7][329] of the Domestic Violence Amendment Act 2012 (2012 No 10).
 
 ##### 124P Protection order to be issued and served
     
-*   (1) Where a District Court makes a temporary protection order under [section 124N(2)(b)][188], the Registrar of that court must---
+*   (1) Where a District Court makes a temporary protection order under [section 124N(2)(b)][212], the Registrar of that court must---
         
     *   (a) immediately issue the order; and
     
@@ -3750,27 +3982,27 @@ Police safety orders
     
     (2) For the purpose of subsection (1), the court may direct that the person against whom the order is made be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and a copy served on that person.
     
-    Section 124P: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124P: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124Q Protection order to be sent to Family Court
     
-*   (1) Immediately after the issue of a protection order under [section 124N][188], the District Court must send a copy of the order to the Family Court nearest to the residence of the person for whose safety the Police safety order and temporary protection order were issued.
+*   (1) Immediately after the issue of a protection order under [section 124N][212], the District Court must send a copy of the order to the Family Court nearest to the residence of the person for whose safety the Police safety order and temporary protection order were issued.
     
     (2) On receipt of a copy of an order under subsection (1), the Registrar of the Family Court must enter the order in the records of the Family Court.
     
-    Section 124Q: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124Q: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124R Protection order treated as if made by Family Court
     
-*   As soon as an order has been entered in the records of the Family Court under [section 124Q(2)][191], the order is to be treated as if it were a temporary protection order made by that court.
+*   As soon as an order has been entered in the records of the Family Court under [section 124Q(2)][215], the order is to be treated as if it were a temporary protection order made by that court.
     
-    Section 124R: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124R: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ##### 124S Police employees, etc, protected from proceedings
     
 *   No action or proceedings may be brought against the Crown or any constable in respect of any thing done, or omitted to be done, for the purpose of carrying out the provisions of this Part, where the Crown or the constable acted in good faith and with reasonable care.
     
-    Section 124S: inserted, on 1 July 2010, by [section 9][297] of the Domestic Violence Amendment Act 2009 (2009 No 43).
+    Section 124S: inserted, on 1 July 2010, by [section 9][324] of the Domestic Violence Amendment Act 2009 (2009 No 43).
 
 ## Part 7  
 Miscellaneous provisions
@@ -3779,27 +4011,27 @@ Miscellaneous provisions
 
 ##### 125 Restriction of publication of reports of proceedings
     
-*   [Sections 11B to 11D][303] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)---
+*   [Sections 11B to 11D][330] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 125: replaced, on 18 May 2009, by [section 13][304] of the Domestic Violence Amendment Act 2008 (2008 No 77).
+    Section 125: replaced, on 18 May 2009, by [section 13][331] of the Domestic Violence Amendment Act 2008 (2008 No 77).
 
 #### Rules and regulations
 
 ##### 126 Rules of court
     
-*   (1) In addition to all other powers conferred by the [District Courts Act 1947][305], the Governor-General may from time to time, by Order in Council, make rules---
+*   (1) In addition to all other powers conferred by the [District Courts Act 1947][332], the Governor-General may from time to time, by Order in Council, make rules---
         
     *   (a) regulating the practice and procedure of District Courts in proceedings under this Act:
     
     *   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    (1A) Rules may be made under [section 16A][306] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
+    (1A) Rules may be made under [section 16A][333] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
     
-    (2) Without limiting subsection (1) or [section 16A][306] of the Family Courts Act 1980, rules made under either of those provisions may---
+    (2) Without limiting subsection (1) or [section 16A][333] of the Family Courts Act 1980, rules made under either of those provisions may---
         
     *   (a) prescribe the procedure for the service of notices and other documents for the purposes of this Act, and provide for substituted service, and for service to be dispensed with, in such circumstances as are specified in the rules:
     
@@ -3817,33 +4049,33 @@ Miscellaneous provisions
         
         
     
-    *   (e) prescribe the procedure consequent on a temporary order, or part of a temporary order, becoming final in accordance with [section 77][109], which procedure may include (without limitation) the issue by a Registrar of a certificate, order, or other document confirming that the temporary order has become final (in whole or in part), and setting out the terms and conditions of the final order:
+    *   (e) prescribe the procedure consequent on a temporary order, or part of a temporary order, becoming final in accordance with [section 77][133], which procedure may include (without limitation) the issue by a Registrar of a certificate, order, or other document confirming that the temporary order has become final (in whole or in part), and setting out the terms and conditions of the final order:
     
     *   (f) provide that Registrars may exercise specified powers of the court or a Judge:
     
     *   (g) prescribe the manner in which a Registrar is to give notice, to a court or appropriate authority of a foreign country, of the variation or cancellation of registration of a foreign protection order:
     
-    *   (h) make such provision as is necessary or desirable in order to facilitate communications between the Secretary and courts or appropriate authorities in foreign countries for the purposes of [Part 5][132]:
+    *   (h) make such provision as is necessary or desirable in order to facilitate communications between the Secretary and courts or appropriate authorities in foreign countries for the purposes of [Part 5][156]:
     
     *   (i) provide for information about proceedings under this Act to be transferred between courts (whether District Courts, Family Courts, the High Court, the Court of Appeal, or the Supreme Court), including (without limitation) between different courts, or between different divisions of the same court, or between courts exercising civil jurisdiction and courts exercising criminal jurisdiction, or between courts exercising appellate jurisdiction and courts exercising original jurisdiction:
     
-    *   (j) apply, with or without modification, provisions of the [District Courts Rules 2009][307].
+    *   (j) apply, with or without modification, provisions of the [District Courts Rules 2009][334].
     
     (3) \[Repealed\]
     
     Compare: 1982 No 120 s 39
     
-    Section 126(1)(a): amended, on 13 September 2002, by [section 6][308] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 126(1)(a): amended, on 13 September 2002, by [section 6][335] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 126(1A): inserted, on 13 September 2002, by [section 6][308] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 126(1A): inserted, on 13 September 2002, by [section 6][335] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 126(2): amended, on 13 September 2002, by [section 6][308] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 126(2): amended, on 13 September 2002, by [section 6][335] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 126(2)(i): amended, on 1 January 2004, by [section 48(1)][309] of the Supreme Court Act 2003 (2003 No 53).
+    Section 126(2)(i): amended, on 1 January 2004, by [section 48(1)][336] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 126(2)(j): amended, on 1 November 2009, pursuant to [rule 17.1][310] of the District Courts Rules 2009 (SR 2009/257).
+    Section 126(2)(j): amended, on 1 November 2009, pursuant to [rule 17.1][337] of the District Courts Rules 2009 (SR 2009/257).
     
-    Section 126(3): repealed, on 13 September 2002, by [section 6][308] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 126(3): repealed, on 13 September 2002, by [section 6][335] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 127 Regulations
     
@@ -3865,35 +4097,37 @@ Miscellaneous provisions
     
     *   (e) \[Repealed\]
     
-    *   (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under [section 81(1)(c)][116], which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+    *   (f) making provision for the determination of the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under [section 81(1)(c)][140], which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
     
-    *   (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under [section 82][117]; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of [section 42][56]:
+    *   (g) prescribing the fees, travelling allowances, and expenses payable to persons called by the court under [section 82][141]; and prescribing the circumstances in which, and the extent (if any) to which, such fees, travelling allowances, and expenses are payable (in whole or in part) to persons to whom that section applies by virtue of [section 51O][89] or [51P][90]:
     
     *   (h) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
     Compare: 1982 No 120 s 39A; 1994 No 30 s 3
     
-    Section 127(a): replaced, on 25 September 2013, by [section 17(1)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(a): replaced, on 25 September 2013, by [section 17(1)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 127(b): replaced, on 25 September 2013, by [section 17(1)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(b): replaced, on 25 September 2013, by [section 17(1)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 127(c): repealed, on 25 September 2013, by [section 17(1)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(c): repealed, on 25 September 2013, by [section 17(1)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 127(d): repealed, on 25 September 2013, by [section 17(1)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(d): repealed, on 25 September 2013, by [section 17(1)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 127(e): repealed, on 25 September 2013, by [section 17(1)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(e): repealed, on 25 September 2013, by [section 17(1)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
     
-    Section 127(f): amended, on 31 March 2014, by [section 17(2)][311] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    Section 127(f): amended, on 31 March 2014, by [section 17(2)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+    
+    Section 127(g): amended, on 1 October 2014, by [section 17(3)][338] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 #### Saving
 
 ##### 128 Property (Relationships) Act 1976 not affected
     
-*   Nothing in this Act limits or affects the power of a court to make an order (including an order made on an _ex parte_ application) under [section 27][312] or [section 28][313] or [section 28B][314] or [section 28C][315] or [section 33][316] of the Property (Relationships) Act 1976\.
+*   Nothing in this Act limits or affects the power of a court to make an order (including an order made on an _ex parte_ application) under [section 27][339] or [section 28][340] or [section 28B][341] or [section 28C][342] or [section 33][343] of the Property (Relationships) Act 1976\.
     
     Compare: 1982 No 120 s 41
     
-    Section 128: replaced, on 1 February 2002, by [section 64(2)][258] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 128: replaced, on 1 February 2002, by [section 64(2)][283] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 #### Repeals and consequential amendments
 
@@ -3913,23 +4147,25 @@ Miscellaneous provisions
     
     *   (f) the Domestic Protection Amendment Act 1994:
     
-    *   (g) _Amendment(s) incorporated in the [Act(s)][317]_.
+    *   (g) _Amendment(s) incorporated in the [Act(s)][344]_.
     
     
 
 ##### 130 Amendments to Arms Act 1983
     
-*   _Amendment(s) incorporated in the [Act(s)][277]_.
+*   _Amendment(s) incorporated in the [Act(s)][304]_.
 
 ##### 131 Amendment to Children, Young Persons, and Their Families Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][318]_.
+*   _Amendment(s) incorporated in the [Act(s)][345]_.
 
 ##### 132 Amendment to Electoral Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][285]_.
+*   _Amendment(s) incorporated in the [Act(s)][312]_.
 
-#### Transitional provisions
+#### Transitional provisions on enactment of this Act
+    
+*   Heading: replaced, on 1 October 2014, by [section 18][346] of the Domestic Violence Amendment Act 2013 (2013 No 77).
 
 ##### 133 Transitional provisions
     
@@ -3969,6 +4205,124 @@ Miscellaneous provisions
     
     Compare: 1982 No 120 s 43
 
+#### Transitional provisions applying on enactment of Domestic Violence Amendment Act 2013
+    
+*   Heading: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 134 Programmes requested or directed before commencement of this section
+    
+*   (1) Subsection (2) applies if, before the date of commencement of this section,---
+        
+    *   (a) an applicant or a specified person made a request under [section 29][42]; but
+    
+    *   (b) the Registrar had not referred the request to a programme provider.
+    
+    (2) The Registrar must refer the request to a service provider under [section 51C][75].
+    
+    (3) Subsections (4) and (5) apply if, before the date of commencement of this section,---
+        
+    *   (a) a direction under [section 32][45] was made in any proceeding; but
+    
+    *   (b) the Registrar had not, under [section 34][47], notified the programme provider of that direction.
+    
+    (4) The direction under [section 32][45] must be treated as a direction made under [section 51D][77] to---
+        
+    *   (a) undertake an assessment; and
+    
+    *   (b) attend a non-violence programme.
+    
+    (5) The Registrar must, under [section 51G][80],---
+        
+    *   (a) make a referral to a service provider; and
+    
+    *   (b) notify the service provider of the referral.
+    
+    Section 134: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 135 Referrals to programme providers before commencement of this section
+    
+*   (1) Subsections (2) and (3) apply if, before the date of commencement of this section,---
+        
+    *   (a) a request made to a Registrar under [section 29][42] was referred to a programme provider; but
+    
+    *   (b) the programme provider had not arranged or commenced the provision of a programme in response to that request.
+    
+    (2) The programme provider must---
+        
+    *   (a) advise the Registrar of the position; and
+    
+    *   (b) take no further step in respect of the referral.
+    
+    (3) The Registrar must arrange for the matter to be referred to a service provider under [section 51C][75].
+    
+    (4) Subsections (5) to (7) apply if, before the date of commencement of this section,---
+        
+    *   (a) a notification under [section 34][47] was given to a programme provider of a direction made under [section 32][45] in any proceedings; but
+    
+    *   (b) the programme provider had not arranged or commenced the provision of a programme in response to that notification.
+    
+    (5) The programme provider must---
+        
+    *   (a) advise the Registrar of the position; and
+    
+    *   (b) take no further step in respect of the notification.
+    
+    (6) The direction under [section 32][45] must be treated as a direction made under [section 51D][77] to---
+        
+    *   (a) undertake an assessment; and
+    
+    *   (b) attend a non-violence programme.
+    
+    (7) The Registrar must, under [section 51G][80],---
+        
+    *   (a) make a referral to a service provider; and
+    
+    *   (b) notify the service provider of the referral.
+    
+    Section 135: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 136 Programmes arranged or in progress before commencement of this section
+    
+*   (1) This section applies if---
+        
+    *   (a) there was arranged or was in progress immediately before the date of commencement of this section---
+            
+        *   (i) the provision of a programme to a protected person that has been requested under [section 29][42]:
+        
+        *   (ii) the provision of a programme to a respondent or an associated respondent that the respondent or associated respondent has been directed under [section 32][45] to attend; and
+        
+        
+    
+    *   (b) that programme has not been concluded by that date.
+    
+    (2) The provisions of this Act, as in force immediately before the date of commencement of this section, continue to apply in respect of the provision of that programme as if the [Domestic Violence Amendment Act 2013][348] had not been enacted.
+    
+    Section 136: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 137 Proceedings commenced before commencement of this section but not completed
+    
+*   (1) This section applies if, at any time before the date of commencement of this section, proceedings have been commenced under any of the following provisions but were not by that date completed (a _pending proceeding_):
+        
+    *   (a) [section 42][56]:
+    
+    *   (b) [section 46][62]:
+    
+    *   (c) [section 49A][67].
+    
+    (2) The provisions of this Act, as in force immediately before the date of commencement of this section, continue to apply to a pending proceeding as if the [Domestic Violence Amendment Act 2013][348] had not been enacted.
+    
+    Section 137: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
+##### 138 Approval panel disestablished
+    
+*   (1) The approval panel established by [regulation 46][349] of the Domestic Violence (Programmes) Regulations 1996 is disestablished.
+    
+    (2) No member of the panel is entitled to compensation for loss of office resulting from the disestablishment of the panel.
+    
+    (3) An approval given by the panel under [Part 3][350] of the Domestic Violence (Programmes) Regulations 1996 before the date of commencement of this section is of no effect on or after that date.
+    
+    Section 138: inserted, on 1 October 2014, by [section 19][347] of the Domestic Violence Amendment Act 2013 (2013 No 77).
+
 #### 
 
 ---
@@ -3981,57 +4335,55 @@ Miscellaneous provisions
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][319] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][320] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][351] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][352] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][321] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][322] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][353] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][354] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Domestic Violence Amendment Act 2013][323] (2013 No 77)
+*   [Domestic Violence Amendment Act 2013][348] (2013 No 77)
     
-    [Domestic Violence Amendment Act 2012][324] (2012 No 10)
+    [Domestic Violence Amendment Act 2012][355] (2012 No 10)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 413][253]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][277]
     
-    [Domestic Violence Amendment Act 2011][325] (2011 No 58)
+    [Domestic Violence Amendment Act 2011][356] (2011 No 58)
     
-    [Domestic Violence Amendment Act 2009][326] (2009 No 43)
+    [Domestic Violence Amendment Act 2009][357] (2009 No 43)
     
-    District Courts Rules 2009 (SR 2009/257): [rule 17.1][310]
+    District Courts Rules 2009 (SR 2009/257): [rule 17.1][337]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][287]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][314]
     
-    [Domestic Violence Amendment Act 2008][327] (2008 No 77)
+    [Domestic Violence Amendment Act 2008][358] (2008 No 77)
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][232], [130(1)][233]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][264], [130(1)][265]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][220]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][250]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][217]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][248]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][226]
+    Care of Children Act 2004 (2004 No 90): [section 151][258]
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][309]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][336]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][221]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][251]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][282]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][309]
     
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][258]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][283]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][308]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][335]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][255]
+    Bail Act 2000 (2000 No 38): [section 74(2)][280]
     
-    [Domestic Violence Act Commencement Order 1998][210] (SR 1998/343)
+    [Domestic Violence Act Commencement Order 1998][240] (SR 1998/343)
     
-    [Domestic Violence Amendment Act 1998][328] (1998 No 41)
+    [Domestic Violence Act Commencement Order 1996][239] (SR 1996/142)
     
-    [Domestic Violence Act Commencement Order 1996][209] (SR 1996/142)
-    
-    Family Courts Act 1980 (1980 No 161): [section 17A(e)][276]
+    Family Courts Act 1980 (1980 No 161): [section 17A(e)][303]
 
 
 
@@ -4109,258 +4461,288 @@ Miscellaneous provisions
 [71]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM5651105
 [72]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM5651120
 [73]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM5651121
-[74]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372402
-[75]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372403
-[76]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372404
-[77]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372406
-[78]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372408
-[79]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372409
-[80]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372410
-[81]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372411
-[82]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372414
-[83]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372416
-[84]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372417
-[85]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372418
-[86]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372419
-[87]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372420
-[88]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372421
-[89]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372422
-[90]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372423
-[91]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372424
-[92]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372425
-[93]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372426
-[94]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372427
-[95]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372429
-[96]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372431
-[97]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372432
-[98]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372433
-[99]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372434
-[100]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372435
-[101]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372436
-[102]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372440
-[103]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372443
-[104]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372444
-[105]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372445
-[106]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372446
-[107]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372447
-[108]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372448
-[109]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372449
-[110]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372450
-[111]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372451
-[112]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM4169307
-[113]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372452
-[114]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM4169310
-[115]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372453
-[116]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372454
-[117]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372456
-[118]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372458
-[119]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372459
-[120]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372460
-[121]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372461
-[122]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372462
-[123]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372463
-[124]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372464
-[125]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372465
-[126]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372466
-[127]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372467
-[128]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372471
-[129]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372472
-[130]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372473
-[131]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372474
-[132]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372475
-[133]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372476
-[134]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372477
-[135]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372480
-[136]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372481
-[137]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372482
-[138]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372483
-[139]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372484
-[140]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372485
-[141]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372486
-[142]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372487
-[143]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372488
-[144]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372489
-[145]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372490
-[146]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372491
-[147]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372492
-[148]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372493
-[149]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372805
-[150]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372806
-[151]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372807
-[152]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372808
-[153]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372809
-[154]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372810
-[155]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372811
-[156]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372812
-[157]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372813
-[158]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372814
-[159]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372815
-[160]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372816
-[161]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372817
-[162]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372818
-[163]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372819
-[164]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372820
-[165]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372821
-[166]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372822
-[167]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372823
-[168]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372824
-[169]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372825
-[170]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372826
-[171]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372827
-[172]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372828
-[173]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372829
-[174]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071000
-[175]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071002
-[176]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071011
-[177]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071013
-[178]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071015
-[179]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071017
-[180]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071020
-[181]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071022
-[182]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071024
-[183]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071026
-[184]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071028
-[185]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071030
-[186]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071032
-[187]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071034
-[188]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071036
-[189]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071038
-[190]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071040
-[191]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071042
-[192]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071044
-[193]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071046
-[194]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372830
-[195]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372831
-[196]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372832
-[197]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372835
-[198]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372836
-[199]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372842
-[200]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372844
-[201]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372845
-[202]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372847
-[203]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372848
-[204]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372849
-[205]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372851
-[206]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372852
-[207]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372853
-[208]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372854
-[209]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM212125
-[210]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM264465
-[211]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317244
-[212]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM271049
-[213]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72923
-[214]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM364948
-[215]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72621
-[216]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM81596
-[217]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM333795
-[218]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615642
-[219]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955505
-[220]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM367849
-[221]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM201378
-[222]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615651
-[223]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM41829
-[224]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM126527
-[225]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM126583
-[226]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317988
-[227]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955515
-[228]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM147094
-[229]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6027393
-[230]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2181002
-[231]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615654
-[232]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102349
-[233]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102383
-[234]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72928
-[235]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72932
-[236]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73326
-[237]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73358
-[238]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955516
-[239]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317232
-[240]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM71961
-[241]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774212
-[242]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955521
-[243]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955522
-[244]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302117
-[245]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302118
-[246]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302119
-[247]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302121
-[248]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302122
-[249]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2471200
-[250]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM426478
-[251]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774213
-[252]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615657
-[253]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360714
-[254]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774216
-[255]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM69643
-[256]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615659
-[257]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM440944
-[258]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM87570
-[259]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243618
-[260]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955523
-[261]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955524
-[262]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955525
-[263]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317243
-[264]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955526
-[265]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955528
-[266]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955529
-[267]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6025512
-[268]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM185488
-[269]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616705
-[270]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360276
-[271]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360278
-[272]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM39722
-[273]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM41848
-[274]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955531
-[275]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302124
-[276]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6025517
-[277]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72929
-[278]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73314
-[279]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM147653
-[280]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243909
-[281]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243795
-[282]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM168713
-[283]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM296638
-[284]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297424
-[285]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM309404
-[286]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3701415
-[287]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2015063
-[288]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297444
-[289]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297447
-[290]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297448
-[291]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297455
-[292]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297457
-[293]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297463
-[294]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297902
-[295]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM298408
-[296]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297411
-[297]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774218
-[298]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102132
-[299]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014207
-[300]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014212
-[301]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014213
-[302]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014214
-[303]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2061203
-[304]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302125
-[305]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM242775
-[306]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM42296
-[307]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2300100
-[308]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM76831
-[309]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM214522
-[310]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2300894
-[311]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616706
-[312]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441483
-[313]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441495
-[314]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441616
-[315]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441619
-[316]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441660
-[317]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM367240
-[318]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM151079
-[319]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998516
-[320]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998515
-[321]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998532
-[322]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[323]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615636
-[324]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014200
-[325]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2295900
-[326]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774200
-[327]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302102
-[328]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM426472
+[74]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276364
+[75]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276365
+[76]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276366
+[77]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276367
+[78]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276368
+[79]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276369
+[80]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276370
+[81]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276371
+[82]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276372
+[83]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276373
+[84]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276374
+[85]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276375
+[86]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276376
+[87]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276377
+[88]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276378
+[89]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276379
+[90]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276380
+[91]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276381
+[92]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276382
+[93]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276383
+[94]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276384
+[95]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276385
+[96]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276387
+[97]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276388
+[98]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372402
+[99]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372403
+[100]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372404
+[101]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372406
+[102]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372408
+[103]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372409
+[104]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372410
+[105]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372411
+[106]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372414
+[107]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372416
+[108]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372417
+[109]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372418
+[110]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372419
+[111]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372420
+[112]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372421
+[113]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372422
+[114]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372423
+[115]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372424
+[116]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372425
+[117]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372426
+[118]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372427
+[119]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372429
+[120]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372431
+[121]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372432
+[122]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372433
+[123]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372434
+[124]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372435
+[125]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372436
+[126]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372440
+[127]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372443
+[128]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372444
+[129]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372445
+[130]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372446
+[131]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372447
+[132]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372448
+[133]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372449
+[134]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372450
+[135]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372451
+[136]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM4169307
+[137]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372452
+[138]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM4169310
+[139]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372453
+[140]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372454
+[141]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372456
+[142]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372458
+[143]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372459
+[144]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372460
+[145]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372461
+[146]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372462
+[147]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372463
+[148]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372464
+[149]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372465
+[150]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372466
+[151]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372467
+[152]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372471
+[153]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372472
+[154]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372473
+[155]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372474
+[156]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372475
+[157]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372476
+[158]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372477
+[159]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372480
+[160]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372481
+[161]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372482
+[162]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372483
+[163]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372484
+[164]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372485
+[165]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372486
+[166]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372487
+[167]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372488
+[168]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372489
+[169]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372490
+[170]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372491
+[171]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372492
+[172]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372493
+[173]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372805
+[174]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372806
+[175]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372807
+[176]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372808
+[177]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372809
+[178]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372810
+[179]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372811
+[180]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372812
+[181]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372813
+[182]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372814
+[183]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372815
+[184]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372816
+[185]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372817
+[186]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372818
+[187]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372819
+[188]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372820
+[189]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372821
+[190]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372822
+[191]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372823
+[192]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372824
+[193]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372825
+[194]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372826
+[195]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372827
+[196]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372828
+[197]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372829
+[198]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071000
+[199]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071002
+[200]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071011
+[201]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071013
+[202]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071015
+[203]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071017
+[204]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071020
+[205]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071022
+[206]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071024
+[207]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071026
+[208]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071028
+[209]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071030
+[210]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071032
+[211]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071034
+[212]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071036
+[213]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071038
+[214]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071040
+[215]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071042
+[216]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071044
+[217]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM3071046
+[218]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372830
+[219]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372831
+[220]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372832
+[221]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372835
+[222]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372836
+[223]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372842
+[224]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372844
+[225]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372845
+[226]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372847
+[227]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372848
+[228]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372849
+[229]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372851
+[230]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372852
+[231]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372853
+[232]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM372854
+[233]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276550
+[234]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276551
+[235]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276552
+[236]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276553
+[237]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276554
+[238]: http://www.legislation.govt.nz/act/public/1995/0086/latest/whole.html#DLM6276556
+[239]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM212125
+[240]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM264465
+[241]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317244
+[242]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM271049
+[243]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72923
+[244]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM364948
+[245]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72621
+[246]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM81596
+[247]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615642
+[248]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM333795
+[249]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955505
+[250]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM367849
+[251]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM201378
+[252]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615651
+[253]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615652
+[254]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM41829
+[255]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM126527
+[256]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM126583
+[257]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615653
+[258]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317988
+[259]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955515
+[260]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM147094
+[261]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6027393
+[262]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2181002
+[263]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615654
+[264]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102349
+[265]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102383
+[266]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72928
+[267]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72932
+[268]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73326
+[269]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73358
+[270]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955516
+[271]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317232
+[272]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM71961
+[273]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615655
+[274]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615656
+[275]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774213
+[276]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615657
+[277]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360714
+[278]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615658
+[279]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774216
+[280]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM69643
+[281]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615659
+[282]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM440944
+[283]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM87570
+[284]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243618
+[285]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955523
+[286]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955524
+[287]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616703
+[288]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616704
+[289]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955525
+[290]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM317243
+[291]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955526
+[292]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955528
+[293]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955529
+[294]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6025512
+[295]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM185488
+[296]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616705
+[297]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360276
+[298]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3360278
+[299]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM39722
+[300]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM41848
+[301]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1955531
+[302]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302124
+[303]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM6025517
+[304]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM72929
+[305]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM73314
+[306]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM147653
+[307]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243909
+[308]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM243795
+[309]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM168713
+[310]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM296638
+[311]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297424
+[312]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM309404
+[313]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM3701415
+[314]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2015063
+[315]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297444
+[316]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297447
+[317]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297448
+[318]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297455
+[319]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297457
+[320]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297463
+[321]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297902
+[322]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM298408
+[323]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM297411
+[324]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774218
+[325]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1102132
+[326]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014207
+[327]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014212
+[328]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014213
+[329]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014214
+[330]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2061203
+[331]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302125
+[332]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM242775
+[333]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM42296
+[334]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2300100
+[335]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM76831
+[336]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM214522
+[337]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2300894
+[338]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616706
+[339]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441483
+[340]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441495
+[341]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441616
+[342]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441619
+[343]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM441660
+[344]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM367240
+[345]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM151079
+[346]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616707
+[347]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5616709
+[348]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM5615636
+[349]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM214897
+[350]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM214806
+[351]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998516
+[352]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998515
+[353]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2998532
+[354]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[355]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM4014200
+[356]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM2295900
+[357]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1774200
+[358]: http://www.legislation.govt.nz/act/public/1995/0086/latest/link.aspx?id=DLM1302102
