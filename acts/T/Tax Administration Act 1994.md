@@ -1,5 +1,5 @@
 Reprint  
-as at 22 July 2014
+as at 1 October 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -7049,7 +7049,7 @@ Information, record-keeping, and returns
     
     *   (j) \[Repealed\]
     
-    (1B) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person is a non-resident seasonal worker employed under the recognised seasonal employment scheme.
+    (1B) A natural person is not required to furnish a return of income for a tax year and will not receive an income statement from the Commissioner for the year if, in the corresponding income year, the person is a non-resident seasonal worker.
     
     (2) Subsection (1) does not apply to a natural person who, in the tax year---
         
@@ -7260,6 +7260,8 @@ Information, record-keeping, and returns
     Section 33A(1)(j): repealed (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 146(4)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
     
     Section 33A(1B): inserted (with effect on 1 April 2008), on 21 December 2010 (applying for 2008--09 and later income years), by [section 146(5)][1185] of the Taxation (GST and Remedial Matters) Act 2010 (2010 No 130).
+    
+    Section 33A(1B): amended, on 1 October 2014, by [section 154(1)][1189] of the Taxation (Annual Rates, Employee Allowances, and Remedial Matters) Act 2014 (2014 No 39).
     
     Section 33A(2): replaced, on 8 September 1999 (applying to 1999--2000 and subsequent income years), by [section 61(1)][1172] of the Taxation (Remedial Matters) Act 1999 (1999 No 98).
     
