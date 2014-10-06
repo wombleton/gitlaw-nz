@@ -1,5 +1,5 @@
 Reprint  
-as at 8 August 2014
+as at 1 October 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)--(3)
 
 ###### Note
 
-Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this official reprint.
 
 Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-Sections 56 and 57 of this Act are administered by the Overseas Investment Office, the rest of the Act is administered by the Ministry for Primary Industries.
+Sections 56 to 57J are administered by the Overseas Investment Office, the rest of this Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -18275,11 +18275,13 @@ A commercial fisher may return bladder kelp to the waters from which it was take
 
 Blue shark (_Prionace glauca_) All New Zealand fisheries waters 
 
-A commercial fisher may return any blue shark to the waters from which it was taken if---
+A commercial fisher may return any blue shark to the waters from which it was taken---
     
-*   (a) that blue shark is likely to survive on return; and
+*   (a) live, if the blue shark is likely to survive on return and the return takes place as soon as practicable after the blue shark was taken; or
 
-*   (b) the return takes place as soon as practicable after the blue shark is taken.
+*   (b) dead or near-dead, if paragraph (a) does not apply.
+
+For the purposes of paragraph (b) of this requirement, _near-dead_ means unlikely to survive on return.
 
 Chatham Islands scallops (_Pecten novaezelandiae_) Chatham Islands scallop fishery 
 
@@ -18367,11 +18369,13 @@ A commercial fisher may return any knobbed whelk to the waters from which it was
 
 Mako shark (_Isurus oxyrinchus_) All New Zealand fisheries waters 
 
-A commercial fisher may return any mako shark to the waters from which it was taken if---
+A commercial fisher may return any mako shark to the waters from which it was taken---
     
-*   (a) that mako shark is likely to survive on return; and
+*   (a) live, if the mako shark is likely to survive on return and the return takes place as soon as practicable after the mako shark was taken; or
 
-*   (b) the return takes place as soon as practicable after the mako shark is taken.
+*   (b) dead or near-dead, if paragraph (a) does not apply.
+
+For the purposes of paragraph (b) of this requirement, _near-dead_ means unlikely to survive on return.
 
 Northern scallops (_Pecten novaezelandiae_) Northland scallop fishery 
 
@@ -18411,11 +18415,13 @@ A commercial fisher may return any pipi to the seabed from which it was taken if
 
 Porbeagle shark (_Lamna nasus_) All New Zealand fisheries waters 
 
-A commercial fisher may return any porbeagle shark to the waters from which it was taken if---
+A commercial fisher may return any porbeagle shark to the waters from which it was taken---
     
-*   (a) that porbeagle shark is likely to survive on return; and
+*   (a) live, if the porbeagle shark is likely to survive on return and the return takes place as soon as practicable after the porbeagle shark was taken; or
 
-*   (b) the return takes place as soon as practicable after the porbeagle shark is taken.
+*   (b) dead or near-dead, if paragraph (a) does not apply.
+
+For the purposes of paragraph (b) of this requirement, _near-dead_ means unlikely to survive on return.
 
 Prawn killer (_Ibacus alticrenatus_) All New Zealand fisheries waters 
 
@@ -18533,30 +18539,31 @@ A commercial fisher may return any swordfish to the waters from which it was tak
 
 For the purposes of this requirement, **lower jaw to fork length** means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin).
 
-*   Schedule 6: amended, on 3 January 2013, by [regulation 4][1503] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
-*   Schedule 6: amended, on 1 May 2012, by [clause 3][1504] of the Fisheries (Schedule 6) Order 2012 (SR 2012/53).
-*   Schedule 6: amended, on 16 December 2010, by [clause 3][1505] of the Fisheries (Schedule 6) Order 2010 (SR 2010/408).
-*   Schedule 6: amended, on 1 October 2010, by [clause 5][1506] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
-*   Schedule 6: amended, on 1 October 2008, by [clause 3][1507] of the Fisheries (Schedule 6) Order (No 2) 2008 (SR 2008/275).
-*   Schedule 6: amended, on 1 April 2008, by [clause 3][1508] of the Fisheries (Schedule 6) Order 2008 (SR 2008/33).
-*   Schedule 6: amended, on 1 April 2007, by [clause 5(1)][1509] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 6: amended, on 1 April 2007, by [clause 5(2)][1509] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 6: amended, on 1 October 2006, by [clause 3][1510] of the Fisheries (Schedule 6) Order 2006 (SR 2006/242).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(a)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(b)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(2)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(3)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(4)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(5)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 5 January 2006, by [clause 4(6)][1511] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
-*   Schedule 6: amended, on 1 October 2004, by [clause 4][1512] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
-*   Schedule 6: amended, on 1 October 2004, by [clause 5][1513] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
-*   Schedule 6: amended, on 1 April 2004, by [clause 3][1514] of the Fisheries (Sixth Schedule) Order 2004 (SR 2004/67).
-*   Schedule 6: amended, on 1 October 2003, by [clause 4][1515] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
-*   Schedule 6: amended, on 1 April 2003, by [clause 5][1516] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
-*   Schedule 6: amended, on 1 October 2002, by [clause 4][1517] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
-*   Schedule 6: amended, on 11 July 2002, by [clause 5(a)][1518] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
-*   Schedule 6: amended, on 9 September 1999, by [section 35][1519] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
+*   Schedule 6: amended, on 1 October 2014, by [clause 3][1503] of the Fisheries (Schedule 6) Order 2014 (LI 2014/281).
+*   Schedule 6: amended, on 3 January 2013, by [regulation 4][1504] of the Fisheries (Schedules 5A and 6) Order 2012 (SR 2012/353).
+*   Schedule 6: amended, on 1 May 2012, by [clause 3][1505] of the Fisheries (Schedule 6) Order 2012 (SR 2012/53).
+*   Schedule 6: amended, on 16 December 2010, by [clause 3][1506] of the Fisheries (Schedule 6) Order 2010 (SR 2010/408).
+*   Schedule 6: amended, on 1 October 2010, by [clause 5][1507] of the Fisheries (Schedules 5, 5A, and 6) Order 2010 (SR 2010/297).
+*   Schedule 6: amended, on 1 October 2008, by [clause 3][1508] of the Fisheries (Schedule 6) Order (No 2) 2008 (SR 2008/275).
+*   Schedule 6: amended, on 1 April 2008, by [clause 3][1509] of the Fisheries (Schedule 6) Order 2008 (SR 2008/33).
+*   Schedule 6: amended, on 1 April 2007, by [clause 5(1)][1510] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 6: amended, on 1 April 2007, by [clause 5(2)][1510] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 6: amended, on 1 October 2006, by [clause 3][1511] of the Fisheries (Schedule 6) Order 2006 (SR 2006/242).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(a)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(1)(b)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(2)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(3)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(4)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(5)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 5 January 2006, by [clause 4(6)][1512] of the Fisheries (Schedules 2 and 6) Order 2005 (SR 2005/317).
+*   Schedule 6: amended, on 1 October 2004, by [clause 4][1513] of the Fisheries (Schedules 3 and 6) Order 2004 (SR 2004/337).
+*   Schedule 6: amended, on 1 October 2004, by [clause 5][1514] of the Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278).
+*   Schedule 6: amended, on 1 April 2004, by [clause 3][1515] of the Fisheries (Sixth Schedule) Order 2004 (SR 2004/67).
+*   Schedule 6: amended, on 1 October 2003, by [clause 4][1516] of the Fisheries (Schedules 5A and 6) Order 2003 (SR 2003/231).
+*   Schedule 6: amended, on 1 April 2003, by [clause 5][1517] of the Fisheries (Schedules 2, 5A, and 6) Order 2003 (SR 2003/48).
+*   Schedule 6: amended, on 1 October 2002, by [clause 4][1518] of the Fisheries (Schedules 5A and 6) Order 2002 (SR 2002/279).
+*   Schedule 6: amended, on 11 July 2002, by [clause 5(a)][1519] of the Fisheries (Schedules 2, 5A, and 6) Order 2002 (SR 2002/154).
+*   Schedule 6: amended, on 9 September 1999, by [section 35][1520] of the Fisheries Act 1996 Amendment Act (No 2) Act 1999 (1999 No 103).
 *   Schedule 6: amended, on 9 September 1999, by [section 88(3)][1480] of the Fisheries Act 1996 Amendment Act 1999 (1999 No 101).
 
 ---
@@ -18564,11 +18571,11 @@ For the purposes of this requirement, **lower jaw to fork length** means the pro
 ## Schedule 7  
 Authority to enter private dwelling house, enclosed garden, or curtilage, or Maori reservation
 
-\[Repealed\]
-
 [s 200][410]
 
-*   Schedule 7: repealed, on 1 October 2012, by [section 252][1520] of the Search and Surveillance Act 2012 (2012 No 24).
+\[Repealed\]
+    
+*   Schedule 7: repealed, on 1 October 2012, by [section 252][1521] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -18644,8 +18651,8 @@ SCA13
 
 SCA73
 
-*   Schedule 8 Part 1: amended, on 1 October 2007, by [clause 6][1521] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
-*   Schedule 8 Part 1: amended, on 31 March 2003, by [clause 3][1522] of the Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003 (SR 2003/28).
+*   Schedule 8 Part 1: amended, on 1 October 2007, by [clause 6][1522] of the Fisheries (Schedules 2, 5, 6, and 8) Order 2007 (SR 2007/31).
+*   Schedule 8 Part 1: amended, on 31 March 2003, by [clause 3][1523] of the Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003 (SR 2003/28).
 *   Schedule 8 Part 1: amended, on 1 July 2000, by [section 17(5)][1479] of the Fisheries Amendment Act 2000 (2000 No 20).
 
 ## Part 2
@@ -18663,7 +18670,7 @@ Harvestable spat
 
 [ss 2(1)][4], [186ZC][365]
 
-*   Schedule 8A: inserted, on 1 January 2005, by [section 20][1523] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
+*   Schedule 8A: inserted, on 1 January 2005, by [section 20][1524] of the Fisheries Amendment Act (No 3) 2004 (2004 No 104).
 
 The planktonic stage of the following species:
 
@@ -18708,7 +18715,7 @@ Quota allocations for jack mackerel, dredge oysters, and Northland scallops
 
 [ss 367][668], [368][669], [369][671]
 
-*   Schedule 9 heading: amended, on 1 April 1998, by [section 14(1)][1524] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+*   Schedule 9 heading: amended, on 1 April 1998, by [section 14(1)][1525] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 ## Part 1  
 Jack mackerel quota allocations
@@ -19056,7 +19063,7 @@ Vela Fishing Limited8640050700.00
 
 **Total**18 000.00
 
-*   Schedule 9 Part 2: amended, on 23 June 1998, by [section 34][1525] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
+*   Schedule 9 Part 2: amended, on 23 June 1998, by [section 34][1526] of the Fisheries (Remedial Issues) Amendment Act 1998 (1998 No 67).
 
 ## Part 3  
 Nelson/Marlborough dredge oyster quota allocations
@@ -19241,7 +19248,7 @@ Treaty of Waitangi Fisheries Commission860030037.712
 ## Part 5  
 Foveaux Strait dredge oyster quota allocations
     
-*   Schedule 9 Part 5: added, on 1 April 1998, by [section 14(2)][1524] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
+*   Schedule 9 Part 5: added, on 1 April 1998, by [section 14(2)][1525] of the Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998 (1998 No 6).
 
 **Legal name****Client number****Quota allocation (oyster numbers)**
 
@@ -19841,7 +19848,7 @@ Allocation of cost recovery settlement sum to each stock
 
 [s 265A][503]
 
-*   Schedule 9A: inserted, on 19 March 2004, by [section 12(1)][1526] of the Fisheries Amendment Act 2004 (2004 No 6).
+*   Schedule 9A: inserted, on 19 March 2004, by [section 12(1)][1527] of the Fisheries Amendment Act 2004 (2004 No 6).
 
 ## Part 1  
 Amounts of settlement sum to be credited to stock
@@ -20551,12 +20558,12 @@ Yellowfin tunaYFN1101,078
 
 Aquaculture 172,360
 
-*   Schedule 9A Part 1: amended, on 1 October 2004, by [section 62][1527] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(a)][1528] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(b)][1528] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(c)][1528] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(d)][1528] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
-*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(e)][1528] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 October 2004, by [section 62][1528] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(a)][1529] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(b)][1529] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004, by [clause 3(1)(c)][1529] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(d)][1529] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
+*   Schedule 9A Part 1: amended, on 1 July 2004 (applying on and after 1 October 2004), by [clause 3(1)(e)][1529] of the Fisheries (Schedule 9A) Order 2004 (SR 2004/171).
 
 ## Part 2  
 Amounts of settlement sum to be charged to stock
@@ -21326,7 +21333,7 @@ _Amendment(s) incorporated in the [Act(s)][963]._
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][1529]._
+_Amendment(s) incorporated in the [Act(s)][1530]._
 
 ##### Resource Management Act 1991 (1991 No 69) (RS Vol 32, p 131) 
 
@@ -21355,7 +21362,7 @@ Amendments to Summary Proceedings Act 1957
 
 ##### Summary Proceedings Act 1957 (1957 No 9) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][1530]._
+_Amendment(s) incorporated in the [Act(s)][1531]._
 
 ## Part 7  
 Amendments to Fisheries Act 1983 and other Acts
@@ -21393,7 +21400,7 @@ Quota management areas for particular scampi stocks
 
 [s 369N][686]
 
-*   Schedule 13: added, on 13 August 2004, by [section 6][1531] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+*   Schedule 13: added, on 13 August 2004, by [section 6][1532] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 #### Scampi quota management area 3---South East Coast and Western Chatham Islands combined
 
@@ -21442,7 +21449,7 @@ Scampi provisional catch history allocations
 
 [s 369O][687]
 
-*   Schedule 14: added, on 13 August 2004, by [section 6][1531] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
+*   Schedule 14: added, on 13 August 2004, by [section 6][1532] of the Fisheries Amendment Act (No 2) 2004 (2004 No 71).
 
 ## Part 1  
 Quota management area SCI1
@@ -21566,7 +21573,7 @@ Green-lipped mussel quota share allocations for quota management area 9 (GLM9)
 
 [s 369S(5)][692]
 
-*   Schedule 15: added, on 1 October 2004, by [section 63][1532] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 15: added, on 1 October 2004, by [section 63][1533] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 **Legal name****Client number****Quota shares allocated**
 
@@ -21601,7 +21608,7 @@ Allocation of quota for pipi in quota management area 1A
 
 [s 369T(2)][694]
 
-*   Schedule 16: added, on 1 October 2004, by [section 63][1532] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
+*   Schedule 16: added, on 1 October 2004, by [section 63][1533] of the Fisheries Amendment Act (No 3) 2004 (2004 No 76).
 
 **Client****Client number****Quota shares**
 
@@ -21637,7 +21644,7 @@ Commencementsee section 1(2)--(4)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Fisheries Act 1996 Amendment Act 1999][1533], and is part of the Fisheries Act 1996 (""the principal Act"").
+*   (1) This Act may be cited as the [Fisheries Act 1996 Amendment Act 1999][1534], and is part of the Fisheries Act 1996 (""the principal Act"").
     
     (2) This section and sections 2 to 8, 11 to 16, 64 to 72, 77 to 83, and 85 to 90, and the schedules, come into force on the day after the date on which this Act receives the Royal assent.
     
@@ -21682,7 +21689,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Fisheries Amendment Act (No 3) 2004][1534].
+*   (1) This Act is the [Fisheries Amendment Act (No 3) 2004][1535].
     
     (2) In this Act, other than Part 2, the Fisheries Act 1996 is called ""the principal Act"".
 
@@ -21749,7 +21756,7 @@ Commencementsee section 2
     
     (2) One or more Orders in Council may be made appointing different dates for the commencement of different provisions.
     
-    Section 2: Overseas Investment Act 2005 brought into force, on 25 August 2005, by the [Overseas Investment Act Commencement Order 2005][1535] (SR 2005/219).
+    Section 2: Overseas Investment Act 2005 brought into force, on 25 August 2005, by the [Overseas Investment Act Commencement Order 2005][1536] (SR 2005/219).
 
 ## Part 2  
 Consent and conditions regime
@@ -21810,7 +21817,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Fisheries Act 1996 Amendment Act 2008][1536].
+*   This Act is the [Fisheries Act 1996 Amendment Act 2008][1537].
 
 ##### 2 Commencement
     
@@ -21832,7 +21839,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Fisheries Amendment Act 2012][1537].
+*   This Act is the [Fisheries Amendment Act 2012][1538].
 
 ##### 2 Commencement
     
@@ -21854,15 +21861,17 @@ Commencementsee section 2
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1538] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1539] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][1539] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][1540] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1540] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1541] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][1541] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][1542] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
-*   [Fisheries (Foreign Charter Vessels and Other Matters) Amendment Act 2014][1542] (2014 No 60)
+*   [Fisheries (Schedule 6) Order 2014][1543] (LI 2014/281)
+    
+    [Fisheries (Foreign Charter Vessels and Other Matters) Amendment Act 2014][1544] (2014 No 60)
     
     Criminal Procedure (Consequential Amendments) Regulations 2013 (SR 2013/409): [regulation 3(1)][1023]
     
@@ -21870,31 +21879,31 @@ Commencementsee section 2
     
     Legislation Act 2012 (2012 No 119): [section 77(3)][1355]
     
-    [Fisheries (Schedules 5A and 6) Order 2012][1543] (SR 2012/353)
+    [Fisheries (Schedules 5A and 6) Order 2012][1545] (SR 2012/353)
     
     Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 (2012 No 72): [section 175][794]
     
-    [Fisheries Amendment Act 2012][1537] (2012 No 63)
+    [Fisheries Amendment Act 2012][1538] (2012 No 63)
     
     Search and Surveillance Act 2012 (2012 No 24): [sections 248--252][1185]
     
-    [Fisheries (Schedule 6) Order 2012][1544] (SR 2012/53)
+    [Fisheries (Schedule 6) Order 2012][1546] (SR 2012/53)
     
     Criminal Procedure Act 2011 (2011 No 81): [section 413][962]
     
-    [Fisheries Amendment Act 2011][1545] (2011 No 68)
+    [Fisheries Amendment Act 2011][1547] (2011 No 68)
     
-    [Fisheries (Schedule 5A) Order 2011][1546] (SR 2011/293)
+    [Fisheries (Schedule 5A) Order 2011][1548] (SR 2011/293)
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][770]
     
-    [Fisheries (Schedule 6) Order 2010][1547] (SR 2010/408)
+    [Fisheries (Schedule 6) Order 2010][1549] (SR 2010/408)
     
-    [Fisheries (Schedules 5, 5A, and 6) Order 2010][1548] (SR 2010/297)
+    [Fisheries (Schedules 5, 5A, and 6) Order 2010][1550] (SR 2010/297)
     
     Ministry of Agriculture and Fisheries (Restructuring) Amendment Act 2010 (2010 No 19): [section 6][1312]
     
-    [Fisheries Amendment Act 2010][1549] (2010 No 16)
+    [Fisheries Amendment Act 2010][1551] (2010 No 16)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][891]
     
@@ -21902,29 +21911,29 @@ Commencementsee section 2
     
     Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][906]
     
-    [Fisheries (Schedule 5) Order 2009][1550] (SR 2009/248)
+    [Fisheries (Schedule 5) Order 2009][1552] (SR 2009/248)
     
-    [Fisheries Act 1996 Amendment Act 2008][1536] (2008 No 96)
+    [Fisheries Act 1996 Amendment Act 2008][1537] (2008 No 96)
     
-    [Fisheries Amendment Act (No 2) 2008][1551] (2008 No 93)
+    [Fisheries Amendment Act (No 2) 2008][1553] (2008 No 93)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][1178]
     
-    [Fisheries (Schedule 6) Order (No 2) 2008][1552] (SR 2008/275)
+    [Fisheries (Schedule 6) Order (No 2) 2008][1554] (SR 2008/275)
     
-    [Fisheries Amendment Act 2008][1553] (2008 No 11)
+    [Fisheries Amendment Act 2008][1555] (2008 No 11)
     
-    [Fisheries (Schedule 6) Order 2008][1554] (SR 2008/33)
+    [Fisheries (Schedule 6) Order 2008][1556] (SR 2008/33)
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][907]
     
-    [Fisheries (Amalgamation of Quota Management Areas) Order 2007][1555] (SR 2007/175)
+    [Fisheries (Amalgamation of Quota Management Areas) Order 2007][1557] (SR 2007/175)
     
-    [Fisheries (Schedules 2, 5, 6, and 8) Order 2007][1556] (SR 2007/31)
+    [Fisheries (Schedules 2, 5, 6, and 8) Order 2007][1558] (SR 2007/31)
     
     Insolvency Act 2006 (2006 No 55): [section 445][1314]
     
-    [Fisheries (Schedule 6) Order 2006][1557] (SR 2006/242)
+    [Fisheries (Schedule 6) Order 2006][1559] (SR 2006/242)
     
     Summary Proceedings Amendment Act 2006 (2006 No 13): [section 33][1286]
     
@@ -21932,61 +21941,61 @@ Commencementsee section 2
     
     Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice (No 2) 2005 (SR 2005/347): clause 7(1)
     
-    [Fisheries (Schedules 2 and 6) Order 2005][1558] (SR 2005/317)
+    [Fisheries (Schedules 2 and 6) Order 2005][1560] (SR 2005/317)
     
     Overseas Investment Act 2005 (2005 No 82): [sections 73][882], [75][776]
     
     Fisheries (Declaration of New Stocks Subject to Quota Management System) Notice 2005 (SR 2005/15): [clause 7(1)(b)][1489]
     
-    [Fisheries (Schedules 3 and 6) Order 2004][1559] (SR 2004/337)
+    [Fisheries (Schedules 3 and 6) Order 2004][1561] (SR 2004/337)
     
     Fisheries (Schedules 3, 5A, and 6) Order 2004 (SR 2004/278)
     
-    [Fisheries (Schedule 9A) Order 2004][1560] (SR 2004/171)
+    [Fisheries (Schedule 9A) Order 2004][1562] (SR 2004/171)
     
     Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 (2004 No 109): [section 19(2)][1406]
     
-    [Fisheries Amendment Act (No 3) 2004][1561] (2004 No 104)
+    [Fisheries Amendment Act (No 3) 2004][1563] (2004 No 104)
     
     Maori Fisheries Act 2004 (2004 No 78): [section 214][766]
     
-    [Fisheries Amendment Act (No 3) 2004][1534] (2004 No 76)
+    [Fisheries Amendment Act (No 3) 2004][1535] (2004 No 76)
     
     [Fisheries Amendment Act (No 2) 2004][1473] (2004 No 71)
     
-    [Fisheries Amendment Act 2004][1562] (2004 No 6)
+    [Fisheries Amendment Act 2004][1564] (2004 No 6)
     
-    [Fisheries (Sixth Schedule) Order 2004][1563] (SR 2004/67)
+    [Fisheries (Sixth Schedule) Order 2004][1565] (SR 2004/67)
     
     Gambling Act 2003 (2003 No 51): [section 374][778]
     
-    [Fisheries (Schedules 5A and 6) Order 2003][1564] (SR 2003/231)
+    [Fisheries (Schedules 5A and 6) Order 2003][1566] (SR 2003/231)
     
-    [Fisheries (Schedules 2, 5A, and 6) Order 2003][1565] (SR 2003/48)
+    [Fisheries (Schedules 2, 5A, and 6) Order 2003][1567] (SR 2003/48)
     
-    [Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003][1566] (SR 2003/28)
+    [Fisheries (Removal of Packhorse Rock Lobster from Eighth Schedule) Order 2003][1568] (SR 2003/28)
     
-    [Fisheries (Foreign Fishing Crew) Amendment Act 2002][1567] (2002 No 27)
+    [Fisheries (Foreign Fishing Crew) Amendment Act 2002][1569] (2002 No 27)
     
-    [Fisheries (Schedules 5A and 6) Order 2002][1568] (SR 2002/279)
+    [Fisheries (Schedules 5A and 6) Order 2002][1570] (SR 2002/279)
     
     [Fisheries Act Commencement Order 2002][720] (SR 2002/167)
     
-    [Fisheries (Schedules 2, 5A, and 6) Order 2002][1569] (SR 2002/154)
+    [Fisheries (Schedules 2, 5A, and 6) Order 2002][1571] (SR 2002/154)
     
     Sentencing Act 2002 (2002 No 9): [section 186][1282]
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][1319]
     
-    [Fisheries (Schedule 5A) Order 2001][1570] (SR 2001/252)
+    [Fisheries (Schedule 5A) Order 2001][1572] (SR 2001/252)
     
     [Fisheries Act Commencement Order (No 2) 2001][721] (SR 2001/179)
     
-    [Fisheries Amendment Act 2001][1571] (2001 No 65)
+    [Fisheries Amendment Act 2001][1573] (2001 No 65)
     
     Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(2)][1408]
     
-    [Fisheries (Remedial Issues) Amendment Act 2001][1572] (2001 No 33)
+    [Fisheries (Remedial Issues) Amendment Act 2001][1574] (2001 No 33)
     
     [Fisheries Act Commencement Order 2001][722] (SR 2001/38)
     
@@ -21994,15 +22003,15 @@ Commencementsee section 2
     
     Employment Relations Act 2000 (2000 No 24): [section 240][997]
     
-    [Fisheries Amendment Act 2000][1573] (2000 No 20)
+    [Fisheries Amendment Act 2000][1575] (2000 No 20)
     
     Hauraki Gulf Marine Park Act 2000 (2000 No 1): [section 12][793]
     
     [Fisheries Act 1996 Commencement Order 1999][724] (SR 1999/380)
     
-    [Fisheries Act 1996 Amendment Act (No 2) 1999][1574] (1999 No 103)
+    [Fisheries Act 1996 Amendment Act (No 2) 1999][1576] (1999 No 103)
     
-    [Fisheries Act 1996 Amendment Act 1999][1533] (1999 No 101)
+    [Fisheries Act 1996 Amendment Act 1999][1534] (1999 No 101)
     
     Animal Products (Ancillary and Transitional Provisions) Act 1999 (1999 No 94): [section 8(1)][967]
     
@@ -22012,11 +22021,11 @@ Commencementsee section 2
     
     [Fisheries Act Commencement Order 1998][725] (SR 1998/251)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][1575]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][1577]
     
-    [Fisheries (Remedial Issues) Amendment Act 1998][1576] (1998 No 67)
+    [Fisheries (Remedial Issues) Amendment Act 1998][1578] (1998 No 67)
     
-    [Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998][1577] (1998 No 6)
+    [Fisheries (Fouveaux Strait Dredge Oyster Fishery) Amendment Act 1998][1579] (1998 No 6)
     
     [Fisheries Act Commencement Order (No 2) 1997][726] (SR 1997/171)
     
@@ -23537,78 +23546,80 @@ Commencementsee section 2
 [1500]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129941
 [1501]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157519
 [1502]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM76403
-[1503]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896346
-[1504]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362137
-[1505]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346806
-[1506]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188906
-[1507]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503403
-[1508]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151306
-[1509]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426777
-[1510]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404966
-[1511]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360075
-[1512]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290894
-[1513]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284603
-[1514]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249185
-[1515]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210138
-[1516]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186338
-[1517]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157520
-[1518]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129942
-[1519]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41981
-[1520]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356313
-[1521]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426778
-[1522]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183457
-[1523]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324320
-[1524]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424428
-[1525]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427270
-[1526]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238681
-[1527]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310945
-[1528]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264798
-[1529]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM334659
-[1530]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310742
-[1531]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306011
-[1532]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310947
-[1533]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39248
-[1534]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310544
-[1535]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341357
-[1536]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444800
-[1537]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444100
-[1538]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998516
-[1539]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998515
-[1540]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998532
-[1541]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[1542]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4794400
-[1543]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896356
-[1544]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362141
-[1545]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960721
-[1546]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941105
-[1547]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346800
-[1548]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188912
-[1549]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853221
-[1550]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282504
-[1551]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629382
-[1552]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503405
-[1553]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209425
-[1554]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151300
-[1555]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441519
-[1556]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426767
-[1557]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404958
-[1558]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360067
-[1559]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290887
-[1560]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264792
-[1561]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324118
-[1562]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238658
-[1563]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249179
-[1564]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210131
-[1565]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186329
-[1566]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183451
-[1567]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147405
-[1568]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157513
-[1569]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129932
-[1570]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM75897
-[1571]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112170
-[1572]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92716
-[1573]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56394
-[1574]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41064
-[1575]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427920
-[1576]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427229
-[1577]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424408
+[1503]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM6240906
+[1504]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896346
+[1505]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362137
+[1506]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346806
+[1507]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188906
+[1508]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503403
+[1509]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151306
+[1510]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426777
+[1511]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404966
+[1512]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360075
+[1513]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290894
+[1514]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM284603
+[1515]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249185
+[1516]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210138
+[1517]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186338
+[1518]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157520
+[1519]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129942
+[1520]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41981
+[1521]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4356313
+[1522]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426778
+[1523]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183457
+[1524]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324320
+[1525]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424428
+[1526]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427270
+[1527]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238681
+[1528]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310945
+[1529]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264798
+[1530]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM334659
+[1531]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310742
+[1532]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM306011
+[1533]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310947
+[1534]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM39248
+[1535]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM310544
+[1536]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM341357
+[1537]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1444800
+[1538]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4444100
+[1539]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998516
+[1540]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998515
+[1541]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2998532
+[1542]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[1543]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM6240900
+[1544]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4794400
+[1545]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4896356
+[1546]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM4362141
+[1547]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3960721
+[1548]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3941105
+[1549]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3346800
+[1550]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM3188912
+[1551]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2853221
+[1552]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM2282504
+[1553]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1629382
+[1554]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1503405
+[1555]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1209425
+[1556]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM1151300
+[1557]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM441519
+[1558]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM426767
+[1559]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM404958
+[1560]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM360067
+[1561]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM290887
+[1562]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM264792
+[1563]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM324118
+[1564]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM238658
+[1565]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM249179
+[1566]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM210131
+[1567]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM186329
+[1568]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM183451
+[1569]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM147405
+[1570]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM157513
+[1571]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM129932
+[1572]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM75897
+[1573]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM112170
+[1574]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM92716
+[1575]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM56394
+[1576]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM41064
+[1577]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427920
+[1578]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM427229
+[1579]: http://www.legislation.govt.nz/act/public/1996/0088/latest/link.aspx?id=DLM424408
