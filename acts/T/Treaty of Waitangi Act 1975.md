@@ -1097,10 +1097,14 @@ Her Majesty the Queen of England confirms and guarantees to the Chiefs and Tribe
 
 In consideration thereof Her Majesty the Queen of England extends to the Natives of New Zealand Her royal protection and imparts to them all the Rights and Privileges of British Subjects.
 
+## 
+
 W HOBSON  
 Lieutenant Governor.
 
 Now therefore We the Chiefs of the Confederation of the United Tribes of New Zealand being assembled in Congress at Victoria in Waitangi and We the Separate and Independent Chiefs of New Zealand claiming authority over the Tribes and Territories which are specified after our respective names, having been made fully to understand the Provisions of the foregoing Treaty, accept and enter into the same in the full spirit and meaning thereof: in witness of which we have attached our signatures or marks at the places and the dates respectively specified.
+
+## 
 
 Done at Waitangi this Sixth day of February in the year of Our Lord One thousand eight hundred and forty.
 
