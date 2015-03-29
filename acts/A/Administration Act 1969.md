@@ -74,7 +74,7 @@ This Act is administered by the Ministry of Justice.
 
 [19][25][][25][Proceedings where executor neglects to prove will][25]
 
-[20][26][][26][When powers, etc, of Public Trust or Māori Trustee to pass to executor][26]
+[20][26][][26][When powers, etc, of Public Trust or Mori Trustee to pass to executor][26]
 
 [21][27][][27][Discharge or removal of administrator][27]
 
@@ -156,7 +156,7 @@ This Act is administered by the Ministry of Justice.
 
 [57][66][][66][Practice of court in its administration jurisdiction][66]
 
-[58][67][][67][Form of order to Public Trust or Māori Trustee][67]
+[58][67][][67][Form of order to Public Trust or Mori Trustee][67]
 
 [59][68][][68][Power to make rules][68]
 
@@ -248,7 +248,7 @@ This Act is administered by the Ministry of Justice.
 [Certificate of administration][109]
 
 [Schedule 2][110]  
-[Order to Public Trust or Māori Trustee to administer][110]
+[Order to Public Trust or Mori Trustee to administer][110]
 
 [Schedule 3][111]  
 [Enactments repealed][111]
@@ -316,7 +316,7 @@ An Act to consolidate and amend certain enactments relating to the administratio
     
     _trustee company_ means a trustee company within the meaning of the [Trustee Companies Act 1967][117]
     
-    _trustee corporation_ means Public Trust or the Māori Trustee or any trustee company
+    _trustee corporation_ means Public Trust or the Mori Trustee or any trustee company
     
     _will_ includes a codicil.
     
@@ -561,7 +561,7 @@ Administration by administrator
     
     *   (b) the attorney fails to make an application under subsection (2) within 3 months after the date of death of the donor; and
     
-    *   (c) any person interested in the estate in respect of which the attorney is acting as administrator, or Public Trust, or the Māori Trustee, or any creditor of the testator or intestate, applies to the court under [section 21][27] to have the attorney removed as administrator,---
+    *   (c) any person interested in the estate in respect of which the attorney is acting as administrator, or Public Trust, or the Mori Trustee, or any creditor of the testator or intestate, applies to the court under [section 21][27] to have the attorney removed as administrator,---
     
     the court must remove that attorney as administrator under [section 21][27].
     
@@ -675,15 +675,15 @@ Administration by administrator
 
 ##### 19 Proceedings where executor neglects to prove will
     
-*   (1) In any case where any executor named in a will neglects or refuses to prove the will, or to renounce probate thereof, within 3 months from the death of the testator, the court may, upon the application of any other executor or executors or of any person interested in the estate or of Public Trust or of the Māori Trustee or of any creditor of the testator, grant an order nisi calling upon the executor who so neglects or refuses to show cause why probate of the will should not be granted to that executor alone or with any other executor or executors or, in the alternative, why administration should not be granted to the applicant or some other person.
+*   (1) In any case where any executor named in a will neglects or refuses to prove the will, or to renounce probate thereof, within 3 months from the death of the testator, the court may, upon the application of any other executor or executors or of any person interested in the estate or of Public Trust or of the Mori Trustee or of any creditor of the testator, grant an order nisi calling upon the executor who so neglects or refuses to show cause why probate of the will should not be granted to that executor alone or with any other executor or executors or, in the alternative, why administration should not be granted to the applicant or some other person.
     
     (2) Upon proof (whether by affidavit or otherwise) of service of the order, or upon the court dispensing with service of the order, if the executor who is so called upon does not appear or upon cause being shown, the court may make such order for the administration of the estate, and as to costs, as appears just.
     
-    (3) Where Public Trust or the Māori Trustee applies, and any executor is out of New Zealand, the court may exercise the power given by this section and grant administration to Public Trust or the Māori Trustee without first granting an order nisi calling upon any executor who is out of New Zealand to show cause.
+    (3) Where Public Trust or the Mori Trustee applies, and any executor is out of New Zealand, the court may exercise the power given by this section and grant administration to Public Trust or the Mori Trustee without first granting an order nisi calling upon any executor who is out of New Zealand to show cause.
     
     (4) On the application of any executor who was out of New Zealand when the grant under subsection (3) without an order nisi was made, and who has not refused or renounced administration, the court may grant probate to that executor, or if Public Trust is one of the executors named in the will to Public Trust and that executor, in any manner and subject to any limitations or conditions that the court thinks proper.
     
-    (5) No application under subsection (4) shall be made until 14 days after notice in writing of the intention to apply has been left at the Office at Wellington of Public Trust or of the Māori Trustee, whichever received the prior grant.
+    (5) No application under subsection (4) shall be made until 14 days after notice in writing of the intention to apply has been left at the Office at Wellington of Public Trust or of the Mori Trustee, whichever received the prior grant.
     
     Compare: 1952 No 56 s 9
     
@@ -695,31 +695,31 @@ Administration by administrator
     
     Section 19(5): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
 
-##### 20 When powers, etc, of Public Trust or Māori Trustee to pass to executor
+##### 20 When powers, etc, of Public Trust or Mori Trustee to pass to executor
     
 *   (1) Immediately on the grant of probate under subsection (4) of section 19---
         
-    *   (a) all the powers, rights, discretions, and duties of Public Trust or the Māori Trustee (except those conferred or imposed by the [Public Trust Act 2001][140] or the [Maori Trustee Act 1953][141] and except also the rights reserved by this section) in relation to the testator's estate, and all liability of Public Trust or the Māori Trustee under any contract or agreement entered into by him or her, or otherwise affecting or relating to the estate or any part thereof, shall pass to the executor obtaining probate:
+    *   (a) all the powers, rights, discretions, and duties of Public Trust or the Mori Trustee (except those conferred or imposed by the [Public Trust Act 2001][140] or the [Maori Trustee Act 1953][141] and except also the rights reserved by this section) in relation to the testator's estate, and all liability of Public Trust or the Mori Trustee under any contract or agreement entered into by him or her, or otherwise affecting or relating to the estate or any part thereof, shall pass to the executor obtaining probate:
     
-    *   (b) no claim shall thereafter lie against Public Trust or the Māori Trustee in respect of any such liability:
+    *   (b) no claim shall thereafter lie against Public Trust or the Mori Trustee in respect of any such liability:
         
         provided that nothing in this paragraph shall apply where Public Trust is one of the executors named in the will:
     
-    *   (c) subject to and on the allowance and payment of all money due for commission, necessary outlay, disbursements, costs, charges, and expenses affecting the estate, including the costs of and incidental to the application for probate, and consequent thereon, and subject also to the provisions of this section and [section 19][25], such portion of the estate as is then unadministered by Public Trust or the Māori Trustee shall vest in the executor obtaining probate.
+    *   (c) subject to and on the allowance and payment of all money due for commission, necessary outlay, disbursements, costs, charges, and expenses affecting the estate, including the costs of and incidental to the application for probate, and consequent thereon, and subject also to the provisions of this section and [section 19][25], such portion of the estate as is then unadministered by Public Trust or the Mori Trustee shall vest in the executor obtaining probate.
     
-    (2) Nothing in this section shall relieve Public Trust or the Māori Trustee from the consequences of his or her own devastavit.
+    (2) Nothing in this section shall relieve Public Trust or the Mori Trustee from the consequences of his or her own devastavit.
     
     Compare: 1952 No 56 s 10
     
-    Section 20 heading: amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20 heading: amended, on 1 July 2009, by [section 30(1)][142] of the Mori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20 heading: amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 20(1)(a): amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20(1)(a): amended, on 1 July 2009, by [section 30(1)][142] of the Mori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20(1)(a): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 20(1)(b): amended, on 1 July 2009, by [section 30(1)][142] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 20(1)(b): amended, on 1 July 2009, by [section 30(1)][142] of the Mori Trustee Amendment Act 2009 (2009 No 12).
     
     Section 20(1)(b): amended, on 1 March 2002, by [section 170(1)][123] of the Public Trust Act 2001 (2001 No 100).
     
@@ -1147,9 +1147,9 @@ Administration by administrator
     
     Compare: 1952 No 56 s 35
 
-##### 58 Form of order to Public Trust or Māori Trustee
+##### 58 Form of order to Public Trust or Mori Trustee
     
-*   Whenever the court grants an order to Public Trust (either alone or together with any other person or persons) or to the Māori Trustee to administer the estate of any deceased person, the order shall be in the form in [Schedule 2][110] or in such other form or forms as may be prescribed by the Governor-General by Order in Council.
+*   Whenever the court grants an order to Public Trust (either alone or together with any other person or persons) or to the Mori Trustee to administer the estate of any deceased person, the order shall be in the form in [Schedule 2][110] or in such other form or forms as may be prescribed by the Governor-General by Order in Council.
     
     Compare: 1952 No 56 s 36; 1957 No 38 s 4
     
@@ -1607,35 +1607,35 @@ Distribution of intestate estates
     
     **Residue of the estate:**
     
-    •this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
+    "this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
     
-    •anything that remains of the residue is held in trust for the husband, wife, civil union partner, or surviving de facto partner absolutely
+    "anything that remains of the residue is held in trust for the husband, wife, civil union partner, or surviving de facto partner absolutely
     
     2Husband, wife, civil union partner, or surviving de facto partner, and issue **Personal chattels (as defined in [section 2(1)][212]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
     
-    •this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
+    "this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
     
-    •anything that remains of the residue is held in trust as follows:
+    "anything that remains of the residue is held in trust as follows:
     
-    •a third for the husband, wife, civil union partner, or surviving de facto partner absolutely; and
+    "a third for the husband, wife, civil union partner, or surviving de facto partner absolutely; and
     
-    •two-thirds on the statutory trusts for the issue of the intestate
+    "two-thirds on the statutory trusts for the issue of the intestate
     
     3Husband, wife, civil union partner, or surviving de facto partner, no issue, but one or both parents **Personal chattels (as defined in [section 2(1)][212]):**  
     the husband, wife, civil union partner, or surviving de facto partner takes these absolutely, except that any that are subject to a hire purchase agreement, are taken subject to the vendor's rights under that agreement
     
     **Residue of the estate:**
     
-    •this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
+    "this stands charged with the payment to the husband, wife, civil union partner, or surviving de facto partner of the prescribed amount, plus interest (at the rate prescribed by or under [section 39][47]) on that amount from the date of the death until that amount is paid or appropriated
     
-    •anything that remains of the residue is held in trust as follows:
+    "anything that remains of the residue is held in trust as follows:
     
-    •two-thirds for the husband, wife, civil union partner, or surviving de facto partner absolutely; and
+    "two-thirds for the husband, wife, civil union partner, or surviving de facto partner absolutely; and
     
-    •a third for the father and mother in equal shares absolutely or, if the intestate leaves only one parent, for that parent absolutely
+    "a third for the father and mother in equal shares absolutely or, if the intestate leaves only one parent, for that parent absolutely
     
     4Issue but no husband, wife, civil union partner, or surviving de facto partner All of the estate is held on the statutory trusts for the issue of the intestate
     
@@ -1646,25 +1646,25 @@ Distribution of intestate estates
     7No one who takes an absolutely vested interest under the trusts referred to in items 1 to 6, but one or both maternal or paternal grandparents, or 1 or more maternal or paternal uncles or aunts (whether of full or half blood) All of the estate is held in trust as follows:  
     **as to half:**
     
-    •in equal shares for the maternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
+    "in equal shares for the maternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
     
-    •if the intestate leaves no maternal grandparent, then on the statutory trusts for the maternal uncles and aunts; or
+    "if the intestate leaves no maternal grandparent, then on the statutory trusts for the maternal uncles and aunts; or
     
-    •if no maternal grandparent or maternal uncle or aunt takes an absolutely vested interest under those trusts, then on the trusts on which the other half of the estate must be held
+    "if no maternal grandparent or maternal uncle or aunt takes an absolutely vested interest under those trusts, then on the trusts on which the other half of the estate must be held
     
     **as to the other half:**
     
-    •in equal shares for the paternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
+    "in equal shares for the paternal grandparents, but if the intestate leaves only one such grandparent, for that grandparent; or
     
-    •if the intestate leaves no paternal grandparent, then on the statutory trusts for the paternal uncles and aunts; or
+    "if the intestate leaves no paternal grandparent, then on the statutory trusts for the paternal uncles and aunts; or
     
-    •if no paternal grandparent or paternal uncle or aunt takes an absolutely vested interest under those trusts, then on the trusts on which the first half of the estate must be held
+    "if no paternal grandparent or paternal uncle or aunt takes an absolutely vested interest under those trusts, then on the trusts on which the first half of the estate must be held
     
     8No one who takes an absolute interest under items 1 to 7 All of the estate belongs to the Crown as _bona vacantia_, and the Crown may (without prejudice to any other powers), out of all or any part of the estate, provide for---
     
-    •dependants (whether kindred or not) of the intestate; and
+    "dependants (whether kindred or not) of the intestate; and
     
-    •other persons for whom the intestate might reasonably have been expected to make provision.
+    "other persons for whom the intestate might reasonably have been expected to make provision.
     
     Section 77: replaced, on 1 February 2002 (applying only in respect of the estates of persons who die on or after that date), by [section 8][213] of the Administration Amendment Act 2001 (2001 No 6).
     
@@ -1966,7 +1966,7 @@ Registrar.
 ---
 
 ## Schedule 2  
-Order to Public Trust or Māori Trustee to administer
+Order to Public Trust or Mori Trustee to administer
 
 [s 58][67]
 
@@ -2136,7 +2136,7 @@ Statute (_temp. incert._) Statute concerning tenants by the Curtesy of England. 
     
     High Court Fees Regulations 2013 (SR 2013/226): [regulation 5(1)][139]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][142]
+    Mori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][142]
     
     Succession (Homicide) Act 2007 (2007 No 95): [section 17][124]
     
