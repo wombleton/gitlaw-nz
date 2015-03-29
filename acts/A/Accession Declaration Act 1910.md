@@ -28,12 +28,12 @@ An Act to alter the form of the Declaration required to be made by the Sovereign
 Be it enacted by the King's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:
 
 ##### 1 Alteration of form of accession declaration. 1 Will & Mary Sess 2, c 2, 12 & 13 Will 3, c 2
-    
-*   The declaration to be made, subscribed, and audibly repeated by the Sovereign under section [one][4] of the [Bill of Rights][5] and section [two][6] of the [Act of Settlement 1700][7] shall be that set out in the [Schedule][3] to this Act instead of that referred to in the said sections.
+
+* The declaration to be made, subscribed, and audibly repeated by the Sovereign under section [one][4] of the [Bill of Rights][5] and section [two][6] of the [Act of Settlement 1700][7] shall be that set out in the [Schedule][3] to this Act instead of that referred to in the said sections.
 
 ##### 2 Short title
-    
-*   This Act may be cited as the Accession Declaration Act 1910
+
+* This Act may be cited as the Accession Declaration Act 1910
 
 ---
 
