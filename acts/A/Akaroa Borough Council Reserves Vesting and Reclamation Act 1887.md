@@ -5,10 +5,10 @@ Date of assent19 December 1887
 ## Contents
 
 [Title][0]
-    
-*   [Preamble][1]
-    
-    \[Repealed\]
+
+* [Preamble][1]
+
+\[Repealed\]
 
 [1][2] [Short Title][2]
 
@@ -65,100 +65,100 @@ Date of assent19 December 1887
 ---
 
 An Act to vest Certain Reserves in the Akaroa Borough Council; and also to authorize the Reclamation from the Sea by the said Council of Certain Portions of such Reserves in the Harbour of Akaroa.
-    
-*   #### Preamble
-    
-    \[Repealed\]
-    
-    The preamble was repealed as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* #### Preamble
+
+\[Repealed\]
+
+The preamble was repealed as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 BE IT THEREFORE ENACTED by the General Assembly of New Zealand in Parliament assembled, and by the authority of the same, as follows:---
 
 ##### 1 Short Title
-    
-*   The Short Title of this Act is the Akaroa Borough Council Reserves Vesting and Reclamation Act 1887\.
+
+* The Short Title of this Act is the Akaroa Borough Council Reserves Vesting and Reclamation Act 1887\.
 
 ##### 2 Interpretation
-    
-*   In the construction of this Act---
-    
-    _Council_ shall mean the Mayor, Councillors, and burgesses of the Borough of Akaroa
-    
-    _Borough_ shall mean the Borough of Akaroa
-    
-    _Minister_ shall mean the Minister for Public Works, or any Member of the Executive Council of the Colony, being a responsible Minister of the Crown, acting for him.
+
+* In the construction of this Act---
+
+_Council_ shall mean the Mayor, Councillors, and burgesses of the Borough of Akaroa
+
+_Borough_ shall mean the Borough of Akaroa
+
+_Minister_ shall mean the Minister for Public Works, or any Member of the Executive Council of the Colony, being a responsible Minister of the Crown, acting for him.
 
 ##### 3 Vesting of lands for municipal purposes and endowment
-    
-*   The parcels of land described in Schedule [1][18] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for municipal purposes and endowment.
+
+* The parcels of land described in Schedule [1][18] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for municipal purposes and endowment.
 
 ##### 4 Vesting of lands for recreation purposes
-    
-*   The parcels of land described in Schedule [2][19] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for the purposes of reclamation and public recreation.
+
+* The parcels of land described in Schedule [2][19] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for the purposes of reclamation and public recreation.
 
 ##### 5 Vesting of lands for purpose of endowment
-    
-*   The parcels of land described in Schedule [3][20] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for the purposes of reclamation and endowment.
+
+* The parcels of land described in Schedule [3][20] to this Act shall be and the same are hereby vested in and transferred to the Council and its successors for the purposes of reclamation and endowment.
 
 ##### 6 Reservation and vesting of lands for municipal purposes and endowment
-    
-*   The parcels of land described in Schedule [4][21] to this Act are hereby reserved, and shall be and the same are hereby vested in and transferred to the Council and its successors for municipal purposes and endowment.
+
+* The parcels of land described in Schedule [4][21] to this Act are hereby reserved, and shall be and the same are hereby vested in and transferred to the Council and its successors for municipal purposes and endowment.
 
 ##### 7 The Council may reclaim lands and enter into contract for that purpose
-    
-*   The Council may from time to time fill up and reclaim all the land described in Schedule [5][22] to this Act or any part thereof,
-    
-    Section 7 was amended, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40) by omitting all the words from and including ""and may for that purpose"" to the end of the section.
+
+* The Council may from time to time fill up and reclaim all the land described in Schedule [5][22] to this Act or any part thereof,
+
+Section 7 was amended, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40) by omitting all the words from and including ""and may for that purpose"" to the end of the section.
 
 ##### 8 Council to make compensation
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 9 Power to raise money by way of special loan
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 10 Council may lay out a street to connect Jolie Street with Lavaud Street
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 11 Council may manage
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 12 Provisions of the Municipal Corporations Act 1886, to apply
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 13 Provisions of the Harbours Act 1878, to apply
-    
-*   \[Repealed\]
-    
-    Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Sections 8 to 13 were repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 14 Reclaimed lands may be taken for public works
-    
-*   Nothing in this Act or in the Municipal Corporations Act 1886, shall prevent the Minister, in the case of Government works, from taking and acquiring from time to time any part of the lands which shall have been reclaimed under the provisions of this Act for the purposes of a railway or any works or buildings in connection therewith, without payment of any compensation except as provided for in similar cases by the Harbours Act 1878\.
+
+* Nothing in this Act or in the Municipal Corporations Act 1886, shall prevent the Minister, in the case of Government works, from taking and acquiring from time to time any part of the lands which shall have been reclaimed under the provisions of this Act for the purposes of a railway or any works or buildings in connection therewith, without payment of any compensation except as provided for in similar cases by the Harbours Act 1878\.
 
 ##### 15 Officers may be appointed
-    
-*   \[Repealed\]
-    
-    Section 15 was repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* \[Repealed\]
+
+Section 15 was repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 ##### 16 Act to be deemed a Special Act within meaning of Harbours Act
-    
-*   This Act shall be deemed to be a special Act within the meaning of the Harbours Act 1878\.
+
+* This Act shall be deemed to be a special Act within the meaning of the Harbours Act 1878\.
 
 ---
 
@@ -197,8 +197,8 @@ ALL that parcel of land in the Provincial District of Canterbury, containing 3 a
 ## Schedule 6
 
 \[Repealed\]
-    
-*   Schedule 6 was repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
+
+* Schedule 6 was repealed, as from 19 November 1907, by section [2][24] Statutes Repeal Act 1907 (1907 No 40).
 
 
 
