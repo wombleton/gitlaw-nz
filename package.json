@@ -30,9 +30,9 @@
     "underscore": "~1.4.4",
     "cheerio": "~0.10.8",
     "request": "~2.16.6",
-    "html-md": "~2.0.2",
     "shagit": "0.0.1",
     "github-api": "^0.10.4",
-    "babel": "^4.7.16"
+    "babel": "^4.7.16",
+    "html-md": "^3.0.2"
   }
 }
