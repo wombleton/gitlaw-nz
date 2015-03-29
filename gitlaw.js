@@ -2,7 +2,7 @@
 
 const async = require('async'),
   cheerio = require('cheerio'),
-  _ = require('underscore'),
+  _ = require('lodash'),
   path = require('path'),
   request = require('request'),
   url = require('url'),
@@ -75,17 +75,12 @@ function scrapeSearch(uri, callback) {
 function getPath(title) {
   title = title.trim().replace(/\r\n?/g, ' ').replace(/\//g, '-');
 
-    return path.join('acts', title.substring(0, 1).toUpperCase(), title) + '.md';
+  return path.join('acts', title.substring(0, 1).toUpperCase(), title) + '.md';
 }
 
 
 function handleAct(options, callback) {
-  var $,
-    { response, body, uri } = options,
-    file,
-    act,
-    title,
-    markdown;
+  const { response, body, uri } = options;
 
   if (Math.floor(response.statusCode / 100) !== 2) {
     callback();
@@ -94,15 +89,15 @@ function handleAct(options, callback) {
       actQueue.push(uri);
     }
   } else {
-    $ = cheerio.load(body);
+    const $ = cheerio.load(body);
 
-    act = $('.act').html();
-    title = $('h1.title').first().text();
+    const title = $('h1.title').first().text();
 
-    markdown = makeMarkdown(act, uri);
+    const act = $('.act').html();
+    const markdown = makeMarkdown(act, uri);
 
     if (title) {
-      file = getPath(title);
+      const file = getPath(title);
       repo.getSha('master', file, function(err, contentSha) {
         if (err) {
           if (err === 'not found') {
