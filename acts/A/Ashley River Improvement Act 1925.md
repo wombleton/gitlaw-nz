@@ -310,7 +310,7 @@ Section [62][60] (as amended by section [7][61] of the [Land Drainage Amendment 
 
 ALL that area of land extending for a distance of 1 chain on the eastern side and 3 chains on the western side of the middle-line of the Addington-Waiau Railway, bounded towards the south by road reserve, and towards the north by the northern boundary of Reserve 1380, and coloured green on plan marked PWD 64061:
 
-Also all that area of land extending towards the east for a distance of 1 chain and towards the west for 3 chains from the middle-line of the Addington-Waiau Railway, bounded towards the south by the northern boundary of Reserve 1380, and extending in a northerly direction for a distance of about 6 Â¾ chains, and coloured blue on plan marked PWD 64061:
+Also all that area of land extending towards the east for a distance of 1 chain and towards the west for 3 chains from the middle-line of the Addington-Waiau Railway, bounded towards the south by the northern boundary of Reserve 1380, and extending in a northerly direction for a distance of about 6 ¾ chains, and coloured blue on plan marked PWD 64061:
 
 Also all that area of land extending for 1 chain on the east and 3 chains on the west of the middle-line of the Addington-Waiau Railway, bounded towards the north by the riparian road reserve, and extending in a southerly direction for a distance of 102 chains, more or less, and coloured blue on plan marked PWD 64061:
 
