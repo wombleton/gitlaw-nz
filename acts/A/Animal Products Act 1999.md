@@ -3069,7 +3069,7 @@ Officers, powers, etc
     
 *   (1) The Director-General may from time to time appoint official assessors for the purpose of carrying out such routine examinations of animal material and products as may be required for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act. Persons appointed under this subsection must be employed under the [State Sector Act 1988][339].
     
-    (2) The Minister may from time to time appoint as official assessors for the purposes of this Act persons employed in a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][340] or within a Crown entity as defined in the [Public Finance Act 1989][341], for the purpose of carrying out routine examinations of animal material and products for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act.
+    (2) The Minister may from time to time appoint as official assessors for the purposes of this Act persons employed in a State enterprise within the meaning of the [State-Owned Enterprises Act 1986][340] or in a Crown entity as defined in the [Public Finance Act 1989][341], for the purpose of carrying out routine examinations of animal material and products for the purposes of this Act, and particularly for the purpose of enabling official assurances to be given under this Act.
     
     (3) An official assessor may be authorised, on his or her appointment, to exercise all of the powers and functions conferred on official assessors under this Act, or only those powers and functions specified in the assessor's instrument of appointment or subsequent written notice from the Director-General to the assessor.
     
@@ -4966,7 +4966,7 @@ Offences, penalties, and proceedings
     
     *   (bc) being a dual operator butcher, kills an animal that is homekill or recreational catch at any premises or place where regulated animal product is processed or traded; or
     
-    *   (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of [Parts 2 to 4][15] (except as permitted by [sections 67(2)(b)(ii)][100], [68(2)(b)(ii)][101], and [69][102]; or
+    *   (c) sells or attempts to sell any animal material or product for human or animal consumption that was processed as homekill or recreational catch product and not in accordance with the requirements of [Parts 2 to 4][15] (except as permitted by [sections 67(2)(b)(ii)][100], [68(2)(b)(ii)][101], and [69][102]); or
     
     *   (d) presents an animal to a homekill or recreational service provider for killing or processing as homekill when the person is not an owner of the animal who has been actively involved in the day-to-day maintenance of the animal, or of other animals of the same kind, for a period of at least 28 days immediately preceding the presentation of the animal.
     
@@ -5090,7 +5090,7 @@ Offences, penalties, and proceedings
             
         *   (i) [section 16(1)(c)][21] (ensuring operations under a programme are adequately implemented and resourced):
         
-        *   (ii) [section 16(1)(d)][21] (ensuring operations under programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
+        *   (ii) [section 16(1)(d)][21] (ensuring operations under a programme are commensurate with capability and capacity of premises or place, facilities, equipment, and staff, etc):
         
         *   (iii) [section 16(1)(e)][21] (giving recognised agencies and recognised persons appropriate freedom and access for their functions and activities):
         
