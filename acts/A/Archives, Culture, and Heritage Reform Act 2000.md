@@ -178,7 +178,7 @@ Transfer of obligations and functions, and other related matters
     
     (2) Every reference to the Secretary for Internal Affairs, when used in relation to the National Archives, is a reference to the chief executive of the responsible department.
     
-    (3) Every reference to the Secretary for Internal Affairs, when used in relation the Heritage Property Unit, Historical Branch of the Department of Internal Affairs, or the Dictionary of New Zealand Biography, is a reference to the chief executive of the responsible ministry.
+    (3) Every reference to the Secretary for Internal Affairs, when used in relation to the Heritage Property Unit, Historical Branch of the Department of Internal Affairs, or the Dictionary of New Zealand Biography, is a reference to the chief executive of the responsible ministry.
     
     Compare: 1998 No 96 [s 10][40]; 1999 No 82 [s 11][41]
 
