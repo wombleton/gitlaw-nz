@@ -20,19 +20,19 @@
   ],
   "author": "Rowan Crawford",
   "engines": {
-    "node": ">=0.10.17"
+    "node": ">=0.12.0"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "93370f17dc45677ff85d357230de5fd8d69a7520",
   "dependencies": {
-    "async": "~0.2.7",
-    "underscore": "~1.4.4",
-    "cheerio": "~0.10.8",
-    "request": "~2.16.6",
     "shagit": "0.0.1",
     "github-api": "^0.10.4",
     "babel": "^4.7.16",
-    "html-md": "^3.0.2"
+    "html-md": "^3.0.2",
+    "lodash": "^3.6.0",
+    "async": "^0.9.0",
+    "cheerio": "^0.19.0",
+    "request": "^2.54.0"
   }
 }
