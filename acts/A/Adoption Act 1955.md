@@ -141,7 +141,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _Commonwealth country_ means a country that is a member of the British Commonwealth of Nations; and includes every territory for whose international relations the Government of that country is responsible; and also includes the Republic of Ireland as if that country were a member of the British Commonwealth of Nations
     
-    _Commonwealth representative_ means an Ambassador, High Commissioner, Minister, ChargÃ© d'Affaires, Consular Officer, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Minister, or ChargÃ© d'Affaires
+    _Commonwealth representative_ means an Ambassador, High Commissioner, Minister, Chargé d'Affaires, Consular Officer, Trade Commissioner, or Tourist Commissioner of a Commonwealth country (including New Zealand); and includes any person lawfully acting for any such officer; and also includes any diplomatic secretary on the staff of any such Ambassador, High Commissioner, Minister, or Chargé d'Affaires
     
     _court_ means a Family Court or a District Court of civil jurisdiction; and includes the High Court acting in its jurisdiction on appeal under this Act
     
@@ -677,7 +677,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) for the purposes of any other deed or instrument (except a will) made before the commencement of this Act, or of the will or intestacy of any testator or intestate who died before the commencement of this Act, or of any vested or contingent right of the adopted child or any other person under any such deed, instrument, will, or intestacy, this section shall not apply, and the adoption order shall have effect for the purposes of the deed, instrument, will, or intestacy according to the law existing at the date on which the deed, instrument, will, or intestacy took effect:
     
-    *   (c) an adoption order made before 1 April 1954, shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
+    *   (c) an adoption order made before 1 April 1954 shall not affect the operation of any rule of Maori custom as to intestate succession to Maori land.
     
     (4) Subsection (2)(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992\.
     
@@ -993,7 +993,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 27 Offences
     
-*   (1) Every person commits an offence against this section who,---
+*   (1) Every person commits an offence against this section who---
         
     *   (a) places or receives or keeps any child in the home of any person for the purpose of adoption in contravention of [section 6][8]:
     
