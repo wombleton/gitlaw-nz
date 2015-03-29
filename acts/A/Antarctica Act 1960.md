@@ -51,7 +51,7 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 ---
 
-An Act to confer jurisdiction on the courts of New Zealand to deal with crimes committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
+An Act to confer jurisdiction on the courts of New Zealand to deal with offences committed in the Ross Dependency and certain other parts of Antarctica, and to restrict the jurisdiction of the courts in respect of acts or omissions in Antarctica of certain nationals of other countries
 
 ##### 1 Short Title and commencement
     
@@ -67,7 +67,7 @@ An Act to confer jurisdiction on the courts of New Zealand to deal with crimes c
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _Antarctica_ means the area south of 60° south latitude, including all ice shelves in that area
+    _Antarctica_ means the area south of 60� south latitude, including all ice shelves in that area
     
     _exchanged scientist_ means a person exchanged pursuant to subparagraph (b) of paragraph 1 of Article III of the Treaty (which relates to the exchange of scientific personnel between expeditions and stations in Antarctica)
     
@@ -230,7 +230,7 @@ Freedom of scientific investigation in Antarctica and cooperation toward that en
 
 ## Article VI
 
-The provisions of the present Treaty shall apply to the area south of 60° South Latitude, including all ice shelves, but nothing in the present Treaty shall prejudice or in any way affect the rights, or the exercise of the rights, of any State under international law with regard to the high seas within that area.
+The provisions of the present Treaty shall apply to the area south of 60� South Latitude, including all ice shelves, but nothing in the present Treaty shall prejudice or in any way affect the rights, or the exercise of the rights, of any State under international law with regard to the high seas within that area.
 
 ## Article VII
     
@@ -381,26 +381,26 @@ Agreed Measures for the Conservation of Antarctic Fauna and Flora
     
     In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
+    *   "omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   "typeface and type size (Times Roman, generally in 11.5 point)
+    *   "layout of provisions, including:
             
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
+        *   "indentation
+        *   "position of section headings (eg, the number and heading now appear above the section)
         
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
+    *   "format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   "format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   "position of the date of assent (it now appears on the front page of each Act)
+    *   "punctuation (eg, colons are not used after definitions)
+    *   "Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   "case and appearance of letters and words, including:
             
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
+        *   "format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   "small capital letters in section and subsection references are now capital letters
         
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    *   "schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   "running heads (the information that appears at the top of each page)
+    *   "format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
     
     
 
