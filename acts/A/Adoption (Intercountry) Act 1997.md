@@ -25,80 +25,80 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act binds the Crown][4]
+[3][4][][4][Act binds the Crown][4]
 
 [Part 1][5]  
 [Intercountry adoption][5]
 
-[4][6] [Convention to have force of law][6]
+[4][6][][6][Convention to have force of law][6]
 
-[5][7] [New Zealand Central Authority][7]
+[5][7][][7][New Zealand Central Authority][7]
 
-[6][8] [Delegation of functions][8]
+[6][8][][8][Delegation of functions][8]
 
-[7][9] [Chief executive must offer choice of report-writing service][9]
+[7][9][][9][Chief executive must offer choice of report-writing service][9]
 
-[8][10] [Authority for New Zealand accredited bodies to act overseas][10]
+[8][10][][10][Authority for New Zealand accredited bodies to act overseas][10]
 
-[9][11] [Authority for overseas accredited bodies to act in New Zealand][11]
+[9][11][][11][Authority for overseas accredited bodies to act in New Zealand][11]
 
-[10][12] [Approval of placement][12]
+[10][12][][12][Approval of placement][12]
 
-[11][13] [Recognition of Convention adoptions][13]
+[11][13][][13][Recognition of Convention adoptions][13]
 
-[12][14] [Termination of pre-existing legal parent-child relationships][14]
+[12][14][][14][Termination of pre-existing legal parent-child relationships][14]
 
-[13][15] [Access to information][15]
+[13][15][][15][Access to information][15]
 
-[14][16] [Certificate of Secretary of Foreign Affairs and Trade][16]
+[14][16][][16][Certificate of Secretary of Foreign Affairs and Trade][16]
 
 [Part 2][17]  
 [New Zealand accredited bodies][17]
 
-[15][18] [New Zealand accredited bodies][18]
+[15][18][][18][New Zealand accredited bodies][18]
 
-[16][19] [Application for accreditation][19]
+[16][19][][19][Application for accreditation][19]
 
-[17][20] [Grant of accreditation][20]
+[17][20][][20][Grant of accreditation][20]
 
-[18][21] [Declining of application for accreditation][21]
+[18][21][][21][Declining of application for accreditation][21]
 
-[19][22] [Suspension and revocation of accreditation][22]
+[19][22][][22][Suspension and revocation of accreditation][22]
 
-[20][23] [Appeals][23]
+[20][23][][23][Appeals][23]
 
-[21][24] [Accredited bodies to report annually][24]
+[21][24][][24][Accredited bodies to report annually][24]
 
-[22][25] [Assessment of accredited bodies][25]
+[22][25][][25][Assessment of accredited bodies][25]
 
-[23][26] [Change of principal officer to be notified][26]
+[23][26][][26][Change of principal officer to be notified][26]
 
 [Part 3][27]  
 [Miscellaneous provisions][27]
 
-[24][28] [Regulations][28]
+[24][28][][28][Regulations][28]
 
 [Amendments to Adoption Act 1955][29]
 
-[25][30] [Recognition of overseas adoptions][30]
+[25][30][][30][Recognition of overseas adoptions][30]
 
-[26][31] [Prohibition of payments][31]
+[26][31][][31][Prohibition of payments][31]
 
-[27][32] [Restriction upon advertisements][32]
+[27][32][][32][Restriction upon advertisements][32]
 
-[28][33] [Offences][33]
+[28][33][][33][Offences][33]
 
 [Amendments to Citizenship Act 1977][34]
 
-[29][35] [Special provisions relating to parentage][35]
+[29][35][][35][Special provisions relating to parentage][35]
 
 [Amendment to Births, Deaths, and Marriages Registration Act 1995][36]
 
-[30][37] [Registration of overseas adoptions][37]
+[30][37][][37][Registration of overseas adoptions][37]
 
 [Schedule][38]  
 [Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption][38]
@@ -160,7 +160,7 @@ Intercountry adoption
     
 *   (1) The chief executive is the New Zealand Central Authority for the purposes of the Convention.
     
-    (2) The chief executive has all the duties, may exercise all the powers, and must perform all the functions, that a Central Authority has under the Convention.
+    (2) The chief executive has all the duties, may exercise all the powers, and must perform all the functions that a Central Authority has under the Convention.
     
     (3) The chief executive may not be made subject to any order to pay costs relating to adoptions in relation to the exercise or performance, by the chief executive, of any of the chief executive's duties, powers, or functions as the New Zealand Central Authority.
     
@@ -970,26 +970,26 @@ Done at The Hague, on the ............. day of ............. 19...\*, in the Eng
     
     In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
+    *   "omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   "typeface and type size (Times Roman, generally in 11.5 point)
+    *   "layout of provisions, including:
             
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
+        *   "indentation
+        *   "position of section headings (eg, the number and heading now appear above the section)
         
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
+    *   "format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   "format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   "position of the date of assent (it now appears on the front page of each Act)
+    *   "punctuation (eg, colons are not used after definitions)
+    *   "Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   "case and appearance of letters and words, including:
             
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
+        *   "format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   "small capital letters in section and subsection references are now capital letters
         
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    *   "schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   "running heads (the information that appears at the top of each page)
+    *   "format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
     
     
 
