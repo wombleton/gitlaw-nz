@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2014
+as at 1 December 2014
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -373,13 +373,15 @@ An Act to constitute the Armed Forces Canteen Council, to provide for the establ
 
 ##### 15A Superannuation for staff
     
-*   (1) For the purpose of providing superannuation or retiring allowances for its employees (other than persons appointed under [section 6][8]), the Council may, out of the Fund, make payments to or subsidise any superannuation scheme which is registered under the [Superannuation Schemes Act 1989][37].
+*   (1) For the purpose of providing superannuation or retiring allowances for its employees (other than persons appointed under [section 6][8]), the Council may, out of the Fund, make payments to or subsidise any retirement scheme (within the meaning of [section 6(1)][37] of the Financial Markets Conduct Act 2013).
     
     (2) All payments made by the Council before the commencement of this section which would have been valid if this section had been in force when the payments were made are hereby validated and declared to have been lawfully made.
     
     Section 15A: inserted, on 23 November 1967, by section 2 of the Armed Forces Canteens Amendment Act 1967 (1967 No 59).
     
     Section 15A(1): replaced, on 1 April 1991, by [section 80][38] of the National Provident Fund Restructuring Act 1990 (1990 No 126).
+    
+    Section 15A(1): amended, on 1 December 2014, by [section 150][39] of the Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70).
 
 ##### 16 Exemption from taxes
     
@@ -413,15 +415,17 @@ An Act to constitute the Armed Forces Canteen Council, to provide for the establ
 
 ###### 2 Legal status
     
-*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][39] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][40] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][40] of the Legislation Act 2012 provides that this reprint, published in electronic form, has the status of an official version under [section 17][41] of that Act. A printed version of the reprint produced directly from this official electronic version also has official status.
 
 ###### 3 Editorial and format changes
     
-*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][41] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif).
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][42] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][43] ![](/images/external_link.gif).
 
 ###### 4 Amendments incorporated in this reprint
     
 *   Financial Reporting (Amendments to Other Enactments) Act 2013 (2013 No 102): [section 125][31]
+    
+    Financial Markets (Repeals and Amendments) Act 2013 (2013 No 70): [section 150][39]
     
     National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][38]
     
@@ -486,9 +490,10 @@ An Act to constitute the Armed Forces Canteen Council, to provide for the establ
 [34]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM167530
 [35]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM88548
 [36]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM206942
-[37]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM143291
+[37]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM4090590
 [38]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM226616
-[39]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998516
-[40]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998515
-[41]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998532
-[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[39]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM5561603
+[40]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998516
+[41]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998515
+[42]: http://www.legislation.govt.nz/act/public/1948/0051/latest/link.aspx?id=DLM2998532
+[43]: http://www.pco.parliament.govt.nz/editorial-conventions/
