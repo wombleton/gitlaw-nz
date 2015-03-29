@@ -401,13 +401,13 @@ An Act to give effect to the Convention on the Conservation of Antarctic Marine 
 
 ## Article I
     
-*   1\. This Convention applies to the Antarctic marine living resources of the area south of 60Âº South latitude and to the Antarctic marine living resources of the area between that latitude and the Antarctic Convergence which form part of the Antarctic marine ecosystem.
+*   1\. This Convention applies to the Antarctic marine living resources of the area south of 60º South latitude and to the Antarctic marine living resources of the area between that latitude and the Antarctic Convergence which form part of the Antarctic marine ecosystem.
 
 *   2\. Antarctic marine living resources means the populations of fin fish, molluscs, crustaceans and all other species of living organisms, including birds, found south of the Antarctic Convergence.
 
 *   3\. The Antarctic marine ecosystem means the complex of relationships of Antarctic marine living resources with each other and with their physical environment.
 
-*   4\. The Antarctic Convergence shall be deemed to be a line joining the following points along parallels of latitude and meridians of longitude: 50ÂºS, 0Âº; 50ÂºS, 30ÂºE; 45ÂºS, 30ÂºE; 45ÂºS, 80ÂºE; 55ÂºS, 80ÂºE; 55ÂºS, 150ÂºE; 60ÂºS, 150ÂºE; 60ÂºS, 50ÂºW; 50ÂºS, 50ÂºW; 50ÂºS, 0Âº.
+*   4\. The Antarctic Convergence shall be deemed to be a line joining the following points along parallels of latitude and meridians of longitude: 50ºS, 0º; 50ºS, 30ºE; 45ºS, 30ºE; 45ºS, 80ºE; 55ºS, 80ºE; 55ºS, 150ºE; 60ºS, 150ºE; 60ºS, 50ºW; 50ºS, 50ºW; 50ºS, 0º.
 
 ## Article II
     
@@ -813,26 +813,26 @@ IN WITNESS WHEREOF the undersigned, being duly authorized, have signed this Conv
     
     In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
-    *   â€¢omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   â€¢typeface and type size (Times Roman, generally in 11.5 point)
-    *   â€¢layout of provisions, including:
+    *   "omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   "typeface and type size (Times Roman, generally in 11.5 point)
+    *   "layout of provisions, including:
             
-        *   â€¢indentation
-        *   â€¢position of section headings (eg, the number and heading now appear above the section)
+        *   "indentation
+        *   "position of section headings (eg, the number and heading now appear above the section)
         
-    *   â€¢format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   â€¢format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   â€¢position of the date of assent (it now appears on the front page of each Act)
-    *   â€¢punctuation (eg, colons are not used after definitions)
-    *   â€¢Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   â€¢case and appearance of letters and words, including:
+    *   "format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   "format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   "position of the date of assent (it now appears on the front page of each Act)
+    *   "punctuation (eg, colons are not used after definitions)
+    *   "Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   "case and appearance of letters and words, including:
             
-        *   â€¢format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   â€¢small capital letters in section and subsection references are now capital letters
+        *   "format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   "small capital letters in section and subsection references are now capital letters
         
-    *   â€¢schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   â€¢running heads (the information that appears at the top of each page)
-    *   â€¢format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    *   "schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   "running heads (the information that appears at the top of each page)
+    *   "format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
     
     
 
