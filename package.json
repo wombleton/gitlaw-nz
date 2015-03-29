@@ -20,7 +20,7 @@
   ],
   "author": "Rowan Crawford",
   "engines": {
-      "node": ">=0.10.17"
+    "node": ">=0.10.17"
   },
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -32,6 +32,7 @@
     "request": "~2.16.6",
     "html-md": "~2.0.2",
     "shagit": "0.0.1",
-    "github-api": "~0.7.0"
+    "github-api": "^0.10.4",
+    "babel": "^4.7.16"
   }
 }
