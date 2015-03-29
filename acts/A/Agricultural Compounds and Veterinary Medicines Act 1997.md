@@ -766,7 +766,7 @@ Preliminary
         
     *   (a) prevent or manage risks associated with the use of agricultural compounds, being---
             
-        *   (ai) risks to public health; and
+        *   (ia) risks to public health; and
         
         *   (i) risks to trade in primary produce; and
         
@@ -780,7 +780,7 @@ Preliminary
     
     *   (c) ensure the provision of sufficient consumer information about agricultural compounds.
     
-    Section 4(a)(ai): inserted, on 18 October 2007, by [section 5][239] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
+    Section 4(a)(ia): inserted, on 18 October 2007, by [section 5][239] of the Agricultural Compounds and Veterinary Medicines Amendment Act 2007 (2007 No 93).
 
 ##### 4A Scheme of Act
     
