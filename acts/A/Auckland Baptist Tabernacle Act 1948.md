@@ -155,7 +155,7 @@ The Auckland Baptist Tabernacle Trust Board
     
     (3) All moneys, funds, and investments vested in the Trust Board by virtue of this Act which according to the books and accounts of the old board have prior to the passing of this Act been treated by the old board as income (but not including therein the moneys and investments referred to in the last preceding subsection) shall, by virtue of this Act, vest in the Trust Board as follows, namely---
         
-    *   (a) an amount thereof representing in value the sum of £10,000 shall vest in the Trust Board as capital; and
+    *   (a) an amount thereof representing in value the sum of �10,000 shall vest in the Trust Board as capital; and
     
     *   (b) the balance thereof shall vest in the Trust Board as income.
     
@@ -673,7 +673,7 @@ Rules governing the constitution, powers, and duties and proceedings of the Trus
 
 ##### 37 First meeting
     
-*   The first meeting of the Trustees shall be summoned by Samuel Barry (referred to in [Rule 2(ii)][38]) upon some day to be fixed by him within 3 months from the date of the passing of this Act, or, if he shall for any reason fail to do so, by any 2 Trustees. At this meeting the Trustees shall make all necessary arrangements for the general conduct of the affairs of the Trust Board and for the appointment of officers. The Trustees shall also appropriate such funds and investments to the value of £10,000 as they think fit as representing that portion of accumulated income derived by the old board which, by virtue of [section 12][16] of this Act, is to be received and dealt with by the Trust Board as capital.
+*   The first meeting of the Trustees shall be summoned by Samuel Barry (referred to in [Rule 2(ii)][38]) upon some day to be fixed by him within 3 months from the date of the passing of this Act, or, if he shall for any reason fail to do so, by any 2 Trustees. At this meeting the Trustees shall make all necessary arrangements for the general conduct of the affairs of the Trust Board and for the appointment of officers. The Trustees shall also appropriate such funds and investments to the value of �10,000 as they think fit as representing that portion of accumulated income derived by the old board which, by virtue of [section 12][16] of this Act, is to be received and dealt with by the Trust Board as capital.
 
 ##### 38 Chairman
     
@@ -791,26 +791,26 @@ All that piece of land, situated on the corner of Upper Queen Street and Karanga
     
     In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
+    *   "omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   "typeface and type size (Times Roman, generally in 11.5 point)
+    *   "layout of provisions, including:
             
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
+        *   "indentation
+        *   "position of section headings (eg, the number and heading now appear above the section)
         
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
+    *   "format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   "format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   "position of the date of assent (it now appears on the front page of each Act)
+    *   "punctuation (eg, colons are not used after definitions)
+    *   "Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   "case and appearance of letters and words, including:
             
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
+        *   "format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   "small capital letters in section and subsection references are now capital letters
         
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    *   "schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   "running heads (the information that appears at the top of each page)
+    *   "format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
     
     
 
