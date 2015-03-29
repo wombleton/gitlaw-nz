@@ -881,13 +881,13 @@ Purpose of Act, acknowledgements and apology, interpretation provisions, settlem
     
     *   (b) includes a proposed policy statement provided for in [Schedule 1][204] of the Resource Management Act 1991
     
-    _taonga tūturu_---
+    _taonga tkturu_---
         
     *   (a) has the meaning given to it in [section 2(1)][205] of the Protected Objects Act 1975; and
     
-    *   (b) includes ngā taonga tūturu (which has the meaning given to it in section 2(1) of that Act)
+    *   (b) includes ng taonga tkturu (which has the meaning given to it in section 2(1) of that Act)
     
-    _taonga tūturu protocol_ means a protocol issued by the Minister for Arts, Culture and Heritage under [section 21(1)(a)][36] that---
+    _taonga tkturu protocol_ means a protocol issued by the Minister for Arts, Culture and Heritage under [section 21(1)(a)][36] that---
         
     *   (a) sets out how the chief executive of the Ministry for Culture and Heritage will interact with the trustees in relation to the matters specified in that protocol; and
     
@@ -1272,7 +1272,7 @@ Cultural redress
     
     (2) The fisheries protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, assets or other property rights (including in respect of fish, aquatic life, and seaweed) held, managed, or administered under the Fisheries Act 1996, the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992, the Maori Commercial Aquaculture Claims Settlement Act 2004, the Maori Fisheries Act 2004, or the Te Arawa Lakes Settlement Act 2006\.
     
-    (3) The taonga tūturu protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, taonga tūturu.
+    (3) The taonga tkturu protocol does not have the effect of granting, creating, or providing evidence of an estate or interest in, or rights relating to, taonga tkturu.
 
 #### Noting of certain protocols
 
@@ -3000,11 +3000,11 @@ Commercial redress
     
 *   (1) In this subpart, _protected site_ means any area of land situated in licensed land or the MAF forest land that---
         
-    *   (a) is entered at any time on the New Zealand Heritage List/Rārangi Kōrero; and
+    *   (a) is entered at any time on the New Zealand Heritage List/Rrangi KMrero; and
     
     *   (b) is wahi tapu or a wahi tapu area.
     
-    (2) In subsection (1), _New Zealand Heritage List/Rārangi Kōrero_, _wahi tapu_, and _wahi tapu area_ have the meanings given to them in [section 6][226] of the Heritage New Zealand Pouhere Taonga Act 2014\.
+    (2) In subsection (1), _New Zealand Heritage List/Rrangi KMrero_, _wahi tapu_, and _wahi tapu area_ have the meanings given to them in [section 6][226] of the Heritage New Zealand Pouhere Taonga Act 2014\.
     
     Section 135(1)(a): replaced, on 20 May 2014, by [section 107][207] of the Heritage New Zealand Pouhere Taonga Act 2014 (2014 No 26).
     
