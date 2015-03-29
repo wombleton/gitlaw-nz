@@ -5,10 +5,10 @@ Date of assent20 October 1900
 ## Contents
 
 [Title][0]
-    
-*   [Preamble][1]
-    
-    \[Repealed\]
+
+* [Preamble][1]
+
+\[Repealed\]
 
 [1][2] [Short Title][2]
 
@@ -22,30 +22,30 @@ Date of assent20 October 1900
 ---
 
 An Act to enable the Mayor and Councillors of the Borough of Alexandra to use a Water-race and the Water thereof for Domestic, Irrigation, Agricultural, and Mining Purposes.
-    
-*   #### Preamble
-    
-    \[Repealed\]
-    
-    The preamble was repealed, as from 19 November 1907, by section [2][6] Statutes Repeal Act 1907 (1907 No 40).
+
+* #### Preamble
+
+\[Repealed\]
+
+The preamble was repealed, as from 19 November 1907, by section [2][6] Statutes Repeal Act 1907 (1907 No 40).
 
 BE IT THEREFORE ENACTED by the General Assembly of New Zealand in Parliament assembled, and by the authority of the same, as follows:---
 
 ##### 1 Short Title
-    
-*   The Short Title of this Act is ""The Alexandra Borough Race Enabling Act 1900\.""
+
+* The Short Title of this Act is ""The Alexandra Borough Race Enabling Act 1900\.""
 
 ##### 2 Corporation may use race for certain purposes
-    
-*   The water-race more particularly described in the license therefor set out in the Schedule hereto, may be used for all or any of the following purposes---namely, domestic, irrigation, agricultural, or mining---without in any way being liable to loss of priority, diminution in amount, cancellation, forfeiture, or surrender under or by virtue of the mining laws of New Zealand, and shall not be liable to forfeiture on the ground that the said water-race has not, prior to the coming into operation of this Act, been used for the purpose for which it was granted:
-    
-    Provided always that in all other respects the said race shall be held subject to the provisions of the mining laws of New Zealand under which the same is now held.
-    
-    This section was amended, as from 19 November 1907, by section [2][6] Statutes Repeal Act 1907 (1907 No 40) by omitting the words ""hereinbefore mentioned, and"".
+
+* The water-race more particularly described in the license therefor set out in the Schedule hereto, may be used for all or any of the following purposes---namely, domestic, irrigation, agricultural, or mining---without in any way being liable to loss of priority, diminution in amount, cancellation, forfeiture, or surrender under or by virtue of the mining laws of New Zealand, and shall not be liable to forfeiture on the ground that the said water-race has not, prior to the coming into operation of this Act, been used for the purpose for which it was granted:
+
+Provided always that in all other respects the said race shall be held subject to the provisions of the mining laws of New Zealand under which the same is now held.
+
+This section was amended, as from 19 November 1907, by section [2][6] Statutes Repeal Act 1907 (1907 No 40) by omitting the words ""hereinbefore mentioned, and"".
 
 ##### 3 Renewals
-    
-*   The provisions of section [two][3] hereof shall apply to all renewals of the said license.
+
+* The provisions of section [two][3] hereof shall apply to all renewals of the said license.
 
 ---
 
@@ -68,9 +68,7 @@ This license was issued by me at Alexandra in the Mining District of Otago.
 
 (LS)J Nugent Wood, Warden.
 
-*   The reference to ""$1"" was substituted, as from 10 July 1967, for a reference to ""10s."" pursuant to section [7(1)][7] of the Decimal Currency Act 1964 (1964 No 27).
-
-
+* The reference to ""$1"" was substituted, as from 10 July 1967, for a reference to ""10s."" pursuant to section [7(1)][7] of the Decimal Currency Act 1964 (1964 No 27).
 
 [0]: http://www.legislation.govt.nz/act/local/1900/0009/latest/whole.html#DLM27159
 [1]: http://www.legislation.govt.nz/act/local/1900/0009/latest/whole.html#DLM27160
