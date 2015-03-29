@@ -23,137 +23,137 @@ A general outline of these changes is set out in the notes at the end of this re
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
 [Part 1][3]  
 [Preliminary][3]
 
-[2][4] [Commencement][4]
+[2][4][][4][Commencement][4]
 
-[3][5] [Purpose][5]
+[3][5][][5][Purpose][5]
 
-[4][6] [Interpretation][6]
+[4][6][][6][Interpretation][6]
 
 [Part 2][7]  
 [Church Property Trustees][7]
 
-[5][8] [Church Property Trustees][8]
+[5][8][][8][Church Property Trustees][8]
 
-[6][9] [Function of Church Property Trustees][9]
+[6][9][][9][Function of Church Property Trustees][9]
 
-[7][10] [Powers of Church Property Trustees][10]
+[7][10][][10][Powers of Church Property Trustees][10]
 
-[8][11] [Membership of Church Property Trustees][11]
+[8][11][][11][Membership of Church Property Trustees][11]
 
-[9][12] [Church Property Trustees to comply with ecclesiastical laws][12]
+[9][12][][12][Church Property Trustees to comply with ecclesiastical laws][12]
 
-[10][13] [Financial records and accounts][13]
+[10][13][][13][Financial records and accounts][13]
 
-[11][14] [Members' liabilities and indemnities][14]
+[11][14][][14][Members' liabilities and indemnities][14]
 
-[12][15] [Protection for persons dealing with Church Property Trustees or appointed trustees][15]
+[12][15][][15][Protection for persons dealing with Church Property Trustees or appointed trustees][15]
 
-[13][16] [Further provisions applying to Church Property Trustees][16]
+[13][16][][16][Further provisions applying to Church Property Trustees][16]
 
 [Part 3][17]  
 [Trusts administered by Church Property Trustees and appointed trustees][17]
 
 [Bishopric estate][18]
 
-[14][19] [Church Property Trustees to hold Bishopric estate on trust][19]
+[14][19][][19][Church Property Trustees to hold Bishopric estate on trust][19]
 
-[15][20] [Primary trusts][20]
+[15][20][][20][Primary trusts][20]
 
-[16][21] [Secondary trusts][21]
+[16][21][][21][Secondary trusts][21]
 
 [Dean and Chapter estate][22]
 
-[17][23] [Church Property Trustees to hold Dean and Chapter estate on trust][23]
+[17][23][][23][Church Property Trustees to hold Dean and Chapter estate on trust][23]
 
-[18][24] [Primary trusts][24]
+[18][24][][24][Primary trusts][24]
 
-[19][25] [Secondary trusts][25]
+[19][25][][25][Secondary trusts][25]
 
 [Local endowments][26]
 
-[20][27] [Application][27]
+[20][27][][27][Application][27]
 
-[21][28] [Local endowments to be administered for benefit of particular parish][28]
+[21][28][][28][Local endowments to be administered for benefit of particular parish][28]
 
-[22][29] [Administration of glebe land][29]
+[22][29][][29][Administration of glebe land][29]
 
-[23][30] [Meaning of consent][30]
+[23][30][][30][Meaning of consent][30]
 
-[24][31] [Powers of appointed trustees][31]
+[24][31][][31][Powers of appointed trustees][31]
 
-[25][32] [Manner in which appointed trustees may make contracts][32]
+[25][32][][32][Manner in which appointed trustees may make contracts][32]
 
-[26][33] [Schedule 2 applies to appointed trustees][33]
+[26][33][][33][Schedule 2 applies to appointed trustees][33]
 
-[27][34] [Administration of newly constituted parishes][34]
+[27][34][][34][Administration of newly constituted parishes][34]
 
-[28][35] [Appointed trustees may transfer property to Church Property Trustees][35]
+[28][35][][35][Appointed trustees may transfer property to Church Property Trustees][35]
 
-[29][36] [Powers not to be exercised if inconsistent with trust deed][36]
+[29][36][][36][Powers not to be exercised if inconsistent with trust deed][36]
 
-[30][37] [Power to apply local endowments to general church purposes in other parts of diocese][37]
+[30][37][][37][Power to apply local endowments to general church purposes in other parts of diocese][37]
 
 [Part 4][38]  
 [Funds administered by Church Property Trustees][38]
 
-[31][39] [Power to establish investment funds][39]
+[31][39][][39][Power to establish investment funds][39]
 
-[32][40] [Amalgamated fixed interest fund][40]
+[32][40][][40][Amalgamated fixed interest fund][40]
 
-[33][41] [Transfer of trust funds to investment fund][41]
+[33][41][][41][Transfer of trust funds to investment fund][41]
 
-[34][42] [Church Property Trustees to make annual report on investments][42]
+[34][42][][42][Church Property Trustees to make annual report on investments][42]
 
-[35][43] [Donors and testators may exclude trust funds from investment fund][43]
+[35][43][][43][Donors and testators may exclude trust funds from investment fund][43]
 
-[36][44] [Church Property Trustees to maintain reserve fund][44]
+[36][44][][44][Church Property Trustees to maintain reserve fund][44]
 
-[37][45] [Investment of reserve fund and authority to lend for certain purposes][45]
+[37][45][][45][Investment of reserve fund and authority to lend for certain purposes][45]
 
 [Part 5][46]  
 [Cemeteries][46]
 
-[38][47] [Interpretation][47]
+[38][47][][47][Interpretation][47]
 
-[39][48] [Trustees to administer closed cemeteries][48]
+[39][48][][48][Trustees to administer closed cemeteries][48]
 
-[40][49] [Trustees' powers in respect of certain closed cemeteries][49]
+[40][49][][49][Trustees' powers in respect of certain closed cemeteries][49]
 
-[41][50] [Application of income from sites and reserves][50]
+[41][50][][50][Application of income from sites and reserves][50]
 
-[42][51] [Power to vary application of income][51]
+[42][51][][51][Power to vary application of income][51]
 
-[43][52] [Power to substitute reserve or site][52]
+[43][52][][52][Power to substitute reserve or site][52]
 
-[44][53] [Trustees' powers under this Part exercisable despite trusts][53]
+[44][53][][53][Trustees' powers under this Part exercisable despite trusts][53]
 
-[45][54] [Trustees to obtain consent of Synod to deal with site or reserve used as cemetery][54]
+[45][54][][54][Trustees to obtain consent of Synod to deal with site or reserve used as cemetery][54]
 
-[46][55] [Trustees' powers in respect of burial places in unused or closed cemeteries][55]
+[46][55][][55][Trustees' powers in respect of burial places in unused or closed cemeteries][55]
 
-[47][56] [Discharge of claims in respect of burial places][56]
+[47][56][][56][Discharge of claims in respect of burial places][56]
 
-[48][57] [Purchaser not required to inquire whether certain payments have been made][57]
+[48][57][][57][Purchaser not required to inquire whether certain payments have been made][57]
 
-[49][58] [Trustees may establish fund to maintain used parts of cemeteries][58]
+[49][58][][58][Trustees may establish fund to maintain used parts of cemeteries][58]
 
-[50][59] [Provisions of sections 11 and 12 apply to trustees][59]
+[50][59][][59][Provisions of sections 11 and 12 apply to trustees][59]
 
 [Part 6][60]  
 [Miscellaneous provisions][60]
 
-[51][61] [Power of Church Property Trustees to act together with other persons][61]
+[51][61][][61][Power of Church Property Trustees to act together with other persons][61]
 
-[52][62] [Variation of trusts under Anglican Church Trusts Act 1981][62]
+[52][62][][62][Variation of trusts under Anglican Church Trusts Act 1981][62]
 
-[53][63] [Costs and charges][63]
+[53][63][][63][Costs and charges][63]
 
-[54][64] [Repeals][64]
+[54][64][][64][Repeals][64]
 
 [Schedule 1][65]  
 [Powers of the Church Property Trustees][65]
@@ -1106,7 +1106,7 @@ Further provisions applying in respect of the Church Property Trustees
     
 *   (1) The chairperson of the Church Property Trustees may reserve for the decision of the Synod any matter raised for consideration by the Church Property Trustees.
     
-    (2) The Synod must not decide under subclause (1) to rescind or cancel any contract or agreement or any sale, mortgage, lease, or other disposition of any party of the property.
+    (2) The Synod must not decide under subclause (1) to rescind or cancel any contract or agreement or any sale, mortgage, lease, or other disposition of any part of the property.
 
 ##### 7 Method of entering into contracts and other obligations
     
@@ -1233,26 +1233,26 @@ Enactments repealed
     
     In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
         
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
+    *   "omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
+    *   "typeface and type size (Times Roman, generally in 11.5 point)
+    *   "layout of provisions, including:
             
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
+        *   "indentation
+        *   "position of section headings (eg, the number and heading now appear above the section)
         
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
+    *   "format of definitions (eg, the defined term now appears in bold type, without quotation marks)
+    *   "format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
+    *   "position of the date of assent (it now appears on the front page of each Act)
+    *   "punctuation (eg, colons are not used after definitions)
+    *   "Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
+    *   "case and appearance of letters and words, including:
             
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
+        *   "format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
+        *   "small capital letters in section and subsection references are now capital letters
         
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    *   "schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
+    *   "running heads (the information that appears at the top of each page)
+    *   "format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
     
     
 
