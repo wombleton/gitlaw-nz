@@ -665,7 +665,7 @@ This Act is administered by the Ministry of Defence.
 
 [168][313][][313][Manner in which sentences of imprisonment and detention are to be served][313]
 
-[169][314][][314][Committal, removal, release, etc, of servicemen serving imprisonment or detention][314]
+[169][314][][314][Committal, removal, release, etc, of members of the Armed Forces serving imprisonment or detention][314]
 
 [170][315][][315][Duty of prison managers, etc, to receive service prisoners][315]
 
@@ -675,7 +675,7 @@ This Act is administered by the Ministry of Defence.
 
 [173][318][][318][Imprisonment and detention of members of Armed Forces attached to other forces][318]
 
-[174][319][][319][Interim custody of serviceman serving imprisonment or detention][319]
+[174][319][][319][Interim custody of member of Armed Forces serving imprisonment or detention][319]
 
 [175][320][][320][Establishment and regulation of service prisons and detention quarters][320]
 
@@ -811,7 +811,7 @@ This Act is administered by the Ministry of Defence.
 
 [204][384][][384][Orders by convoy commanders and commanding officers of escorting ships][384]
 
-[Regulations and Defence Council Orders][385]
+[Regulations and Defence Force Orders][385]
 
 [205][386][][386][Regulations][386]
 
@@ -1029,7 +1029,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _member of the Court Martial_ means a Judge or a military member
     
-    _military member_, in relation to the Court Martial, means an officer or a warrant officer who is assigned by the Registrar of the Court Martial to be a member of that Court
+    _military member_, in relation to the Court Martial, means an officer or a warrant officer who is assigned by the Registrar of the Court Martial to be a member of that court
     
     _military tribunal_ means any of the following:
         
@@ -1948,7 +1948,7 @@ Jurisdiction
         
     *   (a) a reference to an offence that is substantially the same as another offence is a reference to an offence of which the accused could have been convicted, under this Act or otherwise, on the same facts:
     
-    *   (b) a reference to a person having been convicted by the Court Martial includes a reference to a person in respect of whom that Court found the charge proved but did not convict him or her:
+    *   (b) a reference to a person having been convicted by the Court Martial includes a reference to a person in respect of whom that court found the charge proved but did not convict him or her:
     
     *   (c) a reference to a person having been convicted by a competent court of ordinary criminal jurisdiction or by a court-martial or other military tribunal of the armed forces of another State includes a reference to a person in respect of whom that court, court-martial, or tribunal found the charge proved but did not convict him or her:
     
@@ -2797,7 +2797,7 @@ Offences
     
     (2) A person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 6 months.
     
-    (3) Despite subsection (2), if a person commits an offence against subsection (1)(e) to (i) in relation to the Court Martial, that Court may, by order of the Judge, sentence the person for the offence,---
+    (3) Despite subsection (2), if a person commits an offence against subsection (1)(e) to (i) in relation to the Court Martial, that court may, by order of the Judge, sentence the person for the offence,---
         
     *   (a) in the case of a convicted member of the Armed Forces,---
             
@@ -3565,7 +3565,7 @@ Arrest and search
         
     *   (a) if the property is not required as evidence in proceedings in respect of an offence against this Act, or if the Court Martial or, as the case may be, a disciplinary officer finds that the property was not used in the commission of any such offence, it shall be returned to the person from whose possession it was taken or to such other person as may lawfully be entitled to it:
     
-    *   (b) subject to [section 87][105] and except as provided in [section 52][62], any property found by the Court Martial or, as the case may be, a disciplinary officer to be used in the commission of an offence against this Act and appearing to that Court or officer to belong to the offender or to be in his possession with the consent of its owner shall, if the Court or officer so directs, be forfeited to the Crown; and in that event the Chief of Defence Force shall cause the property to be sold either by public auction or private contract, and, on the completion of any such sale, shall cause the proceeds of the sale to be paid into a Crown Bank Account:
+    *   (b) subject to [section 87][105] and except as provided in [section 52][62], any property found by the Court Martial or, as the case may be, a disciplinary officer to be used in the commission of an offence against this Act and appearing to that court or officer to belong to the offender or to be in his possession with the consent of its owner shall, if the Court or officer so directs, be forfeited to the Crown; and in that event the Chief of Defence Force shall cause the property to be sold either by public auction or private contract, and, on the completion of any such sale, shall cause the proceeds of the sale to be paid into a Crown Bank Account:
     
     provided that if it would, apart from this section, be unlawful to sell the property, or if it appears to the Chief of Defence Force that the property has no value, he shall cause it to be destroyed or to be otherwise disposed of in such manner as he thinks fit.
     
@@ -6341,7 +6341,7 @@ Provisions relating to the carrying out of punishments
     
     Section 168(3)(c): amended, on 1 July 2009, by [section 45(2)][519] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
-##### 169 Committal, removal, release, etc, of servicemen serving imprisonment or detention
+##### 169 Committal, removal, release, etc, of members of the Armed Forces serving imprisonment or detention
     
 *   (1) An order of a competent service authority shall be sufficient authority for the committal---
         
@@ -6379,6 +6379,8 @@ Provisions relating to the carrying out of punishments
     
     Compare: 1950 No 39 ss 71, 120; 1950 No 40 ss 71, 120; Naval Discipline Act 1957 ss 81(3), 84 (UK)
     
+    Section 169 heading: amended, on 1 April 1990, pursuant to [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
+    
     Section 169(1): substituted, on 1 December 1983, by section 14 of the Armed Forces Discipline Amendment Act 1980 (1980 No 37).
     
     Section 169(1)(a): amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
@@ -6401,7 +6403,7 @@ Provisions relating to the carrying out of punishments
     
     Section 169(4): amended, on 1 July 2009, by [section 46(2)(c)][521] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Seciton 169(4): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
+    Section 169(4): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
 ##### 170 Duty of prison managers, etc, to receive service prisoners
     
@@ -6501,11 +6503,13 @@ Provisions relating to the carrying out of punishments
     
     Section 173(2): amended, on 1 July 2009, by [section 49][525] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
-##### 174 Interim custody of serviceman serving imprisonment or detention
+##### 174 Interim custody of member of Armed Forces serving imprisonment or detention
     
 *   A service prisoner or a service detainee may, until he is delivered to the prison or service penal establishment in which he is to serve his sentence, be kept (whether in New Zealand or elsewhere) in service custody or in civil custody, or partly in service custody and partly in civil custody, and may, by order of a competent service authority, from time to time be transferred from service custody to civil custody, or from civil custody to service custody, as the occasion requires.
     
     Compare: 1950 No 39 s 70; 1950 No 40 s 70; Naval Discipline Act 1957 s 81(3) (UK)
+    
+    Section 174 heading: amended, on 1 April 1990, pursuant to [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
     
     Section 174: amended, on 1 June 2005, by [section 206][433] of the Corrections Act 2004 (2004 No 50).
 
@@ -7742,7 +7746,7 @@ Miscellaneous provisions
     
     Section 204(1): amended, on 1 April 1990, by [section 105(1)][426] of the Defence Act 1990 (1990 No 28).
 
-#### Regulations and Defence Council Orders
+#### Regulations and Defence Force Orders
 
 ##### 205 Regulations
     
