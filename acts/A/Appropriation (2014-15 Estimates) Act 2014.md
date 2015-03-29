@@ -242,7 +242,7 @@ Performing Arts Services20,656
 
 Promotion and Support of the Arts and Film21,090
 
-Protection of Taonga Tūturu79
+Protection of Taonga Tkturu79
 
 Public Broadcasting Services131,842
 
@@ -416,7 +416,7 @@ Impairment of Public Conservation Land50
 
 Loss on Disposal of Crown Property, Plant and Equipment2,525
 
-Mātauranga Māori Fund871
+Mtauranga Mori Fund871
 
 Payment of Rates on Properties for Concessionaires839
 
@@ -564,7 +564,7 @@ Implementation of Improvements in Public Sector Procurement and Services to Busi
 
 1/138 **Non-Departmental Output Expenses** 
 
-Māori and Pasifika Trades Training Consortia2,319
+Mori and Pasifika Trades Training Consortia2,319
 
 1/138 **Non-Departmental Other Expenses** 
 
@@ -972,7 +972,7 @@ National Emergency Services93,739
 
 National Health Information Systems12,409
 
-National Māori Health Services7,308
+National Mori Health Services7,308
 
 National Maternity Services147,166
 
@@ -1034,7 +1034,7 @@ Canterbury Earthquakes: Emergency and Temporary Accommodation3,150
 
 HNZC Housing Support Services15,494
 
-Kāinga Whenua Infrastructure Grant2,800
+Kinga Whenua Infrastructure Grant2,800
 
 Management of Crown Properties held under the Housing Act 19551,395
 
@@ -1048,7 +1048,7 @@ KiwiSaver Deposit Subsidy30,350
 
 Community Housing Rent Relief Programme4,104
 
-Rural and Māori Housing4,000
+Rural and Mori Housing4,000
 
 Unwind of Discount Rate used in the Present Value Calculation of Direct Payments under the Weathertight Homes Financial Assistance Package.3,215
 
@@ -1248,47 +1248,47 @@ Policy Advice and Related Services2,634
 
 Property Rights72,607
 
-**Māori Affairs** 8/132 **Departmental Output Expenses** 
+**Mori Affairs** 8/132 **Departmental Output Expenses** 
 
-Integrated Whānau Social Assistance6,600
+Integrated Whnau Social Assistance6,600
 
 Operations Management13,628
 
 Relationships and Information7,433
 
-Whānau Ora Administration5,585
+Whnau Ora Administration5,585
 
-Whānau Ora Commissioning Administration2,000
+Whnau Ora Commissioning Administration2,000
 
 8/133 **Non-Departmental Output Expenses** 
 
-Administration of Māori Broadcasting2,183
+Administration of Mori Broadcasting2,183
 
-Commissioning Whānau Ora Outcomes30,484
+Commissioning Whnau Ora Outcomes30,484
 
-Establishment of a Whānau Ora Commissioning Approach2,000
+Establishment of a Whnau Ora Commissioning Approach2,000
 
 Iwi Housing Support456
 
-Māori Radio Broadcasting13,744
+Mori Radio Broadcasting13,744
 
-Māori Television Broadcasting40,332
+Mori Television Broadcasting40,332
 
-Māori Television Channel16,611
+Mori Television Channel16,611
 
-Māori Trustee Functions10,347
+Mori Trustee Functions10,347
 
-Mātauranga (Knowledge)5,668
+Mtauranga (Knowledge)5,668
 
-Promotion of the Māori Language9,501
+Promotion of the Mori Language9,501
 
 Rawa (Resources)3,648
 
-Strengthening and Promoting Māori Tourism1,660
+Strengthening and Promoting Mori Tourism1,660
 
 Whakamana (Leadership)4,894
 
-Whānau Ora - Service Delivery Capability13,451
+Whnau Ora - Service Delivery Capability13,451
 
 8/134 **Benefits or Related Expenses** 
 
@@ -1298,27 +1298,27 @@ Rangatiratanga Grants480
 
 Administrative Expenses for Crown Land49
 
-Māori ICT Development Fund7,500
+Mori ICT Development Fund7,500
 
-Māori Language Research2,000
+Mori Language Research2,000
 
-Māori Registration Service626
+Mori Registration Service626
 
-Māori Wardens1,178
+Mori Wardens1,178
 
-Māori Women's Development Fund1,867
+Mori Women's Development Fund1,867
 
-Moving the Māori Nation - supporting Māori Culture and Sport2,500
+Moving the Mori Nation - supporting Mori Culture and Sport2,500
 
-NZ Māori Council196
+NZ Mori Council196
 
 Orakei Act 19917
 
 Te Ariki Trust21
 
-Te Pūtahi Paoho131
+Te Pktahi Paoho131
 
-Tūranganui-a-Kiwa Capacity Building500
+Tkranganui-a-Kiwa Capacity Building500
 
 Xin and Tane Stage Production1,000
 
@@ -1384,7 +1384,7 @@ Party and Member Support - Labour1,256
 
 Party and Member Support - Mana68
 
-Party and Member Support - Māori117
+Party and Member Support - Mori117
 
 Party and Member Support - National1,787
 
@@ -1570,7 +1570,7 @@ Repayable Grants for Start-Ups14,106
 
 Research Contract Management6,227
 
-Vision Mātauranga Capability Fund6,567
+Vision Mtauranga Capability Fund6,567
 
 2/119 **Non-Departmental Other Expenses** 
 
@@ -1584,7 +1584,7 @@ Genomics Research Infrastructure3,600
 
 International Relationships9,451
 
-Māori Innovation Fund2,000
+Mori Innovation Fund2,000
 
 National eScience Infrastructure7,182
 
@@ -2017,7 +2017,7 @@ Party and Member Support - Labour Term of the 51st Parliament 34,984
 
 Party and Member Support - Mana Term of the 51st Parliament 1,660
 
-Party and Member Support - Māori Term of the 51st Parliament 3,300
+Party and Member Support - Mori Term of the 51st Parliament 3,300
 
 Party and Member Support - National Term of the 51st Parliament 51,097
 
