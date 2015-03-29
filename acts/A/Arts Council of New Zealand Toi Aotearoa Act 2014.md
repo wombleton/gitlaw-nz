@@ -125,7 +125,7 @@ Preliminary provisions and provisions relating to Arts Council
         
     *   (a) recognise the cultural diversity of the people of New Zealand; and
     
-    *   (b) recognise in the arts the role of Māori as tangata whenua; and
+    *   (b) recognise in the arts the role of Mori as tangata whenua~ and
     
     *   (c) recognise the arts of the Pacific Island peoples of New Zealand; and
     
@@ -201,7 +201,7 @@ Preliminary provisions and provisions relating to Arts Council
     
     *   (c) allocate funding to projects for professional and community arts, including funding for---
             
-        *   (i) Māori arts; and
+        *   (i) Mori arts; and
         
         *   (ii) the arts of the Pacific Island peoples of New Zealand; and
         
@@ -229,7 +229,7 @@ Preliminary provisions and provisions relating to Arts Council
     
     (3) In establishing any assessment process under subsection (2)(c), the Arts Council must include---
         
-    *   (a) Māori in any assessment process relevant to Māori arts; and
+    *   (a) Mori in any assessment process relevant to Mori arts; and
     
     *   (b) Pacific Island people in any assessment process relevant to the arts of the Pacific Island peoples of New Zealand.
     
@@ -259,13 +259,13 @@ Preliminary provisions and provisions relating to Arts Council
     
     (3) In appointing the members, the Minister must have regard to the need for members to have among them a broad knowledge of arts practices, including knowledge of professional and community arts.
     
-    (4) At least 4 of the persons appointed as members of the Arts Council must be persons who, in the opinion of the Minister, after consultation with the Minister of Māori Affairs, are qualified for appointment, having regard to their knowledge of--- 
+    (4) At least 4 of the persons appointed as members of the Arts Council must be persons who, in the opinion of the Minister, after consultation with the Minister of Mori Affairs, are qualified for appointment, having regard to their knowledge of--- 
         
-    *   (a) te ao Māori (Māori world view); and
+    *   (a) te ao Mori (Mori world view); and
     
-    *   (b) tikanga Māori (Māori protocol and culture); and
+    *   (b) tikanga Mori (Mori protocol and culture); and
     
-    *   (c) Māori arts.
+    *   (c) Mori arts.
     
     (5) At least 2 of the persons appointed as members of the Arts Council must be persons who, in the opinion of the Minister after consultation with the Minister of Pacific Island Affairs, are qualified by their knowledge of the arts and of the traditions or cultures of the Pacific Island peoples of New Zealand. 
     
@@ -277,7 +277,7 @@ Preliminary provisions and provisions relating to Arts Council
     
     (2) The functions of that committee are---
         
-    *   (a) to give advice to the Arts Council on matters relevant to the functions of the Council in relation to Māori arts; and 
+    *   (a) to give advice to the Arts Council on matters relevant to the functions of the Council in relation to Mori arts; and 
     
     *   (b) any other functions that the Arts Council delegates to the committee. 
     
@@ -332,7 +332,7 @@ Community arts providers
     
     (2) The Arts Council may designate a body as a community arts provider if the Arts Council is satisfied that---
         
-    *   (a) the body complies with any guidelines set by the Council for community arts providers; and
+    *   (a) the body complies with any guidelines set by the Council for community arts providers~ and
     
     *   (b) the body represents, in relation to the arts, either a specific geographical area or a defined community of interest.
     
